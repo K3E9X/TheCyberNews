@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Evil Corporate Threat Briefing</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        color-scheme: dark;
+        --bg: #05060a;
+        --surface: rgba(14, 17, 24, 0.75);
+        --border: rgba(148, 163, 184, 0.18);
+        --accent: #7c5cff;
+        --accent-soft: rgba(124, 92, 255, 0.15);
+        --text: #f1f5f9;
+        --muted: #94a3b8;
+        font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        padding: 3rem 1.5rem 4rem;
+        background:
+          radial-gradient(120% 120% at 90% -10%, rgba(124, 92, 255, 0.35) 0%, rgba(5, 6, 10, 0) 60%),
+          radial-gradient(100% 100% at -20% 0%, rgba(14, 165, 233, 0.18) 0%, rgba(5, 6, 10, 0) 55%),
+          var(--bg);
+        color: var(--text);
+      }
+      main {
+        width: min(920px, 100%);
+        backdrop-filter: blur(22px);
+        background: linear-gradient(145deg, rgba(12, 15, 22, 0.85), rgba(7, 9, 14, 0.65));
+        border: 1px solid var(--border);
+        border-radius: 28px;
+        padding: clamp(2.5rem, 5vw, 3.5rem);
+        box-shadow: 0 40px 90px -60px rgba(15, 23, 42, 0.85);
+      }
+      header {
+        display: flex;
+        flex-direction: column;
+        gap: 0.75rem;
+        margin-bottom: clamp(2rem, 6vw, 3rem);
+      }
+      .eyebrow {
+        font-size: 0.85rem;
+        text-transform: uppercase;
+        letter-spacing: 0.4em;
+        color: var(--muted);
+        opacity: 0.8;
+      }
+      h1 {
+        margin: 0;
+        font-size: clamp(2.75rem, 5vw, 3.75rem);
+        letter-spacing: -0.03em;
+      }
+      p {
+        margin: 0;
+        color: var(--muted);
+        line-height: 1.7;
+      }
+      .placeholder {
+        border: 1px solid var(--border);
+        border-radius: 20px;
+        padding: clamp(2rem, 5vw, 2.75rem);
+        text-align: left;
+        background: linear-gradient(160deg, rgba(124, 92, 255, 0.08), rgba(14, 17, 24, 0.5));
+        position: relative;
+        overflow: hidden;
+      }
+      .placeholder::after {
+        content: "";
+        position: absolute;
+        inset: 1px;
+        border-radius: 18px;
+        border: 1px dashed rgba(148, 163, 184, 0.35);
+        pointer-events: none;
+      }
+      .placeholder p {
+        max-width: 520px;
+      }
+      code {
+        font-family: "JetBrains Mono", "Fira Code", ui-monospace, SFMono-Regular, Menlo, monospace;
+        font-size: 0.95rem;
+        color: var(--text);
+        background: rgba(15, 23, 42, 0.6);
+        padding: 0.15rem 0.45rem;
+        border-radius: 999px;
+        border: 1px solid rgba(148, 163, 184, 0.12);
+      }
+      footer {
+        margin-top: clamp(2.5rem, 7vw, 3.5rem);
+        text-align: center;
+        color: var(--muted);
+        font-size: 0.9rem;
+        opacity: 0.85;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <span class="eyebrow">Evil Corporate</span>
+        <h1>Evil Corporate Threat Briefing</h1>
+        <p>
+          Autonomous daily digest of the most recent cybersecurity incidents,
+          advisories, and research. This placeholder page will be replaced once
+          the automated workflow runs.
+        </p>
+      </header>
+      <section class="placeholder">
+        <p>
+          Run <code>python scripts/update_news.py</code> locally or allow the
+          scheduled GitHub Actions workflow to populate the latest briefings.
+        </p>
+      </section>
+      <footer>
+        <p>
+          Built by the Evil Corporate news agent. Configure feed sources via the
+          <code>NEWS_AGENT_FEEDS</code> environment variable. Summaries powered by
+          OpenAI when the <code>OPENAI_API_KEY</code> secret is available.
+        </p>
+      </footer>
+    </main>
+  </body>
+</html>
