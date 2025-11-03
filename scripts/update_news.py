@@ -55,6 +55,7 @@ class NewsItem:
     source: str
     summary: str = ""
     categories: List[str] = field(default_factory=list)
+    image: str = ""
 
     @property
     def published_iso(self) -> str:
@@ -91,6 +92,7 @@ class NewsCache:
             "published": item.published_iso,
             "source": item.source,
             "categories": item.categories,
+            "image": item.image,
         }
 
 
@@ -297,6 +299,36 @@ def _write_commit_message(brief: DailyBrief) -> None:
     COMMIT_MESSAGE_FILE.write_text(message)
 
 
+def extract_image_from_entry(entry) -> str:
+    """Extract image URL from RSS entry using multiple methods."""
+    # Try media:content (common in RSS feeds)
+    if hasattr(entry, "media_content") and entry.media_content:
+        for media in entry.media_content:
+            if media.get("medium") == "image" or media.get("type", "").startswith("image/"):
+                return media.get("url", "")
+
+    # Try media:thumbnail
+    if hasattr(entry, "media_thumbnail") and entry.media_thumbnail:
+        return entry.media_thumbnail[0].get("url", "")
+
+    # Try enclosures (podcasts/attachments)
+    if hasattr(entry, "enclosures") and entry.enclosures:
+        for enclosure in entry.enclosures:
+            if enclosure.get("type", "").startswith("image/"):
+                return enclosure.get("href", "")
+
+    # Try looking for images in content/summary HTML
+    import re
+    content = entry.get("content", [{}])[0].get("value", "") if entry.get("content") else entry.get("summary", "")
+    if content:
+        # Look for img tags
+        img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', content, re.IGNORECASE)
+        if img_match:
+            return img_match.group(1)
+
+    return ""
+
+
 def parse_entry(entry, source: str) -> Optional[NewsItem]:
     published_parsed = entry.get("published_parsed") or entry.get("updated_parsed")
     if not published_parsed:
@@ -304,6 +336,8 @@ def parse_entry(entry, source: str) -> Optional[NewsItem]:
     published = dt.datetime(*published_parsed[:6], tzinfo=dt.timezone.utc)
     summary = entry.get("summary", "")
     categories = [tag.get("term", "") for tag in entry.get("tags", []) if tag.get("term")]
+    image = extract_image_from_entry(entry)
+
     return NewsItem(
         title=entry.get("title", "Untitled"),
         link=entry.get("link", ""),
@@ -311,6 +345,7 @@ def parse_entry(entry, source: str) -> Optional[NewsItem]:
         source=source,
         summary=summary,
         categories=categories,
+        image=image,
     )
 
 
@@ -334,6 +369,7 @@ def summarise_news(items: List[NewsItem], cache: NewsCache, summariser: Summaris
         if cached:
             item.summary = cached.get("summary", "")
             item.categories = cached.get("categories", [])
+            item.image = cached.get("image", item.image)
         else:
             item.summary = summariser.summarise(item)
             cache.set(item.link, item)

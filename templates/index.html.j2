@@ -108,10 +108,10 @@
         border-radius: 24px;
         border: 1px solid var(--border);
         background: linear-gradient(160deg, rgba(12, 16, 24, 0.95), rgba(10, 12, 18, 0.7));
-        padding: clamp(1.75rem, 4vw, 2.25rem);
+        padding: 0;
         display: flex;
         flex-direction: column;
-        gap: 1.25rem;
+        overflow: hidden;
         box-shadow: 0 26px 60px -50px rgba(15, 23, 42, 0.95);
         transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
       }
@@ -124,6 +124,7 @@
         opacity: 0;
         transition: opacity 0.2s ease;
         pointer-events: none;
+        z-index: 1;
       }
       article:hover {
         transform: translateY(-6px);
@@ -132,6 +133,49 @@
       }
       article:hover::before {
         opacity: 1;
+      }
+      .article-image {
+        position: relative;
+        width: 100%;
+        height: 200px;
+        overflow: hidden;
+        background: linear-gradient(135deg, rgba(124, 92, 255, 0.15), rgba(14, 165, 233, 0.15));
+      }
+      .article-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.3s ease, filter 0.3s ease;
+      }
+      article:hover .article-image img {
+        transform: scale(1.05);
+        filter: brightness(1.1);
+      }
+      .image-overlay {
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(180deg, transparent 0%, rgba(5, 6, 10, 0.85) 100%);
+        pointer-events: none;
+      }
+      .article-image-fallback {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: linear-gradient(135deg, rgba(124, 92, 255, 0.08), rgba(14, 165, 233, 0.08));
+      }
+      .fallback-icon {
+        color: rgba(124, 92, 255, 0.4);
+        transition: transform 0.3s ease, color 0.3s ease;
+      }
+      article:hover .fallback-icon {
+        transform: scale(1.1) rotate(5deg);
+        color: rgba(124, 92, 255, 0.6);
+      }
+      .article-content {
+        padding: clamp(1.75rem, 4vw, 2.25rem);
+        display: flex;
+        flex-direction: column;
+        gap: 1.25rem;
       }
       .meta {
         display: flex;
@@ -236,32 +280,55 @@
       <section class="grid">
         {% for item in items %}
         <article>
-          <header>
+          {% if item.image %}
+          <div class="article-image">
             <a href="{{ item.link }}" target="_blank" rel="noopener">
-              <h2>{{ item.title }}</h2>
+              <img src="{{ item.image }}" alt="{{ item.title }}" loading="lazy" />
+              <div class="image-overlay"></div>
             </a>
-          </header>
-          <div class="meta">
-            <span>{{ item.source }}</span>
-            <span>{{ item.published_human }}</span>
-            {% if item.categories %}
-            <span>{{ item.categories | join(", ") }}</span>
-            {% endif %}
           </div>
-          <div class="summary">
-            {% if "\n-" in item.summary %}
-            <ul>
-              {% for line in item.summary.splitlines() if line.strip() %}
-              {% if line.startswith("-") %}
-              <li>{{ line[1:].strip() }}</li>
-              {% elif line.lower().startswith("risk") %}
-              <li><strong>{{ line }}</strong></li>
+          {% else %}
+          <div class="article-image article-image-fallback">
+            <a href="{{ item.link }}" target="_blank" rel="noopener">
+              <div class="fallback-icon">
+                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path d="M12 2L2 7l10 5 10-5-10-5z"/>
+                  <path d="M2 17l10 5 10-5"/>
+                  <path d="M2 12l10 5 10-5"/>
+                </svg>
+              </div>
+              <div class="image-overlay"></div>
+            </a>
+          </div>
+          {% endif %}
+          <div class="article-content">
+            <header>
+              <a href="{{ item.link }}" target="_blank" rel="noopener">
+                <h2>{{ item.title }}</h2>
+              </a>
+            </header>
+            <div class="meta">
+              <span>{{ item.source }}</span>
+              <span>{{ item.published_human }}</span>
+              {% if item.categories %}
+              <span>{{ item.categories | join(", ") }}</span>
               {% endif %}
-              {% endfor %}
-            </ul>
-            {% else %}
-            <p>{{ item.summary }}</p>
-            {% endif %}
+            </div>
+            <div class="summary">
+              {% if "\n-" in item.summary %}
+              <ul>
+                {% for line in item.summary.splitlines() if line.strip() %}
+                {% if line.startswith("-") %}
+                <li>{{ line[1:].strip() }}</li>
+                {% elif line.lower().startswith("risk") %}
+                <li><strong>{{ line }}</strong></li>
+                {% endif %}
+                {% endfor %}
+              </ul>
+              {% else %}
+              <p>{{ item.summary }}</p>
+              {% endif %}
+            </div>
           </div>
         </article>
         {% endfor %}
