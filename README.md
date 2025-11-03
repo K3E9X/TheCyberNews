@@ -1,6 +1,6 @@
 # CyberNews – Autonomous Cybersecurity Briefings
 
-> **📰 [Voir les news cybersécurité en direct](https://k3e9x.github.io/CyberNews/)**
+> **📰 [OPEN ME](https://k3e9x.github.io/CyberNews/)**
 
 
 <img width="1075" height="759" alt="image" src="https://github.com/user-attachments/assets/ba946e56-b688-497e-9c73-42b680aadc69" />
