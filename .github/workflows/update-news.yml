@@ -56,17 +56,7 @@ jobs:
       - name: Extract commit message
         if: steps.changes.outputs.has_changes == 'true'
         id: commitmsg
-        run: |
-          commit_msg=$(cat data/commit_message.txt 2>/dev/null || echo "chore: refresh cybersecurity brief")
-          title=$(printf '%s' "$commit_msg" | head -n1)
-          {
-            echo "message<<'EOF'"
-            echo "$commit_msg"
-            echo "EOF"
-            echo "title<<'EOF'"
-            echo "$title"
-            echo "EOF"
-          } >> "$GITHUB_OUTPUT"
+        run: python scripts/extract_commit_msg.py
 
       - name: Build pull request body
         if: steps.changes.outputs.has_changes == 'true'
