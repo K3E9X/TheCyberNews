@@ -1,5 +1,7 @@
 # Evil Corporate – Autonomous Cybersecurity Briefings
 
+> **📰 [Voir les news cybersécurité en direct sur la page](https://k3e9x.github.io/CyberGeneratedNews/)**
+
 Evil Corporate is an autonomous workflow that collects the latest cybersecurity
 headlines, lets an LLM agent reason over them, and publishes a dark, minimalist
 brief on GitHub Pages – end to end with no manual touch.
@@ -8,12 +10,13 @@ brief on GitHub Pages – end to end with no manual touch.
 
 - Fetches from a curated list of well-known cybersecurity RSS feeds.
 - Summaries generated via OpenAI (or a deterministic fallback when the API key
-  is not configured).
+  is not configured) - **works without API key!**
 - LLM-powered **Briefing Composer** produces an executive headline, narrative,
   key themes, and action items every run, persisting memory between cycles.
 - Agent state, cache, rendered site, and even commit messages are written back
   automatically for a fully self-updating public page.
 - Ships with a scheduled GitHub Actions workflow for daily updates.
+- **100% autonomous** - no manual intervention required after setup.
 
 ## Project structure
 
@@ -63,14 +66,14 @@ Open the generated site locally or serve it with any static host.
 A workflow is included under `.github/workflows/update-news.yml`. To enable it:
 
 1. Push this repository to GitHub.
-2. In the repository settings, configure the following secrets:
-   - `OPENAI_API_KEY`: your OpenAI API key (optional but recommended).
+2. **(Optional)** In the repository settings, configure the following secrets:
+   - `OPENAI_API_KEY`: your OpenAI API key - **Optional!** Works without it using basic summaries.
    - `PAT_PUSH_TOKEN`: a Personal Access Token with `contents: write` scope if
      you need to push from GitHub Actions. The default `GITHUB_TOKEN` is
      sufficient for most setups.
    - `NEWS_AGENT_FEEDS`: (optional) comma-separated list of RSS/Atom feeds to
      override the defaults.
-3. Enable GitHub Pages to serve the `docs/` folder.
+3. Enable GitHub Pages to serve the `docs/` folder from the `main` branch.
 
 The workflow runs every day at 07:00 UTC. It installs dependencies, executes the
 update script, stages the regenerated artefacts, and opens a brand-new pull
