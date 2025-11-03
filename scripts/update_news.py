@@ -230,7 +230,7 @@ class BriefingComposer:
         ]
 
         system_prompt = (
-            "You are Evil Corporate's fully autonomous cyber threat intelligence agent. "
+            "You are CyberNews's fully autonomous cyber threat intelligence agent. "
             "Synthesise the supplied incidents into a concise daily briefing ready for "
             "executive publication on a public GitHub Pages site. Always respond as "
             "valid JSON matching the provided schema."

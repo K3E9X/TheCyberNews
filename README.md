@@ -1,8 +1,8 @@
-# Evil Corporate – Autonomous Cybersecurity Briefings
+# CyberNews – Autonomous Cybersecurity Briefings
 
 > **📰 [Voir les news cybersécurité en direct sur la page](https://k3e9x.github.io/CyberGeneratedNews/)**
 
-Evil Corporate is an autonomous workflow that collects the latest cybersecurity
+CyberNews is an autonomous workflow that collects the latest cybersecurity
 headlines, lets an LLM agent reason over them, and publishes a dark, minimalist
 brief on GitHub Pages – end to end with no manual touch.
 

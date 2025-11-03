@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Evil Corporate Threat Briefing</title>
+    <title>CyberNews Threat Briefing</title>
     <style>
       :root {
         color-scheme: dark;
@@ -190,7 +190,7 @@
   <body>
     <main>
       <header>
-        <span class="eyebrow">Evil Corporate</span>
+        <span class="eyebrow">CyberNews</span>
         <h1>{{ daily_brief.headline }}</h1>
         <p>{{ daily_brief.narrative }}</p>
         <div class="brief-grid">
@@ -230,7 +230,7 @@
         </div>
         <p>
           Generated on <strong>{{ generated_at.strftime("%d %B %Y %H:%M UTC") }}</strong>
-          by the autonomous Evil Corporate LLM agent.
+          by the autonomous CyberNews LLM agent.
         </p>
       </header>
       <section class="grid">
@@ -268,7 +268,7 @@
       </section>
       <footer>
         <p>
-          Built by the Evil Corporate news agent. Configure feed sources via the
+          Built by the CyberNews news agent. Configure feed sources via the
           <code>NEWS_AGENT_FEEDS</code> environment variable. Summaries powered by
           OpenAI when the <code>OPENAI_API_KEY</code> secret is available.
         </p>
