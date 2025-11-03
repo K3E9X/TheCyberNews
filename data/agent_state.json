@@ -1,9 +1,16 @@
 {
+  "last_generated_at": "2025-11-03T10:06:14.623674+00:00",
   "latest_brief": {
+    "action_items": [
+      "Review the highlighted incidents and evaluate exposure.",
+      "Share the briefing with the blue team."
+    ],
     "headline": "Autonomous cybersecurity briefing",
-    "narrative": "The agent will craft a full narrative after the first successful automation run.",
-    "key_themes": [],
-    "action_items": []
-  },
-  "last_generated_at": null
+    "key_themes": [
+      "BleepingComputer",
+      "BleepingComputer",
+      "BleepingComputer"
+    ],
+    "narrative": "The agent summarised the latest publicly available cybersecurity stories and refreshed the site automatically. Configure an OPENAI_API_KEY to enable narrative insights."
+  }
 }

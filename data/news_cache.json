@@ -1,1 +1,243 @@
-{}
+{
+  "https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html": {
+    "categories": [],
+    "published": "2025-10-31T03:37:00+00:00",
+    "source": "The Hacker News",
+    "summary": "A New Security Layer for macOS Takes Aim at Admin Errors Before Hackers Do A design firm is editing a new campaign video on a MacBook Pro. The creative director opens a collaboration app that quietly requests microphone and camera permissions. MacOS is supposed to flag that, but \u2026",
+    "title": "A New Security Layer for macOS Takes Aim at Admin Errors Before Hackers Do"
+  },
+  "https://thehackernews.com/2025/10/china-linked-hackers-exploit-windows.html": {
+    "categories": [],
+    "published": "2025-10-31T13:57:00+00:00",
+    "source": "The Hacker News",
+    "summary": "China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats A China-affiliated threat actor known as UNC6384 has been linked to a fresh set of attacks exploiting an unpatched Windows shortcut vulnerability to target European diplomatic and government entities \u2026",
+    "title": "China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats"
+  },
+  "https://thehackernews.com/2025/10/china-linked-tick-group-exploits.html": {
+    "categories": [],
+    "published": "2025-10-31T13:26:00+00:00",
+    "source": "The Hacker News",
+    "summary": "China-Linked Tick Group Exploits Lanscope Zero-Day to Hijack Corporate Systems The exploitation of a recently disclosed critical security flaw in Motex Lanscope Endpoint Manager has been attributed to a cyber espionage group known as Tick.\nThe vulnerability, tracked as CVE-2025-6\u2026",
+    "title": "China-Linked Tick Group Exploits Lanscope Zero-Day to Hijack Corporate Systems"
+  },
+  "https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html": {
+    "categories": [],
+    "published": "2025-10-31T08:46:00+00:00",
+    "source": "The Hacker News",
+    "summary": "CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and National Security Agency (NSA), along with international partners from Australia and Canada, have released guidance to harden on-p\u2026",
+    "title": "CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers"
+  },
+  "https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html": {
+    "categories": [],
+    "published": "2025-10-31T07:09:00+00:00",
+    "source": "The Hacker News",
+    "summary": "CISA Flags VMware Zero-Day Exploited by China-Linked Hackers in Active Attacks The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting Broadcom VMware Tools and VMware Aria Operations to its Known Exploited Vulner\u2026",
+    "title": "CISA Flags VMware Zero-Day Exploited by China-Linked Hackers in Active Attacks"
+  },
+  "https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html": {
+    "categories": [],
+    "published": "2025-10-31T08:02:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Eclipse Foundation Revokes Leaked Open VSX Tokens Following Wiz Discovery Eclipse Foundation, which maintains the open-source Open VSX project, said it has taken steps to revoke a small number of tokens that were leaked within Visual Studio Code (VS Code) extensions published in \u2026",
+    "title": "Eclipse Foundation Revokes Leaked Open VSX Tokens Following Wiz Discovery"
+  },
+  "https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html": {
+    "categories": [],
+    "published": "2025-10-31T16:08:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack A suspected nation-state threat actor has been linked to the distribution of a new malware called Airstalk as part of a likely supply chain attack.\nPalo Alto Networks Unit 42 said it's tracking the \u2026",
+    "title": "Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack"
+  },
+  "https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html": {
+    "categories": [],
+    "published": "2025-10-31T17:19:00+00:00",
+    "source": "The Hacker News",
+    "summary": "OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically OpenAI has announced the launch of an \"agentic security researcher\" that's powered by its GPT-5 large language model (LLM) and is programmed to emulate a human expert capable of scanning, understan\u2026",
+    "title": "OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically"
+  },
+  "https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html": {
+    "categories": [],
+    "published": "2025-10-31T11:30:00+00:00",
+    "source": "The Hacker News",
+    "summary": "The MSP Cybersecurity Readiness Guide: Turning Security into Growth MSPs are facing rising client expectations for strong cybersecurity and compliance outcomes, while threats grow more complex and regulatory demands evolve. Meanwhile, clients are increasingly seeking comprehensiv\u2026",
+    "title": "The MSP Cybersecurity Readiness Guide: Turning Security into Growth"
+  },
+  "https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html": {
+    "categories": [],
+    "published": "2025-11-01T13:43:00+00:00",
+    "source": "The Hacker News",
+    "summary": "ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability The Australian Signals Directorate (ASD) has issued a bulletin about ongoing cyber attacks targeting unpatched Cisco IOS XE devices in the country with a previously undocumented implant known as BADCANDY.\u2026",
+    "title": "ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-going-meta-route-as-it-considers-memory-based-ads-on-chatgpt/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "published": "2025-11-01T20:00:00+00:00",
+    "source": "BleepingComputer",
+    "summary": "OpenAI is going Meta route, as it considers memory-based ads on ChatGPT OpenAI is planning to introduce ads on ChatGPT, as it continues to struggle with revenue from paid users. [...]",
+    "title": "OpenAI is going Meta route, as it considers memory-based ads on ChatGPT"
+  },
+  "https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/": {
+    "categories": [
+      "Google",
+      "Technology"
+    ],
+    "published": "2025-11-01T16:56:00+00:00",
+    "source": "BleepingComputer",
+    "summary": "Google confirms AI search will have ads, but they may look different Google Ads are not going anywhere. Eventually,\u00a0AI Search results on Google and likely other properties will have ads. [...]",
+    "title": "Google confirms AI search will have ads, but they may look different"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-gets-scareware-sensor-for-faster-scam-detection/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "published": "2025-10-31T17:15:06+00:00",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Edge gets scareware sensor for faster scam detection Microsoft is introducing a new scareware sensor for the Microsoft Edge web browser, which helps detect scam pages more quickly and ensures that Defender SmartScreen blocks them faster. [...]",
+    "title": "Microsoft Edge gets scareware sensor for faster scam detection"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "published": "2025-11-01T16:17:22+00:00",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 Build 26220.7051 released with \u201cAsk Copilot\u201d feature Windows 11 Build\u00a026220.7051 is now rolling out to testers in the Windows Insider Program, and there are at least three new features, including Ask Copilot in the taskbar. [...]",
+    "title": "Windows 11 Build 26220.7051 released with \u201cAsk Copilot\u201d feature"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-shared-bluetooth-audio-support-but-only-for-ai-pcs/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "published": "2025-10-31T20:59:02+00:00",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 tests shared Bluetooth audio support, but only for AI PCs If you have two headphones, speakers, earbuds, or any other Bluetooth hardware, you can now use both simultaneously on a Copilot+ PC. [...]",
+    "title": "Windows 11 tests shared Bluetooth audio support, but only for AI PCs"
+  },
+  "https://www.bleepingcomputer.com/news/security/alleged-meduza-stealer-malware-admins-arrested-after-hacking-russian-org/": {
+    "categories": [
+      "Security"
+    ],
+    "published": "2025-10-31T13:45:17+00:00",
+    "source": "BleepingComputer",
+    "summary": "Alleged Meduza Stealer malware admins arrested after hacking Russian org The Russian authorities have arrested three individuals in Moscow who are\u00a0believed to be the creators and operators of the Meduza Stealer information-stealing\u00a0malware. [...]",
+    "title": "Alleged Meduza Stealer malware admins arrested after hacking Russian org"
+  },
+  "https://www.bleepingcomputer.com/news/security/australia-warns-of-badcandy-infections-on-unpatched-cisco-devices/": {
+    "categories": [
+      "Security"
+    ],
+    "published": "2025-10-31T15:38:55+00:00",
+    "source": "BleepingComputer",
+    "summary": "Australia warns of BadCandy infections on unpatched Cisco devices The Australian government is warning about ongoing cyberattacks against unpatched Cisco IOS XE devices in the country to infect routers with the BadCandy webshell. [...]",
+    "title": "Australia warns of BadCandy infections on unpatched Cisco devices"
+  },
+  "https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "published": "2025-11-01T14:16:26+00:00",
+    "source": "BleepingComputer",
+    "summary": "China-linked hackers exploited Lanscope flaw as a zero-day in attacks China-linked cyber-espionage actors tracked as 'Bronze Butler' (Tick) exploited a Motex Lanscope Endpoint Manager vulnerability as a zero-day to deploy an updated version of their Gokcpdoor malware. [...]",
+    "title": "China-linked hackers exploited Lanscope flaw as a zero-day in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-linux-privilege-escalation-flaw-now-exploited-in-ransomware-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "published": "2025-10-31T13:05:49+00:00",
+    "source": "BleepingComputer",
+    "summary": "CISA: High-severity Linux flaw now exploited by ransomware gangs CISA confirmed on Thursday that a high-severity privilege escalation flaw in the Linux kernel is now being exploited in ransomware attacks. [...]",
+    "title": "CISA: High-severity Linux flaw now exploited by ransomware gangs"
+  },
+  "https://www.bleepingcomputer.com/news/security/offensive-we-got-hacked-emails-sent-in-penn-security-incident/": {
+    "categories": [
+      "Security"
+    ],
+    "published": "2025-10-31T18:32:39+00:00",
+    "source": "BleepingComputer",
+    "summary": "\u2018We got hacked\u2019 emails threaten to leak University of Pennsylvania data The University of Pennsylvania suffered a cybersecurity incident on Friday, where students and alumni received a series of offensive emails from various University email addresses, claiming that data was stol\u2026",
+    "title": "\u2018We got hacked\u2019 emails threaten to leak University of Pennsylvania data"
+  },
+  "https://www.bleepingcomputer.com/news/security/open-vsx-rotates-tokens-used-in-supply-chain-malware-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "published": "2025-11-02T15:09:19+00:00",
+    "source": "BleepingComputer",
+    "summary": "Open VSX rotates access tokens used in supply-chain malware attack The Open VSX registry rotated access tokens after they were accidentally leaked by developers in public repositories and allowed threat actors to publish malicious extensions in an attempted supply-chain attack. [\u2026",
+    "title": "Open VSX rotates access tokens used in supply-chain malware attack"
+  },
+  "https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-hacker-claims-1.2-million-donor-data-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "published": "2025-11-02T22:07:14+00:00",
+    "source": "BleepingComputer",
+    "summary": "Penn hacker claims to have stolen 1.2 million donor records in data breach A hacker has taken responsibility for last week's University of Pennsylvania \"We got hacked\" email incident, saying it was a far more extensive breach that exposed data on 1.2 million donors and internal d\u2026",
+    "title": "Penn hacker claims to have stolen 1.2 million donor records in data breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/why-password-controls-still-matter-in-cybersecurity/": {
+    "categories": [
+      "Security"
+    ],
+    "published": "2025-10-31T14:02:12+00:00",
+    "source": "BleepingComputer",
+    "summary": "Why password controls still matter in cybersecurity Passwords still matter \u2014 and weak policies leave the door wide open. Specops Software explains how longer passphrases, smarter banned-password lists, and adaptive rotation strategies can strengthen security without frustrating u\u2026",
+    "title": "Why password controls still matter in cybersecurity"
+  },
+  "https://www.darkreading.com/cyber-risk/cybers-role-rapid-rise-digital-authoritarianism": {
+    "categories": [],
+    "published": "2025-10-31T09:00:00+00:00",
+    "source": "darkreading",
+    "summary": "Dark Reading Confidential: Cyber's Role in the Rapid Rise of Digital Authoritarianism Dark Reading Confidential Episode 11: Enterprise cyber teams are in prime position to push back against our current &quot;Golden Age of Surveillance,&quot; according to our guests Ronald Deibert\u2026",
+    "title": "Dark Reading Confidential: Cyber's Role in the Rapid Rise of Digital Authoritarianism"
+  },
+  "https://www.darkreading.com/cyber-risk/zombie-projects-rise-again-undermine-security": {
+    "categories": [],
+    "published": "2025-10-30T23:36:51+00:00",
+    "source": "darkreading",
+    "summary": "Zombie Projects Rise Again to Undermine Security Companies left them for dead, but the remnants of old infrastructure and failed projects continue to haunt businesses' security teams.",
+    "title": "Zombie Projects Rise Again to Undermine Security"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ribbon-communications-breach-latest-telecom-attack": {
+    "categories": [],
+    "published": "2025-10-31T19:47:26+00:00",
+    "source": "darkreading",
+    "summary": "Ribbon Communications Breach Marks Latest Telecom Attack The US telecom company disclosed that suspected nation-state actors first gained access to its network in December of last year, though it's unclear if attackers obtained sensitive data.",
+    "title": "Ribbon Communications Breach Marks Latest Telecom Attack"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/unc6384-european-diplomat-windows": {
+    "categories": [],
+    "published": "2025-10-31T20:07:58+00:00",
+    "source": "darkreading",
+    "summary": "UNC6384 Targets European Diplomatic Entities With Windows Exploit The spear-phishing campaign uses fake European Commission and NATO-themed lures to trick diplomatic personnel into clicking malicious links.",
+    "title": "UNC6384 Targets European Diplomatic Entities With Windows Exploit"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/us-refuses-sign-un-cybercrime-treaty": {
+    "categories": [],
+    "published": "2025-10-30T20:51:33+00:00",
+    "source": "darkreading",
+    "summary": "US Stands Out in Refusal to Sign UN Cybercrime Treaty The agreement aims to help law enforcement prosecute cross-border cybercrime, but the final treaty could allow unchecked surveillance and human-rights abuses, critics say; and, it includes no protection for pen testers.",
+    "title": "US Stands Out in Refusal to Sign UN Cybercrime Treaty"
+  },
+  "https://www.darkreading.com/ics-ot-security/claroty-patches-authentication-bypass-flaw": {
+    "categories": [],
+    "published": "2025-10-30T20:29:51+00:00",
+    "source": "darkreading",
+    "summary": "Critical Claroty Authentication Bypass Flaw Opened OT to Attack CVE-2025-54603 gave attackers an opening to disrupt critical operational technology (OT) environments and critical infrastructure, plus steal data from them.",
+    "title": "Critical Claroty Authentication Bypass Flaw Opened OT to Attack"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/18-year-old-codebase-left-smart-buildings-wide-open": {
+    "categories": [],
+    "published": "2025-10-30T21:37:43+00:00",
+    "source": "darkreading",
+    "summary": "An 18-Year-Old Codebase Left Smart Buildings Wide Open Researcher Gjoko Krstic\u2019s &quot;Project Brainfog&quot; exposed hundreds of zero-day vulnerabilities in building-automation systems still running hospitals, schools, and offices worldwide.",
+    "title": "An 18-Year-Old Codebase Left Smart Buildings Wide Open"
+  }
+}
