@@ -37,6 +37,8 @@ DEFAULT_FEEDS = [
 
 SUMMARY_MODEL = os.getenv("NEWS_AGENT_MODEL", "gpt-4o-mini")
 CACHE_FILE = DATA_DIR / "news_cache.json"
+STATE_FILE = DATA_DIR / "agent_state.json"
+COMMIT_MESSAGE_FILE = DATA_DIR / "commit_message.txt"
 
 
 def _ensure_directories() -> None:
@@ -133,6 +135,168 @@ class Summariser:
         return response.output_text.strip()
 
 
+@dataclass
+class DailyBrief:
+    headline: str
+    narrative: str
+    key_themes: List[str]
+    action_items: List[str]
+
+    def to_dict(self) -> dict:
+        return {
+            "headline": self.headline,
+            "narrative": self.narrative,
+            "key_themes": self.key_themes,
+            "action_items": self.action_items,
+        }
+
+    @classmethod
+    def from_dict(cls, data: dict) -> "DailyBrief":
+        return cls(
+            headline=data.get("headline", ""),
+            narrative=data.get("narrative", ""),
+            key_themes=list(data.get("key_themes", [])),
+            action_items=list(data.get("action_items", [])),
+        )
+
+
+class AgentState:
+    def __init__(self, path: Path) -> None:
+        self.path = path
+        self.data: dict = {}
+        self._load()
+
+    def _load(self) -> None:
+        if self.path.exists():
+            try:
+                self.data = json.loads(self.path.read_text())
+            except json.JSONDecodeError:
+                self.data = {}
+
+    def save(self) -> None:
+        self.path.write_text(json.dumps(self.data, indent=2, sort_keys=True))
+
+    def previous_brief(self) -> Optional[DailyBrief]:
+        latest = self.data.get("latest_brief")
+        if not latest:
+            return None
+        try:
+            return DailyBrief.from_dict(latest)
+        except Exception:
+            return None
+
+    def update_brief(self, brief: DailyBrief) -> None:
+        self.data["latest_brief"] = brief.to_dict()
+        self.data["last_generated_at"] = dt.datetime.now(dt.timezone.utc).isoformat()
+        self.save()
+
+
+class BriefingComposer:
+    def __init__(self, model: str = SUMMARY_MODEL) -> None:
+        self.model = model
+        api_key = os.getenv("OPENAI_API_KEY")
+        if api_key and OpenAI is not None:
+            self.client: Optional[OpenAI] = OpenAI()
+        else:
+            self.client = None
+
+    def compose(self, items: List[NewsItem], previous: Optional[DailyBrief]) -> DailyBrief:
+        fallback = DailyBrief(
+            headline="Autonomous cybersecurity briefing",
+            narrative=(
+                "The agent summarised the latest publicly available cybersecurity "
+                "stories and refreshed the site automatically. Configure an "
+                "OPENAI_API_KEY to enable narrative insights."
+            ),
+            key_themes=[item.source for item in items[:3]] if items else [],
+            action_items=[
+                "Review the highlighted incidents and evaluate exposure.",
+                "Share the briefing with the blue team.",
+            ],
+        )
+
+        if not self.client or not items:
+            return fallback
+
+        condensed_items = [
+            {
+                "title": item.title,
+                "summary": item.summary,
+                "published": item.published_iso,
+                "source": item.source,
+                "categories": item.categories,
+            }
+            for item in items
+        ]
+
+        system_prompt = (
+            "You are Evil Corporate's fully autonomous cyber threat intelligence agent. "
+            "Synthesise the supplied incidents into a concise daily briefing ready for "
+            "executive publication on a public GitHub Pages site. Always respond as "
+            "valid JSON matching the provided schema."
+        )
+
+        previous_context = previous.to_dict() if previous else None
+
+        user_payload = {
+            "incidents": condensed_items,
+            "previous_brief": previous_context,
+        }
+
+        response = self.client.responses.create(
+            model=self.model,
+            input=[
+                {
+                    "role": "system",
+                    "content": system_prompt,
+                },
+                {
+                    "role": "user",
+                    "content": json.dumps(user_payload),
+                },
+            ],
+            response_format={
+                "type": "json_schema",
+                "json_schema": {
+                    "name": "daily_brief",
+                    "schema": {
+                        "type": "object",
+                        "properties": {
+                            "headline": {"type": "string"},
+                            "narrative": {"type": "string"},
+                            "key_themes": {
+                                "type": "array",
+                                "items": {"type": "string"},
+                            },
+                            "action_items": {
+                                "type": "array",
+                                "items": {"type": "string"},
+                            },
+                        },
+                        "required": [
+                            "headline",
+                            "narrative",
+                            "key_themes",
+                            "action_items",
+                        ],
+                        "additionalProperties": False,
+                    },
+                },
+            },
+        )
+
+        try:
+            payload = json.loads(response.output_text)
+            return DailyBrief.from_dict(payload)
+        except (json.JSONDecodeError, TypeError, ValueError):
+            return fallback
+
+
+def _write_commit_message(brief: DailyBrief) -> None:
+    message = f"auto: {brief.headline.strip() or 'refresh cybersecurity brief'}"
+    COMMIT_MESSAGE_FILE.write_text(message)
+
+
 def parse_entry(entry, source: str) -> Optional[NewsItem]:
     published_parsed = entry.get("published_parsed") or entry.get("updated_parsed")
     if not published_parsed:
@@ -178,7 +342,11 @@ def summarise_news(items: List[NewsItem], cache: NewsCache, summariser: Summaris
     return results
 
 
-def render_site(items: List[NewsItem]) -> None:
+def render_site(
+    items: List[NewsItem],
+    brief: DailyBrief,
+    previous: Optional[DailyBrief],
+) -> None:
     env = Environment(
         loader=FileSystemLoader(TEMPLATE_DIR),
         autoescape=select_autoescape(["html", "xml"]),
@@ -187,6 +355,8 @@ def render_site(items: List[NewsItem]) -> None:
     content = template.render(
         generated_at=dt.datetime.now(dt.timezone.utc),
         items=items,
+        daily_brief=brief,
+        previous_brief=previous,
     )
     (SITE_DIR / "index.html").write_text(content, encoding="utf-8")
 
@@ -197,11 +367,17 @@ def main() -> None:
     feeds = [feed.strip() for feed in feeds_env.split(",") if feed.strip()] if feeds_env else DEFAULT_FEEDS
     cache = NewsCache(CACHE_FILE)
     summariser = Summariser()
+    composer = BriefingComposer()
+    state = AgentState(STATE_FILE)
+    previous_brief = state.previous_brief()
     items = fetch_news(feeds)
     # Keep only the most recent 30 items to avoid unbounded growth.
     items = items[:30]
     items = summarise_news(items, cache, summariser)
-    render_site(items)
+    brief = composer.compose(items, previous_brief)
+    state.update_brief(brief)
+    render_site(items, brief, previous_brief)
+    _write_commit_message(brief)
 
 
 if __name__ == "__main__":

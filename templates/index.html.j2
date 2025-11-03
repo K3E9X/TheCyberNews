@@ -45,7 +45,7 @@
         padding: clamp(2.5rem, 5vw, 3.25rem);
         display: flex;
         flex-direction: column;
-        gap: 0.85rem;
+        gap: clamp(1.25rem, 3vw, 1.75rem);
         box-shadow: 0 40px 90px -60px rgba(15, 23, 42, 0.85);
       }
       .eyebrow {
@@ -64,6 +64,39 @@
         margin: 0;
         color: var(--muted);
         line-height: 1.75;
+      }
+      .brief-grid {
+        display: grid;
+        gap: clamp(1.5rem, 3vw, 2rem);
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      }
+      .panel {
+        border-radius: 22px;
+        border: 1px solid rgba(148, 163, 184, 0.22);
+        background: linear-gradient(160deg, rgba(11, 15, 22, 0.85), rgba(8, 10, 16, 0.6));
+        padding: clamp(1.5rem, 3vw, 2rem);
+        display: flex;
+        flex-direction: column;
+        gap: 0.85rem;
+      }
+      .panel h3 {
+        margin: 0;
+        font-size: 1rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--muted);
+      }
+      .panel ul {
+        padding-left: 1.1rem;
+      }
+      .panel li {
+        font-size: 0.95rem;
+      }
+      .previous-brief {
+        font-size: 0.9rem;
+        display: grid;
+        gap: 0.5rem;
+        color: var(--muted);
       }
       .grid {
         display: grid;
@@ -158,11 +191,46 @@
     <main>
       <header>
         <span class="eyebrow">Evil Corporate</span>
-        <h1>Evil Corporate Threat Briefing</h1>
+        <h1>{{ daily_brief.headline }}</h1>
+        <p>{{ daily_brief.narrative }}</p>
+        <div class="brief-grid">
+          <div class="panel">
+            <h3>Key themes</h3>
+            <ul>
+              {% if daily_brief.key_themes %}
+              {% for theme in daily_brief.key_themes %}
+              <li>{{ theme }}</li>
+              {% endfor %}
+              {% else %}
+              <li>The agent will populate themes after the first automated run.</li>
+              {% endif %}
+            </ul>
+          </div>
+          <div class="panel">
+            <h3>Action items</h3>
+            <ul>
+              {% if daily_brief.action_items %}
+              {% for item in daily_brief.action_items %}
+              <li>{{ item }}</li>
+              {% endfor %}
+              {% else %}
+              <li>Enable the workflow to receive tailored follow-up tasks.</li>
+              {% endif %}
+            </ul>
+          </div>
+          {% if previous_brief %}
+          <div class="panel">
+            <h3>Agent memory</h3>
+            <div class="previous-brief">
+              <strong>Previous headline:</strong>
+              <span>{{ previous_brief.headline }}</span>
+            </div>
+          </div>
+          {% endif %}
+        </div>
         <p>
-          Autonomous daily digest of the most recent cybersecurity incidents,
-          advisories, and research. Generated on
-          <strong>{{ generated_at.strftime("%d %B %Y %H:%M UTC") }}</strong>.
+          Generated on <strong>{{ generated_at.strftime("%d %B %Y %H:%M UTC") }}</strong>
+          by the autonomous Evil Corporate LLM agent.
         </p>
       </header>
       <section class="grid">
