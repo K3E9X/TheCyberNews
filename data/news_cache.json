@@ -69,6 +69,38 @@
     "summary": "ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability The Australian Signals Directorate (ASD) has issued a bulletin about ongoing cyber attacks targeting unpatched Cisco IOS XE devices in the country with a previously undocumented implant known as BADCANDY.\u2026",
     "title": "ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability"
   },
+  "https://thehackernews.com/2025/11/new-httptroy-backdoor-poses-as-vpn.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuEYAYmymffrJslyjZDJpRu1vE-IbqbiurB5-rldIfgwDRWEeV8EpVqbWpZrVsKjw-LBAbl_b6Ao-TviGJigU85u3F8JI5kARLR9Vt4TL2QpJZolmnhl_v5KEKyJBzWqvGC9hVEla_UrX3YZblzOV3Ty1J4hCn3ULFJSxO3pszRKpflfwECdsSGs7Grzld/s1600/vpn-invoice.jpg",
+    "published": "2025-11-03T10:42:00+00:00",
+    "source": "The Hacker News",
+    "summary": "New HttpTroy Backdoor Poses as VPN Invoice in Targeted Cyberattack on South Korea The North Korea-linked threat actor known as Kimsuky has distributed a previously undocumented backdoor codenamed HttpTroy as part of a likely spear-phishing attack targeting a single victim in Sout\u2026",
+    "title": "New HttpTroy Backdoor Poses as VPN Invoice in Targeted Cyberattack on South Korea"
+  },
+  "https://thehackernews.com/2025/11/researchers-uncover-bankbot-ynrk-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Tt56UVzOmPmMb8bx8CdK2PZTnThikELcwApmVlEElJPqMdbGur-t2k_JEGRXo_sWqNkLG6TVRUUWKlMnhS_xQ4Tpzwp-CPqaEpn_n8PIEn11MyTpBmpsDDI8nEKBAeZ_NjWQ_hVPRjJHuSsc4xoZiG9II5fpf9mWE80YZd_-5-SDbHKtgoocG8I6qiBx/s1600/android.jpg",
+    "published": "2025-11-03T11:14:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Researchers Uncover BankBot-YNRK and DeliveryRAT Android Trojans Stealing Financial Data Cybersecurity researchers have shed light on two different Android trojans called BankBot-YNRK and DeliveryRAT that are capable of harvesting sensitive data from compromised devices.\nAccordin\u2026",
+    "title": "Researchers Uncover BankBot-YNRK and DeliveryRAT Android Trojans Stealing Financial Data"
+  },
+  "https://thehackernews.com/2025/11/the-evolution-of-soc-operations-how.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJ9mDhJ4SDGuA35c4k39ETwA8rFT03x3IsKZM37FHB4-uz_qMA4n2BfzZk_8UqkBuL-wA6NWx3i3f3CGin1cIF2JJI6n3xbX1T_FAeMJqkHJXoPVl4OqVgvQ_9OtnEWm8dIpev6_EkLTCpddCzFb4lixW4cfZGES7vhsivpUAFn1pHT6JqilriOZDAIQ/s1600/xmcyber.png",
+    "published": "2025-11-03T11:56:00+00:00",
+    "source": "The Hacker News",
+    "summary": "The Evolution of SOC Operations: How Continuous Exposure Management Transforms Security Operations Security Operations Centers (SOC) today are overwhelmed. Analysts handle thousands of alerts every day, spending much time chasing false positives and adjusting detection rules reac\u2026",
+    "title": "The Evolution of SOC Operations: How Continuous Exposure Management Transforms Security Operations"
+  },
+  "https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmxVKba9Dgqm0Z67Kl0gXQXbPMhT_CbvxnNMtnrhn5s0I5wZm8o0I3Dk60ddk0MoEngtBfkLe12knwd9jV8AV7YaVP6fYcy60zKhCu3PomuZ7ZJttgXYf4CL3db0WcIuBkrUKeQmtQNF_rPMhVDVeEYaEwo15yvQbsllKM6cPyXlu_60E2rkpauhfITDR/s1600/recap.jpg",
+    "published": "2025-11-03T12:56:00+00:00",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool & More Cyberattacks are getting smarter and harder to stop. This week, hackers used sneaky tools, tricked trusted systems, and quickly took advantage of new security problems\u2014some just hours after being\u2026",
+    "title": "\u26a1 Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool & More"
+  },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-going-meta-route-as-it-considers-memory-based-ads-on-chatgpt/": {
     "categories": [
       "Artificial Intelligence",
@@ -98,6 +130,16 @@
     "source": "BleepingComputer",
     "summary": "Microsoft Edge gets scareware sensor for faster scam detection Microsoft is introducing a new scareware sensor for the Microsoft Edge web browser, which helps detect scam pages more quickly and ensures that Defender SmartScreen blocks them faster. [...]",
     "title": "Microsoft Edge gets scareware sensor for faster scam detection"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-task-manager-wont-quit-after-kb5067036-update/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2025-11-03T10:12:47+00:00",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Windows Task Manager won\u2019t quit after KB5067036 update Microsoft has confirmed a known issue that is preventing users from quitting the Windows 11 Task Manager after installing the October 2025 optional update. [...]",
+    "title": "Microsoft: Windows Task Manager won\u2019t quit after KB5067036 update"
   },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/": {
     "categories": [
@@ -190,6 +232,14 @@
     "source": "BleepingComputer",
     "summary": "Why password controls still matter in cybersecurity Passwords still matter \u2014 and weak policies leave the door wide open. Specops Software explains how longer passphrases, smarter banned-password lists, and adaptive rotation strategies can strengthen security without frustrating u\u2026",
     "title": "Why password controls still matter in cybersecurity"
+  },
+  "https://www.darkreading.com/application-security/ai-code-security-checkpoints": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd24301d83151834e/6904f9a3dbd06d5d5df23a9c/checkpoint-Carmen_K_Sisson_Cloudybright-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-03T12:00:00+00:00",
+    "source": "darkreading",
+    "summary": "AI Developed Code: 5 Critical Security Checkpoints for Human Oversight To write secure code with LLMs developers must have the skills to use AI as a collaborative assistant rather than an autonomous tool, Madou argues.",
+    "title": "AI Developed Code: 5 Critical Security Checkpoints for Human Oversight"
   },
   "https://www.darkreading.com/cyber-risk/cybers-role-rapid-rise-digital-authoritarianism": {
     "categories": [],
