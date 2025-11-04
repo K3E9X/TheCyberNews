@@ -69,6 +69,30 @@
     "summary": "ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability The Australian Signals Directorate (ASD) has issued a bulletin about ongoing cyber attacks targeting unpatched Cisco IOS XE devices in the country with a previously undocumented implant known as BADCANDY.\u2026",
     "title": "ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability"
   },
+  "https://thehackernews.com/2025/11/cybercriminals-exploit-remote.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLbX8J0_0T47YXAz7Dd3-oMDVE4jIN0KXLb0QHkdJOWEk1wS2tdrwCXtpfTtDW1YHXbqE2HMyNm4L6QZc3cEKQDnDGBAtiZL6CUlj0G1rGy3-9MFgpov7t3u4CtYJbkk3UDi_05qp5ScoXOKcn3duBXop74yVHiPN2epcn7CpoKQOZjwtVBAjrHj79iPxx/s1600/hacking-trucks.jpg",
+    "published": "2025-11-03T13:18:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Cybercriminals Exploit Remote Monitoring Tools to Infiltrate Logistics and Freight Networks Bad actors are increasingly training their sights on trucking and logistics companies with an aim to infect them with remote monitoring and management (RMM) software for financial gain and\u2026",
+    "title": "Cybercriminals Exploit Remote Monitoring Tools to Infiltrate Logistics and Freight Networks"
+  },
+  "https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsNAYBUN0RQ2z5BWnN5wrHTjB-XMx0nYPvJ5PMwCjxNk6CVExZCv401_jX_vaktwnLz8B3owRjupOCNIH7s2lbATDXkpMWwounrKb1OaiINgihVNcp_Mc17Wt7y2-LJBiEOk04hyphenhyphen6WlNKg76W5-f3fx2SDPtSSHQSO5gPu0E4V5RmzDEH0WcdpmAzXG0iB/s1600/soladity.jpg",
+    "published": "2025-11-03T18:08:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Malicious VSX Extension \"SleepyDuck\" Uses Ethereum to Keep Its Command Server Alive Cybersecurity researchers have flagged a new malicious extension in the Open VSX registry that harbors a remote access trojan called SleepyDuck.\nAccording to Secure Annex's John Tuckner, the exten\u2026",
+    "title": "Malicious VSX Extension \"SleepyDuck\" Uses Ethereum to Keep Its Command Server Alive"
+  },
+  "https://thehackernews.com/2025/11/microsoft-detects-sesameop-backdoor.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyW72-Rg4bg2ntYrHhAcMLWcUMdg-0COcApiiLP4LsguHFgDgBVZmEh0EigMblA_-TZm9wKArXWY58AqupvM2vpr3anQXEGkmmAtw20_4WOO4qVL8ykulVPadSXRdZTyanhMeEKt-TPI5i5SGpUmjlNlAYEZUepDpzDujBAULaGbzuXSSzP5W6NsPofRXD/s1600/SesameOp-Malware.jpg",
+    "published": "2025-11-04T05:58:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Microsoft Detects \"SesameOp\" Backdoor Using OpenAI's API as a Stealth Command Channel Microsoft has disclosed details of a novel backdoor dubbed SesameOp that uses OpenAI Assistants Application Programming Interface (API) for command-and-control (C2) communications.\n\"Instead of r\u2026",
+    "title": "Microsoft Detects \"SesameOp\" Backdoor Using OpenAI's API as a Stealth Command Channel"
+  },
   "https://thehackernews.com/2025/11/new-httptroy-backdoor-poses-as-vpn.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuEYAYmymffrJslyjZDJpRu1vE-IbqbiurB5-rldIfgwDRWEeV8EpVqbWpZrVsKjw-LBAbl_b6Ao-TviGJigU85u3F8JI5kARLR9Vt4TL2QpJZolmnhl_v5KEKyJBzWqvGC9hVEla_UrX3YZblzOV3Ty1J4hCn3ULFJSxO3pszRKpflfwECdsSGs7Grzld/s1600/vpn-invoice.jpg",
@@ -111,6 +135,16 @@
     "summary": "OpenAI is going Meta route, as it considers memory-based ads on ChatGPT OpenAI is planning to introduce ads on ChatGPT, as it continues to struggle with revenue from paid users. [...]",
     "title": "OpenAI is going Meta route, as it considers memory-based ads on ChatGPT"
   },
+  "https://www.bleepingcomputer.com/news/cryptocurrency/hacker-steals-over-120-million-from-balancer-defi-crypto-protocol/": {
+    "categories": [
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2025-11-03T21:53:35+00:00",
+    "source": "BleepingComputer",
+    "summary": "Hacker steals over $120 million from Balancer DeFi crypto protocol The Balancer Protocol announced that hackers had targeted its v2 pools, with losses reportedly estimated to be more than $128 million. [...]",
+    "title": "Hacker steals over $120 million from Balancer DeFi crypto protocol"
+  },
   "https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/": {
     "categories": [
       "Google",
@@ -130,6 +164,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft Edge gets scareware sensor for faster scam detection Microsoft is introducing a new scareware sensor for the Microsoft Edge web browser, which helps detect scam pages more quickly and ensures that Defender SmartScreen blocks them faster. [...]",
     "title": "Microsoft Edge gets scareware sensor for faster scam detection"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-patch-for-wsus-flaw-disabled-windows-server-hotpatching/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-03T15:22:12+00:00",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Patch for WSUS flaw disabled Windows Server hotpatching An out-of-band (OOB) security update that patches an actively exploited Windows Server Update Service (WSUS) vulnerability has broken hotpatching on some Windows Server 2025 devices. [...]",
+    "title": "Microsoft: Patch for WSUS flaw disabled Windows Server hotpatching"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-task-manager-wont-quit-after-kb5067036-update/": {
     "categories": [
@@ -197,6 +242,47 @@
     "summary": "CISA: High-severity Linux flaw now exploited by ransomware gangs CISA confirmed on Thursday that a high-severity privilege escalation flaw in the Linux kernel is now being exploited in ransomware attacks. [...]",
     "title": "CISA: High-severity Linux flaw now exploited by ransomware gangs"
   },
+  "https://www.bleepingcomputer.com/news/security/fake-solidity-vscode-extension-on-open-vsx-backdoors-developers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-03T20:50:10+00:00",
+    "source": "BleepingComputer",
+    "summary": "Fake Solidity VSCode extension on Open VSX backdoors developers A remote access trojan\u00a0dubbed SleepyDuck, and disguised as the well-known Solidity extension in the Open VSX open-source registry, uses an Ethereum smart contract to\u00a0establish a communication channel with the attacke\u2026",
+    "title": "Fake Solidity VSCode extension on Open VSX backdoors developers"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-use-rmm-tools-to-breach-freighters-and-steal-cargo-shipments/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-03T16:46:40+00:00",
+    "source": "BleepingComputer",
+    "summary": "Hackers use RMM tools to breach freighters and steal cargo shipments Threat actors are targeting freight brokers and trucking carriers with malicious links and\u00a0emails to deploy remote monitoring and management tools (RMMs) that enable them to hijack cargo\u00a0and steal physical goods\u2026",
+    "title": "Hackers use RMM tools to breach freighters and steal cargo shipments"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-sesameop-malware-abuses-openai-assistants-api-in-attacks/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2025-11-03T18:35:15+00:00",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks Microsoft security researchers have discovered a new backdoor malware that uses the OpenAI Assistants API as a covert command-and-control channel. [...]",
+    "title": "Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/oauth-device-code-phishing-azure-vs-google-compared/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-03T15:11:21+00:00",
+    "source": "BleepingComputer",
+    "summary": "OAuth Device Code Phishing: Azure vs. Google Compared Device code phishing abuses the OAuth device flow, and Google and Azure produce strikingly different attack surfaces. Register for Huntress Labs' Live Hack to learn about attack techniques, defensive tactics, and get an Identi\u2026",
+    "title": "OAuth Device Code Phishing: Azure vs. Google Compared"
+  },
   "https://www.bleepingcomputer.com/news/security/offensive-we-got-hacked-emails-sent-in-penn-security-incident/": {
     "categories": [
       "Security"
@@ -223,6 +309,16 @@
     "source": "BleepingComputer",
     "summary": "Penn hacker claims to have stolen 1.2 million donor records in data breach A hacker has taken responsibility for last week's University of Pennsylvania \"We got hacked\" email incident, saying it was a far more extensive breach that exposed data on 1.2 million donors and internal d\u2026",
     "title": "Penn hacker claims to have stolen 1.2 million donor records in data breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-indicted-for-blackcat-ransomware-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-03T17:15:39+00:00",
+    "source": "BleepingComputer",
+    "summary": "US cybersecurity experts indicted for BlackCat ransomware attacks Three former employees of cybersecurity incident response companies DigitalMint and Sygnia have been indicted for allegedly hacking the networks of five U.S. companies in BlackCat (ALPHV) ransomware attacks between\u2026",
+    "title": "US cybersecurity experts indicted for BlackCat ransomware attacks"
   },
   "https://www.bleepingcomputer.com/news/security/why-password-controls-still-matter-in-cybersecurity/": {
     "categories": [
@@ -291,11 +387,35 @@
     "summary": "Critical Claroty Authentication Bypass Flaw Opened OT to Attack CVE-2025-54603 gave attackers an opening to disrupt critical operational technology (OT) environments and critical infrastructure, plus steal data from them.",
     "title": "Critical Claroty Authentication Bypass Flaw Opened OT to Attack"
   },
+  "https://www.darkreading.com/identity-access-management-security/hackers-weaponize-remote-tools-hijack-cargo-freight": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt62927dddef1dabcd/6908fd90af0e62449ed483b0/Hands_in_box_HA_Photos_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-03T19:01:15+00:00",
+    "source": "darkreading",
+    "summary": "Hackers Weaponize Remote Tools to Hijack Cargo Freight Researchers uncovered a new threat campaign in which attackers use RMM tools to steal physical cargo out of the supply chain.",
+    "title": "Hackers Weaponize Remote Tools to Hijack Cargo Freight"
+  },
   "https://www.darkreading.com/vulnerabilities-threats/18-year-old-codebase-left-smart-buildings-wide-open": {
     "categories": [],
     "published": "2025-10-30T21:37:43+00:00",
     "source": "darkreading",
     "summary": "An 18-Year-Old Codebase Left Smart Buildings Wide Open Researcher Gjoko Krstic\u2019s &quot;Project Brainfog&quot; exposed hundreds of zero-day vulnerabilities in building-automation systems still running hospitals, schools, and offices worldwide.",
     "title": "An 18-Year-Old Codebase Left Smart Buildings Wide Open"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/android-malware-mutes-alerts-drains-crypto-wallets": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt96b8cd0db62fc672/690918f2e1cf0713cb3a9a17/android_Andri_wahyudi_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-03T22:19:13+00:00",
+    "source": "darkreading",
+    "summary": "Android Malware Mutes Alerts, Drains Crypto Wallets Android/BankBot-YNRK is currently targeting users in Indonesia by masquerading as legitimate applications.",
+    "title": "Android Malware Mutes Alerts, Drains Crypto Wallets"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/trufflenet-attack-stolen-credentials-aws": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6fb72c24fce65e0a/690892719deb159486852cfc/Truffle_Eyewave_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-03T10:59:03+00:00",
+    "source": "darkreading",
+    "summary": "'TruffleNet' Attack Wields Stolen Credentials Against AWS Reconnaissance and BEC are among the malicious activities attackers commit after compromising cloud accounts, using a framework based on the TruffleHog tool.",
+    "title": "'TruffleNet' Attack Wields Stolen Credentials Against AWS"
   }
 }
