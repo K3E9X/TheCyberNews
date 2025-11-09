@@ -213,6 +213,14 @@
     "summary": "Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed Cybersecurity researchers have disclosed details of four security flaws in Microsoft Teams that could have exposed users to serious impersonation and social engineering attacks.\nThe vulnerabilit\u2026",
     "title": "Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed"
   },
+  "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpBHsV_c7cesyV98XY3_PW3Ag8I1NBsboj592iw07Rlmy2xCs3QTpBUcZf59rmLBCo4JppU4HFF9GU8H7i_ADzqyvO_IxWj3GZWoVkzsh4GRWHyD1LSPWZgUEii8SnZE_BJxTmJMdG8RfstqNmGNIRcUdshTfQcPTJRVzVUJopn6FrCk5KvI0xc18Vy7bk/s1600/ai-leak.jpg",
+    "published": "2025-11-08T14:29:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic Microsoft has disclosed details of a novel side-channel attack targeting remote language models that could enable a passive adversary with capabilities to observe network traffic to glean\u2026",
+    "title": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic"
+  },
   "https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmp-SI1cgUsmlMG3lE9_zYqMARsZ452j97kJNlUe_E0cqUX6QHXfPp6-pMHEQZuKlr8mzJI004vOCYTQVaygW0V7Mlcd2hmwk599TNk-85utedJE9cPyZO_ezKR3E-THcjGP8xeVc3udXnrCz6OFT8OCqVaZY6xry3kbsJmCJmdcq-Gz9lrUigoyNbEWhz/s1600/hacker-uk.jpg",
@@ -370,6 +378,16 @@
     "summary": "OpenAI is going Meta route, as it considers memory-based ads on ChatGPT OpenAI is planning to introduce ads on ChatGPT, as it continues to struggle with revenue from paid users. [...]",
     "title": "OpenAI is going Meta route, as it considers memory-based ads on ChatGPT"
   },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/": {
+    "categories": [
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2025-11-08T22:29:44+00:00",
+    "source": "BleepingComputer",
+    "summary": "OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro OpenAI is preparing the GPT-5.1 family for public rollout. This includes GPT-5.1 (base), GPT-5.1 Reasoning, and GPT-5.1 Pro for those who pay a $200 monthly subscription. [...]",
+    "title": "OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro"
+  },
   "https://www.bleepingcomputer.com/news/cryptocurrency/hacker-steals-over-120-million-from-balancer-defi-crypto-protocol/": {
     "categories": [
       "CryptoCurrency"
@@ -451,6 +469,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Windows Task Manager won\u2019t quit after KB5067036 update Microsoft has confirmed a known issue that is preventing users from quitting the Windows 11 Task Manager after installing the October 2025 optional update. [...]",
     "title": "Microsoft: Windows Task Manager won\u2019t quit after KB5067036 update"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/still-on-windows-10-enroll-in-free-extended-security-updates/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-08T15:09:19+00:00",
+    "source": "BleepingComputer",
+    "summary": "Still on Windows 10? Enroll in free ESU before next week\u2019s Patch Tuesday With the first Patch Tuesday following Windows 10's end of support approaching next week, users who continue to run the operating system should enroll in the Extended Security Updates (ESU) program to remain\u2026",
+    "title": "Still on Windows 10? Enroll in free ESU before next week\u2019s Patch Tuesday"
   },
   "https://www.bleepingcomputer.com/news/microsoft/windows-10-update-bug-triggers-incorrect-end-of-support-alerts/": {
     "categories": [
@@ -651,6 +680,16 @@
     "source": "BleepingComputer",
     "summary": "Fake Solidity VSCode extension on Open VSX backdoors developers A remote access trojan\u00a0dubbed SleepyDuck, and disguised as the well-known Solidity extension in the Open VSX open-source registry, uses an Ethereum smart contract to\u00a0establish a communication channel with the attacke\u2026",
     "title": "Fake Solidity VSCode extension on Open VSX backdoors developers"
+  },
+  "https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-on-openvsx-with-3-new-vscode-extensions/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-08T16:17:28+00:00",
+    "source": "BleepingComputer",
+    "summary": "GlassWorm malware returns on OpenVSX with 3 new VSCode extensions The GlassWorm malware campaign, which impacted the OpenVSX and Visual Studio Code marketplaces last month, has returned with three new VSCode extensions that have already been downloaded over 10,000 times. [...]",
+    "title": "GlassWorm malware returns on OpenVSX with 3 new VSCode extensions"
   },
   "https://www.bleepingcomputer.com/news/security/google-warns-of-new-ai-powered-malware-families-deployed-in-the-wild/": {
     "categories": [
