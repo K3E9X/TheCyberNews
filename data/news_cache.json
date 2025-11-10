@@ -408,6 +408,18 @@
     "summary": "Google confirms AI search will have ads, but they may look different Google Ads are not going anywhere. Eventually,\u00a0AI Search results on Google and likely other properties will have ads. [...]",
     "title": "Google confirms AI search will have ads, but they may look different"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/": {
+    "categories": [
+      "Microsoft",
+      "Healthcare",
+      "Software"
+    ],
+    "image": "",
+    "published": "2025-11-09T23:28:57+00:00",
+    "source": "BleepingComputer",
+    "summary": "How to use the new Windows 11 Start menu, now rolling out The Windows Start menu is getting its first major redesign since 2021 and will be rolled\u00a0out to everyone with the November 11 Patch Tuesday update. [...]",
+    "title": "How to use the new Windows 11 Start menu, now rolling out"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-gets-scareware-sensor-for-faster-scam-detection/": {
     "categories": [
       "Microsoft",
@@ -640,6 +652,16 @@
     "summary": "Cyber theory vs practice: Are you navigating with faulty instruments? Security teams rely on dashboards and data feeds, but outdated or fragmented tools leave dangerous blind spots across assets, vulnerabilities, and credentials. Learn how Outpost24's CompassDRP unifies EASM and \u2026",
     "title": "Cyber theory vs practice: Are you navigating with faulty instruments?"
   },
+  "https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-09T15:11:12+00:00",
+    "source": "BleepingComputer",
+    "summary": "Dangerous runC flaws could allow hackers to escape Docker containers Three newly disclosed vulnerabilities in the runC container runtime used in Docker and Kubernetes could be exploited to bypass isolation restrictions and get access to the host system. [...]",
+    "title": "Dangerous runC flaws could allow hackers to escape Docker containers"
+  },
   "https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/": {
     "categories": [
       "Security",
@@ -773,6 +795,16 @@
     "summary": "ID verification laws are fueling the next wave of breaches ID laws are forcing companies to store massive amounts of sensitive data, turning compliance into a security risk. Acronis explains how integrated backup and cybersecurity platforms help MSPs reduce complexity and close t\u2026",
     "title": "ID verification laws are fueling the next wave of breaches"
   },
+  "https://www.bleepingcomputer.com/news/security/lost-iphone-dont-fall-for-phishing-texts-saying-it-was-found/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-09T15:12:22+00:00",
+    "source": "BleepingComputer",
+    "summary": "Lost iPhone? Don\u2019t fall for phishing texts saying it was found The Swiss National Cyber Security Centre (NCSC) is warning iPhone owners about a\u00a0phishing scam that claims to have found your lost or stolen iPhone but is actually trying to steal your Apple ID credentials. [...]",
+    "title": "Lost iPhone? Don\u2019t fall for phishing texts saying it was found"
+  },
   "https://www.bleepingcomputer.com/news/security/malicious-android-apps-on-google-play-downloaded-42-million-times/": {
     "categories": [
       "Security",
@@ -814,6 +846,16 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks Microsoft security researchers have discovered a new backdoor malware that uses the OpenAI Assistants API as a covert command-and-control channel. [...]",
     "title": "Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/nakivo-introduces-v111-with-upgraded-disaster-recovery-and-msp-features/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-09T15:30:40+00:00",
+    "source": "BleepingComputer",
+    "summary": "NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features NAKIVO Backup & Replication v11.1 expands disaster recovery with real-time replication, enhanced Proxmox VE support, and granular physical backups. The update adds MSP Direct Connect for secure client manage\u2026",
+    "title": "NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features"
   },
   "https://www.bleepingcomputer.com/news/security/new-landfall-spyware-exploited-samsung-zero-day-via-whatsapp-messages/": {
     "categories": [
