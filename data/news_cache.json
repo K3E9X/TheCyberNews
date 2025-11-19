@@ -109,6 +109,14 @@
     "summary": "ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability The Australian Signals Directorate (ASD) has issued a bulletin about ongoing cyber attacks targeting unpatched Cisco IOS XE devices in the country with a previously undocumented implant known as BADCANDY.\u2026",
     "title": "ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability"
   },
+  "https://thehackernews.com/2025/11/beyond-iam-silos-why-identity-security.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn3vLGW3cKs0sXmT_QUktr7Z215KSU8vCThbvHlJBUE4N6-71iTYrw0cLUuNXDvetFmi6LXIty3NNmvIpTE8BVwIDhyphenhyphenSqbFm0CsolT7lA7I5ai92hcjLp8ew4bJUqhjsx_pY6KKzLz6_UJSSpvdVG_CW9Yau1XmZVZRYuoEIiB3KONNQsy09vhf9D3ySg/s1600/Identity-Security-Fabric.jpg",
+    "published": "2025-11-18T11:00:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Beyond IAM Silos: Why the Identity Security Fabric is Essential for Securing AI and Non-Human Identities Identity security fabric (ISF) is a unified architectural framework that brings together disparate identity capabilities. Through ISF, identity governance and administration (\u2026",
+    "title": "Beyond IAM Silos: Why the Identity Security Fabric is Essential for Securing AI and Non-Human Identities"
+  },
   "https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnzufju5hr_HLeUm1wJnO0Wac-XCbY35dncwtip0-mnLrcGP85GngoccqDhicfNyF9AKCyeKXM3DlKj9nyvmC8X-Zxx6A8ctmsiOguoZ7XjewL1btiT0ydW3EU-6PBexeXtn_6uGhy7nQXhB7eBhFTy1BH_M7sgEpA-CxxkBslSjr5amkwqOKe5y1hf_E/s1600/Bitdefender.png",
@@ -220,6 +228,14 @@
     "source": "The Hacker News",
     "summary": "Now-Patched Fortinet FortiWeb Flaw Exploited in Attacks to Create Admin Accounts Cybersecurity researchers are sounding the alert about an authentication bypass vulnerability in Fortinet Fortiweb WAF that could allow an attacker to take over admin accounts and completely compromi\u2026",
     "title": "Now-Patched Fortinet FortiWeb Flaw Exploited in Attacks to Create Admin Accounts"
+  },
+  "https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEKdkwpYxJC7o2i7S9wnA23qyb2BohSBPoI9nZSfX-qt7bRgSwxhDKYeogidmxxGNCSI0l-l-cKj8eJsA4bDVEjsUAiQVmw8bK6ZTE7omWqq7kSP0L_DpCG23Q91NjEx-lrepVUjzwSKo2_H6Ke4I-7XOPHZAiGYhdHB3eTOCG8S_ksc1SEJU4PchDAuSM/s1600/fort.jpg",
+    "published": "2025-11-19T04:20:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild Fortinet has warned of a new security flaw in FortiWeb that it said has been exploited in the wild.\nThe medium-severity vulnerability, tracked as CVE-2025-58034, carries a CVSS score of 6.7 out of a\u2026",
+    "title": "Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild"
   },
   "https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html": {
     "categories": [],
@@ -333,6 +349,14 @@
     "summary": "Iranian Hackers Launch \u2018SpearSpecter\u2019 Spy Operation on Defense & Government Targets The Iranian state-sponsored threat actor known as APT42 has been observed targeting individuals and organizations that are of interest to the Islamic Revolutionary Guard Corps (IRGC) as part of a \u2026",
     "title": "Iranian Hackers Launch \u2018SpearSpecter\u2019 Spy Operation on Defense & Government Targets"
   },
+  "https://thehackernews.com/2025/11/iranian-hackers-use-deeproot-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgANn6HS89nO5bbMqMw7uLG3adyrOqaceztN7_QFT7PAalBP3sITkB3y9z_36naCvTv5YRhgusQx6tXEB9nSmQAru_0EV5LNLyj2FWdZwcD55V4ODt_EJtB4KOipfALbQ_U1pklNh50PFR8P4A_G6D6E3ua0sTbk-JIn0ZF5RTFkY51dw5IyzsI7IJGcl3h/s1600/Aerospace-hackers.jpg",
+    "published": "2025-11-18T12:54:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Iranian Hackers Use DEEPROOT and TWOSTROKE Malware in Aerospace and Defense Attacks Suspected espionage-driven threat actors from Iran have been observed deploying backdoors like TWOSTROKE and DEEPROOT as part of continued attacks aimed at aerospace, aviation, and defense industr\u2026",
+    "title": "Iranian Hackers Use DEEPROOT and TWOSTROKE Malware in Aerospace and Defense Attacks"
+  },
   "https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIpCQ5f-ly7CHt6FDz9ULaJDLRDxJIrT9-GScn1vGk8jXp6zSXDDAMGMMZ-LY2bolu8-7HPoW0BNzFEyouKuyHNukvjbtUF16MiYto_WUV9Ve3x7ZJZYoE0J54qzT0VPtdZ_Bs54xIN53ifzW_Kqrd5QLPAEDEjUgfpUkcLLngM1_KrJaUi44JLAcg5m-f/s1600/hub.jpg",
@@ -349,6 +373,14 @@
     "summary": "Large-Scale ClickFix Phishing Attacks Target Hotel Systems with PureRAT Malware Cybersecurity researchers have called attention to a massive phishing campaign targeting the hospitality industry that lures hotel managers to ClickFix-style pages and harvest their credentials by dep\u2026",
     "title": "Large-Scale ClickFix Phishing Attacks Target Hotel Systems with PureRAT Malware"
   },
+  "https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbcnxxrLCNLtK2nayB0ljqkqYjos86JEosexUyndcUIx-1Bq4QIjQ7HEsPubzDGy_ZQiwc8Otm_rOZ94X_R8mDzqhCdwjETneYetBvv54f7askg7riPyV0GEVIYA6RIo6bkbFw8g6HCJPok_liEsSirCMxE3jkrLczdpV_4Sq2vw5NMJzqU2Z8btfgyfY/s1600/webinar.jpg",
+    "published": "2025-11-18T15:25:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale You\u2019ve probably already moved some of your business to the cloud\u2014or you\u2019re planning to. That\u2019s a smart move. It helps you work faster, serve your customers better, and stay ahead.\nBut as your cloud set\u2026",
+    "title": "Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale"
+  },
   "https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsNAYBUN0RQ2z5BWnN5wrHTjB-XMx0nYPvJ5PMwCjxNk6CVExZCv401_jX_vaktwnLz8B3owRjupOCNIH7s2lbATDXkpMWwounrKb1OaiINgihVNcp_Mc17Wt7y2-LJBiEOk04hyphenhyphen6WlNKg76W5-f3fx2SDPtSSHQSO5gPu0E4V5RmzDEH0WcdpmAzXG0iB/s1600/soladity.jpg",
@@ -356,6 +388,14 @@
     "source": "The Hacker News",
     "summary": "Malicious VSX Extension \"SleepyDuck\" Uses Ethereum to Keep Its Command Server Alive Cybersecurity researchers have flagged a new malicious extension in the Open VSX registry that harbors a remote access trojan called SleepyDuck.\nAccording to Secure Annex's John Tuckner, the exten\u2026",
     "title": "Malicious VSX Extension \"SleepyDuck\" Uses Ethereum to Keep Its Command Server Alive"
+  },
+  "https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgOl-JrSVLAI7Qi4qHDyFCjyRB3ue79utMC8yXawZU8fE17CUF-DjowrvhQV0Ke-fV3jK8YJE1H42F1c7hY_zDDIUII9ebtwbV0tqUCWMexiiQFugTyUbFh1Q9CalI5fgUUYQt6SApcAqvJ_uqWC7ZX31-XwGkrEmFOIDXfzNRGVMkPj0dklvQA1Mi1V6/s1600/whatsapp-proxy.jpg",
+    "published": "2025-11-18T15:56:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year Meta on Tuesday said it has made available a tool called WhatsApp Research Proxy to some of its long-time bug bounty researchers to help improve the program and more effectively research the\u2026",
+    "title": "Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year"
   },
   "https://thehackernews.com/2025/11/microsoft-detects-sesameop-backdoor.html": {
     "categories": [],
@@ -372,6 +412,14 @@
     "source": "The Hacker News",
     "summary": "Microsoft Fixes 63 Security Flaws, Including a Windows Kernel Zero-Day Under Active Attack Microsoft on Tuesday released patches for 63 new security vulnerabilities identified in its software, including one that has come under active exploitation in the wild.\nOf the 63 flaws, fou\u2026",
     "title": "Microsoft Fixes 63 Security Flaws, Including a Windows Kernel Zero-Day Under Active Attack"
+  },
+  "https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2dO5PMH9gIwAVDF-XFgn5ydvp3uKTXTcpVHUMVoYtn02VkUCLM3d43lZH2KJMaoDkE2jZeroOAmDeoUnbTP_V7nONKGdkOGG5SlK4VBzY90xNuwT4IUv44rFNMpPo7x2zlFcVa4Kz1tyVMtEjWFCjX0Spsm3YvR8Jl2UlJXmokwESYjLXEzoBWJe07tq3/s1600/ddos.jpg",
+    "published": "2025-11-18T08:17:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Microsoft Mitigates Record 15.72 Tbps DDoS Attack Driven by AISURU Botnet Microsoft on Monday disclosed that it automatically detected and neutralized a distributed denial-of-service (DDoS) attack targeting a single endpoint in Australia that measured 15.72 terabits per second (T\u2026",
+    "title": "Microsoft Mitigates Record 15.72 Tbps DDoS Attack Driven by AISURU Botnet"
   },
   "https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html": {
     "categories": [],
@@ -469,6 +517,14 @@
     "summary": "Ransomware's Fragmentation Reaches a Breaking Point While LockBit Returns Key Takeaways:\n\n85 active ransomware and extortion groups observed in Q3 2025, reflecting the most decentralized ransomware ecosystem to date.\n1,590 victims disclosed across 85 leak sites, showing high, sus\u2026",
     "title": "Ransomware's Fragmentation Reaches a Breaking Point While LockBit Returns"
   },
+  "https://thehackernews.com/2025/11/researchers-detail-tuoni-c2s-role-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0fEPwtke4h6m4SAYqYOUAQSTCvVaghxz5SGIgAKzQlXlriWAB02H4u9ueIs8oX7vH4a3Xx46gIt-0qC_eEECEMdyBADDmMnoNvbNM-5wIwkVPSo0f88Sy2Ik5bvBQdxtwRWGO6vQvzj_rPWpAYJbfOuGNK0q6yNhyE9QR5h98xsW7d8A6yBQ8p0P5bt4G/s1600/c2.jpg",
+    "published": "2025-11-18T14:00:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Researchers Detail Tuoni C2's Role in an Attempted 2025 Real-Estate Cyber Intrusion Cybersecurity researchers have disclosed details of a cyber attack targeting a major U.S.-based real-estate company that involved the use of a nascent command-and-control (C2) and red teaming fram\u2026",
+    "title": "Researchers Detail Tuoni C2's Role in an Attempted 2025 Real-Estate Cyber Intrusion"
+  },
   "https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCsz1QgtB3DAorATUJtM4NKEDKSftFK-LplwEwazMvy2CJl8Ua-T_nRLa6hpR968DBP4cjFK1rhd70vBYd_gx4s24AQepRSFpjXkFezP9hKo2lrYQm-WgcHBKvJQrU3AYRBltbe6Qw8xpGCcTFje-h3a24Pb04JtJMlUX3Ug7XtR1inGNz7fVkzpfLT_KZ/s1600/hacker-code.jpg",
@@ -540,6 +596,22 @@
     "source": "The Hacker News",
     "summary": "Securing the Open Android Ecosystem with Samsung Knox Raise your hand if you\u2019ve heard the myth, \u201cAndroid isn\u2019t secure.\u201d\nAndroid phones, such as the Samsung Galaxy, unlock new ways of working. But, as an IT admin, you may worry about the security\u2014after all, work data is critical.\n\u2026",
     "title": "Securing the Open Android Ecosystem with Samsung Knox"
+  },
+  "https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrQ7iCz7VpB_JXNQKdG7MzL3-W7RzL9PSlbgktyxA2fZYJGJ8lVtKsoJeFD9LgconGlK9MhuRrWUN26eMkd44zv3ro7VmulplS_0L9BxtQCCC1d4HnmwnWjM0cAl9N8ysY9KfG1A4l-cOIiinzlHJLoDOoTeHG2XwgtVh6bw1MPdFyhSTbBUfvOIWK1BaG/s1600/crypto-scams.jpg",
+    "published": "2025-11-18T10:37:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Seven npm Packages Use Adspect Cloaking to Trick Victims Into Crypto Scam Pages Cybersecurity researchers have discovered a set of seven npm packages published by a single threat actor that leverages a cloaking service called Adspect to differentiate between real victims and secu\u2026",
+    "title": "Seven npm Packages Use Adspect Cloaking to Trick Victims Into Crypto Scam Pages"
+  },
+  "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUazxCy3vEGn8LPbdlF5itqaRkz1hHoZICRwrw6N6eOk7fxRbRx1r304KEpLd-LeevEHDIwZ0pLukHppiGlxuU5juewH86IWmXorHFekbgYxQ1R2snVoZE8tqkrFIg4HOu_EaIV5bmVYaad4wUYA2ea9tiqqKaYAfIzj2icwv50ptIREdEy1NS8jPwsLrj/s1600/browser.gif",
+    "published": "2025-11-18T18:31:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functionality into their arsenal, underscoring the conti\u2026",
+    "title": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar"
   },
   "https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html": {
     "categories": [],
@@ -873,6 +945,17 @@
     "summary": "Microsoft rolls out screen capture prevention for Teams users Microsoft is rolling out a new Teams feature for Premium customers that will automatically block screenshots and recordings during meetings. [...]",
     "title": "Microsoft rolls out screen capture prevention for Teams users"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-users-report-messages-wrongly-flagged-as-threats/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-18T17:14:34+00:00",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Teams to let users report messages wrongly flagged as threats Microsoft says that Teams users will be able to report false-positive threat alerts triggered by messages incorrectly flagged as malicious. [...]",
+    "title": "Microsoft Teams to let users report messages wrongly flagged as threats"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-faster-quick-machine-recovery-in-windows-11/": {
     "categories": [
       "Microsoft"
@@ -882,6 +965,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft testing faster Quick Machine Recovery in Windows 11 Microsoft is testing a faster version of Quick Machine Recovery (QMR) and updated Smart App Control (SAC), allowing users to toggle it without requiring a Windows clean install. [...]",
     "title": "Microsoft testing faster Quick Machine Recovery in Windows 11"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-integrate-sysmon-directly-into-windows-11-server-2025/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-18T17:25:18+00:00",
+    "source": "BleepingComputer",
+    "summary": "Microsoft to integrate Sysmon directly into Windows 11, Server 2025 Microsoft announced today that it will integrate Sysmon natively into Windows 11 and Windows Server 2025 next year, making it unnecessary to deploy the standalone Sysinternals tools. [...]",
+    "title": "Microsoft to integrate Sysmon directly into Windows 11, Server 2025"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/": {
     "categories": [
@@ -965,6 +1059,17 @@
     "source": "BleepingComputer",
     "summary": "Windows 11 Build 26220.7051 released with \u201cAsk Copilot\u201d feature Windows 11 Build\u00a026220.7051 is now rolling out to testers in the Windows Insider Program, and there are at least three new features, including Ask Copilot in the taskbar. [...]",
     "title": "Windows 11 Build 26220.7051 released with \u201cAsk Copilot\u201d feature"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-new-cloud-rebuild-point-in-time-restore-tools/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-18T19:29:52+00:00",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 gets new Cloud Rebuild, Point-in-Time Restore tools Microsoft announced two new Windows 11 recovery features today at the Ignite developer conference, called Cloud Rebuild and Point-in-Time Restore (PITR), that aim to reduce downtime and make it easier to recover from \u2026",
+    "title": "Windows 11 gets new Cloud Rebuild, Point-in-Time Restore tools"
   },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5068861-and-kb5068865-cumulative-updates-released/": {
     "categories": [
@@ -1360,6 +1465,16 @@
     "summary": "Fortinet confirms silent patch for FortiWeb zero-day exploited in attacks Fortinet has silently patched a critical zero-day vulnerability in its FortiWeb web application firewall, which is now being widely exploited. [...]",
     "title": "Fortinet confirms silent patch for FortiWeb zero-day exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-fortiweb-zero-day-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-18T19:01:39+00:00",
+    "source": "BleepingComputer",
+    "summary": "Fortinet warns of new FortiWeb zero-day exploited in attacks Today, Fortinet released security updates to patch a new FortiWeb zero-day vulnerability that threat actors are actively exploiting in attacks. [...]",
+    "title": "Fortinet warns of new FortiWeb zero-day exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/fortiweb-flaw-with-public-poc-actively-exploited-to-create-admin-users/": {
     "categories": [
       "Security"
@@ -1369,6 +1484,16 @@
     "source": "BleepingComputer",
     "summary": "Fortinet FortiWeb flaw with public PoC exploited to create admin users A Fortinet FortiWeb path traversal vulnerability is being actively exploited to create new administrative users on exposed devices without requiring authentication [...]",
     "title": "Fortinet FortiWeb flaw with public PoC exploited to create admin users"
+  },
+  "https://www.bleepingcomputer.com/news/security/french-agency-pajemploi-reports-data-breach-affecting-12m-people/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-18T16:59:27+00:00",
+    "source": "BleepingComputer",
+    "summary": "French agency Pajemploi reports data breach affecting 1.2M people Pajemploi, the French social security service for parents and home-based childcare providers, has suffered a data breach that may have exposed personal information of 1.2 million individuals. [...]",
+    "title": "French agency Pajemploi reports data breach affecting 1.2M people"
   },
   "https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-on-openvsx-with-3-new-vscode-extensions/": {
     "categories": [
@@ -1389,6 +1514,17 @@
     "source": "BleepingComputer",
     "summary": "GlobalLogic warns 10,000 employees of data theft after Oracle breach GlobalLogic, a provider of digital engineering services part of the Hitachi group, is notifying over 10,000 current and former employees that their data was stolen in an Oracle E-Business Suite (EBS) data breach\u2026",
     "title": "GlobalLogic warns 10,000 employees of data theft after Oracle breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-fixes-new-chrome-zero-day-flaw-exploited-in-attacks/": {
+    "categories": [
+      "Security",
+      "Google"
+    ],
+    "image": "",
+    "published": "2025-11-18T10:13:17+00:00",
+    "source": "BleepingComputer",
+    "summary": "Google fixes new Chrome zero-day flaw exploited in attacks Google has released an emergency security update to fix the seventh Chrome zero-day vulnerability exploited in attacks this year. [...]",
+    "title": "Google fixes new Chrome zero-day flaw exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/google-sues-to-dismantle-chinese-phishing-platform-behind-us-toll-scams/": {
     "categories": [
@@ -1670,6 +1806,17 @@
     "summary": "New LandFall spyware exploited Samsung zero-day via WhatsApp messages A threat actor exploited a zero-day vulnerability in Samsung's Android image processing library to deploy a previously unknown spyware called 'LandFall' using malicious images sent over WhatsApp. [...]",
     "title": "New LandFall spyware exploited Samsung zero-day via WhatsApp messages"
   },
+  "https://www.bleepingcomputer.com/news/security/new-shadowray-attacks-convert-ray-clusters-into-crypto-miners/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2025-11-18T20:56:00+00:00",
+    "source": "BleepingComputer",
+    "summary": "New ShadowRay attacks convert Ray clusters into crypto miners A global campaign dubbed ShadowRay 2.0 hijacks exposed Ray Clusters\u00a0by exploiting an old code execution flaw to turn\u00a0them into a self-propagating cryptomining botnet. [...]",
+    "title": "New ShadowRay attacks convert Ray clusters into crypto miners"
+  },
   "https://www.bleepingcomputer.com/news/security/new-uk-laws-to-strengthen-critical-infrastructure-cyber-defenses/": {
     "categories": [
       "Security",
@@ -1883,6 +2030,16 @@
     "summary": "The Top 3 Browser Sandbox Threats That Slip Past Modern Security Tools Attackers exploit web browsers' built-in behaviors to steal credentials, abuse extensions, and move laterall, slipping past traditional defenses. Learn from Keep Aware how browser-layer visibility and policy e\u2026",
     "title": "The Top 3 Browser Sandbox Threats That Slip Past Modern Security Tools"
   },
+  "https://www.bleepingcomputer.com/news/security/the-tycoon-2fa-phishing-platform-and-the-collapse-of-legacy-mfa/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-18T15:01:11+00:00",
+    "source": "BleepingComputer",
+    "summary": "The Tycoon 2FA Phishing Platform and the Collapse of Legacy MFA Tycoon 2FA enables turnkey real-time MFA relays behind 64,000+ attacks this year, proving legacy MFA collapses the moment a phishing kit targets it. Learn from Token Ring how biometric, phishing-proof FIDO2 hardware \u2026",
+    "title": "The Tycoon 2FA Phishing Platform and the Collapse of Legacy MFA"
+  },
   "https://www.bleepingcomputer.com/news/security/uk-carriers-to-block-spoofed-phone-numbers-in-fraud-crackdown/": {
     "categories": [
       "Security"
@@ -2004,6 +2161,27 @@
     "summary": "Yanluowang initial access broker pleaded guilty to ransomware attacks A Russian national will plead guilty to acting as an initial access broker (IAB) for\u00a0Yanluowang ransomware attacks that targeted at least eight U.S. companies between July 2021 and November 2022. [...]",
     "title": "Yanluowang initial access broker pleaded guilty to ransomware attacks"
   },
+  "https://www.bleepingcomputer.com/news/software/thunderbird-adds-native-support-for-microsoft-exchange-accounts/": {
+    "categories": [
+      "Software",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2025-11-18T22:09:32+00:00",
+    "source": "BleepingComputer",
+    "summary": "Thunderbird adds native support for Microsoft Exchange accounts Thunderbird 145 has been released with full native support for Microsoft Exchange email via the Exchange Web Services (EWS) protocol. [...]",
+    "title": "Thunderbird adds native support for Microsoft Exchange accounts"
+  },
+  "https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/": {
+    "categories": [
+      "Technology"
+    ],
+    "image": "",
+    "published": "2025-11-18T12:24:59+00:00",
+    "source": "BleepingComputer",
+    "summary": "Cloudflare hit by outage affecting global network services Cloudflare is investigating an outage affecting its global network services, with users encountering \"internal server error\" messages when attempting to access affected websites and online platforms. [...]",
+    "title": "Cloudflare hit by outage affecting global network services"
+  },
   "https://www.darkreading.com/application-security/150000-packages-flood-npm-registry-token-farming": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4e512c5faf6c8b4c/691785ebcc165a639405481b/tidalwave_RGBVenturesSuperStock_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -2043,6 +2221,14 @@
     "source": "darkreading",
     "summary": "Hardened Containers Look to Eliminate Common Source of Vulnerabilities A kitchen-sink approach to building containers has loaded many with vulnerabilities. A handful of companies are trying to slim them down.",
     "title": "Hardened Containers Look to Eliminate Common Source of Vulnerabilities"
+  },
+  "https://www.darkreading.com/application-security/malicious-npm-packages-adspect-cloaking-crypto-scam": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb24a1e6038643a15/691c51f545c2c428067907c0/NPM-Araki-Illustrations-Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-18T16:40:12+00:00",
+    "source": "darkreading",
+    "summary": "Malicious Npm Packages Abuse Adspect Cloaking in Crypto Scam A malware campaign presents fake websites that can check if a visitor is a potential victim or a security researcher, and then proceed accordingly to defraud or evade.",
+    "title": "Malicious Npm Packages Abuse Adspect Cloaking in Crypto Scam"
   },
   "https://www.darkreading.com/application-security/multiple-chatgpt-security-bugs-rampant-data-theft": {
     "categories": [],
@@ -2240,6 +2426,22 @@
     "summary": "AI Security Agents Get Persona Makeovers New synthetic security staffers promise to bring artificial intelligence comfortably into the security operations center, but they will require governance to protect security.",
     "title": "AI Security Agents Get Persona Makeovers"
   },
+  "https://www.darkreading.com/cybersecurity-operations/bug-bounty-programs-rise-as-key-strategic-security-solutions": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte167a3b3b53f76b7/690a4f0b0ef6e359c9434bcf/omdia-Elvia-finalle.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-18T16:38:19+00:00",
+    "source": "darkreading",
+    "summary": "Bug Bounty Programs Rise as Key Strategic Security Solutions Bug bounty programs create formal channels for organizations to leverage external security expertise, offering researchers legal protection and financial incentives for ethical vulnerability disclosure.",
+    "title": "Bug Bounty Programs Rise as Key Strategic Security Solutions"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/can-global-decentralized-system-save-cve-data": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt26e1b93fff67686f/691ba3d4bc48ddea20b05aab/vulns-per-year-CVE-icu.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-18T20:42:12+00:00",
+    "source": "darkreading",
+    "summary": "Can a Global, Decentralized System Save CVE Data? As vulnerabilities in the Common Vulnerabilities and Exposures ecosystem pile up, one Black Hat Europe presenter hopes for a global, distributed alternative.",
+    "title": "Can a Global, Decentralized System Save CVE Data?"
+  },
   "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7163035d5b41e3cc/690bb8696baa667c9f4128ee/omdia-adam-e-rik.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -2247,6 +2449,22 @@
     "source": "darkreading",
     "summary": "Closing the AI Execution Gap in Cybersecurity \u2014 A CISO Framework CISOs must navigate five critical dimensions of AI in cybersecurity: augmenting security with AI, automating security with AI, protecting AI systems, defending against AI-powered threats, and aligning AI strategies \u2026",
     "title": "Closing the AI Execution Gap in Cybersecurity \u2014 A CISO Framework"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/cloud-iot-devices-takeover-firewalls": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte4cb2fd7c4a8820b/691cd7e878e5efce34bb2a67/cloud_break-Andy_Sutton-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-18T21:29:32+00:00",
+    "source": "darkreading",
+    "summary": "Cloud Break: IoT Devices Open to Silent Takeover Via Firewalls IoT devices can be compromised, thanks to gaps in cloud management interfaces for firewalls and routers, even if they're protected by security software or not online.",
+    "title": "Cloud Break: IoT Devices Open to Silent Takeover Via Firewalls"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/iran-nexus-threat-actor-unc1549-takes-aim-aerospace": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12fba0d15cec68b0/691cd806721f4e7d3d6dc556/airplane_Sylvain_Oliveira_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-18T20:24:20+00:00",
+    "source": "darkreading",
+    "summary": "Iran-Nexus Threat Actor UNC1549 Takes Aim at Aerospace Researchers say Israel remains a central focus, with UNC1549 targeting aerospace and defense entities in the US, the UAE, Qatar, Spain, and Saudi Arabia.",
+    "title": "Iran-Nexus Threat Actor UNC1549 Takes Aim at Aerospace"
   },
   "https://www.darkreading.com/cybersecurity-operations/kenya-kicks-off-code-nation-nod-cybersecurity": {
     "categories": [],
@@ -2263,6 +2481,14 @@
     "source": "darkreading",
     "summary": "Bridging the Skills Gap: How Military Veterans Are Strengthening Cybersecurity From intelligence analysts to surface warfare officers, military veterans of all backgrounds are successfully pivoting to cybersecurity careers and strengthening the industry's defense capabilities.",
     "title": "Bridging the Skills Gap: How Military Veterans Are Strengthening Cybersecurity"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/new-startup-mate-launches-with-ai-driven-security-operations-platform": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf5ae2981cb5cbc98/67a6074e7dd6537daef9a0fa/robot-army-laurent-davoust-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-17T23:42:09+00:00",
+    "source": "darkreading",
+    "summary": "New Startup Mate Launches With AI-Driven Security Operations Platform Security teams can combat alert fatigue, high rates of false positives, and reduce time spent on manual data collection with Mate's SOC platform, which utilizes AI agents to autonomously investigate and resolve\u2026",
+    "title": "New Startup Mate Launches With AI-Driven Security Operations Platform"
   },
   "https://www.darkreading.com/cybersecurity-operations/physical-convergence-electrical-grid-cybersecurity": {
     "categories": [],
