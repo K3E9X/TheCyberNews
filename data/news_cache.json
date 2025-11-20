@@ -102,6 +102,14 @@
     "summary": "Android Trojan 'Fantasy Hub' Malware Service Turns Telegram Into a Hub for Hackers Cybersecurity researchers have disclosed details of a new Android remote access trojan (RAT) called Fantasy Hub that's sold on Russian-speaking Telegram channels under a Malware-as-a-Service (MaaS)\u2026",
     "title": "Android Trojan 'Fantasy Hub' Malware Service Turns Telegram Into a Hub for Hackers"
   },
+  "https://thehackernews.com/2025/11/application-containment-how-to-use.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAi0D4B697ca6xQAwAw_dQp7utPWY_RDYE_iKTlMNFUNyMGOCc7GRraPuEHW_WyQ2rg5Cdsm2MMVAhEM5B3WlZhuMDKp_OdB1luQizlSSOBmb8bxaFMoMTqO00ua8W56FcOrn8pGvhJ2IUxDgyZRH0RFJ5pXoswPe_UcIuf2c1DU6wyctCwJpBNWgOsx0/s1600/threatlocker.jpg",
+    "published": "2025-11-19T11:55:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software The challenge facing security leaders is monumental: Securing environments where failure is not an option. Reliance on traditional security postures, such as Endpoint Detection and Re\u2026",
+    "title": "Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software"
+  },
   "https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html": {
     "categories": [],
     "published": "2025-11-01T13:43:00+00:00",
@@ -188,6 +196,14 @@
     "source": "The Hacker News",
     "summary": "Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT The threat actor known as Dragon Breath has been observed making use of a multi-stage loader codenamed RONINGLOADER to deliver a modified variant of a remote access trojan called Gh0st RAT.\nThe campaig\u2026",
     "title": "Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT"
+  },
+  "https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_QAbLE6rUwiLIHnt2xval2w7cg3VB-94hKkWt6Pc291brRjILvg27ShpxRsaen-M4-PjoRtNuX90UVNMzxSpXyjpbHa6atdkHWTl0nOT_4DgOngVu60l1UZooqB-8kfW8nEKnIjHB4i_mi7UJNgBdnRm9dz106OZkyZtMhDFRyBUCKecmpydtzf8RxvCb/s1600/eset-main.jpg",
+    "published": "2025-11-19T10:00:00+00:00",
+    "source": "The Hacker News",
+    "summary": "EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates The threat actor known as PlushDaemon has been observed using a previously undocumented Go-based network backdoor codenamed EdgeStepper to facilitate adversary-in-the-middle (AitM) attacks.\nE\u2026",
+    "title": "EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates"
   },
   "https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html": {
     "categories": [],
@@ -316,6 +332,14 @@
     "source": "The Hacker News",
     "summary": "GootLoader Is Back, Using a New Font Trick to Hide Malware on WordPress Sites The malware known as GootLoader has resurfaced yet again after a brief spike in activity earlier this March, according to new findings from Huntress.\nThe cybersecurity company said it observed three Goo\u2026",
     "title": "GootLoader Is Back, Using a New Font Trick to Hide Malware on WordPress Sites"
+  },
+  "https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivVWRvZll-uPUxEGctC2P333iOd2Fe1IQRsAAs_g4oiJVzgnqb6OQuk2UyD8yBGFxJuuwGgN8QeUluWfvr9nC6GwY6eMqB5xQCBGSu8FP8zrZjdd4yTtytllh4W8NqDAmMCUBet7I1gq1HfFSRgC5oBJGy3x_po-TzYKM3FgGu9Hcjr4WFt5nPRsY5oKMf/s1600/7-zip-exploit.jpg",
+    "published": "2025-11-19T16:27:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Hackers Actively Exploiting 7-Zip Symbolic Link\u2013Based RCE Vulnerability (CVE-2025-11001) A recently disclosed security flaw impacting 7-Zip has come under active exploitation in the wild, according to an advisory issued by the U.K. NHS England Digital on Tuesday.\nThe vulnerabilit\u2026",
+    "title": "Hackers Actively Exploiting 7-Zip Symbolic Link\u2013Based RCE Vulnerability (CVE-2025-11001)"
   },
   "https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html": {
     "categories": [],
@@ -501,6 +525,14 @@
     "summary": "Over 67,000 Fake npm Packages Flood Registry in Worm-Like Spam Attack Cybersecurity researchers are calling attention to a large-scale spam campaign that has flooded the npm registry with thousands of fake packages since early 2024 as part of a likely financially motivated effort\u2026",
     "title": "Over 67,000 Fake npm Packages Flood Registry in Worm-Like Spam Attack"
   },
+  "https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_JS-2uc_a3c5S1eLk0Eo3HK8zCxsAijuKRwY0EFD5q19SEUDr1lwIICc_nphafxi12DafNvvqyGyGth6QWnBNKMZOSgy46Wrhpy-2KtVdj7CJbnlPcM-kHVQa6Y3zOBznsYMA2HWbel-KMoEeDyCzDvOSlQRk6ab056_7sL08HjgSCVMjRQojWCfoG6Ln/s1600/whatsapp-worm.jpg",
+    "published": "2025-11-19T15:35:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices Cybersecurity researchers have disclosed details of a new campaign that leverages a combination of social engineering and WhatsApp hijacking to distribute a Delphi-based banking trojan named Eternidade\u2026",
+    "title": "Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices"
+  },
   "https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdzDGtHe9Q6e_Oawv8H4Le3i69OhWMTiJwqvdjqsp8o8oZ8gpy7R6cbsTzjncXVNJjI59pr2NENW0IycFha_hD92mziRlVuh_QhAeVo4mtyyz3iwUzD-e5UH6heYCAZGY3pwMJoWctM63QCiZAQe02F0r8KLU0_AkeGS4zxi9g-N5qiT4f5v15nJTMvFk/s1600/wazuh.jpg",
@@ -597,6 +629,14 @@
     "summary": "Securing the Open Android Ecosystem with Samsung Knox Raise your hand if you\u2019ve heard the myth, \u201cAndroid isn\u2019t secure.\u201d\nAndroid phones, such as the Samsung Galaxy, unlock new ways of working. But, as an IT admin, you may worry about the security\u2014after all, work data is critical.\n\u2026",
     "title": "Securing the Open Android Ecosystem with Samsung Knox"
   },
+  "https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoPK3N8k6tgxGcB7a-bCV3NfNUyR_iJuH7RxJJjya0hePCXNoQDQhZvHWDcsunCpNlA9F4uhk0EzWA1sFw5rCRa6zd4hUH3SzRcDusauukG-GA-tGfmex2HFTndPiTT1LeexpWsNBfmv70tiAB04J1yTIXSdnpm2_-Q12RaCfBzkr3aG_Icv5pEe-NI-ed/s1600/ai-agents.jpg",
+    "published": "2025-11-19T09:59:00+00:00",
+    "source": "The Hacker News",
+    "summary": "ServiceNow AI Agents Can Be Tricked Into Acting Against Each Other via Second-Order Prompts Malicious actors can exploit default configurations in ServiceNow's Now Assist generative artificial intelligence (AI) platform and leverage its agentic capabilities to conduct prompt inje\u2026",
+    "title": "ServiceNow AI Agents Can Be Tricked Into Acting Against Each Other via Second-Order Prompts"
+  },
   "https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrQ7iCz7VpB_JXNQKdG7MzL3-W7RzL9PSlbgktyxA2fZYJGJ8lVtKsoJeFD9LgconGlK9MhuRrWUN26eMkd44zv3ro7VmulplS_0L9BxtQCCC1d4HnmwnWjM0cAl9N8ysY9KfG1A4l-cOIiinzlHJLoDOoTeHG2XwgtVh6bw1MPdFyhSTbBUfvOIWK1BaG/s1600/crypto-scams.jpg",
@@ -620,6 +660,14 @@
     "source": "The Hacker News",
     "summary": "SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach SonicWall has formally implicated state-sponsored threat actors as behind the September security breach that led to the unauthorized exposure of firewall configuration backup files.\n\"The malicious act\u2026",
     "title": "SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach"
+  },
+  "https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdYB9Gid2loMKjZaFwuw8YNcXPNMj8a66sEY0z-p0ez7SZf1_vmAIn0fel7zK-zatmZqEc-EssuI89guGsGeOg9G1Vkw6LV7F6QU1W-N1maj6Pws1VrpKl2-sGqrvleq0VF1VTmQHwUzChvzTPcjJPtCIb1pVGT__o4iJoXXYCE0G7h4zb61Y7I-GtLGZn/s1600/software.jpg",
+    "published": "2025-11-20T04:06:00+00:00",
+    "source": "The Hacker News",
+    "summary": "TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign Threat actors are leveraging bogus installers masquerading as popular software to trick users into installing malware as part of a global malvertising campaign dubbed TamperedChef.\nThe end goal o\u2026",
+    "title": "TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign"
   },
   "https://thehackernews.com/2025/11/the-evolution-of-soc-operations-how.html": {
     "categories": [],
@@ -732,6 +780,36 @@
     "source": "The Hacker News",
     "summary": "Why SOC Burnout Can Be Avoided: Practical Steps Behind every alert is an analyst; tired eyes scanning dashboards, long nights spent on false positives, and the constant fear of missing something big. It\u2019s no surprise that many SOCs face burnout before they face their next breach.\u2026",
     "title": "Why SOC Burnout Can Be Avoided: Practical Steps"
+  },
+  "https://thehackernews.com/2025/11/wrthug-exploits-six-asus-wrt-flaws-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhobMT02o23BS6CE-40CnDYj3IQVSqv3apTkF3HtqYDFynC2mjFp18in8p28QxQA438jGQLHzCVPfw7tyDXTZXBTljbTwdCYBu5YnaFD1PSBfNdQFTtCgRgpqKy3ejAQjIJAJdVzBNriwb1YYvz7X6zOyXbWQ4h1lC3k6YjJgj_4rjdJ5UmKc8U17rnpE7g/s1600/asus.jpg",
+    "published": "2025-11-19T13:00:00+00:00",
+    "source": "The Hacker News",
+    "summary": "WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide A newly discovered campaign has compromised tens of thousands of outdated or end-of-life (EoL) ASUS routers worldwide, predominantly in Taiwan, the U.S., and Russia, to rope them into a massiv\u2026",
+    "title": "WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/google-search-is-now-using-ai-to-create-interactive-ui-to-answer-your-questions/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2025-11-19T19:45:05+00:00",
+    "source": "BleepingComputer",
+    "summary": "Google Search is now using AI to create interactive UI to answer your questions In a move that could redefine the web, Google is testing AI-powered, UI-based answers for its AI mode. [...]",
+    "title": "Google Search is now using AI to create interactive UI to answer your questions"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/googles-gemini-3-is-living-up-to-the-hype-and-creating-games-in-one-shot/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2025-11-19T20:39:28+00:00",
+    "source": "BleepingComputer",
+    "summary": "Google's Gemini 3 is living up to the hype and creating games in one shot Google's Gemini 3 is finally here, and we're impressed with the results, but it still does not adhere to my requests as well as Claude Code. [...]",
+    "title": "Google's Gemini 3 is living up to the hype and creating games in one shot"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-google-gemini-3-pro-and-nano-banana-2-could-launch-soon/": {
     "categories": [
@@ -1193,6 +1271,16 @@
     "summary": "\u201cBitcoin Queen\u201d gets 11 years in prison for $7.3 billion Bitcoin scam A Chinese woman\u00a0known as the \"Bitcoin Queen\" was sentenced in London to 11 years and eight months in jail for laundering Bitcoin from a \u00a35.5 billion ($7.3 billion) cryptocurrency investment scheme. [...]",
     "title": "\u201cBitcoin Queen\u201d gets 11 years in prison for $7.3 billion Bitcoin scam"
   },
+  "https://www.bleepingcomputer.com/news/security/california-man-admits-to-laundering-crypto-stolen-in-230m-heist/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-19T12:13:34+00:00",
+    "source": "BleepingComputer",
+    "summary": "California man admits to laundering crypto stolen in $230M heist A 45-year-old from Irvine, California, has pleaded guilty to laundering at least $25 million stolen in a massive $230 million cryptocurrency heist. [...]",
+    "title": "California man admits to laundering crypto stolen in $230M heist"
+  },
   "https://www.bleepingcomputer.com/news/security/checkoutcom-snubs-shinyhunters-hackers-to-donate-ransom-instead/": {
     "categories": [
       "Security"
@@ -1211,6 +1299,16 @@
     "source": "BleepingComputer",
     "summary": "China-linked hackers exploited Lanscope flaw as a zero-day in attacks China-linked cyber-espionage actors tracked as 'Bronze Butler' (Tick) exploited a Motex Lanscope Endpoint Manager vulnerability as a zero-day to deploy an updated version of their Gokcpdoor malware. [...]",
     "title": "China-linked hackers exploited Lanscope flaw as a zero-day in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-gives-govt-agencies-7-days-to-patch-new-fortinet-flaw/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-19T13:44:56+00:00",
+    "source": "BleepingComputer",
+    "summary": "CISA gives govt agencies 7 days to patch new Fortinet flaw CISA has ordered U.S. government agencies to secure their systems within a week against another vulnerability in Fortinet's FortiWeb web application firewall, which was exploited in zero-day attacks. [...]",
+    "title": "CISA gives govt agencies 7 days to patch new Fortinet flaw"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-linux-privilege-escalation-flaw-now-exploited-in-ransomware-attacks/": {
     "categories": [
@@ -1753,6 +1851,16 @@
     "summary": "Media giant Nikkei reports data breach impacting 17,000 people Japanese publishing giant Nikkei announced earlier today that its Slack messaging platform had been compromised, exposing the personal information of over 17,000 employees and business partners. [...]",
     "title": "Media giant Nikkei reports data breach impacting 17,000 people"
   },
+  "https://www.bleepingcomputer.com/news/security/meet-shinysp1d3r-new-ransomware-as-a-service-created-by-shinyhunters/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-19T13:01:09+00:00",
+    "source": "BleepingComputer",
+    "summary": "Meet ShinySp1d3r: New Ransomware-as-a-Service created by ShinyHunters An in-development build of the upcoming ShinySp1d3r ransomware-as-a-service platform has surfaced, offering a preview of the upcoming extortion operation. [...]",
+    "title": "Meet ShinySp1d3r: New Ransomware-as-a-Service created by ShinyHunters"
+  },
   "https://www.bleepingcomputer.com/news/security/microsoft-sesameop-malware-abuses-openai-assistants-api-in-attacks/": {
     "categories": [
       "Security",
@@ -1828,6 +1936,16 @@
     "summary": "New UK laws to strengthen critical infrastructure cyber defenses The United Kingdom has introduced new legislation to boost cybersecurity defenses for hospitals, energy systems, water supplies, and transport networks against cyberattacks, linked to annual damages of nearly \u00a315 bi\u2026",
     "title": "New UK laws to strengthen critical infrastructure cyber defenses"
   },
+  "https://www.bleepingcomputer.com/news/security/new-wrthug-campaign-hijacks-thousands-of-end-of-life-asus-routers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-19T14:35:15+00:00",
+    "source": "BleepingComputer",
+    "summary": "New WrtHug campaign hijacks thousands of end-of-life ASUS routers Thousands of ASUS WRT routers, mostly end-of-life or outdated devices, have been hijacked in a global campaign called Operation WrtHug that exploits six vulnerabilities. [...]",
+    "title": "New WrtHug campaign hijacks thousands of end-of-life ASUS routers"
+  },
   "https://www.bleepingcomputer.com/news/security/oauth-device-code-phishing-azure-vs-google-compared/": {
     "categories": [
       "Security"
@@ -1865,6 +1983,16 @@
     "source": "BleepingComputer",
     "summary": "Pennsylvania AG confirms data breach after INC Ransom attack The office of Pennsylvania's attorney general has confirmed that the ransomware gang behind an August 2025 cyberattack stole files containing personal and medical information. [...]",
     "title": "Pennsylvania AG confirms data breach after INC Ransom attack"
+  },
+  "https://www.bleepingcomputer.com/news/security/plushdaemon-hackers-hijack-software-updates-in-supply-chain-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-19T10:00:00+00:00",
+    "source": "BleepingComputer",
+    "summary": "\u2018PlushDaemon\u2019 hackers hijack software updates in supply-chain attacks The China-aligned advanced persistent threat (APT) tracked as 'PlushDaemon' is hijacking software update traffic to deliver malicious payloads to its targets. [...]",
+    "title": "\u2018PlushDaemon\u2019 hackers hijack software updates in supply-chain attacks"
   },
   "https://www.bleepingcomputer.com/news/security/police-disrupts-rhadamanthys-venomrat-and-elysium-malware-operations/": {
     "categories": [
@@ -1988,6 +2116,16 @@
     "summary": "SAP fixes hardcoded credentials flaw in SQL Anywhere Monitor SAP has released its November security updates that address multiple security vulnerabilities, including a maximum severity flaw in the non-GUI variant of the\u00a0SQL Anywhere Monitor and a critical code injection issue in \u2026",
     "title": "SAP fixes hardcoded credentials flaw in SQL Anywhere Monitor"
   },
+  "https://www.bleepingcomputer.com/news/security/sneaky2fa-phaas-kit-now-uses-redteamers-browser-in-the-browser-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-19T21:59:46+00:00",
+    "source": "BleepingComputer",
+    "summary": "Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack Sneaky2FA, a popular among cybercriminals phishing-as-a-service (PhaaS) kit, has added Browser-in-the-Browser (BitB) capabilities, giving \"customers\" the option to launch highly deceptive attacks. [...]",
+    "title": "Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack"
+  },
   "https://www.bleepingcomputer.com/news/security/sonicwall-says-state-sponsored-hackers-behind-security-breach-in-september/": {
     "categories": [
       "Security"
@@ -2019,6 +2157,16 @@
     "source": "BleepingComputer",
     "summary": "Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland Synology has addressed a critical-severity remote code execution (RCE) vulnerability in BeeStation products that was demonstrated at the recent Pwn2Own hacking competition. [...]",
     "title": "Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-hidden-risks-in-your-devops-stack-data-and-how-to-address-them/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-19T14:20:29+00:00",
+    "source": "BleepingComputer",
+    "summary": "The hidden risks in your DevOps stack data\u2014and how to address them DevOps repos on GitHub, GitLab, Bitbucket, and Azure DevOps face risks from weak access controls, misconfigurations, outages, and accidental deletions. GitProtect provides automated, immutable backups and fast rec\u2026",
+    "title": "The hidden risks in your DevOps stack data\u2014and how to address them"
   },
   "https://www.bleepingcomputer.com/news/security/the-top-3-browser-sandbox-threats-that-slip-past-modern-security-tools/": {
     "categories": [
@@ -2102,6 +2250,16 @@
     "summary": "US cybersecurity experts indicted for BlackCat ransomware attacks Three former employees of cybersecurity incident response companies DigitalMint and Sygnia have been indicted for allegedly hacking the networks of five U.S. companies in BlackCat (ALPHV) ransomware attacks between\u2026",
     "title": "US cybersecurity experts indicted for BlackCat ransomware attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-19T16:43:46+00:00",
+    "source": "BleepingComputer",
+    "summary": "Russian bulletproof hosting provider sanctioned over ransomware ties Today, the United States, the United Kingdom, and Australia announced sanctions targeting Russian bulletproof hosting (BPH) providers that have supported ransomware gangs and other cybercrime operations. [...]",
+    "title": "Russian bulletproof hosting provider sanctioned over ransomware ties"
+  },
   "https://www.bleepingcomputer.com/news/security/us-treasury-sanctions-north-korean-bankers-linked-to-cybercrime-it-worker-fraud/": {
     "categories": [
       "Security"
@@ -2111,6 +2269,16 @@
     "source": "BleepingComputer",
     "summary": "US sanctions North Korean bankers linked to cybercrime, IT worker fraud The U.S. Treasury Department imposed sanctions on two North Korean financial institutions and eight individuals involved in laundering cryptocurrency stolen in cybercrime and fraudulent IT worker schemes. [..\u2026",
     "title": "US sanctions North Korean bankers linked to cybercrime, IT worker fraud"
+  },
+  "https://www.bleepingcomputer.com/news/security/w3-total-cache-wordpress-plugin-vulnerable-to-php-command-injection/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-19T17:34:45+00:00",
+    "source": "BleepingComputer",
+    "summary": "W3 Total Cache WordPress plugin vulnerable to PHP command injection A critical flaw in the W3 Total Cache (W3TC) WordPress plugin can be exploited to run PHP commands on the server by posting a comment that contains a malicious payload. [...]",
+    "title": "W3 Total Cache WordPress plugin vulnerable to PHP command injection"
   },
   "https://www.bleepingcomputer.com/news/security/washington-post-data-breach-impacts-nearly-10k-employees-contractors/": {
     "categories": [
@@ -2172,6 +2340,16 @@
     "summary": "Thunderbird adds native support for Microsoft Exchange accounts Thunderbird 145 has been released with full native support for Microsoft Exchange email via the Exchange Web Services (EWS) protocol. [...]",
     "title": "Thunderbird adds native support for Microsoft Exchange accounts"
   },
+  "https://www.bleepingcomputer.com/news/technology/cloudflare-blames-this-weeks-massive-outage-on-database-issues/": {
+    "categories": [
+      "Technology"
+    ],
+    "image": "",
+    "published": "2025-11-19T10:54:54+00:00",
+    "source": "BleepingComputer",
+    "summary": "Cloudflare blames this week's massive outage on database issues On Tuesday, Cloudflare experienced its worst outage in 6 years, blocking access to many websites and online platforms for almost 6 hours after a change to database access controls triggered a cascading failure across\u2026",
+    "title": "Cloudflare blames this week's massive outage on database issues"
+  },
   "https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/": {
     "categories": [
       "Technology"
@@ -2189,6 +2367,14 @@
     "source": "darkreading",
     "summary": "150,000 Packages Flood NPM Registry in Token Farming Campaign A self-replicating attack led to a tidal wave of malicious packages in the NPM registry, targeting tokens for the tea.xyz protocol.",
     "title": "150,000 Packages Flood NPM Registry in Token Farming Campaign"
+  },
+  "https://www.darkreading.com/application-security/ai-attack-surface-agents-cyber-stakes": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf146567b72d2e73/691e1e112cdd637e65c03d1e/Agent_Smith_United_Archives_GmbH_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-19T21:50:10+00:00",
+    "source": "darkreading",
+    "summary": "The AI Attack Surface: How Agents Raise the Cyber Stakes Researcher shows how agentic AI is vulnerable to hijacking to subvert an agent's goals and how agent interaction can be altered to compromise whole networks.",
+    "title": "The AI Attack Surface: How Agents Raise the Cyber Stakes"
   },
   "https://www.darkreading.com/application-security/ai-code-security-checkpoints": {
     "categories": [],
@@ -2277,6 +2463,14 @@
     "source": "darkreading",
     "summary": "AI Agents Are Going Rogue: Here's How to Rein Them In Human-centered identity frameworks are incorrectly being applied to AI agents, creating the potential for catastrophe at machine speed, Poghosyan argues.",
     "title": "AI Agents Are Going Rogue: Here's How to Rein Them In"
+  },
+  "https://www.darkreading.com/cyber-risk/cloudflare-blames-outage-internal-error": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte9f1aac150228a24/691dafdec761fbbec783c05a/cloudflare1800_ZUMA_Press_Inc._alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-19T15:43:37+00:00",
+    "source": "darkreading",
+    "summary": "Cloudflare Blames Outage on Internal Configuration Error Initially though to be a DDoS attack, the incident was actually due to a routine change in permissions that caused widespread software failure.",
+    "title": "Cloudflare Blames Outage on Internal Configuration Error"
   },
   "https://www.darkreading.com/cyber-risk/cybers-role-rapid-rise-digital-authoritarianism": {
     "categories": [],
@@ -2402,6 +2596,14 @@
     "summary": "UNC6384 Targets European Diplomatic Entities With Windows Exploit The spear-phishing campaign uses fake European Commission and NATO-themed lures to trick diplomatic personnel into clicking malicious links.",
     "title": "UNC6384 Targets European Diplomatic Entities With Windows Exploit"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/us-strike-force-southeast-asian-scam-centers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltca3de8d99c5b6037/66687feff311eb30adf48c34/End_ru99-southeast-asia-map-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-19T02:00:00+00:00",
+    "source": "darkreading",
+    "summary": "US Creates 'Strike Force' to Take Out SE Asian Scam Centers The collaborative effort combines multiple federal departments, along with private companies to reduce, if not eliminate, billions lost annually to fraud.",
+    "title": "US Creates 'Strike Force' to Take Out SE Asian Scam Centers"
+  },
   "https://www.darkreading.com/cybersecurity-careers/shadow-program-gives-aws-exec-new-security-lens": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt189c519f85fecfa4/69176e237590586653e9cdc3/C517J2.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -2482,6 +2684,14 @@
     "summary": "Bridging the Skills Gap: How Military Veterans Are Strengthening Cybersecurity From intelligence analysts to surface warfare officers, military veterans of all backgrounds are successfully pivoting to cybersecurity careers and strengthening the industry's defense capabilities.",
     "title": "Bridging the Skills Gap: How Military Veterans Are Strengthening Cybersecurity"
   },
+  "https://www.darkreading.com/cybersecurity-operations/national-data-laws-cyber-risks-large-orgs": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5d371b0382ecebf0/691e3663eafe0318dbaf787c/China_Saudi_Arabia-Daniren-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-19T22:09:10+00:00",
+    "source": "darkreading",
+    "summary": "Do National Data Laws Carry Cyber-Risks for Large Orgs? When international corporations have to balance competing cyber laws from different countries, the result is fragmented, potentially vulnerable systems.",
+    "title": "Do National Data Laws Carry Cyber-Risks for Large Orgs?"
+  },
   "https://www.darkreading.com/cybersecurity-operations/new-startup-mate-launches-with-ai-driven-security-operations-platform": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf5ae2981cb5cbc98/67a6074e7dd6537daef9a0fa/robot-army-laurent-davoust-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -2535,6 +2745,14 @@
     "source": "darkreading",
     "summary": "Critical Claroty Authentication Bypass Flaw Opened OT to Attack CVE-2025-54603 gave attackers an opening to disrupt critical operational technology (OT) environments and critical infrastructure, plus steal data from them.",
     "title": "Critical Claroty Authentication Bypass Flaw Opened OT to Attack"
+  },
+  "https://www.darkreading.com/ics-ot-security/critical-railway-braking-systems-tampering": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc068f4477738319d/691cd55ae16a280b60a7611e/Toy_train_crash-PRILL_Mediendesign-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-19T14:00:00+00:00",
+    "source": "darkreading",
+    "summary": "Critical Railway Braking Systems Open to Tampering It only takes recycled cans, copper, and cheap gadgets off the Web to trick a train conductor into doing something dangerous.",
+    "title": "Critical Railway Braking Systems Open to Tampering"
   },
   "https://www.darkreading.com/ics-ot-security/operational-technology-security-poses-inherent-risks-for-manufacturers": {
     "categories": [],
@@ -2646,6 +2864,14 @@
     "source": "darkreading",
     "summary": "Cursor Issue Paves Way for Credential-Stealing Attacks Researchers discovered a security weakness in the AI-powered coding tool that allows malicious MCP server to hijack Cursor's internal browser.",
     "title": "Cursor Issue Paves Way for Credential-Stealing Attacks"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/fortinet-woes-continue-another-waf-zero-day-flaw": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc3c3b426cdccea34/691e33fa68c007c618088407/fortinet_JHVEPhoto_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-19T22:27:00+00:00",
+    "source": "darkreading",
+    "summary": "Fortinet Woes Continue With Another WAF Zero-Day Flaw A second zero-day vulnerability in its web application firewall (WAF) line has come under attack, raising more questions about the vendor's disclosure practices.",
+    "title": "Fortinet Woes Continue With Another WAF Zero-Day Flaw"
   },
   "https://www.darkreading.com/vulnerabilities-threats/kimsuky-httptroy-backdoor-south-korea-users": {
     "categories": [],
