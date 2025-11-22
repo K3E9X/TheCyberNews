@@ -110,6 +110,14 @@
     "summary": "Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software The challenge facing security leaders is monumental: Securing environments where failure is not an option. Reliance on traditional security postures, such as Endpoint Detection and Re\u2026",
     "title": "Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software"
   },
+  "https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5fGdXpR7pCeJpEqPu004ib52NeUwcRAWg8rpaNjFnvLAKcXXAJlHX1A4sgAfLJGc08sUQdEJnmnmtTClxO75Mp2evzyrbHLmQdTx0O3UdCbzZdTJAY71PpCj0gweks8UQDik_IpkCA5Pzxe9p8YA7u2ct5k67kFvIqHs18JF6YHSmZTuYsVbZatTsUKZV/s1600/cyberattack.jpg",
+    "published": "2025-11-21T10:42:00+00:00",
+    "source": "The Hacker News",
+    "summary": "APT24 Deploys BADAUDIO in Years-Long Espionage Hitting Taiwan and 1,000+ Domains A China-nexus threat actor known as APT24 has been observed using a previously undocumented malware dubbed BADAUDIO to establish persistent remote access to compromised networks as part of a nearly t\u2026",
+    "title": "APT24 Deploys BADAUDIO in Years-Long Espionage Hitting Taiwan and 1,000+ Domains"
+  },
   "https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html": {
     "categories": [],
     "published": "2025-11-01T13:43:00+00:00",
@@ -285,6 +293,14 @@
     "summary": "GlassWorm Malware Discovered in Three VS Code Extensions with Thousands of Installs Cybersecurity researchers have disclosed a new set of three extensions associated with the GlassWorm campaign, indicating continued attempts on part of threat actors to target the Visual Studio Co\u2026",
     "title": "GlassWorm Malware Discovered in Three VS Code Extensions with Thousands of Installs"
   },
+  "https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiId5Cf7YMovzRkPOI6S1tm4fgDKNLcFvdg3ASml-f-mWCwj0rtSAZJ-P4jmORklaJoflcXdYLEVk_EjwXMqcoy7e0c_-fAPSpE_8R5Nvt5cc4VTxf-D1Nh-8qXuAeFjKR6-TcLvZxT1o2D46Iv9dGvkNNWv79ce2E-DzN4FC6XSsQM1QxgylI1fmDMhU4E/s1600/android.jpg",
+    "published": "2025-11-21T13:00:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Google Brings AirDrop Compatibility to Android\u2019s Quick Share Using Rust-Hardened Security In a surprise move, Google on Thursday announced that it has updated Quick Share, its peer-to-peer file transfer service, to work with Apple's equipment AirDrop, allowing users to more easil\u2026",
+    "title": "Google Brings AirDrop Compatibility to Android\u2019s Quick Share Using Rust-Hardened Security"
+  },
   "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCEgNFzAj-mvy7UDCWYkUmxoSH_SYIJy6THFdmON12TKz7oNg_mQSAi4lNK-5NI1tG8106ieRb4dnWK8CNK2mOlkzK0HuyltjU237Z_oNH0sOJa1ZAUHlXQmzVEczd50DCfo4zpTN6nAqdVZoK9ZSqYK8LIgU0SeIgQWyoH7u0KOKTjnXgWga6e7a_ftvh/s1600/chrome-zeroday.jpg",
@@ -340,6 +356,14 @@
     "source": "The Hacker News",
     "summary": "GootLoader Is Back, Using a New Font Trick to Hide Malware on WordPress Sites The malware known as GootLoader has resurfaced yet again after a brief spike in activity earlier this March, according to new findings from Huntress.\nThe cybersecurity company said it observed three Goo\u2026",
     "title": "GootLoader Is Back, Using a New Font Trick to Hide Malware on WordPress Sites"
+  },
+  "https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSd96MdjXbbJYSzwIs4CNhCrhOSN5Avm0c3kgMEQVlWBzUPXLbXKs_Kyjk_LhSeKQLjJRbzxyl7SCv62tvd2GEHySWOO__C_f5h2u-5md5Nycx87_WmNUx0CSZ7FCNVEI8LEavtyCoV7cHBFDbdNDaGMrX65oRX0pR17RJcKGIA8PofZ5YhsMrhQV1xpAt/s1600/grafana.jpg",
+    "published": "2025-11-21T15:40:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation Grafana has released security updates to address a maximum severity security flaw that could allow privilege escalation or user impersonation under certain configurations.\nThe vulnerability, track\u2026",
+    "title": "Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation"
   },
   "https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html": {
     "categories": [],
@@ -653,6 +677,14 @@
     "summary": "Samsung Mobile Flaw Exploited as Zero-Day to Deploy LANDFALL Android Spyware A now-patched security flaw in Samsung Galaxy Android devices was exploited as a zero-day to deliver a \"commercial-grade\" Android spyware dubbed LANDFALL in targeted attacks in the Middle East.\nThe activ\u2026",
     "title": "Samsung Mobile Flaw Exploited as Zero-Day to Deploy LANDFALL Android Spyware"
   },
+  "https://thehackernews.com/2025/11/sec-drops-solarwinds-case-after-years.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbMvEKpOcEVwv6Ij_WSNiYkkN2wWOKLs16pD5v61b2ZqbuN2cadR1ZxO02SgX2XnVdKURTQwnC24frHCV28jknG_GC2hpjotuJIQB7ow6wCvsB-kguy5YJyr3MaTY-d3iMyIIfkWfhtYY3Re19kLkIXBXgBPtvINdqpmmtyBosGYfS9qjzmbNTSmPv2j_t/s1600/solarwinds.jpg",
+    "published": "2025-11-21T08:05:00+00:00",
+    "source": "The Hacker News",
+    "summary": "SEC Drops SolarWinds Case After Years of High-Stakes Cybersecurity Scrutiny The U.S. Securities and Exchange Commission (SEC) has abandoned its lawsuit against SolarWinds and its chief information security officer, alleging that the company had misled investors about the security\u2026",
+    "title": "SEC Drops SolarWinds Case After Years of High-Stakes Cybersecurity Scrutiny"
+  },
   "https://thehackernews.com/2025/11/securing-open-android-ecosystem-with.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPd1GerA19wNhABt5LKN6GfthI5rzfkRTbigEYmdoa_xBlhczavPQemf3AG5HSmjAYK3cot1kYKQuceJ90bhNnju1ZD9y_AnwuU_4cPawlBGIJtjtlIO7WnP8PVo4K0UEVJMSayB31YGm0TpferX6BetOhEDyB3v-faGFJB3ehP2Li9g7PpoIEoMLfO5Y/s1600/samsung.jpg",
@@ -829,6 +861,14 @@
     "summary": "When Attacks Come Faster Than Patches: Why 2026 Will be the Year of Machine-Speed Security The Race for Every New CVE\nBased on multiple 2025 industry reports: roughly 50 to 61 percent of newly disclosed vulnerabilities saw exploit code weaponized within 48 hours. Using the CISA K\u2026",
     "title": "When Attacks Come Faster Than Patches: Why 2026 Will be the Year of Machine-Speed Security"
   },
+  "https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilI5_YDygribQzJZg5C74qlMvNYPDbhlWqrYmASyrb9-lTORJ7B0Iuw1i_7M80fHWGgB2ph_w0FoEX0ptY4pTxRNr0kB_rGoJqvp3wd3f80Fc3hjkd5W8CbU1NmXQkf8H1vR8aoJsstZdcEFq7_weKbZQqKpVDBTqRjdL9uMv8WTpkifreXt1EJ7RGDqY/s1600/samsung.jpg",
+    "published": "2025-11-21T11:00:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Why IT Admins Choose Samsung for Mobile Security Ever wonder how some IT teams keep corporate data safe without slowing down employees? Of course you have.\nMobile devices are essential for modern work\u2014but with mobility comes risk. IT admins, like you, juggle protecting sensitive \u2026",
+    "title": "Why IT Admins Choose Samsung for Mobile Security"
+  },
   "https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2Typv0FhA4kzN6hRhuRsYCb7CNG7u5iId8CN_KCFj3ZCliQ0deQbIUQpJYkupf0dtKZulkLGCahDh0hfY9Ofs3PM5YCMyAnYmQH7ctyr79puTU3l6eOj6BWCt8y1bj_EI0rdT6zYrBeb_qwGuUNCBfIRtLABG51Dpr6SyxoNaV3Xj8QS-ZU01ie7jxEc/s1600/anyrun.jpg",
@@ -844,6 +884,17 @@
     "source": "The Hacker News",
     "summary": "WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide A newly discovered campaign has compromised tens of thousands of outdated or end-of-life (EoL) ASUS routers worldwide, predominantly in Taiwan, the U.S., and Russia, to rope them into a massiv\u2026",
     "title": "WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2025-11-21T13:02:11+00:00",
+    "source": "BleepingComputer",
+    "summary": "Google begins showing ads in AI Mode (AI answers) Google has started rolling out ads in AI mode, which is the company's \"answer engine,\" not a search engine. [...]",
+    "title": "Google begins showing ads in AI Mode (AI answers)"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/google-search-is-now-using-ai-to-create-interactive-ui-to-answer-your-questions/": {
     "categories": [
@@ -1045,6 +1096,16 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: October Windows updates trigger BitLocker recovery Microsoft has warned that some systems may boot into BitLocker recovery after installing the October 2025 Windows security updates. [...]",
     "title": "Microsoft: October Windows updates trigger BitLocker recovery"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2025-11-21T18:02:05+00:00",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop Microsoft has released an out-of-band cumulative update to fix a known issue causing the November 2025 KB5068966 hotpatch update to reinstall on Windows 11 systems repeatedly. [...]",
+    "title": "Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-patch-for-wsus-flaw-disabled-windows-server-hotpatching/": {
     "categories": [
@@ -1328,6 +1389,16 @@
     "summary": "Australia warns of BadCandy infections on unpatched Cisco devices The Australian government is warning about ongoing cyberattacks against unpatched Cisco IOS XE devices in the country to infect routers with the BadCandy webshell. [...]",
     "title": "Australia warns of BadCandy infections on unpatched Cisco devices"
   },
+  "https://www.bleepingcomputer.com/news/security/avast-makes-ai-driven-scam-defense-available-for-free-worldwide/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-21T15:00:10+00:00",
+    "source": "BleepingComputer",
+    "summary": "Avast Makes AI-Driven Scam Defense Available for Free Worldwide Avast is rolling out Scam Guardian, a free AI-powered protection layer that analyzes websites, messages, and links to detect rising scam threats. Powered by Gen Threat Labs data, it reveals hidden dangers in code and\u2026",
+    "title": "Avast Makes AI-Driven Scam Defense Available for Free Worldwide"
+  },
   "https://www.bleepingcomputer.com/news/security/bitcoin-queen-gets-11-years-in-prison-for-73-billion-bitcoin-scam/": {
     "categories": [
       "Security"
@@ -1437,6 +1508,16 @@
     "summary": "CISA warns of WatchGuard firewall flaw exploited in attacks CISA has ordered federal agencies to patch an actively exploited vulnerability in WatchGuard Firebox firewalls, which allows attackers to gain remote code execution on compromised devices. [...]",
     "title": "CISA warns of WatchGuard firewall flaw exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-21T23:50:27+00:00",
+    "source": "BleepingComputer",
+    "summary": "CISA warns Oracle Identity Manager RCE flaw is being actively exploited The U.S. Cybersecurity & Infrastructure Security Agency (CISA) is warning government agencies to patch an\u00a0Oracle Identity Manager tracked as CVE-2025-61757 that has been exploited in attacks, potentially as a\u2026",
+    "title": "CISA warns Oracle Identity Manager RCE flaw is being actively exploited"
+  },
   "https://www.bleepingcomputer.com/news/security/cisco-actively-exploited-firewall-flaws-now-abused-for-dos-attacks/": {
     "categories": [
       "Security"
@@ -1476,6 +1557,16 @@
     "source": "BleepingComputer",
     "summary": "Critical Cisco UCCX flaw lets attackers run commands as root Cisco has released security updates to patch a critical vulnerability in the Unified Contact Center Express (UCCX) software, which could enable\u00a0attackers to execute commands with root privileges. [...]",
     "title": "Critical Cisco UCCX flaw lets attackers run commands as root"
+  },
+  "https://www.bleepingcomputer.com/news/security/crowdstrike-catches-insider-feeding-information-to-hackers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-21T16:48:41+00:00",
+    "source": "BleepingComputer",
+    "summary": "CrowdStrike catches insider feeding information to hackers American cybersecurity firm CrowdStrike has confirmed that an insider shared screenshots taken on internal systems with hackers after they were leaked on Telegram by the Scattered Lapsus$ Hunters threat actors. [...]",
+    "title": "CrowdStrike catches insider feeding information to hackers"
   },
   "https://www.bleepingcomputer.com/news/security/cyber-theory-vs-practice-are-you-navigating-with-faulty-instruments/": {
     "categories": [
@@ -1618,6 +1709,17 @@
     "source": "BleepingComputer",
     "summary": "Fake Solidity VSCode extension on Open VSX backdoors developers A remote access trojan\u00a0dubbed SleepyDuck, and disguised as the well-known Solidity extension in the Open VSX open-source registry, uses an Ethereum smart contract to\u00a0establish a communication channel with the attacke\u2026",
     "title": "Fake Solidity VSCode extension on Open VSX backdoors developers"
+  },
+  "https://www.bleepingcomputer.com/news/security/fcc-rolls-back-cybersecurity-rules-for-telcos-despite-state-hacking-risks/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2025-11-21T16:01:41+00:00",
+    "source": "BleepingComputer",
+    "summary": "FCC rolls back cybersecurity rules for telcos, despite state-hacking risks The Federal Communications Commission (FCC) has rolled back a previous ruling that required U.S. telecom carriers to implement stricter cybersecurity measures following the massive hack from the Chinese th\u2026",
+    "title": "FCC rolls back cybersecurity rules for telcos, despite state-hacking risks"
   },
   "https://www.bleepingcomputer.com/news/security/five-plead-guilty-to-helping-north-koreans-infiltrate-us-firms/": {
     "categories": [
@@ -1765,6 +1867,16 @@
     "source": "BleepingComputer",
     "summary": "Gootloader malware is back with new tricks after 7-month break The Gootloader malware loader operation has returned after a 7-month absence and is once again performing SEO poisoning to promote fake websites that distribute the malware. [...]",
     "title": "Gootloader malware is back with new tricks after 7-month break"
+  },
+  "https://www.bleepingcomputer.com/news/security/grafana-warns-of-max-severity-admin-spoofing-vulnerability/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-21T17:58:32+00:00",
+    "source": "BleepingComputer",
+    "summary": "Grafana warns of max severity admin spoofing vulnerability Grafana Labs is warning of a maximum severity vulnerability (CVE-2025-41115) in its Enterprise product that can be exploited to treat new users as administrators or for privilege escalation. [...]",
+    "title": "Grafana warns of max severity admin spoofing vulnerability"
   },
   "https://www.bleepingcomputer.com/news/security/hacker-claims-to-steal-23tb-data-from-italian-rail-group-almaviva/": {
     "categories": [
@@ -2266,6 +2378,16 @@
     "summary": "SAP fixes hardcoded credentials flaw in SQL Anywhere Monitor SAP has released its November security updates that address multiple security vulnerabilities, including a maximum severity flaw in the non-GUI variant of the\u00a0SQL Anywhere Monitor and a critical code injection issue in \u2026",
     "title": "SAP fixes hardcoded credentials flaw in SQL Anywhere Monitor"
   },
+  "https://www.bleepingcomputer.com/news/security/scattered-spider-teens-plead-not-guilty-to-uk-transport-hack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-21T15:41:24+00:00",
+    "source": "BleepingComputer",
+    "summary": "'Scattered Spider' teens plead not guilty to UK transport hack Two British teenagers have denied charges related to an investigation into the breach of Transport for London (TfL) in August 2024, which caused millions of pounds in damage and exposed customer data. [...]",
+    "title": "'Scattered Spider' teens plead not guilty to UK transport hack"
+  },
   "https://www.bleepingcomputer.com/news/security/sneaky2fa-phaas-kit-now-uses-redteamers-browser-in-the-browser-attack/": {
     "categories": [
       "Security"
@@ -2531,6 +2653,18 @@
     "summary": "Cloudflare hit by outage affecting global network services Cloudflare is investigating an outage affecting its global network services, with users encountering \"internal server error\" messages when attempting to access affected websites and online platforms. [...]",
     "title": "Cloudflare hit by outage affecting global network services"
   },
+  "https://www.bleepingcomputer.com/news/technology/nvidia-fixes-gaming-issues-caused-by-october-windows-update/": {
+    "categories": [
+      "Technology",
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2025-11-21T19:57:48+00:00",
+    "source": "BleepingComputer",
+    "summary": "Nvidia confirms October Windows updates cause gaming issues Nvidia has confirmed that last month's security updates are causing gaming performance issues on Windows 11 24H2 and Windows 11 25H2\u00a0systems. [...]",
+    "title": "Nvidia confirms October Windows updates cause gaming issues"
+  },
   "https://www.darkreading.com/application-security/150000-packages-flood-npm-registry-token-farming": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4e512c5faf6c8b4c/691785ebcc165a639405481b/tidalwave_RGBVenturesSuperStock_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -2578,6 +2712,14 @@
     "source": "darkreading",
     "summary": "Hardened Containers Look to Eliminate Common Source of Vulnerabilities A kitchen-sink approach to building containers has loaded many with vulnerabilities. A handful of companies are trying to slim them down.",
     "title": "Hardened Containers Look to Eliminate Common Source of Vulnerabilities"
+  },
+  "https://www.darkreading.com/application-security/line-messaging-bugs-asian-cyber-espionage": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8a550cb8157232e9/6920adfbbc48dd3d69b0647b/tokyo-mauritius_images_GmbH-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-21T20:18:01+00:00",
+    "source": "darkreading",
+    "summary": "LINE Messaging Bugs Open Asian Users to Cyber Espionage In a potential gift to geopolitical adversaries, the encrypted messaging app uses a leaky custom protocol that allows message replays, impersonation attacks, and sensitive information exposure from chats.",
+    "title": "LINE Messaging Bugs Open Asian Users to Cyber Espionage"
   },
   "https://www.darkreading.com/application-security/malicious-npm-packages-adspect-cloaking-crypto-scam": {
     "categories": [],
@@ -2658,6 +2800,14 @@
     "summary": "Grandparents to C-Suite: Elder Fraud Reveals Gaps in Human-Centered Cybersecurity Cybercriminals are weaponizing AI voice cloning and publicly available data to craft social engineering scams that emotionally manipulate senior citizens\u2014and drain billions from their savings.",
     "title": "Grandparents to C-Suite: Elder Fraud Reveals Gaps in Human-Centered Cybersecurity"
   },
+  "https://www.darkreading.com/cyber-risk/hack-hackers-6-laws-staying-ahead-cyberattackers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1f72cfd8cb2e8f9e/64f17dd16d7cd0c2dc4668fb/lawsuit_Paul_Hill_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-21T20:11:28+00:00",
+    "source": "darkreading",
+    "summary": "Hack the Hackers: 6 Laws for Staying Ahead of the Attackers A new security framework responds to a shift in attackers' tactics, one that allows them to infiltrate enterprises &quot;silently&quot; through their own policies.",
+    "title": "Hack the Hackers: 6 Laws for Staying Ahead of the Attackers"
+  },
   "https://www.darkreading.com/cyber-risk/how-cisos-can-best-work-with-ceos-and-the-board-lessons-from-the-field": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt972f0f9a7fc30a5c/691732bcbbb89425cc630efe/colleagues_Cavan_Images_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -2681,6 +2831,14 @@
     "source": "darkreading",
     "summary": "Microsoft Backs Massive AI Push in UAE, Raising Security Concerns In partnership with Emirates tech company G42, Microsoft is building the first stage of a 5-gigawatt US-UAE AI campus using Nvidia GPUs.",
     "title": "Microsoft Backs Massive AI Push in UAE, Raising Security Concerns"
+  },
+  "https://www.darkreading.com/cyber-risk/us-makes-cyber-strategy-changes": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd825c3999cba4256/691f91987c947d7b0e381088/WH-national-cyber-director-sean-cairncross-Aspen-Institute.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-21T14:00:00+00:00",
+    "source": "darkreading",
+    "summary": "Switching to Offense: US Makes Cyber Strategy Changes The US national cyber director describes the next cyber strategy as focusing &quot;on shaping adversary behavior,&quot; adding consequences and aggressive response.",
+    "title": "Switching to Offense: US Makes Cyber Strategy Changes"
   },
   "https://www.darkreading.com/cyber-risk/zombie-projects-rise-again-undermine-security": {
     "categories": [],
@@ -2744,6 +2902,14 @@
     "summary": "Ribbon Communications Breach Marks Latest Telecom Attack The US telecom company disclosed that suspected nation-state actors first gained access to its network in December of last year, though it's unclear if attackers obtained sensitive data.",
     "title": "Ribbon Communications Breach Marks Latest Telecom Attack"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/salesforce-customers-hacked-gainsight": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt00fb6e0ca98f1d13/678179317b27f0e9b1e6aa6f/deja_vu-Lobro-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-21T21:22:51+00:00",
+    "source": "darkreading",
+    "summary": "Deja Vu: Salesforce Customers Hacked Again, Via Gainsight In a repeat of similar attacks during the summer, threat actors affiliated with the ShinyHunters extortion group used a third-party application to steal organizations' Salesforce data.",
+    "title": "Deja Vu: Salesforce Customers Hacked Again, Via Gainsight"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/sesameop-backdoor-openai-api-covert-c2": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt89d9c5055cccc48e/6909f85e03df735b7b273f0b/backdoor-agefotostock-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -2782,6 +2948,14 @@
     "source": "darkreading",
     "summary": "Learning Sales Skills Can Make Security Professionals More Effective Amazon Web Services VP Sara Duffer highlights the top lessons she brought back to her security role after taking part in Amazon's shadow program.",
     "title": "Learning Sales Skills Can Make Security Professionals More Effective"
+  },
+  "https://www.darkreading.com/cybersecurity-careers/with-ai-reshaping-entry-level-cyber-what-happens-to-the-security-talent-pipeline-": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8c42c6ba65fdf850/692073697590580557e9dce6/teamworking_Geber86_iStock_000035944166_Medium.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-21T15:02:45+00:00",
+    "source": "darkreading",
+    "summary": "With AI Reshaping Entry-Level Cyber, What Happens to the Security Talent Pipeline? Automation is rewriting early-career cybersecurity work, raising urgent questions about how the next generation of security professionals will gain real-world expertise.",
+    "title": "With AI Reshaping Entry-Level Cyber, What Happens to the Security Talent Pipeline?"
   },
   "https://www.darkreading.com/cybersecurity-operations/ai-app-spending-report-where-are-the-security-tools": {
     "categories": [],
@@ -2830,6 +3004,14 @@
     "source": "darkreading",
     "summary": "Cloud Break: IoT Devices Open to Silent Takeover Via Firewalls IoT devices can be compromised, thanks to gaps in cloud management interfaces for firewalls and routers, even if they're protected by security software or not online.",
     "title": "Cloud Break: IoT Devices Open to Silent Takeover Via Firewalls"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/cloudflares-one-stop-shop-convenience-global-digital-economy": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2e9218040b184352/692096544887bd66c64667dd/cloudflare_error_message_sjscreens_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-21T20:15:07+00:00",
+    "source": "darkreading",
+    "summary": "Cloudflare's One-Stop-Shop Convenience Takes Down Global Digital Economy Even the most advanced systems like Cloudflare can fall victim to software issues and become a global point of failure, Dr. David Utzke argues, adding that the recent outage should be a warning for enterpris\u2026",
+    "title": "Cloudflare's One-Stop-Shop Convenience Takes Down Global Digital Economy"
   },
   "https://www.darkreading.com/cybersecurity-operations/iran-cyber-objectives": {
     "categories": [],
@@ -2886,6 +3068,14 @@
     "source": "darkreading",
     "summary": "Let's Get Physical: A New Convergence for Electrical Grid Security The power grid is being attacked online and IRL. Increasingly, regulators and industry experts agree: Security teams need to focus on both cyber and physical threats, together.",
     "title": "Let's Get Physical: A New Convergence for Electrical Grid Security"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/securing-win-what-cybersecurity-learn-from-paddock": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt37741e93e49d05eb/69206ce5c761fbfd2c83c577/race-car-wisnu-haryo-yudhanto-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-20T23:23:05+00:00",
+    "source": "darkreading",
+    "summary": "Securing the Win: What Cybersecurity Can Learn From the Paddock A Formula 1 pit crew demonstrates the basic principles of how modern security teams should work.",
+    "title": "Securing the Win: What Cybersecurity Can Learn From the Paddock"
   },
   "https://www.darkreading.com/cybersecurity-operations/security-problems-cyber-training-fails-miserably": {
     "categories": [],
