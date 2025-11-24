@@ -1333,6 +1333,19 @@
     "summary": "Windows 11 tests shared Bluetooth audio support, but only for AI PCs If you have two headphones, speakers, earbuds, or any other Bluetooth hardware, you can now use both simultaneously on a Copilot+ PC. [...]",
     "title": "Windows 11 tests shared Bluetooth audio support, but only for AI PCs"
   },
+  "https://www.bleepingcomputer.com/news/mobile/google-enables-pixel-to-iphone-file-sharing-via-quick-share-airdrop/": {
+    "categories": [
+      "Mobile",
+      "Apple",
+      "Google",
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-23T15:32:46+00:00",
+    "source": "BleepingComputer",
+    "summary": "Google enables Pixel-to-iPhone file sharing via Quick Share, AirDrop Google has added interoperability support\u00a0between Android Quick Share and Apple AirDrop, to let users share files between Pixel devices and iPhones. [...]",
+    "title": "Google enables Pixel-to-iPhone file sharing via Quick Share, AirDrop"
+  },
   "https://www.bleepingcomputer.com/news/security/5-reasons-why-attackers-are-phishing-over-linkedin/": {
     "categories": [
       "Security"
@@ -1694,6 +1707,16 @@
     "summary": "Dutch police seizes 250 servers used by \u201cbulletproof hosting\u201d service The police in the Netherlands have seized around 250 physical servers powering a bulletproof hosting service in the country used exclusively by cybercriminals for providing complete anonymity. [...]",
     "title": "Dutch police seizes 250 servers used by \u201cbulletproof hosting\u201d service"
   },
+  "https://www.bleepingcomputer.com/news/security/enterprise-password-security-and-secrets-management-with-passwork-7/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-23T14:45:54+00:00",
+    "source": "BleepingComputer",
+    "summary": "Enterprise password security and secrets management with Passwork 7 Passwork 7 unifies enterprise password and secrets management in a self-hosted platform. Organizations can automate credential workflows and test the full system with a free trial and up to 50% Black Friday savin\u2026",
+    "title": "Enterprise password security and secrets management with Passwork 7"
+  },
   "https://www.bleepingcomputer.com/news/security/eurofiber-france-warns-of-breach-after-hacker-tries-to-sell-customer-data/": {
     "categories": [
       "Security"
@@ -2003,6 +2026,16 @@
     "summary": "Hyundai AutoEver America data breach exposes SSNs, drivers licenses Hyundai AutoEver America is notifying individuals that hackers breached the company's IT environment and gained access to personal information. [...]",
     "title": "Hyundai AutoEver America data breach exposes SSNs, drivers licenses"
   },
+  "https://www.bleepingcomputer.com/news/security/iberia-discloses-customer-data-leak-after-vendor-security-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-23T13:46:25+00:00",
+    "source": "BleepingComputer",
+    "summary": "Iberia discloses customer data leak after vendor security breach Spanish flag carrier Iberia has begun notifying customers of a data security incident stemming from a compromise at one of its suppliers. The disclosure comes days after a threat actor claimed on hacker forums to ha\u2026",
+    "title": "Iberia discloses customer data leak after vendor security breach"
+  },
   "https://www.bleepingcomputer.com/news/security/id-verification-laws-are-fueling-the-next-wave-of-breaches/": {
     "categories": [
       "Security"
@@ -2157,6 +2190,16 @@
     "source": "BleepingComputer",
     "summary": "NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features NAKIVO Backup & Replication v11.1 expands disaster recovery with real-time replication, enhanced Proxmox VE support, and granular physical backups. The update adds MSP Direct Connect for secure client manage\u2026",
     "title": "NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-costco-gold-star-members-also-get-a-40-digital-costco-shop-card/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-23T13:09:17+00:00",
+    "source": "BleepingComputer",
+    "summary": "New Costco Gold Star Members also get a $40 Digital Costco Shop Card The holidays can be hard on any budget, but there may be a way to make it a little easier. Instead of dashing through the snow all around town, get all your shopping done under one roof at Costco. Right now, you\u2026",
+    "title": "New Costco Gold Star Members also get a $40 Digital Costco Shop Card"
   },
   "https://www.bleepingcomputer.com/news/security/new-indonesianfoods-worm-floods-npm-with-100-000-packages/": {
     "categories": [
