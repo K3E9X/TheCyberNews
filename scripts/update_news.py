@@ -56,6 +56,7 @@ class NewsItem:
     summary: str = ""
     categories: List[str] = field(default_factory=list)
     image: str = ""
+    severity: str = "LOW"
 
     @property
     def published_iso(self) -> str:
@@ -93,6 +94,7 @@ class NewsCache:
             "source": item.source,
             "categories": item.categories,
             "image": item.image,
+            "severity": item.severity,
         }
 
 
@@ -299,6 +301,46 @@ def _write_commit_message(brief: DailyBrief) -> None:
     COMMIT_MESSAGE_FILE.write_text(message)
 
 
+def detect_severity(title: str, summary: str, categories: List[str]) -> str:
+    """Detect threat severity based on keywords in title, summary and categories."""
+    text = (title + " " + summary + " " + " ".join(categories)).lower()
+
+    # CRITICAL: Immediate threats, active exploitation, zero-days
+    critical_keywords = [
+        "zero-day", "0-day", "actively exploited", "active exploitation",
+        "ransomware attack", "data breach", "supply chain attack",
+        "critical vulnerability", "emergency patch", "widespread attack"
+    ]
+
+    # HIGH: Serious vulnerabilities, major incidents
+    high_keywords = [
+        "critical", "severe", "high-risk", "remote code execution", "rce",
+        "privilege escalation", "authentication bypass", "ransomware",
+        "apt", "nation-state", "targeted attack"
+    ]
+
+    # MEDIUM: Notable security issues
+    medium_keywords = [
+        "vulnerability", "cve-", "security flaw", "patch", "malware",
+        "phishing", "exploit", "breach", "compromise"
+    ]
+
+    # Check in order of severity
+    for keyword in critical_keywords:
+        if keyword in text:
+            return "CRITICAL"
+
+    for keyword in high_keywords:
+        if keyword in text:
+            return "HIGH"
+
+    for keyword in medium_keywords:
+        if keyword in text:
+            return "MEDIUM"
+
+    return "LOW"
+
+
 def extract_image_from_entry(entry) -> str:
     """Extract image URL from RSS entry using multiple methods."""
     # Try media:content (common in RSS feeds)
@@ -334,18 +376,21 @@ def parse_entry(entry, source: str) -> Optional[NewsItem]:
     if not published_parsed:
         return None
     published = dt.datetime(*published_parsed[:6], tzinfo=dt.timezone.utc)
+    title = entry.get("title", "Untitled")
     summary = entry.get("summary", "")
     categories = [tag.get("term", "") for tag in entry.get("tags", []) if tag.get("term")]
     image = extract_image_from_entry(entry)
+    severity = detect_severity(title, summary, categories)
 
     return NewsItem(
-        title=entry.get("title", "Untitled"),
+        title=title,
         link=entry.get("link", ""),
         published=published,
         source=source,
         summary=summary,
         categories=categories,
         image=image,
+        severity=severity,
     )
 
 
@@ -370,6 +415,7 @@ def summarise_news(items: List[NewsItem], cache: NewsCache, summariser: Summaris
             item.summary = cached.get("summary", "")
             item.categories = cached.get("categories", [])
             item.image = cached.get("image", item.image)
+            item.severity = cached.get("severity", item.severity)
         else:
             item.summary = summariser.summarise(item)
             cache.set(item.link, item)
@@ -378,11 +424,31 @@ def summarise_news(items: List[NewsItem], cache: NewsCache, summariser: Summaris
     return results
 
 
+def calculate_threat_level(items: List[NewsItem]) -> str:
+    """Calculate overall threat level based on article severities."""
+    severity_counts = {"CRITICAL": 0, "HIGH": 0, "MEDIUM": 0, "LOW": 0}
+
+    for item in items[:20]:  # Check top 20 articles
+        severity_counts[item.severity] += 1
+
+    # Determine overall threat level
+    if severity_counts["CRITICAL"] >= 2:
+        return "CRITICAL"
+    elif severity_counts["CRITICAL"] >= 1 or severity_counts["HIGH"] >= 4:
+        return "HIGH"
+    elif severity_counts["HIGH"] >= 2 or severity_counts["MEDIUM"] >= 5:
+        return "MEDIUM"
+    else:
+        return "LOW"
+
+
 def render_site(
     items: List[NewsItem],
     brief: DailyBrief,
     previous: Optional[DailyBrief],
 ) -> None:
+    threat_level = calculate_threat_level(items)
+
     env = Environment(
         loader=FileSystemLoader(TEMPLATE_DIR),
         autoescape=select_autoescape(["html", "xml"]),
@@ -393,6 +459,7 @@ def render_site(
         items=items,
         daily_brief=brief,
         previous_brief=previous,
+        threat_level=threat_level,
     )
     (SITE_DIR / "index.html").write_text(content, encoding="utf-8")
 

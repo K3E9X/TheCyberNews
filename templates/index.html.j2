@@ -30,6 +30,23 @@
           radial-gradient(100% 100% at -20% 0%, rgba(14, 165, 233, 0.18) 0%, rgba(5, 6, 10, 0) 55%),
           var(--bg);
         color: var(--text);
+        position: relative;
+      }
+      /* Cyberpunk scanlines effect */
+      body::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        background: repeating-linear-gradient(
+          0deg,
+          rgba(0, 0, 0, 0.15) 0px,
+          transparent 1px,
+          transparent 2px,
+          rgba(0, 0, 0, 0.15) 3px
+        );
+        pointer-events: none;
+        opacity: 0.4;
+        z-index: 9999;
       }
       main {
         width: min(960px, 100%);
@@ -59,11 +76,132 @@
         margin: 0;
         font-size: clamp(2.75rem, 5vw, 3.75rem);
         letter-spacing: -0.03em;
+        position: relative;
+      }
+      /* Glitch effect on hover */
+      h1:hover {
+        animation: glitch 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) both infinite;
+      }
+      @keyframes glitch {
+        0%, 100% {
+          transform: translate(0);
+        }
+        20% {
+          transform: translate(-2px, 2px);
+        }
+        40% {
+          transform: translate(-2px, -2px);
+        }
+        60% {
+          transform: translate(2px, 2px);
+        }
+        80% {
+          transform: translate(2px, -2px);
+        }
       }
       p {
         margin: 0;
         color: var(--muted);
         line-height: 1.75;
+      }
+      /* Threat Level Indicator */
+      .threat-indicator {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.65rem;
+        padding: 0.5rem 1.25rem;
+        border-radius: 999px;
+        font-size: 0.75rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.15em;
+        border: 1.5px solid;
+        position: relative;
+        overflow: hidden;
+        margin-bottom: 1rem;
+      }
+      .threat-indicator::before {
+        content: "";
+        position: absolute;
+        left: -100%;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+        animation: scan 3s infinite;
+      }
+      @keyframes scan {
+        0% {
+          left: -100%;
+        }
+        100% {
+          left: 100%;
+        }
+      }
+      .threat-indicator.CRITICAL {
+        background: rgba(239, 68, 68, 0.15);
+        border-color: #ef4444;
+        color: #fca5a5;
+      }
+      .threat-indicator.HIGH {
+        background: rgba(249, 115, 22, 0.15);
+        border-color: #f97316;
+        color: #fdba74;
+      }
+      .threat-indicator.MEDIUM {
+        background: rgba(234, 179, 8, 0.15);
+        border-color: #eab308;
+        color: #fde047;
+      }
+      .threat-indicator.LOW {
+        background: rgba(34, 197, 94, 0.15);
+        border-color: #22c55e;
+        color: #86efac;
+      }
+      .threat-indicator.CRITICAL::after {
+        content: "⚠";
+        animation: pulse 1s infinite;
+      }
+      @keyframes pulse {
+        0%, 100% {
+          opacity: 1;
+        }
+        50% {
+          opacity: 0.5;
+        }
+      }
+      /* Severity Badges */
+      .severity-badge {
+        display: inline-flex;
+        align-items: center;
+        padding: 0.25rem 0.65rem;
+        border-radius: 4px;
+        font-size: 0.65rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        border: 1px solid;
+        position: relative;
+      }
+      .severity-badge.CRITICAL {
+        background: rgba(239, 68, 68, 0.2);
+        border-color: #ef4444;
+        color: #fca5a5;
+      }
+      .severity-badge.HIGH {
+        background: rgba(249, 115, 22, 0.2);
+        border-color: #f97316;
+        color: #fdba74;
+      }
+      .severity-badge.MEDIUM {
+        background: rgba(234, 179, 8, 0.2);
+        border-color: #eab308;
+        color: #fde047;
+      }
+      .severity-badge.LOW {
+        background: rgba(34, 197, 94, 0.2);
+        border-color: #22c55e;
+        color: #86efac;
       }
       .brief-grid {
         display: grid;
@@ -288,6 +426,9 @@
     <main>
       <header>
         <span class="eyebrow">CyberNews</span>
+        <div class="threat-indicator {{ threat_level }}">
+          <span>Threat Level: {{ threat_level }}</span>
+        </div>
         <h1>{{ daily_brief.headline }}</h1>
         <p>{{ daily_brief.narrative }}</p>
         <div class="brief-grid">
@@ -358,6 +499,7 @@
             <div class="meta">
               <span>{{ item.source }}</span>
               <span>{{ item.published_human }}</span>
+              <span class="severity-badge {{ item.severity }}">{{ item.severity }}</span>
             </div>
             <header>
               <a href="{{ item.link }}" target="_blank" rel="noopener">
