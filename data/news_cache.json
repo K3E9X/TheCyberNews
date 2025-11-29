@@ -533,6 +533,15 @@
     "summary": "Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale You\u2019ve probably already moved some of your business to the cloud\u2014or you\u2019re planning to. That\u2019s a smart move. It helps you work faster, serve your customers better, and stay ahead.\nBut as your cloud set\u2026",
     "title": "Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale"
   },
+  "https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMdVHqK8sA27WWR3ySGxson4kuqmBaXHQlFm3PSmRaHV6IGdnk_zK0tUvgrFyKepL2COnnm_yiIBdTy-ho7pFKSPQP7cCxkOugoV0s_2k3dUBYC0FI5BkY2tmR3Tsbxktsq7TnQRqzDhiOHe9SjVrRq2XHt5BYU01ctj8yUA8BTv6cDT8zREtEYAdrViUn/s1600/setuptools.jpg",
+    "published": "2025-11-28T16:27:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages Cybersecurity researchers have discovered vulnerable code in legacy Python packages that could potentially pave the way for a supply chain compromise on the Python Package Index (PyPI) via a dom\u2026",
+    "title": "Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages"
+  },
   "https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsNAYBUN0RQ2z5BWnN5wrHTjB-XMx0nYPvJ5PMwCjxNk6CVExZCv401_jX_vaktwnLz8B3owRjupOCNIH7s2lbATDXkpMWwounrKb1OaiINgihVNcp_Mc17Wt7y2-LJBiEOk04hyphenhyphen6WlNKg76W5-f3fx2SDPtSSHQSO5gPu0E4V5RmzDEH0WcdpmAzXG0iB/s1600/soladity.jpg",
@@ -605,6 +614,15 @@
     "summary": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic Microsoft has disclosed details of a novel side-channel attack targeting remote language models that could enable a passive adversary with capabilities to observe network traffic to glean\u2026",
     "title": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic"
   },
+  "https://thehackernews.com/2025/11/ms-teams-guest-access-can-remove.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_Md0lsjItddYFH1gCm6LZYxVDobM4ZWOweikeQFAT0yZNSYS8WKfg61LxSRjc49watAPtqESgvWx0UwppGQuw9FU8OMQDf9EOi1fWnVXF_H8L7QNOplD1-vdDAO-oU4cRg9CX2jky45M7SkmAF6b7GGi7UwMZQN4_7wnlG2D1mYl28_sUC7hLta8u37Oa/s1600/msteams.jpg",
+    "published": "2025-11-28T08:33:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants Cybersecurity researchers have shed light on a cross-tenant blind spot that allows attackers to bypass Microsoft Defender for Office 365 protections via the guest access feature in Teams.\n\"When \u2026",
+    "title": "MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants"
+  },
   "https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmp-SI1cgUsmlMG3lE9_zYqMARsZ452j97kJNlUe_E0cqUX6QHXfPp6-pMHEQZuKlr8mzJI004vOCYTQVaygW0V7Mlcd2hmwk599TNk-85utedJE9cPyZO_ezKR3E-THcjGP8xeVc3udXnrCz6OFT8OCqVaZY6xry3kbsJmCJmdcq-Gz9lrUigoyNbEWhz/s1600/hacker-uk.jpg",
@@ -652,6 +670,15 @@
     "source": "The Hacker News",
     "summary": "New Sturnus Android Trojan Quietly Captures Encrypted Chats and Hijacks Devices Cybersecurity researchers have disclosed details of a new Android banking trojan called Sturnus that enables credential theft and full device takeover to conduct financial fraud.\n\"A key differentiator\u2026",
     "title": "New Sturnus Android Trojan Quietly Captures Encrypted Chats and Hijacks Devices"
+  },
+  "https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbHywoT-t7dx-yFp5L6Kj6AHPWvHYFoziGtqauAQGWvY55xCGgiw80AKaK962SgdMmomBf9EMT9cPAGPxx5GTi4lFq_ckm1Cjk3hGtRo1AnWVEjZkd89HlSOWuLuBC-whL565LElFcq2D55c9NrmQHx30eGNNugpcLqPAKDxRC5Zkwb-1lX1OC4Xu-QH13/s1600/npm-malware.jpg",
+    "published": "2025-11-28T16:18:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware The North Korean threat actors behind the Contagious Interview campaign have continued to flood the npm registry with 197 more malicious packages since last month.\nAccording to Socket, these packag\u2026",
+    "title": "North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware"
   },
   "https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html": {
     "categories": [],
@@ -1060,6 +1087,15 @@
     "source": "The Hacker News",
     "summary": "Why IT Admins Choose Samsung for Mobile Security Ever wonder how some IT teams keep corporate data safe without slowing down employees? Of course you have.\nMobile devices are essential for modern work\u2014but with mobility comes risk. IT admins, like you, juggle protecting sensitive \u2026",
     "title": "Why IT Admins Choose Samsung for Mobile Security"
+  },
+  "https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhusj8mwC5L9YXaH6bYVNnFLp4wM8q6RJloaKi4WKGtv4v1ys_SUlcI-q69rWXZCwhwDBdG6Uuy-2eb_1_sbK27TtKqlx37mNgxYB3kZ1lnwN9uMKnHVsrDMiEFhM3ObcANB-aSkvyVRkJn-3FAnKq0CD8F4nuZds4BlIAPT5GCCdHP7CNFG3Bwde-amUw/s1600/keeper.jpg",
+    "published": "2025-11-28T11:09:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Why Organizations Are Turning to RPAM As IT environments become increasingly distributed and organizations adopt hybrid and remote work at scale, traditional perimeter-based security models and on-premises Privileged Access Management (PAM) solutions no longer suffice. IT adminis\u2026",
+    "title": "Why Organizations Are Turning to RPAM"
   },
   "https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html": {
     "categories": [],
@@ -1507,6 +1543,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Windows Task Manager won\u2019t quit after KB5067036 update Microsoft has confirmed a known issue that is preventing users from quitting the Windows 11 Task Manager after installing the October 2025 optional update. [...]",
     "title": "Microsoft: Windows Task Manager won\u2019t quit after KB5067036 update"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-updates-hide-password-icon-on-lock-screen/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2025-11-28T18:07:17+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Windows updates make password login option invisible Microsoft warned users that Windows 11 updates released since August may cause the password sign-in option to disappear from the lock screen options, even though the button remains functional. [...]",
+    "title": "Microsoft: Windows updates make password login option invisible"
   },
   "https://www.bleepingcomputer.com/news/microsoft/still-on-windows-10-enroll-in-free-extended-security-updates/": {
     "categories": [
@@ -2139,6 +2186,17 @@
     "summary": "French agency Pajemploi reports data breach affecting 1.2M people Pajemploi, the French social security service for parents and home-based childcare providers, has suffered a data breach that may have exposed personal information of 1.2 million individuals. [...]",
     "title": "French agency Pajemploi reports data breach affecting 1.2M people"
   },
+  "https://www.bleepingcomputer.com/news/security/french-football-federation-fff-discloses-data-breach-after-cyberattack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-28T16:12:03+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "French Football Federation discloses data breach after cyberattack The French Football Federation (FFF) disclosed a data breach on Friday after attackers used a compromised account to gain access to administrative management software used by football clubs. [...]",
+    "title": "French Football Federation discloses data breach after cyberattack"
+  },
   "https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-on-openvsx-with-3-new-vscode-extensions/": {
     "categories": [
       "Security"
@@ -2243,6 +2301,17 @@
     "source": "BleepingComputer",
     "summary": "Grafana warns of max severity admin spoofing vulnerability Grafana Labs is warning of a maximum severity vulnerability (CVE-2025-41115) in its Enterprise product that can be exploited to treat new users as administrators or for privilege escalation. [...]",
     "title": "Grafana warns of max severity admin spoofing vulnerability"
+  },
+  "https://www.bleepingcomputer.com/news/security/greynoise-launches-free-scanner-to-check-if-youre-part-of-a-botnet/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-27T15:11:21+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "GreyNoise launches free scanner to check if you're part of a botnet GreyNoise Labs has launched a free tool called GreyNoise IP Check that lets users check if their IP address has been observed in malicious scanning operations, like botnet and residential proxy\u00a0networks. [...]",
+    "title": "GreyNoise launches free scanner to check if you're part of a botnet"
   },
   "https://www.bleepingcomputer.com/news/security/hacker-claims-to-steal-23tb-data-from-italian-rail-group-almaviva/": {
     "categories": [
@@ -2436,6 +2505,17 @@
     "summary": "Malicious Blender model files deliver StealC infostealing malware A Russian-linked campaign delivers the StealC V2 information stealer malware through malicious Blender files uploaded to 3D model marketplaces like CGTrader. [...]",
     "title": "Malicious Blender model files deliver StealC infostealing malware"
   },
+  "https://www.bleepingcomputer.com/news/security/malicious-llms-empower-inexperienced-hackers-with-advanced-tools/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-27T17:15:27+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Malicious LLMs empower inexperienced hackers with advanced tools Unrestricted large language models (LLMs) like WormGPT 4 and KawaiiGPT are improving their capabilities to generate malicious code, delivering functional scripts for ransomware encryptors and lateral movement. [...]",
+    "title": "Malicious LLMs empower inexperienced hackers with advanced tools"
+  },
   "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-abuse-adspect-redirects-to-evade-security/": {
     "categories": [
       "Security",
@@ -2456,6 +2536,18 @@
     "source": "BleepingComputer",
     "summary": "Malicious NuGet packages drop disruptive 'time bombs' Several malicious packages on NuGet have sabotage payloads scheduled to activate in 2027 and 2028, targeting database implementations and\u00a0Siemens S7 industrial control devices. [...]",
     "title": "Malicious NuGet packages drop disruptive 'time bombs'"
+  },
+  "https://www.bleepingcomputer.com/news/security/man-behind-in-flight-evil-twin-wifi-attacks-gets-7-years-in-prison/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2025-11-28T18:25:28+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison A 44-year-old man was sentenced to seven years and four months in prison for operating an \"evil twin\" WiFi network to steal the data of unsuspecting travelers at various airports across Australia. [...]",
+    "title": "Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison"
   },
   "https://www.bleepingcomputer.com/news/security/media-giant-nikkei-reports-data-breach-impacting-17-000-people/": {
     "categories": [
@@ -2763,6 +2855,17 @@
     "source": "BleepingComputer",
     "summary": "Princeton University discloses data breach affecting donors, alumni A Princeton University database was compromised in a cyberattack on November 10, exposing the personal information of alumni, donors, faculty members, and students. [...]",
     "title": "Princeton University discloses data breach affecting donors, alumni"
+  },
+  "https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-28T17:43:02+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Public GitLab repositories exposed more than 17,000 secrets After scanning all 5.6 million public repositories on GitLab Cloud, a security engineer discovered more than 17,000 exposed secrets across over 2,800\u00a0unique domains. [...]",
+    "title": "Public GitLab repositories exposed more than 17,000 secrets"
   },
   "https://www.bleepingcomputer.com/news/security/qnap-fixes-seven-nas-zero-day-vulnerabilities-exploited-at-pwn2own/": {
     "categories": [

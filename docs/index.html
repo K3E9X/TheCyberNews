@@ -30,6 +30,23 @@
           radial-gradient(100% 100% at -20% 0%, rgba(14, 165, 233, 0.18) 0%, rgba(5, 6, 10, 0) 55%),
           var(--bg);
         color: var(--text);
+        position: relative;
+      }
+      /* Cyberpunk scanlines effect */
+      body::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        background: repeating-linear-gradient(
+          0deg,
+          rgba(0, 0, 0, 0.15) 0px,
+          transparent 1px,
+          transparent 2px,
+          rgba(0, 0, 0, 0.15) 3px
+        );
+        pointer-events: none;
+        opacity: 0.4;
+        z-index: 9999;
       }
       main {
         width: min(960px, 100%);
@@ -59,11 +76,132 @@
         margin: 0;
         font-size: clamp(2.75rem, 5vw, 3.75rem);
         letter-spacing: -0.03em;
+        position: relative;
+      }
+      /* Glitch effect on hover */
+      h1:hover {
+        animation: glitch 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) both infinite;
+      }
+      @keyframes glitch {
+        0%, 100% {
+          transform: translate(0);
+        }
+        20% {
+          transform: translate(-2px, 2px);
+        }
+        40% {
+          transform: translate(-2px, -2px);
+        }
+        60% {
+          transform: translate(2px, 2px);
+        }
+        80% {
+          transform: translate(2px, -2px);
+        }
       }
       p {
         margin: 0;
         color: var(--muted);
         line-height: 1.75;
+      }
+      /* Threat Level Indicator */
+      .threat-indicator {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.65rem;
+        padding: 0.5rem 1.25rem;
+        border-radius: 999px;
+        font-size: 0.75rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.15em;
+        border: 1.5px solid;
+        position: relative;
+        overflow: hidden;
+        margin-bottom: 1rem;
+      }
+      .threat-indicator::before {
+        content: "";
+        position: absolute;
+        left: -100%;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+        animation: scan 3s infinite;
+      }
+      @keyframes scan {
+        0% {
+          left: -100%;
+        }
+        100% {
+          left: 100%;
+        }
+      }
+      .threat-indicator.CRITICAL {
+        background: rgba(239, 68, 68, 0.15);
+        border-color: #ef4444;
+        color: #fca5a5;
+      }
+      .threat-indicator.HIGH {
+        background: rgba(249, 115, 22, 0.15);
+        border-color: #f97316;
+        color: #fdba74;
+      }
+      .threat-indicator.MEDIUM {
+        background: rgba(234, 179, 8, 0.15);
+        border-color: #eab308;
+        color: #fde047;
+      }
+      .threat-indicator.LOW {
+        background: rgba(34, 197, 94, 0.15);
+        border-color: #22c55e;
+        color: #86efac;
+      }
+      .threat-indicator.CRITICAL::after {
+        content: "⚠";
+        animation: pulse 1s infinite;
+      }
+      @keyframes pulse {
+        0%, 100% {
+          opacity: 1;
+        }
+        50% {
+          opacity: 0.5;
+        }
+      }
+      /* Severity Badges */
+      .severity-badge {
+        display: inline-flex;
+        align-items: center;
+        padding: 0.25rem 0.65rem;
+        border-radius: 4px;
+        font-size: 0.65rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        border: 1px solid;
+        position: relative;
+      }
+      .severity-badge.CRITICAL {
+        background: rgba(239, 68, 68, 0.2);
+        border-color: #ef4444;
+        color: #fca5a5;
+      }
+      .severity-badge.HIGH {
+        background: rgba(249, 115, 22, 0.2);
+        border-color: #f97316;
+        color: #fdba74;
+      }
+      .severity-badge.MEDIUM {
+        background: rgba(234, 179, 8, 0.2);
+        border-color: #eab308;
+        color: #fde047;
+      }
+      .severity-badge.LOW {
+        background: rgba(34, 197, 94, 0.2);
+        border-color: #22c55e;
+        color: #86efac;
       }
       .brief-grid {
         display: grid;
@@ -288,6 +426,9 @@
     <main>
       <header>
         <span class="eyebrow">CyberNews</span>
+        <div class="threat-indicator CRITICAL">
+          <span>Threat Level: CRITICAL</span>
+        </div>
         <h1>Autonomous cybersecurity briefing</h1>
         <p>The agent summarised the latest publicly available cybersecurity stories and refreshed the site automatically. Configure an OPENAI_API_KEY to enable narrative insights.</p>
         <div class="brief-grid">
@@ -296,11 +437,11 @@
             <ul>
               
               
-              <li>The Hacker News</li>
+              <li>BleepingComputer</li>
               
-              <li>The Hacker News</li>
+              <li>BleepingComputer</li>
               
-              <li>The Hacker News</li>
+              <li>BleepingComputer</li>
               
               
             </ul>
@@ -328,11 +469,303 @@
           
         </div>
         <p>
-          Generated on <strong>28 November 2025 07:21 UTC</strong>
+          Generated on <strong>29 November 2025 07:19 UTC</strong>
           by the autonomous CyberNews LLM agent.
         </p>
       </header>
       <section class="grid">
+        
+        <article>
+          
+          <div class="article-image article-image-fallback">
+            <a href="https://www.bleepingcomputer.com/news/security/man-behind-in-flight-evil-twin-wifi-attacks-gets-7-years-in-prison/" target="_blank" rel="noopener">
+              <div class="fallback-icon">
+                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path d="M12 2L2 7l10 5 10-5-10-5z"/>
+                  <path d="M2 17l10 5 10-5"/>
+                  <path d="M2 12l10 5 10-5"/>
+                </svg>
+              </div>
+              <div class="image-overlay"></div>
+            </a>
+          </div>
+          
+          <div class="article-content">
+            <div class="meta">
+              <span>BleepingComputer</span>
+              <span>28 Nov 2025 18:25 UTC</span>
+              <span class="severity-badge LOW">LOW</span>
+            </div>
+            <header>
+              <a href="https://www.bleepingcomputer.com/news/security/man-behind-in-flight-evil-twin-wifi-attacks-gets-7-years-in-prison/" target="_blank" rel="noopener">
+                <h2>Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison</h2>
+              </a>
+            </header>
+            
+            <div class="categories">
+              
+              <span class="category-tag">Security</span>
+              
+              <span class="category-tag">Legal</span>
+              
+            </div>
+            
+            <div class="summary">
+              
+              <p>Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison A 44-year-old man was sentenced to seven years and four months in prison for operating an "evil twin" WiFi network to steal the data of unsuspecting travelers at various airports across Australia. [...]</p>
+              
+            </div>
+            <a href="https://www.bleepingcomputer.com/news/security/man-behind-in-flight-evil-twin-wifi-attacks-gets-7-years-in-prison/" target="_blank" rel="noopener" class="read-more">Read full article</a>
+          </div>
+        </article>
+        
+        <article>
+          
+          <div class="article-image article-image-fallback">
+            <a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-updates-hide-password-icon-on-lock-screen/" target="_blank" rel="noopener">
+              <div class="fallback-icon">
+                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path d="M12 2L2 7l10 5 10-5-10-5z"/>
+                  <path d="M2 17l10 5 10-5"/>
+                  <path d="M2 12l10 5 10-5"/>
+                </svg>
+              </div>
+              <div class="image-overlay"></div>
+            </a>
+          </div>
+          
+          <div class="article-content">
+            <div class="meta">
+              <span>BleepingComputer</span>
+              <span>28 Nov 2025 18:07 UTC</span>
+              <span class="severity-badge LOW">LOW</span>
+            </div>
+            <header>
+              <a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-updates-hide-password-icon-on-lock-screen/" target="_blank" rel="noopener">
+                <h2>Microsoft: Windows updates make password login option invisible</h2>
+              </a>
+            </header>
+            
+            <div class="categories">
+              
+              <span class="category-tag">Microsoft</span>
+              
+            </div>
+            
+            <div class="summary">
+              
+              <p>Microsoft: Windows updates make password login option invisible Microsoft warned users that Windows 11 updates released since August may cause the password sign-in option to disappear from the lock screen options, even though the button remains functional. [...]</p>
+              
+            </div>
+            <a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-updates-hide-password-icon-on-lock-screen/" target="_blank" rel="noopener" class="read-more">Read full article</a>
+          </div>
+        </article>
+        
+        <article>
+          
+          <div class="article-image article-image-fallback">
+            <a href="https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/" target="_blank" rel="noopener">
+              <div class="fallback-icon">
+                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path d="M12 2L2 7l10 5 10-5-10-5z"/>
+                  <path d="M2 17l10 5 10-5"/>
+                  <path d="M2 12l10 5 10-5"/>
+                </svg>
+              </div>
+              <div class="image-overlay"></div>
+            </a>
+          </div>
+          
+          <div class="article-content">
+            <div class="meta">
+              <span>BleepingComputer</span>
+              <span>28 Nov 2025 17:43 UTC</span>
+              <span class="severity-badge LOW">LOW</span>
+            </div>
+            <header>
+              <a href="https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/" target="_blank" rel="noopener">
+                <h2>Public GitLab repositories exposed more than 17,000 secrets</h2>
+              </a>
+            </header>
+            
+            <div class="categories">
+              
+              <span class="category-tag">Security</span>
+              
+            </div>
+            
+            <div class="summary">
+              
+              <p>Public GitLab repositories exposed more than 17,000 secrets After scanning all 5.6 million public repositories on GitLab Cloud, a security engineer discovered more than 17,000 exposed secrets across over 2,800 unique domains. [...]</p>
+              
+            </div>
+            <a href="https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/" target="_blank" rel="noopener" class="read-more">Read full article</a>
+          </div>
+        </article>
+        
+        <article>
+          
+          <div class="article-image">
+            <a href="https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html" target="_blank" rel="noopener">
+              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMdVHqK8sA27WWR3ySGxson4kuqmBaXHQlFm3PSmRaHV6IGdnk_zK0tUvgrFyKepL2COnnm_yiIBdTy-ho7pFKSPQP7cCxkOugoV0s_2k3dUBYC0FI5BkY2tmR3Tsbxktsq7TnQRqzDhiOHe9SjVrRq2XHt5BYU01ctj8yUA8BTv6cDT8zREtEYAdrViUn/s1600/setuptools.jpg" alt="Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages" loading="lazy" />
+              <div class="image-overlay"></div>
+            </a>
+          </div>
+          
+          <div class="article-content">
+            <div class="meta">
+              <span>The Hacker News</span>
+              <span>28 Nov 2025 16:27 UTC</span>
+              <span class="severity-badge MEDIUM">MEDIUM</span>
+            </div>
+            <header>
+              <a href="https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html" target="_blank" rel="noopener">
+                <h2>Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages</h2>
+              </a>
+            </header>
+            
+            <div class="summary">
+              
+              <p>Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages Cybersecurity researchers have discovered vulnerable code in legacy Python packages that could potentially pave the way for a supply chain compromise on the Python Package Index (PyPI) via a dom…</p>
+              
+            </div>
+            <a href="https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html" target="_blank" rel="noopener" class="read-more">Read full article</a>
+          </div>
+        </article>
+        
+        <article>
+          
+          <div class="article-image">
+            <a href="https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html" target="_blank" rel="noopener">
+              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbHywoT-t7dx-yFp5L6Kj6AHPWvHYFoziGtqauAQGWvY55xCGgiw80AKaK962SgdMmomBf9EMT9cPAGPxx5GTi4lFq_ckm1Cjk3hGtRo1AnWVEjZkd89HlSOWuLuBC-whL565LElFcq2D55c9NrmQHx30eGNNugpcLqPAKDxRC5Zkwb-1lX1OC4Xu-QH13/s1600/npm-malware.jpg" alt="North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware" loading="lazy" />
+              <div class="image-overlay"></div>
+            </a>
+          </div>
+          
+          <div class="article-content">
+            <div class="meta">
+              <span>The Hacker News</span>
+              <span>28 Nov 2025 16:18 UTC</span>
+              <span class="severity-badge MEDIUM">MEDIUM</span>
+            </div>
+            <header>
+              <a href="https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html" target="_blank" rel="noopener">
+                <h2>North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware</h2>
+              </a>
+            </header>
+            
+            <div class="summary">
+              
+              <p>North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware The North Korean threat actors behind the Contagious Interview campaign have continued to flood the npm registry with 197 more malicious packages since last month.
+According to Socket, these packag…</p>
+              
+            </div>
+            <a href="https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html" target="_blank" rel="noopener" class="read-more">Read full article</a>
+          </div>
+        </article>
+        
+        <article>
+          
+          <div class="article-image article-image-fallback">
+            <a href="https://www.bleepingcomputer.com/news/security/french-football-federation-fff-discloses-data-breach-after-cyberattack/" target="_blank" rel="noopener">
+              <div class="fallback-icon">
+                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path d="M12 2L2 7l10 5 10-5-10-5z"/>
+                  <path d="M2 17l10 5 10-5"/>
+                  <path d="M2 12l10 5 10-5"/>
+                </svg>
+              </div>
+              <div class="image-overlay"></div>
+            </a>
+          </div>
+          
+          <div class="article-content">
+            <div class="meta">
+              <span>BleepingComputer</span>
+              <span>28 Nov 2025 16:12 UTC</span>
+              <span class="severity-badge CRITICAL">CRITICAL</span>
+            </div>
+            <header>
+              <a href="https://www.bleepingcomputer.com/news/security/french-football-federation-fff-discloses-data-breach-after-cyberattack/" target="_blank" rel="noopener">
+                <h2>French Football Federation discloses data breach after cyberattack</h2>
+              </a>
+            </header>
+            
+            <div class="categories">
+              
+              <span class="category-tag">Security</span>
+              
+            </div>
+            
+            <div class="summary">
+              
+              <p>French Football Federation discloses data breach after cyberattack The French Football Federation (FFF) disclosed a data breach on Friday after attackers used a compromised account to gain access to administrative management software used by football clubs. [...]</p>
+              
+            </div>
+            <a href="https://www.bleepingcomputer.com/news/security/french-football-federation-fff-discloses-data-breach-after-cyberattack/" target="_blank" rel="noopener" class="read-more">Read full article</a>
+          </div>
+        </article>
+        
+        <article>
+          
+          <div class="article-image">
+            <a href="https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html" target="_blank" rel="noopener">
+              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhusj8mwC5L9YXaH6bYVNnFLp4wM8q6RJloaKi4WKGtv4v1ys_SUlcI-q69rWXZCwhwDBdG6Uuy-2eb_1_sbK27TtKqlx37mNgxYB3kZ1lnwN9uMKnHVsrDMiEFhM3ObcANB-aSkvyVRkJn-3FAnKq0CD8F4nuZds4BlIAPT5GCCdHP7CNFG3Bwde-amUw/s1600/keeper.jpg" alt="Why Organizations Are Turning to RPAM" loading="lazy" />
+              <div class="image-overlay"></div>
+            </a>
+          </div>
+          
+          <div class="article-content">
+            <div class="meta">
+              <span>The Hacker News</span>
+              <span>28 Nov 2025 11:09 UTC</span>
+              <span class="severity-badge HIGH">HIGH</span>
+            </div>
+            <header>
+              <a href="https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html" target="_blank" rel="noopener">
+                <h2>Why Organizations Are Turning to RPAM</h2>
+              </a>
+            </header>
+            
+            <div class="summary">
+              
+              <p>Why Organizations Are Turning to RPAM As IT environments become increasingly distributed and organizations adopt hybrid and remote work at scale, traditional perimeter-based security models and on-premises Privileged Access Management (PAM) solutions no longer suffice. IT adminis…</p>
+              
+            </div>
+            <a href="https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html" target="_blank" rel="noopener" class="read-more">Read full article</a>
+          </div>
+        </article>
+        
+        <article>
+          
+          <div class="article-image">
+            <a href="https://thehackernews.com/2025/11/ms-teams-guest-access-can-remove.html" target="_blank" rel="noopener">
+              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_Md0lsjItddYFH1gCm6LZYxVDobM4ZWOweikeQFAT0yZNSYS8WKfg61LxSRjc49watAPtqESgvWx0UwppGQuw9FU8OMQDf9EOi1fWnVXF_H8L7QNOplD1-vdDAO-oU4cRg9CX2jky45M7SkmAF6b7GGi7UwMZQN4_7wnlG2D1mYl28_sUC7hLta8u37Oa/s1600/msteams.jpg" alt="MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants" loading="lazy" />
+              <div class="image-overlay"></div>
+            </a>
+          </div>
+          
+          <div class="article-content">
+            <div class="meta">
+              <span>The Hacker News</span>
+              <span>28 Nov 2025 08:33 UTC</span>
+              <span class="severity-badge LOW">LOW</span>
+            </div>
+            <header>
+              <a href="https://thehackernews.com/2025/11/ms-teams-guest-access-can-remove.html" target="_blank" rel="noopener">
+                <h2>MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants</h2>
+              </a>
+            </header>
+            
+            <div class="summary">
+              
+              <p>MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants Cybersecurity researchers have shed light on a cross-tenant blind spot that allows attackers to bypass Microsoft Defender for Office 365 protections via the guest access feature in Teams.
+"When …</p>
+              
+            </div>
+            <a href="https://thehackernews.com/2025/11/ms-teams-guest-access-can-remove.html" target="_blank" rel="noopener" class="read-more">Read full article</a>
+          </div>
+        </article>
         
         <article>
           
@@ -347,6 +780,7 @@
             <div class="meta">
               <span>The Hacker News</span>
               <span>27 Nov 2025 18:13 UTC</span>
+              <span class="severity-badge LOW">LOW</span>
             </div>
             <header>
               <a href="https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html" target="_blank" rel="noopener">
@@ -366,6 +800,48 @@ As of October …</p>
         
         <article>
           
+          <div class="article-image article-image-fallback">
+            <a href="https://www.bleepingcomputer.com/news/security/malicious-llms-empower-inexperienced-hackers-with-advanced-tools/" target="_blank" rel="noopener">
+              <div class="fallback-icon">
+                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <path d="M12 2L2 7l10 5 10-5-10-5z"/>
+                  <path d="M2 17l10 5 10-5"/>
+                  <path d="M2 12l10 5 10-5"/>
+                </svg>
+              </div>
+              <div class="image-overlay"></div>
+            </a>
+          </div>
+          
+          <div class="article-content">
+            <div class="meta">
+              <span>BleepingComputer</span>
+              <span>27 Nov 2025 17:15 UTC</span>
+              <span class="severity-badge HIGH">HIGH</span>
+            </div>
+            <header>
+              <a href="https://www.bleepingcomputer.com/news/security/malicious-llms-empower-inexperienced-hackers-with-advanced-tools/" target="_blank" rel="noopener">
+                <h2>Malicious LLMs empower inexperienced hackers with advanced tools</h2>
+              </a>
+            </header>
+            
+            <div class="categories">
+              
+              <span class="category-tag">Security</span>
+              
+            </div>
+            
+            <div class="summary">
+              
+              <p>Malicious LLMs empower inexperienced hackers with advanced tools Unrestricted large language models (LLMs) like WormGPT 4 and KawaiiGPT are improving their capabilities to generate malicious code, delivering functional scripts for ransomware encryptors and lateral movement. [...]</p>
+              
+            </div>
+            <a href="https://www.bleepingcomputer.com/news/security/malicious-llms-empower-inexperienced-hackers-with-advanced-tools/" target="_blank" rel="noopener" class="read-more">Read full article</a>
+          </div>
+        </article>
+        
+        <article>
+          
           <div class="article-image">
             <a href="https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html" target="_blank" rel="noopener">
               <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggbH_BZ4IWtK9XUQJlVK_lYU-KRFB6bMqJMGZUr640ws6tiDaAcew4Pf9SC_Mc3aUrTo52vkVQ2OGUXwZ1y9M0jRb0mywWeYspEWQ2QyjaRfWz1Z8jTDn1HzsNL87aEZRvaEvsuEzCx0DG4CAGMUbazLVxKSLjPpNh255KfuycID8w7BgOm445sOl4cZt0/s1600/entra-id.jpg" alt="Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update" loading="lazy" />
@@ -377,6 +853,7 @@ As of October …</p>
             <div class="meta">
               <span>The Hacker News</span>
               <span>27 Nov 2025 15:37 UTC</span>
+              <span class="severity-badge LOW">LOW</span>
             </div>
             <header>
               <a href="https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html" target="_blank" rel="noopener">
@@ -396,37 +873,8 @@ The update to its Content Security Policy (…</p>
         
         <article>
           
-          <div class="article-image">
-            <a href="https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html" target="_blank" rel="noopener">
-              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghRvtVjaxNU0fdaFSozjGWEs_xWQjuyBRppTXjPMmjqojoEybF1sK13Xy3B0saOYldj1zfh_G7lNNTKBfZ_m9o7R9ImfAkgcRlCbVeaoYEWHz0DDTB5gIGT7SNYTWAIqVQOevNUIKb6lRW7wJ3ou0TZ64cnxGAd5RgbEfy1cxxcOGRJldJInloOOhVbKu2/s1600/update.jpg" alt="Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools" loading="lazy" />
-              <div class="image-overlay"></div>
-            </a>
-          </div>
-          
-          <div class="article-content">
-            <div class="meta">
-              <span>The Hacker News</span>
-              <span>27 Nov 2025 14:59 UTC</span>
-            </div>
-            <header>
-              <a href="https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html" target="_blank" rel="noopener">
-                <h2>Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools</h2>
-              </a>
-            </header>
-            
-            <div class="summary">
-              
-              <p>Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools If you're using community tools like Chocolatey or Winget to keep systems updated, you're not alone. These platforms are fast, flexible, and easy to work with—making them favorites for IT teams. But the…</p>
-              
-            </div>
-            <a href="https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html" target="_blank" rel="noopener" class="read-more">Read full article</a>
-          </div>
-        </article>
-        
-        <article>
-          
           <div class="article-image article-image-fallback">
-            <a href="https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/" target="_blank" rel="noopener">
+            <a href="https://www.bleepingcomputer.com/news/security/greynoise-launches-free-scanner-to-check-if-youre-part-of-a-botnet/" target="_blank" rel="noopener">
               <div class="fallback-icon">
                 <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
                   <path d="M12 2L2 7l10 5 10-5-10-5z"/>
@@ -441,11 +889,12 @@ The update to its Content Security Policy (…</p>
           <div class="article-content">
             <div class="meta">
               <span>BleepingComputer</span>
-              <span>27 Nov 2025 11:27 UTC</span>
+              <span>27 Nov 2025 15:11 UTC</span>
+              <span class="severity-badge LOW">LOW</span>
             </div>
             <header>
-              <a href="https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/" target="_blank" rel="noopener">
-                <h2>OpenAI discloses API customer data breach via Mixpanel vendor hack</h2>
+              <a href="https://www.bleepingcomputer.com/news/security/greynoise-launches-free-scanner-to-check-if-youre-part-of-a-botnet/" target="_blank" rel="noopener">
+                <h2>GreyNoise launches free scanner to check if you're part of a botnet</h2>
               </a>
             </header>
             
@@ -457,307 +906,10 @@ The update to its Content Security Policy (…</p>
             
             <div class="summary">
               
-              <p>OpenAI discloses API customer data breach via Mixpanel vendor hack OpenAI is notifying some ChatGPT API customers that limited identifying information was exposed following a breach at its third-party analytics provider Mixpanel. [...]</p>
+              <p>GreyNoise launches free scanner to check if you're part of a botnet GreyNoise Labs has launched a free tool called GreyNoise IP Check that lets users check if their IP address has been observed in malicious scanning operations, like botnet and residential proxy networks. [...]</p>
               
             </div>
-            <a href="https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/" target="_blank" rel="noopener" class="read-more">Read full article</a>
-          </div>
-        </article>
-        
-        <article>
-          
-          <div class="article-image">
-            <a href="https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html" target="_blank" rel="noopener">
-              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht6UhaJKO8B5nl8PUBMTiIxKg_F2ZG2IyUHemsnutwdvUzAoD9LKGyJje58Z40uNuSorotRXHqJPcfW40M1TIoUn9Ncv1wRhCIq5s3jpjvJcCOs-4LHwbUMjYDCLNQXYw_C9ARz65Zk6i9812SiRSL8HoCAhdJJw8H2-pMVQo0xzHPexyOkcZU4ZI59O1E/s1600/threatsday.jpg" alt="ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks — and 20 More Stories" loading="lazy" />
-              <div class="image-overlay"></div>
-            </a>
-          </div>
-          
-          <div class="article-content">
-            <div class="meta">
-              <span>The Hacker News</span>
-              <span>27 Nov 2025 10:03 UTC</span>
-            </div>
-            <header>
-              <a href="https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html" target="_blank" rel="noopener">
-                <h2>ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks — and 20 More Stories</h2>
-              </a>
-            </header>
-            
-            <div class="summary">
-              
-              <p>ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks — and 20 More Stories Hackers have been busy again this week. From fake voice calls and AI-powered malware to huge money-laundering busts and new scams, there’s a lot happening in the cyber world.
-Cr…</p>
-              
-            </div>
-            <a href="https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html" target="_blank" rel="noopener" class="read-more">Read full article</a>
-          </div>
-        </article>
-        
-        <article>
-          
-          <div class="article-image">
-            <a href="https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html" target="_blank" rel="noopener">
-              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLmTJUwBQylR2JxQKyRPwiaWc6Ia-71wvno8Z5H4N6-8KX7WBGjZLU2ONRBc4Qd7vpIOcWXWkcrekIsNcFhS75LB7IwPMOvGMQPY3xe2yl0qPlgoly_1tEdy99a_glYDj599U0nR2KHQoBkgx49tGys8tsIT_hosQpkSZsiLSXCUFJkCCDWn26eg_jxMpd/s1600/sales.jpg" alt="Gainsight Expands Impacted Customer List Following Salesforce Security Alert" loading="lazy" />
-              <div class="image-overlay"></div>
-            </a>
-          </div>
-          
-          <div class="article-content">
-            <div class="meta">
-              <span>The Hacker News</span>
-              <span>27 Nov 2025 07:03 UTC</span>
-            </div>
-            <header>
-              <a href="https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html" target="_blank" rel="noopener">
-                <h2>Gainsight Expands Impacted Customer List Following Salesforce Security Alert</h2>
-              </a>
-            </header>
-            
-            <div class="summary">
-              
-              <p>Gainsight Expands Impacted Customer List Following Salesforce Security Alert Gainsight has disclosed that the recent suspicious activity targeting its applications has affected more customers than previously thought.
-The company said Salesforce initially provided a list of 3 impa…</p>
-              
-            </div>
-            <a href="https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html" target="_blank" rel="noopener" class="read-more">Read full article</a>
-          </div>
-        </article>
-        
-        <article>
-          
-          <div class="article-image article-image-fallback">
-            <a href="https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/" target="_blank" rel="noopener">
-              <div class="fallback-icon">
-                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
-                  <path d="M12 2L2 7l10 5 10-5-10-5z"/>
-                  <path d="M2 17l10 5 10-5"/>
-                  <path d="M2 12l10 5 10-5"/>
-                </svg>
-              </div>
-              <div class="image-overlay"></div>
-            </a>
-          </div>
-          
-          <div class="article-content">
-            <div class="meta">
-              <span>BleepingComputer</span>
-              <span>26 Nov 2025 22:24 UTC</span>
-            </div>
-            <header>
-              <a href="https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/" target="_blank" rel="noopener">
-                <h2>New ShadowV2 botnet malware used AWS outage as a test opportunity</h2>
-              </a>
-            </header>
-            
-            <div class="categories">
-              
-              <span class="category-tag">Security</span>
-              
-            </div>
-            
-            <div class="summary">
-              
-              <p>New ShadowV2 botnet malware used AWS outage as a test opportunity A new Mirai-based botnet malware named 'ShadowV2' has been observed targeting IoT devices from D-Link, TP-Link, and other vendors with exploits for known vulnerabilities. [...]</p>
-              
-            </div>
-            <a href="https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/" target="_blank" rel="noopener" class="read-more">Read full article</a>
-          </div>
-        </article>
-        
-        <article>
-          
-          <div class="article-image article-image-fallback">
-            <a href="https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-unlock-77-percent-off-vpn-plans-in-2025/" target="_blank" rel="noopener">
-              <div class="fallback-icon">
-                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
-                  <path d="M12 2L2 7l10 5 10-5-10-5z"/>
-                  <path d="M2 17l10 5 10-5"/>
-                  <path d="M2 12l10 5 10-5"/>
-                </svg>
-              </div>
-              <div class="image-overlay"></div>
-            </a>
-          </div>
-          
-          <div class="article-content">
-            <div class="meta">
-              <span>BleepingComputer</span>
-              <span>26 Nov 2025 20:00 UTC</span>
-            </div>
-            <header>
-              <a href="https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-unlock-77-percent-off-vpn-plans-in-2025/" target="_blank" rel="noopener">
-                <h2>NordVPN Black Friday Deal: Unlock 77% off VPN plans in 2025</h2>
-              </a>
-            </header>
-            
-            <div class="categories">
-              
-              <span class="category-tag">Security</span>
-              
-            </div>
-            
-            <div class="summary">
-              
-              <p>NordVPN Black Friday Deal: Unlock 77% off VPN plans in 2025 The NordVPN Black Friday Deal is now live, and you can get the best discount available: 77% off that applies automatically when you follow our link. If you've been waiting for the right moment to upgrade your online secu…</p>
-              
-            </div>
-            <a href="https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-unlock-77-percent-off-vpn-plans-in-2025/" target="_blank" rel="noopener" class="read-more">Read full article</a>
-          </div>
-        </article>
-        
-        <article>
-          
-          <div class="article-image article-image-fallback">
-            <a href="https://www.bleepingcomputer.com/news/security/popular-forge-library-gets-fix-for-signature-verification-bypass-flaw/" target="_blank" rel="noopener">
-              <div class="fallback-icon">
-                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
-                  <path d="M12 2L2 7l10 5 10-5-10-5z"/>
-                  <path d="M2 17l10 5 10-5"/>
-                  <path d="M2 12l10 5 10-5"/>
-                </svg>
-              </div>
-              <div class="image-overlay"></div>
-            </a>
-          </div>
-          
-          <div class="article-content">
-            <div class="meta">
-              <span>BleepingComputer</span>
-              <span>26 Nov 2025 19:32 UTC</span>
-            </div>
-            <header>
-              <a href="https://www.bleepingcomputer.com/news/security/popular-forge-library-gets-fix-for-signature-verification-bypass-flaw/" target="_blank" rel="noopener">
-                <h2>Popular Forge library gets fix for signature verification bypass flaw</h2>
-              </a>
-            </header>
-            
-            <div class="categories">
-              
-              <span class="category-tag">Security</span>
-              
-            </div>
-            
-            <div class="summary">
-              
-              <p>Popular Forge library gets fix for signature verification bypass flaw A vulnerability in the 'node-forge' package, a popular JavaScript cryptography library, could be exploited to bypass signature verifications by crafting data that appears valid. [...]</p>
-              
-            </div>
-            <a href="https://www.bleepingcomputer.com/news/security/popular-forge-library-gets-fix-for-signature-verification-bypass-flaw/" target="_blank" rel="noopener" class="read-more">Read full article</a>
-          </div>
-        </article>
-        
-        <article>
-          
-          <div class="article-image article-image-fallback">
-            <a href="https://www.bleepingcomputer.com/news/security/comcast-to-pay-15-million-fine-after-a-vendor-data-breach-affecting-270-000-customers/" target="_blank" rel="noopener">
-              <div class="fallback-icon">
-                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
-                  <path d="M12 2L2 7l10 5 10-5-10-5z"/>
-                  <path d="M2 17l10 5 10-5"/>
-                  <path d="M2 12l10 5 10-5"/>
-                </svg>
-              </div>
-              <div class="image-overlay"></div>
-            </a>
-          </div>
-          
-          <div class="article-content">
-            <div class="meta">
-              <span>BleepingComputer</span>
-              <span>26 Nov 2025 18:30 UTC</span>
-            </div>
-            <header>
-              <a href="https://www.bleepingcomputer.com/news/security/comcast-to-pay-15-million-fine-after-a-vendor-data-breach-affecting-270-000-customers/" target="_blank" rel="noopener">
-                <h2>Comcast to pay $1.5M fine for vendor breach affecting 270K customers</h2>
-              </a>
-            </header>
-            
-            <div class="categories">
-              
-              <span class="category-tag">Security</span>
-              
-            </div>
-            
-            <div class="summary">
-              
-              <p>Comcast to pay $1.5M fine for vendor breach affecting 270K customers Comcast will pay a $1.5 million fine to settle a Federal Communications Commission investigation into a February 2024 vendor data breach that exposed the personal information of nearly 275,000 customers. [...]</p>
-              
-            </div>
-            <a href="https://www.bleepingcomputer.com/news/security/comcast-to-pay-15-million-fine-after-a-vendor-data-breach-affecting-270-000-customers/" target="_blank" rel="noopener" class="read-more">Read full article</a>
-          </div>
-        </article>
-        
-        <article>
-          
-          <div class="article-image">
-            <a href="https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html" target="_blank" rel="noopener">
-              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghgyXKKmEGWfIkqMuka-PLw6Jrl_bPx6Ptub1wNLhbJpyZDfQbTvmYfoV1wzIKc6af7Axp-KlbkHDgadFI6P1iWAe0g8xbyEmKAZazSUZ1aleKTfRgxF7DOs9yhNmlvQGZWvn8-ovkMv7hy0HBlWjOHFHKGOD1uvLMa-L_ZxRxyCsBrk7w0kL7uGH0idaj/s1600/marven-hack.jpg" alt="Shai-Hulud v2 Spreads From npm to Maven, as Campaign Exposes Thousands of Secrets" loading="lazy" />
-              <div class="image-overlay"></div>
-            </a>
-          </div>
-          
-          <div class="article-content">
-            <div class="meta">
-              <span>The Hacker News</span>
-              <span>26 Nov 2025 18:08 UTC</span>
-            </div>
-            <header>
-              <a href="https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html" target="_blank" rel="noopener">
-                <h2>Shai-Hulud v2 Spreads From npm to Maven, as Campaign Exposes Thousands of Secrets</h2>
-              </a>
-            </header>
-            
-            <div class="summary">
-              
-              <p>Shai-Hulud v2 Spreads From npm to Maven, as Campaign Exposes Thousands of Secrets The second wave of the Shai-Hulud supply chain attack has spilled over to the Maven ecosystem after compromising more than 830 packages in the npm registry.
-The Socket Research Team said it identifi…</p>
-              
-            </div>
-            <a href="https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html" target="_blank" rel="noopener" class="read-more">Read full article</a>
-          </div>
-        </article>
-        
-        <article>
-          
-          <div class="article-image article-image-fallback">
-            <a href="https://www.bleepingcomputer.com/news/security/multiple-london-councils-it-systems-disrupted-by-cyberattack/" target="_blank" rel="noopener">
-              <div class="fallback-icon">
-                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
-                  <path d="M12 2L2 7l10 5 10-5-10-5z"/>
-                  <path d="M2 17l10 5 10-5"/>
-                  <path d="M2 12l10 5 10-5"/>
-                </svg>
-              </div>
-              <div class="image-overlay"></div>
-            </a>
-          </div>
-          
-          <div class="article-content">
-            <div class="meta">
-              <span>BleepingComputer</span>
-              <span>26 Nov 2025 17:26 UTC</span>
-            </div>
-            <header>
-              <a href="https://www.bleepingcomputer.com/news/security/multiple-london-councils-it-systems-disrupted-by-cyberattack/" target="_blank" rel="noopener">
-                <h2>Multiple London councils' IT systems disrupted by cyberattack</h2>
-              </a>
-            </header>
-            
-            <div class="categories">
-              
-              <span class="category-tag">Security</span>
-              
-              <span class="category-tag">Government</span>
-              
-            </div>
-            
-            <div class="summary">
-              
-              <p>Multiple London councils' IT systems disrupted by cyberattack The Royal Borough of Kensington and Chelsea (RBKC) and the Westminster City Council (WCC) announced that they are experiencing service disruptions following a cybersecurity issue. [...]</p>
-              
-            </div>
-            <a href="https://www.bleepingcomputer.com/news/security/multiple-london-councils-it-systems-disrupted-by-cyberattack/" target="_blank" rel="noopener" class="read-more">Read full article</a>
+            <a href="https://www.bleepingcomputer.com/news/security/greynoise-launches-free-scanner-to-check-if-youre-part-of-a-botnet/" target="_blank" rel="noopener" class="read-more">Read full article</a>
           </div>
         </article>
         
