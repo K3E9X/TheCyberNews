@@ -189,6 +189,15 @@
     "summary": "Chrome Extension Caught Injecting Hidden Solana Transfer Fees Into Raydium Swaps Cybersecurity researchers have discovered a new malicious extension on the Chrome Web Store that's capable of injecting a stealthy Solana transfer into a swap transaction and transferring the funds t\u2026",
     "title": "Chrome Extension Caught Injecting Hidden Solana Transfer Fees Into Raydium Swaps"
   },
+  "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgDyMqGZH8Rp4Y4Nt38tsox7FPdyDY1hpVLBuBDSX4Zfz3FlXPCzUR5TIOcLs_e3Q37fkYRyC7M-pdCEOmvqhLxWBvynMu8XUeVjaZzdUX5UlW4rqqGs_504c6rcd-ev02FEmGlGjgTUF8hvjIak9dbLhtbVaSgAdl7a9wDYs7u6NO3jcjb12zbVdPnox4/s1600/cisa.jpg",
+    "published": "2025-11-30T09:23:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its Known Exploited Vulnerabilities (KEV) catalog to include a security flaw impacting OpenPLC ScadaBR, citing evidence of ac\u2026",
+    "title": "CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV"
+  },
   "https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDITEgki_ICpEMcN92xGckaqijjlvW9kC6ZtYS8v1Fmvc50kvsku_Wke0Zk6nK6a27I8kbBHK8GSnlQ8xyGQx0_2WEMTfW4NN9Y5-ANCcPI5lTs7TdQwbaDygSw6KUqCaLW_JBEH1hKyvtVKjyqUs0Uk6xzrCIEW0nVuKt1VHtYv2SqCrHBJDznZQrP84J/s1600/CISA.jpg",
@@ -1120,6 +1129,15 @@
     "source": "The Hacker News",
     "summary": "Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys New research has found that organizations in various sensitive sectors, including governments, telecoms, and critical infrastructure, are pasting passwords and credentials into online tools l\u2026",
     "title": "Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys"
+  },
+  "https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Lxoj-jT0lWvAbKZzQ_8tBsiD8CE76EWRKAfG_TID9mVbmf8BoJx5N1fR3ztKD6Yb3B8bRlGyMEArCKaW939VXvJT1G-z2iIxJrjkl_0NBONbMDU3NL8L_vqDzJQWMRIehlO-GiASFU0hTzfxL7_uKhObMFcFHfwv8lRxgFKqNXk-a04Z5gj-Wxvo_nbM/s1600/cyberattacks.jpg",
+    "published": "2025-12-01T05:07:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets The threat actor known as Tomiris has been attributed to attacks targeting foreign ministries, intergovernmental organizations, and government entities in Russia with an aim to establish \u2026",
+    "title": "Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/": {
     "categories": [
