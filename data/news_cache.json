@@ -1130,6 +1130,42 @@
     "summary": "Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys New research has found that organizations in various sensitive sectors, including governments, telecoms, and critical infrastructure, are pasting passwords and credentials into online tools l\u2026",
     "title": "Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys"
   },
+  "https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaXJGSuca7TOkhpzQSqTtJJWkuBbFzjkm6UDnl04TARRIVqKOvnJmtLCysj9BEt7zm7QmU8RZMFjwiGnVOQUKIxvVle841t-4dv7YGs8Rx4qo9cvYQApnnJnAhmG419Xy-d0_nI8URsb8IQpXQpfBFD5nlOiADT0Mp0ZW0Ze-rxNvgCuQIAGTgNZovCBTN/s1600/brazil-malware.jpg",
+    "published": "2025-12-03T15:32:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud The threat actor known as Water Saci is actively evolving its tactics, switching to a sophisticated, highly layered infection chain that uses HTML Application (HTA) files and PDFs to propagate via \u2026",
+    "title": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud"
+  },
+  "https://thehackernews.com/2025/12/chopping-ai-down-to-size-turning.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_4P5ELpACB-FnFxcCiCIcebpFFrXZIu9gkCjCAv4TAmaJTeIdo5zVIdwYukqu-MeZKQheSzmWFedSw-8-0gx5dOfbsdLNyMNglcp_etSWlTZpLuAZd00De4GbsAL-szGMm7P_wIbuM32IPuGGihYzTUJdQuFkOGuBcvFZCtaj2NoQgG4BCPvwfbJvvTk/s1600/ai-work.png",
+    "published": "2025-12-03T09:56:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Chopping AI Down to Size: Turning Disruptive Technology into a Strategic Advantage Most people know the story of Paul Bunyan. A giant lumberjack, a trusted axe, and a challenge from a machine that promised to outpace him. Paul doubled down on his old way of working, swung harder,\u2026",
+    "title": "Chopping AI Down to Size: Turning Disruptive Technology into a Strategic Advantage"
+  },
+  "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9GCiRWt_nzpetB4rbxY-IEBdnQfX50gIjlg82on8OkM-tBrMv_Mt6xTu_yEom3CAZt_KHo0CL5S3siR207cZmw839M_l9Oply6KnuHYelRsMMAqKDhDA0HqnsedjHhsfv6ng77Ah7YPkIZ-Cd3ZuDMqSM8oftGAJ4TaauI9n231fOjCi17uSgWY-Jd9U_/s1600/nextjs-react.jpg",
+    "published": "2025-12-03T18:19:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution A maximum-severity security flaw has been disclosed in React Server Components (RSC) that, if successfully exploited, could result in remote code execution.\nThe vulnerability, tracked as CVE-2025-5\u2026",
+    "title": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution"
+  },
+  "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxESPxb37jzd_NrYS5eE_3cpBnlkxGqHJXXIQie1ZOae6cudWSMn8s8AM6E0npcrXT21zyDMA7h_StlMrfO7uHYBHHjtxKGJUuzN-QzlYNJjVo9eKzETAg1ORiJ8HWMTHoe4ME37KRf5QYSw8RmbFo8WoL28T2__Vg8VDuqO7Mq3LZ7Ao_oYdtWZjD6e3n/s1600/ai-hacking.jpg",
+    "published": "2025-12-03T17:56:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Discover the AI Tools Fueling the Next Cybercrime Wave \u2014 Watch the Webinar Remember when phishing emails were easy to spot? Bad grammar, weird formatting, and requests from a \"Prince\" in a distant country?\nThose days are over.\nToday, a 16-year-old with zero coding skills and a $2\u2026",
+    "title": "Discover the AI Tools Fueling the Next Cybercrime Wave \u2014 Watch the Webinar"
+  },
   "https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2togvMtptRUBClEk7aVrpK5mEsCqxdPbcfpQ0aczPMOBE-apKuQvTp-wxJpmSI5n7rh1z6jBb0CeMnt1APf5X_yfVrRIJ_Ix0fc1KBJ5HI7LHhZhTLsAsukNnM6KZaWakvD3X5cxIZgagaIKVltnozAVWGDBz48ARBwUwj9ODV7KRa9j4ZaOWdzHmF69U/s1600/hacked.jpg",
@@ -1184,6 +1220,24 @@
     "summary": "Malicious npm Package Uses Hidden Prompt and Script to Evade AI Security Tools Cybersecurity researchers have disclosed details of an npm package that attempts to influence artificial intelligence (AI)-driven security scanners.\nThe package in question is eslint-plugin-unicorn-ts-\u2026",
     "title": "Malicious npm Package Uses Hidden Prompt and Script to Evade AI Security Tools"
   },
+  "https://thehackernews.com/2025/12/malicious-rust-crate-delivers-os.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV7pMBv7FKpI1ZaejuUm5kIC7Q_Lw7E3o4mfaC-4dY33fF2IlNA7_dcRFmMKSmlyqxrfiZXlAee52u_-OzSTa2hiNLz961dUHKb6Khqw3YSFGIYS2mns-s1BjTRHAOiUBXKI7MM-WC5ydc4RZ0b64IPFvcu9dEFwypyyo4HHEnNqSwpoLVXRYGiewM4Tn6/s1600/crypto-rust.jpg",
+    "published": "2025-12-03T08:39:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Malicious Rust Crate Delivers OS-Specific Malware to Web3 Developer Systems Cybersecurity researchers have discovered a malicious Rust package that's capable of targeting Windows, macOS, and Linux systems, and features malicious functionality to stealthily execute on developer ma\u2026",
+    "title": "Malicious Rust Crate Delivers OS-Specific Malware to Web3 Developer Systems"
+  },
+  "https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ8lCeyLFyNZFfUBtMHvZcuBWjl0_wMxa6EDvL0yCJ56HtMZpYr20dgnTcKGDcgf7OHdxi-yN5eipnPsbVM9oMYLpGAvj3nDfKEb66Y7IOl-9eyGRg5pzgmf7vXXG2ss8feZhUu2gSbWlmckQm3-RvVRcIqA_Ulmx0eAP_FB3GFgcislAUh6AdsIqCfnqR/s1600/windows-update.jpg",
+    "published": "2025-12-03T17:46:36+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation Microsoft has silently plugged a security flaw that has been exploited by several threat actors since 2017 as part of the company's November 2025 Patch Tuesday updates, according to ACROS Security's 0p\u2026",
+    "title": "Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation"
+  },
   "https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6xz7mWkJclIA4imdNn5zjZkxiRArjemiRQSUONKAKk1aC52C-R6DMyKI09PjF6iBtWNy0Ov_YZjOqovn3RTGYpPyiIlQtKp292GbxH8dfCDSt9HU3m37iItXGp7mgkrCw2i9VWbDKoR6hS_sFPLL-msoj6G1ggeJX2H1llAg4MVjDmqVzBejGwH_4qjHC/s1600/android-malware-1.jpg",
@@ -1192,6 +1246,24 @@
     "source": "The Hacker News",
     "summary": "New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control A new Android malware named Albiriox has been advertised under a malware-as-a-service (MaaS) model to offer a \"full spectrum\" of features to facilitate on-device fraud (ODF), screen manipulation, a\u2026",
     "title": "New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control"
+  },
+  "https://thehackernews.com/2025/12/picklescan-bugs-allow-malicious-pytorch.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtJ6D3cf9n4d0wB-0nReoF_JEgEraaVECS6V41EWkvsqwoa8YOSI5EnrHQ2MBHew0VbYvNg1pXuVpV7OQKTDKH4IWhlqyPZnVjA7RcLW_drNT2MVy3jupLSFT2ePAxBj0GaI3z3tNd4E2-gCBisHYhFUWXzyXocF0wGQCCLjV5W4Wl8FS5gLJX2GlQdGRZ/s1600/pytorch.jpg",
+    "published": "2025-12-03T09:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Picklescan Bugs Allow Malicious PyTorch Models to Evade Scans and Execute Code Three critical security flaws have been disclosed in an open-source utility called Picklescan that could allow malicious actors to execute arbitrary code by loading untrusted PyTorch models, effectivel\u2026",
+    "title": "Picklescan Bugs Allow Malicious PyTorch Models to Evade Scans and Execute Code"
+  },
+  "https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1uVFOoC-TzuWi5Bb4KrNtzUoUwXcRYquCvI_r7-6qu1622KSN6NMDm7YV17AdFd0FF7NIko4bfmivUTNFnBkvumQvYR5Qv0VX4AUVBIQb6jSEM0ARDcEpYw2DU53Ew8dx0zQjm1kfrlBoOlrBn2NWnc3oNeyEgyGC-1pEVkF5-8tmYU4gJIciT6sopGgX/s1600/massive-ddos-attack.jpg",
+    "published": "2025-12-04T06:52:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts Cloudflare on Wednesday said it detected and mitigated the largest ever distributed denial-of-service (DDoS) attack that measured at 29.7 terabits per second (Tbps).\nThe activity, the web inf\u2026",
+    "title": "Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts"
   },
   "https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html": {
     "categories": [],
@@ -1246,6 +1318,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid & More Hackers aren\u2019t kicking down the door anymore. They just use the same tools we use every day \u2014 code packages, cloud accounts, email, chat, phones, and \u201ctrusted\u201d partners \u2014 and turn them against us.\nOne\u2026",
     "title": "\u26a1 Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid & More"
+  },
+  "https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOEUBRBU7yOr4ksYNRA4-5equs6h7KyW_qETUsEQn6G_YqC_Qf7XlkyQ4kr4Ycwj5N97XeMxAppRT_JDyz7IETPajE9USD0YGONtpR0cMK-Zkd8BvJmoTFZ14U-5nj7WScTRyJLngRoOpf72yLTRFxXKST20oeimcv4ktQ0990pcmrOqS4pgWitQMGl66W/s1600/wordpress.jpg",
+    "published": "2025-12-03T17:08:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts A critical security flaw impacting a WordPress plugin known as King Addons for Elementor has come under active exploitation in the wild.\nThe vulnerability, CVE-2025-8489 (CVSS score: 9.8), is a case o\u2026",
+    "title": "WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-dissapeared-for-users/": {
     "categories": [
@@ -1516,6 +1597,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: KB5070311 triggers File Explorer white flash in dark mode Microsoft has confirmed that the KB5070311 preview update is triggering bright white flashes when launching the File Explorer in dark mode on Windows 11 systems. [...]",
     "title": "Microsoft: KB5070311 triggers File Explorer white flash in dark mode"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-03T16:45:30+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft \"mitigates\" Windows LNK flaw exploited as zero-day Microsoft has silently \"mitigated\"\u00a0a high-severity Windows LNK vulnerability exploited by multiple state-backed and cybercrime hacking groups in zero-day attacks. [...]",
+    "title": "Microsoft \"mitigates\" Windows LNK flaw exploited as zero-day"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2025-patch-tuesday-fixes-1-zero-day-63-flaws/": {
     "categories": [
@@ -1870,6 +1963,17 @@
     "summary": "AI-Slop ransomware test sneaks on to VS Code marketplace A malicious extension with basic ransomware capabilities seemingly created with the help of AI, has been published on Microsoft's official VS Code marketplace. [...]",
     "title": "AI-Slop ransomware test sneaks on to VS Code marketplace"
   },
+  "https://www.bleepingcomputer.com/news/security/aisuru-botnet-behind-new-record-breaking-297-tbps-ddos-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-03T14:01:04+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Aisuru botnet behind new record-breaking 29.7 Tbps DDoS attack In just three months, the massive Aisuru botnet launched more than 1,300 distributed denial-of-service attacks, one of them setting a new record with a peak at 29.7 terabits per second. [...]",
+    "title": "Aisuru botnet behind new record-breaking 29.7 Tbps DDoS attack"
+  },
   "https://www.bleepingcomputer.com/news/security/alleged-meduza-stealer-malware-admins-arrested-after-hacking-russian-org/": {
     "categories": [
       "Security"
@@ -2148,6 +2252,17 @@
     "summary": "Critical Cisco UCCX flaw lets attackers run commands as root Cisco has released security updates to patch a critical vulnerability in the Unified Contact Center Express (UCCX) software, which could enable\u00a0attackers to execute commands with root privileges. [...]",
     "title": "Critical Cisco UCCX flaw lets attackers run commands as root"
   },
+  "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wordpress-add-on-for-elementor-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-03T21:31:20+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Critical flaw in WordPress add-on for Elementor exploited in attacks Attackers are exploiting a critical-severity privilege escalation vulnerability (CVE-2025-8489) in the King Addons for Elementor plugin for WordPress, which lets them obtain\u00a0administrative permissions during the\u2026",
+    "title": "Critical flaw in WordPress add-on for Elementor exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/crowdstrike-catches-insider-feeding-information-to-hackers/": {
     "categories": [
       "Security"
@@ -2240,6 +2355,17 @@
     "source": "BleepingComputer",
     "summary": "Decades-old \u2018Finger\u2019 protocol abused in ClickFix malware attacks The decades-old \"finger\"\u00a0command is making a comeback,, with threat actors using the protocol to retrieve remote commands to execute on Windows devices. [...]",
     "title": "Decades-old \u2018Finger\u2019 protocol abused in ClickFix malware attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/deep-dive-into-dragonforce-ransomware-and-its-scattered-spider-connection/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-03T15:05:15+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Deep dive into DragonForce ransomware and its Scattered Spider connection DragonForce expanded its ransomware operation in 2025 by working with English-speaking hackers known for advanced social engineering and initial access. Acronis explains how the \"Scattered Spider\" collabora\u2026",
+    "title": "Deep dive into DragonForce ransomware and its Scattered Spider connection"
   },
   "https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/": {
     "categories": [
@@ -2405,6 +2531,17 @@
     "summary": "Fortinet FortiWeb flaw with public PoC exploited to create admin users A Fortinet FortiWeb path traversal vulnerability is being actively exploited to create new administrative users on exposed devices without requiring authentication [...]",
     "title": "Fortinet FortiWeb flaw with public PoC exploited to create admin users"
   },
+  "https://www.bleepingcomputer.com/news/security/freedom-mobile-discloses-data-breach-exposing-customer-data/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-03T20:28:01+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Freedom Mobile discloses data breach exposing customer data Freedom Mobile, the fourth-largest wireless carrier in Canada, has disclosed a data breach after attackers hacked into\u00a0its customer account management platform and stole the personal information of an undisclosed number \u2026",
+    "title": "Freedom Mobile discloses data breach exposing customer data"
+  },
   "https://www.bleepingcomputer.com/news/security/french-agency-pajemploi-reports-data-breach-affecting-12m-people/": {
     "categories": [
       "Security"
@@ -2414,6 +2551,17 @@
     "source": "BleepingComputer",
     "summary": "French agency Pajemploi reports data breach affecting 1.2M people Pajemploi, the French social security service for parents and home-based childcare providers, has suffered a data breach that may have exposed personal information of 1.2 million individuals. [...]",
     "title": "French agency Pajemploi reports data breach affecting 1.2M people"
+  },
+  "https://www.bleepingcomputer.com/news/security/french-diy-retail-giant-leroy-merlin-discloses-a-data-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-03T20:52:36+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "French DIY retail giant Leroy Merlin discloses a data breach Leroy Merlin is sending security breach notifications to customers in France, informing them that their personal data was compromised. [...]",
+    "title": "French DIY retail giant Leroy Merlin discloses a data breach"
   },
   "https://www.bleepingcomputer.com/news/security/french-football-federation-fff-discloses-data-breach-after-cyberattack/": {
     "categories": [
@@ -2478,6 +2626,19 @@
     "source": "BleepingComputer",
     "summary": "GlobalProtect VPN portals probed with 2.3 million scan sessions A major spike in malicious scanning against Palo Alto Networks GlobalProtect portals has been detected, starting on November 14, 2025. [...]",
     "title": "GlobalProtect VPN portals probed with 2.3 million scan sessions"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-expands-android-scam-protection-feature-to-chase-cash-app-in-us/": {
+    "categories": [
+      "Security",
+      "Google",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2025-12-03T17:00:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google expands Android scam protection feature to Chase, Cash App in U.S. Google is expanding support for\u00a0its Android's in-call scam protection to multiple banks and financial applications in the United States. [...]",
+    "title": "Google expands Android scam protection feature to Chase, Cash App in U.S."
   },
   "https://www.bleepingcomputer.com/news/security/google-exposes-badaudio-malware-used-in-apt24-espionage-campaigns/": {
     "categories": [
@@ -2836,6 +2997,17 @@
     "source": "BleepingComputer",
     "summary": "Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison A 44-year-old man was sentenced to seven years and four months in prison for operating an \"evil twin\" WiFi network to steal the data of unsuspecting travelers at various airports across Australia. [...]",
     "title": "Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison"
+  },
+  "https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-03T22:06:07+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Marquis data breach impacts over 74 US banks, credit unions Financial software provider Marquis Software Solutions is warning that it suffered a data breach that impacted dozens of banks and credit unions across the US. [...]",
+    "title": "Marquis data breach impacts over 74 US banks, credit unions"
   },
   "https://www.bleepingcomputer.com/news/security/media-giant-nikkei-reports-data-breach-impacting-17-000-people/": {
     "categories": [
@@ -3249,6 +3421,17 @@
     "summary": "RondoDox botnet malware now hacks servers using XWiki flaw The RondoDox botnet malware is now exploiting a critical remote code execution (RCE) flaw in XWiki Platform tracked as CVE-2025-24893. [...]",
     "title": "RondoDox botnet malware now hacks servers using XWiki flaw"
   },
+  "https://www.bleepingcomputer.com/news/security/russia-blocks-roblox-over-distribution-of-lgbt-propaganda/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-03T17:33:57+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Russia blocks Roblox over distribution of LGBT \"propaganda\" Roskomnadzor, Russia's telecommunications watchdog, has blocked access to the Roblox online gaming platform for failing to stop the distribution of what it described as LGBT propaganda and extremist materials. [...]",
+    "title": "Russia blocks Roblox over distribution of LGBT \"propaganda\""
+  },
   "https://www.bleepingcomputer.com/news/security/russian-hackers-abuse-hyper-v-to-hide-malware-in-linux-vms/": {
     "categories": [
       "Security"
@@ -3518,6 +3701,17 @@
     "summary": "Penn hacker claims to have stolen 1.2 million donor records in data breach A hacker has taken responsibility for last week's University of Pennsylvania \"We got hacked\" email incident, saying it was a far more extensive breach that exposed data on 1.2 million donors and internal d\u2026",
     "title": "Penn hacker claims to have stolen 1.2 million donor records in data breach"
   },
+  "https://www.bleepingcomputer.com/news/security/university-of-phoenix-discloses-data-breach-after-oracle-hack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-03T13:23:10+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "University of Phoenix discloses data breach after Oracle hack The University of Phoenix (UoPX) has joined a growing list of\u00a0U.S. universities\u00a0breached in a Clop data theft campaign targeting vulnerable Oracle E-Business Suite instances in August 2025. [...]",
+    "title": "University of Phoenix discloses data breach after Oracle hack"
+  },
   "https://www.bleepingcomputer.com/news/security/us-announces-new-strike-force-targeting-chinese-crypto-scammers/": {
     "categories": [
       "Security",
@@ -3727,6 +3921,15 @@
     "summary": "AI Developed Code: 5 Critical Security Checkpoints for Human Oversight To write secure code with LLMs developers must have the skills to use AI as a collaborative assistant rather than an autonomous tool, Madou argues.",
     "title": "AI Developed Code: 5 Critical Security Checkpoints for Human Oversight"
   },
+  "https://www.darkreading.com/application-security/arizona-ag-temu-stealing-user-data": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56e9e9be68b5a627/693094ca216a8333c7cf029b/Temu_App_Koshiro_K_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-03T21:00:58+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Arizona AG Sues Temu Over 'Stealing' User Data The suit alleges the Chinese retailer's app secretly accesses and harvests users' sensitive information without their knowledge or consent.",
+    "title": "Arizona AG Sues Temu Over 'Stealing' User Data"
+  },
   "https://www.darkreading.com/application-security/bronze-butler-apt-exploits-zero-day-vuln-root-japan": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc4fb1e58a83989e5/690bb5e164cd7f024c52e137/butler-Steve_Cukrov-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -3926,6 +4129,15 @@
     "summary": "Advanced Security Isn't Stopping Ancient Phishing Tactics New research reveals that sophisticated phishing attacks consistently bypass traditional enterprise security measures.",
     "title": "Advanced Security Isn't Stopping Ancient Phishing Tactics"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ai-python-variant-brazilian-whatsapp-attacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt68430d49f96f0c85/69301c02acfca8c7df8384ad/brazil1800_Lazyllama_alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-03T10:56:24+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "AI Bolsters Python Variant of Brazilian WhatsApp Attacks Water Saci has upgraded its self-propagating malware to compromise banks and cryptocurrency exchanges by targeting enterprise users of the popular chat app.",
+    "title": "AI Bolsters Python Variant of Brazilian WhatsApp Attacks"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/china-researches-ways-disrupt-satellite-internet": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6b77fbe45a055630/692f650ddb48104df183d103/satellite-in-space-Dima_Zel-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -4073,6 +4285,15 @@
     "source": "darkreading",
     "summary": "SonicWall Firewall Backups Stolen by Nation-State Actor The network security vendor said the MySonicWall breach was unrelated to the recent wave of Akira ransomware attacks targeting the company's devices.",
     "title": "SonicWall Firewall Backups Stolen by Nation-State Actor"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/the-ransomware-holiday-bind-burnout-or-be-vulnerable": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt461cc484d5296000/693045618fc4b475001bbdad/3D71JKD.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-03T13:52:29+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "The Ransomware Holiday Bind: Burnout or Be Vulnerable Ransomware groups target enterprises during off-hours, weekends, and holidays when security teams are stretched thin and response times lag.",
+    "title": "The Ransomware Holiday Bind: Burnout or Be Vulnerable"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/tomiris-unleashes-havoc-new-tools-tactics": {
     "categories": [],
@@ -4298,6 +4519,15 @@
     "summary": "Pro-Russian Hackers Use Linux VMs to Hide in Windows A threat actor known as &quot;Curly COMrades&quot; is using Linux VMs to remain undetected in Windows environments while conducting Russia-aligned activities.",
     "title": "Pro-Russian Hackers Use Linux VMs to Hide in Windows"
   },
+  "https://www.darkreading.com/endpoint-security/shadypanda-hackers-weaponize-browsers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3d1f8fdab2a47de2/6930ad4e03abeee5cb2b806f/panda_Elen_Marlen_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-03T22:06:56+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "'ShadyPanda' Hackers Weaponize Millions of Browsers The China-based cyber-threat group has been quietly using malicious extensions on the Google Chrome and Microsoft Edge marketplaces to spy on millions of users.",
+    "title": "'ShadyPanda' Hackers Weaponize Millions of Browsers"
+  },
   "https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltec9f14c11f342d6f/69161ac9bc68b50a22001b58/DRVE_Event_20251203.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -4305,6 +4535,15 @@
     "source": "darkreading",
     "summary": "[Dark Reading Virtual Event] Cybersecurity Outlook 2026",
     "title": "[Dark Reading Virtual Event] Cybersecurity Outlook 2026"
+  },
+  "https://www.darkreading.com/events/gisec-global": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltab3a19d3487258cf/6930b129e8457eb794b997dc/300250.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-05T11:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "GISEC GLOBAL 2026 \u2013 The Middle East &amp; Africa\u2019s Largest Cybersecurity Event",
+    "title": "GISEC GLOBAL 2026 \u2013 The Middle East &amp; Africa\u2019s Largest Cybersecurity Event"
   },
   "https://www.darkreading.com/ics-ot-security/claroty-patches-authentication-bypass-flaw": {
     "categories": [],
@@ -4441,6 +4680,15 @@
     "summary": "'Matrix Push' C2 Tool Hijacks Browser Notifications Have you ever given two seconds of thought to a browser notification? No? That's what hackers bent on phishing are counting on.",
     "title": "'Matrix Push' C2 Tool Hijacks Browser Notifications"
   },
+  "https://www.darkreading.com/threat-intelligence/muddywater-hackers-israeli-orgs-retro-game": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc9baa8891b84c6b8/69307fe600d62c0cfd4cee12/Snake_game-Designtegrator-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-04T07:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "'MuddyWater' Hackers Target Israeli Orgs With Retro Game Tactic Iran's top state-sponsored APT is usually rather crass. But in a recent spate of attacks, it tried out some interesting evasion tactics, including delving into Snake, an old-school mobile game.",
+    "title": "'MuddyWater' Hackers Target Israeli Orgs With Retro Game Tactic"
+  },
   "https://www.darkreading.com/threat-intelligence/researchers-use-poetry-to-jailbreak-ai-models": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4c2ba9ee4c750918/692f418570c7a47616826666/Poetry_Books_Ian_M_Butterfield_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -4496,6 +4744,15 @@
     "source": "darkreading",
     "summary": "Critical Flaw in Oracle Identity Manager Under Exploitation The exploitation of CVE-2025-61757 follows a breach of Oracle Cloud earlier this year as well as a recent extortion campaign targeting Oracle E-Business Suite customers.",
     "title": "Critical Flaw in Oracle Identity Manager Under Exploitation"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/critical-react-flaw-triggers-immediate-action": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6cc9f3be7b3307fc/6930abbf9c83974138ac4920/react_KoshiroK_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-03T21:51:03+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Critical React Flaw Triggers Calls for Immediate Action The vulnerability, which was assigned two CVEs with maximum CVSS scores of 10, may affect more than a third of cloud service providers.",
+    "title": "Critical React Flaw Triggers Calls for Immediate Action"
   },
   "https://www.darkreading.com/vulnerabilities-threats/critical-site-takeover-flaw-400k-wordpress-sites": {
     "categories": [],
