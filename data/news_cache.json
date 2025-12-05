@@ -1130,6 +1130,15 @@
     "summary": "Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys New research has found that organizations in various sensitive sectors, including governments, telecoms, and critical infrastructure, are pasting passwords and credentials into online tools l\u2026",
     "title": "Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys"
   },
+  "https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ51hMVtHfFQ2O7pCZYfK5WkypXg1Qury_AA_VudY5f_n7u8S8M4UJAy76w7DM1aBq1faDyuaOO4VJP7bIj1L1-AgNzZjQf0-kZlhU6kH-G4qDMkZFF_7YsL3v5R6d9PkpJcTegD7H01BySWNNs-m5toA_DTqVSVs-sCeLm5n1zJuLzs1_erWdl8asq4k/s1600/reflectiz.jpg",
+    "published": "2025-12-04T11:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "5 Threats That Reshaped Web Security This Year [2025] As 2025 draws to a close, security professionals face a sobering realization: the traditional playbook for web security has become dangerously obsolete. AI-powered attacks, evolving injection techniques, and supply chain compr\u2026",
+    "title": "5 Threats That Reshaped Web Security This Year [2025]"
+  },
   "https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaXJGSuca7TOkhpzQSqTtJJWkuBbFzjkm6UDnl04TARRIVqKOvnJmtLCysj9BEt7zm7QmU8RZMFjwiGnVOQUKIxvVle841t-4dv7YGs8Rx4qo9cvYQApnnJnAhmG419Xy-d0_nI8URsb8IQpXQpfBFD5nlOiADT0Mp0ZW0Ze-rxNvgCuQIAGTgNZovCBTN/s1600/brazil-malware.jpg",
@@ -1175,6 +1184,15 @@
     "summary": "GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools The supply chain campaign known as GlassWorm has once again reared its head, infiltrating both Microsoft Visual Studio Marketplace and Open VSX with 24 extensions impersonating popular developer \u2026",
     "title": "GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools"
   },
+  "https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGcQU24FhOc1wko8l0tnt5dDp4T51lLr4nWnciANW8dt5IcWx6j-aj3JoRCtjs2PYSy8wjOjoeHPajxBtiEsq0rGgxcKkZwibmLjh2UXZNA07Fwf75-ArzM0Yyodf2RjHqx9rsKlQJhH5ewcXMM8srmlmIWHjbdvTnz4JGF3qNZ0p6jFOw1mapv2_6zlhG/s1600/banking-apps.jpg",
+    "published": "2025-12-04T09:27:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections Cybercriminals associated with a financially motivated group known as GoldFactory have been observed staging a fresh round of attacks targeting mobile users in Indonesia, Thailand, and Vietnam b\u2026",
+    "title": "GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections"
+  },
   "https://thehackernews.com/2025/12/google-patches-107-android-flaws.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-2eGLpT-dW3-PbjBoWaQtkVc-dEwO5RtxY532IOybzHPHQWo4lkSaf6fkpNyD_hWyoWtlmgfweLMyDEkBGEyr160z2_8tTVHoo6hRKfUh4yywZ9yMKq5hWSKEIz7OzngxWGy57CIOdHRSn6hHtKqy2R6qAFfDPQ7rEnMUzU236-TbAhwqEjlApSBLLIz/s1600/android-update.jpg",
@@ -1210,6 +1228,15 @@
     "source": "The Hacker News",
     "summary": "Iran-Linked Hackers Hit Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks Israeli entities spanning academia, engineering, local government, manufacturing, technology, transportation, and utilities sectors have emerged as the target of a new set of attacks undertak\u2026",
     "title": "Iran-Linked Hackers Hit Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks"
+  },
+  "https://thehackernews.com/2025/12/jpcert-confirms-active-command.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijkDT1pB32P4Aj-XUQjHXzXUeKtUjJ6Jsm66Ap9f1RNJkQpMsAiEtkVJgUqHHJzcHyLEeCrzIqcehBy5SXX4eSdN4LaFYAB7SR-YflLdNG2YyuVotys9i1HpheYNeAO6PcAicSsLYa-TGxgOnmdR_JzRg1HvQwTfoxA8qkzwTF-B9UScG957OkFBdxnc1B/s1600/array.jpg",
+    "published": "2025-12-05T05:40:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "JPCERT Confirms Active Command Injection Attacks on Array AG Gateways A command injection vulnerability in Array Networks AG Series secure access gateways has been exploited in the wild since August 2025, according to an alert issued by JPCERT/CC this week.\nThe vulnerability, whi\u2026",
+    "title": "JPCERT Confirms Active Command Injection Attacks on Array AG Gateways"
   },
   "https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html": {
     "categories": [],
@@ -1291,6 +1318,24 @@
     "source": "The Hacker News",
     "summary": "ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware A threat actor known as ShadyPanda has been linked to a seven-year-long browser extension campaign that has amassed over 4.3 million installations over time.\nFive of these extensions started off as\u2026",
     "title": "ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware"
+  },
+  "https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOGRDm-2Em-PIUKEQzdon3yjLDInkZdDnDzgWKhQ0q6QmtDagHyiGNa2KRwJsUQEPnqLnfkTdHKiGyBIx3S4RiVlZ7Y4RlSn-rRbKF9SkZFEWf-6sYNMA3NE6-0DxziItdI81lLne3G63Gy5Pmdy9dd9W9CDS7lou5SwO0GvhzzV02F61MvGeanfeQBhri/s1600/msteams.jpg",
+    "published": "2025-12-04T17:25:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Silver Fox Uses Fake Microsoft Teams Installer to Spread ValleyRAT Malware in China The threat actor known as Silver Fox has been spotted orchestrating a false flag operation to mimic a Russian threat group in attacks targeting organizations in China.\nThe search engine optimizati\u2026",
+    "title": "Silver Fox Uses Fake Microsoft Teams Installer to Spread ValleyRAT Malware in China"
+  },
+  "https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPB5s5jqQGNVSaQcxQlSLETTs6zenKql9P7pFg_oYPK6QrwxlV8op0hOIcKgPr_A6tUOk6MXQrrsMaiOat6BnC_5j59Zkdj3pX24xsyVwXBWgkm2oSPV-G5rkUQlQBbhZLEwHbLR9XhpTBnBeq9joxUXSnfRmXDA-6NRapquU-5VulbzhGZNfMMrIzy3ms/s1600/threatsdayd-dec.jpg",
+    "published": "2025-12-04T11:58:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts\u2014 and 15 More Stories Think your Wi-Fi is safe? Your coding tools? Or even your favorite financial apps? This week proves again how hackers, companies, and governments are all locked in a nonstop race to outsma\u2026",
+    "title": "ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts\u2014 and 15 More Stories"
   },
   "https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html": {
     "categories": [],
@@ -1514,6 +1559,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses Microsoft said today that the Aisuru botnet hit its Azure network with a 15.72 terabits per second (Tbps) DDoS attack, launched from over 500,000 IP addresses. [...]",
     "title": "Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-bug-in-microsoft-365-license-checks-blocks-desktop-app-downloads/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2025-12-04T13:18:08+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft 365 license check bug blocks desktop app downloads \u200bMicrosoft is investigating and working to resolve a known issue that prevents customers from downloading Microsoft 365 desktop apps from the Microsoft 365 homepage. [...]",
+    "title": "Microsoft 365 license check bug blocks desktop app downloads"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-portal-outage-blocks-access-to-security-alerts/": {
     "categories": [
@@ -2141,6 +2197,17 @@
     "summary": "CISA warns of Akira ransomware Linux encryptor targeting Nutanix VMs US government agencies are warning that the Akira ransomware operation has been spotted encrypting Nutanix AHV virtual machines in attacks.\u00a0 [...]",
     "title": "CISA warns of Akira ransomware Linux encryptor targeting Nutanix VMs"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-chinese-brickstorm-malware-attacks-on-vmware-servers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-04T18:19:55+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "CISA warns of Chinese \"BrickStorm\" malware attacks on VMware servers The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned network defenders of Chinese hackers backdooring VMware vSphere servers with Brickstorm malware. [...]",
+    "title": "CISA warns of Chinese \"BrickStorm\" malware attacks on VMware servers"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-centos-web-panel-bug-exploited-in-attacks/": {
     "categories": [
       "Security",
@@ -2232,6 +2299,18 @@
     "summary": "Continuous Purple Teaming: Turning Red-Blue Rivalry into Real Defense Red and blue teams often operate independently, but attackers don't. Picus Security shows how continuous purple teaming and BAS turn red-blue rivalry into real defense, validating controls and closing gaps in r\u2026",
     "title": "Continuous Purple Teaming: Turning Red-Blue Rivalry into Real Defense"
   },
+  "https://www.bleepingcomputer.com/news/security/contractors-with-hacking-records-accused-of-wiping-96-govt-databases/": {
+    "categories": [
+      "Security",
+      "Government"
+    ],
+    "image": "",
+    "published": "2025-12-04T16:30:59+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Contractors with hacking records accused of wiping 96 govt databases U.S. prosecutors have charged two Virginia brothers arrested on Wednesday with allegedly conspiring to steal sensitive information and destroy government databases after being fired from their jobs as federal co\u2026",
+    "title": "Contractors with hacking records accused of wiping 96 govt databases"
+  },
   "https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/": {
     "categories": [
       "Security"
@@ -2262,6 +2341,17 @@
     "source": "BleepingComputer",
     "summary": "Critical flaw in WordPress add-on for Elementor exploited in attacks Attackers are exploiting a critical-severity privilege escalation vulnerability (CVE-2025-8489) in the King Addons for Elementor plugin for WordPress, which lets them obtain\u00a0administrative permissions during the\u2026",
     "title": "Critical flaw in WordPress add-on for Elementor exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-04T15:11:54+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Critical React, Next.js flaw lets hackers execute code on servers A maximum severity vulnerability,\u00a0dubbed 'React2Shell',\u00a0in the React Server Components (RSC) 'Flight' protocol\u00a0allows remote code execution without authentication in React and Next.js applications. [...]",
+    "title": "Critical React, Next.js flaw lets hackers execute code on servers"
   },
   "https://www.bleepingcomputer.com/news/security/crowdstrike-catches-insider-feeding-information-to-hackers/": {
     "categories": [
@@ -2759,6 +2849,17 @@
     "summary": "Hackers abuse Triofox antivirus feature to deploy remote access tools Hackers exploited a critical vulnerability and the built-in antivirus feature in Gladinet's Triofox file-sharing and remote-access platform to achieve remote code execution with SYSTEM privileges. [...]",
     "title": "Hackers abuse Triofox antivirus feature to deploy remote access tools"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-arrayos-ag-vpn-flaw-to-plant-webshells/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-04T23:05:05+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers are exploiting ArrayOS AG VPN flaw to plant webshells Threat actors have been exploiting a command injection vulnerability in Array AG Series VPN devices to plant webshells and create rogue users. [...]",
+    "title": "Hackers are exploiting ArrayOS AG VPN flaw to plant webshells"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-flaw-in-jobmonster-wordpress-theme/": {
     "categories": [
       "Security"
@@ -2829,6 +2930,17 @@
     "source": "BleepingComputer",
     "summary": "How a ransomware gang encrypted Nevada government's systems The State of Nevada has completed its recovery from a ransomware attack it suffered on August 24, 2025, which impacted 60 state agencies, disrupting critical services related to health and public safety. [...]",
     "title": "How a ransomware gang encrypted Nevada government's systems"
+  },
+  "https://www.bleepingcomputer.com/news/security/how-strong-password-policies-secure-ot-systems-against-cyber-threats/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-04T15:11:22+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "How strong password policies secure OT systems against cyber threats OT environments rely on aging systems, shared accounts, and remote access, making weak or reused passwords a major attack vector. Specops Software explains how stronger password policies and continuous checks fo\u2026",
+    "title": "How strong password policies secure OT systems against cyber threats"
   },
   "https://www.bleepingcomputer.com/news/security/hyundai-autoever-america-data-breach-exposes-ssns-drivers-licenses/": {
     "categories": [
@@ -3083,6 +3195,17 @@
     "summary": "NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features NAKIVO Backup & Replication v11.1 expands disaster recovery with real-time replication, enhanced Proxmox VE support, and granular physical backups. The update adds MSP Direct Connect for secure client manage\u2026",
     "title": "NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features"
   },
+  "https://www.bleepingcomputer.com/news/security/ncscs-proactive-notifications-warns-orgs-of-flaws-in-exposed-devices/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-04T22:21:12+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "NCSC's \u2018Proactive Notifications\u2019 warns orgs of flaws in exposed devices The UK's National Cyber Security Center (NCSC) announced the testing phase of a new service called Proactive Notifications, designed to inform organizations in the country of vulnerabilities present in their \u2026",
+    "title": "NCSC's \u2018Proactive Notifications\u2019 warns orgs of flaws in exposed devices"
+  },
   "https://www.bleepingcomputer.com/news/security/new-costco-gold-star-members-also-get-a-40-digital-costco-shop-card/": {
     "categories": [
       "Security"
@@ -3328,6 +3451,17 @@
     "summary": "Popular JavaScript library expr-eval vulnerable to RCE flaw A critical vulnerability in the popular expr-eval JavaScript library,\u00a0with over 800,000 weekly downloads on NPM, can be exploited to execute code remotely through maliciously crafted input. [...]",
     "title": "Popular JavaScript library expr-eval vulnerable to RCE flaw"
   },
+  "https://www.bleepingcomputer.com/news/security/predator-spyware-uses-new-infection-vector-for-zero-click-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-04T20:47:42+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Predator spyware uses new infection vector for zero-click attacks The Predator spyware from surveillance company Intellexa has been using a zero-click infection mechanism dubbed \"Aladdin\" that compromised specific targets when simply viewing a malicious advertisement. [...]",
+    "title": "Predator spyware uses new infection vector for zero-click attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/princeton-university-discloses-data-breach-affecting-donors-alumni/": {
     "categories": [
       "Security",
@@ -3420,6 +3554,17 @@
     "source": "BleepingComputer",
     "summary": "RondoDox botnet malware now hacks servers using XWiki flaw The RondoDox botnet malware is now exploiting a critical remote code execution (RCE) flaw in XWiki Platform tracked as CVE-2025-24893. [...]",
     "title": "RondoDox botnet malware now hacks servers using XWiki flaw"
+  },
+  "https://www.bleepingcomputer.com/news/security/russia-blocks-facetime-and-snapchat-over-use-in-terrorist-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-04T19:12:18+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Russia blocks FaceTime and Snapchat for alleged use by terrorists Russian telecommunications watchdog Roskomnadzor has blocked access to Apple's FaceTime video conferencing platform and the Snapchat instant messaging service, claiming they're being used to coordinate terrorist at\u2026",
+    "title": "Russia blocks FaceTime and Snapchat for alleged use by terrorists"
   },
   "https://www.bleepingcomputer.com/news/security/russia-blocks-roblox-over-distribution-of-lgbt-propaganda/": {
     "categories": [
@@ -4098,6 +4243,15 @@
     "summary": "Microsoft Backs Massive AI Push in UAE, Raising Security Concerns In partnership with Emirates tech company G42, Microsoft is building the first stage of a 5-gigawatt US-UAE AI campus using Nvidia GPUs.",
     "title": "Microsoft Backs Massive AI Push in UAE, Raising Security Concerns"
   },
+  "https://www.darkreading.com/cyber-risk/servicenow-acquire-nhi-provider-veza-strengthen-governance-portfolio": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt623e9c094f6b87c3/66951d7d24bd25490eec57cc/Merger(1800)_Mohd_Izzuan_Roslan_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-04T15:29:11+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "ServiceNow's Acquisition of NHI Provider Veza Strengthens Governance Portfolio The deal, believed to be valued at $1 billion, will bring non-human identity access control of agents and machines to ServiceNow\u2019s offerings including its new AI Control Tower.",
+    "title": "ServiceNow's Acquisition of NHI Provider Veza Strengthens Governance Portfolio"
+  },
   "https://www.darkreading.com/cyber-risk/shadowray-20-ai-clusters-crypto-botnets": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0a7f3441a7ee6dec/6924d07575e3a3023cee8fd9/ai_Summit_Art_Creations_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -4154,6 +4308,15 @@
     "source": "darkreading",
     "summary": "With Friends Like These: China Spies on Russian IT Orgs State-linked hackers stayed under the radar by using a variety of commercial cloud services for command-and-control communications.",
     "title": "With Friends Like These: China Spies on Russian IT Orgs"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/cisa-ongoing-brickstorm-backdoor-attacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb4b9ab59bde157e0/6931fcd9a4d05c98983cde9c/bricks_FrankieAngel_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-04T21:58:14+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "CISA Warns of 'Ongoing' Brickstorm Backdoor Attacks State-sponsored actors tied to China continue to target VMware vSphere environments at government and technology organizations.",
+    "title": "CISA Warns of 'Ongoing' Brickstorm Backdoor Attacks"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-targets-hotels-secondary-customer-attacks": {
     "categories": [],
@@ -4327,6 +4490,15 @@
     "summary": "Vision Language Models Keep an Eye on Physical Security Advancements in vision language models expanded models reasoning capabilities to help protect employee safety.",
     "title": "Vision Language Models Keep an Eye on Physical Security"
   },
+  "https://www.darkreading.com/cybersecurity-analytics/how-agentic-ai-can-boost-cyber-defense": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt42df7ca896592a2e/6751ee3d47226cf59b96d81d/SOC_(1800)_Dragos_Condrea_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-04T23:05:15+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "How Agentic AI Can Boost Cyber Defense Transurban head of cyber defense Muhammad Ali Paracha shares how his team is automating the triaging and scoring of security threats as part of the Black Hat Middle East conference.",
+    "title": "How Agentic AI Can Boost Cyber Defense"
+  },
   "https://www.darkreading.com/cybersecurity-careers/shadow-program-gives-aws-exec-new-security-lens": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt189c519f85fecfa4/69176e237590586653e9cdc3/C517J2.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -4374,6 +4546,15 @@
     "source": "darkreading",
     "summary": "Can a Global, Decentralized System Save CVE Data? As vulnerabilities in the Common Vulnerabilities and Exposures ecosystem pile up, one Black Hat Europe presenter hopes for a global, distributed alternative.",
     "title": "Can a Global, Decentralized System Save CVE Data?"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/cisa-publishes-security-guidance-ai-ot": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9e75fc81b0e5f130/6931e3ffd6582cd18d49a60b/OT_environment_ElenaBs_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-04T20:46:27+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "CISA Publishes Security Guidance for Using AI in OT Global cybersecurity agencies published guidance regarding AI deployments in operational technology, a backbone of critical infrastructure.",
+    "title": "CISA Publishes Security Guidance for Using AI in OT"
   },
   "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework": {
     "categories": [],
@@ -4647,6 +4828,15 @@
     "source": "darkreading",
     "summary": "Google Looks to Dim 'Lighthouse' Phishing-as-a-Service Op The phishing kit, run by a group known as the &quot;Smishing Triad,&quot; has powered massive amounts of unpaid tolls and package tracking texts.",
     "title": "Google Looks to Dim 'Lighthouse' Phishing-as-a-Service Op"
+  },
+  "https://www.darkreading.com/threat-intelligence/govt-university-sites-chinese-actors": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltab061c1df1dd252a/6928d48fc384e51aa1296777/Bangladesh_lock-Ink_Drop-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-04T14:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Student Sells Gov't, University Sites to Chinese Actors It's the best deal going in cybercrime: fully compromised websites belonging to high-value organizations, for just a couple hundred bucks each.",
+    "title": "Student Sells Gov't, University Sites to Chinese Actors"
   },
   "https://www.darkreading.com/threat-intelligence/iran-exploits-cyber-domain-kinetic-strikes": {
     "categories": [],
