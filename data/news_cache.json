@@ -1148,6 +1148,15 @@
     "summary": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud The threat actor known as Water Saci is actively evolving its tactics, switching to a sophisticated, highly layered infection chain that uses HTML Application (HTA) files and PDFs to propagate via \u2026",
     "title": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud"
   },
+  "https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBGZGO0_jakOaCSssV2crSecm7odx1bUOTqtH1Z1k96_-HkFpjQA3TTjuMIDHiGEHV_xcPfwzcRyUaPsEclLOa7fVfVu3Z2h__gR0w1rzKGBoAGGXOXFZu0q1a-mFTP-RRjbGqOg89tnq66ErYqfLUh1TgWkG2WSzkXpOnbP-D9hOAm5x6e0cYz6phoGa8/s1600/React2Shell.jpg",
+    "published": "2025-12-05T14:10:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability Two hacking groups with ties to China have been observed weaponizing the newly disclosed security flaw in React Server Components (RSC) within hours of it becoming public knowledge.\nThe vulnerab\u2026",
+    "title": "Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability"
+  },
   "https://thehackernews.com/2025/12/chopping-ai-down-to-size-turning.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_4P5ELpACB-FnFxcCiCIcebpFFrXZIu9gkCjCAv4TAmaJTeIdo5zVIdwYukqu-MeZKQheSzmWFedSw-8-0gx5dOfbsdLNyMNglcp_etSWlTZpLuAZd00De4GbsAL-szGMm7P_wIbuM32IPuGGihYzTUJdQuFkOGuBcvFZCtaj2NoQgG4BCPvwfbJvvTk/s1600/ai-work.png",
@@ -1156,6 +1165,15 @@
     "source": "The Hacker News",
     "summary": "Chopping AI Down to Size: Turning Disruptive Technology into a Strategic Advantage Most people know the story of Paul Bunyan. A giant lumberjack, a trusted axe, and a challenge from a machine that promised to outpace him. Paul doubled down on his old way of working, swung harder,\u2026",
     "title": "Chopping AI Down to Size: Turning Disruptive Technology into a Strategic Advantage"
+  },
+  "https://thehackernews.com/2025/12/cisa-reports-prc-hackers-using.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjagp4sr3aHhUYdEa6MEO7S5AaVubzpKfuFL9-Zkuv_GjyxT74q_4XA3gAM8xjQdWW8KfgCy2D81j9NoUB0aZI5IK1ciYxf-JFvZiBFVyEsXaxXIuh2mMbqyPGLJcdZxO-XpdxaF4-lbCzdl9f6xgxJABV4uBvxytMfCwLUmEHmyPfhkGF4z2BZiMNhYlbx/s1600/chinese-hackers.jpg",
+    "published": "2025-12-05T08:14:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "CISA Reports PRC Hackers Using BRICKSTORM for Long-Term Access in U.S. Systems The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday released details of a backdoor named BRICKSTORM that has been put to use by state-sponsored threat actors from the People's \u2026",
+    "title": "CISA Reports PRC Hackers Using BRICKSTORM for Long-Term Access in U.S. Systems"
   },
   "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html": {
     "categories": [],
@@ -1166,6 +1184,15 @@
     "summary": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution A maximum-severity security flaw has been disclosed in React Server Components (RSC) that, if successfully exploited, could result in remote code execution.\nThe vulnerability, tracked as CVE-2025-5\u2026",
     "title": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution"
   },
+  "https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimcJwsQmj0oUS-U2tQ_LEiDFb141hIr9nXUC0u82UeqC2E4R91g0RcJXWpMFg1tBVevGAYlNlSDxe2DCSqlcT_hJgf5wJYxw5O2yesuzjT00nkstAaX9YQr3-v0F6F-3KAj3pSaElo5BzAHHgUPdvp3VS2fBnbESU_YNX9GMveWeduIv1MwJHQes340PrZ/s1600/APACHETIKA.jpg",
+    "published": "2025-12-05T16:23:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical XXE Bug CVE-2025-66516 (CVSS 10.0) Hits Apache Tika, Requires Urgent Patch A critical security flaw has been disclosed in Apache Tika that could result in an XML external entity (XXE) injection attack.\nThe vulnerability, tracked as CVE-2025-66516, is rated 10.0 on the CV\u2026",
+    "title": "Critical XXE Bug CVE-2025-66516 (CVSS 10.0) Hits Apache Tika, Requires Urgent Patch"
+  },
   "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxESPxb37jzd_NrYS5eE_3cpBnlkxGqHJXXIQie1ZOae6cudWSMn8s8AM6E0npcrXT21zyDMA7h_StlMrfO7uHYBHHjtxKGJUuzN-QzlYNJjVo9eKzETAg1ORiJ8HWMTHoe4ME37KRf5QYSw8RmbFo8WoL28T2__Vg8VDuqO7Mq3LZ7Ao_oYdtWZjD6e3n/s1600/ai-hacking.jpg",
@@ -1174,6 +1201,15 @@
     "source": "The Hacker News",
     "summary": "Discover the AI Tools Fueling the Next Cybercrime Wave \u2014 Watch the Webinar Remember when phishing emails were easy to spot? Bad grammar, weird formatting, and requests from a \"Prince\" in a distant country?\nThose days are over.\nToday, a 16-year-old with zero coding skills and a $2\u2026",
     "title": "Discover the AI Tools Fueling the Next Cybercrime Wave \u2014 Watch the Webinar"
+  },
+  "https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcO2jopbnwmh4c-ifuKr1GgTWOIEiOSZ2r1_2mke-3-3b52sRbxFwXV4S7TBtfZEUZ1hWRbMPnh5YD-CQezVz-QNKMSw6WpF_1zqFF-5Li4bBeWdu6O68_HpYT3GbI7QtvH48gqKS5y5JrQ7OjCl42wTHmpuRBGY6znxz0puQ3K9xJYsXcpOLSn2_74Lc/s1600/cynomi.jpg",
+    "published": "2025-12-05T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "\"Getting to Yes\": An Anti-Sales Guide for MSPs Most MSPs and MSSPs know how to deliver effective security. The challenge is helping prospects understand why it matters in business terms. Too often, sales conversations stall because prospects are overwhelmed, skeptical, or tired o\u2026",
+    "title": "\"Getting to Yes\": An Anti-Sales Guide for MSPs"
   },
   "https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html": {
     "categories": [],
@@ -1219,6 +1255,15 @@
     "source": "The Hacker News",
     "summary": "India Orders Phone Makers to Pre-Install Government App to Tackle Telecom Fraud India's telecommunications ministry has ordered major mobile device manufacturers to preload a government-backed cybersecurity app named Sanchar Saathi on all new phones within 90 days.\nAccording to a\u2026",
     "title": "India Orders Phone Makers to Pre-Install Government App to Tackle Telecom Fraud"
+  },
+  "https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPRcWJr-rlmJf8CDeJyjjWDK0YGkFZog6zanboH4B8IfnqDW73KKktXhadTp3RRbaUTfAPYeYN_m84SaCKpHuT2p_7niwPrq6ztJaQ-PT2IepKdvcRR0Us8v8pwY0Z8jlxZ8djFCJ8VdVE0zikpPILdj_y6AO4mSlNdxZUvRuQcWbPamCP2q34y5IJf-Q3/s1600/spyware-malware.jpg",
+    "published": "2025-12-05T11:47:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery A human rights lawyer from Pakistan's Balochistan province received a suspicious link on WhatsApp from an unknown number, marking the first time a civil society member in the country was targeted \u2026",
+    "title": "Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery"
   },
   "https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html": {
     "categories": [],
@@ -1372,6 +1417,15 @@
     "source": "The Hacker News",
     "summary": "WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts A critical security flaw impacting a WordPress plugin known as King Addons for Elementor has come under active exploitation in the wild.\nThe vulnerability, CVE-2025-8489 (CVSS score: 9.8), is a case o\u2026",
     "title": "WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts"
+  },
+  "https://thehackernews.com/2025/12/zero-click-agentic-browser-attack-can.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj013piwG0slLwLLZAd7zxcwZR9zCdbwpzxYgIyQ3Ci3g9i9_T8vuN6Plb6Xc3wb8SWOAj1mNDLeOYTaIZ_5gUx3csIID98Mw2oYn0tg8KSZ2LLz8NxaBhksTSB41QqOomsmwt2X9JY1EpCPVRz1qXSn4yLdF0VFeOyCBNstcmI1ZtyOUg-wqEEbNfEsfsL/s1600/ai-browser.jpg",
+    "published": "2025-12-05T17:53:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails A new agentic browser attack targeting Perplexity's Comet browser that's capable of turning a seemingly innocuous email into a destructive action that wipes a user's entire Google Drive contents\u2026",
+    "title": "Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-dissapeared-for-users/": {
     "categories": [
@@ -2008,6 +2062,17 @@
     "summary": "5 reasons why attackers are phishing over LinkedIn Attackers are increasingly phishing over LinkedIn to reach executives and bypass email security tools. Push Security explains how real-time browser protection detects and blocks phishing across apps and channels as users load mal\u2026",
     "title": "5 reasons why attackers are phishing over LinkedIn"
   },
+  "https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-05T15:00:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "A Practical Guide to Continuous Attack Surface Visibility Passive scan data goes stale fast as cloud assets shift daily, leaving teams blind to real exposures. Sprocket Security shows how continuous, automated recon gives accurate, up-to-date attack surface visibility. [...]",
+    "title": "A Practical Guide to Continuous Attack Surface Visibility"
+  },
   "https://www.bleepingcomputer.com/news/security/ai-slop-ransomware-test-sneaks-on-to-vs-code-marketplace/": {
     "categories": [
       "Security",
@@ -2108,6 +2173,18 @@
     "source": "BleepingComputer",
     "summary": "Avast Makes AI-Driven Scam Defense Available for Free Worldwide Avast is rolling out Scam Guardian, a free AI-powered protection layer that analyzes websites, messages, and links to detect rising scam threats. Powered by Gen Threat Labs data, it reveals hidden dangers in code and\u2026",
     "title": "Avast Makes AI-Driven Scam Defense Available for Free Worldwide"
+  },
+  "https://www.bleepingcomputer.com/news/security/barts-health-nhs-discloses-data-breach-after-oracle-zero-day-hack/": {
+    "categories": [
+      "Security",
+      "Healthcare"
+    ],
+    "image": "",
+    "published": "2025-12-05T18:55:26+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Barts Health NHS discloses data breach after Oracle zero-day hack Barts Health NHS Trust has announced that Clop ransomware actors have stolen files from a database by exploiting a vulnerability in its Oracle E-business Suite software. [...]",
+    "title": "Barts Health NHS discloses data breach after Oracle zero-day hack"
   },
   "https://www.bleepingcomputer.com/news/security/bitcoin-queen-gets-11-years-in-prison-for-73-billion-bitcoin-scam/": {
     "categories": [
@@ -2268,6 +2345,17 @@
     "source": "BleepingComputer",
     "summary": "ClickFix malware attacks evolve with multi-OS support, video tutorials ClickFix attacks have evolved to feature videos that guide victims through the self-infection process, a timer to pressure targets into taking risky actions, and automatic\u00a0 detection of the operating system to\u2026",
     "title": "ClickFix malware attacks evolve with multi-OS support, video tutorials"
+  },
+  "https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-05T13:53:26+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Cloudflare blames today's outage on React2Shell mitigations Cloudflare has blamed today's outage on the emergency patching of a critical React remote code execution vulnerability, which is now actively exploited in attacks. [...]",
+    "title": "Cloudflare blames today's outage on React2Shell mitigations"
   },
   "https://www.bleepingcomputer.com/news/security/code-beautifiers-expose-credentials-from-banks-govt-tech-orgs/": {
     "categories": [
@@ -2497,6 +2585,17 @@
     "summary": "Enterprise password security and secrets management with Passwork 7 Passwork 7 unifies enterprise password and secrets management in a self-hosted platform. Organizations can automate credential workflows and test the full system with a free trial and up to 50% Black Friday savin\u2026",
     "title": "Enterprise password security and secrets management with Passwork 7"
   },
+  "https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-05T14:41:01+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "EU fines X $140 million over deceptive blue checkmarks The European Commission has fined X \u20ac120 million ($140 million) for violating transparency obligations under the Digital Services Act (DSA). [...]",
+    "title": "EU fines X $140 million over deceptive blue checkmarks"
+  },
   "https://www.bleepingcomputer.com/news/security/eurofiber-france-warns-of-breach-after-hacker-tries-to-sell-customer-data/": {
     "categories": [
       "Security"
@@ -2567,6 +2666,17 @@
     "source": "BleepingComputer",
     "summary": "FBI: Cybercriminals stole $262M by impersonating bank support teams The FBI warns of a surge in account takeover (ATO) fraud schemes and says that cybercriminals impersonating various financial institutions have stolen over $262 million in ATO attacks since the start of the year.\u2026",
     "title": "FBI: Cybercriminals stole $262M by impersonating bank support teams"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-05T16:37:28+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "FBI warns of virtual kidnapping scams using altered social media photos The FBI warns of criminals altering images shared on social media and using them as fake proof of life photos in virtual kidnapping ransom scams. [...]",
+    "title": "FBI warns of virtual kidnapping scams using altered social media photos"
   },
   "https://www.bleepingcomputer.com/news/security/fcc-rolls-back-cybersecurity-rules-for-telcos-despite-state-hacking-risks/": {
     "categories": [
@@ -3378,6 +3488,17 @@
     "summary": "Pennsylvania AG confirms data breach after INC Ransom attack The office of Pennsylvania's attorney general has confirmed that the ransomware gang behind an August 2025 cyberattack stole files containing personal and medical information. [...]",
     "title": "Pennsylvania AG confirms data breach after INC Ransom attack"
   },
+  "https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-05T13:05:52+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Pharma firm Inotiv discloses data breach after ransomware attack American pharmaceutical firm Inotiv is notifying thousands of people that they're personal information was stolen in an\u00a0August 2025 ransomware attack. [...]",
+    "title": "Pharma firm Inotiv discloses data breach after ransomware attack"
+  },
   "https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/": {
     "categories": [
       "Security"
@@ -3513,6 +3634,17 @@
     "source": "BleepingComputer",
     "summary": "RCE flaw in ImunifyAV puts millions of Linux-hosted sites at risk The ImunifyAV malware scanner for Linux server, used by tens of millions of websites, is\u00a0vulnerable to a remote code execution vulnerability that could be exploited to compromise the hosting environment. [...]",
     "title": "RCE flaw in ImunifyAV puts millions of Linux-hosted sites at risk"
+  },
+  "https://www.bleepingcomputer.com/news/security/react2shell-critical-flaw-actively-exploited-in-china-linked-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-05T11:26:07+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Critical React2Shell flaw actively exploited in China-linked attacks Multiple China-linked threat actors began exploiting the React2Shell vulnerability (CVE-2025-55182) affecting React and Next.js just hours after the max-severity issue was disclosed. [...]",
+    "title": "Critical React2Shell flaw actively exploited in China-linked attacks"
   },
   "https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/": {
     "categories": [
@@ -4020,6 +4152,18 @@
     "summary": "Cloudflare blames this week's massive outage on database issues On Tuesday, Cloudflare experienced its worst outage in 6 years, blocking access to many websites and online platforms for almost 6 hours after a change to database access controls triggered a cascading failure across\u2026",
     "title": "Cloudflare blames this week's massive outage on database issues"
   },
+  "https://www.bleepingcomputer.com/news/technology/cloudflare-down-websites-offline-with-500-internal-server-error/": {
+    "categories": [
+      "Technology",
+      "Software"
+    ],
+    "image": "",
+    "published": "2025-12-05T09:12:15+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Cloudflare down, websites offline with 500 Internal Server Error Cloudflare is down, as websites are crashing with a 500 Internal Server Error. Cloudflare is investigating the reports. [...]",
+    "title": "Cloudflare down, websites offline with 500 Internal Server Error"
+  },
   "https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/": {
     "categories": [
       "Technology"
@@ -4458,6 +4602,15 @@
     "summary": "The Ransomware Holiday Bind: Burnout or Be Vulnerable Ransomware groups target enterprises during off-hours, weekends, and holidays when security teams are stretched thin and response times lag.",
     "title": "The Ransomware Holiday Bind: Burnout or Be Vulnerable"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/threat-landscape-increasingly-dangerous-manufacturers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc232543381a9006f/693207a41ab840449642b8fb/factory-robots-assemble-batteries-IM_Imagery-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-05T15:34:58+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Threat Landscape Grows Increasingly Dangerous for Manufacturers Manufacturers are the top target for cyberattacks in 2025 because of their still-plentiful cybersecurity gaps and a lack of expertise.",
+    "title": "Threat Landscape Grows Increasingly Dangerous for Manufacturers"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/tomiris-unleashes-havoc-new-tools-tactics": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc6cabad512cc8859/692e033f29b5300137704d9f/havoc_Skorzewiak_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -4556,6 +4709,15 @@
     "summary": "CISA Publishes Security Guidance for Using AI in OT Global cybersecurity agencies published guidance regarding AI deployments in operational technology, a backbone of critical infrastructure.",
     "title": "CISA Publishes Security Guidance for Using AI in OT"
   },
+  "https://www.darkreading.com/cybersecurity-operations/cisos-should-be-asking-these-quantum-questions-today": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteb23bdf956f06821/6931e44003abee18cd2b819e/engineer_data_center_Aleksei_Gorodenkov_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-05T15:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "CISOs Should Be Asking These Quantum Questions Today As quantum quietly moves beyond lab experiment and into production workflows, here's what enterprise security leaders should be focused on, according to Lineswala.",
+    "title": "CISOs Should Be Asking These Quantum Questions Today"
+  },
   "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7163035d5b41e3cc/690bb8696baa667c9f4128ee/omdia-adam-e-rik.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -4587,6 +4749,15 @@
     "source": "darkreading",
     "summary": "As Gen Z Enters Cybersecurity, Jury Is Out on AI's Impact Despite possibly supplanting some young analysts, one Gen Z cybersecurity specialist sees AI helping teach those willing to learn and removing drudge work.",
     "title": "As Gen Z Enters Cybersecurity, Jury Is Out on AI's Impact"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/india-app-mandate-surveillance-concerns": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltafd8925aed8f193f/693315fba40be54cdb156fa6/Sanchar_Saathi-SOPA_Images_Limited-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-05T20:06:26+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "India Rolls Back App Mandate Amid Surveillance Concerns Remember when Apple put that U2 album in everyone's music libraries? India wanted to do that to all of its citizens, but with a cybersecurity app. It wasn't a good idea.",
+    "title": "India Rolls Back App Mandate Amid Surveillance Concerns"
   },
   "https://www.darkreading.com/cybersecurity-operations/iran-cyber-objectives": {
     "categories": [],
@@ -5008,6 +5179,15 @@
     "source": "darkreading",
     "summary": "Patch Now: Microsoft Flags Zero-Day &amp; Critical Zero-Click Bugs Security teams may have a less burdensome rollout in November after October's Goliath Patch Tuesday, but shouldn't wait on a few top-priority fixes.",
     "title": "Patch Now: Microsoft Flags Zero-Day &amp; Critical Zero-Click Bugs"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/react2shell-under-attack-china-nexus-groups": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltca64c802e03190c5/69330683db4810d73e83d41e/chinathreatactors_JakubKrechowicz_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-05T15:14:26+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "React2Shell Vulnerability Under Attack From China-Nexus Groups A maximum-severity vulnerability affecting the React JavaScript library has been exploited in the wild, further stressing the need to patch now.",
+    "title": "React2Shell Vulnerability Under Attack From China-Nexus Groups"
   },
   "https://www.darkreading.com/vulnerabilities-threats/trufflenet-attack-stolen-credentials-aws": {
     "categories": [],
