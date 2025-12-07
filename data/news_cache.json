@@ -1175,6 +1175,15 @@
     "summary": "CISA Reports PRC Hackers Using BRICKSTORM for Long-Term Access in U.S. Systems The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday released details of a backdoor named BRICKSTORM that has been put to use by state-sponsored threat actors from the People's \u2026",
     "title": "CISA Reports PRC Hackers Using BRICKSTORM for Long-Term Access in U.S. Systems"
   },
+  "https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirLapA_bU5QPCfp-MRukDEfXZXrWr6Im2qJaqg7pJ6I_5tq2aD21_Q_-9N83CCdNoZIsThs7oC2SKBLRdK0XbPh-Ork2PYk3Sp5_MGvKmVeo_IPZg_lPDq5VgF3nPj7pRIjcDNIihQG68dlzKqMed-yhg3BFKVcGO1PXUEEB4tfzlcIDXr1vDlnfvbwL8E/s1600/react2shell-exploit.jpg",
+    "published": "2025-12-06T11:40:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday formally added a critical security flaw impacting React Server Components (RSC) to its Known Exploited Vulnerabilities (KEV) \u2026",
+    "title": "Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation"
+  },
   "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9GCiRWt_nzpetB4rbxY-IEBdnQfX50gIjlg82on8OkM-tBrMv_Mt6xTu_yEom3CAZt_KHo0CL5S3siR207cZmw839M_l9Oply6KnuHYelRsMMAqKDhDA0HqnsedjHhsfv6ng77Ah7YPkIZ-Cd3ZuDMqSM8oftGAJ4TaauI9n231fOjCi17uSgWY-Jd9U_/s1600/nextjs-react.jpg",
@@ -1345,6 +1354,15 @@
     "source": "The Hacker News",
     "summary": "Researchers Capture Lazarus APT's Remote-Worker Scheme Live on Camera A joint investigation led by Mauro Eldritch, founder of BCA LTD, conducted together with threat-intel initiative NorthScan and ANY.RUN, a solution for interactive malware analysis and threat intelligence, has u\u2026",
     "title": "Researchers Capture Lazarus APT's Remote-Worker Scheme Live on Camera"
+  },
+  "https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyOpPc8ucnigXsFagXjVCnBwywXC-OOemw_QXXkGAPjAa1YKv0ViLZEPg0AtaGss65NKfl2M7gR9XwjgbFHgxPliOMkLEJ14VEXyLuuqwvqkH0Hj4aCDGKBbRtKuX3j3hmHCD05EKU1K74YgR8m4TdZu2_CZ_cqnWLZRmuvitlyjUW6wE2suxA8Y8oHGNY/s1600/ai-coding.jpg",
+    "published": "2025-12-06T15:24:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks Over 30 security vulnerabilities have been disclosed in various artificial intelligence (AI)-powered Integrated Development Environments (IDEs) that combine prompt injection primitives with legit\u2026",
+    "title": "Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks"
   },
   "https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html": {
     "categories": [],
@@ -3389,6 +3407,17 @@
     "summary": "New UK laws to strengthen critical infrastructure cyber defenses The United Kingdom has introduced new legislation to boost cybersecurity defenses for hospitals, energy systems, water supplies, and transport networks against cyberattacks, linked to annual damages of nearly \u00a315 bi\u2026",
     "title": "New UK laws to strengthen critical infrastructure cyber defenses"
   },
+  "https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-06T15:18:19+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "New wave of VPN login attempts targets Palo Alto GlobalProtect portals A campaign has been observed targeting Palo Alto GlobalProtect portals with login attempts and launching scanning activity against SonicWall SonicOS API endpoints. [...]",
+    "title": "New wave of VPN login attempts targets Palo Alto GlobalProtect portals"
+  },
   "https://www.bleepingcomputer.com/news/security/new-wrthug-campaign-hijacks-thousands-of-end-of-life-asus-routers/": {
     "categories": [
       "Security"
@@ -3645,6 +3674,17 @@
     "source": "BleepingComputer",
     "summary": "Critical React2Shell flaw actively exploited in China-linked attacks Multiple China-linked threat actors began exploiting the React2Shell vulnerability (CVE-2025-55182) affecting React and Next.js just hours after the max-severity issue was disclosed. [...]",
     "title": "Critical React2Shell flaw actively exploited in China-linked attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-06T19:07:33+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable Over 77,000 Internet-exposed IP addresses are vulnerable to the critical React2Shell remote code execution flaw (CVE-2025-55182), with researchers now confirming that attackers have already compromised over\u2026",
+    "title": "React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable"
   },
   "https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/": {
     "categories": [
@@ -4316,6 +4356,15 @@
     "summary": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool Some of the world's biggest technology companies use a program liable to introduce malware into their software. The potential consequences are staggering, but there's an easy fix.",
     "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool"
   },
+  "https://www.darkreading.com/application-security/rust-code-delivers-better-security-streamlines-devops": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt09b314c3b170f28a/6920e3cd71c6a5d346cf58f7/rust-on-nuts-and-bolts-Jirik_V-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-05T22:01:05+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Rust Code Delivers Better Security, Also Streamlines DevOps Software teams at Google and other Rust adopters see safer code when using the memory-safe language, and also fewer rollbacks and less code review.",
+    "title": "Rust Code Delivers Better Security, Also Streamlines DevOps"
+  },
   "https://www.darkreading.com/application-security/sora-2-makes-videos-so-believable-reality-checks-are-required": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt17c9ff86c660c56d/690d184f3053739379fdb716/3CRTC9W.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -4411,6 +4460,15 @@
     "source": "darkreading",
     "summary": "Switching to Offense: US Makes Cyber Strategy Changes The US national cyber director describes the next cyber strategy as focusing &quot;on shaping adversary behavior,&quot; adding consequences and aggressive response.",
     "title": "Switching to Offense: US Makes Cyber Strategy Changes"
+  },
+  "https://www.darkreading.com/cyber-risk/why-an-engineering-focused-ciso-can-be-a-liability": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9d232a31f5187e5/667f1e12628e435b221eb306/CISO(1800)-ronstik-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-04T22:13:41+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "A Tale of Two CISOs: Why An Engineering-Focused CISO Can Be a Liability When hiring a CISO, understand the key difference between engineering and holistic security leaders.",
+    "title": "A Tale of Two CISOs: Why An Engineering-Focused CISO Can Be a Liability"
   },
   "https://www.darkreading.com/cyber-risk/zombie-projects-rise-again-undermine-security": {
     "categories": [],
