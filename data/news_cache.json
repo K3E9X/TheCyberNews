@@ -1319,6 +1319,15 @@
     "summary": "Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation Microsoft has silently plugged a security flaw that has been exploited by several threat actors since 2017 as part of the company's November 2025 Patch Tuesday updates, according to ACROS Security's 0p\u2026",
     "title": "Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation"
   },
+  "https://thehackernews.com/2025/12/muddywater-deploys-udpgangster-backdoor.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYXNboyf2GnxrecT0sKYR0MhunHsxtjogBIhtsNVobnT6Y5JxVFfrYcy4cGoABHSNBKDJTe4fEbi3I9uJ7Rl_HNToAsi6MiMLq53MreR2Eo25VrjlEIxyFz7wbmA2ZXkP-xkTlsEmtA5MTFl1sf_zMOoACofqqbq5pqDA4R0ssFb8b6sEmmaHDoGJ7pEvS/s1600/cyberattack.jpg",
+    "published": "2025-12-08T06:46:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign The Iranian hacking group known as MuddyWater has been observed leveraging a new backdoor dubbed UDPGangster that uses the User Datagram Protocol (UDP) for command-and-control (C2) purposes.\nThe\u2026",
+    "title": "MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign"
+  },
   "https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6xz7mWkJclIA4imdNn5zjZkxiRArjemiRQSUONKAKk1aC52C-R6DMyKI09PjF6iBtWNy0Ov_YZjOqovn3RTGYpPyiIlQtKp292GbxH8dfCDSt9HU3m37iItXGp7mgkrCw2i9VWbDKoR6hS_sFPLL-msoj6G1ggeJX2H1llAg4MVjDmqVzBejGwH_4qjHC/s1600/android-malware-1.jpg",
@@ -1524,6 +1533,18 @@
     "source": "BleepingComputer",
     "summary": "Leak confirms OpenAI is preparing ads on ChatGPT for public roll out OpenAI is now internally testing 'ads' inside ChatGPT that could redefine the web economy. [...]",
     "title": "Leak confirms OpenAI is preparing ads on ChatGPT for public roll out"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2025-12-07T20:51:08+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI denies rolling out ads on ChatGPT paid plans ChatGPT is allegedly showing ads to those who pay $20 for the Plus subscription, but OpenAI says this is an app recommendation feature, not an ad. [...]",
+    "title": "OpenAI denies rolling out ads on ChatGPT paid plans"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-going-meta-route-as-it-considers-memory-based-ads-on-chatgpt/": {
     "categories": [
@@ -3600,6 +3621,18 @@
     "source": "BleepingComputer",
     "summary": "Popular JavaScript library expr-eval vulnerable to RCE flaw A critical vulnerability in the popular expr-eval JavaScript library,\u00a0with over 800,000 weekly downloads on NPM, can be exploited to execute code remotely through maliciously crafted input. [...]",
     "title": "Popular JavaScript library expr-eval vulnerable to RCE flaw"
+  },
+  "https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2025-12-07T15:09:44+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Portugal updates cybercrime law to exempt security researchers Portugal has modified\u00a0its cybercrime law to establish a legal safe harbor for good-faith security research and to make hacking non-punishable under certain strict conditions. [...]",
+    "title": "Portugal updates cybercrime law to exempt security researchers"
   },
   "https://www.bleepingcomputer.com/news/security/predator-spyware-uses-new-infection-vector-for-zero-click-attacks/": {
     "categories": [
