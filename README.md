@@ -1,6 +1,6 @@
 # TheCyberNews – Autonomous Cybersecurity Briefings
 
-> **📰 [OPEN ME](https://k3e9x.github.io/CyberNews/)**
+> **📰 [OPEN ME](https://k3e9x.github.io/TheCyberNews/)**
 
 
 <img width="1075" height="759" alt="image" src="https://github.com/user-attachments/assets/ba946e56-b688-497e-9c73-42b680aadc69" />
