@@ -1,5 +1,5 @@
 {
-  "last_generated_at": "2025-12-10T07:24:20.729783+00:00",
+  "last_generated_at": "2025-12-11T07:25:45.206787+00:00",
   "latest_brief": {
     "action_items": [
       "Review the highlighted incidents and evaluate exposure.",
@@ -9,7 +9,7 @@
     "key_themes": [
       "darkreading",
       "The Hacker News",
-      "darkreading"
+      "BleepingComputer"
     ],
     "narrative": "The agent summarised the latest publicly available cybersecurity stories and refreshed the site automatically. Configure an OPENAI_API_KEY to enable narrative insights."
   }

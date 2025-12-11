@@ -1292,6 +1292,15 @@
     "summary": "Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild Google on Monday released monthly security updates for the Android operating system, including two vulnerabilities that it said have been exploited in the wild.\nThe patch addresses a total of 107\u2026",
     "title": "Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild"
   },
+  "https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvEmCUTZR13OKl6vXoeTWYwDRRUGP8q1UrkZB0zRzaRSgcOuQptkjkU2_XOxvXMN1dCR3Y7JAxl2I78_flC_DM42KwDKyLqkpHH9kOlvaH9DJ0-_mvVVQ8j8NoBhaf33znWJyvm4tbVhRX7f_jFVwiSu9eBffQK8YZqhMOXGp82xAUNShX-8o9ghBs__T0/s1600/keys.jpg",
+    "published": "2025-12-11T05:56:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Active Attacks Exploit Gladinet's Hard-Coded Keys for Unauthorized Access and Code Execution Huntress is warning of a new actively exploited vulnerability in Gladinet's CentreStack and Triofox products stemming from the use of hard-coded cryptographic keys that have affected nine\u2026",
+    "title": "Active Attacks Exploit Gladinet's Hard-Coded Keys for Unauthorized Access and Code Execution"
+  },
   "https://thehackernews.com/2025/12/how-can-retailers-cyber-prepare-for.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDxveHueXDA8-Ohc7xTXUprQp3I8XmIBUww4KWSId9wT1Ma6hAyjD62zHFhmSKC_TDAwNTKe4ohWUBJqYttE_1TnuyFZ5pRj5Dyrt744jF6-OTltbW0i3Edm9orBzBY5o2pSenHKtEqXY6-C_BT8WEX0WIkKE717B5Bh-VvfuhVsmjIxfReL8sJIxj4ck/s1600/password.jpg",
@@ -1373,6 +1382,15 @@
     "summary": "Malicious Rust Crate Delivers OS-Specific Malware to Web3 Developer Systems Cybersecurity researchers have discovered a malicious Rust package that's capable of targeting Windows, macOS, and Linux systems, and features malicious functionality to stealthily execute on developer ma\u2026",
     "title": "Malicious Rust Crate Delivers OS-Specific Malware to Web3 Developer Systems"
   },
+  "https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIBMHrpsvzLEHZ52J6HNP__PNJC-IjFnM5FpHLkAj5T5-cQN1siRI_E-jKO7T2SYs1XR4g4r5wvPt37dQoCWyqceTNKs1nz7mbnHBtydb4yGtRC4qyOAL4qCNuvCImdE6H62kqb3bUUj14qVg5BGzhywqFJioC3qBIlhFnTDejUFRQRjzXY201Ge2F-IA8/s1600/windows-patch.jpg",
+    "published": "2025-12-10T08:50:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days Microsoft closed out 2025 with patches for 56 security flaws in various products across the Windows platform, including one vulnerability that has been actively exploited in the wild.\nOf the \u2026",
+    "title": "Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days"
+  },
   "https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ8lCeyLFyNZFfUBtMHvZcuBWjl0_wMxa6EDvL0yCJ56HtMZpYr20dgnTcKGDcgf7OHdxi-yN5eipnPsbVM9oMYLpGAvj3nDfKEb66Y7IOl-9eyGRg5pzgmf7vXXG2ss8feZhUu2gSbWlmckQm3-RvVRcIqA_Ulmx0eAP_FB3GFgcislAUh6AdsIqCfnqR/s1600/windows-update.jpg",
@@ -1390,6 +1408,15 @@
     "source": "The Hacker News",
     "summary": "MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign The Iranian hacking group known as MuddyWater has been observed leveraging a new backdoor dubbed UDPGangster that uses the User Datagram Protocol (UDP) for command-and-control (C2) purposes.\nThe\u2026",
     "title": "MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign"
+  },
+  "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinnS9vb2LFKF6s5fAoVyttBrJ95yYGilrXcgWROlH3mnc3beTVNzu1Km1jBS92RliRTTah0jkHemQXiksFryQVbwuifWpzWqz1uN4JFrqiEEKM3_kB2xdKhRydMPYkn4lwrN9v2deQDGeM44_9B-2KMk1pvRHNA-PW7G7QoPYUzZDFmuNFW7lCEjJyyIUp/s1600/ms.net.jpg",
+    "published": "2025-12-10T19:21:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": ".NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL New research has uncovered exploitation primitives in the .NET Framework that could be leveraged against enterprise-grade applications to achieve remote code execution.\nWatchTowr Labs, which has \u2026",
+    "title": ".NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL"
   },
   "https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html": {
     "categories": [],
@@ -1417,6 +1444,15 @@
     "source": "The Hacker News",
     "summary": "Picklescan Bugs Allow Malicious PyTorch Models to Evade Scans and Execute Code Three critical security flaws have been disclosed in an open-source utility called Picklescan that could allow malicious actors to execute arbitrary code by loading untrusted PyTorch models, effectivel\u2026",
     "title": "Picklescan Bugs Allow Malicious PyTorch Models to Evade Scans and Execute Code"
+  },
+  "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY81AEgJ3ys1RM_RunP7NBgyQpMKIzdUIbHOklJNtO27j45TCOaOxwkZsUKIgHOmE1M4jQnzFy4C8Z3Lb-z1KNGhdgmUunavK91bX3Ep4YTRRuPVgqrMb7CraGl_DSXN5k_6_aCHskDMlbLHRbOyWnzz02cqH4he47nzYqo-8XIgCpGo6T0ZEwi2ko9Umr/s1600/react-hacking.jpg",
+    "published": "2025-12-10T20:19:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors React2Shell continues to witness heavy exploitation, with threat actors leveraging the maximum-severity security flaw in React Server Components (RSC) to deliver cryptocurrency miners and an a\u2026",
+    "title": "React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors"
   },
   "https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html": {
     "categories": [],
@@ -1517,6 +1553,15 @@
     "summary": "ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts\u2014 and 15 More Stories Think your Wi-Fi is safe? Your coding tools? Or even your favorite financial apps? This week proves again how hackers, companies, and governments are all locked in a nonstop race to outsma\u2026",
     "title": "ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts\u2014 and 15 More Stories"
   },
+  "https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3f-oOC7MmSz2Ku0x9-ljdPbuoYceSrPAAqvibbB1WV5spRUhQDjoXmn5mL8TzgQj7GP6CzMRtG0Tm8OJW1qhylFL1uafxAMcmJG3n9n3kgC00yhRIsdmJYXWKco6SyOdONzvEb29HzxOOPtsNTH7aBVL0YgKFCX73q7_pn_UQ3x7b6hWibuoJb5EVYF1/s1600/encryption.jpg",
+    "published": "2025-12-10T13:32:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling Three security vulnerabilities have been disclosed in the Peripheral Component Interconnect Express (PCIe) Integrity and Data Encryption (IDE) protocol specification that could expose a local attack\u2026",
+    "title": "Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling"
+  },
   "https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Lxoj-jT0lWvAbKZzQ_8tBsiD8CE76EWRKAfG_TID9mVbmf8BoJx5N1fR3ztKD6Yb3B8bRlGyMEArCKaW939VXvJT1G-z2iIxJrjkl_0NBONbMDU3NL8L_vqDzJQWMRIehlO-GiASFU0hTzfxL7_uKhObMFcFHfwv8lRxgFKqNXk-a04Z5gj-Wxvo_nbM/s1600/cyberattacks.jpg",
@@ -1526,6 +1571,15 @@
     "summary": "Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets The threat actor known as Tomiris has been attributed to attacks targeting foreign ministries, intergovernmental organizations, and government entities in Russia with an aim to establish \u2026",
     "title": "Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets"
   },
+  "https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn4WUzO_P0sEPntxbBi-a6uO4dqk0arqJQMhRKYAYj7r8Dbsx3Y7PoeWrMLaEHxK7nMx4vNCTNWFYa6KYRiFFYE2i2Lg3WkD0DO63RN4Nxnt_MSOKAHmb9Z6vsIKaHVVBQLmBTVs0fgsSAomShvnBP25jt1DK11qLYEiqOg0_HsJakDdxnA45GzohEBYT7/s1600/winrar.jpg",
+    "published": "2025-12-10T11:54:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a security flaw impacting the WinRAR file archiver and compression utility to its Known Exploited Vulnerabil\u2026",
+    "title": "Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups"
+  },
   "https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6WoJCAVDbG57kdVUufW6_tpbnIeKpemxbX50i8MocCexhL1q1yj1epN79uQ925HgHfc00QV22mK6Wz2jkqpxEP_Cnlw2XF-YyHteFuW_ppVBIHUbpcBkmCuWsGpahPBRgUfaRkEZkYWs691YRWFXb3GYij5nt6W4iaKDBVEsufvu2q_9DlPGsnh9YbIDz/s1600/layerx.jpg",
@@ -1534,6 +1588,15 @@
     "source": "The Hacker News",
     "summary": "Webinar: The \"Agentic\" Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams The AI browser wars are coming to a desktop near you, and you need to start worrying about their security challenges.\nFor the last two decades, whether you used Chrome, Edge, or Fir\u2026",
     "title": "Webinar: The \"Agentic\" Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams"
+  },
+  "https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDsLoixGZ0mDDIhc-bQESz8yfEaEGnb6XfD4LAKzu8A1eH2yFNPdTUrVYg-8nT_TUUVST8GMqHlHPfGxMrpmAT9Dj4-zMYWzsCaaAicy1pRxKh8RK1nZHtvv_warN3pAOTJOlp1Yc00f3WB_QMJ2o5eRrxpJ-d9Dh0Y32EIN78iIRDJhDStGji1DJ-72s/s1600/clloudsecurity.jpg",
+    "published": "2025-12-10T11:54:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes Cloud security is changing. Attackers are no longer just breaking down the door; they are finding unlocked windows in your configurations, your identities, and your code.\nStandard securit\u2026",
+    "title": "Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes"
   },
   "https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html": {
     "categories": [],
@@ -3052,6 +3115,18 @@
     "summary": "GlobalProtect VPN portals probed with 2.3 million scan sessions A major spike in malicious scanning against Palo Alto Networks GlobalProtect portals has been detected, starting on November 14, 2025. [...]",
     "title": "GlobalProtect VPN portals probed with 2.3 million scan sessions"
   },
+  "https://www.bleepingcomputer.com/news/security/google-ads-for-shared-chatgpt-grok-guides-push-macos-infostealer-malware/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2025-12-10T23:50:56+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Google ads for shared ChatGPT, Grok guides push macOS infostealer malware A new AMOS infostealer campaign is abusing Google search ads to lure users into Grok and ChatGPT conversations that appear to offer \"helpful\" instructions but ultimately lead to installing the AMOS info-ste\u2026",
+    "title": "Google ads for shared ChatGPT, Grok guides push macOS infostealer malware"
+  },
   "https://www.bleepingcomputer.com/news/security/google-chrome-adds-new-security-layer-for-gemini-ai-agentic-browsing/": {
     "categories": [
       "Security",
@@ -3544,6 +3619,17 @@
     "summary": "Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks Microsoft security researchers have discovered a new backdoor malware that uses the OpenAI Assistants API as a covert command-and-control channel. [...]",
     "title": "Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-warn-of-suspicious-traffic-with-external-domains/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-10T19:32:08+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Teams to warn of suspicious traffic with external domains Microsoft is working on a new Teams security feature that will analyze suspicious traffic with external domains to help IT administrators tackle potential security threats. [...]",
+    "title": "Microsoft Teams to warn of suspicious traffic with external domains"
+  },
   "https://www.bleepingcomputer.com/news/security/microsoft-windows-powershell-now-warns-when-running-invoke-webrequest-scripts/": {
     "categories": [
       "Security",
@@ -3620,6 +3706,18 @@
     "summary": "New Costco Gold Star Members also get a $40 Digital Costco Shop Card The holidays can be hard on any budget, but there may be a way to make it a little easier. Instead of dashing through the snow all around town, get all your shopping done under one roof at Costco. Right now, you\u2026",
     "title": "New Costco Gold Star Members also get a $40 Digital Costco Shop Card"
   },
+  "https://www.bleepingcomputer.com/news/security/new-droidlock-malware-locks-android-devices-and-demands-a-ransom/": {
+    "categories": [
+      "Security",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2025-12-10T21:53:12+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New DroidLock malware locks Android devices and demands a ransom A new Android malware called DroidLock has emerged with capabilities to lock screens for ransom payments, erase data, access text messages, call logs, contacts, and audio data. [...]",
+    "title": "New DroidLock malware locks Android devices and demands a ransom"
+  },
   "https://www.bleepingcomputer.com/news/security/new-indonesianfoods-worm-floods-npm-with-100-000-packages/": {
     "categories": [
       "Security"
@@ -3671,6 +3769,17 @@
     "source": "BleepingComputer",
     "summary": "New SonicWall SonicOS flaw allows hackers to crash firewalls American cybersecurity company SonicWall urged customers today to patch a high-severity SonicOS SSLVPN security flaw that can allow attackers to crash vulnerable firewalls. [...]",
     "title": "New SonicWall SonicOS flaw allows hackers to crash firewalls"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-spiderman-phishing-service-targets-dozens-of-european-banks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-10T14:53:00+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New Spiderman phishing service targets dozens of European banks A new phishing kit called Spiderman\u00a0is being used to target\u00a0customers of dozens of European banks and cryptocurrency holders with\u00a0pixel-perfect cloned sites\u00a0impersonating brands and organizations. [...]",
+    "title": "New Spiderman phishing service targets dozens of European banks"
   },
   "https://www.bleepingcomputer.com/news/security/new-uk-laws-to-strengthen-critical-infrastructure-cyber-defenses/": {
     "categories": [
@@ -3783,6 +3892,17 @@
     "source": "BleepingComputer",
     "summary": "OpenAI discloses API customer data breach via Mixpanel vendor hack OpenAI is notifying some ChatGPT API customers that limited identifying information was exposed following a breach at its third-party analytics provider Mixpanel. [...]",
     "title": "OpenAI discloses API customer data breach via Mixpanel vendor hack"
+  },
+  "https://www.bleepingcomputer.com/news/security/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-10T18:22:25+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Over 10,000 Docker Hub images found leaking credentials, auth keys More than 10,000 Docker Hub container images expose data that should be protected, including live credentials to production systems, CI/CD databases, or LLM model\u00a0keys. [...]",
+    "title": "Over 10,000 Docker Hub images found leaking credentials, auth keys"
   },
   "https://www.bleepingcomputer.com/news/security/passwork-7-self-hosted-password-and-secrets-manager-for-enterprise-teams/": {
     "categories": [
@@ -4341,6 +4461,18 @@
     "summary": "UK carriers to block spoofed phone numbers in fraud crackdown Under a new partnership with the government aimed at combating fraud, Britain's largest mobile carriers have committed to upgrading their networks to eliminate scammers' ability to spoof phone numbers within a year. [.\u2026",
     "title": "UK carriers to block spoofed phone numbers in fraud crackdown"
   },
+  "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-charged-with-helping-russian-hacktivist-groups/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2025-12-10T12:26:32+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Ukrainian hacker charged with helping Russian hacktivist groups U.S. prosecutors have charged a Ukrainian national for her role in cyberattacks targeting critical infrastructure worldwide, including U.S. water systems, election systems, and nuclear facilities, on behalf of Russia\u2026",
+    "title": "Ukrainian hacker charged with helping Russian hacktivist groups"
+  },
   "https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-confirms-data-stolen-in-cyberattack/": {
     "categories": [
       "Security",
@@ -4485,6 +4617,17 @@
     "source": "BleepingComputer",
     "summary": "When Hackers Wear Suits: Protecting Your Team from Insider Cyber Threats Hackers impersonate IT pros with deepfakes, fake resumes, and stolen identities, turning hiring pipelines into insider threats. Huntres sLabs explains how stronger vetting and access controls help stop these\u2026",
     "title": "When Hackers Wear Suits: Protecting Your Team from Insider Cyber Threats"
+  },
+  "https://www.bleepingcomputer.com/news/security/why-a-secure-software-development-life-cycle-is-critical-for-manufacturers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-10T15:00:10+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Why a secure software development life cycle is critical for manufacturers Recent supply-chain breaches show how attackers exploit development tools, compromised credentials, and malicious NPM packages to infiltrate manufacturing and production environments. Acronis explains why \u2026",
+    "title": "Why a secure software development life cycle is critical for manufacturers"
   },
   "https://www.bleepingcomputer.com/news/security/why-password-controls-still-matter-in-cybersecurity/": {
     "categories": [
@@ -5032,6 +5175,15 @@
     "summary": "SonicWall Firewall Backups Stolen by Nation-State Actor The network security vendor said the MySonicWall breach was unrelated to the recent wave of Akira ransomware attacks targeting the company's devices.",
     "title": "SonicWall Firewall Backups Stolen by Nation-State Actor"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/storm-0249-edr-processes-stealthy-attacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf43c1a757f10921/6939df202c22c144a8f8af8b/attacker_holwichaikawee_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-10T21:59:32+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Storm-0249 Abuses EDR Processes in Stealthy Attacks The initial access broker has been weaponizing endpoint detection and response (EDR) platforms and Windows utilities in recent high-precision attacks.",
+    "title": "Storm-0249 Abuses EDR Processes in Stealthy Attacks"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/the-ransomware-holiday-bind-burnout-or-be-vulnerable": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt461cc484d5296000/693045618fc4b475001bbdad/3D71JKD.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -5484,6 +5636,15 @@
     "summary": "Student Sells Gov't, University Sites to Chinese Actors It's the best deal going in cybercrime: fully compromised websites belonging to high-value organizations, for just a couple hundred bucks each.",
     "title": "Student Sells Gov't, University Sites to Chinese Actors"
   },
+  "https://www.darkreading.com/threat-intelligence/hactivists-target-critical-infrastructure": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbaeec429a34c1139/693970af459cb20bfe096d17/ics-Yuri_Arcurs-alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-10T12:56:02+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Feds: Pro-Russia Hactivists Target US Critical Infrastructure So far the attacks, which compromise virtual network computing (VNC) connections in OT systems, have not been particularly destructive, but this could change as they evolve.",
+    "title": "Feds: Pro-Russia Hactivists Target US Critical Infrastructure"
+  },
   "https://www.darkreading.com/threat-intelligence/iran-exploits-cyber-domain-kinetic-strikes": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef7b4ec1e1c7853d/692626d3d3d2e2547daa1fea/iran-digital-flag-Skorzewiak-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -5581,6 +5742,15 @@
     "source": "darkreading",
     "summary": "'CitrixBleed 2' Wreaks Havoc as Zero-Day Bug The same APT hammered critical bugs in Citrix NetScaler (CVE-2025-5777) and the Cisco Identity Service Engine (CVE-2025-20337) in a sign of growing adversary interest in identity and access management systems.",
     "title": "'CitrixBleed 2' Wreaks Havoc as Zero-Day Bug"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/clickfix-style-attack-grok-chatgpt-malware": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte910aa8b173e84ea/6939c866465bc6f4b7803182/OpenAI_Screenshot_Ascannio_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-10T21:02:30+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "ClickFix Style Attack Uses Grok, ChatGPT for Malware Delivery A new twist on the social engineering tactic is making waves, combining SEO poisoning and legitimate AI domains to install malware on victims' computers.",
+    "title": "ClickFix Style Attack Uses Grok, ChatGPT for Malware Delivery"
   },
   "https://www.darkreading.com/vulnerabilities-threats/critical-flaw-oracle-identity-manager-under-exploitation": {
     "categories": [],
