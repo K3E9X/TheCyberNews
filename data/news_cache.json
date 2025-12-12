@@ -1175,6 +1175,24 @@
     "summary": "Chopping AI Down to Size: Turning Disruptive Technology into a Strategic Advantage Most people know the story of Paul Bunyan. A giant lumberjack, a trusted axe, and a challenge from a machine that promised to outpace him. Paul doubled down on his old way of working, swung harder,\u2026",
     "title": "Chopping AI Down to Size: Turning Disruptive Technology into a Strategic Advantage"
   },
+  "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNd3_BqdqJgn7flH6fG1M3tV5v9R11ajUrmoh0iY1DOpD7PDvDhrCjFJCBrChqzUb_KF7U0isWGqBx63S_qQDpYlqMI2pyGX7VF36gIltrjYF9k6InQTES7GLwLHwykls9JhDCCYJLTll-xJK4xSoTH4QAMN2ZZfEUhtVxBxILLnvF1XuyV3iRAzfNQNAF/s1600/chrome-exploit.jpg",
+    "published": "2025-12-11T07:09:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw Google on Wednesday shipped security updates for its Chrome browser to address three security flaws, including one it said has come under active exploitation in the wild.\nThe vulnerability, rated\u2026",
+    "title": "Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw"
+  },
+  "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBN5buANAAdi4AundLfRH7dgLMFWvHQosALn-UulNEQC0ZZxUmTJUHQyS3meXA8rVRya72n3Wl-DsJRMM6VluFoSZSdm4Ha5SijPW09wRzOE2rpQmfh0JW113iEosXFEiel84OVcf-KWHWf4IjtWwxRd0lqdzPfsvf5qrP9bKcG6TCVEEy12h24ncJChnL/s1600/geo-server.jpg",
+    "published": "2025-12-12T05:01:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting OSGeo GeoServer to its Known Exploited Vulnerabilities (KEV) catalog, based on eviden\u2026",
+    "title": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog"
+  },
   "https://thehackernews.com/2025/12/cisa-reports-prc-hackers-using.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjagp4sr3aHhUYdEa6MEO7S5AaVubzpKfuFL9-Zkuv_GjyxT74q_4XA3gAM8xjQdWW8KfgCy2D81j9NoUB0aZI5IK1ciYxf-JFvZiBFVyEsXaxXIuh2mMbqyPGLJcdZxO-XpdxaF4-lbCzdl9f6xgxJABV4uBvxytMfCwLUmEHmyPfhkGF4z2BZiMNhYlbx/s1600/chinese-hackers.jpg",
@@ -1409,6 +1427,15 @@
     "summary": "MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign The Iranian hacking group known as MuddyWater has been observed leveraging a new backdoor dubbed UDPGangster that uses the User Datagram Protocol (UDP) for command-and-control (C2) purposes.\nThe\u2026",
     "title": "MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign"
   },
+  "https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsKOtWgjKbDTJ_bQIFriTn7SS-6j1OkejHAL8qQ8rAg03gXgLRrv0-qYN2W_QQI8BqUBcmOxNFqni0N9fU5QpzCQdVFPybji0uX397JN_RP1BeefHSJr5Z5LcAhT15toz_P7LJLhz2T7U_xsTG0yzGsUdA4NaJnLvk7gyPjPw8lEFgKu87aGj8cIt_1xyy/s1600/gdrive.jpg",
+    "published": "2025-12-11T13:16:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "NANOREMOTE Malware Uses Google Drive API for Hidden Control on Windows Systems Cybersecurity researchers have disclosed details of a new fully-featured Windows backdoor called NANOREMOTE that uses the Google Drive API for command-and-control (C2) purposes.\nAccording to a report f\u2026",
+    "title": "NANOREMOTE Malware Uses Google Drive API for Hidden Control on Windows Systems"
+  },
   "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinnS9vb2LFKF6s5fAoVyttBrJ95yYGilrXcgWROlH3mnc3beTVNzu1Km1jBS92RliRTTah0jkHemQXiksFryQVbwuifWpzWqz1uN4JFrqiEEKM3_kB2xdKhRydMPYkn4lwrN9v2deQDGeM44_9B-2KMk1pvRHNA-PW7G7QoPYUzZDFmuNFW7lCEjJyyIUp/s1600/ms.net.jpg",
@@ -1544,6 +1571,24 @@
     "summary": "Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading The threat actor known as Storm-0249 is likely shifting from its role as an initial access broker to adopt a combination of more advanced tactics like domain spoofing, DLL side-loading\u2026",
     "title": "Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading"
   },
+  "https://thehackernews.com/2025/12/the-impact-of-robotic-process.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkHa_ZsEZyIsKJkBKWhgZBt2Oo3VGKY_5ZeOaoO74V_TbabWN-GlLYtOPjpjnqS63ufmXSWt2jnwRglhgFqzJTGGHqOO04K3wn6V3lN6IJdsNupy7M1V9yKe5895zGyjmnme7207WatecL_hIzgwWMYo5AvT3ecXh7PYHwDCAZw5NjY5iDiIFWkzO7pmw/s1600/keeper.jpg",
+    "published": "2025-12-11T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "The Impact of Robotic Process Automation (RPA) on Identity and Access Management As enterprises refine their strategies for handling Non-Human Identities (NHIs), Robotic Process Automation (RPA) has become a powerful tool for streamlining operations and enhancing security. Howeve\u2026",
+    "title": "The Impact of Robotic Process Automation (RPA) on Identity and Access Management"
+  },
+  "https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcBEIOMDHFHbMxpqG8wwxxLRZJ4TavL-Z4AoU09ldjKg_8LpfxabE_BKPBfWUHK8GClxPJ2r3BRs078HZ8KwPrMHVHS1m5ZcCdPNR9mtUD5SZfz6WE3FLp6KnoT6HY2UhC-uV7CxqoFYiPyJw_4V0r0A5-vgSI0Znq74OKWlQxr6morZEwQUBaZd89AVg9/s1600/threatsday.jpg",
+    "published": "2025-12-11T13:40:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit \u2014 and 20 More Stories This week\u2019s cyber stories show how fast the online world can turn risky. Hackers are sneaking malware into movie downloads, browser add-ons, and even software updates people \u2026",
+    "title": "ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit \u2014 and 20 More Stories"
+  },
   "https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPB5s5jqQGNVSaQcxQlSLETTs6zenKql9P7pFg_oYPK6QrwxlV8op0hOIcKgPr_A6tUOk6MXQrrsMaiOat6BnC_5j59Zkdj3pX24xsyVwXBWgkm2oSPV-G5rkUQlQBbhZLEwHbLR9XhpTBnBeq9joxUXSnfRmXDA-6NRapquU-5VulbzhGZNfMMrIzy3ms/s1600/threatsdayd-dec.jpg",
@@ -1570,6 +1615,15 @@
     "source": "The Hacker News",
     "summary": "Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets The threat actor known as Tomiris has been attributed to attacks targeting foreign ministries, intergovernmental organizations, and government entities in Russia with an aim to establish \u2026",
     "title": "Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets"
+  },
+  "https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6OJVsDspcCdye7M8PSggWU392C8E30egOw45ke_JjhGPAv-Au_u34ejTw7mT307EGecNF77LcAz2Kzw6Mhyphenhyphenhjl956WA2poNcT3kP3eIhMKjv3vqDJabkLtachFO7EPl-c8ROOH771RwuVd5KPhSBTSS10wG1qKhLRNxDLtLF59V4G1hvD2dn3LZrHCmBU/s1600/gg.jpg",
+    "published": "2025-12-11T10:30:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks A high-severity unpatched security vulnerability in Gogs has come under active exploitation, with more than 700 compromised instances accessible over the internet, according to new findings from Wiz.\nThe \u2026",
+    "title": "Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks"
   },
   "https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html": {
     "categories": [],
@@ -1616,6 +1670,15 @@
     "summary": "\u26a1 Weekly Recap: USB Malware, React2Shell, WhatsApp Worms, AI IDE Bugs & More It\u2019s been a week of chaos in code and calm in headlines. A bug that broke the internet\u2019s favorite framework, hackers chasing AI tools, fake apps stealing cash, and record-breaking cyberattacks \u2014 all with\u2026",
     "title": "\u26a1 Weekly Recap: USB Malware, React2Shell, WhatsApp Worms, AI IDE Bugs & More"
   },
+  "https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSr-PT3dj-KXpKptjdRmfwueMOhO5kNQWOHyylqmUj0nCT9BOb9UM7svBOwdWmnJipRU9vjO2l7WjVGJZc-U9jXCPpolj-GYZsBrP3x5AB4fInWxKVtZOYV6HNxCytEfbfgwWe21IE5k5VhcRMrouTw4DsYt9k2ZcjikVbPKI6UhoxutGP46v110aTra7i/s1600/backdoor.jpg",
+    "published": "2025-12-11T11:00:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor An advanced persistent threat (APT) known as WIRTE has been attributed to attacks targeting government and diplomatic entities across the Middle East with a previously undocumented malware suite dubb\u2026",
+    "title": "WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor"
+  },
   "https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOEUBRBU7yOr4ksYNRA4-5equs6h7KyW_qETUsEQn6G_YqC_Qf7XlkyQ4kr4Ycwj5N97XeMxAppRT_JDyz7IETPajE9USD0YGONtpR0cMK-Zkd8BvJmoTFZ14U-5nj7WScTRyJLngRoOpf72yLTRFxXKST20oeimcv4ktQ0990pcmrOqS4pgWitQMGl66W/s1600/wordpress.jpg",
@@ -1633,6 +1696,18 @@
     "source": "The Hacker News",
     "summary": "Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails A new agentic browser attack targeting Perplexity's Comet browser that's capable of turning a seemingly innocuous email into a destructive action that wipes a user's entire Google Drive contents\u2026",
     "title": "Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Software"
+    ],
+    "image": "",
+    "published": "2025-12-11T23:03:37+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Brave browser starts testing agentic AI mode for automated tasks Brave has introduced a new AI browsing feature that leverages Leo, its privacy-respecting AI assistant, to perform automated tasks for the user. [...]",
+    "title": "Brave browser starts testing agentic AI mode for automated tasks"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-dissapeared-for-users/": {
     "categories": [
@@ -1833,6 +1908,17 @@
     "summary": "Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses Microsoft said today that the Aisuru botnet hit its Azure network with a 15.72 terabits per second (Tbps) DDoS attack, launched from over 500,000 IP addresses. [...]",
     "title": "Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-bounty-program-now-includes-any-flaw-impacting-its-services/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2025-12-11T16:00:46+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Microsoft bounty program now includes any flaw impacting its services Microsoft now pays\u00a0security researchers for finding critical\u00a0vulnerabilities in any of its online services, regardless of whether the code was written by Microsoft or a third party. [...]",
+    "title": "Microsoft bounty program now includes any flaw impacting its services"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-bug-in-microsoft-365-license-checks-blocks-desktop-app-downloads/": {
     "categories": [
       "Microsoft"
@@ -1917,6 +2003,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft fixes bug causing false Windows 10 end-of-support alerts Microsoft has resolved a bug causing incorrect Windows 10 end-of-support warnings on systems with active security coverage or still under active support after installing the October 2025 updates. [...]",
     "title": "Microsoft fixes bug causing false Windows 10 end-of-support alerts"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-explorer-white-flashes-in-dark-mode/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2025-12-11T10:09:52+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft fixes Windows Explorer white flashes in dark mode Microsoft has fixed a known issue that caused bright white flashes when launching File Explorer in dark mode on Windows 11 systems after installing the KB5070311 optional update. [...]",
+    "title": "Microsoft fixes Windows Explorer white flashes in dark mode"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-task-manager-bug-affecting-performance/": {
     "categories": [
@@ -2338,6 +2435,17 @@
     "source": "BleepingComputer",
     "summary": "A Practical Guide to Continuous Attack Surface Visibility Passive scan data goes stale fast as cloud assets shift daily, leaving teams blind to real exposures. Sprocket Security shows how continuous, automated recon gives accurate, up-to-date attack surface visibility. [...]",
     "title": "A Practical Guide to Continuous Attack Surface Visibility"
+  },
+  "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-cyberattacks-is-your-network-prepared/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-11T15:05:15+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "AI is accelerating cyberattacks. Is your network prepared? AI-driven attacks now automate reconnaissance, generate malware variants, and evade detection at a speed that overwhelms traditional defenses. Corelight explains how network detection and response (NDR) provides the visib\u2026",
+    "title": "AI is accelerating cyberattacks. Is your network prepared?"
   },
   "https://www.bleepingcomputer.com/news/security/ai-slop-ransomware-test-sneaks-on-to-vs-code-marketplace/": {
     "categories": [
@@ -3163,6 +3271,18 @@
     "summary": "Google exposes BadAudio malware used in APT24 espionage campaigns China-linked APT24 hackers have been using a previously undocumented malware called BadAudio in a\u00a0three-year espionage campaign that recently switched to more sophisticated attack methods. [...]",
     "title": "Google exposes BadAudio malware used in APT24 espionage campaigns"
   },
+  "https://www.bleepingcomputer.com/news/security/google-fixes-eighth-chrome-zero-day-exploited-in-attacks-in-2025/": {
+    "categories": [
+      "Security",
+      "Google"
+    ],
+    "image": "",
+    "published": "2025-12-11T08:01:21+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Google fixes eighth Chrome zero-day exploited in attacks in 2025 Google has released emergency updates to fix another Chrome zero-day vulnerability exploited in the wild, marking the eighth such security flaw patched since the start of the year. [...]",
+    "title": "Google fixes eighth Chrome zero-day exploited in attacks in 2025"
+  },
   "https://www.bleepingcomputer.com/news/security/google-fixes-new-chrome-zero-day-flaw-exploited-in-attacks/": {
     "categories": [
       "Security",
@@ -3292,6 +3412,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers exploit critical auth bypass flaw in JobMonster WordPress theme Threat actors are targeting a critical vulnerability in the JobMonster WordPress theme that allows hijacking of administrator accounts under certain conditions. [...]",
     "title": "Hackers exploit critical auth bypass flaw in JobMonster WordPress theme"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-gladinet-centrestack-cryptographic-flaw-in-rce-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-11T21:49:10+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks Hackers are exploiting a new, undocumented vulnerability in the implementation of the cryptographic algorithm present in\u00a0Gladinet's CentreStack and Triofox products for secure remote file access and sharing. [\u2026",
+    "title": "Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-post-smtp-to-hijack-admin-accounts/": {
     "categories": [
@@ -3565,6 +3696,17 @@
     "summary": "Malicious VSCode extensions on Microsoft's registry drop infostealers Two malicious extensions on Microsoft's Visual Studio Code Marketplace infect developers' machines with information-stealing malware that can take screenshots, steal credentials, and hijack browser sessions. [.\u2026",
     "title": "Malicious VSCode extensions on Microsoft's registry drop infostealers"
   },
+  "https://www.bleepingcomputer.com/news/security/malicious-vscode-marketplace-extensions-hid-trojan-in-fake-png-file/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-11T20:54:21+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Malicious VSCode Marketplace extensions hid trojan in fake PNG file A stealthy campaign with 19 extensions on the VSCode Marketplace has been active since February, targeting developers with malware hidden inside dependency folders. [...]",
+    "title": "Malicious VSCode Marketplace extensions hid trojan in fake PNG file"
+  },
   "https://www.bleepingcomputer.com/news/security/man-behind-in-flight-evil-twin-wifi-attacks-gets-7-years-in-prison/": {
     "categories": [
       "Security",
@@ -3642,6 +3784,17 @@
     "summary": "Windows PowerShell now warns when running Invoke-WebRequest scripts Microsoft says Windows PowerShell now warns when running scripts that use the Invoke-WebRequest cmdlet to download web content, aiming to prevent potentially risky code from executing. [...]",
     "title": "Windows PowerShell now warns when running Invoke-WebRequest scripts"
   },
+  "https://www.bleepingcomputer.com/news/security/mkvcinemas-streaming-piracy-service-with-142m-visits-shuts-down/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-12T07:14:31+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "MKVCinemas streaming piracy service with 142M visits shuts down An anti-piracy coalition has dismantled one of India's most popular streaming piracy services, which has provided free access to movies and TV shows to millions over the past two years. [...]",
+    "title": "MKVCinemas streaming piracy service with 142M visits shuts down"
+  },
   "https://www.bleepingcomputer.com/news/security/mozilla-firefox-gets-new-anti-fingerprinting-defenses/": {
     "categories": [
       "Security",
@@ -3695,6 +3848,18 @@
     "source": "BleepingComputer",
     "summary": "NCSC's \u2018Proactive Notifications\u2019 warns orgs of flaws in exposed devices The UK's National Cyber Security Center (NCSC) announced the testing phase of a new service called Proactive Notifications, designed to inform organizations in the country of vulnerabilities present in their \u2026",
     "title": "NCSC's \u2018Proactive Notifications\u2019 warns orgs of flaws in exposed devices"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2025-12-11T15:10:49+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "New ConsentFix attack hijacks Microsoft accounts via Azure CLI A new variation of the ClickFix attack dubbed 'ConsentFix' abuses the Azure CLI OAuth app to hijack Microsoft accounts without the need for a password or to bypass multi-factor authentication (MFA) verifications. [...\u2026",
+    "title": "New ConsentFix attack hijacks Microsoft accounts via Azure CLI"
   },
   "https://www.bleepingcomputer.com/news/security/new-costco-gold-star-members-also-get-a-40-digital-costco-shop-card/": {
     "categories": [
@@ -3844,6 +4009,17 @@
     "source": "BleepingComputer",
     "summary": "North Korean hackers exploit React2Shell flaw in EtherRAT malware attacks A new malware implant called EtherRAT, deployed in a recent React2Shell attack, runs five separate Linux persistence mechanisms and leverages Ethereum smart contracts for communication with the attacker. [.\u2026",
     "title": "North Korean hackers exploit React2Shell flaw in EtherRAT malware attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-11T21:04:15+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Notepad++ fixes flaw that let attackers push malicious update files Notepad++ version 8.8.9 was released to fix a security weakness in its WinGUp update tool after researchers and users reported incidents in which the updater retrieved malicious executables instead of legitimate \u2026",
+    "title": "Notepad++ fixes flaw that let attackers push malicious update files"
   },
   "https://www.bleepingcomputer.com/news/security/oauth-device-code-phishing-azure-vs-google-compared/": {
     "categories": [
@@ -4461,6 +4637,17 @@
     "summary": "UK carriers to block spoofed phone numbers in fraud crackdown Under a new partnership with the government aimed at combating fraud, Britain's largest mobile carriers have committed to upgrading their networks to eliminate scammers' ability to spoof phone numbers within a year. [.\u2026",
     "title": "UK carriers to block spoofed phone numbers in fraud crackdown"
   },
+  "https://www.bleepingcomputer.com/news/security/uk-fines-lastpass-over-2022-data-breach-impacting-16-million-users/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-11T17:09:00+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "UK fines LastPass over 2022 data breach impacting 1.6 million users The UK Information Commissioner's Office (ICO) fined the LastPass password management firm \u00a31.2 million for failing to implement security measures that allowed an attacker to steal personal information and encryp\u2026",
+    "title": "UK fines LastPass over 2022 data breach impacting 1.6 million users"
+  },
   "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-charged-with-helping-russian-hacktivist-groups/": {
     "categories": [
       "Security",
@@ -4514,6 +4701,17 @@
     "source": "BleepingComputer",
     "summary": "University of Phoenix discloses data breach after Oracle hack The University of Phoenix (UoPX) has joined a growing list of\u00a0U.S. universities\u00a0breached in a Clop data theft campaign targeting vulnerable Oracle E-Business Suite instances in August 2025. [...]",
     "title": "University of Phoenix discloses data breach after Oracle hack"
+  },
+  "https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-11T13:19:50+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit unpatched Gogs zero-day to breach 700 servers An unpatched zero-day vulnerability in Gogs, a popular self-hosted Git service, has enabled attackers to gain remote code execution on\u00a0Internet-facing instances and\u00a0compromise hundreds of servers. [...]",
+    "title": "Hackers exploit unpatched Gogs zero-day to breach 700 servers"
   },
   "https://www.bleepingcomputer.com/news/security/us-announces-new-strike-force-targeting-chinese-crypto-scammers/": {
     "categories": [
@@ -4781,6 +4979,15 @@
     "source": "darkreading",
     "summary": "DPRK's 'Contagious Interview' Spawns Malicious Npm Package Factory North Korean attackers have delivered more than 197 malicious packages with 31K-plus downloads since Oct. 10, as part of ongoing state-sponsored activity to compromise software developers.",
     "title": "DPRK's 'Contagious Interview' Spawns Malicious Npm Package Factory"
+  },
+  "https://www.darkreading.com/application-security/copilot-no-code-ai-agents-leak-company-data": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt75773ff51f6e981f/6939d4d15b08893ee9889088/Copilot-dpa_picture_alliance-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-11T10:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Copilot's No-Code AI Agents Liable to Leak Company Data Microsoft puts the power of AI in the hands of everyday non-technical Joes. It's a nice idea, and a surefire recipe for security issues.",
+    "title": "Copilot's No-Code AI Agents Liable to Leak Company Data"
   },
   "https://www.darkreading.com/application-security/critical-fortinet-fortiweb-waf-bug-exploited-in-wild": {
     "categories": [],
@@ -5091,6 +5298,15 @@
     "source": "darkreading",
     "summary": "GlassWorm Returns, Slices Back into VS Code Extensions GlassWorm, a self-propagating VS Code malware first found in the Open VSX marketplace, continues to infect developer devices around the world.",
     "title": "GlassWorm Returns, Slices Back into VS Code Extensions"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/hamas-hackers-middle-eastern-diplomats": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt60aa118a62258b6f/693b2e2634e2d68b87652d80/Hamas_logo-Ralf_Liebhold-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-12T07:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Hamas-Linked Hackers Probe Middle Eastern Diplomats Hamas's best hackers have been maturing, building better malware, and spreading their attacks more widely across the region.",
+    "title": "Hamas-Linked Hackers Probe Middle Eastern Diplomats"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/iranian-apt-phishes-us-policy-wonks": {
     "categories": [],
@@ -5497,6 +5713,15 @@
     "summary": "GISEC GLOBAL 2026 \u2013 The Middle East &amp; Africa\u2019s Largest Cybersecurity Event",
     "title": "GISEC GLOBAL 2026 \u2013 The Middle East &amp; Africa\u2019s Largest Cybersecurity Event"
   },
+  "https://www.darkreading.com/ics-ot-security/ai-ot-too-incompatible-work-securely": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7923c579bab7c392/6932e6f3c23f653dc027c2b9/2X8EYCK.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-11T14:50:59+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI in OT Sparks Cascade of Complex Challenges Using artificial intelligence in operational technology environments could be a bumpy ride full of trust issues and security challenges.",
+    "title": "AI in OT Sparks Cascade of Complex Challenges"
+  },
   "https://www.darkreading.com/ics-ot-security/claroty-patches-authentication-bypass-flaw": {
     "categories": [],
     "published": "2025-10-30T20:29:51+00:00",
@@ -5726,6 +5951,15 @@
     "source": "darkreading",
     "summary": "Android Malware Mutes Alerts, Drains Crypto Wallets Android/BankBot-YNRK is currently targeting users in Indonesia by masquerading as legitimate applications.",
     "title": "Android Malware Mutes Alerts, Drains Crypto Wallets"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/attackers-exploited-gogs-zero-day-months": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7ac491a683a3de45/693b06292c22c16797f8b3d6/Zero_Day_Jun_Li_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-11T20:11:43+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Attackers Exploited Gogs Zero-Day Flaw for Months Wiz disclosed a still-unpatched vulnerability in self-hosted Git service Gogs, which is a bypass for a previous RCE bug disclosed last year.",
+    "title": "Attackers Exploited Gogs Zero-Day Flaw for Months"
   },
   "https://www.darkreading.com/vulnerabilities-threats/cheap-hardware-module-amd-intel-memory-encryption": {
     "categories": [],
