@@ -1148,6 +1148,15 @@
     "summary": "Android Malware FvncBot, SeedSnatcher, and ClayRat Gain Stronger Data Theft Features Cybersecurity researchers have disclosed details of two new Android malware families dubbed FvncBot and SeedSnatcher, as another upgraded version of ClayRat has been spotted in the wild.\nThe find\u2026",
     "title": "Android Malware FvncBot, SeedSnatcher, and ClayRat Gain Stronger Data Theft Features"
   },
+  "https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSwTglRfB0k1FqqL7L502b4j1rqLa9StbW7akfVevnbqc0QsQHryjXRBajtpcOdiOOSUX119hpFSCGkZFuqxXH85aKyUMN2DwE0fKVDojo7uhXkZfEmf80438Wyd6Br5gASDHw6mLQxMc_fDPNGlgA1Op-YDJz8gYx6jqJhB_a9bKY66wuph0plkZdakTm/s1600/apple-update.jpg",
+    "published": "2025-12-13T05:32:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild Apple on Friday released security updates for iOS, iPadOS, macOS, tvOS, watchOS, visionOS, and its Safari web browser to address two security flaws that it said have been exploited in the wild, one o\u2026",
+    "title": "Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild"
+  },
   "https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaXJGSuca7TOkhpzQSqTtJJWkuBbFzjkm6UDnl04TARRIVqKOvnJmtLCysj9BEt7zm7QmU8RZMFjwiGnVOQUKIxvVle841t-4dv7YGs8Rx4qo9cvYQApnnJnAhmG419Xy-d0_nI8URsb8IQpXQpfBFD5nlOiADT0Mp0ZW0Ze-rxNvgCuQIAGTgNZovCBTN/s1600/brazil-malware.jpg",
@@ -1246,6 +1255,15 @@
     "source": "The Hacker News",
     "summary": "Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT Cybersecurity researchers are calling attention to a new campaign dubbed JS#SMUGGLER that has been observed leveraging compromised websites as a distribution vector for a remote access trojan named NetSup\u2026",
     "title": "Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT"
+  },
+  "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYgcFxpYG91gB_qImBj80xopP9yPiTuHXJwTeIXOS92Fsj6dtv4A2LK3aQxVQGKfA6sJ7T5WfeX5CEFBFrPNNH96PY7qjHCbyb7yDH5WrATaFflCN3YgQxQZJlOlKaQLK0nDtbzGwlS0FrwBVm7CwEvPkr_qSbBR1fvXX-xxIZn6XdUspYS7k2c1j87330/s1600/git.jpg",
+    "published": "2025-12-12T18:50:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads Cybersecurity researchers are calling attention to a new campaign that's leveraging GitHub-hosted Python repositories to distribute a previously undocumented JavaScript-based Remote Access Trojan (RAT) dub\u2026",
+    "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads"
   },
   "https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html": {
     "categories": [],
@@ -1445,6 +1463,15 @@
     "summary": ".NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL New research has uncovered exploitation primitives in the .NET Framework that could be leveraged against enterprise-grade applications to achieve remote code execution.\nWatchTowr Labs, which has \u2026",
     "title": ".NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL"
   },
+  "https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4a8r1ltQRVAHGAuHpS5vuzkIAKVgEgZQt0hi_nLCDg6akixRXUC_2sswGCHs8tFV2oLmaZd-YAwL-Yu09qMZMC64PZ2EQNycGfpxLzqwqGXaf1mPfKRZtx4XWLOKPXc1uyH_zVni2tBfNkiOUQL0Cdy4qqTRGu99eo6jDQbNq6O1-lvaZ8ZmKI3r9EG0c/s1600/1000039728.jpg",
+    "published": "2025-12-12T14:04:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale Cybersecurity researchers have documented four new phishing kits named BlackForce, GhostFrame, InboxPrime AI, and Spiderman that are capable of facilitating credential theft at scale.\nBlackForc\u2026",
+    "title": "New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale"
+  },
   "https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6xz7mWkJclIA4imdNn5zjZkxiRArjemiRQSUONKAKk1aC52C-R6DMyKI09PjF6iBtWNy0Ov_YZjOqovn3RTGYpPyiIlQtKp292GbxH8dfCDSt9HU3m37iItXGp7mgkrCw2i9VWbDKoR6hS_sFPLL-msoj6G1ggeJX2H1llAg4MVjDmqVzBejGwH_4qjHC/s1600/android-malware-1.jpg",
@@ -1453,6 +1480,15 @@
     "source": "The Hacker News",
     "summary": "New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control A new Android malware named Albiriox has been advertised under a malware-as-a-service (MaaS) model to offer a \"full spectrum\" of features to facilitate on-device fraud (ODF), screen manipulation, a\u2026",
     "title": "New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control"
+  },
+  "https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQz6FV9qkD3ZQ34_-_te7LAvOtZNopi3bQRTQq3TCojcBmPoef7tp-tgxFhffuFYyC5kvbdfEJMIBjwMn-rPElYlnpKG9kj89lPIAde8h_lYZRKq6a4mfiH6VWDXwIqFwimchyQ8M7RUvLd2_cAUi2aqcDyXZI_uDJcjfl1SyScuC96LV9RPhcDan3FJpQ/s1600/react-flaws.jpg",
+    "published": "2025-12-12T08:55:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "New React RSC Vulnerabilities Enable DoS and Source Code Exposure The React team has released fixes for two new types of flaws in React Server Components (RSC) that, if successfully exploited, could result in denial-of-service (DoS) or source code exposure.\nThe team said the issu\u2026",
+    "title": "New React RSC Vulnerabilities Enable DoS and Source Code Exposure"
   },
   "https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html": {
     "categories": [],
@@ -1480,6 +1516,15 @@
     "source": "The Hacker News",
     "summary": "React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors React2Shell continues to witness heavy exploitation, with threat actors leveraging the maximum-severity security flaw in React Server Components (RSC) to deliver cryptocurrency miners and an a\u2026",
     "title": "React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors"
+  },
+  "https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhnft_k0pTnAA0gVIW1pPi9QlZ_5qU92WBv8wfMA9644HkYIF5DMGYcdZjGyDmHPm9WA5IoE1uLal-fqzhvX96S5gLUNTS38ggHySqo50T-brLivYF2HW2dDKYqfDJlu8kPGOuN5zVpy9w8kuC51Zz6Nsq3gQCdZ19snMvA-tfDAsFGryH6Qa1C1HMwS8M/s1600/react2shell-hacking.jpg",
+    "published": "2025-12-12T08:41:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged federal agencies to patch the recent React2Shell vulnerability by December 12, 2025, amid reports of widespr\u2026",
+    "title": "React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation"
   },
   "https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html": {
     "categories": [],
@@ -1525,6 +1570,15 @@
     "source": "The Hacker News",
     "summary": "SecAlerts Cuts Through the Noise with a Smarter, Faster Way to Track Vulnerabilities Vulnerability management is a core component of every cybersecurity strategy. However, businesses often use thousands of software without realising it (when was the last time you checked?), and k\u2026",
     "title": "SecAlerts Cuts Through the Noise with a Smarter, Faster Way to Track Vulnerabilities"
+  },
+  "https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDv3XARtOUivvjEnErljioTinVDnawx7b3HwjUiP4I_0_JvCPo8jro-fI8ZJHESGp8sG0SMYH4BgfZqMQMeGA95kuzhe3z3m6GgMCtBdqRtLJ1WRKUHTJv8XoRLh8H7UXi3wMH0O9BhfsBsLyRFdsv53qh-TYgOwFr3PzpdsKcZ4QryozVIoGGJhVKP_c/s1600/ai.jpg",
+    "published": "2025-12-12T10:18:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work The browser has become the main interface to GenAI for most enterprises: from web-based LLMs and copilots, to GenAI\u2011powered extensions and agentic browsers like ChatGPT Atlas. Employees are lev\u2026",
+    "title": "Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work"
   },
   "https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html": {
     "categories": [],
@@ -2305,6 +2359,18 @@
     "summary": "Microsoft: Windows updates make password login option invisible Microsoft warned users that Windows 11 updates released since August may cause the password sign-in option to disappear from the lock screen options, even though the button remains functional. [...]",
     "title": "Microsoft: Windows updates make password login option invisible"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-12T11:28:06+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New Windows RasMan zero-day flaw gets free, unofficial patches Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service. [...]",
+    "title": "New Windows RasMan zero-day flaw gets free, unofficial patches"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/still-on-windows-10-enroll-in-free-extended-security-updates/": {
     "categories": [
       "Microsoft",
@@ -2499,6 +2565,18 @@
     "summary": "Apache OpenOffice disputes data breach claims by ransomware gang The Apache Software Foundation disputes claims that its OpenOffice project suffered an Akira ransomware attack, after the threat actors claimed to have stolen 23 GB of corporate documents. [...]",
     "title": "Apache OpenOffice disputes data breach claims by ransomware gang"
   },
+  "https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/": {
+    "categories": [
+      "Security",
+      "Apple"
+    ],
+    "image": "",
+    "published": "2025-12-12T23:23:25+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Apple fixes two zero-day flaws exploited in 'sophisticated' attacks Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an \"extremely sophisticated attack\" targeting specific individuals. [...]",
+    "title": "Apple fixes two zero-day flaws exploited in 'sophisticated' attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/": {
     "categories": [
       "Security"
@@ -2617,6 +2695,17 @@
     "source": "BleepingComputer",
     "summary": "CISA: High-severity Linux flaw now exploited by ransomware gangs CISA confirmed on Thursday that a high-severity privilege escalation flaw in the Linux kernel is now being exploited in ransomware attacks. [...]",
     "title": "CISA: High-severity Linux flaw now exploited by ransomware gangs"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-geoserver-flaw/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-12T09:48:31+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA orders feds to patch actively exploited Geoserver flaw CISA has ordered U.S. federal agencies to patch a critical GeoServer vulnerability now actively exploited in XML External Entity\u00a0(XXE) injection attacks. [...]",
+    "title": "CISA orders feds to patch actively exploited Geoserver flaw"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-samsung-zero-day-used-in-spyware-attacks/": {
     "categories": [
@@ -2772,6 +2861,17 @@
     "source": "BleepingComputer",
     "summary": "Contractors with hacking records accused of wiping 96 govt databases U.S. prosecutors have charged two Virginia brothers arrested on Wednesday with allegedly conspiring to steal sensitive information and destroy government databases after being fired from their jobs as federal co\u2026",
     "title": "Contractors with hacking records accused of wiping 96 govt databases"
+  },
+  "https://www.bleepingcomputer.com/news/security/coupang-data-breach-traced-to-ex-employee-who-retained-system-access/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-12T18:28:30+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Coupang data breach traced to ex-employee who retained system access A data breach at Coupang that exposed the information of 33.7 million customers has been tied to a former employee who retained access to internal systems after leaving the company. [...]",
+    "title": "Coupang data breach traced to ex-employee who retained system access"
   },
   "https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/": {
     "categories": [
@@ -3020,6 +3120,17 @@
     "source": "BleepingComputer",
     "summary": "Fake Calendly invites spoof top brands to hijack ad manager accounts An ongoing phishing campaign impersonates popular brands, such as Unilever, Disney, MasterCard, LVMH, and Uber, in Calendly-themed lures to steal Google Workspace and Facebook business account credentials. [...]",
     "title": "Fake Calendly invites spoof top brands to hijack ad manager accounts"
+  },
+  "https://www.bleepingcomputer.com/news/security/fake-one-battle-after-another-torrent-hides-malware-in-subtitles/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-12T17:12:47+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Fake \u2018One Battle After Another\u2019 torrent hides malware in subtitles A fake torrent for Leonardo DiCaprio's 'One Battle After Another' hides malicious PowerShell malware loaders inside subtitle files that ultimately infect devices with the Agent Tesla RAT malware. [...]",
+    "title": "Fake \u2018One Battle After Another\u2019 torrent hides malware in subtitles"
   },
   "https://www.bleepingcomputer.com/news/security/fake-solidity-vscode-extension-on-open-vsx-backdoors-developers/": {
     "categories": [
@@ -3569,6 +3680,18 @@
     "summary": "Japanese beer giant Asahi says data breach hit 1.5 million people Asahi Group Holdings, Japan's largest beer producer, has finished the investigation into the\u00a0September cyberattack and found that the incident has impacted up to\u00a01.9\u00a0million individuals. [...]",
     "title": "Japanese beer giant Asahi says data breach hit 1.5 million people"
   },
+  "https://www.bleepingcomputer.com/news/security/kali-linux-20254-released-with-3-new-tools-desktop-updates/": {
+    "categories": [
+      "Security",
+      "Linux"
+    ],
+    "image": "",
+    "published": "2025-12-12T15:27:16+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Kali Linux 2025.4 released with 3 new tools, desktop updates Kali Linux has released version 2025.4, its final update of the year, introducing three new hacking tools, desktop environment improvements, the preview of Wifipumpkin3 in NetHunter, and enhanced Wayland support. [...]",
+    "title": "Kali Linux 2025.4 released with 3 new tools, desktop updates"
+  },
   "https://www.bleepingcomputer.com/news/security/kerberoasting-in-2025-how-to-protect-your-service-accounts/": {
     "categories": [
       "Security"
@@ -3783,6 +3906,17 @@
     "source": "BleepingComputer",
     "summary": "Windows PowerShell now warns when running Invoke-WebRequest scripts Microsoft says Windows PowerShell now warns when running scripts that use the Invoke-WebRequest cmdlet to download web content, aiming to prevent potentially risky code from executing. [...]",
     "title": "Windows PowerShell now warns when running Invoke-WebRequest scripts"
+  },
+  "https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-12T08:43:16+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "MITRE shares 2025's top 25 most dangerous software weaknesses MITRE has shared this year's top 25 list of the most dangerous software weaknesses behind over 39,000 security vulnerabilities disclosed between June 2024 and June 2025. [...]",
+    "title": "MITRE shares 2025's top 25 most dangerous software weaknesses"
   },
   "https://www.bleepingcomputer.com/news/security/mkvcinemas-streaming-piracy-service-with-142m-visits-shuts-down/": {
     "categories": [
@@ -4459,6 +4593,17 @@
     "summary": "SCCM and WSUS in a Hybrid World: Why It\u2019s Time for Cloud-native Patching Hybrid work exposes the limits of SCCM and WSUS, with remote devices often missing updates and WSUS now deprecated. Action1's cloud-native patching keeps devices updated from any location, strengthening comp\u2026",
     "title": "SCCM and WSUS in a Hybrid World: Why It\u2019s Time for Cloud-native Patching"
   },
+  "https://www.bleepingcomputer.com/news/security/shadow-spreadsheets-the-security-gap-your-tools-cant-see/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-12T15:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Shadow spreadsheets: The security gap your tools can\u2019t see When official systems can't support everyday workflows, employees turn to spreadsheets \u2014 creating \"shadow spreadsheets\" that circulate unchecked. Grist shows how these spreadsheets expose sensitive data, create version sp\u2026",
+    "title": "Shadow spreadsheets: The security gap your tools can\u2019t see"
+  },
   "https://www.bleepingcomputer.com/news/security/shadypanda-browser-extensions-amass-43m-installs-in-malicious-campaign/": {
     "categories": [
       "Security"
@@ -5095,6 +5240,24 @@
     "summary": "Sora 2 Makes Videos So Believable, Reality Checks Are Required Threat actors will continue to abuse deepfake technology to conduct fraudulent activity, so organizations need to implement strong security protocols \u2013 even if it adds to user friction.",
     "title": "Sora 2 Makes Videos So Believable, Reality Checks Are Required"
   },
+  "https://www.darkreading.com/application-security/supply-chain-attacks-targeting-github-actions-increased-in-2025": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcaeb14971d491b65/693c63ed866c62aa4b94c373/collaboration-BullRun-AdobeStock_302947168CP.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-12T18:37:53+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Supply Chain Attacks Targeting GitHub Actions Increased in 2025 At this week's Black Hat Europe conference, two researchers urged developers to adopt a shared responsibility model for open source software and not leave it all up to GitHub to handle.",
+    "title": "Supply Chain Attacks Targeting GitHub Actions Increased in 2025"
+  },
+  "https://www.darkreading.com/application-security/vibe-coding-innovation-demands-vigilance": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8359f9fc3c8cb3a1/693c70cd516b719f628b72c3/office_worker_blindfold_Elnur_Amikishiyev_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-12T20:07:23+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Vibe Coding: Innovation Demands Vigilance Unmanaged coding is indeed an alluring idea, but can introduce a host of significant cybersecurity dangers, Constantine warns.",
+    "title": "Vibe Coding: Innovation Demands Vigilance"
+  },
   "https://www.darkreading.com/cyber-risk/ai-agents-going-rogue": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c003bbc98535214/690d2d9cb7095674342285e7/rogue_AO_bot_Chris_Light_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -5174,6 +5337,15 @@
     "source": "darkreading",
     "summary": "ShadowRay 2.0 Turns AI Clusters into Crypto Botnets A threat actor is leveraging a flaw in the Ray framework to hijack AI infrastructure worldwide and distribute a self-propagating cryptomining and data theft botnet.",
     "title": "ShadowRay 2.0 Turns AI Clusters into Crypto Botnets"
+  },
+  "https://www.darkreading.com/cyber-risk/trade-concerns-trumping-cybersecurity": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt81971806f6f2a3c4/685dafc030ac794556cdd521/china-us-flags-conflict-helloRuby-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-12T14:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Are Trade Concerns Trumping US Cybersecurity? The Trump administration appears to have dropped sanctions against Chinese actors for the Salt Typhoon attacks on US telecoms; but focusing on diplomacy alone misses the full picture, experts say.",
+    "title": "Are Trade Concerns Trumping US Cybersecurity?"
   },
   "https://www.darkreading.com/cyber-risk/us-makes-cyber-strategy-changes": {
     "categories": [],
@@ -5558,6 +5730,15 @@
     "summary": "Cloudflare's One-Stop-Shop Convenience Takes Down Global Digital Economy Even the most advanced systems like Cloudflare can fall victim to software issues and become a global point of failure, Dr. David Utzke argues, adding that the recent outage should be a warning for enterpris\u2026",
     "title": "Cloudflare's One-Stop-Shop Convenience Takes Down Global Digital Economy"
   },
+  "https://www.darkreading.com/cybersecurity-operations/encouraging-industry-voices-write-commentary-section": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteaddff6b65ae38b4/67aa4fae2d58507b08e941c4/newspaper1800_Radharc_Images_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-11T22:48:10+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Encouraging Industry Voices to Write for the Commentary Section Dark Reading will continue to publish Tech Talks and Ask the Expert pieces in the Commentary section. Read on for submission guidelines.",
+    "title": "Encouraging Industry Voices to Write for the Commentary Section"
+  },
   "https://www.darkreading.com/cybersecurity-operations/gen-z-cybersecurity-jury-out-ai-impact": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt903df1c6b19686d9/6925deaff3543b29df29d8ee/genz-Mirko_Vitali-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -5598,6 +5779,15 @@
     "source": "darkreading",
     "summary": "Kenya Kicks Off 'Code Nation' With a Nod to Cybersecurity The African country aims to train 1 million workers in tech skills in the short term, with a focus on software engineering, cybersecurity, and data science.",
     "title": "Kenya Kicks Off 'Code Nation' With a Nod to Cybersecurity"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/microsoft-bundle-security-copilot-m365-enterprise-license": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt42df7ca896592a2e/6751ee3d47226cf59b96d81d/SOC_(1800)_Dragos_Condrea_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-12T19:32:42+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Microsoft Will Bundle Security Copilot With M365 Enterprise Licenses The move aims to expand the use of Security Copilot and comes with the launch of 12 new agents from Microsoft at the company's Ignite conference last week.",
+    "title": "Microsoft Will Bundle Security Copilot With M365 Enterprise Licenses"
   },
   "https://www.darkreading.com/cybersecurity-operations/military-veterans-strengthening-cybersecurity": {
     "categories": [],
@@ -5646,6 +5836,15 @@
     "source": "darkreading",
     "summary": "Same Old Security Problems: Cyber Training Still Fails Miserably Editors from Dark Reading, Cybersecurity Dive, and TechTarget Search Security break down the depressing state of cybersecurity awareness campaigns and how organizations can overcome basic struggles with password hyg\u2026",
     "title": "Same Old Security Problems: Cyber Training Still Fails Miserably"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/the-ciso-coo-partnership-protecting-operational-excellence": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta3333d537098516d/685a9a201bca8cffb68be5b9/teamwork-_Brain_light-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-12T21:12:13+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "The CISO-COO Partnership: Protecting Operational Excellence Digital transformation has made cybersecurity preparation part of operational resilience for most organizations. This calls for a new relationship between CISO and COO.",
+    "title": "The CISO-COO Partnership: Protecting Operational Excellence"
   },
   "https://www.darkreading.com/cybersecurity-operations/us-refuses-sign-un-cybercrime-treaty": {
     "categories": [],
@@ -5902,6 +6101,15 @@
     "summary": "'Matrix Push' C2 Tool Hijacks Browser Notifications Have you ever given two seconds of thought to a browser notification? No? That's what hackers bent on phishing are counting on.",
     "title": "'Matrix Push' C2 Tool Hijacks Browser Notifications"
   },
+  "https://www.darkreading.com/threat-intelligence/money-mules-require-banks-to-switch-from-defense-to-offense": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb73f88f57745b899/670ed4947eeb84b5c2247d6d/atm1800_Panther_Media_GmbH_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-11T23:13:38+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Money Mules Require Banks to Switch from Defense to Offense Financial institutions need to be proactive when identifying and mentally preventing fraudulent activity. Here's what to watch for.",
+    "title": "Money Mules Require Banks to Switch from Defense to Offense"
+  },
   "https://www.darkreading.com/threat-intelligence/muddywater-hackers-israeli-orgs-retro-game": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc9baa8891b84c6b8/69307fe600d62c0cfd4cee12/Snake_game-Designtegrator-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -5919,6 +6127,15 @@
     "source": "darkreading",
     "summary": "Packer-as-a-Service Shanya Hides Ransomware, Kills EDR Shanya is the latest in an emerging field of packing malware, selling obfuscation functionality in order to help ransomware actors reach their target.",
     "title": "Packer-as-a-Service Shanya Hides Ransomware, Kills EDR"
+  },
+  "https://www.darkreading.com/threat-intelligence/react2shell-exploits-flood-internet-attacks-continue": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2f423e90264d26a8/693c77db12ca300e247b043b/maliciouscode_Victor_Koldunov_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-12T20:11:43+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "React2Shell Exploits Flood the Internet as Attacks Continue As exploitation activity against CVE-2025-55182 ramps up, researchers are finding some proof-of-concept exploits contain bypasses for web application firewall (WAF) rules.",
+    "title": "React2Shell Exploits Flood the Internet as Attacks Continue"
   },
   "https://www.darkreading.com/threat-intelligence/researchers-use-poetry-to-jailbreak-ai-models": {
     "categories": [],
