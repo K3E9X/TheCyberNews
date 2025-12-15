@@ -1688,6 +1688,15 @@
     "summary": "Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks A high-severity unpatched security vulnerability in Gogs has come under active exploitation, with more than 700 compromised instances accessible over the internet, according to new findings from Wiz.\nThe \u2026",
     "title": "Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks"
   },
+  "https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZP3WUgrypoDpL5dUk1TlTjzyLA_HKMjawrIv9xe9Aq6_K1u7ikP5Y7ehR-VuYhvQkb5ZHaKrz2WH_uXqmB5YaQm_t4byXd8uFCIMAqYcx15Zog3Wwt4JLdtlvCwm3nPMFI9eBNdni-5Ac7XjIrJ8JjN1D5MFRIer-S1XyPlIpw1s9ybXB_Lgt4UwJ_UJW/s1600/ransomware-key.jpg",
+    "published": "2025-12-15T05:33:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption The pro-Russian hacktivist group known as CyberVolk (aka GLORIAMIST) has resurfaced with a new ransomware-as-a-service (RaaS) offering called VolkLocker that suffers from implementation lapses in test\u2026",
+    "title": "VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption"
+  },
   "https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn4WUzO_P0sEPntxbBi-a6uO4dqk0arqJQMhRKYAYj7r8Dbsx3Y7PoeWrMLaEHxK7nMx4vNCTNWFYa6KYRiFFYE2i2Lg3WkD0DO63RN4Nxnt_MSOKAHmb9Z6vsIKaHVVBQLmBTVs0fgsSAomShvnBP25jt1DK11qLYEiqOg0_HsJakDdxnA45GzohEBYT7/s1600/winrar.jpg",
@@ -2647,6 +2656,17 @@
     "summary": "Barts Health NHS discloses data breach after Oracle zero-day hack Barts Health NHS Trust has announced that Clop ransomware actors have stolen files from a database by exploiting a vulnerability in its Oracle E-business Suite software. [...]",
     "title": "Barts Health NHS discloses data breach after Oracle zero-day hack"
   },
+  "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-14T16:06:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Beware: PayPal subscriptions abused to send fake purchase emails An email scam is abusing abusing PayPal's \"Subscriptions\"\u00a0billing feature to send legitimate PayPal emails that contain fake purchase notifications embedded in the Customer service URL field. [...]",
+    "title": "Beware: PayPal subscriptions abused to send fake purchase emails"
+  },
   "https://www.bleepingcomputer.com/news/security/bitcoin-queen-gets-11-years-in-prison-for-73-billion-bitcoin-scam/": {
     "categories": [
       "Security"
@@ -2954,6 +2974,17 @@
     "source": "BleepingComputer",
     "summary": "Cybercrime Goes SaaS: Renting Tools, Access, and Infrastructure Cybercrime has fully shifted to a subscription model, with phishing kits, Telegram OTP bots, infostealer logs, and even RATs now rented like SaaS tools. Varonis explains how this \"crime-as-a-service\" economy lowers t\u2026",
     "title": "Cybercrime Goes SaaS: Renting Tools, Access, and Infrastructure"
+  },
+  "https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-13T15:11:21+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "CyberVolk\u2019s ransomware debut stumbles on cryptography weakness The pro-Russia hacktivist group CyberVolk launched a ransomware-as-a-service (RaaS) called VolkLocker that suffered\u00a0from serious implementation flaws, allowing victims to potentially decrypt files for free. [...]",
+    "title": "CyberVolk\u2019s ransomware debut stumbles on cryptography weakness"
   },
   "https://www.bleepingcomputer.com/news/security/d-link-warns-of-new-rce-flaws-in-end-of-life-dir-878-routers/": {
     "categories": [
