@@ -1139,6 +1139,15 @@
     "summary": "5 Threats That Reshaped Web Security This Year [2025] As 2025 draws to a close, security professionals face a sobering realization: the traditional playbook for web security has become dangerously obsolete. AI-powered attacks, evolving injection techniques, and supply chain compr\u2026",
     "title": "5 Threats That Reshaped Web Security This Year [2025]"
   },
+  "https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAAYMfLInHfns5nX7hk3SOBwCvMca-7usfovrOLFewfHgZtx0972jWlVx8u1MVE0_WqJCnczK6ZFXTZ-ir-grtXiWZcXJw6eGWzTX7supbbmuFOPY2fxfgdqcRAP_dpIW4fGawNEFOdY1wfUVlhaL4lx3_HjP20Ql7NEsL3oVu6s2xceDq0DHz_JyQU2Y/s1600/reco.jpg",
+    "published": "2025-12-15T11:55:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "A Browser Extension Risk Guide After the ShadyPanda Campaign In early December 2025, security researchers exposed a cybercrime campaign that had quietly hijacked popular Chrome and Edge browser extensions on a massive scale.\nA threat group dubbed ShadyPanda spent seven years play\u2026",
+    "title": "A Browser Extension Risk Guide After the ShadyPanda Campaign"
+  },
   "https://thehackernews.com/2025/12/android-malware-fvncbot-seedsnatcher.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZELdaHTFQVkYr0Kyc_yx3kw6Nv6koGQwFisUkrKbPwk3IqNSmbz1ozCRktQ5xW1Ou1b5ZxjjVWcAF8rahSu23xn9UboPllWofT7elGGF6hZCZHzLpBWlXdH2fLpcTRfouUSR66iBFqHdkiu5WMdD5dLD7lyeP0y8zBUVXxXEBkPC8Jz2YVwEuvAiWGbMF/s1600/android-malware.jpg",
@@ -1274,6 +1283,15 @@
     "summary": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads Cybersecurity researchers are calling attention to a new campaign that's leveraging GitHub-hosted Python repositories to distribute a previously undocumented JavaScript-based Remote Access Trojan (RAT) dub\u2026",
     "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads"
   },
+  "https://thehackernews.com/2025/12/featured-chrome-browser-extension.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXHTpJtgXoQfYQN62WgKv5VQG11DDmx38k3E0UeuLONeGHcNFQXzppCq-HGBEG9kJNyW_2O5q7VAuvoR7aEzUpW1i3iC4PWFxF31qypiXtp8zJqKVCDF6FyxVU8_UTZUU2OKeO6lA-KkXXOk6ASt3KVG4jQ0vuwldlLYHrkeZyoVVr64i5o_nC3Jkpcqyt/s1600/chat-stealer.jpg",
+    "published": "2025-12-15T17:46:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats A Google Chrome extension with a \"Featured\" badge and six million users has been observed silently gathering every prompt entered by users into artificial intelligence (AI)-powered chatbots like Ope\u2026",
+    "title": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats"
+  },
   "https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK0R-QzlGdiLRGA3gSZBJ0bMFvDgCeIgaL7lrq_FTLjhBMQUG6WN0Br_556xWrtqsM1U3814t28KYCkYXcp9CJS4P_jaFPJrLkcku0G1w2N44ocsawmjWgwqog3Uz3ef4kfG6z7F9J56F-O9ReNGWJlVnizYgI-i9PC_GTo2FCnajwj9CBc_-zoaEWwaz-/s1600/sap.jpg",
@@ -1291,6 +1309,15 @@
     "source": "The Hacker News",
     "summary": "Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure Four distinct threat activity clusters have been observed leveraging a malware loader known as CastleLoader, strengthening the previous assessment that the tool is offered to other thr\u2026",
     "title": "Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure"
+  },
+  "https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv01p712eomGjpG3imw4Fow3C_gFqZq2RwuHvosDk7WWN08kcB3sVc9ZCeOyic9zqqYml63fAppF-DF0gDBXnwMBbtFE7mr81Trn8IQVOmCn4Msnx5pL87XopJicEYXlyFchV5u0hToNbvtRYR0rhG0y5S0cK06UGK8_7HFAbNJylUxYV4BDG3ZupUNh7b/s1600/zeroday.jpg",
+    "published": "2025-12-15T14:32:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE Multiple security vulnerabilities have been disclosed in the open-source private branch exchange (PBX) platform FreePBX, including a critical flaw that could result in an authentication bypass unde\u2026",
+    "title": "FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE"
   },
   "https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html": {
     "categories": [],
@@ -1336,6 +1363,15 @@
     "source": "The Hacker News",
     "summary": "Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild Google on Monday released monthly security updates for the Android operating system, including two vulnerabilities that it said have been exploited in the wild.\nThe patch addresses a total of 107\u2026",
     "title": "Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild"
+  },
+  "https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaxSi6VCX3WC9AjpLsvCFSakbkppzzCdUxTD_4mLbyuC3Bo9ru4rNrN9oh8gEOjf5ePq4506p7I-P8J5oKnHQnF9cOIVSSSjEJVC5llgbgHJXRbdD1qu91gxFG3RttggzfGhwEI6syBjgvDLAD9jEXV-TmDQ_R4ICvEqdbuKn3cfM6RKbshA4Up-3yKVGs/s1600/darkweb.jpg",
+    "published": "2025-12-16T06:02:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Google to Shut Down Dark Web Monitoring Tool in February 2026 Google has announced that it's discontinuing its dark web report tool in February 2026, less than two years after it was launched as a way for users to monitor if their personal information is found on the dark web.\nTo\u2026",
+    "title": "Google to Shut Down Dark Web Monitoring Tool in February 2026"
   },
   "https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html": {
     "categories": [],
@@ -1507,6 +1543,15 @@
     "source": "The Hacker News",
     "summary": "North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware Threat actors with ties to North Korea have likely become the latest to exploit the recently disclosed critical security React2Shell flaw in React Server Components (RSC) to deliver a previously undocume\u2026",
     "title": "North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware"
+  },
+  "https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglC802fHbjYDV11Y3NmxnCVUJfKSNEDRXAtOM722x09s0GmNQF11fP-r7betDJE1NOMAXe9DcIyEGYlWLMFf8S2B3pMRcLtLuGqqYovFNSGfnruQbydlAzRhpYQgKTZrYR68RcpYTJRjUEHTBDLDANrBWUx2zYhtcm28f7njmIuqHXI36W9omWtuD8AeFC/s1600/email.jpg",
+    "published": "2025-12-15T09:24:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector Cybersecurity researchers have disclosed details of an active phishing campaign that's targeting a wide range of sectors in Russia with phishing emails that deliver Phantom Stealer via malicious ISO opti\u2026",
+    "title": "Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector"
   },
   "https://thehackernews.com/2025/12/picklescan-bugs-allow-malicious-pytorch.html": {
     "categories": [],
@@ -1723,6 +1768,15 @@
     "source": "The Hacker News",
     "summary": "Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes Cloud security is changing. Attackers are no longer just breaking down the door; they are finding unlocked windows in your configurations, your identities, and your code.\nStandard securit\u2026",
     "title": "Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes"
+  },
+  "https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4BtIjueYhEXgOy1tcq1Lj5PMU8k7riwHK60xURQet4OGQewoPHZzG0F8ImGWDlbidb5KkjTrJFlLbYf4HZAfQcvHcSFOM8uQkOdgzypwcAGxlbba9hRrX4eLDfGhfoipd4wju61DtzXuVXmbDv-XeCRxBLiz-fSeKcq2MCh7dW6eSAquuF5CxjkVqXzjl/s1600/recapp.jpg",
+    "published": "2025-12-15T12:24:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More If you use a smartphone, browse the web, or unzip files on your computer, you are in the crosshairs this week. Hackers are currently exploiting critical flaws in the daily software we all r\u2026",
+    "title": "\u26a1 Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More"
   },
   "https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html": {
     "categories": [],
@@ -1957,6 +2011,18 @@
     "summary": "Google Gemini 3 spotted on AI Studio ahead of imminent release Gemini 3, which could be Google's best large language model, could begin rolling out in the next few days or hours, as the model has been spotted on AI Studio. [...]",
     "title": "Google Gemini 3 spotted on AI Studio ahead of imminent release"
   },
+  "https://www.bleepingcomputer.com/news/google/google-is-shutting-down-its-dark-web-report-feature-in-january/": {
+    "categories": [
+      "Google",
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-15T23:24:57+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google is shutting down its dark web report feature in January Google is discontinuing its \"dark web report\" security tool, stating that it wants to focus on other tools it believes are more helpful. [...]",
+    "title": "Google is shutting down its dark web report feature in January"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/": {
     "categories": [
       "Microsoft",
@@ -2013,6 +2079,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft December 2025 Patch Tuesday fixes 3 zero-days, 57 flaws Microsoft's December 2025 Patch Tuesday fixes 57\u00a0flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
     "title": "Microsoft December 2025 Patch Tuesday fixes 3 zero-days, 57 flaws"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2025-12-15T09:04:59+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: December security updates cause Message Queuing failures Microsoft has confirmed that the December 2025 security updates are breaking Message Queuing (MSMQ) functionality, affecting enterprise applications and Internet Information Services (IIS) websites. [...]",
+    "title": "Microsoft: December security updates cause Message Queuing failures"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-portal-outage-blocks-access-to-security-alerts/": {
     "categories": [
@@ -2172,6 +2249,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Patch for WSUS flaw disabled Windows Server hotpatching An out-of-band (OOB) security update that patches an actively exploited Windows Server Update Service (WSUS) vulnerability has broken hotpatching on some Windows Server 2025 devices. [...]",
     "title": "Microsoft: Patch for WSUS flaw disabled Windows Server hotpatching"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-wsl-networking-issues/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2025-12-15T14:34:31+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Recent Windows updates break VPN access for WSL users Microsoft says that recent Windows 11 security updates are causing VPN networking failures for enterprise users running Windows Subsystem for Linux. [...]",
+    "title": "Microsoft: Recent Windows updates break VPN access for WSL users"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-kb5068781-the-first-windows-10-extended-security-update/": {
     "categories": [
@@ -2499,6 +2587,17 @@
     "summary": "Google enables Pixel-to-iPhone file sharing via Quick Share, AirDrop Google has added interoperability support\u00a0between Android Quick Share and Apple AirDrop, to let users share files between Pixel devices and iPhones. [...]",
     "title": "Google enables Pixel-to-iPhone file sharing via Quick Share, AirDrop"
   },
+  "https://www.bleepingcomputer.com/news/security/2025s-top-phishing-trends-and-what-they-mean-for-your-security-strategy/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-15T15:05:15+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "2025\u2019s Top Phishing Trends and What They Mean for Your Security Strategy Phishing attacks in 2025 increasingly moved beyond email, with attackers using social platforms, search ads, and browser-based techniques to bypass MFA and steal sessions. Push Security outlines key phishing\u2026",
+    "title": "2025\u2019s Top Phishing Trends and What They Mean for Your Security Strategy"
+  },
   "https://www.bleepingcomputer.com/news/security/5-reasons-why-attackers-are-phishing-over-linkedin/": {
     "categories": [
       "Security"
@@ -2508,6 +2607,17 @@
     "source": "BleepingComputer",
     "summary": "5 reasons why attackers are phishing over LinkedIn Attackers are increasingly phishing over LinkedIn to reach executives and bypass email security tools. Push Security explains how real-time browser protection detects and blocks phishing across apps and channels as users load mal\u2026",
     "title": "5 reasons why attackers are phishing over LinkedIn"
+  },
+  "https://www.bleepingcomputer.com/news/security/700credit-data-breach-impacts-58-million-vehicle-dealership-customers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-15T16:49:03+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "700Credit data breach impacts 5.8 million vehicle dealership customers 700Credit, a U.S.-based financial services and fintech company, will start notifying more than 5.8 million people that their personal information has been exposed in a data breach incident. [...]",
+    "title": "700Credit data breach impacts 5.8 million vehicle dealership customers"
   },
   "https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/": {
     "categories": [
@@ -2604,6 +2714,17 @@
     "source": "BleepingComputer",
     "summary": "APT37 hackers abuse Google Find Hub in Android data-wiping attacks North Korean hackers from the KONNI activity cluster are abusing Google's Find Hub tool to track their targets' GPS positions and trigger remote factory resets of Android devices. [...]",
     "title": "APT37 hackers abuse Google Find Hub in Android data-wiping attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/askul-confirms-theft-of-740k-customer-records-in-ransomhouse-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-15T23:13:44+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Askul confirms theft of 740k customer records in ransomware attack Japanese e-commerce giant Askul Corporation has confirmed that RansomHouse hackers stole around 740,000 customer records in the ransomware attack it suffered in October. [...]",
+    "title": "Askul confirms theft of 740k customer records in ransomware attack"
   },
   "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-auth-bypass-flaw-in-dsl-series-routers/": {
     "categories": [
@@ -3278,6 +3399,17 @@
     "summary": "Fortinet FortiWeb flaw with public PoC exploited to create admin users A Fortinet FortiWeb path traversal vulnerability is being actively exploited to create new administrative users on exposed devices without requiring authentication [...]",
     "title": "Fortinet FortiWeb flaw with public PoC exploited to create admin users"
   },
+  "https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-15T11:06:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "French Interior Ministry confirms cyberattack on email servers The French Interior Minister confirmed on Friday that the country's Ministry of the Interior was breached in a cyberattack that compromised e-mail servers. [...]",
+    "title": "French Interior Ministry confirms cyberattack on email servers"
+  },
   "https://www.bleepingcomputer.com/news/security/freedom-mobile-discloses-data-breach-exposing-customer-data/": {
     "categories": [
       "Security"
@@ -3457,6 +3589,17 @@
     "source": "BleepingComputer",
     "summary": "Google fixes two Android zero days exploited in attacks, 107 flaws Google has released the December 2025 Android security bulletin, addressing 107 vulnerabilities, including two flaws actively exploited in targeted attacks. [...]",
     "title": "Google fixes two Android zero days exploited in attacks, 107 flaws"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-15T12:46:50+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Google links more Chinese hacking groups to React2Shell attacks Over the weekend, \u200bGoogle's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity \"React2Shell\" remote code execution vulnerability. [...]",
+    "title": "Google links more Chinese hacking groups to React2Shell attacks"
   },
   "https://www.bleepingcomputer.com/news/security/google-sues-to-dismantle-chinese-phishing-platform-behind-us-toll-scams/": {
     "categories": [
@@ -4078,6 +4221,17 @@
     "summary": "New LandFall spyware exploited Samsung zero-day via WhatsApp messages A threat actor exploited a zero-day vulnerability in Samsung's Android image processing library to deploy a previously unknown spyware called 'LandFall' using malicious images sent over WhatsApp. [...]",
     "title": "New LandFall spyware exploited Samsung zero-day via WhatsApp messages"
   },
+  "https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-15T22:43:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New SantaStealer malware steals data from browsers, crypto wallets A new malware-as-a-service (MaaS) information stealer named SantaStealer is being advertised on Telegram and hacker forums as operating in memory to avoid file-based detection. [...]",
+    "title": "New SantaStealer malware steals data from browsers, crypto wallets"
+  },
   "https://www.bleepingcomputer.com/news/security/new-shadowray-attacks-convert-ray-clusters-into-crypto-miners/": {
     "categories": [
       "Security",
@@ -4213,6 +4367,17 @@
     "source": "BleepingComputer",
     "summary": "\u2018We got hacked\u2019 emails threaten to leak University of Pennsylvania data The University of Pennsylvania suffered a cybersecurity incident on Friday, where students and alumni received a series of offensive emails from various University email addresses, claiming that data was stol\u2026",
     "title": "\u2018We got hacked\u2019 emails threaten to leak University of Pennsylvania data"
+  },
+  "https://www.bleepingcomputer.com/news/security/ongoing-soundcloud-issue-blocks-vpn-users-with-403-server-error/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-15T18:20:47+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Ongoing SoundCloud issue blocks VPN users with 403 server error Users accessing the SoundCloud audio streaming platform through a virtual private network (VPN) connection are denied access to the service and see\u00a0a 403 'forbidden' error. [...]",
+    "title": "Ongoing SoundCloud issue blocks VPN users with 403 server error"
   },
   "https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/": {
     "categories": [
@@ -4368,6 +4533,17 @@
     "source": "BleepingComputer",
     "summary": "Popular JavaScript library expr-eval vulnerable to RCE flaw A critical vulnerability in the popular expr-eval JavaScript library,\u00a0with over 800,000 weekly downloads on NPM, can be exploited to execute code remotely through maliciously crafted input. [...]",
     "title": "Popular JavaScript library expr-eval vulnerable to RCE flaw"
+  },
+  "https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-15T21:27:07+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "PornHub extorted after hackers steal Premium member activity data Adult video platform PornHub is being extorted by the ShinyHunters extortion gang after the search and watch history of its Premium members was reportedly stolen in a recent Mixpanel data breach. [...]",
+    "title": "PornHub extorted after hackers steal Premium member activity data"
   },
   "https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/": {
     "categories": [
@@ -4707,6 +4883,17 @@
     "source": "BleepingComputer",
     "summary": "SonicWall says state-sponsored hackers behind September security breach SonicWall's investigation into the September security breach that exposed customers'\u00a0firewall configuration backup files concludes that state-sponsored hackers were behind the attack. [...]",
     "title": "SonicWall says state-sponsored hackers behind September security breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-16T00:38:47+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "SoundCloud confirms breach after member data stolen, VPN access disrupted Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in which threat actors stole a database exposing users' email\u2026",
+    "title": "SoundCloud confirms breach after member data stolen, VPN access disrupted"
   },
   "https://www.bleepingcomputer.com/news/security/spain-arrests-teen-who-stole-64-million-personal-data-records/": {
     "categories": [
@@ -5345,6 +5532,15 @@
     "summary": "How CISOs Can Best Work With CEOs and the Board: Lessons From the Field To build an effective relationship with the CEO and board, CISOs must translate technical risks into business terms and position cybersecurity as a strategic business enabler rather than just a business funct\u2026",
     "title": "How CISOs Can Best Work With CEOs and the Board: Lessons From the Field"
   },
+  "https://www.darkreading.com/cyber-risk/how-cyber-insurance-mga-shape-cyber-risk-policy": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta75787bee51209ca/6940d0ceeaf13f52d784d119/insurancetech-_Rawpixel_Ltd-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-15T22:28:47+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "How Cyber Insurance MGAs Shape Policies for Evolving Cyber Risks Managing general agents help insurers navigate sectors where they lack expertise. A cybersecurity policy written by an MGA is more likely to reflect an understanding of the risks CISOs deal with.",
+    "title": "How Cyber Insurance MGAs Shape Policies for Evolving Cyber Risks"
+  },
   "https://www.darkreading.com/cyber-risk/microsoft-exchange-under-imminent-threat-act-now": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf4d5cbfc04379237/682b51084166a56bc7b1e108/Hook_email_phishing_Mohd_Izzuan_Roslan_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -5770,6 +5966,15 @@
     "summary": "Cloudflare's One-Stop-Shop Convenience Takes Down Global Digital Economy Even the most advanced systems like Cloudflare can fall victim to software issues and become a global point of failure, Dr. David Utzke argues, adding that the recent outage should be a warning for enterpris\u2026",
     "title": "Cloudflare's One-Stop-Shop Convenience Takes Down Global Digital Economy"
   },
+  "https://www.darkreading.com/cybersecurity-operations/cybersecurity-tips-cato-networks-ciso": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0f2080be736ddd98/6939d2fc465bc6e9b1803192/attacker1800_Cinematic_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-15T20:07:48+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Think Like an Attacker: Cybersecurity Tips From Cato Networks' CISO Etay Mayor, a cybersecurity strategist and professor, shares his journey, insights, and advice on breaking into the diverse and ever-evolving field of cybersecurity.",
+    "title": "Think Like an Attacker: Cybersecurity Tips From Cato Networks' CISO"
+  },
   "https://www.darkreading.com/cybersecurity-operations/encouraging-industry-voices-write-commentary-section": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteaddff6b65ae38b4/67aa4fae2d58507b08e941c4/newspaper1800_Radharc_Images_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -6083,6 +6288,15 @@
     "summary": "'Dark LLMs' Aid Petty Criminals, But Underwhelm Technically As in the wider world, AI is not quite living up to the hype in the cyber underground. But it's definitely helping low-level cybercriminals do competent work.",
     "title": "'Dark LLMs' Aid Petty Criminals, But Underwhelm Technically"
   },
+  "https://www.darkreading.com/threat-intelligence/flaw-hacktivist-ransomware-victims-decrypt-files": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5e2fc9b6ca856010/693ff9b8d94bfe50aca17cb3/Ransomware_Zoonar_GmbH_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-15T15:33:15+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Flaw in Hacktivist Ransomware Lets Victims Decrypt Own Files A new version of VolkLocker, wielded by the pro-Russia RaaS group CyberVolk, has some key enhancements but one fatal flaw.",
+    "title": "Flaw in Hacktivist Ransomware Lets Victims Decrypt Own Files"
+  },
   "https://www.darkreading.com/threat-intelligence/google-dim-lighthouse-phishing-as-a-service": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt084de9621ab17f4a/6915029e316fdac8121e22ff/thelighthouse_PictorialPressLtd_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -6208,6 +6422,15 @@
     "source": "darkreading",
     "summary": "Android Malware Mutes Alerts, Drains Crypto Wallets Android/BankBot-YNRK is currently targeting users in Indonesia by masquerading as legitimate applications.",
     "title": "Android Malware Mutes Alerts, Drains Crypto Wallets"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/apple-patches-more-zero-days-sophisticated-attack": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcdbc4ac3c2252e4c/6940657c6c509c6a93e2c0fb/ios_26_update_Ascannio_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-15T21:25:20+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Apple Patches More Zero-Days Used in 'Sophisticated' Attack Two Apple zero-day vulnerabilities discovered this month have overlap with another mysterious zero-day flaw Google patched last week.",
+    "title": "Apple Patches More Zero-Days Used in 'Sophisticated' Attack"
   },
   "https://www.darkreading.com/vulnerabilities-threats/attackers-exploited-gogs-zero-day-months": {
     "categories": [],
