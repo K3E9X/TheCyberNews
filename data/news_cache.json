@@ -1148,6 +1148,15 @@
     "summary": "A Browser Extension Risk Guide After the ShadyPanda Campaign In early December 2025, security researchers exposed a cybercrime campaign that had quietly hijacked popular Chrome and Edge browser extensions on a massive scale.\nA threat group dubbed ShadyPanda spent seven years play\u2026",
     "title": "A Browser Extension Risk Guide After the ShadyPanda Campaign"
   },
+  "https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmP5wc4kQ_fstR7DVyxpp7nwoP36IRuDO6oBSyghPEx9VCjLCy2LPOoIYBHvfUELKpnhUQTWFtfCW8RiceJj5qgDVJpptVCfGNA9eeOi0vvbPCX9FFxF-kcTRnZN49Gqw0x71mloL7e2gN-I0lW0pFIkttwupJhJp5LMWc94ozebd-Yu9k-b8CUpJvFDpY/s1600/russian.gif",
+    "published": "2025-12-16T12:27:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure Amazon's threat intelligence team has disclosed details of a \"years-long\" Russian state-sponsored campaign that targeted Western critical infrastructure between 2021 and 2025.\nTargets of the ca\u2026",
+    "title": "Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure"
+  },
   "https://thehackernews.com/2025/12/android-malware-fvncbot-seedsnatcher.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZELdaHTFQVkYr0Kyc_yx3kw6Nv6koGQwFisUkrKbPwk3IqNSmbz1ozCRktQ5xW1Ou1b5ZxjjVWcAF8rahSu23xn9UboPllWofT7elGGF6hZCZHzLpBWlXdH2fLpcTRfouUSR66iBFqHdkiu5WMdD5dLD7lyeP0y8zBUVXxXEBkPC8Jz2YVwEuvAiWGbMF/s1600/android-malware.jpg",
@@ -1229,6 +1238,15 @@
     "summary": "CISA Reports PRC Hackers Using BRICKSTORM for Long-Term Access in U.S. Systems The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday released details of a backdoor named BRICKSTORM that has been put to use by state-sponsored threat actors from the People's \u2026",
     "title": "CISA Reports PRC Hackers Using BRICKSTORM for Long-Term Access in U.S. Systems"
   },
+  "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidILz5c0w2u5MowpqpDcKaSi80yphNWTH5E6d3P9RbsKmrW49tTXLVGax2PmBg1tqbV05p_KchUWn15gqUmKNvzGPFUTa8QpmLO5zAAdT91Gcs0SbpZlMLPrf7cRmAoA_zULMCb1nIVGPp1w_yLPRclMOLJUQgH-safnADcwg3SkHT_Qfn3xbcKlDkOiub/s1600/aws.jpg",
+    "published": "2025-12-16T16:35:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign An ongoing campaign has been observed targeting Amazon Web Services (AWS) customers using compromised Identity and Access Management (IAM) credentials to enable cryptocurrency mining.\nThe activity, first detecte\u2026",
+    "title": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign"
+  },
   "https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirLapA_bU5QPCfp-MRukDEfXZXrWr6Im2qJaqg7pJ6I_5tq2aD21_Q_-9N83CCdNoZIsThs7oC2SKBLRdK0XbPh-Ork2PYk3Sp5_MGvKmVeo_IPZg_lPDq5VgF3nPj7pRIjcDNIihQG68dlzKqMed-yhg3BFKVcGO1PXUEEB4tfzlcIDXr1vDlnfvbwL8E/s1600/react2shell-exploit.jpg",
@@ -1291,6 +1309,15 @@
     "source": "The Hacker News",
     "summary": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats A Google Chrome extension with a \"Featured\" badge and six million users has been observed silently gathering every prompt entered by users into artificial intelligence (AI)-powered chatbots like Ope\u2026",
     "title": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats"
+  },
+  "https://thehackernews.com/2025/12/fortinet-fortigate-under-active-attack.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQJ_qq1hYIZDr0BJrkSi2LLidWTwFd6Hulhty9DbaKd-4PuGyZcmRDQDMyMfHj0dsS87KDoQba3ZEo7ohgSpjNCziDz5NasZQ-qleWrf5lZduSbw8Ptjx_uX_V8SgFrp4k8fUFR5mQCtFhFBeu8ykYU_dUhuW6R27KQQQk_tpDOB-DZ-XIK9gWEW2TJLdT/s1600/fortinet.jpg",
+    "published": "2025-12-16T10:58:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Fortinet FortiGate Under Active Attack Through SAML SSO Authentication Bypass Threat actors have begun to exploit two newly disclosed security flaws in Fortinet FortiGate devices, less than a week after public disclosure.\nCybersecurity company Arctic Wolf said it observed active \u2026",
+    "title": "Fortinet FortiGate Under Active Attack Through SAML SSO Authentication Bypass"
   },
   "https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html": {
     "categories": [],
@@ -1580,6 +1607,15 @@
     "summary": "React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged federal agencies to patch the recent React2Shell vulnerability by December 12, 2025, amid reports of widespr\u2026",
     "title": "React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation"
   },
+  "https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqg2tvd82cFFoP9fNpNuDszfardhiBBzcifDtDUT_i9drL-KsIC4EbSpgVNLI4HSZX6ZVfWVFzLybe34ZDzRwAnz7YSDhmr8YshApqbBV3pJhLGr2EhW-_2ygh5s80-Tpq9v8uFrPQk9ZZpZCjYqiIsY1ev-nG4YTMsHl-uF4SGEo7v5UjIkUoHp6miC4X/s1600/linux-react.jpg",
+    "published": "2025-12-16T08:21:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors The security vulnerability known as React2Shell is being exploited by threat actors to deliver malware families like KSwapDoor and ZnDoor, according to findings from Palo Alto Networks Unit 42 and NTT Security\u2026",
+    "title": "React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors"
+  },
   "https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1uVFOoC-TzuWi5Bb4KrNtzUoUwXcRYquCvI_r7-6qu1622KSN6NMDm7YV17AdFd0FF7NIko4bfmivUTNFnBkvumQvYR5Qv0VX4AUVBIQb6jSEM0ARDcEpYw2DU53Ew8dx0zQjm1kfrlBoOlrBn2NWnc3oNeyEgyGC-1pEVkF5-8tmYU4gJIciT6sopGgX/s1600/massive-ddos-attack.jpg",
@@ -1615,6 +1651,15 @@
     "source": "The Hacker News",
     "summary": "Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks Over 30 security vulnerabilities have been disclosed in various artificial intelligence (AI)-powered Integrated Development Environments (IDEs) that combine prompt injection primitives with legit\u2026",
     "title": "Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks"
+  },
+  "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia6FxrdzMepgwKkHbdQyn-9xpiZ9an3eTxENAvy8AZ8sKO43S3KW5Lum4lXXo9PU8NbrVcoTYI4pEoX6MCEJjHPgh4qk5N7wjclH_8IrY_h_2mByqU7H-e8GsRgsJeXcB9bBNDFdkFOLtmqBidpS5YLn1Jbgu4bL9I3yuG8WFT58zGVDNCua4K_6yOHUnT/s1600/nuget.jpg",
+    "published": "2025-12-16T15:39:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data Cybersecurity researchers have discovered a new malicious NuGet package that typosquats and impersonates the popular .NET tracing library and its author to sneak in a cryptocurrency wallet stealer.\nThe ma\u2026",
+    "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data"
   },
   "https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html": {
     "categories": [],
@@ -1795,6 +1840,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: USB Malware, React2Shell, WhatsApp Worms, AI IDE Bugs & More It\u2019s been a week of chaos in code and calm in headlines. A bug that broke the internet\u2019s favorite framework, hackers chasing AI tools, fake apps stealing cash, and record-breaking cyberattacks \u2014 all with\u2026",
     "title": "\u26a1 Weekly Recap: USB Malware, React2Shell, WhatsApp Worms, AI IDE Bugs & More"
+  },
+  "https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheLe0xus43fBC5WVlloIHxChsFoGH2XkRBVCinnA2bHl3CWBF3dSk16c_8SwEnq0I4PTXEn9ddR4c2zSpbtCDlvVrV4_cfw3YHZPi53COc7qWcispxF1AQ8UXYh4CPh1oRkoTg1KH6UPZjKc_Pa-C4MB3BGsqhemVAteYmXrMpp8mUlbCUxcjnt4adsdE/s1600/shift.jpg",
+    "published": "2025-12-16T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Why Data Security and Privacy Need to Start in Code AI-assisted coding and AI app generation platforms have created an unprecedented surge in software development. Companies are now facing rapid growth in both the number of applications and the pace of change within those applica\u2026",
+    "title": "Why Data Security and Privacy Need to Start in Code"
   },
   "https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html": {
     "categories": [],
@@ -2348,6 +2402,19 @@
     "summary": "Microsoft tests File Explorer preloading for faster performance Microsoft is testing a new optional feature that preloads File Explorer in the background to improve launch times on Windows 11 systems. [...]",
     "title": "Microsoft tests File Explorer preloading for faster performance"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-block-exchange-online-access-for-outdated-mobile-devices/": {
+    "categories": [
+      "Microsoft",
+      "Mobile",
+      "Software"
+    ],
+    "image": "",
+    "published": "2025-12-16T12:53:25+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft to block Exchange Online access for outdated mobile devices Microsoft announced on Monday that\u00a0it will soon block mobile devices running outdated email software from accessing Exchange Online services until they're updated. [...]",
+    "title": "Microsoft to block Exchange Online access for outdated mobile devices"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-boost-teams-performance-with-new-call-handler/": {
     "categories": [
       "Microsoft",
@@ -2672,6 +2739,18 @@
     "summary": "Alleged Meduza Stealer malware admins arrested after hacking Russian org The Russian authorities have arrested three individuals in Moscow who are\u00a0believed to be the creators and operators of the Meduza Stealer information-stealing\u00a0malware. [...]",
     "title": "Alleged Meduza Stealer malware admins arrested after hacking Russian org"
   },
+  "https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-gru-hackers-attacking-edge-network-devices/": {
+    "categories": [
+      "Security",
+      "Cloud"
+    ],
+    "image": "",
+    "published": "2025-12-16T20:13:09+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Amazon disrupts Russian GRU hackers attacking edge network devices The Amazon Threat Intelligence team has disrupted active operations attributed to hackers working for the Russian foreign military intelligence agency, the GRU, who\u00a0targeted customers' cloud infrastructure. [...]",
+    "title": "Amazon disrupts Russian GRU hackers attacking edge network devices"
+  },
   "https://www.bleepingcomputer.com/news/security/anthropic-claims-of-claude-ai-automated-cyberattacks-met-with-doubt/": {
     "categories": [
       "Security",
@@ -2807,6 +2886,18 @@
     "source": "BleepingComputer",
     "summary": "California man admits to laundering crypto stolen in $230M heist A 45-year-old from Irvine, California, has pleaded guilty to laundering at least $25 million stolen in a massive $230 million cryptocurrency heist. [...]",
     "title": "California man admits to laundering crypto stolen in $230M heist"
+  },
+  "https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/": {
+    "categories": [
+      "Security",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2025-12-16T22:59:35+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Cellik Android malware builds malicious versions from Google Play apps A new Android malware-as-a-service (MaaS) named Cellik is being advertised on underground cybercrime forums offering a robust set of capabilities that include\u00a0the option to embed it in any app available on the\u2026",
+    "title": "Cellik Android malware builds malicious versions from Google Play apps"
   },
   "https://www.bleepingcomputer.com/news/security/checkoutcom-snubs-shinyhunters-hackers-to-donate-ransom-instead/": {
     "categories": [
@@ -3085,6 +3176,17 @@
     "summary": "Cyber theory vs practice: Are you navigating with faulty instruments? Security teams rely on dashboards and data feeds, but outdated or fragmented tools leave dangerous blind spots across assets, vulnerabilities, and credentials. Learn how Outpost24's CompassDRP unifies EASM and \u2026",
     "title": "Cyber theory vs practice: Are you navigating with faulty instruments?"
   },
+  "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-venezuelan-oil-giant-pdvsas-operations/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-16T15:19:17+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Cyberattack disrupts Venezuelan oil giant PDVSA's operations Petr\u00f3leos de Venezuela (PDVSA), Venezuela's state-owned oil company, was\u00a0hit by a cyberattack over the weekend that disrupted its export operations. [...]",
+    "title": "Cyberattack disrupts Venezuelan oil giant PDVSA's operations"
+  },
   "https://www.bleepingcomputer.com/news/security/cybercrime-goes-saas-renting-tools-access-and-infrastructure/": {
     "categories": [
       "Security"
@@ -3240,6 +3342,17 @@
     "source": "BleepingComputer",
     "summary": "Eurofiber France warns of breach after hacker tries to sell customer data Eurofiber France disclosed a data breach it discovered late last week when hackers gained access to its ticket management system by exploiting a vulnerability and exfiltrated information. [...]",
     "title": "Eurofiber France warns of breach after hacker tries to sell customer data"
+  },
+  "https://www.bleepingcomputer.com/news/security/european-authorities-dismantle-call-center-fraud-ring-in-ukraine/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-16T11:44:06+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "European authorities dismantle call center fraud ring in Ukraine European law enforcement authorities dismantled a fraud network operating call centers in Ukraine that scammed victims across Europe out of more than 10 million euros. [...]",
+    "title": "European authorities dismantle call center fraud ring in Ukraine"
   },
   "https://www.bleepingcomputer.com/news/security/european-police-dismantles-600-million-crypto-investment-fraud-ring/": {
     "categories": [
@@ -3464,6 +3577,17 @@
     "source": "BleepingComputer",
     "summary": "FTC settlement requires Illuminate to delete unnecessary student data The Federal Trade Commission (FTC) is proposing that education technology provider Illuminate Education to delete unnecessary student data and improve its security to settle allegations related to an incident i\u2026",
     "title": "FTC settlement requires Illuminate to delete unnecessary student data"
+  },
+  "https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-16T22:17:46+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "GhostPoster attacks hide malicious JavaScript in Firefox addon logos A new campaign dubbed 'GhostPoster' is hiding JavaScript code in the image logo of malicious Firefox extensions counting more than\u00a050,000 downloads, to monitor browser activity and plant a backdoor. [...]",
+    "title": "GhostPoster attacks hide malicious JavaScript in Firefox addon logos"
   },
   "https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-in-third-wave-of-malicious-vs-code-packages/": {
     "categories": [
@@ -3717,6 +3841,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks Hackers are exploiting a new, undocumented vulnerability in the implementation of the cryptographic algorithm present in\u00a0Gladinet's CentreStack and Triofox products for secure remote file access and sharing. [\u2026",
     "title": "Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-16T15:57:34+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit newly patched Fortinet auth bypass flaws Hackers are exploiting critical-severity vulnerabilities affecting multiple Fortinet products to get unauthorized access to admin accounts\u00a0and steal system configuration files. [...]",
+    "title": "Hackers exploit newly patched Fortinet auth bypass flaws"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-post-smtp-to-hijack-admin-accounts/": {
     "categories": [
@@ -4928,6 +5063,17 @@
     "summary": "Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland Synology has addressed a critical-severity remote code execution (RCE) vulnerability in BeeStation products that was demonstrated at the recent Pwn2Own hacking competition. [...]",
     "title": "Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland"
   },
+  "https://www.bleepingcomputer.com/news/security/texas-sues-tv-makers-for-spying-on-users-selling-data-without-consent/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-16T17:29:22+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Texas sues TV makers for taking screenshots of what people watch The Texas Attorney General sued five major television manufacturers, accusing them of illegally collecting their users' data by secretly recording what they watch using Automated Content Recognition (ACR) technology\u2026",
+    "title": "Texas sues TV makers for taking screenshots of what people watch"
+  },
   "https://www.bleepingcomputer.com/news/security/the-black-friday-2025-cybersecurity-it-vpn-and-antivirus-deals/": {
     "categories": [
       "Security"
@@ -4937,6 +5083,17 @@
     "source": "BleepingComputer",
     "summary": "The Black Friday 2025 Cybersecurity, IT, VPN, & Antivirus Deals Black Friday 2025 is almost here, and early deals are already live across security software, online courses, system administration tools, antivirus products, and VPN services. These discounts are limited-time offers \u2026",
     "title": "The Black Friday 2025 Cybersecurity, IT, VPN, & Antivirus Deals"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-hidden-risk-in-virtualization-why-hypervisors-are-a-ransomware-magnet/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-16T15:01:11+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "The Hidden Risk in Virtualization: Why Hypervisors are a Ransomware Magnet Ransomware groups are targeting hypervisors to maximize impact, allowing a single breach to encrypt dozens of virtual machines at once. Drawing on real-world incident data, Huntress explains how attackers \u2026",
+    "title": "The Hidden Risk in Virtualization: Why Hypervisors are a Ransomware Magnet"
   },
   "https://www.bleepingcomputer.com/news/security/the-hidden-risks-in-your-devops-stack-data-and-how-to-address-them/": {
     "categories": [
@@ -5591,6 +5748,15 @@
     "summary": "Switching to Offense: US Makes Cyber Strategy Changes The US national cyber director describes the next cyber strategy as focusing &quot;on shaping adversary behavior,&quot; adding consequences and aggressive response.",
     "title": "Switching to Offense: US Makes Cyber Strategy Changes"
   },
+  "https://www.darkreading.com/cyber-risk/venezuela-oil-company-downplays-alleged-us-cyberattack": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd0111aeb490516bb/6941bc2856dc8ae66afb9c65/oil_PX_Media_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-16T20:33:16+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Venezuelan Oil Company Downplays Alleged US Cyberattack But media reports described the attack as causing major disruption to PDVSA, the state-owned oil and natural gas company.",
+    "title": "Venezuelan Oil Company Downplays Alleged US Cyberattack"
+  },
   "https://www.darkreading.com/cyber-risk/why-an-engineering-focused-ciso-can-be-a-liability": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9d232a31f5187e5/667f1e12628e435b221eb306/CISO(1800)-ronstik-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -5892,6 +6058,15 @@
     "summary": "With AI Reshaping Entry-Level Cyber, What Happens to the Security Talent Pipeline? Automation is rewriting early-career cybersecurity work, raising urgent questions about how the next generation of security professionals will gain real-world expertise.",
     "title": "With AI Reshaping Entry-Level Cyber, What Happens to the Security Talent Pipeline?"
   },
+  "https://www.darkreading.com/cybersecurity-operations/afripol-focuses-regional-cyber-challenges-deepening-cooperation": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb4c65d47c0d24849/6941c932211d3e71d9e91c27/white-rhinos-in-africa-Jurgens_Potgieter-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-17T07:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Afripol Focuses on Regional Cyber Challenges, Deepening Cooperation Rapid digitization, uneven cybersecurity know-how, and growing cybercriminal syndicates in the region have challenged law enforcement and prosecutors.",
+    "title": "Afripol Focuses on Regional Cyber Challenges, Deepening Cooperation"
+  },
   "https://www.darkreading.com/cybersecurity-operations/ai-app-spending-report-where-are-the-security-tools": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd35a728164a4ad4e/690b4e9f54a40e4257e52830/tag-counts-a16z-startup-data.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -5983,6 +6158,15 @@
     "source": "darkreading",
     "summary": "Encouraging Industry Voices to Write for the Commentary Section Dark Reading will continue to publish Tech Talks and Ask the Expert pieces in the Commentary section. Read on for submission guidelines.",
     "title": "Encouraging Industry Voices to Write for the Commentary Section"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/enterprises-gear-up-for-2026-s-it-transformation": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfa4c41f44ed24beb/694178ba7befa1d6f4d34b5d/2PFFRNK.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-16T15:08:23+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Enterprises Gear Up for 2026\u2019s IT Transformation Experts predict big changes are coming for IT infrastructure in 2026 driven by AI adoption, hybrid cloud strategies, and evolving security demands.",
+    "title": "Enterprises Gear Up for 2026\u2019s IT Transformation"
   },
   "https://www.darkreading.com/cybersecurity-operations/gen-z-cybersecurity-jury-out-ai-impact": {
     "categories": [],
@@ -6115,6 +6299,15 @@
     "summary": "Chinese APT Infects Routers to Hijack Software Updates A unique take on the software update gambit has allowed &quot;PlushDaemon&quot; to evade attention as it mostly targets Chinese organizations.",
     "title": "Chinese APT Infects Routers to Hijack Software Updates"
   },
+  "https://www.darkreading.com/endpoint-security/chrome-extension-harvests-ai-chatbot-data": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltba1987b2ca4c6520/694159ba2b8805a3565a256e/chatgpt(1800)_AlexPhotoStock_alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-16T16:14:01+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Browser Extension Harvests 8M Users' AI Chatbot Data Urban VPN Proxy, which claims to protect users' privacy, collects data from conversations with ChatGPT, Claude, Gemini, Copilot and other AI assistants.",
+    "title": "Browser Extension Harvests 8M Users' AI Chatbot Data"
+  },
   "https://www.darkreading.com/endpoint-security/phishing-tool-smart-redirects-bypass-email-security": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98884564c2bf29aa/691469edee009931fb7ff9f1/Phishing_ronstik_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -6130,6 +6323,15 @@
     "source": "darkreading",
     "summary": "Pro-Russian Hackers Use Linux VMs to Hide in Windows A threat actor known as &quot;Curly COMrades&quot; is using Linux VMs to remain undetected in Windows environments while conducting Russia-aligned activities.",
     "title": "Pro-Russian Hackers Use Linux VMs to Hide in Windows"
+  },
+  "https://www.darkreading.com/endpoint-security/russian-apt-attacking-critical-orgs-around-world": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt47b4d1dde2682938/6941a3996cae432a8977fe0f/power_plant_David_R_Frazier_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-16T20:03:15+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Russia Hits Critical Orgs Via Misconfigured Edge Devices Amazon detailed a long-running campaign by Russia against critical infrastructure organizations, particularly in the energy sector.",
+    "title": "Russia Hits Critical Orgs Via Misconfigured Edge Devices"
   },
   "https://www.darkreading.com/endpoint-security/shadypanda-hackers-weaponize-browsers": {
     "categories": [],
