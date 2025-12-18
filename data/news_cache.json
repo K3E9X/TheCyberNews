@@ -1175,6 +1175,15 @@
     "summary": "Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild Apple on Friday released security updates for iOS, iPadOS, macOS, tvOS, watchOS, visionOS, and its Safari web browser to address two security flaws that it said have been exploited in the wild, one o\u2026",
     "title": "Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild"
   },
+  "https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQLzd6YnWyQ56Xbt_HlhI75xek4Jz48-N00eU2I6DGqA6KBmlo-vE932Zz6ASRHE9KetD1kl8j4_5BoGhhYRNWFFyamUMFWugIxQ9YIAx1ZLsXqqqYz7-tiAcSIAz1H5mmzZtqnCRlSB4aksTWjZ_jWIVBp9F4J60tOrVZyKBr1DHILd5o7y8DLmINuWHO/s1600/action.jpg",
+    "published": "2025-12-17T15:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign The Russian state-sponsored threat actor known as APT28 has been attributed to what has been described as a \"sustained\" credential-harvesting campaign targeting users of UKR[.]net, a webmail and ne\u2026",
+    "title": "APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign"
+  },
   "https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaXJGSuca7TOkhpzQSqTtJJWkuBbFzjkm6UDnl04TARRIVqKOvnJmtLCysj9BEt7zm7QmU8RZMFjwiGnVOQUKIxvVle841t-4dv7YGs8Rx4qo9cvYQApnnJnAhmG419Xy-d0_nI8URsb8IQpXQpfBFD5nlOiADT0Mp0ZW0Ze-rxNvgCuQIAGTgNZovCBTN/s1600/brazil-malware.jpg",
@@ -1183,6 +1192,15 @@
     "source": "The Hacker News",
     "summary": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud The threat actor known as Water Saci is actively evolving its tactics, switching to a sophisticated, highly layered infection chain that uses HTML Application (HTA) files and PDFs to propagate via \u2026",
     "title": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud"
+  },
+  "https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBqWp3MxMTIJGzJ80yzXzhZCQc_ohjdhk1BJaVaIWvIQgGba88Xra_FRs2FH4JFse3UIBgw9gtP0TinJmcYKJJm_gol3V0OVgNCiJc61rCvRfcLDXv0RFp9h8PluVcWQhNswpfkch27yK9eUcUek1DN2Rw39UroiwJfTaX8SdYv-Dld7upAcKnDV4l1VnI/s1600/cpcp.jpg",
+    "published": "2025-12-17T11:12:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware The threat actor known as Jewelbug has been increasingly focusing on government targets in Europe since July 2025, even as it continues to attack entities located in Southeast Asia and South America.\u2026",
+    "title": "China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware"
   },
   "https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html": {
     "categories": [],
@@ -1229,6 +1247,15 @@
     "summary": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting OSGeo GeoServer to its Known Exploited Vulnerabilities (KEV) catalog, based on eviden\u2026",
     "title": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog"
   },
+  "https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEictGhjT_9OZJTuEYOqE7telpBLN4MwLPN-_JQ47nzM7kRB30tNAxJZTj9G4_et941pBqOhHYsMelUkkFuHr4YpaSePmF2yI9HlFtjucfPOrUBLygp2yn9Si1RTNOhFOwXOD1i4R1pn7tF5wF5tTWCt6yOHKOzogpgTJKsnLqPMZeqSei3woebqNCrukUTm/s1600/asus-update.jpg",
+    "published": "2025-12-18T05:01:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting ASUS Live Update to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of \u2026",
+    "title": "CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation"
+  },
   "https://thehackernews.com/2025/12/cisa-reports-prc-hackers-using.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjagp4sr3aHhUYdEa6MEO7S5AaVubzpKfuFL9-Zkuv_GjyxT74q_4XA3gAM8xjQdWW8KfgCy2D81j9NoUB0aZI5IK1ciYxf-JFvZiBFVyEsXaxXIuh2mMbqyPGLJcdZxO-XpdxaF4-lbCzdl9f6xgxJABV4uBvxytMfCwLUmEHmyPfhkGF4z2BZiMNhYlbx/s1600/chinese-hackers.jpg",
@@ -1237,6 +1264,15 @@
     "source": "The Hacker News",
     "summary": "CISA Reports PRC Hackers Using BRICKSTORM for Long-Term Access in U.S. Systems The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday released details of a backdoor named BRICKSTORM that has been put to use by state-sponsored threat actors from the People's \u2026",
     "title": "CISA Reports PRC Hackers Using BRICKSTORM for Long-Term Access in U.S. Systems"
+  },
+  "https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpjMjZETJCJzsn3zNMvhFcueq4Jg-O7GD4cD5JoRzRRlP5TeeoxTkjVNrFJsNM1AGDrsTu6cTS21FhA5IeCIFA8lv1T7T2tzKp7gax2Iqkuw2NQ62cIdlsRPoRuLZLieDm1CvaNg688pPbY0k50cG2RbDWWtv_GvAGfAFtJwJ_r43qsp42vNdJ8YPvrmL-/s1600/cisco.jpg",
+    "published": "2025-12-18T04:10:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances Cisco has alerted users to a maximum-severity zero-day flaw in Cisco AsyncOS software that has been actively exploited by a China-nexus advanced persistent threat (APT) actor codenamed U\u2026",
+    "title": "Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances"
   },
   "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html": {
     "categories": [],
@@ -1310,6 +1346,15 @@
     "summary": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats A Google Chrome extension with a \"Featured\" badge and six million users has been observed silently gathering every prompt entered by users into artificial intelligence (AI)-powered chatbots like Ope\u2026",
     "title": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats"
   },
+  "https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiglAo-MBBYaWayNY0Hzg8QFcOCw_ylI8JM8RcOED0_buLBNU32LM_ftRfE_rS9VknflDViF5hMZsAI4jzWvAemNsTcL71ICA1dAneg-gBrrb3j98XsCSyuLFFCU2QScf0Uw6WhhdQHntSHOnscMG4bXidDQiU4lq0Nv5zlvnHSyctJqHOFCARwGjPXuHk/s1600/anyrun.jpg",
+    "published": "2025-12-17T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time Modern security teams often feel like they\u2019re driving through fog with failing headlights. Threats accelerate, alerts multiply, and SOCs struggle to understand which dangers matter right now for their busine\u2026",
+    "title": "Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time"
+  },
   "https://thehackernews.com/2025/12/fortinet-fortigate-under-active-attack.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQJ_qq1hYIZDr0BJrkSi2LLidWTwFd6Hulhty9DbaKd-4PuGyZcmRDQDMyMfHj0dsS87KDoQba3ZEo7ohgSpjNCziDz5NasZQ-qleWrf5lZduSbw8Ptjx_uX_V8SgFrp4k8fUFR5mQCtFhFBeu8ykYU_dUhuW6R27KQQQk_tpDOB-DZ-XIK9gWEW2TJLdT/s1600/fortinet.jpg",
@@ -1354,6 +1399,15 @@
     "source": "The Hacker News",
     "summary": "\"Getting to Yes\": An Anti-Sales Guide for MSPs Most MSPs and MSSPs know how to deliver effective security. The challenge is helping prospects understand why it matters in business terms. Too often, sales conversations stall because prospects are overwhelmed, skeptical, or tired o\u2026",
     "title": "\"Getting to Yes\": An Anti-Sales Guide for MSPs"
+  },
+  "https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSvPHdkrpjZsxg3pztc2gN7T9O0W5B1C3B6v7G-ep4OPWtLats1XsDkFfgorwPpwIwHAanQiLirNnsFMYVh0BrLu8Y_c6LjGbTHefFNAHFgDJ9hM-Iv7LI81eXSxjO8mz1tmAny6Bif9UNwSQaFrBvIGGPDFmB1Eon3nW1NYYvwaD5tY15ItYCa0RmMZs-/s1600/firefox.jpg",
+    "published": "2025-12-17T08:14:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads A new campaign named GhostPoster has leveraged logo files associated with 17 Mozilla Firefox browser add-ons to embed malicious JavaScript code designed to hijack affiliate links, inject tracking code, and com\u2026",
+    "title": "GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads"
   },
   "https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html": {
     "categories": [],
@@ -1472,6 +1526,15 @@
     "summary": "JPCERT Confirms Active Command Injection Attacks on Array AG Gateways A command injection vulnerability in Array Networks AG Series secure access gateways has been exploited in the wild since August 2025, according to an alert issued by JPCERT/CC this week.\nThe vulnerability, whi\u2026",
     "title": "JPCERT Confirms Active Command Injection Attacks on Array AG Gateways"
   },
+  "https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6-q5Xa6KgWXYqaE_Gb7hCK-lfm5MRlkicK1xFVL8HwS5-jHv0MAY5YYAyTmuRfITo4hEjKmhAnfXMpWLSpqS5jQkSMFVw2DSPnu_CvTCpwTrFBUwN_wWoPF8NqrPJo7GR7cUYEQ4AIz339JY4MqyGx6OZk7GQih_fGBPu9S5RrYPXSMRbnRHuJnhNEQa5/s1600/android-tvs.jpg",
+    "published": "2025-12-17T18:09:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks A new distributed denial-of-service (DDoS) botnet known as Kimwolf has enlisted a massive army of no less than 1.8 million infected devices comprising Android-based TVs, set-top boxes, and tablets, \u2026",
+    "title": "Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks"
+  },
   "https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHabnhsQfG5UWJxvjr_CamwUUNzSMserMPut6dCPHREQa15ZWQKOerf9z7kb1N5sF1d8Zco2cQXERN2SX2mxyVJdv7GFBQ1EVqghjYSApOuu9vZcjLaDnM0HkvkN9dtSTOpn5sERm1ykhFGPWk2vzlEioWpXAZiLJFaNyopN6JFdLHml-516yPUh0f5VPp/s1600/npm-mal.jpg",
@@ -1552,6 +1615,15 @@
     "source": "The Hacker News",
     "summary": "New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control A new Android malware named Albiriox has been advertised under a malware-as-a-service (MaaS) model to offer a \"full spectrum\" of features to facilitate on-device fraud (ODF), screen manipulation, a\u2026",
     "title": "New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control"
+  },
+  "https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiov02Hir3n9ONPKRPyGJ5w_YYyqS6kxqhe2VXSqr3ygQOj5xZn8llZI9YbUgM1ups321geaVj2vlJ6wolU0byZi5XzE1E38f8x42ZjzlcRfLsixdFin2PVWGxleHHa_ESlMNo7Zhq11PVraCIkAylXOhVV_Ez2eZSSx6sfkZ0iZK2nx0J_ERgOkuHbHFY4/s1600/ops.jpg",
+    "published": "2025-12-17T14:54:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails The threat actor linked to Operation ForumTroll has been attributed to a fresh set of phishing attacks targeting individuals within Russia, according to Kaspersky.\nThe Russian cybersecurity vendor \u2026",
+    "title": "New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails"
   },
   "https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html": {
     "categories": [],
@@ -1705,6 +1777,15 @@
     "source": "The Hacker News",
     "summary": "Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks A critical security flaw in the Sneeit Framework plugin for WordPress is being actively exploited in the wild, per data from Wordfence.\nThe remote code execution vulnerability in question\u2026",
     "title": "Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks"
+  },
+  "https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOyrg8g1G4OnVQ36TFxAz4aVSNLSYRl241I2Ai7LGLTf0mkviQL2ZhBpoQRKS-lb3lRuwQJKKEeAfNVzzujNLnZzQEseWLaeoiSmUfbmUCdhaw6w4tJXr2uFCtvqgptfsQ7THnLXNvcIBz94pa0ge6SEKZ3WuOL18fufKJKRKTKP0Xt8YjDugU6930oPg4/s1600/sonicwall.jpg",
+    "published": "2025-12-17T18:17:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances SonicWall has rolled out fixes to address a security flaw in Secure Mobile Access (SMA) 100 series appliances that it said has been actively exploited in the wild.\nThe vulnerability, tracked as CVE-2025-40602\u2026",
+    "title": "SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances"
   },
   "https://thehackernews.com/2025/12/stac6565-targets-canada-in-80-of.html": {
     "categories": [],
@@ -2099,6 +2180,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses Microsoft said today that the Aisuru botnet hit its Azure network with a 15.72 terabits per second (Tbps) DDoS attack, launched from over 500,000 IP addresses. [...]",
     "title": "Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2025-12-17T12:30:32+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft asks admins to reach out for Windows IIS failures fix Microsoft has asked\u00a0businesses to reach out for advice on how to temporarily\u00a0mitigate a Message Queuing (MSMQ)\u00a0issue causing\u00a0enterprise apps and Internet Information Services (IIS) sites to fail. [...]",
+    "title": "Microsoft asks admins to reach out for Windows IIS failures fix"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-bounty-program-now-includes-any-flaw-impacting-its-services/": {
     "categories": [
@@ -2751,6 +2843,19 @@
     "summary": "Amazon disrupts Russian GRU hackers attacking edge network devices The Amazon Threat Intelligence team has disrupted active operations attributed to hackers working for the Russian foreign military intelligence agency, the GRU, who\u00a0targeted customers' cloud infrastructure. [...]",
     "title": "Amazon disrupts Russian GRU hackers attacking edge network devices"
   },
+  "https://www.bleepingcomputer.com/news/security/amazon-ongoing-cryptomining-campaign-uses-hacked-aws-accounts/": {
+    "categories": [
+      "Security",
+      "Cloud",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2025-12-17T21:48:33+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Amazon: Ongoing cryptomining campaign uses hacked AWS accounts Amazon's AWS GuardDuty security team is warning of\u00a0an ongoing crypto-mining campaign that targets its\u00a0Elastic Compute Cloud\u00a0(EC2) and Elastic Container Service (ECS) using compromised credentials for Identity and Acce\u2026",
+    "title": "Amazon: Ongoing cryptomining campaign uses hacked AWS accounts"
+  },
   "https://www.bleepingcomputer.com/news/security/anthropic-claims-of-claude-ai-automated-cyberattacks-met-with-doubt/": {
     "categories": [
       "Security",
@@ -3030,6 +3135,17 @@
     "summary": "Cisco: Actively exploited firewall flaws now abused for DoS attacks Cisco warned this week that\u00a0two vulnerabilities, which have been exploited in zero-day attacks,\u00a0are now being abused to force ASA and FTD firewalls into\u00a0reboot loops. [...]",
     "title": "Cisco: Actively exploited firewall flaws now abused for DoS attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-17T18:45:36+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Cisco warns of unpatched AsyncOS zero-day exploited in attacks \u200bCisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) appliances. [...]",
+    "title": "Cisco warns of unpatched AsyncOS zero-day exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-update-screen-to-push-malware/": {
     "categories": [
       "Security"
@@ -3144,6 +3260,17 @@
     "source": "BleepingComputer",
     "summary": "Critical flaw in WordPress add-on for Elementor exploited in attacks Attackers are exploiting a critical-severity privilege escalation vulnerability (CVE-2025-8489) in the King Addons for Elementor plugin for WordPress, which lets them obtain\u00a0administrative permissions during the\u2026",
     "title": "Critical flaw in WordPress add-on for Elementor exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-17T16:09:51+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Critical React2Shell flaw exploited in ransomware attacks A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later. [...]",
+    "title": "Critical React2Shell flaw exploited in ransomware attacks"
   },
   "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/": {
     "categories": [
@@ -3511,6 +3638,17 @@
     "source": "BleepingComputer",
     "summary": "Fortinet FortiWeb flaw with public PoC exploited to create admin users A Fortinet FortiWeb path traversal vulnerability is being actively exploited to create new administrative users on exposed devices without requiring authentication [...]",
     "title": "Fortinet FortiWeb flaw with public PoC exploited to create admin users"
+  },
+  "https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-17T22:20:02+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "France arrests suspect tied to cyberattack on Interior Ministry French authorities arrested a 22-year-old suspect on Tuesday for a cyberattack that targeted France's Ministry of the Interior earlier this month. [...]",
+    "title": "France arrests suspect tied to cyberattack on Interior Ministry"
   },
   "https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/": {
     "categories": [
@@ -5019,6 +5157,17 @@
     "summary": "SonicWall says state-sponsored hackers behind September security breach SonicWall's investigation into the September security breach that exposed customers'\u00a0firewall configuration backup files concludes that state-sponsored hackers were behind the attack. [...]",
     "title": "SonicWall says state-sponsored hackers behind September security breach"
   },
+  "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-17T17:44:18+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Sonicwall warns of new SMA1000 zero-day exploited in attacks SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges. [...]",
+    "title": "Sonicwall warns of new SMA1000 zero-day exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/": {
     "categories": [
       "Security"
@@ -5334,6 +5483,17 @@
     "summary": "WhatsApp API flaw let researchers scrape 3.5 billion accounts Researchers compiled a list of 3.5 billion WhatsApp mobile phone numbers and associated personal information by abusing a contact-discovery API that lacked rate limiting. [...]",
     "title": "WhatsApp API flaw let researchers scrape 3.5 billion accounts"
   },
+  "https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-17T19:14:30+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "WhatsApp device linking abused in account hijacking attacks Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing. [...]",
+    "title": "WhatsApp device linking abused in account hijacking attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/when-hackers-wear-suits-protecting-your-team-from-insider-cyber-threats/": {
     "categories": [
       "Security"
@@ -5394,6 +5554,29 @@
     "source": "BleepingComputer",
     "summary": "Year-end approaches: How to maximize your cyber spend Year-end budgeting is the perfect time to close real security gaps by strengthening identity controls, reducing redundant tools, and investing in outcome-driven engagements. The article highlights how targeting credential risk\u2026",
     "title": "Year-end approaches: How to maximize your cyber spend"
+  },
+  "https://www.bleepingcomputer.com/news/security/your-mfa-is-costing-you-millions-it-doesnt-have-to/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-17T14:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Your MFA Is Costing You Millions. It Doesn't Have To. Passwords and app-based MFA add hidden costs through lost productivity, frequent resets, and risk of phishing and social engineering attacks. Token explains how wireless biometric, passwordless authentication eliminates creden\u2026",
+    "title": "Your MFA Is Costing You Millions. It Doesn't Have To."
+  },
+  "https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/": {
+    "categories": [
+      "Security",
+      "Cloud"
+    ],
+    "image": "",
+    "published": "2025-12-17T23:09:36+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Zeroday Cloud hacking event awards $320,0000 for 11 zero days The Zeroday Cloud hacking competition in London has awarded researchers\u00a0$320,000 for demonstrating critical remote code execution vulnerabilities in components used in cloud infrastructure. [...]",
+    "title": "Zeroday Cloud hacking event awards $320,0000 for 11 zero days"
   },
   "https://www.bleepingcomputer.com/news/software/thunderbird-adds-native-support-for-microsoft-exchange-accounts/": {
     "categories": [
@@ -5642,6 +5825,15 @@
     "summary": "Vibe Coding: Innovation Demands Vigilance Unmanaged coding is indeed an alluring idea, but can introduce a host of significant cybersecurity dangers, Constantine warns.",
     "title": "Vibe Coding: Innovation Demands Vigilance"
   },
+  "https://www.darkreading.com/cloud-security/attackers-use-stolen-aws-credentials-cryptomining": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3a236ccff7c67f78/6942a53e8e60df1b35afc905/Cryptocurrency_Klaus_Ohlenschlaeger_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-17T16:33:22+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Attackers Use Stolen AWS Credentials in Cryptomining Campaign Threat actors wielding stolen AWS Identity and Access Management (IAM) credentials leverage Amazon EC and EC2 infrastructure across multiple customer environments.",
+    "title": "Attackers Use Stolen AWS Credentials in Cryptomining Campaign"
+  },
   "https://www.darkreading.com/cyber-risk/ai-agents-going-rogue": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c003bbc98535214/690d2d9cb7095674342285e7/rogue_AO_bot_Chris_Light_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -5841,6 +6033,15 @@
     "summary": "Coyote, Maverick Banking Trojans Run Rampant in Brazil South America's largest country is notorious for banking malware attacks; Maverick self-terminates if its targeted user is based outside Brazil.",
     "title": "Coyote, Maverick Banking Trojans Run Rampant in Brazil"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltea71f8d1af7d66d2/69431a40bbf9070edf9e7a71/fortinet_T._Schneider_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-17T22:44:38+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Critical Fortinet Flaws Under Active Attack Attackers targeted admin accounts, and once authenticated, exported device configurations including hashed credentials and other sensitive information.",
+    "title": "Critical Fortinet Flaws Under Active Attack"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/digital-fraud-industrial-scale-2025": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte55409a6550edb64/692733d90d20b45f1cb67c8d/fraud_Quality_Pixel_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -6032,6 +6233,15 @@
     "source": "darkreading",
     "summary": "Vision Language Models Keep an Eye on Physical Security Advancements in vision language models expanded models reasoning capabilities to help protect employee safety.",
     "title": "Vision Language Models Keep an Eye on Physical Security"
+  },
+  "https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8497ff5ba464f933/6943172f8d0bea2fbc0e4978/AI_apps_hacker-Matt_Fowler-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-17T22:01:58+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "In Cybersecurity, Claude Leaves Other LLMs in the Dust Anthropic proves that LLMs can be fairly resistant to abuse. Most developers are either incapable of building safer tools, or unwilling to invest in doing so.",
+    "title": "In Cybersecurity, Claude Leaves Other LLMs in the Dust"
   },
   "https://www.darkreading.com/cybersecurity-analytics/how-agentic-ai-can-boost-cyber-defense": {
     "categories": [],
@@ -6282,6 +6492,15 @@
     "summary": "US Stands Out in Refusal to Sign UN Cybercrime Treaty The agreement aims to help law enforcement prosecute cross-border cybercrime, but the final treaty could allow unchecked surveillance and human-rights abuses, critics say; and, it includes no protection for pen testers.",
     "title": "US Stands Out in Refusal to Sign UN Cybercrime Treaty"
   },
+  "https://www.darkreading.com/cybersecurity-operations/why-you-should-train-your-soc-like-triathlete": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0ddc5f78fbb40924/694299f6211d3e3993e91d11/racing-H18PDW_Photography-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-16T22:20:33+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Why You Should Train Your SOC Like a Triathlete The key elements in a security operations center's strategy map very closely to the swim/bike/run events in a triathlon. SOCs, like triathletes, perform well when their &quot;inputs&quot; are strong.",
+    "title": "Why You Should Train Your SOC Like a Triathlete"
+  },
   "https://www.darkreading.com/data-privacy/while-ech-adoption-is-low-risks-remain-for-enterprises-end-users": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcc6a66d8e943cf24/692fdcf7d2834637bd079948/blindfold-HA_Photos-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -6482,6 +6701,15 @@
     "summary": "'Broadside' Mirai Variant Targets Maritime Logistics Sector &quot;Broadside&quot; is targeting a critical flaw in DVR systems to conduct command injection attacks, which can hijack devices to achieve persistence and move laterally.",
     "title": "'Broadside' Mirai Variant Targets Maritime Logistics Sector"
   },
+  "https://www.darkreading.com/threat-intelligence/cellik-android-rat-leverages-google-play-store": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltae6cc546088441dc/694308b02971fdc120a5e4f2/mouse_trap_phone_Igor_Sarozhkov_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-17T21:38:50+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "'Cellik' Android RAT Leverages Google Play Store The remote access Trojan lets an attacker remotely control a victim's phone and can generate malicious apps from inside the Play Store.",
+    "title": "'Cellik' Android RAT Leverages Google Play Store"
+  },
   "https://www.darkreading.com/threat-intelligence/dark-llms-petty-criminals": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfe2f0b22851444aa/692724ce78ef59f0d2f22646/WormGPT-Palo_Alto_Networks_Unit_42.png?width=1280&auto=webp&quality=80&disable=upscale",
@@ -6609,6 +6837,15 @@
     "source": "darkreading",
     "summary": "WhatsApp 'Eternidade' Trojan Self-Propagates Through Brazil The infostealer specifically targets Brazilian Portuguese speakers and combines malware designed to phish banking credentials and steal data, a worm, and some uniquely Brazilian quirks.",
     "title": "WhatsApp 'Eternidade' Trojan Self-Propagates Through Brazil"
+  },
+  "https://www.darkreading.com/threat-intelligence/why-17-year-old-built-ai-expose-deepfake-maps": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2d9897d9b1105f2b/6722faa87389342f93c5f1be/deepfake-mike-adobestock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-16T22:53:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Why a 17-Year-Old Built an AI Model to Expose Deepfake Maps A high-school student is tackling the overlooked risk of AI-generated satellite imagery that could mislead governments and emergency responders.",
+    "title": "Why a 17-Year-Old Built an AI Model to Expose Deepfake Maps"
   },
   "https://www.darkreading.com/vulnerabilities-threats/18-year-old-codebase-left-smart-buildings-wide-open": {
     "categories": [],
