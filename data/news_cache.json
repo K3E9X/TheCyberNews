@@ -1193,6 +1193,15 @@
     "summary": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud The threat actor known as Water Saci is actively evolving its tactics, switching to a sophisticated, highly layered infection chain that uses HTML Application (HTA) files and PDFs to propagate via \u2026",
     "title": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud"
   },
+  "https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJfevEjiw45l8FjqjN4eMMwYTeqYN2gxYbOh_-KfWdfb01nRTY2z1Qa0FQkQr6wLEeHJIvzIeqTKjynV1U01qxNNV3XhJbxkMYJnQflKTRgkdFsRezoOlVq_XVGOCq1aIh57xMt8xSUQeVLx3Mvyn0fZORpICrNdkRDbbmgVmqXnMMHzIw9_WsAM4MO_As/s1600/chinese-hackers.jpg",
+    "published": "2025-12-18T17:34:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware A previously undocumented China-aligned threat cluster dubbed LongNosedGoblin has been attributed to a series of cyber attacks targeting governmental entities in Southeast Asia and Japan.\nThe end goa\u2026",
+    "title": "China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware"
+  },
   "https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBqWp3MxMTIJGzJ80yzXzhZCQc_ohjdhk1BJaVaIWvIQgGba88Xra_FRs2FH4JFse3UIBgw9gtP0TinJmcYKJJm_gol3V0OVgNCiJc61rCvRfcLDXv0RFp9h8PluVcWQhNswpfkch27yK9eUcUek1DN2Rw39UroiwJfTaX8SdYv-Dld7upAcKnDV4l1VnI/s1600/cpcp.jpg",
@@ -1481,6 +1490,15 @@
     "summary": "How to Streamline Zero Trust Using the Shared Signals Framework Zero Trust helps organizations shrink their attack surface and respond to threats faster, but many still struggle to implement it because their security tools don\u2019t share signals reliably. 88% of organizations admit \u2026",
     "title": "How to Streamline Zero Trust Using the Shared Signals Framework"
   },
+  "https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH806nHTdXt51O7PVip7PNV2XCDB4KCOygYB69A4vwOOjVyK1B_3cNesAvljNSzuj-lAmCe8AgIgrwQtK7fuOckkB4hj1QQ-tYq4OI8lrvsz30cNzfjrOF8b5qiT_wEpAlsvEGa68zHG0dtl2CZK6hz7MpW-W6ZlPRgj7PGMIa-n38VlwbOhHfip4cTTrY/s1600/hpe.jpg",
+    "published": "2025-12-18T14:39:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in remote code execution.\nThe critical vulnerability, ass\u2026",
+    "title": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution"
+  },
   "https://thehackernews.com/2025/12/india-orders-messaging-apps-to-work.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW5V9zIXz0yEWJ5vdZLEwaeXiwkUb61vkrjHH1aYKIQ7uLnBxnaczfZ2saDpBrY468ov_AduMQFVmMwbfbpEpuZTLbCXHC6z0LROb6wRnc0vMb2gHl_JC1huwaEfpFtrjRTZjU7W5sdzRQ5DtApUByf_1c-JaHuYWgi3IOx7fMoQmfCUPZhIYsQvngrXaf/s1600/whatsapp-sim.jpg",
@@ -1525,6 +1543,15 @@
     "source": "The Hacker News",
     "summary": "JPCERT Confirms Active Command Injection Attacks on Array AG Gateways A command injection vulnerability in Array Networks AG Series secure access gateways has been exploited in the wild since August 2025, according to an alert issued by JPCERT/CC this week.\nThe vulnerability, whi\u2026",
     "title": "JPCERT Confirms Active Command Injection Attacks on Array AG Gateways"
+  },
+  "https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXfvLiKFsryuDZrfr2qiAYePwlVAsyejJM2t1Z_kDfiC3UESmR-QuVtIsdDQxuak0MBFgJg6k5RVzWmR5nBCJ3RSuqfCB1XgWie0qQow6mg3DhBx5E5sjd9zWtfPc5FnXt4omgsICqKhlMl5Lr-mbvKj-KDQhSR6g0Xho1Myzphu9uWYYJujfZRUxTMYMU/s1600/android-qr-code.jpg",
+    "published": "2025-12-18T07:43:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App The North Korean threat actor known as Kimsuky has been linked to a new campaign that distributes a new variant of Android malware called DocSwap via QR codes hosted on phishing sites mimicking Seoul-b\u2026",
+    "title": "Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App"
   },
   "https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html": {
     "categories": [],
@@ -1642,6 +1669,15 @@
     "source": "The Hacker News",
     "summary": "North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware Threat actors with ties to North Korea have likely become the latest to exploit the recently disclosed critical security React2Shell flaw in React Server Components (RSC) to deliver a previously undocume\u2026",
     "title": "North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware"
+  },
+  "https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHTdmzsADACELwHA_CbIZVsam4MNGitGEgbHD2jOysPFLnZerWmRSZtTJzSkOJagPS8pmFni0SE8Jp63CEMJFDTjnNx51ND6Px3RCC5W37i61m_PrgB7T5KoghRqtVCvy6A0Bx4LVnZFEm8CijNS2RxOlxeC_3roMiJRqe9bWn2N92dj77mjYsGptVWUS/s1600/north-korean-hackers.jpg",
+    "published": "2025-12-18T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft Threat actors with ties to the Democratic People's Republic of Korea (DPRK or North Korea) have been instrumental in driving a surge in global cryptocurrency theft in 2025, accounting for at least\u2026",
+    "title": "North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft"
   },
   "https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html": {
     "categories": [],
@@ -1805,6 +1841,15 @@
     "summary": "Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading The threat actor known as Storm-0249 is likely shifting from its role as an initial access broker to adopt a combination of more advanced tactics like domain spoofing, DLL side-loading\u2026",
     "title": "Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading"
   },
+  "https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRAVPr4nxCDAf4euDWVcFXtlRMe6lkY8T4OCHznoMF2p0khf6nxt_vCRd6ucmLfQ1mNk4DbL1AFBWwtJLyAKTtBrHGq7klKPhXr34anEfsJI54GfilYo01uu7hIV3RBYNTL7_nsvxxY1yUv1gxZUZamoHEqmBK_Z4Mfbx2aljfv5-oj7Kj0BTuKn7atUi_/s1600/reco-main.jpg",
+    "published": "2025-12-18T11:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "The Case for Dynamic AI-SaaS Security as Copilots Scale Within the past year, artificial intelligence copilots and agents have quietly permeated the SaaS applications businesses use every day. Tools like Zoom, Slack, Microsoft 365, Salesforce, and ServiceNow now come with built-i\u2026",
+    "title": "The Case for Dynamic AI-SaaS Security as Copilots Scale"
+  },
   "https://thehackernews.com/2025/12/the-impact-of-robotic-process.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkHa_ZsEZyIsKJkBKWhgZBt2Oo3VGKY_5ZeOaoO74V_TbabWN-GlLYtOPjpjnqS63ufmXSWt2jnwRglhgFqzJTGGHqOO04K3wn6V3lN6IJdsNupy7M1V9yKe5895zGyjmnme7207WatecL_hIzgwWMYo5AvT3ecXh7PYHwDCAZw5NjY5iDiIFWkzO7pmw/s1600/keeper.jpg",
@@ -1822,6 +1867,15 @@
     "source": "The Hacker News",
     "summary": "ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit \u2014 and 20 More Stories This week\u2019s cyber stories show how fast the online world can turn risky. Hackers are sneaking malware into movie downloads, browser add-ons, and even software updates people \u2026",
     "title": "ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit \u2014 and 20 More Stories"
+  },
+  "https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNeJtuRy-gjytN_j0MAXAb1xvnGYRgQ0DDQnZzdAo5jaT8C8zPIYpYrEBrJykOsYixevHoF4rfux8jhSgmKdO0_URETDCJwbVdLzdyj2tsOVobmrROO8OUZb9UGqThi3ah-T1tqvl-EsIInns9yOxYA-PJzupTJlRne0bAIqDS8PA6EJjzG8qQf1vYOpsI/s1600/threatsday-main.jpg",
+    "published": "2025-12-18T13:10:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories This week\u2019s ThreatsDay Bulletin tracks how attackers keep reshaping old tools and finding new angles in familiar systems. Small changes in tactics are stacking up fast, and each on\u2026",
+    "title": "ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories"
   },
   "https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html": {
     "categories": [],
@@ -2396,6 +2450,17 @@
     "summary": "Microsoft: Patch for WSUS flaw disabled Windows Server hotpatching An out-of-band (OOB) security update that patches an actively exploited Windows Server Update Service (WSUS) vulnerability has broken hotpatching on some Windows Server 2025 devices. [...]",
     "title": "Microsoft: Patch for WSUS flaw disabled Windows Server hotpatching"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2025-12-18T10:04:25+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Recent Windows updates break RemoteApp connections Microsoft has confirmed that recent Windows updates trigger RemoteApp connection failures on Windows 11 24H2/25H2 and Windows Server 2025 devices in Azure Virtual Desktop environments. [...]",
+    "title": "Microsoft: Recent Windows updates break RemoteApp connections"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-wsl-networking-issues/": {
     "categories": [
       "Microsoft"
@@ -2646,6 +2711,18 @@
     "source": "BleepingComputer",
     "summary": "Still on Windows 10? Enroll in free ESU before next week\u2019s Patch Tuesday With the first Patch Tuesday following Windows 10's end of support approaching next week, users who continue to run the operating system should enroll in the Extended Security Updates (ESU) program to remain\u2026",
     "title": "Still on Windows 10? Enroll in free ESU before next week\u2019s Patch Tuesday"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2025-12-19T01:15:19+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows 10 OOB update released to fix Message Queuing (MSMQ) issues This month's extended security update for Windows 11 broke Message Queuing (MSMQ), which is typically used by enterprises to manage background tasks. [...]",
+    "title": "Windows 10 OOB update released to fix Message Queuing (MSMQ) issues"
   },
   "https://www.bleepingcomputer.com/news/microsoft/windows-10-update-bug-triggers-incorrect-end-of-support-alerts/": {
     "categories": [
@@ -3166,6 +3243,17 @@
     "summary": "ClickFix malware attacks evolve with multi-OS support, video tutorials ClickFix attacks have evolved to feature videos that guide victims through the self-infection process, a timer to pressure targets into taking risky actions, and automatic\u00a0 detection of the operating system to\u2026",
     "title": "ClickFix malware attacks evolve with multi-OS support, video tutorials"
   },
+  "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-18T20:16:55+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Clop ransomware targets Gladinet CentreStack in data theft attacks The Clop ransomware gang is targeting Internet-exposed Gladinet CentreStack file servers in a new data theft extortion campaign. [...]",
+    "title": "Clop ransomware targets Gladinet CentreStack in data theft attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/": {
     "categories": [
       "Security"
@@ -3639,6 +3727,17 @@
     "summary": "Fortinet FortiWeb flaw with public PoC exploited to create admin users A Fortinet FortiWeb path traversal vulnerability is being actively exploited to create new administrative users on exposed devices without requiring authentication [...]",
     "title": "Fortinet FortiWeb flaw with public PoC exploited to create admin users"
   },
+  "https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-18T13:47:59+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "France arrests Latvian for installing malware on Italian ferry French authorities arrested two crew members of an Italian passenger ferry suspected of infecting the ship with malware that could have enabled them to remotely control the vessel. [...]",
+    "title": "France arrests Latvian for installing malware on Italian ferry"
+  },
   "https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/": {
     "categories": [
       "Security"
@@ -4074,6 +4173,17 @@
     "summary": "How strong password policies secure OT systems against cyber threats OT environments rely on aging systems, shared accounts, and remote access, making weak or reused passwords a major attack vector. Specops Software explains how stronger password policies and continuous checks fo\u2026",
     "title": "How strong password policies secure OT systems against cyber threats"
   },
+  "https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-18T11:35:53+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "HPE warns of maximum severity RCE flaw in OneView software Hewlett Packard Enterprise (HPE) has patched a maximum-severity vulnerability in its HPE OneView software that enables\u00a0attackers to execute arbitrary code remotely. [...]",
+    "title": "HPE warns of maximum severity RCE flaw in OneView software"
+  },
   "https://www.bleepingcomputer.com/news/security/hyundai-autoever-america-data-breach-exposes-ssns-drivers-licenses/": {
     "categories": [
       "Security"
@@ -4494,6 +4604,17 @@
     "summary": "New LandFall spyware exploited Samsung zero-day via WhatsApp messages A threat actor exploited a zero-day vulnerability in Samsung's Android image processing library to deploy a previously unknown spyware called 'LandFall' using malicious images sent over WhatsApp. [...]",
     "title": "New LandFall spyware exploited Samsung zero-day via WhatsApp messages"
   },
+  "https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-18T17:27:25+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "New password spraying attacks target Cisco, PAN VPN gateways An automated campaign is targeting multiple VPN platforms, with credential-based attacks being observed on\u00a0Palo Alto Networks GlobalProtect and Cisco SSL VPN. [...]",
+    "title": "New password spraying attacks target Cisco, PAN VPN gateways"
+  },
   "https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/": {
     "categories": [
       "Security"
@@ -4578,6 +4699,17 @@
     "source": "BleepingComputer",
     "summary": "New WrtHug campaign hijacks thousands of end-of-life ASUS routers Thousands of ASUS WRT routers, mostly end-of-life or outdated devices, have been hijacked in a global campaign called Operation WrtHug that exploits six vulnerabilities. [...]",
     "title": "New WrtHug campaign hijacks thousands of end-of-life ASUS routers"
+  },
+  "https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-18T15:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "NIS2 compliance: How to get passwords and MFA right NIS2 puts identity and access controls under the spotlight, with weak passwords and poor authentication now a compliance risk. Specops Software explains how to align password policies and MFA with NIS2 requirements. [...]",
+    "title": "NIS2 compliance: How to get passwords and MFA right"
   },
   "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-unlock-77-percent-off-vpn-plans-in-2025/": {
     "categories": [
@@ -5380,6 +5512,18 @@
     "summary": "University of Phoenix discloses data breach after Oracle hack The University of Phoenix (UoPX) has joined a growing list of\u00a0U.S. universities\u00a0breached in a Clop data theft campaign targeting vulnerable Oracle E-Business Suite instances in August 2025. [...]",
     "title": "University of Phoenix discloses data breach after Oracle hack"
   },
+  "https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/": {
+    "categories": [
+      "Security",
+      "Education"
+    ],
+    "image": "",
+    "published": "2025-12-18T20:22:58+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "University of Sydney suffers data breach exposing student and staff info Hackers gained access to an online coding repository belonging to the University of Sydney and stole files with personal information of staff and students. [...]",
+    "title": "University of Sydney suffers data breach exposing student and staff info"
+  },
   "https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/": {
     "categories": [
       "Security"
@@ -5432,6 +5576,18 @@
     "source": "BleepingComputer",
     "summary": "Russian bulletproof hosting provider sanctioned over ransomware ties Today, the United States, the United Kingdom, and Australia announced sanctions targeting Russian bulletproof hosting (BPH) providers that have supported ransomware gangs and other cybercrime operations. [...]",
     "title": "Russian bulletproof hosting provider sanctioned over ransomware ties"
+  },
+  "https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2025-12-18T16:13:03+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "US seizes E-Note crypto exchange for laundering ransomware payments Law enforcement has seized the servers and domains of the E-Note cryptocurrency exchange, allegedly used by cybercriminal groups to launder more than $70 million. [...]",
+    "title": "US seizes E-Note crypto exchange for laundering ransomware payments"
   },
   "https://www.bleepingcomputer.com/news/security/us-treasury-sanctions-north-korean-bankers-linked-to-cybercrime-it-worker-fraud/": {
     "categories": [
@@ -5708,6 +5864,15 @@
     "source": "darkreading",
     "summary": "Critical Fortinet FortiWeb WAF Bug Exploited in the Wild The vulnerability could allow an unauthenticated attacker to remotely execute administrative commands.",
     "title": "Critical Fortinet FortiWeb WAF Bug Exploited in the Wild"
+  },
+  "https://www.darkreading.com/application-security/fake-proof-ai-slop-hobble-defenders": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt63c9aceacc8d1918/6941751f19b0236a75b03f3e/failed-security-checks-AI-tadamichi-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-17T20:58:31+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "'Fake Proof' and AI Slop Hobble Defenders In the React2Shell saga, nonworking and trivial proof-of-concept exploits led to confusion and perhaps a false sense of security. Can the onslaught of PoCs be tamed?",
+    "title": "'Fake Proof' and AI Slop Hobble Defenders"
   },
   "https://www.darkreading.com/application-security/hardened-containers-eliminate-common-source-vulnerabilities": {
     "categories": [],
@@ -6552,6 +6717,24 @@
     "summary": "Russia Hits Critical Orgs Via Misconfigured Edge Devices Amazon detailed a long-running campaign by Russia against critical infrastructure organizations, particularly in the energy sector.",
     "title": "Russia Hits Critical Orgs Via Misconfigured Edge Devices"
   },
+  "https://www.darkreading.com/endpoint-security/securing-future-building-quantum-safe-networks-today": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2152db397dbc068e/67f674413959ee0d3cb2a4eb/Quantum_(1800)_jvphoto_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-17T20:46:43+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "The Future of Quantum-Safe Networks Depends on Interoperable Standards As quantum computing advances, secure, interoperable standards will be critical to making quantum key distribution (QKD) practical, trusted, and future-proof.",
+    "title": "The Future of Quantum-Safe Networks Depends on Interoperable Standards"
+  },
+  "https://www.darkreading.com/endpoint-security/securing-network-edge-comprehensive-framework-modern-cybersecurity": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf995e3c549288720/6943e39e33e98d0582ff41cd/edge_computing_ArtemisDiani_Alamy_.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-17T21:14:12+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Securing the Network Edge: A Comprehensive Framework for Modern Cybersecurity The future of cybersecurity means defending everywhere. Securing IoT, cloud, and remote work requires a unified edge-to-cloud strategy. (First in a three-part series.)",
+    "title": "Securing the Network Edge: A Comprehensive Framework for Modern Cybersecurity"
+  },
   "https://www.darkreading.com/endpoint-security/shadypanda-hackers-weaponize-browsers": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3d1f8fdab2a47de2/6930ad4e03abeee5cb2b806f/panda_Elen_Marlen_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -6752,6 +6935,15 @@
     "source": "darkreading",
     "summary": "Feds: Pro-Russia Hactivists Target US Critical Infrastructure So far the attacks, which compromise virtual network computing (VNC) connections in OT systems, have not been particularly destructive, but this could change as they evolve.",
     "title": "Feds: Pro-Russia Hactivists Target US Critical Infrastructure"
+  },
+  "https://www.darkreading.com/threat-intelligence/iran-apt-spying-dissidents": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5cd0b7be5e90b1c4/69406360211d3e790fe91879/Prince_of_Persia-ArcadeImages-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-18T13:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Dormant Iran APT is Still Alive, Spying on Dissidents &quot;Prince of Persia&quot; has rewritten the rules of persistence with advanced operational security and cryptographic communication with its command-and-control server.",
+    "title": "Dormant Iran APT is Still Alive, Spying on Dissidents"
   },
   "https://www.darkreading.com/threat-intelligence/iran-exploits-cyber-domain-kinetic-strikes": {
     "categories": [],
@@ -7004,6 +7196,15 @@
     "source": "darkreading",
     "summary": "React2Shell Vulnerability Under Attack From China-Nexus Groups A maximum-severity vulnerability affecting the React JavaScript library has been exploited in the wild, further stressing the need to patch now.",
     "title": "React2Shell Vulnerability Under Attack From China-Nexus Groups"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/sonicwall-edge-devices-zero-day-attacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3a53b56efae849fd/6944748f866c62ded294d0da/Sonicwall_RemusRigo_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-18T22:25:46+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "SonicWall Edge Access Devices Hit by Zero-Day Attacks In the latest attacks against the vendor's SMA1000 devices, threat actors have chained a new zero-day flaw with a critical vulnerability disclosed earlier this year.",
+    "title": "SonicWall Edge Access Devices Hit by Zero-Day Attacks"
   },
   "https://www.darkreading.com/vulnerabilities-threats/trufflenet-attack-stolen-credentials-aws": {
     "categories": [],
