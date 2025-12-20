@@ -1292,6 +1292,15 @@
     "summary": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign An ongoing campaign has been observed targeting Amazon Web Services (AWS) customers using compromised Identity and Access Management (IAM) credentials to enable cryptocurrency mining.\nThe activity, first detecte\u2026",
     "title": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign"
   },
+  "https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicPzq0o0uHOZdPJOFPje25gUDCZ9NIF3JziC7YLTl2aCUqRKNDQ0M3iOVI4b4B4oUE7ulYTWEPDS2NbNeH-NEgS8vOaADyMBYNzsns2uKE1KgsWrSCPtRieBLvsii6hGKfqSD_3K_LFso4qz1uddlWLhKD5LQjuHX2VOR_F4wjhHFKM35Rxqe_4uq282Zg/s1600/youtube-malware.jpg",
+    "published": "2025-12-19T15:34:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware Cybersecurity researchers have disclosed details of a new campaign that has used cracked software distribution sites as a distribution vector for a new version of a modular and stealthy loader known as\u2026",
+    "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware"
+  },
   "https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirLapA_bU5QPCfp-MRukDEfXZXrWr6Im2qJaqg7pJ6I_5tq2aD21_Q_-9N83CCdNoZIsThs7oC2SKBLRdK0XbPh-Ork2PYk3Sp5_MGvKmVeo_IPZg_lPDq5VgF3nPj7pRIjcDNIihQG68dlzKqMed-yhg3BFKVcGO1PXUEEB4tfzlcIDXr1vDlnfvbwL8E/s1600/react2shell-exploit.jpg",
@@ -1661,6 +1670,24 @@
     "summary": "New React RSC Vulnerabilities Enable DoS and Source Code Exposure The React team has released fixes for two new types of flaws in React Server Components (RSC) that, if successfully exploited, could result in denial-of-service (DoS) or source code exposure.\nThe team said the issu\u2026",
     "title": "New React RSC Vulnerabilities Enable DoS and Source Code Exposure"
   },
+  "https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMb3AWaGGzuDhZZM0WBk_eEwbCg8zBxsM7-vESRDoizM7NngGTmZZuGjnl_ig_GzqAlVZVJF5r4bJH-1B7zQwrjKnSZuTPW0xsebT3dj_ygVTpS3aFfEwBKVh01Y7H-rJB-3netyZjaGV3vZ5Mg3Sh34mIMMD6NoowEsci4GrcDEeYIus7XPCu58Z_gZ9T/s1600/motherboard.jpg",
+    "published": "2025-12-19T08:25:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards Certain motherboard models from vendors like ASRock, ASUSTeK Computer, GIGABYTE, and MSI are affected by a security vulnerability that leaves them susceptible to early-boot direct memory acce\u2026",
+    "title": "New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards"
+  },
+  "https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi81CadfhaxxTeFQDfM8un9wrg4Vx3saV5ZZ5-L3l1FN8aB1RtNMctdkOzKQaTD4ZnfXrzUtTCY7Hhc2TB9Z3wafJ0JbTFRt0rxUPQwRaQjLt68qmzjDlEgutKjMt4RMAI6ziNjwa1tG-Yfv_T_prPgyuqxuvfdkRMdJ3Cwm5nSXh2JXqkS87YROdWZ3jxH/s1600/hacker-arrested.jpg",
+    "published": "2025-12-19T10:26:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks Authorities in Nigeria have announced the arrest of three \"high-profile internet fraud suspects\" who are alleged to have been involved in phishing attacks targeting major corporations, including the ma\u2026",
+    "title": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks"
+  },
   "https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2xn4WZGj7Hz0ytsNA_HTCauNnazfL5nrJbU04wGz3hruY26ILPYM06s8_XfRqyXUCTSgIlOyQAoqKzXfCkcptNiFkCgY3qlSaCXN6msd3niU0PzzHMstagrXTIl6vMwQJiBjVGLO6oMnsT2dDvSmYr5Irx5o3FUIfxmO_pRip-bQgFVIy6Awjek_wmD9_/s1600/northkorea.jpg",
@@ -1768,6 +1795,15 @@
     "source": "The Hacker News",
     "summary": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data Cybersecurity researchers have discovered a new malicious NuGet package that typosquats and impersonates the popular .NET tracing library and its author to sneak in a cryptocurrency wallet stealer.\nThe ma\u2026",
     "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data"
+  },
+  "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6rG0It4YgDaraGdYMUeGqu11YGd_aORJs3sbrIhK3Xe1FaMag0ELM5dA_B5eSsPxFKWOd0HKBV1GzjQBUlS6sEundoKDqXUawbWkJgEg8GHlpSxDa2XE96vxccNI6Zi3OqxCKZL33azUFgZXsL3mHyORT0fd-BS0hnpsg9xNvJCCrvb9gUHEVKnzmiKej/s1600/ms.jpg",
+    "published": "2025-12-19T17:54:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers A suspected Russia-aligned group has been attributed to a phishing campaign that employs device code authentication workflows to steal victims' Microsoft 365 credentials and conduct account takeove\u2026",
+    "title": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers"
   },
   "https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html": {
     "categories": [],
@@ -1930,6 +1966,15 @@
     "source": "The Hacker News",
     "summary": "Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a security flaw impacting the WinRAR file archiver and compression utility to its Known Exploited Vulnerabil\u2026",
     "title": "Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups"
+  },
+  "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLwTg7kTeuQORUcne_nRd81FBUZhq23jpa3MWAlljTHtPVTIRdA7VHw-j7xnc1nOqq5c2Zvz2sr8bO7rrhaUsXAxTAJKudyNugxcmD0oDX3buOXTDb2apFV99fEii14gDwpnVm5-Vi4GMG_nWYrkTn_s4mjPYFAXqShWw8dKa8-ZiMTHkfzea1LQDys4yj/s1600/watchgaurd.jpg",
+    "published": "2025-12-19T11:23:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability WatchGuard has released fixes to address a critical security flaw in Fireware OS that it said has been exploited in real-world attacks.\nTracked as CVE-2025-14733 (CVSS score: 9.3), the vulnerability\u2026",
+    "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability"
   },
   "https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html": {
     "categories": [],
@@ -2212,6 +2257,17 @@
     "summary": "Google is shutting down its dark web report feature in January Google is discontinuing its \"dark web report\" security tool, stating that it wants to focus on other tools it believes are more helpful. [...]",
     "title": "Google is shutting down its dark web report feature in January"
   },
+  "https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/": {
+    "categories": [
+      "Legal"
+    ],
+    "image": "",
+    "published": "2025-12-19T09:19:40+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "FTC: Instacart to refund $60M over deceptive subscription tactics Grocery delivery service Instacart will refund $60 million to settle FTC claims that it misled customers with false advertising and unlawfully enrolled them in paid subscriptions. [...]",
+    "title": "FTC: Instacart to refund $60M over deceptive subscription tactics"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/": {
     "categories": [
       "Microsoft",
@@ -2267,6 +2323,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft 365 license check bug blocks desktop app downloads \u200bMicrosoft is investigating and working to resolve a known issue that prevents customers from downloading Microsoft 365 desktop apps from the Microsoft 365 homepage. [...]",
     "title": "Microsoft 365 license check bug blocks desktop app downloads"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2025-12-19T20:04:28+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft confirms Teams is down and messages are delayed Microsoft Teams is experiencing issues, with thousands reporting problems sending messages, including delays. [...]",
+    "title": "Microsoft confirms Teams is down and messages are delayed"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2025-patch-tuesday-fixes-3-zero-days-57-flaws/": {
     "categories": [
@@ -3328,6 +3395,17 @@
     "summary": "Cox Enterprises discloses Oracle E-Business Suite data breach Cox Enterprises is notifying impacted individuals of a data breach that exposed their personal data to hackers who breached\u00a0the company network after exploiting a zero-day flaw in Oracle E-Business Suite. [...]",
     "title": "Cox Enterprises discloses Oracle E-Business Suite data breach"
   },
+  "https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-19T14:30:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Criminal IP and Palo Alto Networks Cortex XSOAR integrate to bring AI-driven exposure intelligence to automated incident response Criminal IP (criminalip.io), the AI-powered threat intelligence and attack surface monitoring platform developed by AI SPERA, is now officially integr\u2026",
+    "title": "Criminal IP and Palo Alto Networks Cortex XSOAR integrate to bring AI-driven exposure intelligence to automated incident response"
+  },
   "https://www.bleepingcomputer.com/news/security/critical-cisco-uccx-flaw-lets-hackers-run-commands-as-root/": {
     "categories": [
       "Security"
@@ -3496,6 +3574,17 @@
     "source": "BleepingComputer",
     "summary": "Deep dive into DragonForce ransomware and its Scattered Spider connection DragonForce expanded its ransomware operation in 2025 by working with English-speaking hackers known for advanced social engineering and initial access. Acronis explains how the \"Scattered Spider\" collabora\u2026",
     "title": "Deep dive into DragonForce ransomware and its Scattered Spider connection"
+  },
+  "https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-19T12:28:48+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Denmark blames Russia for destructive cyberattack on water utility Danish intelligence officials blamed Russia for orchestrating cyberattacks against Denmark's critical infrastructure, as part of Moscow's hybrid attacks against Western nations. [...]",
+    "title": "Denmark blames Russia for destructive cyberattack on water utility"
   },
   "https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/": {
     "categories": [
@@ -4439,6 +4528,17 @@
     "summary": "Meet ShinySp1d3r: New Ransomware-as-a-Service created by ShinyHunters An in-development build of the upcoming ShinySp1d3r ransomware-as-a-service platform has surfaced, offering a preview of the upcoming extortion operation. [...]",
     "title": "Meet ShinySp1d3r: New Ransomware-as-a-Service created by ShinyHunters"
   },
+  "https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-19T17:19:04+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft 365 accounts targeted in wave of OAuth phishing attacks Multiple threat actors are compromising Microsoft 365 accounts in phishing attacks that leverage the\u00a0OAuth device code authorization mechanism. [...]",
+    "title": "Microsoft 365 accounts targeted in wave of OAuth phishing attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/microsoft-sesameop-malware-abuses-openai-assistants-api-in-attacks/": {
     "categories": [
       "Security",
@@ -4668,6 +4768,18 @@
     "summary": "New Spiderman phishing service targets dozens of European banks A new phishing kit called Spiderman\u00a0is being used to target\u00a0customers of dozens of European banks and cryptocurrency holders with\u00a0pixel-perfect cloned sites\u00a0impersonating brands and organizations. [...]",
     "title": "New Spiderman phishing service targets dozens of European banks"
   },
+  "https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/": {
+    "categories": [
+      "Security",
+      "Hardware"
+    ],
+    "image": "",
+    "published": "2025-12-19T15:54:48+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "New UEFI flaw enables pre-boot attacks on motherboards from Gigabyte, MSI, ASUS, ASRock The\u00a0UEFI firmware implementation in some motherboards from ASUS, Gigabyte, MSI, and ASRock is vulnerable to direct memory access (DMA) attacks that can bypass early-boot memory protections. [.\u2026",
+    "title": "New UEFI flaw enables pre-boot attacks on motherboards from Gigabyte, MSI, ASUS, ASRock"
+  },
   "https://www.bleepingcomputer.com/news/security/new-uk-laws-to-strengthen-critical-infrastructure-cyber-defenses/": {
     "categories": [
       "Security",
@@ -4699,6 +4811,18 @@
     "source": "BleepingComputer",
     "summary": "New WrtHug campaign hijacks thousands of end-of-life ASUS routers Thousands of ASUS WRT routers, mostly end-of-life or outdated devices, have been hijacked in a global campaign called Operation WrtHug that exploits six vulnerabilities. [...]",
     "title": "New WrtHug campaign hijacks thousands of end-of-life ASUS routers"
+  },
+  "https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2025-12-19T19:05:32+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform The Nigerian police have arrested three individuals linked to targeted Microsoft 365 cyberattacks via Raccoon0365 phishing-as-a-service. [...]",
+    "title": "Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform"
   },
   "https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/": {
     "categories": [
@@ -4823,6 +4947,17 @@
     "source": "BleepingComputer",
     "summary": "Over 10,000 Docker Hub images found leaking credentials, auth keys More than 10,000 Docker Hub container images expose data that should be protected, including live credentials to production systems, CI/CD databases, or LLM model\u00a0keys. [...]",
     "title": "Over 10,000 Docker Hub images found leaking credentials, auth keys"
+  },
+  "https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-19T15:00:45+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Over 25,000 FortiCloud SSO devices exposed to remote attacks Internet security watchdog Shadowserver has found over 25,000 Fortinet devices exposed online with FortiCloud SSO enabled, amid ongoing attacks targeting a critical authentication bypass vulnerability. [...]",
+    "title": "Over 25,000 FortiCloud SSO devices exposed to remote attacks"
   },
   "https://www.bleepingcomputer.com/news/security/passwork-7-self-hosted-password-and-secrets-manager-for-enterprise-teams/": {
     "categories": [
@@ -5619,6 +5754,17 @@
     "summary": "Washington Post data breach impacts nearly 10K employees, contractors The Washington Post is notifying nearly 10,000 employees and contractors that some of their personal and financial data has been exposed in the Oracle data theft attack. [...]",
     "title": "Washington Post data breach impacts nearly 10K employees, contractors"
   },
+  "https://www.bleepingcomputer.com/news/security/watchguard-warns-of-new-rce-flaw-in-firebox-firewalls-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-19T10:25:06+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New critical WatchGuard Firebox firewall flaw exploited in attacks WatchGuard has warned customers to patch a critical, actively exploited remote code execution (RCE) vulnerability in its Firebox firewalls. [...]",
+    "title": "New critical WatchGuard Firebox firewall flaw exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/webinar-modern-patch-management-strategies-to-patch-faster-with-less-risk/": {
     "categories": [
       "Security"
@@ -6022,6 +6168,15 @@
     "summary": "Dark Reading Confidential: Cyber's Role in the Rapid Rise of Digital Authoritarianism Dark Reading Confidential Episode 11: Enterprise cyber teams are in prime position to push back against our current &quot;Golden Age of Surveillance,&quot; according to our guests Ronald Deibert\u2026",
     "title": "Dark Reading Confidential: Cyber's Role in the Rapid Rise of Digital Authoritarianism"
   },
+  "https://www.darkreading.com/cyber-risk/cybersecurity-playbook-ai-adoption": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5147d616597e058d/6944869919b02321b1b044db/keys_human_to_robot_Brain_Light_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-19T14:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "A Cybersecurity Playbook for AI Adoption AI adds real value to cybersecurity today, but it cannot yet serve as a single security guardian. Here's how organizations can safely combine AI-driven analysis with deterministic rules and proven security practices.",
+    "title": "A Cybersecurity Playbook for AI Adoption"
+  },
   "https://www.darkreading.com/cyber-risk/grandparents-to-c-suite-elder-fraud-reveals-gaps-in-human-centered-cybersecurity": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1cd670312c015de5/69136ba5b7f0b78a2e2f575e/olderstudents-Milan_Ilic-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -6238,6 +6393,15 @@
     "source": "darkreading",
     "summary": "GlassWorm Returns, Slices Back into VS Code Extensions GlassWorm, a self-propagating VS Code malware first found in the Open VSX marketplace, continues to infect developer devices around the world.",
     "title": "GlassWorm Returns, Slices Back into VS Code Extensions"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/good-year-north-korean-cybercriminals": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbf189950d59f1138/694467b119b023d9d3b044b1/nk-flag-and-cash-Mehaniq-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-19T14:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "A Good Year for North Korean Cybercriminals North Korea shifted its strategy to patiently target &quot;bigger fish&quot; for larger payouts, using sophisticated methods to execute attacks at opportune times.",
+    "title": "A Good Year for North Korean Cybercriminals"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/hamas-hackers-middle-eastern-diplomats": {
     "categories": [],
@@ -6692,6 +6856,15 @@
     "summary": "Browser Extension Harvests 8M Users' AI Chatbot Data Urban VPN Proxy, which claims to protect users' privacy, collects data from conversations with ChatGPT, Claude, Gemini, Copilot and other AI assistants.",
     "title": "Browser Extension Harvests 8M Users' AI Chatbot Data"
   },
+  "https://www.darkreading.com/endpoint-security/cisco-vpns-email-services-threat-campaigns": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt85eefeec82f5083c/6945a277bbf907e2329e7da0/Cisco-Kristoffer_Tripplaar-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-19T20:05:38+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Cisco VPNs, Email Services Hit in Separate Threat Campaigns The company suffered one sophisticated five-alarm campaign and one messy spray-and-pray attack, mere days apart.",
+    "title": "Cisco VPNs, Email Services Hit in Separate Threat Campaigns"
+  },
   "https://www.darkreading.com/endpoint-security/phishing-tool-smart-redirects-bypass-email-security": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98884564c2bf29aa/691469edee009931fb7ff9f1/Phishing_ronstik_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -6817,6 +6990,15 @@
     "source": "darkreading",
     "summary": "Hackers Weaponize Remote Tools to Hijack Cargo Freight Researchers uncovered a new threat campaign in which attackers use RMM tools to steal physical cargo out of the supply chain.",
     "title": "Hackers Weaponize Remote Tools to Hijack Cargo Freight"
+  },
+  "https://www.darkreading.com/identity-access-management-security/identity-fraud-among-home-care-workers-puts-patients-at-risk": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd88005a39d050fee/69456dab587e50963b32ed03/2AXGYFG.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-19T15:04:50+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Identity Fraud Among Home-Care Workers Puts Patients at Risk Reports of patients being cared for by unqualified home-care aides with fake identities continue to emerge, highlighting a need for more stringent identity authentication.",
+    "title": "Identity Fraud Among Home-Care Workers Puts Patients at Risk"
   },
   "https://www.darkreading.com/identity-access-management-security/identity-governance-administration-app-proliferation-app-integration-chasm": {
     "categories": [],
@@ -6960,6 +7142,15 @@
     "source": "darkreading",
     "summary": "'JackFix' Attack Circumvents ClickFix Mitigations A new ClickFix variant ratchets up the psychological pressure to 100 and addresses some technical mitigations to classic ClickFix attacks.",
     "title": "'JackFix' Attack Circumvents ClickFix Mitigations"
+  },
+  "https://www.darkreading.com/threat-intelligence/longnosedgoblin-caught-snooping-on-asian-governments": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2643a64353d24881/69445caf9c11dd1bae7b39bd/Long_nose_goblin_Japan_Stock_Photography_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-19T16:38:48+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "LongNosedGoblin Caught Snooping on Asian Governments New China-aligned APT group is deploying Group Policy to sniff through government networks across Southeast Asia and Japan.",
+    "title": "LongNosedGoblin Caught Snooping on Asian Governments"
   },
   "https://www.darkreading.com/threat-intelligence/malware-authors-incorporate-llms-evade-detection": {
     "categories": [],
