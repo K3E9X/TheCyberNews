@@ -1544,6 +1544,15 @@
     "summary": "Iran-Linked Hackers Hit Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks Israeli entities spanning academia, engineering, local government, manufacturing, technology, transportation, and utilities sectors have emerged as the target of a new set of attacks undertak\u2026",
     "title": "Iran-Linked Hackers Hit Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks"
   },
+  "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHegtv-omZYW79shLsEk_Vh8OqZ0lziJ2eEH1ADUh6S26O4zAQVpJ0RPi4Y8sOn1QCZNMVMwJoz8_9KxEGiDsef2EUlIPqPEakq3DA5gNpJGlqRHspRCVBRtZM-9ur6CtAPdwtj57Acs2U3HXg2IV6RWyK51gp-L6VZywbKe3GHWqSyeXzi8UZSkFkmtd6/s1600/desk.jpg",
+    "published": "2025-12-21T04:22:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence Threat hunters have discerned new activity associated with an Iranian threat actor known as Infy (aka Prince of Persia), nearly five years after the hacking group was observed targeting victims in Sweden\u2026",
+    "title": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence"
+  },
   "https://thehackernews.com/2025/12/jpcert-confirms-active-command.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijkDT1pB32P4Aj-XUQjHXzXUeKtUjJ6Jsm66Ap9f1RNJkQpMsAiEtkVJgUqHHJzcHyLEeCrzIqcehBy5SXX4eSdN4LaFYAB7SR-YflLdNG2YyuVotys9i1HpheYNeAO6PcAicSsLYa-TGxgOnmdR_JzRg1HvQwTfoxA8qkzwTF-B9UScG957OkFBdxnc1B/s1600/array.jpg",
@@ -1948,6 +1957,15 @@
     "source": "The Hacker News",
     "summary": "Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks A high-severity unpatched security vulnerability in Gogs has come under active exploitation, with more than 700 compromised instances accessible over the internet, according to new findings from Wiz.\nThe \u2026",
     "title": "Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks"
+  },
+  "https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK2cP9lHpEiLS7JATicmiwWuw1qs3WctK2ZALMrG43Z51JnhNcBG2QyRtbyIAsN032vYBZh7-GFDQ-d5R92xrf3hTBuU2cuSUpB0bPD8lnytywyG1harMel1KgOneMliCPammT3TNDZL7mvqpqkdQiFddGGX65iGzM0SLcaPNBQyeSKgK-7P6Bf5XAFIzb/s1600/atm.jpg",
+    "published": "2025-12-20T13:48:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware The U.S. Department of Justice (DoJ) this week announced the indictment of 54 individuals in connection with a multi-million dollar ATM jackpotting scheme.\nThe large-scale conspiracy involved deploying malware na\u2026",
+    "title": "U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware"
   },
   "https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html": {
     "categories": [],
@@ -5149,6 +5167,17 @@
     "source": "BleepingComputer",
     "summary": "Quantum Route Redirect PhaaS targets Microsoft 365 users worldwide A new phishing automation platform named Quantum Route Redirect is using around\u00a01,000 domains to steal\u00a0Microsoft 365 users' credentials. [...]",
     "title": "Quantum Route Redirect PhaaS targets Microsoft 365 users worldwide"
+  },
+  "https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-20T15:23:34+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "RansomHouse upgrades encryption with multi-layered data processing The RansomHouse ransomware-as-a-service (RaaS) has recently upgraded its encryptor, switching\u00a0from a relatively simple single-phase linear technique to a more complex, multi-layered method. [...]",
+    "title": "RansomHouse upgrades encryption with multi-layered data processing"
   },
   "https://www.bleepingcomputer.com/news/security/ransomware-gangs-turn-to-shanya-exe-packer-to-hide-edr-killers/": {
     "categories": [
