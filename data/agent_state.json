@@ -1,12 +1,16 @@
 {
-  "last_generated_at": "2025-12-24T18:13:25.338448+00:00",
+  "last_generated_at": "2025-12-24T18:41:16.954059+00:00",
   "latest_brief": {
     "action_items": [
       "Review the highlighted incidents and evaluate exposure.",
       "Share the briefing with the blue team."
     ],
     "headline": "Autonomous cybersecurity briefing",
-    "key_themes": [],
+    "key_themes": [
+      "darkreading",
+      "The Hacker News",
+      "darkreading"
+    ],
     "narrative": "The agent summarised the latest publicly available cybersecurity stories and refreshed the site automatically."
   }
 }
