@@ -20,6 +20,7 @@ brief on GitHub Pages – end to end with no manual touch.
 - Agent state, cache, rendered site, and even commit messages are written back
   automatically for a fully self-updating public page.
 - Ships with a scheduled GitHub Actions workflow for daily updates.
+- **🆕 LinkedIn Auto-Sharing**: Automatically posts selected articles to LinkedIn at 19:00 UTC daily with AI-generated messages.
 - **100% autonomous** - no manual intervention required after setup.
 
 ## Project structure
@@ -88,6 +89,18 @@ the automation closes any previous bot PRs and attempts to merge the fresh
 update into the base branch. If GitHub reports a conflict, the workflow leaves a
 comment explaining what happened so you can resolve it manually before the next
 scheduled run.
+
+## LinkedIn Auto-Sharing Setup
+
+TheCyberNews can automatically share selected articles to your LinkedIn profile every day at 19:00 UTC.
+
+**📖 [Read the full setup guide](docs/LINKEDIN_SETUP.md)**
+
+Quick setup:
+1. Create a LinkedIn App and get your access token
+2. Add GitHub Secrets: `LINKEDIN_ACCESS_TOKEN` and `LINKEDIN_USER_ID`
+3. Enable the workflow in Actions tab
+4. Articles will be shared daily with AI-generated messages!
 
 ## Customising the site
 

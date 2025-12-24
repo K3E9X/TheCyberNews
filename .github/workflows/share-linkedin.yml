@@ -1,0 +1,46 @@
+name: Share to LinkedIn
+
+on:
+  schedule:
+    # Runs at 19:00 UTC every day
+    - cron: "0 19 * * *"
+  workflow_dispatch: # Allow manual trigger for testing
+
+jobs:
+  share:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install requests openai python-dotenv
+
+      - name: Share article to LinkedIn
+        env:
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_USER_ID: ${{ secrets.LINKEDIN_USER_ID }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python scripts/share_to_linkedin.py
+
+      - name: Commit LinkedIn state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if [ -f data/linkedin_state.json ]; then
+            git add data/linkedin_state.json
+            git diff --quiet && git diff --staged --quiet || \
+              git commit -m "chore: update LinkedIn sharing state"
+            git push
+          fi
