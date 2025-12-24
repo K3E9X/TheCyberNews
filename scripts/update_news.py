@@ -209,8 +209,7 @@ class BriefingComposer:
             headline="Autonomous cybersecurity briefing",
             narrative=(
                 "The agent summarised the latest publicly available cybersecurity "
-                "stories and refreshed the site automatically. Configure an "
-                "OPENAI_API_KEY to enable narrative insights."
+                "stories and refreshed the site automatically."
             ),
             key_themes=[item.source for item in items[:3]] if items else [],
             action_items=[
