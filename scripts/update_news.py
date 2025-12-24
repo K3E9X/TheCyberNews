@@ -406,6 +406,33 @@ def fetch_news(feeds: Iterable[str]) -> List[NewsItem]:
     return items
 
 
+def load_articles_from_cache(cache: NewsCache) -> List[NewsItem]:
+    """Load articles from cache when RSS feeds are unavailable."""
+    items: List[NewsItem] = []
+    for url, data in cache.entries.items():
+        try:
+            published_str = data.get("published", "")
+            published = dt.datetime.fromisoformat(published_str) if published_str else dt.datetime.now(dt.timezone.utc)
+
+            item = NewsItem(
+                title=data.get("title", ""),
+                link=url,
+                published=published,
+                source=data.get("source", ""),
+                summary=data.get("summary", ""),
+                categories=data.get("categories", []),
+                image=data.get("image", ""),
+                severity=data.get("severity", "LOW"),
+            )
+            items.append(item)
+        except Exception:
+            continue
+
+    # Sort by published date, most recent first
+    items.sort(key=lambda i: i.published, reverse=True)
+    return items
+
+
 def summarise_news(items: List[NewsItem], cache: NewsCache, summariser: Summariser) -> List[NewsItem]:
     results: List[NewsItem] = []
     for item in items:
@@ -472,7 +499,14 @@ def main() -> None:
     composer = BriefingComposer()
     state = AgentState(STATE_FILE)
     previous_brief = state.previous_brief()
+
+    # Try to fetch fresh articles from RSS feeds
     items = fetch_news(feeds)
+
+    # If fetch failed or returned no items, load from cache
+    if not items:
+        items = load_articles_from_cache(cache)
+
     # Keep only the most recent 30 items to avoid unbounded growth.
     items = items[:30]
     items = summarise_news(items, cache, summariser)
