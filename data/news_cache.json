@@ -1265,6 +1265,15 @@
     "summary": "CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity flaw impacting Sierra Wireless AirLink ALEOS routers to its Known Exploited Vulnerabilities (KEV) catalog\u2026",
     "title": "CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks"
   },
+  "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy1j0ppiPjhfsUfYcYQ36krQ1Jgau1SvfX5zWM4gmFxvKhVhMOxhDQIfz5nBtExAH9NBv6bv2XJAs0SJJdvXlg-bIWNibSo8kHvtDTPOxTU5B8eqPt2NlI4FtA0-0ri2T3ueDhQbyiJ_TS7IZALghzlOckTrk8zOuZhPPu3nRT4EiAvr65exPrrbmtui0x/s1600/digiever.jpg",
+    "published": "2025-12-25T08:07:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a security flaw impacting Digiever DS-2105 Pro network video recorders (NVRs) to its Known Exploited Vulnerabilities (KEV\u2026",
+    "title": "CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution"
+  },
   "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBN5buANAAdi4AundLfRH7dgLMFWvHQosALn-UulNEQC0ZZxUmTJUHQyS3meXA8rVRya72n3Wl-DsJRMM6VluFoSZSdm4Ha5SijPW09wRzOE2rpQmfh0JW113iEosXFEiel84OVcf-KWHWf4IjtWwxRd0lqdzPfsvf5qrP9bKcG6TCVEEy12h24ncJChnL/s1600/geo-server.jpg",
@@ -1435,6 +1444,15 @@
     "source": "The Hacker News",
     "summary": "Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws Fortinet, Ivanti, and SAP have moved to address critical security flaws in their products that, if successfully exploited, could result in an authentication bypass and code execution.\nThe F\u2026",
     "title": "Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws"
+  },
+  "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWq72oFKp6biq3Hf_tsdl9xZeVhxI_BGzBaKfw1DiMD2ldey-KGb8qk27HJH9rt-pys9Ga94wnpRZfAYUdFW9g5_-ncNfIBaYtzsHD-GpGk0LtMaSZ0yD83PqptSkQlIuFNwa94qWlQvk3Yqz-eSpFchaeTh3VbYOXgRJ96sDTRz7dy-_ShXQu1jnzQXhx/s1600/fortinet-exploit.jpg",
+    "published": "2025-12-25T08:22:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability Fortinet on Wednesday said it observed \"recent abuse\" of a five-year-old security flaw in FortiOS SSL VPN in the wild under certain configurations.\nThe vulnerability in question is CVE-2020-12812 (C\u2026",
+    "title": "Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability"
   },
   "https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html": {
     "categories": [],
@@ -1651,6 +1669,15 @@
     "source": "The Hacker News",
     "summary": "Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks A new distributed denial-of-service (DDoS) botnet known as Kimwolf has enlisted a massive army of no less than 1.8 million infected devices comprising Android-based TVs, set-top boxes, and tablets, \u2026",
     "title": "Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks"
+  },
+  "https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGPo1Nkc3YmPhTvA9OPV5_RDokzlpE21PlIAMbT-8lz9peQpzT9LFWm59cX18EDEtnh2ecJD6iOzVl3-vxmNEsmXs77r32k0Xmjrqv2HlVnIIyE4VU76I6a79deBG7Fe-Bpdb3TdLNLqoN2vIsEf_iuqSpb4LXXhpCTHroURBkzXAghUD3RKEXPjE7CemD/s1600/passwords.jpg",
+    "published": "2025-12-25T12:46:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds The encrypted vault backups stolen from the 2022 LastPass data breach have enabled bad actors to take advantage of weak master passwords to crack them open and drain cryptocurrency assets as recently as \u2026",
+    "title": "LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds"
   },
   "https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html": {
     "categories": [],
@@ -2021,6 +2048,15 @@
     "summary": "ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit \u2014 and 20 More Stories This week\u2019s cyber stories show how fast the online world can turn risky. Hackers are sneaking malware into movie downloads, browser add-ons, and even software updates people \u2026",
     "title": "ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit \u2014 and 20 More Stories"
   },
+  "https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLTZCBlcEQIEbZWXU3RR3B77xiWfU3KJqq8DjknH8ZNZtgGBsLgiYBO4BthMryQeog4ZEmsXaMCh6BUUCdWfibXHZ_NtEq40tdV5iiFUgpVRplI3zeRnRUm95-KlXosv-v08bOFoEL6IKWJdV0yB0OW5SFl0lE0R4D224pArrKv0Vverh8qRZrYEFALQx9/s1600/threatsday.jpg",
+    "published": "2025-12-25T14:01:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories It\u2019s getting harder to tell where normal tech ends and malicious intent begins. Attackers are no longer just breaking in \u2014 they\u2019re blending in, hijacking everyday tools, trusted a\u2026",
+    "title": "ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories"
+  },
   "https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNeJtuRy-gjytN_j0MAXAb1xvnGYRgQ0DDQnZzdAo5jaT8C8zPIYpYrEBrJykOsYixevHoF4rfux8jhSgmKdO0_URETDCJwbVdLzdyj2tsOVobmrROO8OUZb9UGqThi3ah-T1tqvl-EsIInns9yOxYA-PJzupTJlRne0bAIqDS8PA6EJjzG8qQf1vYOpsI/s1600/threatsday-main.jpg",
@@ -2234,6 +2270,18 @@
     "summary": "ChatGPT is down worldwide, conversations dissapeared for users OpenAI's AI-powered ChatGPT is down worldwide with users receiving errors when attempting to access chats, with no reasons currently given. [...]",
     "title": "ChatGPT is down worldwide, conversations dissapeared for users"
   },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2025-12-25T22:39:19+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "ChatGPT\u2019s new formatting blocks make its UI look more like a task tool OpenAI has quietly rolled out 'formatting blocks,' which tweak GPT's layout to match the UI of the task it is supposed to execute. [...]",
+    "title": "ChatGPT\u2019s new formatting blocks make its UI look more like a task tool"
+  },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/": {
     "categories": [
       "Artificial Intelligence",
@@ -2421,6 +2469,18 @@
     "source": "BleepingComputer",
     "summary": "Google is shutting down its dark web report feature in January Google is discontinuing its \"dark web report\" security tool, stating that it wants to focus on other tools it believes are more helpful. [...]",
     "title": "Google is shutting down its dark web report feature in January"
+  },
+  "https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/": {
+    "categories": [
+      "Google",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2025-12-25T14:30:58+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google will finally allow you to change your @gmail.com address Google will finally allow you to change your @gmail address or create a new alias, according to a new support document. [...]",
+    "title": "Google will finally allow you to change your @gmail.com address"
   },
   "https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/": {
     "categories": [
