@@ -1220,6 +1220,15 @@
     "summary": "China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware A previously undocumented China-aligned threat cluster dubbed LongNosedGoblin has been attributed to a series of cyber attacks targeting governmental entities in Southeast Asia and Japan.\nThe end goa\u2026",
     "title": "China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware"
   },
+  "https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOmeV5PfAQxa3moMNy2q6r9JQI7f7qz2UhiadScjFIQ3Xuu3wqawsOshL20QzFig4PDashlUjR-giwptUDCChwuYNsUci5GMWA0ErX4HMNZ0TMIkaVYQ11zIw8MKLQqXa5tGER3kLsSFZYux0B8WM8RtWb9-oJN_ZhN7xLWKIBH16bkppORQoJwmW-q5VK/s1600/chinese-hackers.jpg",
+    "published": "2025-12-26T14:44:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware A China-linked advanced persistent threat (APT) group has been attributed to a highly-targeted cyber espionage campaign in which the adversary poisoned Domain Name System (DNS) requests to deliver its \u2026",
+    "title": "China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware"
+  },
   "https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBqWp3MxMTIJGzJ80yzXzhZCQc_ohjdhk1BJaVaIWvIQgGba88Xra_FRs2FH4JFse3UIBgw9gtP0TinJmcYKJJm_gol3V0OVgNCiJc61rCvRfcLDXv0RFp9h8PluVcWQhNswpfkch27yK9eUcUek1DN2Rw39UroiwJfTaX8SdYv-Dld7upAcKnDV4l1VnI/s1600/cpcp.jpg",
@@ -1327,6 +1336,15 @@
     "source": "The Hacker News",
     "summary": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware Cybersecurity researchers have disclosed details of a new campaign that has used cracked software distribution sites as a distribution vector for a new version of a modular and stealthy loader known as\u2026",
     "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware"
+  },
+  "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0BFnjQXtbmQXOq0oqe3ZVSI5MmeHtzjLyjTEEX3oJrDGGVYcdHlYnhwuJdxNKQEP-0yZ_V_3Q2Ph3tTbnrT7Bfvs1YJBqpjhinaGuLSjhcjnkd_y_egHM22tk8kJSyc8CVQtnAd3_CWjzw6HlsbiPc8ZFRuyFDv8CeA1H4xtGZZi_x6dXI3IIXA2Mx3Yu/s1600/langchain.jpg",
+    "published": "2025-12-26T09:27:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection A critical security flaw has been disclosed in LangChain Core that could be exploited by an attacker to steal sensitive secrets and even influence large language model (LLM) responses through prompt\u2026",
+    "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection"
   },
   "https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html": {
     "categories": [],
@@ -2092,6 +2110,15 @@
     "source": "The Hacker News",
     "summary": "Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets The threat actor known as Tomiris has been attributed to attacks targeting foreign ministries, intergovernmental organizations, and government entities in Russia with an aim to establish \u2026",
     "title": "Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets"
+  },
+  "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZP9hON3n-2zsl52VbVSUoLRU7lEedvIxRzhLddqpu6jJM7etcQZ9Mm0ojVv8614DKB7JFs8TuCtjJ5MLdfTeanXrXv5NO1WgOvjG3TuUjobHaUo6i8KNxQMD5XBTDczYKHBT-xTCb25utln7UkGwywmXvQC7joQHPv2HVJVrSug-r3S-KCOvbcifxBe1s/s1600/apps.jpg",
+    "published": "2025-12-26T15:31:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code Trust Wallet is urging users to update its Google Chrome extension to the latest version following what it described as a \"security incident\" that led to the loss of approximately $7 million.\nTh\u2026",
+    "title": "Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code"
   },
   "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html": {
     "categories": [],
@@ -4002,6 +4029,17 @@
     "summary": "Fake Calendly invites spoof top brands to hijack ad manager accounts An ongoing phishing campaign impersonates popular brands, such as Unilever, Disney, MasterCard, LVMH, and Uber, in Calendly-themed lures to steal Google Workspace and Facebook business account credentials. [...]",
     "title": "Fake Calendly invites spoof top brands to hijack ad manager accounts"
   },
+  "https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-26T20:22:28+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Fake GrubHub emails promise tenfold return on sent cryptocurrency Grubhub users received fraudulent messages, apparently from a company email address, promising a tenfold bitcoin payout in return for a transfer to a specified wallet. [...]",
+    "title": "Fake GrubHub emails promise tenfold return on sent cryptocurrency"
+  },
   "https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/": {
     "categories": [
       "Security"
@@ -4988,6 +5026,17 @@
     "source": "BleepingComputer",
     "summary": "MongoDB warns admins to patch severe RCE flaw immediately MongoDB has warned IT admins to immediately patch a high-severity vulnerability that can be exploited in remote code execution (RCE) attacks targeting vulnerable servers. [...]",
     "title": "MongoDB warns admins to patch severe RCE flaw immediately"
+  },
+  "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-vulnerability-immediately/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-24T14:18:36+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "MongoDB warns admins to patch severe vulnerability immediately MongoDB has warned IT admins to immediately patch a high-severity memory-read vulnerability that may be exploited by unauthenticated attackers remotely. [...]",
+    "title": "MongoDB warns admins to patch severe vulnerability immediately"
   },
   "https://www.bleepingcomputer.com/news/security/mozilla-firefox-gets-new-anti-fingerprinting-defenses/": {
     "categories": [
@@ -6001,6 +6050,17 @@
     "summary": "Tor switches to new Counter Galois Onion relay encryption algorithm Tor has announced improved encryption and security for the circuit traffic by replacing the old tor1 relay encryption\u00a0algorithm with a new design called Counter Galois Onion (CGO). [...]",
     "title": "Tor switches to new Counter Galois Onion relay encryption algorithm"
   },
+  "https://www.bleepingcomputer.com/news/security/trust-wallet-confirms-extension-hack-led-to-7-million-crypto-theft/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-26T09:47:08+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Trust Wallet confirms extension hack led to $7 million crypto theft Several users of the Trust Wallet Chrome extension report having their cryptocurrency wallets drained after installing a compromised extension update released on December 24,\u00a0prompting an urgent response from the\u2026",
+    "title": "Trust Wallet confirms extension hack led to $7 million crypto theft"
+  },
   "https://www.bleepingcomputer.com/news/security/turn-your-windows-11-migration-into-a-security-opportunity/": {
     "categories": [
       "Security",
@@ -6468,6 +6528,15 @@
     "summary": "APT 'Bronze Butler' Exploits Zero-Day to Root Japan Orgs A critical security issue in a popular endpoint manager (CVE-2025-61932) allowed Chinese state-sponsored attackers to backdoor Japanese businesses.",
     "title": "APT 'Bronze Butler' Exploits Zero-Day to Root Japan Orgs"
   },
+  "https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt66a3edad22848133/694d5c1009ef5206f0578793/techtrend-llm-code-secure.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-26T13:04:07+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "As More Coders Adopt AI Agents, Security Pitfalls Lurk in 2026 Developers are leaning more heavily on AI for code generation, but in 2026, the development pipeline and security need to be prioritized.",
+    "title": "As More Coders Adopt AI Agents, Security Pitfalls Lurk in 2026"
+  },
   "https://www.darkreading.com/application-security/contagious-interview-malicious-npm-package-factory": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltea35cc90b7aee467/692ee5ba143b2af1a4d16b71/northkorea_DD_Images_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -6493,6 +6562,15 @@
     "source": "darkreading",
     "summary": "Critical Fortinet FortiWeb WAF Bug Exploited in the Wild The vulnerability could allow an unauthenticated attacker to remotely execute administrative commands.",
     "title": "Critical Fortinet FortiWeb WAF Bug Exploited in the Wild"
+  },
+  "https://www.darkreading.com/application-security/dark-reading-opens-state-appsec-survey": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte32ef2932d7a4117/66a95345fd20b827be022197/survey(1800)_Yuri_Arcurs_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-26T12:00:48+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Dark Reading Opens The State of Application Security Survey Take part in the new survey from Dark Reading and help uncover trends, challenges, and solutions shaping the future of application security.",
+    "title": "Dark Reading Opens The State of Application Security Survey"
   },
   "https://www.darkreading.com/application-security/fake-proof-ai-slop-hobble-defenders": {
     "categories": [],
@@ -7081,6 +7159,15 @@
     "source": "darkreading",
     "summary": "How Agentic AI Can Boost Cyber Defense Transurban head of cyber defense Muhammad Ali Paracha shares how his team is automating the triaging and scoring of security threats as part of the Black Hat Middle East conference.",
     "title": "How Agentic AI Can Boost Cyber Defense"
+  },
+  "https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8e5cfc50a562f286/69456796bbf6bc28b7111ebb/plants1800_Perry_van_Munster_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-26T15:15:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Mentorship and Diversity: Shaping the Next Generation of Cyber Experts Patricia Voight, CISO at Webster Bank, shares her expertise on advancing cybersecurity careers, combating financial crimes, and championing diversity in a rapidly changing industry.",
+    "title": "Mentorship and Diversity: Shaping the Next Generation of Cyber Experts"
   },
   "https://www.darkreading.com/cybersecurity-careers/shadow-program-gives-aws-exec-new-security-lens": {
     "categories": [],
