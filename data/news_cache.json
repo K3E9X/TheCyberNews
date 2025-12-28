@@ -1796,6 +1796,15 @@
     "summary": "New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper Cybersecurity researchers have discovered a new variant of a macOS information stealer called MacSync that's delivered by means of a digitally signed, notarized Swift application masquerading as a messaging app \u2026",
     "title": "New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper"
   },
+  "https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyT_32t0dBjwnGTamsqSrB1jdPxZFMFb_GMzemmxXBm3HbtqrnJNx4VqVUF8tMKdHStEwTAU-PLcOHDKsbHvF9SSVig_OGEnWFKl81BORRb5h34UUFitJuYJOF-Trvrq-nFm5m-AzFe_dQRWYJgCOTJvzVnSzXCRgEAshv0EHR35OKUxGHr3qYg-M1vQHV/s1600/mongodb.jpg",
+    "published": "2025-12-27T07:52:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory A high-severity security flaw has been disclosed in MongoDB that could allow unauthenticated users to read uninitialized heap memory.\nThe vulnerability, tracked as CVE-2025-14847 (CVSS score: 8.7), has been\u2026",
+    "title": "New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory"
+  },
   "https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQz6FV9qkD3ZQ34_-_te7LAvOtZNopi3bQRTQq3TCojcBmPoef7tp-tgxFhffuFYyC5kvbdfEJMIBjwMn-rPElYlnpKG9kj89lPIAde8h_lYZRKq6a4mfiH6VWDXwIqFwimchyQ8M7RUvLd2_cAUi2aqcDyXZI_uDJcjfl1SyScuC96LV9RPhcDan3FJpQ/s1600/react-flaws.jpg",
@@ -2431,6 +2440,18 @@
     "source": "BleepingComputer",
     "summary": "OpenAI says its latest GPT-5.1 Codex can code independently for hours OpenAI has started rolling out GPT 5.1-Codex-Max on Codex with a better performance on coding tasks. [...]",
     "title": "OpenAI says its latest GPT-5.1 Codex can code independently for hours"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2025-12-27T09:46:54+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers OpenAI is reportedly mulling a new form of ads on ChatGPT called \"sponsored content,\" which could influence your buying decisions. [...]",
+    "title": "OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/xais-grok-41-rolls-out-with-improved-quality-and-speed-for-free/": {
     "categories": [
@@ -4916,6 +4937,18 @@
     "source": "BleepingComputer",
     "summary": "Marquis data breach impacts over 74 US banks, credit unions Financial software provider Marquis Software Solutions is warning that it suffered a data breach that impacted dozens of banks and credit unions across the US. [...]",
     "title": "Marquis data breach impacts over 74 US banks, credit unions"
+  },
+  "https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/": {
+    "categories": [
+      "Security",
+      "Gaming"
+    ],
+    "image": "",
+    "published": "2025-12-28T05:44:21+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Massive Rainbow Six Siege breach gives players billions of credits Ubisoft's Rainbow Six Siege (R6) suffered a breach that allowed hackers to abuse internal systems to ban and unban players, manipulate in-game moderation feeds, and grant massive amounts of in-game currency and co\u2026",
+    "title": "Massive Rainbow Six Siege breach gives players billions of credits"
   },
   "https://www.bleepingcomputer.com/news/security/media-giant-nikkei-reports-data-breach-impacting-17-000-people/": {
     "categories": [
