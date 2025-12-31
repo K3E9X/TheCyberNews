@@ -1391,6 +1391,15 @@
     "summary": "Critical XXE Bug CVE-2025-66516 (CVSS 10.0) Hits Apache Tika, Requires Urgent Patch A critical security flaw has been disclosed in Apache Tika that could result in an XML external entity (XXE) injection attack.\nThe vulnerability, tracked as CVE-2025-66516, is rated 10.0 on the CV\u2026",
     "title": "Critical XXE Bug CVE-2025-66516 (CVSS 10.0) Hits Apache Tika, Requires Urgent Patch"
   },
+  "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDGmYwQ8c2eXwEoxAV4oGX21DPSHEpPLFUcOpQPAs7kXyKyG-bd41diqFVSWAm_kERqHzynIxLke6Aj4JU9LxRVyC3CB-dsq3Rm4B8KHyNUd7y_5uQvl3rgizk8dmhwQLWDVuvGCTKH6c83Etx9Bwtvr_hvPhIq35iFNgRLLFCGON5cTSwj3KlYk5C25Fh/s1600/mail.jpg",
+    "published": "2025-12-30T16:28:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email software that could be exploited to achieve remote code exe\u2026",
+    "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution"
+  },
   "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxESPxb37jzd_NrYS5eE_3cpBnlkxGqHJXXIQie1ZOae6cudWSMn8s8AM6E0npcrXT21zyDMA7h_StlMrfO7uHYBHHjtxKGJUuzN-QzlYNJjVo9eKzETAg1ORiJ8HWMTHoe4ME37KRf5QYSw8RmbFo8WoL28T2__Vg8VDuqO7Mq3LZ7Ao_oYdtWZjD6e3n/s1600/ai-hacking.jpg",
@@ -1589,6 +1598,15 @@
     "summary": "How to Browse the Web More Sustainably With a Green Browser As the internet becomes an essential part of daily life, its environmental footprint continues to grow.&nbsp;\nData centers, constant connectivity, and resource-heavy browsing habits all contribute to energy consumption a\u2026",
     "title": "How to Browse the Web More Sustainably With a Green Browser"
   },
+  "https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeQsyuyYxxOLBhyphenhyphenPUOI-UHGn8mxloyzn4GBFnuh7p3h7XUB7Z2K2kWdI2A-k0v5GKJqRANeUQ8NZknDo1M5zTdqyYyTC3vAKThq201gtemBUHiFq1GjWc1VrfMPKS7knIFoV7mO-l20SaKKVbHs-t86wVFDEqjUz-VQkVXOiB6hD5QlzLVWdQYml3tPww/s1600/sans.jpg",
+    "published": "2025-12-30T09:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "How to Integrate AI into Modern SOC Workflows Artificial intelligence (AI) is making its way into security operations quickly, but many practitioners are still struggling to turn early experimentation into consistent operational value. This is because SOCs are adopting AI without\u2026",
+    "title": "How to Integrate AI into Modern SOC Workflows"
+  },
   "https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH2Vp1tGLWh8MZqrb8A89wnY6EiB7tOnSURBp8iBE-pmJOwkrBSOUU1ixEDZjfWbEEv3Vp5KjxLS6qKJHLRJ2R2diF4aAC43LxRwN4nTlnJIXGGhA0V4O9ny-KSUh3__yMn1rA01CjTAKQqaQFQPvSBgTcfL0t0xN6N_3v_wlo1pwJaVm5Qz_TTn4dAeM/s1600/tines.jpg",
@@ -1759,6 +1777,15 @@
     "source": "The Hacker News",
     "summary": "MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign The Iranian hacking group known as MuddyWater has been observed leveraging a new backdoor dubbed UDPGangster that uses the User Datagram Protocol (UDP) for command-and-control (C2) purposes.\nThe\u2026",
     "title": "MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign"
+  },
+  "https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjecDtf2H25Vece2raxEXtqLjCcgahGUR7FG5NIKWeyx6uIvaFtMlBZUrxC3Yz7RKWiVsbXyllunwBYTBEHgct6q99xvKtNR3U9SvdxMOnfbiU4UN8UgO_CLq5yowN3ZwYvw0oI5Hv7K8A14kLHv4EJaLZzowPdhSNBCE86fJF8G30qcTYYmBWCY4mMSEoh/s1600/rootkit.jpg",
+    "published": "2025-12-30T08:35:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor The Chinese hacking group known as Mustang Panda has leveraged a previously undocumented kernel-mode rootkit driver to deliver a new variant of backdoor dubbed TONESHELL in a cyber attack detected in mid-202\u2026",
+    "title": "Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor"
   },
   "https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html": {
     "categories": [],
@@ -2021,6 +2048,15 @@
     "summary": "ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware A threat actor known as ShadyPanda has been linked to a seven-year-long browser extension campaign that has amassed over 4.3 million installations over time.\nFive of these extensions started off as\u2026",
     "title": "ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware"
   },
+  "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTjxYF8a3raCHDKDawUyyfucLX4__gbjxE1-iVkP7DWO6wmxAz_c8HjKmGT5LIc3owZvwIoEpNMFg7ahikG0vgK1ccyTXlw6bE8bFcDrXoyPzm9yfCDMJqbEIgwowlGFggrhjvinRXfk0A4NTtPqaGYazaABx6QUESPUcm2kuazYtNq01dWgPHpiadpySF/s1600/email.jpg",
+    "published": "2025-12-30T10:46:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware The threat actor known as Silver Fox has turned its focus to India, using income tax-themed lures in phishing campaigns to distribute a modular remote access trojan called ValleyRAT (aka Winos 4.0\u2026",
+    "title": "Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware"
+  },
   "https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOGRDm-2Em-PIUKEQzdon3yjLDInkZdDnDzgWKhQ0q6QmtDagHyiGNa2KRwJsUQEPnqLnfkTdHKiGyBIx3S4RiVlZ7Y4RlSn-rRbKF9SkZFEWf-6sYNMA3NE6-0DxziItdI81lLne3G63Gy5Pmdy9dd9W9CDS7lou5SwO0GvhzzV02F61MvGeanfeQBhri/s1600/msteams.jpg",
@@ -2191,6 +2227,15 @@
     "source": "The Hacker News",
     "summary": "U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme The U.S. Justice Department (DoJ) on Monday announced the seizure of a web domain and database that it said was used to further a criminal scheme designed to target and defraud Americans by means of a \u2026",
     "title": "U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme"
+  },
+  "https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV9iYApTtWG0KxgphidiTj5byahP3v542tKMm1cMrVGsc4_KDJKA41BBDM0BbaiusYU-zCVytBp99VDpal0qJpvdyWinLrCLitoGYeMQ4FI1Bb-kJppiAUPSBMeMFNRre-m0NZ-ZFSjCIiPbo2DVFBa7K8qJnsRAl7eZ37tAhVmKLb7B5YLUdyLJgJDE8S/s1600/spy.jpg",
+    "published": "2025-12-31T05:17:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) on Tuesday removed three individuals linked to the Intellexa Consortium, the holding company behind a commerci\u2026",
+    "title": "U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware"
   },
   "https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html": {
     "categories": [],
@@ -3574,6 +3619,17 @@
     "summary": "CISA: High-severity Linux flaw now exploited by ransomware gangs CISA confirmed on Thursday that a high-severity privilege escalation flaw in the Linux kernel is now being exploited in ransomware attacks. [...]",
     "title": "CISA: High-severity Linux flaw now exploited by ransomware gangs"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-30T14:40:13+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA orders feds to patch MongoBleed flaw exploited in attacks CISA ordered U.S. federal agencies to patch an actively exploited MongoDB vulnerability (MongoBleed) that can be exploited to steal credentials, API keys, and other sensitive data. [...]",
+    "title": "CISA orders feds to patch MongoBleed flaw exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-geoserver-flaw/": {
     "categories": [
       "Security"
@@ -4100,6 +4156,17 @@
     "source": "BleepingComputer",
     "summary": "Police arrests suspects linked to \u20ac600 million crypto fraud ring European law enforcement authorities have arrested nine suspected money launderers who set up a cryptocurrency fraud network that stole over \u20ac600 million ($689 million) from victims across multiple countries. [...]",
     "title": "Police arrests suspects linked to \u20ac600 million crypto fraud ring"
+  },
+  "https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-30T16:26:56+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "European Space Agency confirms breach of \"external servers\" The European Space Agency (ESA) confirmed that attackers recently breached servers outside its corporate network, which contained what it described as \"unclassified\" information on collaborative engineering activities. [\u2026",
+    "title": "European Space Agency confirms breach of \"external servers\""
   },
   "https://www.bleepingcomputer.com/news/security/europol-credit-card-fraud-rings-stole-eur-300-million-from-43-million-cardholders/": {
     "categories": [
@@ -5309,6 +5376,17 @@
     "summary": "New DroidLock malware locks Android devices and demands a ransom A new Android malware called DroidLock has emerged with capabilities to lock screens for ransom payments, erase data, access text messages, call logs, contacts, and audio data. [...]",
     "title": "New DroidLock malware locks Android devices and demands a ransom"
   },
+  "https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-30T21:08:28+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New ErrTraffic service enables ClickFix attacks via fake browser glitches A new cybercrime tool\u00a0called ErrTraffic allows threat actors to automate ClickFix attacks by generating 'fake glitches' on compromised websites to lure users into downloading payloads or following malicious\u2026",
+    "title": "New ErrTraffic service enables ClickFix attacks via fake browser glitches"
+  },
   "https://www.bleepingcomputer.com/news/security/new-indonesianfoods-worm-floods-npm-with-100-000-packages/": {
     "categories": [
       "Security"
@@ -6450,6 +6528,17 @@
     "summary": "US cybersecurity experts indicted for BlackCat ransomware attacks Three former employees of cybersecurity incident response companies DigitalMint and Sygnia have been indicted for allegedly hacking the networks of five U.S. companies in BlackCat (ALPHV) ransomware attacks between\u2026",
     "title": "US cybersecurity experts indicted for BlackCat ransomware attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-30T15:25:17+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "US cybersecurity experts plead guilty to BlackCat ransomware attacks Two former employees of cybersecurity incident response companies Sygnia and DigitalMint have pleaded guilty to targeting U.S. companies in BlackCat (ALPHV) ransomware attacks in 2023. [...]",
+    "title": "US cybersecurity experts plead guilty to BlackCat ransomware attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/": {
     "categories": [
       "Security"
@@ -6638,6 +6727,17 @@
     "source": "BleepingComputer",
     "summary": "Zeroday Cloud hacking event awards $320,0000 for 11 zero days The Zeroday Cloud hacking competition in London has awarded researchers\u00a0$320,000 for demonstrating critical remote code execution vulnerabilities in components used in cloud infrastructure. [...]",
     "title": "Zeroday Cloud hacking event awards $320,0000 for 11 zero days"
+  },
+  "https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-30T15:41:53+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Zoom Stealer browser extensions harvest corporate meeting intelligence A newly discovered campaign, which researchers call Zoom Stealer, is affecting 2.2 million Chrome, Firefox, and Microsoft Edge users through 18 extensions that collect online meeting-related data like URLs, ID\u2026",
+    "title": "Zoom Stealer browser extensions harvest corporate meeting intelligence"
   },
   "https://www.bleepingcomputer.com/news/software/thunderbird-adds-native-support-for-microsoft-exchange-accounts/": {
     "categories": [
@@ -6962,6 +7062,15 @@
     "source": "darkreading",
     "summary": "A Cybersecurity Playbook for AI Adoption AI adds real value to cybersecurity today, but it cannot yet serve as a single security guardian. Here's how organizations can safely combine AI-driven analysis with deterministic rules and proven security practices.",
     "title": "A Cybersecurity Playbook for AI Adoption"
+  },
+  "https://www.darkreading.com/cyber-risk/cybersecurity-tech-recommended-by-cyber-insurer-claims-data": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt589adff292f66ec0/6938442c5b08896025888bb4/cyber-insurance-products-Photon_photo-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-30T13:56:23+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "New Tech Deployments That Cyber Insurers Recommend for 2026 An analysis of cyber-insurance claims data shows which cyber defenses actually work for policyholders. Here are six technologies that will pay off for companies in 2026.",
+    "title": "New Tech Deployments That Cyber Insurers Recommend for 2026"
   },
   "https://www.darkreading.com/cyber-risk/grandparents-to-c-suite-elder-fraud-reveals-gaps-in-human-centered-cybersecurity": {
     "categories": [],
