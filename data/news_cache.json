@@ -1400,6 +1400,15 @@
     "summary": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email software that could be exploited to achieve remote code exe\u2026",
     "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution"
   },
+  "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3BlrabuZMmyZXh7mVD8BfgxW1K7DaJwh4FqMKyPBod0SCwsR2L24g7oYk4e4hJnScEHlg4HMWEZ2041ZzwMnbs9gEQ0bNcCIu38ZhNtum_YNF01PEJBOI-O_qd4wSLxmYvrAvlnLugMGX9uolGrhsRvWT5uYX1p2z8YgwbY6qdgmJZcp5yPn6RlAhIMe2/s1600/browser.jpg",
+    "published": "2025-12-31T16:14:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide The threat actor behind two malicious browser extension campaigns, ShadyPanda and GhostPoster, has been attributed to a third attack campaign codenamed DarkSpectre that has impacted 2.2 mi\u2026",
+    "title": "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide"
+  },
   "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxESPxb37jzd_NrYS5eE_3cpBnlkxGqHJXXIQie1ZOae6cudWSMn8s8AM6E0npcrXT21zyDMA7h_StlMrfO7uHYBHHjtxKGJUuzN-QzlYNJjVo9eKzETAg1ORiJ8HWMTHoe4ME37KRf5QYSw8RmbFo8WoL28T2__Vg8VDuqO7Mq3LZ7Ao_oYdtWZjD6e3n/s1600/ai-hacking.jpg",
@@ -1624,6 +1633,15 @@
     "source": "The Hacker News",
     "summary": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in remote code execution.\nThe critical vulnerability, ass\u2026",
     "title": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution"
+  },
+  "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_6aF_LtBQsxfp7ziJZ57TatgdnnjgWwDKQRdgCbPqj8o5Fk-wS94TV1LNcXqTTAr6sgpty7xjiZ58uFabTBr7az46u52ETTgROTfakpeYBSRAXMjrNkyWdCtJehPjCZGGFalG59NRL8VPfQbe-F9R8ZLmGQ0EBXw0bgh0XStROWKpyIio2-3MOK3qH1Z2/s1600/ibm.jpg",
+    "published": "2025-12-31T13:37:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System IBM has disclosed details of a critical security flaw in API Connect that could allow attackers to gain remote access to the application.\nThe vulnerability, tracked as CVE-2025-13915, is rated 9.8 out of a maxi\u2026",
+    "title": "Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System"
   },
   "https://thehackernews.com/2025/12/india-orders-messaging-apps-to-work.html": {
     "categories": [],
@@ -1985,6 +2003,15 @@
     "summary": "Researchers Find Malicious VS Code, Go, npm, and Rust Packages Stealing Developer Data Cybersecurity researchers have discovered two new extensions on Microsoft Visual Studio Code (VS Code) Marketplace that are designed to infect developer machines with stealer malware.\nThe VS Co\u2026",
     "title": "Researchers Find Malicious VS Code, Go, npm, and Rust Packages Stealing Developer Data"
   },
+  "https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLzpeFOZHp8C7GZ0cMe57PMU10zY3RqrxkvwgczNMI5wgXFupY9-FWJ9YcOxsXyp8CS2DeqAPdzbyWgRIORNHw07bTMNOSidgkAI7CHrQ58iw8E027cxPGaxNmpQYEooO2OyRlWRe96ebuX1wSLsqOB7doUZaKELDsTn-vh3ht6Ti2RN1VTnTfsTtu13gA/s1600/npm.jpg",
+    "published": "2025-12-31T13:29:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry Cybersecurity researchers have disclosed details of what appears to be a new strain of Shai Hulud on the npm registry with slight modifications from the previous wave observed last month.\nThe npm package th\u2026",
+    "title": "Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry"
+  },
   "https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyOpPc8ucnigXsFagXjVCnBwywXC-OOemw_QXXkGAPjAa1YKv0ViLZEPg0AtaGss65NKfl2M7gR9XwjgbFHgxPliOMkLEJ14VEXyLuuqwvqkH0Hj4aCDGKBbRtKuX3j3hmHCD05EKU1K74YgR8m4TdZu2_CZ_cqnWLZRmuvitlyjUW6wE2suxA8Y8oHGNY/s1600/ai-coding.jpg",
@@ -2191,6 +2218,15 @@
     "source": "The Hacker News",
     "summary": "Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code Trust Wallet is urging users to update its Google Chrome extension to the latest version following what it described as a \"security incident\" that led to the loss of approximately $7 million.\nTh\u2026",
     "title": "Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code"
+  },
+  "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMbGd5gZt4LivTf91n0rkIqb96QTFiXAPUGZIjWetmK58EeBHuQNFM6PQ1WHeNdTsg5GmtM9qWLoNz1jXn9S1t_zbP02pp62aPKYqruzZ81_fqujiRFvpj1MTxKP9VA6jeNk2Xw4Szx1UJ3ndXXEaV9-T9e0uFqieAuvHlmLRiU2RjTEkDf-Ft9YL6pyx-/s1600/crypto.jpg",
+    "published": "2025-12-31T16:29:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack Trust Wallet on Tuesday revealed that the second iteration of the Shai-Hulud (aka Sha1-Hulud) supply chain outbreak in November 2025 was likely responsible for the hack of its Google Chrome extensi\u2026",
+    "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack"
   },
   "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html": {
     "categories": [],
@@ -4063,6 +4099,17 @@
     "summary": "Denmark blames Russia for destructive cyberattack on water utility Danish intelligence officials blamed Russia for orchestrating cyberattacks against Denmark's critical infrastructure, as part of Moscow's hybrid attacks against Western nations. [...]",
     "title": "Denmark blames Russia for destructive cyberattack on water utility"
   },
+  "https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-31T09:43:26+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Disney will pay $10 million to settle children's data privacy lawsuit Disney has agreed to pay a $10 million civil penalty to settle claims that it violated the Children's Online Privacy Protection Act by mislabeling videos and allowing data collection for targeted advertising. [\u2026",
+    "title": "Disney will pay $10 million to settle children's data privacy lawsuit"
+  },
   "https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/": {
     "categories": [
       "Security",
@@ -4738,6 +4785,18 @@
     "summary": "Hackers are exploiting ArrayOS AG VPN flaw to plant webshells Threat actors have been exploiting a command injection vulnerability in Array AG Series VPN devices to plant webshells and create rogue users. [...]",
     "title": "Hackers are exploiting ArrayOS AG VPN flaw to plant webshells"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2025-12-31T15:54:17+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Hackers drain $3.9M from Unleash Protocol after multisig hijack The decentralized intellectual property platform Unleash Protocol has lost around $3.9 million\u00a0worth of cryptocurrency after someone executed an unauthorized contract upgrade that allowed asset withdrawals. [...]",
+    "title": "Hackers drain $3.9M from Unleash Protocol after multisig hijack"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-flaw-in-jobmonster-wordpress-theme/": {
     "categories": [
       "Security"
@@ -4883,6 +4942,17 @@
     "source": "BleepingComputer",
     "summary": "Iberia discloses customer data leak after vendor security breach Spanish flag carrier Iberia has begun notifying customers of a data security incident stemming from a compromise at one of its suppliers. The disclosure comes days after a threat actor claimed on hacker forums to ha\u2026",
     "title": "Iberia discloses customer data leak after vendor security breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-31T10:34:38+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "IBM warns of critical API Connect auth bypass vulnerability IBM urged customers to patch a critical authentication bypass vulnerability in its API Connect enterprise platform that could allow attackers to access apps remotely. [...]",
+    "title": "IBM warns of critical API Connect auth bypass vulnerability"
   },
   "https://www.bleepingcomputer.com/news/security/id-verification-laws-are-fueling-the-next-wave-of-breaches/": {
     "categories": [
@@ -5605,6 +5675,18 @@
     "summary": "Notepad++ fixes flaw that let attackers push malicious update files Notepad++ version 8.8.9 was released to fix a security weakness in its WinGUp update tool after researchers and users reported incidents in which the updater retrieved malicious executables instead of legitimate \u2026",
     "title": "Notepad++ fixes flaw that let attackers push malicious update files"
   },
+  "https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/": {
+    "categories": [
+      "Security",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2025-12-31T22:52:44+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices New York City's 2026 mayoral inauguration of Zohran Mamdani has published a list of banned items for the event, specifically prohibiting the Flipper Zero and Raspberry Pi devices. [...]",
+    "title": "NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices"
+  },
   "https://www.bleepingcomputer.com/news/security/oauth-device-code-phishing-azure-vs-google-compared/": {
     "categories": [
       "Security"
@@ -6005,6 +6087,17 @@
     "source": "BleepingComputer",
     "summary": "Romanian water authority hit by ransomware attack over weekend Romanian Waters\u00a0(Administra\u021bia Na\u021bional\u0103 Apele Rom\u00e2ne),\u00a0the country's water management authority, was hit by a ransomware attack over the weekend. [...]",
     "title": "Romanian water authority hit by ransomware attack over weekend"
+  },
+  "https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-12-31T14:58:51+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "RondoDox botnet exploits React2Shell flaw to breach Next.js servers The RondoDox botnet has been observed exploiting the critical React2Shell flaw\u00a0(CVE-2025-55182) to infect\u00a0vulnerable Next.js servers with malware and cryptominers. [...]",
+    "title": "RondoDox botnet exploits React2Shell flaw to breach Next.js servers"
   },
   "https://www.bleepingcomputer.com/news/security/rondodox-botnet-malware-now-hacks-servers-using-xwiki-flaw/": {
     "categories": [
@@ -7063,6 +7156,15 @@
     "summary": "A Cybersecurity Playbook for AI Adoption AI adds real value to cybersecurity today, but it cannot yet serve as a single security guardian. Here's how organizations can safely combine AI-driven analysis with deterministic rules and proven security practices.",
     "title": "A Cybersecurity Playbook for AI Adoption"
   },
+  "https://www.darkreading.com/cyber-risk/cybersecurity-predictions-2026-an-ai-arms-race-and-malware-autonomy": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6da71c7236b44e30/694ae29f19b0239070b0480f/AI_brain_sleepyellow_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-30T14:00:25+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Cybersecurity Predictions 2026: An AI Arms Race and Malware Autonomy The year ahead will see an intensified AI-driven cybersecurity arms race, with attackers leveraging autonomous malware and advanced AI technologies to outpace defenders, while security teams adopt increasingly s\u2026",
+    "title": "Cybersecurity Predictions 2026: An AI Arms Race and Malware Autonomy"
+  },
   "https://www.darkreading.com/cyber-risk/cybersecurity-tech-recommended-by-cyber-insurer-claims-data": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt589adff292f66ec0/6938442c5b08896025888bb4/cyber-insurance-products-Photon_photo-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -7146,6 +7248,15 @@
     "source": "darkreading",
     "summary": "ShadowRay 2.0 Turns AI Clusters into Crypto Botnets A threat actor is leveraging a flaw in the Ray framework to hijack AI infrastructure worldwide and distribute a self-propagating cryptomining and data theft botnet.",
     "title": "ShadowRay 2.0 Turns AI Clusters into Crypto Botnets"
+  },
+  "https://www.darkreading.com/cyber-risk/sunken-ships-ivanti-epmm-attacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1b1f18324a311ce1/69556122b3a3849fe0bc4ff1/ChineseShip-Everett_Collection_Historical-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-31T17:35:27+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Sunken Ships: Will Orgs Learn From Ivanti EPMM Attacks? The April/May zero-day exploitations of Ivanti's mobile device management platform meant unprecedented pwning of thousands of orgs by a Chinese APT \u2014 and history will probably repeat itself.",
+    "title": "Sunken Ships: Will Orgs Learn From Ivanti EPMM Attacks?"
   },
   "https://www.darkreading.com/cyber-risk/trade-concerns-trumping-cybersecurity": {
     "categories": [],
@@ -7602,6 +7713,15 @@
     "summary": "Cloudflare's One-Stop-Shop Convenience Takes Down Global Digital Economy Even the most advanced systems like Cloudflare can fall victim to software issues and become a global point of failure, Dr. David Utzke argues, adding that the recent outage should be a warning for enterpris\u2026",
     "title": "Cloudflare's One-Stop-Shop Convenience Takes Down Global Digital Economy"
   },
+  "https://www.darkreading.com/cybersecurity-operations/contrarians-no-more-ai-skepticism": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98c8a5621535152e/69444fc56f8345f06e1cc60b/aibubble_Brainlight_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-31T14:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Contrarians No More: AI Skepticism Is on the Rise Concerns about an economic bubble bursting, along with doubts regarding return on investment, suggest the tide may be turning for the artificial intelligence industry.",
+    "title": "Contrarians No More: AI Skepticism Is on the Rise"
+  },
   "https://www.darkreading.com/cybersecurity-operations/cybersecurity-tips-cato-networks-ciso": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0f2080be736ddd98/6939d2fc465bc6e9b1803192/attacker1800_Cinematic_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -7735,6 +7855,15 @@
     "source": "darkreading",
     "summary": "ServiceNow Buys Armis for $7.75B, Boosts 'AI Control Tower' Its latest cybersecurity acquisition will help further ServiceNow's plans for autonomous cybersecurity, and building a security stack to proactively manage AI.",
     "title": "ServiceNow Buys Armis for $7.75B, Boosts 'AI Control Tower'"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/stop-secrets-creep-across-developer-platforms": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-29T18:55:13+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Dark Reading Confidential: Stop Secrets Creep Across Developer Platforms Dark Reading Confidential Episode 13: Developers are exposing their organizations' most sensitive information; our guests explain why it's happening and how to stop it.",
+    "title": "Dark Reading Confidential: Stop Secrets Creep Across Developer Platforms"
   },
   "https://www.darkreading.com/cybersecurity-operations/the-ciso-coo-partnership-protecting-operational-excellence": {
     "categories": [],
@@ -7939,6 +8068,15 @@
     "summary": "Identity Governance and Administration, App Proliferation, and the App Integration Chasm Most enterprises use more than 1,000 apps, according to ESG research, yet about half are integrated with IGA. Industry innovations enable teams to expand app coverage and get more IGA value.",
     "title": "Identity Governance and Administration, App Proliferation, and the App Integration Chasm"
   },
+  "https://www.darkreading.com/identity-access-management-security/identity-security-2026-predictions-and-recommendations": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6820a838ed160c35/694ae4ceec15802bd5c05f8f/digital_identity.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-31T14:00:58+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Identity Security 2026: Four Predictions &amp; Recommendations Agentic AI adoption and identity security risks, IGA expands in mid-market, SOC-identity team collaboration, and identity platform consolidation\u2014this 2026 predictions post previews identity trends.",
+    "title": "Identity Security 2026: Four Predictions &amp; Recommendations"
+  },
   "https://www.darkreading.com/identity-access-management-security/sso-passkeys-password-bad-habits": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf3dea4efe34ef9c9/654e3a08321529040a095d12/Passwords-1800_designer491_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -7946,6 +8084,15 @@
     "source": "darkreading",
     "summary": "Orgs Move to SSO, Passkeys to Solve Bad Password Habits In 2025, employees are still using weak passwords. Instead of forcing an impossible change, security leaders are working around the problem.",
     "title": "Orgs Move to SSO, Passkeys to Solve Bad Password Habits"
+  },
+  "https://www.darkreading.com/iot/when-cloud-rains-on-everyone-iot-parade": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8f3cabb4053c4833/654e396c625482040ad585cc/Rainy_day_Zoonar_GmbH_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-12-31T14:31:37+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "When the Cloud Rains on Everyone's IoT Parade What happens to all of those always-connected devices when the cloud goes down? Disruptions to sleep, school, and smart homes, just to name a few issues.",
+    "title": "When the Cloud Rains on Everyone's IoT Parade"
   },
   "https://www.darkreading.com/mobile-security/landfall-malware-targeted-samsung-galaxy-users": {
     "categories": [],
