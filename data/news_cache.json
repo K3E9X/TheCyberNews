@@ -2399,6 +2399,33 @@
     "summary": "Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails A new agentic browser attack targeting Perplexity's Comet browser that's capable of turning a seemingly innocuous email into a destructive action that wipes a user's entire Google Drive contents\u2026",
     "title": "Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails"
   },
+  "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv_KQxQETJOGQo3bnCQJDl_q0JjioroSN5Jrh3NWhbSoQ0b5VbaBBfodYWplOfTNRyR-s08yD5yjWX0STJVTSjQIS-2iGk9fWae2WsFdFi7BgVVgBKMoeFc-5wSTHrmAV3XQ_201aIGRqiZROKfo0gzePyHDmBV3Y_SEMsJIx2id4Lc9Dg1oOb7VCvyXk/s1600/Adapt-Browser-1.jpg",
+    "published": "2026-01-01T05:47:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "How To Browse Faster and Get More Done Using Adapt Browser As web browsers evolve into all-purpose platforms, performance and productivity often suffer.&nbsp;\nFeature overload, excessive background processes, and fragmented workflows can slow down browsing sessions and introduce \u2026",
+    "title": "How To Browse Faster and Get More Done Using Adapt Browser"
+  },
+  "https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQtdlV7ySzud6pktbmLsSyAnWoLz3a-ROUuyJ1mvoIfcbCrlQkb2dQJ9TqxDFk3dtTqO7H2XEFznwMmOoM2CEGaU41loeAh4MYXWm5L3rVdUCH4WyVZlp68Z-dTthmsTAcrS3l9LIDxrmEIYkMGDgVAQYtfXgVPes9kB2F_ilQxWd8qeK0JCJbo1JUmQ6d/s1600/botnet.jpg",
+    "published": "2026-01-01T09:19:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers Cybersecurity researchers have disclosed details of a persistent nine-month-long campaign that has targeted Internet of Things (IoT) devices and web applications to enroll them into a botnet \u2026",
+    "title": "RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers"
+  },
+  "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpopD3Sr47ByE_zUhbMp2X-Y6mYwjadauTKcWNbN0U0__mj7sWOxknQhTJ1O4n97vYFSsGrJ4NR1jA1GGpqNDWDqiZkBcJF9BXJ9GB6nkjqlizHrxSyd37gCO87MwUOcjLnCicQv5htud-3JzoTZeDO6qxHAtiFfbE4y7IK1QQnos0LYbrs4b3qZ2gq3Zk/s1600/threatsday.jpg",
+    "published": "2026-01-01T15:52:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories The first ThreatsDay Bulletin of 2026 lands on a day that already feels symbolic \u2014 new year, new breaches, new tricks. If the past twelve months taught defenders anything, it\u2019s that \u2026",
+    "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories"
+  },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/": {
     "categories": [
       "Artificial Intelligence",
@@ -2536,6 +2563,18 @@
     "source": "BleepingComputer",
     "summary": "OpenAI is going Meta route, as it considers memory-based ads on ChatGPT OpenAI is planning to introduce ads on ChatGPT, as it continues to struggle with revenue from paid users. [...]",
     "title": "OpenAI is going Meta route, as it considers memory-based ads on ChatGPT"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-01T19:18:54+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI is offering $20 ChatGPT Plus for free to some users If you're already subscribed to ChatGPT Plus, which costs $20, you can request OpenAI to cancel your subscription, and it may offer one month of free usage. [...]",
+    "title": "OpenAI is offering $20 ChatGPT Plus for free to some users"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/": {
     "categories": [
@@ -5457,6 +5496,18 @@
     "summary": "New ErrTraffic service enables ClickFix attacks via fake browser glitches A new cybercrime tool\u00a0called ErrTraffic allows threat actors to automate ClickFix attacks by generating 'fake glitches' on compromised websites to lure users into downloading payloads or following malicious\u2026",
     "title": "New ErrTraffic service enables ClickFix attacks via fake browser glitches"
   },
+  "https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-01-01T15:18:23+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New GlassWorm malware wave targets Macs with trojanized crypto wallets A fourth wave of the\u00a0\"GlassWorm\" campaign is targeting macOS developers with malicious VSCode/OpenVSX extensions that deliver trojanized versions of crypto wallet applications. [...]",
+    "title": "New GlassWorm malware wave targets Macs with trojanized crypto wallets"
+  },
   "https://www.bleepingcomputer.com/news/security/new-indonesianfoods-worm-floods-npm-with-100-000-packages/": {
     "categories": [
       "Security"
@@ -6353,6 +6404,17 @@
     "source": "BleepingComputer",
     "summary": "Texas sues TV makers for taking screenshots of what people watch The Texas Attorney General sued five major television manufacturers, accusing them of illegally collecting their users' data by secretly recording what they watch using Automated Content Recognition (ACR) technology\u2026",
     "title": "Texas sues TV makers for taking screenshots of what people watch"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-01T16:15:26+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "The biggest cybersecurity and cyberattack stories of 2025 2025 was a big year for cybersecurity, with cyberattacks, data breaches, threat groups reaching new notoriety levels, and, of course, zero-day flaws exploited in breaches. Some stories, though, were more impactful or popul\u2026",
+    "title": "The biggest cybersecurity and cyberattack stories of 2025"
   },
   "https://www.bleepingcomputer.com/news/security/the-black-friday-2025-cybersecurity-it-vpn-and-antivirus-deals/": {
     "categories": [
