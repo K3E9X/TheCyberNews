@@ -4885,6 +4885,17 @@
     "summary": "Hackers are exploiting ArrayOS AG VPN flaw to plant webshells Threat actors have been exploiting a command injection vulnerability in Array AG Series VPN devices to plant webshells and create rogue users. [...]",
     "title": "Hackers are exploiting ArrayOS AG VPN flaw to plant webshells"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-03T20:34:22+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers claim to hack Resecurity, firm says it was a honeypot The ShinyHunters hacking group claims it breached the systems of cybersecurity firm Resecurity and stole internal data, while Resecurity says the attackers only accessed a deliberately deployed honeypot containing fake\u2026",
+    "title": "Hackers claim to hack Resecurity, firm says it was a honeypot"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/": {
     "categories": [
       "Security",
