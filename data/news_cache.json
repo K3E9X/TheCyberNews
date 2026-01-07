@@ -2399,6 +2399,15 @@
     "summary": "Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails A new agentic browser attack targeting Perplexity's Comet browser that's capable of turning a seemingly innocuous email into a destructive action that wipes a user's entire Google Drive contents\u2026",
     "title": "Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails"
   },
+  "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheWL4H_fZgt293fAWAIgIuiEKOwhrhBh7P6E26EPey9tV-t5-5uSIW-84Jfg6Uq3UOP8R3RqBC_lj-kBq_X2JnthYUqbpX8pX6zVTLtORbMk_M4OEJp2OHqEpHtVXJrW12DpkgtSrl5vcu-goQ2s9iAAbBMBc6oTWzTzUUvQYABY8bVsNXJ08lQhY60xw2/s1600/router.jpg",
+    "published": "2026-01-07T04:31:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers A newly discovered critical security flaw in legacy D-Link DSL gateway routers has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2026-0625 (CVSS score: 9.3), concern\u2026",
+    "title": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers"
+  },
   "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRjeSAB0rkk2lglAZ8hgVe7QDPCxycsYNyYdH-GgUX4XyDU2mGl_iQ2uOtMu8ShG5OlzZ-ds7crBTv8Orc9nSe-JMycT7ukvHmQ-yEmXZPSwkhY8DlnPvfag3d0RdJ6fPAV_baXOgwpvJefpvO08HzmLNZF13f5d9oL63dXTTBS72P_2lg0lsaEJCQx82C/s1600/bitfinex-case.jpg",
@@ -2425,6 +2434,15 @@
     "source": "The Hacker News",
     "summary": "Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign Cybersecurity researchers have disclosed details of a phishing campaign that involves the attackers impersonating legitimate Google-generated messages by abusing Google Cloud's Application Integratio\u2026",
     "title": "Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign"
+  },
+  "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlFgZ371OJLB7x0fK_3a34h710DpAHQLeyLQyaBpp1jhfsFyRD0-tmkLhXAvv0VD1XnU_WK8g5O16VUob1aHIyQf2smhkn6llIaC_H5_6MwogFRD11Hfp-w2kPc9vgiBUTlnftXM7VuCMsFmBPwxtyvAokqOJbgSAndESDU3qZV6-R9SH6meqbyuyoFk8n/s1600/windows.jpg",
+    "published": "2026-01-06T12:13:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat Source: Securonix\nCybersecurity researchers have disclosed details of a new campaign dubbed PHALT#BLYX that has leveraged ClickFix-style lures to display fixes for fake blue screen of death (BSoD) errors\u2026",
+    "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat"
   },
   "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html": {
     "categories": [],
@@ -2516,6 +2534,33 @@
     "summary": "Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia The threat actor known as Transparent Tribe has been attributed to a fresh set of attacks targeting Indian governmental, academic, and strategic entities with a remote access trojan (RAT) that grant\u2026",
     "title": "Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia"
   },
+  "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilyYADOHMjVaRNmtGaBfZPuBBjV_zLAAmQ5LxnNXcpM_sHfQYws0W0gowwIgUC9-LBYr-y4eb5HK1cyqC857lCqKz1M_EHugfrzmkAL2vW-0SoRCdJpYsbZv8fd6-5EK8awrdD7a4eCaTZTJB9BLLDdYZlKNZQJ4Pwp7aok-jQ793kB7ft_A5pIgtCqvuQ/s1600/chrome.jpg",
+    "published": "2026-01-06T17:21:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users Cybersecurity researchers have discovered two new malicious extensions on the Chrome Web Store that are designed to exfiltrate OpenAI ChatGPT and DeepSeek conversations alongside browsing data to \u2026",
+    "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users"
+  },
+  "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyTFwLjAZvcGODxR0B7hv5Irv_LIjhCSSiF42fD71qFULdTLWFdJzYSWaMPwXThxT7CocXe9IdvNCU6-9F5fwrHyNMN9AjbhpOLxOzUXDFYHO0Uaypv6wTJ9O4vOmbC_OfBTwBvvXFHAQfTWg4Q_dM5aelJtqTPy7HkRl2E8q1D9bx6hoa1PKMkUkxTqsw/s1600/totolink.jpg",
+    "published": "2026-01-06T15:47:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover The CERT Coordination Center (CERT/CC) has disclosed details of an unpatched security flaw impacting TOTOLINK EX200 wireless range extender that could allow a remote authenticated attacker to gain full \u2026",
+    "title": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover"
+  },
+  "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0cvjE-uBAOipvEWs5BsHAt3ztw9IYIHxKGLFRdgCKnxYAJ1UHFZs0b3Zl_xw729c3-7WMgT3G4uLN2kLzwHpwZ3HZFXJ6KwgPg4v6JH3k02OsrQVFHF8BDsf4XKhKjuOajrGqcmNxvmE4LKCru_S6L2wV8SfI38McnPrcI4WC_r_wZHOfLYcOgACPmTvQ/s1600/koi.jpg",
+    "published": "2026-01-06T11:25:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX Popular artificial intelligence (AI)-powered Microsoft Visual Studio Code (VS Code) forks such as Cursor, Windsurf, Google Antigravity, and Trae have been found to recommend extensions that are non\u2026",
+    "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX"
+  },
   "https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpEUDAXLw6oaBwuDDWjb5LC1ARsZq2fg3GJ-qKhdAf-FchvPbjbdME9JLzX1Z2R8OKWYbYAg7BEVYf0LumhvXR0EFs2t8Okw9sXB4-aw-7orrIS93AuWlPnFGV5wfzCux97MCn8N2o7VXbeo5O5ph5m4hJHpunYmbw7Lvv16SnIlos6ZVjtboqT12lIqkk/s1600/recaps.jpg",
@@ -2524,6 +2569,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More The year opened without a reset. The same pressure carried over, and in some places it tightened. Systems people assume are boring or stable are showing up in the wrong places. Attacks moved quietly,\u2026",
     "title": "\u26a1 Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More"
+  },
+  "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimEQJzjgjvmRoxiOvQDswNk4aPb0STZSmlm6rBFlVh7oIWzu0XT-hTarbOhpjAkrNk5HK6JM4WG0zm0JoofGChmxAyJRgYpPghychWIhMDkl1s_LlWzaeYjEcjAPaJI0vZFsBVYEaxtzeYvJljHwLH_6r9Hp5pysms3sNK5NSVtK6CENQWAS0fVxFpXDo/s1600/main.gif",
+    "published": "2026-01-06T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "What is Identity Dark Matter? The Invisible Half of the Identity Universe\nIdentity used to live in one place - an LDAP directory, an HR system, a single IAM portal.\nNot anymore. Today, identity is fragmented across SaaS, on-prem, IaaS, PaaS, home-grown, and shadow applications. E\u2026",
+    "title": "What is Identity Dark Matter?"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/": {
     "categories": [
@@ -2686,6 +2740,18 @@
     "source": "BleepingComputer",
     "summary": "OpenAI is reportedly testing Claude-like Skills for ChatGPT OpenAI is testing a new ChatGPT feature called \"Skills,\" which will be similar to Claude's feature, also called Skills. [...]",
     "title": "OpenAI is reportedly testing Claude-like Skills for ChatGPT"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-rolling-out-gpt-52-codex-max-for-some-users/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-07T00:30:39+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI is rolling out GPT-5.2 \u201cCodex-Max\u201d for some users OpenAI is testing a new model for Codex called \"GPT-5.2-Codex-Max,\"\u00a0and it's already rolling out to users with a subscription. [...]",
+    "title": "OpenAI is rolling out GPT-5.2 \u201cCodex-Max\u201d for some users"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/": {
     "categories": [
@@ -2875,6 +2941,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft 365 license check bug blocks desktop app downloads \u200bMicrosoft is investigating and working to resolve a known issue that prevents customers from downloading Microsoft 365 desktop apps from the Microsoft 365 homepage. [...]",
     "title": "Microsoft 365 license check bug blocks desktop app downloads"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-01-06T20:49:30+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft cancels plans to rate limit Exchange Online bulk emails Microsoft announced today that it has canceled plans to impose a daily limit of 2,000 external recipients on Exchange Online bulk email senders. [...]",
+    "title": "Microsoft cancels plans to rate limit Exchange Online bulk emails"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/": {
     "categories": [
@@ -3639,6 +3716,17 @@
     "source": "BleepingComputer",
     "summary": "APT37 hackers abuse Google Find Hub in Android data-wiping attacks North Korean hackers from the KONNI activity cluster are abusing Google's Find Hub tool to track their targets' GPS positions and trigger remote factory resets of Android devices. [...]",
     "title": "APT37 hackers abuse Google Find Hub in Android data-wiping attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-06T11:16:54+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Are Copilot prompt injection flaws vulnerabilities or AI limits? Microsoft has pushed back against claims that multiple prompt injection and sandbox-related issues raised by a security engineer in its Copilot AI assistant constitute security vulnerabilities. The development highl\u2026",
+    "title": "Are Copilot prompt injection flaws vulnerabilities or AI limits?"
   },
   "https://www.bleepingcomputer.com/news/security/askul-confirms-theft-of-740k-customer-records-in-ransomhouse-attack/": {
     "categories": [
@@ -5118,6 +5206,17 @@
     "summary": "How Agentic BAS AI Turns Threat Headlines Into Defense Strategies Picus Security explains why relying on LLM-generated attack scripts is risky and how an agentic approach maps real threat intel to safe, validated TTPs. Their breakdown shows how teams can turn headline threats int\u2026",
     "title": "How Agentic BAS AI Turns Threat Headlines Into Defense Strategies"
   },
+  "https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-06T14:46:15+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "How generative AI accelerates identity attacks against Active Directory Generative AI is accelerating password attacks against Active Directory, making credential abuse faster and more effective. Specops Software explains how AI-driven cracking techniques exploit weak and predict\u2026",
+    "title": "How generative AI accelerates identity attacks against Active Directory"
+  },
   "https://www.bleepingcomputer.com/news/security/how-strong-password-policies-secure-ot-systems-against-cyber-threats/": {
     "categories": [
       "Security"
@@ -5225,6 +5324,17 @@
     "summary": "Jaguar Land Rover cyberattack cost the company over $220 million Jaguar Land Rover (JLR) published its financial results for July 1 to September 30, warning that the cost of a recent cyberattack totaled \u00a3196 million ($220 million) in the quarter. [...]",
     "title": "Jaguar Land Rover cyberattack cost the company over $220 million"
   },
+  "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-06T18:27:08+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Jaguar Land Rover wholesale volumes down 43% after cyberattack Jaguar Land Rover (JLR) revealed this week that a September 2025 cyberattack led to a 43% decline in third-quarter wholesale volumes. [...]",
+    "title": "Jaguar Land Rover wholesale volumes down 43% after cyberattack"
+  },
   "https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/": {
     "categories": [
       "Security"
@@ -5257,6 +5367,17 @@
     "source": "BleepingComputer",
     "summary": "Kerberoasting in 2025: How to protect your service accounts Kerberoasting attacks let hackers steal service account passwords and escalate to domain admin, often without triggering alerts. Specops Software shares how auditing AD passwords, enforcing long unique credentials, and u\u2026",
     "title": "Kerberoasting in 2025: How to protect your service accounts"
+  },
+  "https://www.bleepingcomputer.com/news/security/kimwolf-android-botnet-abuses-residential-proxies-to-infect-internal-devices/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-06T19:15:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Kimwolf Android botnet abuses residential proxies to infect internal devices The Kimwolf botnet, an Android variant of the Aisuru malware, has grown to more than two million hosts, most of them infected by exploiting vulnerabilities in residential proxy networks to target devices\u2026",
+    "title": "Kimwolf Android botnet abuses residential proxies to infect internal devices"
   },
   "https://www.bleepingcomputer.com/news/security/korea-arrests-suspects-selling-intimate-videos-from-hacked-ip-cameras/": {
     "categories": [
@@ -5662,6 +5783,18 @@
     "source": "BleepingComputer",
     "summary": "New Costco Gold Star Members also get a $40 Digital Costco Shop Card The holidays can be hard on any budget, but there may be a way to make it a little easier. Instead of dashing through the snow all around town, get all your shopping done under one roof at Costco. Right now, you\u2026",
     "title": "New Costco Gold Star Members also get a $40 Digital Costco Shop Card"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/": {
+    "categories": [
+      "Security",
+      "Hardware"
+    ],
+    "image": "",
+    "published": "2026-01-06T19:52:52+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New D-Link flaw in legacy DSL routers actively exploited in attacks Threat actors are exploiting a recently discovered\u00a0command injection vulnerability that affects\u00a0multiple D-Link DSL gateway routers that went out of support years ago. [...]",
+    "title": "New D-Link flaw in legacy DSL routers actively exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/new-droidlock-malware-locks-android-devices-and-demands-a-ransom/": {
     "categories": [
@@ -6476,6 +6609,17 @@
     "summary": "SCCM and WSUS in a Hybrid World: Why It\u2019s Time for Cloud-native Patching Hybrid work exposes the limits of SCCM and WSUS, with remote devices often missing updates and WSUS now deprecated. Action1's cloud-native patching keeps devices updated from any location, strengthening comp\u2026",
     "title": "SCCM and WSUS in a Hybrid World: Why It\u2019s Time for Cloud-native Patching"
   },
+  "https://www.bleepingcomputer.com/news/security/sedgwick-confirms-breach-at-government-contractor-subsidiary/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-06T15:27:22+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Sedgwick confirms breach at government contractor subsidiary Claims administration and risk management company Sedgwick has confirmed that its federal contractor subsidiary, Sedgwick Government Solutions, was the victim of a security breach. [...]",
+    "title": "Sedgwick confirms breach at government contractor subsidiary"
+  },
   "https://www.bleepingcomputer.com/news/security/shadow-spreadsheets-the-security-gap-your-tools-cant-see/": {
     "categories": [
       "Security"
@@ -6605,6 +6749,18 @@
     "source": "BleepingComputer",
     "summary": "Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland Synology has addressed a critical-severity remote code execution (RCE) vulnerability in BeeStation products that was demonstrated at the recent Pwn2Own hacking competition. [...]",
     "title": "Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland"
+  },
+  "https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/": {
+    "categories": [
+      "Security",
+      "Government"
+    ],
+    "image": "",
+    "published": "2026-01-06T22:27:15+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Taiwan says China's attacks on its energy sector increased tenfold The National Security Bureau in Taiwan says that China's attacks on the country's energy sector increased tenfold in 2025 compared to the previous year. [...]",
+    "title": "Taiwan says China's attacks on its energy sector increased tenfold"
   },
   "https://www.bleepingcomputer.com/news/security/texas-sues-tv-makers-for-spying-on-users-selling-data-without-consent/": {
     "categories": [
@@ -7687,6 +7843,15 @@
     "summary": "CISA Warns of 'Ongoing' Brickstorm Backdoor Attacks State-sponsored actors tied to China continue to target VMware vSphere environments at government and technology organizations.",
     "title": "CISA Warns of 'Ongoing' Brickstorm Backdoor Attacks"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-campaign-fake-blue-screen-of-death": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfa06051221b36c12/695cf37256949d07e0c87df9/booking-Aleksey_Zotov-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-06T16:28:30+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "ClickFix Campaign Serves Up Fake Blue Screen of Death Threat actors are using the social engineering technique and a legitimate Microsoft tool to deploy the DCRat remote access Trojan against targets in the hospitality sector.",
+    "title": "ClickFix Campaign Serves Up Fake Blue Screen of Death"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-targets-hotels-secondary-customer-attacks": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56ef817a1f232ae9/6911d3af65d9f310204cfea1/booking-Aleksey_Zotov-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -8260,6 +8425,15 @@
     "summary": "Cisco VPNs, Email Services Hit in Separate Threat Campaigns The company suffered one sophisticated five-alarm campaign and one messy spray-and-pray attack, mere days apart.",
     "title": "Cisco VPNs, Email Services Hit in Separate Threat Campaigns"
   },
+  "https://www.darkreading.com/endpoint-security/cisos-face-tighter-insurance-market": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7a9f2d410c775be7/64f155509ef96a9b7642b3cc/insurance-travellinglight-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-05T22:51:09+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "CISOs Face a Tighter Insurance Market in 2026 Insured entities are becoming more sophisticated in their views on how cyber policies fit into their broader risk management plans.",
+    "title": "CISOs Face a Tighter Insurance Market in 2026"
+  },
   "https://www.darkreading.com/endpoint-security/phishing-tool-smart-redirects-bypass-email-security": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98884564c2bf29aa/691469edee009931fb7ff9f1/Phishing_ronstik_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -8284,6 +8458,15 @@
     "source": "darkreading",
     "summary": "Russia Hits Critical Orgs Via Misconfigured Edge Devices Amazon detailed a long-running campaign by Russia against critical infrastructure organizations, particularly in the energy sector.",
     "title": "Russia Hits Critical Orgs Via Misconfigured Edge Devices"
+  },
+  "https://www.darkreading.com/endpoint-security/scattered-lapsus-hunters-researcher-honeypot": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfa7a2a794e231bc8/695d6260f216514b05f1320f/Honey_pooh_Say_cheese_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-06T20:23:34+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Scattered Lapsus$ Hunters Snared in Cyber Researcher Honeypot Scattered Lapsus$ Hunters, also known as ShinyHunters, were drawn in using a realistic, yet mostly fake, dataset.",
+    "title": "Scattered Lapsus$ Hunters Snared in Cyber Researcher Honeypot"
   },
   "https://www.darkreading.com/endpoint-security/securing-future-building-quantum-safe-networks-today": {
     "categories": [],
@@ -8311,6 +8494,15 @@
     "source": "darkreading",
     "summary": "'ShadyPanda' Hackers Weaponize Millions of Browsers The China-based cyber-threat group has been quietly using malicious extensions on the Google Chrome and Microsoft Edge marketplaces to spy on millions of users.",
     "title": "'ShadyPanda' Hackers Weaponize Millions of Browsers"
+  },
+  "https://www.darkreading.com/endpoint-security/startup-trends-shaking-up-browsers-soc-automation-appsec": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc9fd47d12f886077/6821fdcbfbb72f6dc1831efc/Startup_(1800)_designer491_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-05T23:32:21+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Startup Trends Shaking Up Browsers, SOC Automation, AppSec These startups reimagined browser security, pioneered application security for AI-generated code, and are building consensus on agentic vs. human costs.",
+    "title": "Startup Trends Shaking Up Browsers, SOC Automation, AppSec"
   },
   "https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026": {
     "categories": [],
@@ -8436,6 +8628,15 @@
     "source": "darkreading",
     "summary": "'Landfall' Malware Targeted Samsung Galaxy Users The tool let its operators secretly record conversations, track device locations, capture photos, collect contacts, and perform other surveillance on compromised devices.",
     "title": "'Landfall' Malware Targeted Samsung Galaxy Users"
+  },
+  "https://www.darkreading.com/remote-workforce/advisor360-gets-handle-on-shadow-ai-via-automation": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38b7ecf1b2d539aa/68361e403eff810ad0b49f45/automation-Aleksey_Funtap-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-05T23:04:24+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Advisor360 Gets a Handle on Shadow AI via Automation With employees looking for the benefits of artificial intelligence, a fintech company stepped up controls with automation.",
+    "title": "Advisor360 Gets a Handle on Shadow AI via Automation"
   },
   "https://www.darkreading.com/remote-workforce/amazon-fends-off-dprk-it-job-scammers": {
     "categories": [],
