@@ -2417,6 +2417,24 @@
     "summary": "Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act Ilya Lichtenstein, who was sentenced to prison last year for money laundering charges in connection with his role in the massive hack of cryptocurrency exchange Bitfinex in 2016, said he has been rel\u2026",
     "title": "Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act"
   },
+  "https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGPPKJS6BE2or-jGvE7W-v-Fsie9HZAZYKAqyBv1c97ZycU7mV1adA8edY8RwqcUAjM2Q1ut1l-Qcwjyv9X1BCh9u3TMR1l0tukZUi7rGkNNJgepwUtRkBcdxXOdFKk7C4D6GXv0CtSl3RiPSkmVwJtxZoWq8SuQIEWBqNorc3imhtz7-eg2akMQwRJNuu/s1600/notepad-malware.jpg",
+    "published": "2026-01-07T17:09:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches A cybercrime gang known as Black Cat has been attributed to a search engine optimization (SEO) poisoning campaign that employs fraudulent sites advertising popular software to trick users into dow\u2026",
+    "title": "Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches"
+  },
+  "https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga4BuY0cfkZtUBEs_clNF6tMFR1KPmYrO-dUbtA75BQSRTRHiV294UlhyHIcAHpTJd9iQVHEF4oDBCal-yAZvcRPofh22MzIqcyEA-JA2C1syuAiWdspPmKG6f1Hrr_kOdcg0PLHh75t9x1-ubtcj_QhpA5g5nHkZEkG58dGFGBuzaZ0DJgVG6AWwjV2J8/s1600/cisa.jpg",
+    "published": "2026-01-08T04:52:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added two security flaws impacting Microsoft Office and Hewlett Packard Enterprise (HPE) OneView to its Known Exploited Vulnerabili\u2026",
+    "title": "CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited"
+  },
   "https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzO1cc-SgAdpaPJsJZj5THeCL4mn7tPUZbghNoDdS-5-NM8bsS9s-Rrp3VwPIm0bEP0qP4kasNmPfuo4Thkd1gWc-8tjPHwjb1lfacgHdfFvtPz2RXzqD-Ny9LecUi5kU4NHXxYkjzuAKSvToFOfBQjSwHcA43UzcfY__3PwwgO8muoNhYJ7Qr6qrOSP_U/s1600/adonis-security.jpg",
@@ -2425,6 +2443,15 @@
     "source": "The Hacker News",
     "summary": "Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers Users of the \"@adonisjs/bodyparser\" npm package are being advised to update to the latest version following the disclosure of a critical security vulnerability that, if successfully exploited, co\u2026",
     "title": "Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers"
+  },
+  "https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRmvh_VGQV3SHDgFZ8xqgyEkPWUl7nJQ9sCacu3z2jU7lgI8brolO60urOgFHXiKeiia-DbnqD68GCnaK7NvmOiAGHRAEMqIud07DMQtT-8Fz7T7YuQXztiCFKpjcga_4klOnWBbTMA3-O8blyLt_roer7z66yEQ_tFFR3XEZn42Y2tC7jLcFk6mLyH6FK/s1600/n8n-flaw.jpg",
+    "published": "2026-01-07T13:48:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control Cybersecurity researchers have disclosed details of yet another maximum-severity security flaw in n8n, a popular workflow automation platform, that allows an unauthenticated remote attack\u2026",
+    "title": "Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control"
   },
   "https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html": {
     "categories": [],
@@ -2462,6 +2489,24 @@
     "summary": "Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks The botnet known as Kimwolf has infected more than 2 million Android devices by tunneling through residential proxy networks, according to findings from Synthient.\n\"Key actors involved in the\u2026",
     "title": "Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks"
   },
+  "https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHZJ_x-tDf2JaX7jVZDlS1KTcw7PnwLR03qRgpIHRBtIvLNIybJd8Gw058LyQyjV73UUJy39rcTziPgH9B1cqkTeOMF5zn7GstRSXG-MV1kWEfbnsACIM7VDbodevFXrvnYQjZjQMmicjj16dM6nb1tUEhsoDSQ5UOFAGpaG3P0XCpR5s5nazAf9npmgge/s1600/email-phishing.jpg",
+    "published": "2026-01-07T09:42:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing Threat actors engaging in phishing attacks are exploiting routing scenarios and misconfigured spoof protections to impersonate organizations' domains and distribute emails that appear as if they have \u2026",
+    "title": "Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing"
+  },
+  "https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiafpcLSwwnkKivk1KL4R92i5R3wIeXrHe7OiXMYG6qyx9YZAxl74FH1pnaNUgjwJZ-XUHw4fCoDufnEbb9B_dMNH4qsjmDAe9afDJc_YpTi-vKpxcbnwVWtadtkoJL_Dtqg_piby9p9LULtjk3jrgZTYunG5D5_mQuAJQa1SHPHnP5zgGMOIPa7vg005c7/s1600/n8n.jpg",
+    "published": "2026-01-07T11:26:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions Open-source workflow automation platform n8n has warned of a maximum-severity security flaw that, if successfully exploited, could result in authenticated remote code execution (RCE).\nThe vulnerabil\u2026",
+    "title": "n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions"
+  },
   "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh4kfbdw2kmRhvFRiWagiGm-NomgkxXOVp915lPhU1nQ5FwQq4P08SOOLN7uVSAoojBSuz_sAI7rcgwWvp53esgON2dDVqB7C9EhkxGd5dz6IsZJ-xMLegtI9mAbJBRsidXMjRX3TUBTtPl1iY7Jnh0KhPcJnRggbC8WFgr0w3Fm6zTfIjZYWKBrMZZHna/s1600/flaw-n8n.jpg",
@@ -2497,6 +2542,15 @@
     "source": "The Hacker News",
     "summary": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government The Russia-aligned threat actor known as UAC-0184 has been observed targeting Ukrainian military and government entities by leveraging the Viber messaging platform to deliver malicious ZIP archives.\n\"T\u2026",
     "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government"
+  },
+  "https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkiUvCH8FmVQqzbY2bGi6CJGsbrnr5MZ3rJH6vFxhyIAeuPvl-sx7ZUtjbaIbfJMjZkpHRYY8d2GBtobRF8W8JAinRMQ1JImmAKzS696J2gkYBuXFkkh1Hi0VLFVx9ARSlEPD-52BAZDGWD2QcCRQvOXmbDAycx4zRbULCNCcBUgG2sP6YSzQshZdbKRs/s1600/non-human-employees.jpg",
+    "published": "2026-01-07T11:00:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "The Future of Cybersecurity Includes Non-Human Employees Non-human employees are becoming the future of cybersecurity, and enterprises need to prepare accordingly. As organizations scale Artificial Intelligence (AI) and cloud automation, there is exponential growth in Non-Human I\u2026",
+    "title": "The Future of Cybersecurity Includes Non-Human Employees"
   },
   "https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html": {
     "categories": [],
@@ -2552,6 +2606,15 @@
     "summary": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover The CERT Coordination Center (CERT/CC) has disclosed details of an unpatched security flaw impacting TOTOLINK EX200 wireless range extender that could allow a remote authenticated attacker to gain full \u2026",
     "title": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover"
   },
+  "https://thehackernews.com/2026/01/veeam-patches-critical-rce.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYNBaEaqMpnYMFHKFEedrGcP4HSZ_2-sa5EjqnE0U1Hh_9-d2iu_UtCTxHavvjHYZq54fIa9Q3lyaXdHSH25-vn5kLz97muKX6Y8k8U4PG4Wer42axNEzxMsOeRq_1x4SUKvZCRQ4fBAmx7zWu2z2IkE5RTD8oW69YnKwn_K8AtXuC1eK2juaOVxg5QqeV/s1600/veeam.jpg",
+    "published": "2026-01-07T10:41:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication Veeam has released security updates to address multiple flaws in its Backup &amp; Replication software, including a \"critical\" issue that could result in remote code execution (RCE).\nThe vulnerability,\u2026",
+    "title": "Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication"
+  },
   "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0cvjE-uBAOipvEWs5BsHAt3ztw9IYIHxKGLFRdgCKnxYAJ1UHFZs0b3Zl_xw729c3-7WMgT3G4uLN2kLzwHpwZ3HZFXJ6KwgPg4v6JH3k02OsrQVFHF8BDsf4XKhKjuOajrGqcmNxvmE4LKCru_S6L2wV8SfI38McnPrcI4WC_r_wZHOfLYcOgACPmTvQ/s1600/koi.jpg",
@@ -2560,6 +2623,15 @@
     "source": "The Hacker News",
     "summary": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX Popular artificial intelligence (AI)-powered Microsoft Visual Studio Code (VS Code) forks such as Cursor, Windsurf, Google Antigravity, and Trae have been found to recommend extensions that are non\u2026",
     "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX"
+  },
+  "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi9E2QJsYrvm3dqEopONz5kjVfdtq2x9G7xmpCyYyijQ9R0NbcGLLX4GJypIXBWFVLBIflmcF47QObTpLJxoqP-cE20PgR9v9Of_BhpD9tEVBkuF_RpiAufDanr3ClW-ivhdfr1oh7a8r2gO-N8m7M1Mv3ztVK6cjQD_ARlJKdDjBV30C7v9x4QMa4uolg/s1600/cyberthreat.jpg",
+    "published": "2026-01-07T17:19:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators Security teams are still catching malware. The problem is what they're not catching.\nMore attacks today don't arrive as files. They don't drop binaries. They don't trigger classic alerts. Instead\u2026",
+    "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators"
   },
   "https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html": {
     "categories": [],
@@ -2614,6 +2686,18 @@
     "source": "BleepingComputer",
     "summary": "ChatGPT is down worldwide, conversations dissapeared for users OpenAI's AI-powered ChatGPT is down worldwide with users receiving errors when attempting to access chats, with no reasons currently given. [...]",
     "title": "ChatGPT is down worldwide, conversations dissapeared for users"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-losing-market-share-as-google-gemini-gains-ground/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-07T20:58:02+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "ChatGPT is losing market share as Google Gemini gains ground New data suggests that ChatGPT is losing its market share to Gemini on the web. It's unclear if Gemini is also gaining ground in the mobile space. [...]",
+    "title": "ChatGPT is losing market share as Google Gemini gains ground"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/": {
     "categories": [
@@ -2729,6 +2813,18 @@
     "summary": "OpenAI is offering $20 ChatGPT Plus for free to some users If you're already subscribed to ChatGPT Plus, which costs $20, you can request OpenAI to cancel your subscription, and it may offer one month of free usage. [...]",
     "title": "OpenAI is offering $20 ChatGPT Plus for free to some users"
   },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-getting-ready-to-test-ads-in-chatgpt/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-07T01:30:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI is reportedly getting ready to test ads in ChatGPT Multiple reports suggest that OpenAI is going ahead with its plans to add ads to ChatGPT, but the experiment will be initially limited to its employees. [...]",
+    "title": "OpenAI is reportedly getting ready to test ads in ChatGPT"
+  },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/": {
     "categories": [
       "Artificial Intelligence",
@@ -2762,6 +2858,18 @@
     "source": "BleepingComputer",
     "summary": "OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro OpenAI is preparing the GPT-5.1 family for public rollout. This includes GPT-5.1 (base), GPT-5.1 Reasoning, and GPT-5.1 Pro for those who pay a $200 monthly subscription. [...]",
     "title": "OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-wont-use-your-health-information-to-train-its-models/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-07T23:28:45+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI says ChatGPT won't use your health information to train its models OpenAI is rolling out ChatGPT Health, which is a dedicated space for health conversations. Amidst privacy concerns, OpenAI said it won't use your health data. [...]",
+    "title": "OpenAI says ChatGPT won't use your health information to train its models"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-latest-gpt-51-codex-can-code-independently-for-hours/": {
     "categories": [
@@ -2863,6 +2971,18 @@
     "summary": "Google is testing a new image AI and it's going to be its fastest model Google is testing a new image AI model called \"Nano Banana 2 Flash,\" and it's going to be as good as the Gemini 3 Pro Nano Banana, but it'll be cheaper. [...]",
     "title": "Google is testing a new image AI and it's going to be its fastest model"
   },
+  "https://www.bleepingcomputer.com/news/google/google-search-ai-hallucinations-push-google-to-hire-ai-answers-quality-engineers/": {
+    "categories": [
+      "Google",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-01-07T12:50:38+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google Search AI hallucinations push Google to hire \"AI Answers Quality\" engineers AI, including AI Overviews on Google Search, can hallucinate and often make up stuff or offer contradicting answers when asked in two different ways. [...]",
+    "title": "Google Search AI hallucinations push Google to hire \"AI Answers Quality\" engineers"
+  },
   "https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/": {
     "categories": [
       "Google",
@@ -2874,6 +2994,18 @@
     "source": "BleepingComputer",
     "summary": "Google will finally allow you to change your @gmail.com address Google will finally allow you to change your @gmail address or create a new alias, according to a new support document. [...]",
     "title": "Google will finally allow you to change your @gmail.com address"
+  },
+  "https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/": {
+    "categories": [
+      "Hardware",
+      "Apple"
+    ],
+    "image": "",
+    "published": "2026-01-07T18:05:42+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Logitech Options+, G HUB macOS apps break after certificate expires Logitech's Options+ and G Hub apps on macOS stopped working after their code-signing certificate expired, leaving users unable to launch them on Apple systems. [...]",
+    "title": "Logitech Options+, G HUB macOS apps break after certificate expires"
   },
   "https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/": {
     "categories": [
@@ -2952,6 +3084,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft cancels plans to rate limit Exchange Online bulk emails Microsoft announced today that it has canceled plans to impose a daily limit of 2,000 external recipients on Exchange Online bulk email senders. [...]",
     "title": "Microsoft cancels plans to rate limit Exchange Online bulk emails"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-classic-outlook-bug-prevents-opening-encrypted-emails/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-01-07T16:30:24+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Classic Outlook bug prevents opening encrypted emails Microsoft has confirmed a known issue that prevents recipients from opening encrypted emails in classic Outlook. [...]",
+    "title": "Microsoft: Classic Outlook bug prevents opening encrypted emails"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/": {
     "categories": [
@@ -4212,6 +4355,17 @@
     "summary": "Critical flaw in WordPress add-on for Elementor exploited in attacks Attackers are exploiting a critical-severity privilege escalation vulnerability (CVE-2025-8489) in the King Addons for Elementor plugin for WordPress, which lets them obtain\u00a0administrative permissions during the\u2026",
     "title": "Critical flaw in WordPress add-on for Elementor exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/critical-jspdf-flaw-lets-hackers-steal-secrets-via-generated-pdfs/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-07T21:46:29+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Critical jsPDF flaw lets hackers steal secrets via generated PDFs The jsPDF library for generating PDF documents in JavaScript applications is vulnerable to a critical vulnerability that allows an attacker to steal sensitive data from the local filesystem by including it in gener\u2026",
+    "title": "Critical jsPDF flaw lets hackers steal secrets via generated PDFs"
+  },
   "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/": {
     "categories": [
       "Security"
@@ -5280,6 +5434,17 @@
     "summary": "ID verification laws are fueling the next wave of breaches ID laws are forcing companies to store massive amounts of sensitive data, turning compliance into a security risk. Acronis explains how integrated backup and cybersecurity platforms help MSPs reduce complexity and close t\u2026",
     "title": "ID verification laws are fueling the next wave of breaches"
   },
+  "https://www.bleepingcomputer.com/news/security/in-2026-hackers-want-ai-threat-intel-on-vibe-hacking-and-hackgpt/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-07T15:00:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "In 2026, Hackers Want AI: Threat Intel on Vibe Hacking & HackGPT Cybercriminals are increasingly using AI to lower the barrier to entry for fraud and hacking, shifting from skill-based to AI-assisted attacks known as \"vibe hacking.\" Flare examines how underground forums promote A\u2026",
+    "title": "In 2026, Hackers Want AI: Threat Intel on Vibe Hacking & HackGPT"
+  },
   "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/": {
     "categories": [
       "Security",
@@ -5587,6 +5752,17 @@
     "summary": "Massive Rainbow Six Siege breach gives players billions of credits Ubisoft's Rainbow Six Siege (R6) suffered a breach that allowed hackers to abuse internal systems to ban and unban players, manipulate in-game moderation feeds, and grant massive amounts of in-game currency and co\u2026",
     "title": "Massive Rainbow Six Siege breach gives players billions of credits"
   },
+  "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-lets-hackers-hijack-n8n-servers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-07T17:41:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Max severity Ni8mare flaw lets hackers hijack n8n servers A maximum severity vulnerability dubbed \"Ni8mare\"\u00a0allows remote, unauthenticated attackers to take control over locally deployed instances of the N8N\u00a0workflow automation platform. [...]",
+    "title": "Max severity Ni8mare flaw lets hackers hijack n8n servers"
+  },
   "https://www.bleepingcomputer.com/news/security/media-giant-nikkei-reports-data-breach-impacting-17-000-people/": {
     "categories": [
       "Security"
@@ -5831,6 +6007,17 @@
     "summary": "New GlassWorm malware wave targets Macs with trojanized crypto wallets A fourth wave of the\u00a0\"GlassWorm\" campaign is targeting macOS developers with malicious VSCode/OpenVSX extensions that deliver trojanized versions of crypto wallet applications. [...]",
     "title": "New GlassWorm malware wave targets Macs with trojanized crypto wallets"
   },
+  "https://www.bleepingcomputer.com/news/security/new-gobruteforcer-attack-wave-targets-crypto-blockchain-projects/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-07T23:18:14+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New GoBruteforcer attack wave targets crypto, blockchain projects A new wave of GoBruteforcer botnet malware attacks is targeting\u00a0databases of cryptocurrency and blockchain projects\u00a0on exposed servers believed to be configured using AI-generated examples. [...]",
+    "title": "New GoBruteforcer attack wave targets crypto, blockchain projects"
+  },
   "https://www.bleepingcomputer.com/news/security/new-indonesianfoods-worm-floods-npm-with-100-000-packages/": {
     "categories": [
       "Security"
@@ -5950,6 +6137,17 @@
     "source": "BleepingComputer",
     "summary": "New UK laws to strengthen critical infrastructure cyber defenses The United Kingdom has introduced new legislation to boost cybersecurity defenses for hospitals, energy systems, water supplies, and transport networks against cyberattacks, linked to annual damages of nearly \u00a315 bi\u2026",
     "title": "New UK laws to strengthen critical infrastructure cyber defenses"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerabilities-expose-backup-servers-to-rce-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-07T13:06:11+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New Veeam vulnerabilities expose backup servers to RCE attacks Veeam released security updates to patch multiple security flaws in its Backup & Replication software, including a critical remote code execution (RCE) vulnerability. [...]",
+    "title": "New Veeam vulnerabilities expose backup servers to RCE attacks"
   },
   "https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/": {
     "categories": [
@@ -6174,6 +6372,17 @@
     "source": "BleepingComputer",
     "summary": "Over 25,000 FortiCloud SSO devices exposed to remote attacks Internet security watchdog Shadowserver has found over 25,000 Fortinet devices exposed online with FortiCloud SSO enabled, amid ongoing attacks targeting a critical authentication bypass vulnerability. [...]",
     "title": "Over 25,000 FortiCloud SSO devices exposed to remote attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/owncloud-urges-users-to-enable-mfa-after-credential-theft-reports/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-07T14:34:39+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "ownCloud urges users to enable MFA after credential theft reports File-sharing platform ownCloud warned users today to enable multi-factor authentication (MFA) to block attackers using compromised credentials from stealing their data. [...]",
+    "title": "ownCloud urges users to enable MFA after credential theft reports"
   },
   "https://www.bleepingcomputer.com/news/security/passwork-7-self-hosted-password-and-secrets-manager-for-enterprise-teams/": {
     "categories": [
@@ -6910,6 +7119,18 @@
     "summary": "TV streaming piracy service with 26M yearly visits shut down Photocall, a TV piracy streaming platform with over 26 million users annually, has ceased operations following a joint investigation by the Alliance for Creativity and Entertainment (ACE) and DAZN. [...]",
     "title": "TV streaming piracy service with 26M yearly visits shut down"
   },
+  "https://www.bleepingcomputer.com/news/security/uk-announces-plan-to-strengthen-public-sector-cyber-defenses/": {
+    "categories": [
+      "Security",
+      "Government"
+    ],
+    "image": "",
+    "published": "2026-01-07T12:15:01+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "UK announces plan to strengthen public sector cyber defenses The United Kingdom has announced a new cybersecurity strategy, backed by more than \u00a3210 million ($283 million), to boost cyber defenses across government departments and the wider public sector. [...]",
+    "title": "UK announces plan to strengthen public sector cyber defenses"
+  },
   "https://www.bleepingcomputer.com/news/security/uk-carriers-to-block-spoofed-phone-numbers-in-fraud-crackdown/": {
     "categories": [
       "Security"
@@ -7588,6 +7809,15 @@
     "summary": "Attackers Use Stolen AWS Credentials in Cryptomining Campaign Threat actors wielding stolen AWS Identity and Access Management (IAM) credentials leverage Amazon EC and EC2 infrastructure across multiple customer environments.",
     "title": "Attackers Use Stolen AWS Credentials in Cryptomining Campaign"
   },
+  "https://www.darkreading.com/cloud-security/lack-mfa-common-thread-vast-cloud-credential-heist": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd186a365e96ef3c1/695e56faf3df9af8acd5437f/infostealer_Bits_And_Splits_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-07T12:35:46+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Lack of MFA Is Common Thread in Vast Cloud Credential Heist An emerging threat actor that goes by &quot;Zestix&quot; used an assortment of infostealers to obtain credentials and breach file-sharing instances of approximately 50 enterprises.",
+    "title": "Lack of MFA Is Common Thread in Vast Cloud Credential Heist"
+  },
   "https://www.darkreading.com/cloud-security/mongobleed-bug-active-attack-patch": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt62c52dd8a59fad39/695c2505a1a91a41d10f2ec2/memoryleak_Profit_Image_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -7596,6 +7826,15 @@
     "source": "darkreading",
     "summary": "Critical 'MongoBleed' Bug Under Active Attack, Patch Now A memory leak security vulnerability allows unauthenticated attackers to extract passwords and tokens from MongoDB servers.",
     "title": "Critical 'MongoBleed' Bug Under Active Attack, Patch Now"
+  },
+  "https://www.darkreading.com/cloud-security/phishers-exploit-office-365-users-guard-down": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt25111ddc90b9d039/695eb555cbf6072c0543fa19/Fishing_caia_image_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-07T21:42:21+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Phishers Exploit Office 365 Users Who Let Their Guard Down Microsoft said that Office 365 tenants with weak configurations and who don't have strict anti-spoofing protection enabled are especially vulnerable.",
+    "title": "Phishers Exploit Office 365 Users Who Let Their Guard Down"
   },
   "https://www.darkreading.com/cyber-risk/ai-agents-going-rogue": {
     "categories": [],
@@ -7817,6 +8056,15 @@
     "summary": "AI Bolsters Python Variant of Brazilian WhatsApp Attacks Water Saci has upgraded its self-propagating malware to compromise banks and cryptocurrency exchanges by targeting enterprise users of the popular chat app.",
     "title": "AI Bolsters Python Variant of Brazilian WhatsApp Attacks"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zero-day-end-of-life-d-link-routers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdf7602b12704fd43/695eca6a055b63442c4f4065/eol_Colored_Lights_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-07T22:19:57+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Attackers Exploit Zero-Day in End-of-Life D-Link Routers Hackers are attacking a critical zero-day flaw in unsupported D-Link DSL routers to run arbitrary commands.",
+    "title": "Attackers Exploit Zero-Day in End-of-Life D-Link Routers"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/china-researches-ways-disrupt-satellite-internet": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6b77fbe45a055630/692f650ddb48104df183d103/satellite-in-space-Dima_Zel-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -7885,6 +8133,15 @@
     "source": "darkreading",
     "summary": "Critical Fortinet Flaws Under Active Attack Attackers targeted admin accounts, and once authenticated, exported device configurations including hashed credentials and other sensitive information.",
     "title": "Critical Fortinet Flaws Under Active Attack"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ddosia-powers-volunteer-driven-hacktivist-attacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1fe082f16e8a8919/695d827ec1460f29abf6e73f/ddosrussia_Tomasz_Makowski_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-07T14:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "DDoSia Powers Affiliate-Driven Hacktivist Attacks Pro-Russian group NoName057(16) uses a custom denial-of-service tool to mobilize volunteers and disrupt government, media, and institutional sites tied to Ukraine and the West.",
+    "title": "DDoSia Powers Affiliate-Driven Hacktivist Attacks"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/digital-fraud-industrial-scale-2025": {
     "categories": [],
@@ -8221,6 +8478,15 @@
     "source": "darkreading",
     "summary": "Contrarians No More: AI Skepticism Is on the Rise Concerns about an economic bubble bursting, along with doubts regarding return on investment, suggest the tide may be turning for the artificial intelligence industry.",
     "title": "Contrarians No More: AI Skepticism Is on the Rise"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/cyberattacks-part-military-operation-venezuela": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6ade82a147ae120c/695d80d35a9f9636a7902ea3/digital-venezuelan-flag-Skorzewiak-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-07T14:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Cyberattacks Likely Part of Military Operation in Venezuela Cyber's role in the US raid on Venezuela remains a question, though President Trump alluded to &quot;certain expertise&quot; in shutting down the power grid in Caracas.",
+    "title": "Cyberattacks Likely Part of Military Operation in Venezuela"
   },
   "https://www.darkreading.com/cybersecurity-operations/cybersecurity-tips-cato-networks-ciso": {
     "categories": [],
