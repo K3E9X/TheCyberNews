@@ -2426,6 +2426,15 @@
     "summary": "Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches A cybercrime gang known as Black Cat has been attributed to a search engine optimization (SEO) poisoning campaign that employs fraudulent sites advertising popular software to trick users into dow\u2026",
     "title": "Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches"
   },
+  "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIuo2qB5l6db9QikPiuSfBft9oeKf1XAw3ncOyYjA2V34TZdm8KZKAARqUi9GffvgaVZGqlGFw9Ntj0t-sRzWuOL-OOngT2MeB1at04yfHwaT72o6QFRtnJkwczGdrv_F9snu9cBoNjn9hJ1XjbTdgNSJFIGXxzMbR34LELEqMXZ_s_jZS3oXSCnmS3GQY/s1600/telecom-hack.jpg",
+    "published": "2026-01-08T14:54:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes A China-nexus threat actor known as UAT-7290 has been attributed to espionage-focused intrusions against entities in South Asia and Southeastern Europe.\nThe activity cluster, which has been active since at le\u2026",
+    "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes"
+  },
   "https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga4BuY0cfkZtUBEs_clNF6tMFR1KPmYrO-dUbtA75BQSRTRHiV294UlhyHIcAHpTJd9iQVHEF4oDBCal-yAZvcRPofh22MzIqcyEA-JA2C1syuAiWdspPmKG6f1Hrr_kOdcg0PLHh75t9x1-ubtcj_QhpA5g5nHkZEkG58dGFGBuzaZ0DJgVG6AWwjV2J8/s1600/cisa.jpg",
@@ -2434,6 +2443,24 @@
     "source": "The Hacker News",
     "summary": "CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added two security flaws impacting Microsoft Office and Hewlett Packard Enterprise (HPE) OneView to its Known Exploited Vulnerabili\u2026",
     "title": "CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited"
+  },
+  "https://thehackernews.com/2026/01/cisco-patches-ise-security.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjybuSkMzO3sPyC2aweCyQ7gBCiWeZ0MKZORj98gSkWfOtEBpzOFHt7hqNsdT1eqWpHyhQfiHHUw9U6sMvAI5Nj7JYfXd-BbxZYhV7AFPY6orjs-g0asPZceU4bBweF1odEupcmfSvxXx8Jsci1v8alq87jE0FJPaE6uYHy39KIBaoYd97VqDPQELznEpwJ/s1600/cisco.jpg",
+    "published": "2026-01-08T10:44:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release Cisco has released updates to address a medium-severity security flaw in Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC) with a public proof-of-concept (PoC) exploit.\nThe vulnera\u2026",
+    "title": "Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release"
+  },
+  "https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiTPlT13VFHh6Gnrmg0ozwHRlYaVFKySt-BBjowr5Az7KwqG4PXVrH9n_1YTLZpuJHf02fu1TJBTeHKLnDJ3UTzhZR_8ldCYcHRoSoUaqhmj1vrBqDGn3StC_LYhVzLI5S-iFELOqLhnet3zlgB91h5KehCfvyoQ9IQc_MZt_bE-Y3SJ0fvVUAkLVqx6zw/s1600/coolify.jpg",
+    "published": "2026-01-08T09:53:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances Cybersecurity researchers have disclosed details of multiple critical-severity security flaws affecting Coolify, an open-source, self-hosting platform, that could result in authentication\u2026",
+    "title": "Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances"
   },
   "https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html": {
     "categories": [],
@@ -2470,6 +2497,15 @@
     "source": "The Hacker News",
     "summary": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat Source: Securonix\nCybersecurity researchers have disclosed details of a new campaign dubbed PHALT#BLYX that has leveraged ClickFix-style lures to display fixes for fake blue screen of death (BSoD) errors\u2026",
     "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat"
+  },
+  "https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgse_7aGT72WMfI84aD05FVQShHvmKX2cLQnvrpoCSDCmVuArEHaqVjxxzESK58K9zsdB6q5T3uDSwEZrwfEd42kD1daVt-o12gjKLGqoiKiAH29poW0nn5CuhjjLIa69jGl4Xg7bw7wBtm8At9D6aJxUxg53c2kvH9GSjH-XQNvASYWI2om8Ic76fGaPXt/s1600/qrcodes.jpg",
+    "published": "2026-01-09T05:46:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing The U.S. Federal Bureau of Investigation (FBI) on Thursday released an advisory warning of North Korean state-sponsored threat actors leveraging malicious QR codes in spear-phishing campaigns targeting enti\u2026",
+    "title": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing"
   },
   "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html": {
     "categories": [],
@@ -2525,6 +2561,24 @@
     "summary": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code Cybersecurity researchers have disclosed details of a new Python-based information stealer called VVS Stealer (also styled as VVS $tealer) that's capable of harvesting Discord credentials and tokens.\nThe \u2026",
     "title": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code"
   },
+  "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG4JjVzaUBhtnt0VrEKyVRib_UrgTLXJAKDFh5laNkMyFhaeJl8PqEHGpBEh34MW4YwNxIDbftlhHFHI56gxVW2RWWYnT9f9dlRpKsuWNFIqV4Xgn9xZegMmow-NFkNUPye8J0iT1nN1QikfsAuSbA2Qi3ZqPEdcEL6sFKl1cgRrxbhWB-Jm9XLAwwwtmy/s1600/chatgpt-health.jpg",
+    "published": "2026-01-08T06:57:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls Artificial intelligence (AI) company OpenAI on Wednesday announced the launch of ChatGPT Health, a dedicated space that allows users to have conversations with the chatbot about their health.\nTo that end\u2026",
+    "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls"
+  },
+  "https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexcKpvH8t1IN9Taxc25I-ykg1l98ahAsVYMYGLTw9Yy7W9ULsjlRNgMG0yUOpKRueTn5N36hOYSrgYP_-vZBuUYCzGgVleyQk0bZULbbIPYrfJxLPsZkJBQDjwooYWOllT3ifqBb5_T-JW6WywfZFvtKB2LQPySRO2kmhIfTQgxUSshZwyBNoC1J2nNv/s1600/npm-malware.jpg",
+    "published": "2026-01-08T10:31:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages Cybersecurity researchers have discovered three malicious npm packages that are designed to deliver a previously undocumented malware called NodeCordRAT.\nThe names of the packages, all of which were taken down \u2026",
+    "title": "Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages"
+  },
   "https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQtdlV7ySzud6pktbmLsSyAnWoLz3a-ROUuyJ1mvoIfcbCrlQkb2dQJ9TqxDFk3dtTqO7H2XEFznwMmOoM2CEGaU41loeAh4MYXWm5L3rVdUCH4WyVZlp68Z-dTthmsTAcrS3l9LIDxrmEIYkMGDgVAQYtfXgVPes9kB2F_ilQxWd8qeK0JCJbo1JUmQ6d/s1600/botnet.jpg",
@@ -2570,6 +2624,15 @@
     "summary": "The State of Cybersecurity in 2025:\u00a0Key Segments, Insights, and Innovations Featuring:\n\nCybersecurity is being reshaped by forces that extend beyond individual threats or tools. As organizations operate across cloud infrastructure, distributed endpoints, and complex supply chains\u2026",
     "title": "The State of Cybersecurity in 2025:\u00a0Key Segments, Insights, and Innovations"
   },
+  "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZoKSxRFayxkvrH0IbQJcIVluEGBHP48Adp3NIQ48I_QbNUy3N91tDM6UFfvq-OrbLJkBz91GjwO9Qb_iEtDHgha1j6IYbWqtemdZ19MF0cdUrdtRfZDwf_3QT_gJk1BkqUdxer3wz80NZUw6-hHGdr_hA6LRwSo1zYxa4Q34tGLLCnxiv-xtnSAQYj58/s1600/Chainguard.jpg",
+    "published": "2026-01-08T11:50:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "The State of Trusted Open Source Chainguard, the trusted source for open source, has a unique view into how modern organizations actually consume open source software and where they run into risk and operational burdens. Across a growing customer base and an extensive catalog of \u2026",
+    "title": "The State of Trusted Open Source"
+  },
   "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpopD3Sr47ByE_zUhbMp2X-Y6mYwjadauTKcWNbN0U0__mj7sWOxknQhTJ1O4n97vYFSsGrJ4NR1jA1GGpqNDWDqiZkBcJF9BXJ9GB6nkjqlizHrxSyd37gCO87MwUOcjLnCicQv5htud-3JzoTZeDO6qxHAtiFfbE4y7IK1QQnos0LYbrs4b3qZ2gq3Zk/s1600/threatsday.jpg",
@@ -2578,6 +2641,15 @@
     "source": "The Hacker News",
     "summary": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories The first ThreatsDay Bulletin of 2026 lands on a day that already feels symbolic \u2014 new year, new breaches, new tricks. If the past twelve months taught defenders anything, it\u2019s that \u2026",
     "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories"
+  },
+  "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYqkrQT2-0GXXeWkPsNM5dnxJyFwJ5MdeB5Gj_PWzNa168z1Gchyphenhyphenfx3tl6fCSBzjHnmPCD7IDR38mbY36lifKUwB0qBjtX5A8vbCn_fwvsAFZcExFwJi7w4Y6G_R_rZ7QzpZEDlNkfoP7w5gGFlN6nbate4XgsNXm9GUKHlkW_DJs9mlGd7wxNWWuvK0Lu/s1600/threatsday.jpg",
+    "published": "2026-01-08T12:49:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.\nThis week\u2019s stories show how fast attackers change their tricks, how small mistakes tu\u2026",
+    "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories"
   },
   "https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html": {
     "categories": [],
@@ -2650,6 +2722,15 @@
     "source": "The Hacker News",
     "summary": "What is Identity Dark Matter? The Invisible Half of the Identity Universe\nIdentity used to live in one place - an LDAP directory, an HR system, a single IAM portal.\nNot anymore. Today, identity is fragmented across SaaS, on-prem, IaaS, PaaS, home-grown, and shadow applications. E\u2026",
     "title": "What is Identity Dark Matter?"
+  },
+  "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYFJO9rj-4g9MZUaHNkJ-OnOQ8chRQD9P0NwEU6-yh-_9eaNTNRTPn6Pozv7uJCpBVtgdE_OVgnpXiAtk-LwWFCcOPom8RjmrK1k-AYKXcC5kb72v0RtI6QFsfSngAzpFPIc9NiMUiGK3_DNnuxVDw-XChMMhCw40cBaa4F988REweIBKWk8TQGRfmHJhG/s1600/whatsapp-worm.jpg",
+    "published": "2026-01-08T17:10:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging Cybersecurity researchers have disclosed details of a new campaign that uses WhatsApp as a distribution vector for a Windows banking trojan called Astaroth in attacks targeting Brazil.\nThe camp\u2026",
+    "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/": {
     "categories": [
@@ -2894,6 +2975,18 @@
     "summary": "OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers OpenAI is reportedly mulling a new form of ads on ChatGPT called \"sponsored content,\" which could influence your buying decisions. [...]",
     "title": "OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers"
   },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/xai-teases-major-grok-upgrade-hints-at-grok-code-cli/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-08T22:43:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "xAI teases major Grok upgrade, hints at Grok Code CLI Elon Musk-backed xAI has been missing in action for a while now, but today, Musk teased a major upgrade for Grok alongside new products. [...]",
+    "title": "xAI teases major Grok upgrade, hints at Grok Code CLI"
+  },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/xais-grok-41-rolls-out-with-improved-quality-and-speed-for-free/": {
     "categories": [
       "Artificial Intelligence",
@@ -2914,6 +3007,18 @@
     "source": "BleepingComputer",
     "summary": "Hacker steals over $120 million from Balancer DeFi crypto protocol The Balancer Protocol announced that hackers had targeted its v2 pools, with losses reportedly estimated to be more than $128 million. [...]",
     "title": "Hacker steals over $120 million from Balancer DeFi crypto protocol"
+  },
+  "https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/": {
+    "categories": [
+      "Google",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-01-08T23:46:30+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Gmail's new AI Inbox uses Gemini, but Google says it won\u2019t train AI on user emails Google says it's rolling out a new feature called 'AI Inbox,' which summarizes all your emails, but the company promises it won't train its models on your emails. [...]",
+    "title": "Gmail's new AI Inbox uses Gemini, but Google says it won\u2019t train AI on user emails"
   },
   "https://www.bleepingcomputer.com/news/google/google-backpedals-on-new-android-developer-registration-rules/": {
     "categories": [
@@ -3173,6 +3278,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Emergency Windows 10 update fixes ESU enrollment bug Microsoft has released an emergency out-of-band update to address a known issue preventing Windows 10 users from enrolling in the Extended Security Updates (ESU) program. [...]",
     "title": "Microsoft: Emergency Windows 10 update fixes ESU enrollment bug"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-01-08T12:45:35+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Exchange Online outage blocks access to mailboxes via IMAP4 Microsoft is working to fix an Exchange Online service outage that intermittently prevents users from accessing their mailboxes via the Internet Mailbox Access Protocol 4 (IMAP4). [...]",
+    "title": "Microsoft Exchange Online outage blocks access to mailboxes via IMAP4"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-outlook-mailboxes/": {
     "categories": [
@@ -3455,6 +3571,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft is speeding up the Teams desktop client for Windows Microsoft says it will add a new Teams call handler beginning in January 2026 to reduce launch times and boost call performance for the Windows desktop client. [...]",
     "title": "Microsoft is speeding up the Teams desktop client for Windows"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-08T12:10:34+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Microsoft to enforce MFA for Microsoft 365 admin center sign-ins Microsoft will start enforcing multi-factor authentication (MFA) for all users accessing the Microsoft 365 admin center starting next month. [...]",
+    "title": "Microsoft to enforce MFA for Microsoft 365 admin center sign-ins"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-integrate-sysmon-directly-into-windows-11-server-2025/": {
     "categories": [
@@ -4079,6 +4207,28 @@
     "summary": "CISA orders feds to patch Samsung zero-day used in spyware attacks CISA ordered U.S. federal agencies today to patch a critical Samsung vulnerability that has been exploited in zero-day attacks to deploy LandFall spyware on devices running WhatsApp. [...]",
     "title": "CISA orders feds to patch Samsung zero-day used in spyware attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-09T03:46:07+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "CISA retires 10 emergency cyber orders in rare bulk closure The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has retired 10 Emergency Directives issued between 2019 and 2024, saying that the required actions have been completed or are now covered by Binding Operat\u2026",
+    "title": "CISA retires 10 emergency cyber orders in rare bulk closure"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-08T07:45:25+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA tags max severity HPE OneView flaw as actively exploited The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has flagged a maximum-severity HPE OneView vulnerability as actively exploited in attacks. [...]",
+    "title": "CISA tags max severity HPE OneView flaw as actively exploited"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-fully-patch-actively-exploited-cisco-flaws/": {
     "categories": [
       "Security"
@@ -4150,6 +4300,28 @@
     "source": "BleepingComputer",
     "summary": "Cisco: Actively exploited firewall flaws now abused for DoS attacks Cisco warned this week that\u00a0two vulnerabilities, which have been exploited in zero-day attacks,\u00a0are now being abused to force ASA and FTD firewalls into\u00a0reboot loops. [...]",
     "title": "Cisco: Actively exploited firewall flaws now abused for DoS attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisco-switches-hit-by-reboot-loops-due-to-dns-client-bug/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-08T20:40:26+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Cisco switches hit by reboot loops due to DNS client bug Multiple Cisco switch models are suddenly experiencing reboot loops after logging fatal DNS client errors, according to reports seen by BleepingComputer. [...]",
+    "title": "Cisco switches hit by reboot loops due to DNS client bug"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-08T09:13:17+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Cisco warns of Identity Service Engine flaw with exploit code Cisco has patched an ISE vulnerability with public proof-of-concept exploit code that can be abused by attackers with admin privileges. [...]",
+    "title": "Cisco warns of Identity Service Engine flaw with exploit code"
   },
   "https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/": {
     "categories": [
@@ -4769,6 +4941,17 @@
     "source": "BleepingComputer",
     "summary": "FBI seizes domain storing bank credentials stolen from U.S. victims The U.S. government has seized the 'web3adspanels.org' domain and the associated database used by cybercriminals to host bank login credentials stolen in account takeover attacks. [...]",
     "title": "FBI seizes domain storing bank credentials stolen from U.S. victims"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-warns-about-kimsuky-hackers-using-qr-codes-to-phish-us-orgs/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-08T22:57:05+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "FBI warns about Kimsuky hackers using QR codes to phish U.S. orgs The North Korean state-sponsored hacker group Kimsuki is using malicious\u00a0QR codes in spearphishing campaigns that target U.S. organizations, the Federal Bureau of Investigation warns in a flash alert. [...]",
+    "title": "FBI warns about Kimsuky hackers using QR codes to phish U.S. orgs"
   },
   "https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/": {
     "categories": [
@@ -5938,6 +6121,17 @@
     "summary": "NCSC's \u2018Proactive Notifications\u2019 warns orgs of flaws in exposed devices The UK's National Cyber Security Center (NCSC) announced the testing phase of a new service called Proactive Notifications, designed to inform organizations in the country of vulnerabilities present in their \u2026",
     "title": "NCSC's \u2018Proactive Notifications\u2019 warns orgs of flaws in exposed devices"
   },
+  "https://www.bleepingcomputer.com/news/security/new-china-linked-hackers-breach-telcos-using-edge-device-exploits/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-08T23:39:12+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New China-linked hackers breach telcos using edge device exploits A sophisticated threat actor that uses Linux-based malware to target telecommunications providers has recently broadened its operations to include organizations in Southeastern Europe. [...]",
+    "title": "New China-linked hackers breach telcos using edge device exploits"
+  },
   "https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/": {
     "categories": [
       "Security",
@@ -6872,6 +7066,17 @@
     "summary": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub Hundreds of trojanized versions of well-known packages such as Zapier, ENS Domains, PostHog, and Postman have been planted in the npm\u00a0registry in a new Shai-Hulud supply-chain campaign. [...]",
     "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub"
   },
+  "https://www.bleepingcomputer.com/news/security/six-for-2026-the-cyber-threats-you-cant-ignore/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-08T15:02:12+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Six for 2026: The cyber threats you can\u2019t ignore Cybersecurity threats in 2026 are accelerating, driven by AI, automation, and more effective social engineering. Corelight outlines six emerging attack trends and explains how network visibility can help defenders respond faster. [\u2026",
+    "title": "Six for 2026: The cyber threats you can\u2019t ignore"
+  },
   "https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/": {
     "categories": [
       "Security",
@@ -6970,6 +7175,18 @@
     "source": "BleepingComputer",
     "summary": "Taiwan says China's attacks on its energy sector increased tenfold The National Security Bureau in Taiwan says that China's attacks on the country's energy sector increased tenfold in 2025 compared to the previous year. [...]",
     "title": "Taiwan says China's attacks on its energy sector increased tenfold"
+  },
+  "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-01-08T16:47:24+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Texas court blocks Samsung from tracking TV viewing, then vacates order The State of Texas obtained a short-lived, temporary restraining order (TRO) against Samsung that prohibited\u00a0the South Korean company from collecting audio and visual data about what Texas consumers are watch\u2026",
+    "title": "Texas court blocks Samsung from tracking TV viewing, then vacates order"
   },
   "https://www.bleepingcomputer.com/news/security/texas-sues-tv-makers-for-spying-on-users-selling-data-without-consent/": {
     "categories": [
@@ -7336,6 +7553,17 @@
     "source": "BleepingComputer",
     "summary": "US sanctions North Korean bankers linked to cybercrime, IT worker fraud The U.S. Treasury Department imposed sanctions on two North Korean financial institutions and eight individuals involved in laundering cryptocurrency stolen in cybercrime and fraudulent IT worker schemes. [..\u2026",
     "title": "US sanctions North Korean bankers linked to cybercrime, IT worker fraud"
+  },
+  "https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-08T21:27:19+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "VMware ESXi zero-days likely exploited a year before disclosure Chinese-speaking threat actors used a compromised SonicWall VPN appliance to deliver a VMware ESXi exploit toolkit that seems to have been developed more than a year before the targeted vulnerabilities became publicl\u2026",
+    "title": "VMware ESXi zero-days likely exploited a year before disclosure"
   },
   "https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/": {
     "categories": [
@@ -7808,6 +8036,24 @@
     "source": "darkreading",
     "summary": "Attackers Use Stolen AWS Credentials in Cryptomining Campaign Threat actors wielding stolen AWS Identity and Access Management (IAM) credentials leverage Amazon EC and EC2 infrastructure across multiple customer environments.",
     "title": "Attackers Use Stolen AWS Credentials in Cryptomining Campaign"
+  },
+  "https://www.darkreading.com/cloud-security/fake-ai-chrome-extensions-steal-900k-users-data": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt02f996290756b219/695ff47156949d237bc880f7/Evil_AI_GrandeDuc_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-08T21:34:40+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Fake AI Chrome Extensions Steal 900K Users' Data Threat actors ripped off a legitimate AI-powered Chrome extension in order to harvest ChatGPT and DeepSeek data before sending it to a C2 server.",
+    "title": "Fake AI Chrome Extensions Steal 900K Users' Data"
+  },
+  "https://www.darkreading.com/cloud-security/heres-cloud-security-holds-year-ahead": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9c1b709d8c86d01b/696008fcee3890800f6163cb/crystal_ball_amana_images_inc._Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-08T15:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Here's What Cloud Security's Future Holds for the Year Ahead Here are the top cloud security trends I'm seeing in my crystal ball for the New Year \u2014 particularly arming us for AI adoption.",
+    "title": "Here's What Cloud Security's Future Holds for the Year Ahead"
   },
   "https://www.darkreading.com/cloud-security/lack-mfa-common-thread-vast-cloud-credential-heist": {
     "categories": [],
@@ -8665,6 +8911,15 @@
     "summary": "While ECH Adoption Is Low, Risks Remain for Enterprises, End Users Is the new privacy protocol helping malicious actors more than Internet users?",
     "title": "While ECH Adoption Is Low, Risks Remain for Enterprises, End Users"
   },
+  "https://www.darkreading.com/endpoint-security/chatgpt-memory-feature-prompt-injection": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb4bbc78591a9b823/6737abb198fab36b8a54d20c/ChatGPT-mundissima-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-08T20:23:34+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "ChatGPT's Memory Feature Supercharges Prompt Injection The &quot;ZombieAgent&quot; exploit makes use of ChatGPT's long-term memory and advanced capabilities.",
+    "title": "ChatGPT's Memory Feature Supercharges Prompt Injection"
+  },
   "https://www.darkreading.com/endpoint-security/chinese-apt-routers-hijack-software-updates": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c2272ac0964d1a8/691f71f3294e2502ff8a7325/Plush_daemon-Michal_Boubin-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -9261,6 +9516,15 @@
     "source": "darkreading",
     "summary": "Kimsuky Debuts HTTPTroy Backdoor Against South Korea Users The well-known North Korean threat group continues to improve the obfuscation and anti-analysis features of its attack toolchain.",
     "title": "Kimsuky Debuts HTTPTroy Backdoor Against South Korea Users"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/maximum-severity-hpe-oneview-flaw-exploited": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteb1d6dc6c5103f22/696027d3700490f2ece92fe6/HPEbuilding_KristofferTripplaar_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-08T22:21:29+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Maximum Severity HPE OneView Flaw Exploited in the Wild Exploitation of CVE-2025-37164 can enable remote code execution on HPE's IT infrastructure management platform, leading to devastating consequences.",
+    "title": "Maximum Severity HPE OneView Flaw Exploited in the Wild"
   },
   "https://www.darkreading.com/vulnerabilities-threats/new-raptor-framework-uses-agentic-ai-create-patches": {
     "categories": [],
