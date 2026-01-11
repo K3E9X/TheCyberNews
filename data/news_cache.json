@@ -2516,6 +2516,15 @@
     "summary": "Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't) As organizations plan for 2026, cybersecurity predictions are everywhere. Yet many strategies are still shaped by headlines and speculation rather than evidence. The real challenge isn\u2019t a lack of for\u2026",
     "title": "Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)"
   },
+  "https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2wiOQx_WqaJOurFU70JNrticSZpssdRy9WR9QT13NyeILmm4U_apbN1YxO-67pfJqcF-z1SuLhcNagwr2FJXlvWz_wRa2CLxWZc6pPvEe60nCQKm8mek1mabnBvfkpNnZSe8CzwERR3wPp18oH48tZ9TXSnMYf_PIvBUAC0-mbdCrC6Q7yafFVfQxfQU2/s1600/euro.jpg",
+    "published": "2026-01-10T08:59:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Europol Arrests 34 Black Axe Members in Spain Over \u20ac5.9M Fraud and Organized Crime Europol on Friday announced the arrest of 34 individuals in Spain who are alleged to be part of an international criminal organization called Black Axe.\nAs part of an operation conducted by the Spa\u2026",
+    "title": "Europol Arrests 34 Black Axe Members in Spain Over \u20ac5.9M Fraud and Organized Crime"
+  },
   "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlFgZ371OJLB7x0fK_3a34h710DpAHQLeyLQyaBpp1jhfsFyRD0-tmkLhXAvv0VD1XnU_WK8g5O16VUob1aHIyQf2smhkn6llIaC_H5_6MwogFRD11Hfp-w2kPc9vgiBUTlnftXM7VuCMsFmBPwxtyvAokqOJbgSAndESDU3qZV6-R9SH6meqbyuyoFk8n/s1600/windows.jpg",
@@ -2560,6 +2569,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing Threat actors engaging in phishing attacks are exploiting routing scenarios and misconfigured spoof protections to impersonate organizations' domains and distribute emails that appear as if they have \u2026",
     "title": "Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing"
+  },
+  "https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ8l0NucKedkyhQLr7E5BKEvF8JlDztA0fBd3dL1lku0PJHK4PqEpa1mkpxpWhYKq4MpxuL1fr9p6NbpkU8GfhFTct25hVf6bMPsTJDTfQz71Y_aQD0gv0ln0gYFDYMEbTQ1s-52sSJz0OgoVjhaDkq1TExIJzTdIrLUjmZPwe1tzKEHDO_7-JKV9_BDRQ/s1600/1000046762.jpg",
+    "published": "2026-01-10T10:35:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors The Iranian threat actor known as MuddyWater has been attributed to a spear-phishing campaign targeting diplomatic, maritime, financial, and telecom entities in the Middle East with a Rust-based impl\u2026",
+    "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors"
   },
   "https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html": {
     "categories": [],
@@ -3421,6 +3439,18 @@
     "summary": "Microsoft investigates Copilot outage affecting users in Europe Microsoft is working to mitigate an ongoing incident that has been blocking users in Europe from accessing the company's\u00a0AI-powered Copilot digital assistant. [...]",
     "title": "Microsoft investigates Copilot outage affecting users in Europe"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-send-to-kindle-in-word/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-01-11T00:29:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft is retiring 'Send to Kindle' in Word Microsoft is retiring a feature that allowed you to send your documents to Kindle straight from Microsoft Word. [...]",
+    "title": "Microsoft is retiring 'Send to Kindle' in Word"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5070311-triggers-file-explorer-bright-white-flashes-in-dark-mode/": {
     "categories": [
       "Microsoft"
@@ -4172,6 +4202,17 @@
     "source": "BleepingComputer",
     "summary": "\u201cBitcoin Queen\u201d gets 11 years in prison for $7.3 billion Bitcoin scam A Chinese woman\u00a0known as the \"Bitcoin Queen\" was sentenced in London to 11 years and eight months in jail for laundering Bitcoin from a \u00a35.5 billion ($7.3 billion) cryptocurrency investment scheme. [...]",
     "title": "\u201cBitcoin Queen\u201d gets 11 years in prison for $7.3 billion Bitcoin scam"
+  },
+  "https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-10T18:17:31+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "BreachForums hacking forum database leaked, exposing 324,000 accounts The latest incarnation of the notorious BreachForums hacking forum has suffered a data breach, with its user database table leaked online. [...]",
+    "title": "BreachForums hacking forum database leaked, exposing 324,000 accounts"
   },
   "https://www.bleepingcomputer.com/news/security/california-man-admits-to-laundering-crypto-stolen-in-230m-heist/": {
     "categories": [
@@ -5765,6 +5806,17 @@
     "summary": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds An Interpol-coordinated initiative called Operation Sentinel led to the arrest of 574 individuals and the recovery of $3 million linked to business email compromise, extortion, and ransomware incidents. [...]",
     "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds"
   },
+  "https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-10T10:27:38+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Ireland recalls almost 13,000 passports over missing 'IRL' code Ireland's Department of Foreign Affairs has recalled nearly 13,000 passports after a software update caused a printing defect. The printing error makes the documents non-compliant with international travel standards \u2026",
+    "title": "Ireland recalls almost 13,000 passports over missing 'IRL' code"
+  },
   "https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/": {
     "categories": [
       "Security"
@@ -7255,6 +7307,17 @@
     "source": "BleepingComputer",
     "summary": "SoundCloud confirms breach after member data stolen, VPN access disrupted Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in which threat actors stole a database exposing users' email\u2026",
     "title": "SoundCloud confirms breach after member data stolen, VPN access disrupted"
+  },
+  "https://www.bleepingcomputer.com/news/security/spain-arrests-34-suspects-linked-to-black-axe-cyber-crime/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-10T15:17:46+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Spain arrests 34 suspects linked to Black Axe cyber crime Authorities in Spain have arrested 34 individuals allegedly part of a criminal network involved in cyber fraud and believed to be connected to the Black Axe group responsible for illicit activities across Europe. [...]",
+    "title": "Spain arrests 34 suspects linked to Black Axe cyber crime"
   },
   "https://www.bleepingcomputer.com/news/security/spain-arrests-teen-who-stole-64-million-personal-data-records/": {
     "categories": [
