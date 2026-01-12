@@ -3199,6 +3199,17 @@
     "summary": "Logitech Options+, G HUB macOS apps break after certificate expires Logitech's Options+ and G Hub apps on macOS stopped working after their code-signing certificate expired, leaving users unable to launch them on Apple systems. [...]",
     "title": "Logitech Options+, G HUB macOS apps break after certificate expires"
   },
+  "https://www.bleepingcomputer.com/news/legal/california-bans-data-broker-reselling-health-data-of-millions/": {
+    "categories": [
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-01-11T15:23:34+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "California bans data broker reselling health data of millions The California Privacy Protection Agency (CalPrivacy) has taken action against the\u00a0 Datamasters\u00a0marketing firm that sold the health and personal data of millions of users without being registered as a data broker. [...\u2026",
+    "title": "California bans data broker reselling health data of millions"
+  },
   "https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/": {
     "categories": [
       "Legal"
@@ -5793,6 +5804,17 @@
     "source": "BleepingComputer",
     "summary": "In 2026, Hackers Want AI: Threat Intel on Vibe Hacking & HackGPT Cybercriminals are increasingly using AI to lower the barrier to entry for fraud and hacking, shifting from skill-based to AI-assisted attacks known as \"vibe hacking.\" Flare examines how underground forums promote A\u2026",
     "title": "In 2026, Hackers Want AI: Threat Intel on Vibe Hacking & HackGPT"
+  },
+  "https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-11T19:13:01+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Instagram denies breach amid claims of 17 million account data leak Instagram says it fixed a bug that allowed threat actors to mass-request password reset emails, amid claims that data from more than 17 million Instagram accounts was scraped and leaked online. [...]",
+    "title": "Instagram denies breach amid claims of 17 million account data leak"
   },
   "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/": {
     "categories": [
