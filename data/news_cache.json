@@ -2471,6 +2471,15 @@
     "summary": "CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024 The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday said it's retiring 10 emergency directives (Eds) that were issued between 2019 and 2024.\nThe list of the directives now con\u2026",
     "title": "CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024"
   },
+  "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMUjMXRdyCtI2xikoJSDeGIvViooZx5iY3VaL-JJKo4_S9mFaMjovvMIiSzEzzOMDm8H40sBeHQqs_kLbmkACCDc4BdhtYctddKvyo14C-RTPlx0Cl3fVhppAS5-wZ3ZfletweMZPMp5sI5AgpDmFri8LIqIxakNLNygHDkJisJRv39ouXv6qntGei9EVx/s1600/gogs.png",
+    "published": "2026-01-13T07:15:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of active exploitation of a high-severity security flaw impacting Gogs by adding it to its Known Exploited Vulnerabilities (\u2026",
+    "title": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution"
+  },
   "https://thehackernews.com/2026/01/cisco-patches-ise-security.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjybuSkMzO3sPyC2aweCyQ7gBCiWeZ0MKZORj98gSkWfOtEBpzOFHt7hqNsdT1eqWpHyhQfiHHUw9U6sMvAI5Nj7JYfXd-BbxZYhV7AFPY6orjs-g0asPZceU4bBweF1odEupcmfSvxXx8Jsci1v8alq87jE0FJPaE6uYHy39KIBaoYd97VqDPQELznEpwJ/s1600/cisco.jpg",
@@ -2579,6 +2588,24 @@
     "summary": "Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks The botnet known as Kimwolf has infected more than 2 million Android devices by tunneling through residential proxy networks, according to findings from Synthient.\n\"Key actors involved in the\u2026",
     "title": "Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks"
   },
+  "https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVHFQIvHd3Xgz0zjrshHMJtilffEd0_azV_hpxK8GoTLQWDeGdaBZYKYitTQoFr5eqVFb3GFc4g0xz8wopdk3WBOsDKkP_7Nev4o91jQA7z1giTaO0aMVWRP4brxYXlyZ5qIxmyh7M3PkhIuL3yjQtXuMoAJm-HBgOgyV6-5ukzwQYT15woXwmFRxPoVXQ/s1600/payment.png",
+    "published": "2026-01-13T17:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages Cybersecurity researchers have discovered a major web skimming campaign that has been active since January 2022, targeting several major payment networks like American Express, Diners Club, Discover\u2026",
+    "title": "Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages"
+  },
+  "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM0ngZi95ZptNXfR_fRCcaAolThq29ozaWNaVEh7n53DkYPz_Lkd0e8bXAVJlFev3xmjECw-ojYhxY-9LxK4ba00fpmcAI7sW7GTXSWb0POi3qIC8eNdKxgeFPg2HCGnA_El_ffucuffNfjqbyhL1oiqoU2HMR18zaCuUdOkBPtRiNAsLPDL9zFd-2XGGg/s1600/mexc.jpg",
+    "published": "2026-01-13T17:22:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available \u2026",
+    "title": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool"
+  },
   "https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHZJ_x-tDf2JaX7jVZDlS1KTcw7PnwLR03qRgpIHRBtIvLNIybJd8Gw058LyQyjV73UUJy39rcTziPgH9B1cqkTeOMF5zn7GstRSXG-MV1kWEfbnsACIM7VDbodevFXrvnYQjZjQMmicjj16dM6nb1tUEhsoDSQ5UOFAGpaG3P0XCpR5s5nazAf9npmgge/s1600/email-phishing.jpg",
@@ -2615,6 +2642,24 @@
     "summary": "n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions Open-source workflow automation platform n8n has warned of a maximum-severity security flaw that, if successfully exploited, could result in authenticated remote code execution (RCE).\nThe vulnerabil\u2026",
     "title": "n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions"
   },
+  "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcfCLo9a59SCJ19c7WELpXbj5RBPNyVw9NfsuV9pw1jfhfwpQ7A33H3RNHPH7X-lqmlBRJMeJV2QGiHEdX-Se3e1r8Ekv4aHmHS7xmyF2gOHKVwn_O9lF4XXC5U6VtbKc8GCVZFv7dzw0KKO6f_19B4jMAHVfEm-i1hqYCNl_qoEqANSA5gtna_BfQ4_me/s1600/link.jpg",
+    "published": "2026-01-13T11:57:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments Cybersecurity researchers have disclosed details of a previously undocumented and feature-rich malware framework codenamed VoidLink that's specifically designed for long-term, stealthy access to Linux-ba\u2026",
+    "title": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments"
+  },
+  "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrT2CE7EREKiOTLCxBZbOT5xpjY0b5h3VOXn4tm20sYQg6zpq9eoFyAx5SPdxrhILjE6Kh9JWLtHqLPNiknTbtfrOIqHyZsssQhwO_avd53c24jx6pK75xCKHtExGq-3nNypZrks9oV7TWw11xhwAW0z54_XrxVDMsbtMlwpqJgf3Gr7TgTtPLHkcIDMZ4/s1600/windows-malware.jpg",
+    "published": "2026-01-13T09:08:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack Cybersecurity researchers have disclosed details of a new campaign dubbed SHADOW#REACTOR that employs an evasive multi-stage attack chain to deliver a commercially available remote administration tool cal\u2026",
+    "title": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack"
+  },
   "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh4kfbdw2kmRhvFRiWagiGm-NomgkxXOVp915lPhU1nQ5FwQq4P08SOOLN7uVSAoojBSuz_sAI7rcgwWvp53esgON2dDVqB7C9EhkxGd5dz6IsZJ-xMLegtI9mAbJBRsidXMjRX3TUBTtPl1iY7Jnh0KhPcJnRggbC8WFgr0w3Fm6zTfIjZYWKBrMZZHna/s1600/flaw-n8n.jpg",
@@ -2641,6 +2686,15 @@
     "source": "The Hacker News",
     "summary": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls Artificial intelligence (AI) company OpenAI on Wednesday announced the launch of ChatGPT Health, a dedicated space that allows users to have conversations with the chatbot about their health.\nTo that end\u2026",
     "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls"
+  },
+  "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6i85mU3PMQNKV9ygNXalAIYl19jrFu8mwAYx4Pa0hYDvtlr2MYpm0fHFVlsG8cVgCRkp3URTdzcxfx38d26boTVjF4vJ3J-85B0Bam3JZifhIg2dqczZXw0fht-lN4Erv8lyzhFedTIC0n-QMAtOGWsiYp_GdtVpu8qYJS2TQb3WMvTN9481pHruTvfPQ/s1600/uk.jpg",
+    "published": "2026-01-14T05:48:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of new cyber attacks targeting its defense forces with malware known as PLUGGYAPE between October and December 2025.\nThe a\u2026",
+    "title": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces"
   },
   "https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html": {
     "categories": [],
@@ -2686,6 +2740,15 @@
     "source": "The Hacker News",
     "summary": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish energy and nuclear research agency, as \u2026",
     "title": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations"
+  },
+  "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxZu-BM7xxcFqhj3Vi07lWWCcD8kJgOH3JTQ4oV6Q3Ngd6GmylXsA52gk2aqSCIfEEHxsmev5EbQPxMr4fWFMLFrvwj1U8VKilr46bj6oN01nCbN08tV9bkft9WpFgSZHVXd_-jrbSTTvlpKrPpvqazA_Cwoh8XUjLKK0SC-r1Plq-2KCpdlDgTHBg1e4H/s1600/SERVICENOW-AI.jpg",
+    "published": "2026-01-13T11:47:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow artificial intelligence (AI) Platform that could enable an unauthenticated user to impersonat\u2026",
+    "title": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation"
   },
   "https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html": {
     "categories": [],
@@ -2804,6 +2867,15 @@
     "summary": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators Security teams are still catching malware. The problem is what they're not catching.\nMore attacks today don't arrive as files. They don't drop binaries. They don't trigger classic alerts. Instead\u2026",
     "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators"
   },
+  "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2N9qZuwkcslheNUOsWaTDrMYeXiBUfw1y-hItTvuGo71srarOm7AWzq3o7ro9E0x_CnC7XmJGXKl1tfkc6gTMK288y6M_zN6Yg1FATduXSQmMlp_jnHESxVYZDuJnNozO_Ff-r-lWIyG5AikC8AwrOckeYVYcCQv2RjeLof2bxV_TrcbvRvZqrTIcjD0/s1600/ai-agent.jpg",
+    "published": "2026-01-13T13:44:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl AI agents are no longer just writing code. They are executing it.\nTools like Copilot, Claude Code, and Codex can now build, test, and deploy software end-to-end in minutes. That speed is reshaping e\u2026",
+    "title": "[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl"
+  },
   "https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVi5U23T5vEL_B7kuk04RaGFSI7zFo33wLIli8_c9AxYxC3vY7UHsazm7yFaXzX8nYGa5Ffgrv4zChIoNUV2zSRusLa2cCZHs95p_JFTJGUr11v3BWAdckcv-BzKEBi6rnO2KrdvyQnW-IiAetHbJ73B2SXsVlQH-LyVo_fWw1J-avBbsUteP6FjWf1C5x/s1600/reacap.jpg",
@@ -2830,6 +2902,15 @@
     "source": "The Hacker News",
     "summary": "What is Identity Dark Matter? The Invisible Half of the Identity Universe\nIdentity used to live in one place - an LDAP directory, an HR system, a single IAM portal.\nNot anymore. Today, identity is fragmented across SaaS, on-prem, IaaS, PaaS, home-grown, and shadow applications. E\u2026",
     "title": "What is Identity Dark Matter?"
+  },
+  "https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg11caZQqhaS0OyoXT_GpH_CIUPoC00sjkeg4ycrORRwI75LWELCfMCO0yyfL1FoKf8jrX6NJZsGVFZ2m1o_H3VFdFtBJprczhcQn5bbS5YH65k4I1PVoGAJGZP4N2NHfj_m2VjXJPmO8k-GfaZFUcIXSN9lLuOZ3Dnl8cqQkwkMEWHWY0cYuu4QIBKXVE/s1600/AI.jpg",
+    "published": "2026-01-13T11:55:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "What Should We Learn From How Attackers Leveraged AI in 2025? Old Playbook, New Scale: While defenders are chasing trends, attackers are optimizing the basics\nThe security industry loves talking about \"new\" threats. AI-powered attacks. Quantum-resistant encryption. Zero-trust arc\u2026",
+    "title": "What Should We Learn From How Attackers Leveraged AI in 2025?"
   },
   "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html": {
     "categories": [],
@@ -3197,6 +3278,18 @@
     "summary": "Google confirms AI search will have ads, but they may look different Google Ads are not going anywhere. Eventually,\u00a0AI Search results on Google and likely other properties will have ads. [...]",
     "title": "Google confirms AI search will have ads, but they may look different"
   },
+  "https://www.bleepingcomputer.com/news/google/google-confirms-android-bug-causing-volume-key-issues/": {
+    "categories": [
+      "Google",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-01-13T18:25:04+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google confirms Android bug causing volume key issues Google has confirmed a software bug that is preventing volume buttons from working correctly on Android devices with accessibility features enabled. [...]",
+    "title": "Google confirms Android bug causing volume key issues"
+  },
   "https://www.bleepingcomputer.com/news/google/google-gemini-3-spotted-on-ai-studio-ahead-of-imminent-release/": {
     "categories": [
       "Google",
@@ -3543,6 +3636,18 @@
     "summary": "Microsoft is retiring the Lens scanner app for iOS, Android Microsoft has started retiring the Microsoft Lens PDF scanner app for Android and iOS devices on Friday, January 9th, with plans to remove it from app stores next month. [...]",
     "title": "Microsoft is retiring the Lens scanner app for iOS, Android"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2026-patch-tuesday-fixes-3-zero-days-114-flaws/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-13T18:34:08+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft January 2026 Patch Tuesday fixes 3 zero-days, 114 flaws Today is Microsoft's January 2026\u00a0Patch Tuesday with security updates for 114 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+    "title": "Microsoft January 2026 Patch Tuesday fixes 3 zero-days, 114 flaws"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5070311-triggers-file-explorer-bright-white-flashes-in-dark-mode/": {
     "categories": [
       "Microsoft"
@@ -3663,6 +3768,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft releases Windows 10 KB5071546 extended security update Microsoft has released the KB5071546\u00a0extended security update to resolve 57 security vulnerabilities, including three zero-day flaws. [...]",
     "title": "Microsoft releases Windows 10 KB5071546 extended security update"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-13T18:56:21+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft releases Windows 10 KB5073724 extended security update Microsoft has released the KB5073724\u00a0extended security update to fix the Patch Tuesday security updates, including 3 zero-days and a fix for expiring Secure Boot certificates. [...]",
+    "title": "Microsoft releases Windows 10 KB5073724 extended security update"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-removing-defender-application-guard-from-office/": {
     "categories": [
@@ -3992,6 +4109,18 @@
     "summary": "Windows 11 KB5072033 & KB5071417 cumulative updates released Microsoft has released Windows 11\u00a0KB5072033 and\u00a0KB5071417 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
     "title": "Windows 11 KB5072033 & KB5071417 cumulative updates released"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074109-and-kb5073455-cumulative-updates-released/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-01-13T18:53:24+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 KB5074109 & KB5073455 cumulative updates released Microsoft has released Windows 11\u00a0KB5074109\u00a0and\u00a0KB5073455\u00a0 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+    "title": "Windows 11 KB5074109 & KB5073455 cumulative updates released"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-store-gets-ninite-style-multi-app-installer-feature/": {
     "categories": [
       "Microsoft",
@@ -4286,6 +4415,30 @@
     "summary": "Barts Health NHS discloses data breach after Oracle zero-day hack Barts Health NHS Trust has announced that Clop ransomware actors have stolen files from a database by exploiting a vulnerability in its Oracle E-business Suite software. [...]",
     "title": "Barts Health NHS discloses data breach after Oracle zero-day hack"
   },
+  "https://www.bleepingcomputer.com/news/security/belgian-hospital-az-monica-shuts-down-servers-after-cyberattack/": {
+    "categories": [
+      "Security",
+      "Healthcare"
+    ],
+    "image": "",
+    "published": "2026-01-13T20:27:22+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Belgian hospital AZ Monica shuts down servers after cyberattack Belgian hospital AZ Monica was forced to shut down all servers, cancel scheduled procedures, and transfer critical patients earlier today due to a cyberattack. [...]",
+    "title": "Belgian hospital AZ Monica shuts down servers after cyberattack"
+  },
+  "https://www.bleepingcomputer.com/news/security/betterment-confirms-data-breach-after-wave-of-crypto-scam-emails/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-01-13T16:46:02+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Betterment confirms data breach after wave of crypto scam emails U.S. digital investment advisor Betterment confirmed that hackers breached its systems and sent fake crypto-related messages to some customers. [...]",
+    "title": "Betterment confirms data breach after wave of crypto scam emails"
+  },
   "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/": {
     "categories": [
       "Security"
@@ -4339,6 +4492,18 @@
     "source": "BleepingComputer",
     "summary": "Cellik Android malware builds malicious versions from Google Play apps A new Android malware-as-a-service (MaaS) named Cellik is being advertised on underground cybercrime forums offering a robust set of capabilities that include\u00a0the option to embed it in any app available on the\u2026",
     "title": "Cellik Android malware builds malicious versions from Google Play apps"
+  },
+  "https://www.bleepingcomputer.com/news/security/central-maine-healthcare-breach-exposed-data-of-over-145-000-people/": {
+    "categories": [
+      "Security",
+      "Healthcare"
+    ],
+    "image": "",
+    "published": "2026-01-13T20:32:29+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Central Maine Healthcare breach exposed data of over 145,000 people A data breach last year at Central Maine Healthcare (CMH) exposed sensitive information of more than\u00a0145,000 individuals. [...]",
+    "title": "Central Maine Healthcare breach exposed data of over 145,000 people"
   },
   "https://www.bleepingcomputer.com/news/security/checkoutcom-snubs-shinyhunters-hackers-to-donate-ransom-instead/": {
     "categories": [
@@ -4676,6 +4841,17 @@
     "source": "BleepingComputer",
     "summary": "Contractors with hacking records accused of wiping 96 govt databases U.S. prosecutors have charged two Virginia brothers arrested on Wednesday with allegedly conspiring to steal sensitive information and destroy government databases after being fired from their jobs as federal co\u2026",
     "title": "Contractors with hacking records accused of wiping 96 govt databases"
+  },
+  "https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-13T15:45:00+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Convincing LinkedIn comment-reply tactic used in new phishing Scammers are flooding LinkedIn posts with fake \"reply\" comments that appear to come from the platform, warning of bogus policy violations and urging users to click external links. Some even abuse LinkedIn's official ln\u2026",
+    "title": "Convincing LinkedIn comment-reply tactic used in new phishing"
   },
   "https://www.bleepingcomputer.com/news/security/coupang-breach-affecting-337-million-users-raises-data-protection-questions/": {
     "categories": [
@@ -6337,6 +6513,18 @@
     "summary": "Microsoft rolls out hardware-accelerated BitLocker in Windows 11 Microsoft is rolling out hardware-accelerated BitLocker in Windows 11 to address growing performance and security concerns by leveraging the capabilities of system-on-a-chip and CPU. [...]",
     "title": "Microsoft rolls out hardware-accelerated BitLocker in Windows 11"
   },
+  "https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-new-secure-boot-certificates-for-windows-devices/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-01-13T19:57:33+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "New Windows updates replace expiring Secure Boot certificates Microsoft has started rolling out new Secure Boot certificates that will automatically install on eligible Windows 11 24H2 and 25H2 systems. [...]",
+    "title": "New Windows updates replace expiring Secure Boot certificates"
+  },
   "https://www.bleepingcomputer.com/news/security/microsoft-sesameop-malware-abuses-openai-assistants-api-in-attacks/": {
     "categories": [
       "Security",
@@ -6690,6 +6878,18 @@
     "source": "BleepingComputer",
     "summary": "New Veeam vulnerabilities expose backup servers to RCE attacks Veeam released security updates to patch multiple security flaws in its Backup & Replication software, including a critical remote code execution (RCE) vulnerability. [...]",
     "title": "New Veeam vulnerabilities expose backup servers to RCE attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-voidlink-malware-framework-targets-linux-cloud-servers/": {
+    "categories": [
+      "Security",
+      "Linux"
+    ],
+    "image": "",
+    "published": "2026-01-13T22:12:20+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New VoidLink malware framework targets Linux cloud servers A newly discovered\u00a0advanced cloud-native Linux malware framework\u00a0named VoidLink focuses on cloud environments, providing attackers with custom loaders, implants, rootkits, and plugins designed for modern infrastructures. \u2026",
+    "title": "New VoidLink malware framework targets Linux cloud servers"
   },
   "https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/": {
     "categories": [
@@ -7557,6 +7757,17 @@
     "summary": "Taiwan says China's attacks on its energy sector increased tenfold The National Security Bureau in Taiwan says that China's attacks on the country's energy sector increased tenfold in 2025 compared to the previous year. [...]",
     "title": "Taiwan says China's attacks on its energy sector increased tenfold"
   },
+  "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-source-code-is-authentic/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-13T13:08:25+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Target employees confirm leaked source code is authentic Multiple current and former Target employees confirmed that leaked source code samples posted by a threat actor match real internal systems. The company also rolled out an \"accelerated\" lockdown of its Git server, requiring\u2026",
+    "title": "Target employees confirm leaked source code is authentic"
+  },
   "https://www.bleepingcomputer.com/news/security/targets-dev-server-offline-after-hackers-claim-to-steal-source-code/": {
     "categories": [
       "Security"
@@ -7771,6 +7982,17 @@
     "source": "BleepingComputer",
     "summary": "UK fines LastPass over 2022 data breach impacting 1.6 million users The UK Information Commissioner's Office (ICO) fined the LastPass password management firm \u00a31.2 million for failing to implement security measures that allowed an attacker to steal personal information and encryp\u2026",
     "title": "UK fines LastPass over 2022 data breach impacting 1.6 million users"
+  },
+  "https://www.bleepingcomputer.com/news/security/ukraines-army-targeted-in-new-charity-themed-malware-campaign/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-13T23:03:55+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Ukraine's army targeted in new charity-themed malware campaign Officials of Ukraine's Defense Forces were targeted in a charity-themed campaign between October and December 2025 that delivered backdoor malware called\u00a0PluggyApe. [...]",
+    "title": "Ukraine's army targeted in new charity-themed malware campaign"
   },
   "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-admits-affiliate-role-in-nefilim-ransomware-gang/": {
     "categories": [
@@ -8358,6 +8580,15 @@
     "summary": "Microsoft Fixes Exploited Zero Day in Light Patch Tuesday Proof-of-concept exploit code is publicly available for two other flaws in this month's Patch Tuesday. In total, the company issued patches for more than 1,150 flaws this year.",
     "title": "Microsoft Fixes Exploited Zero Day in Light Patch Tuesday"
   },
+  "https://www.darkreading.com/application-security/microsofts-starts-2026-bang-zero-day": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6833c684448e3f88/6966b519bd9f335bad16f39a/upate_Datenschutz-Stockfoto_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-13T21:11:37+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Microsoft Starts 2026 With a Bang: A Freshly Exploited Zero-Day The vendor's first Patch Tuesday of the year also contains fixes for 112 CVEs, nearly double the amount from last month.",
+    "title": "Microsoft Starts 2026 With a Bang: A Freshly Exploited Zero-Day"
+  },
   "https://www.darkreading.com/application-security/multiple-chatgpt-security-bugs-rampant-data-theft": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5e4cc096e6f29a85/690b84a196c0541fffb6173a/openai_PeachY_Photograph_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -8504,6 +8735,15 @@
     "summary": "AI Agents Are Going Rogue: Here's How to Rein Them In Human-centered identity frameworks are incorrectly being applied to AI agents, creating the potential for catastrophe at machine speed, Poghosyan argues.",
     "title": "AI Agents Are Going Rogue: Here's How to Rein Them In"
   },
+  "https://www.darkreading.com/cyber-risk/ciso-succession-crisis-highlights-turnover-amplifies-security-risks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt74098d46524eb195/6966f5f0da3ddf3c040bf6b3/relay-race-slide6-thomaswolter-pixabay.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-13T23:45:27+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "CISO Succession Crisis Highlights How Turnover Amplifies Security Risks When cybersecurity leadership turns over too fast, risk does not reset. It compounds.",
+    "title": "CISO Succession Crisis Highlights How Turnover Amplifies Security Risks"
+  },
   "https://www.darkreading.com/cyber-risk/cloudflare-blames-outage-internal-error": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte9f1aac150228a24/691dafdec761fbbec783c05a/cloudflare1800_ZUMA_Press_Inc._alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -8647,6 +8887,15 @@
     "source": "darkreading",
     "summary": "Sunken Ships: Will Orgs Learn From Ivanti EPMM Attacks? The April/May zero-day exploitations of Ivanti's mobile device management platform meant unprecedented pwning of thousands of orgs by a Chinese APT \u2014 and history will probably repeat itself.",
     "title": "Sunken Ships: Will Orgs Learn From Ivanti EPMM Attacks?"
+  },
+  "https://www.darkreading.com/cyber-risk/taiwan-sees-greater-cyber-pressure-from-china": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4abd332eee7197d2/6786da6f8c4f5cf405ef88ec/Andy_LIU-taiwan-china-usa-tensions-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-14T02:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Taiwan Endures Greater Cyber Pressure From China Chinese cyberattacks on Taiwan's critical infrastructure \u2014 including energy utilities and hospitals \u2014\u00a0rose 6% in 2025, averaging 2.63 million attacks a day.",
+    "title": "Taiwan Endures Greater Cyber Pressure From China"
   },
   "https://www.darkreading.com/cyber-risk/trade-concerns-trumping-cybersecurity": {
     "categories": [],
@@ -9343,6 +9592,15 @@
     "summary": "While ECH Adoption Is Low, Risks Remain for Enterprises, End Users Is the new privacy protocol helping malicious actors more than Internet users?",
     "title": "While ECH Adoption Is Low, Risks Remain for Enterprises, End Users"
   },
+  "https://www.darkreading.com/endpoint-security/attackers-abuse-python-cloudflare-deliver-asyncrat": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb791b63eb5801b21/69662ecc82ed4e7a7b4016b2/rat-David_Chapman-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-13T14:58:48+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Attackers Abuse Python, Cloudflare to Deliver AsyncRAT The phishing campaign shows how attackers continue to weaponize legitimate cloud services and open source tools to evade detection and gain trust.",
+    "title": "Attackers Abuse Python, Cloudflare to Deliver AsyncRAT"
+  },
   "https://www.darkreading.com/endpoint-security/chatgpt-memory-feature-prompt-injection": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb4bbc78591a9b823/6737abb198fab36b8a54d20c/ChatGPT-mundissima-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -9447,6 +9705,15 @@
     "source": "darkreading",
     "summary": "Securing the Network Edge: A Comprehensive Framework for Modern Cybersecurity The future of cybersecurity means defending everywhere. Securing IoT, cloud, and remote work requires a unified edge-to-cloud strategy. (First in a three-part series.)",
     "title": "Securing the Network Edge: A Comprehensive Framework for Modern Cybersecurity"
+  },
+  "https://www.darkreading.com/endpoint-security/shadow-reactor-uses-text-files-to-deliver-remcos-rat": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf9ed8dd5e715c2cc/696686329d597322b596c9dd/mouse_David_Bleeker_Photography_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-13T17:46:57+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Shadow#Reactor Uses Text Files to Deliver Remcos RAT Attackers use a sophisticated delivery mechanism of text-only files for RAT deployment, showcasing a clever way to bypass defensive tools and rely on the target's own utilities.",
+    "title": "Shadow#Reactor Uses Text Files to Deliver Remcos RAT"
   },
   "https://www.darkreading.com/endpoint-security/shadypanda-hackers-weaponize-browsers": {
     "categories": [],
@@ -9600,6 +9867,15 @@
     "summary": "Advisor360 Gets a Handle on Shadow AI via Automation With employees looking for the benefits of artificial intelligence, a fintech company stepped up controls with automation.",
     "title": "Advisor360 Gets a Handle on Shadow AI via Automation"
   },
+  "https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c8e485f6dd7d182/696542ab278c92c7bacc5fd1/ServiceNow-Ted_Hsu-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-13T21:44:48+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "'Most Severe AI Vulnerability to Date' Hits ServiceNow ServiceNow tacked agentic AI onto a largely unguarded legacy chatbot, exposing customers' data and connected systems.",
+    "title": "'Most Severe AI Vulnerability to Date' Hits ServiceNow"
+  },
   "https://www.darkreading.com/remote-workforce/amazon-fends-off-dprk-it-job-scammers": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3fce2e5014a4ecec/694ad7a0ec1580176ac05f87/DPRK_Square_Ian_Cowe_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -9651,6 +9927,15 @@
     "summary": "Akira RaaS Targets Nutanix VMs, Threatens Critical Orgs The Akira ransomware group has been experimenting with new tools, bugs, and attack surfaces, with demonstrated success in significant sectors.",
     "title": "Akira RaaS Targets Nutanix VMs, Threatens Critical Orgs"
   },
+  "https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9a991165aa3ee1bd/69656249073f981fef920b83/breachforums_BreizhAtao_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-12T22:01:37+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "BreachForums Breached, Exposing 324K Cybercriminals A massive data dump reveals real identities and details of administrators and members of the notorious hacker forum.",
+    "title": "BreachForums Breached, Exposing 324K Cybercriminals"
+  },
   "https://www.darkreading.com/threat-intelligence/broadside-mirai-variant-maritime-logistics": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0eabca553e7ca485/6936b8ff032c0932c4c3efe3/Ships_Hans-Joachim_Aubert_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
@@ -9694,6 +9979,15 @@
     "source": "darkreading",
     "summary": "Flaw in Hacktivist Ransomware Lets Victims Decrypt Own Files A new version of VolkLocker, wielded by the pro-Russia RaaS group CyberVolk, has some key enhancements but one fatal flaw.",
     "title": "Flaw in Hacktivist Ransomware Lets Victims Decrypt Own Files"
+  },
+  "https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8054b461355ea705/69655502bdf1a0c6e5dfd327/brute_force_Ingram_Publishing_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-12T21:19:49+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Multipurpose GoBruteforcer Botnet Targets 50K+ Linux Servers Researchers detailed a souped-up version of the GoBruteforcer botnet that preys on servers with weak credentials and AI-generated configurations.",
+    "title": "Multipurpose GoBruteforcer Botnet Targets 50K+ Linux Servers"
   },
   "https://www.darkreading.com/threat-intelligence/google-dim-lighthouse-phishing-as-a-service": {
     "categories": [],
