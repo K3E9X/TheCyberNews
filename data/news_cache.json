@@ -2408,6 +2408,15 @@
     "summary": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers A newly discovered critical security flaw in legacy D-Link DSL gateway routers has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2026-0625 (CVSS score: 9.3), concern\u2026",
     "title": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers"
   },
+  "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMG-WeRkxqHYVKqOELWCDkbIiI6lTEWqGIAkOQlI3kVCdVPQtCyH3kOcBXxxscPd6Hj0V4xyKku6WmGYKhyphenhyphenYxRP_d4lzh4ddOwG0ySAz6zQQoNGiacBA4jKuvoNRqA1ChEFjekiSQZsmH6hKo-GQhXK6hyphenhyphenrk4jE50dWybCMTS_Dahxvv6WbEYeA6F0A1s/s1600/ai-agent-wing.jpg",
+    "published": "2026-01-14T15:07:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "AI Agents Are Becoming Privilege Escalation Paths AI agents have quickly moved from experimental tools to core components of daily workflows across security, engineering, IT, and operations. What began as individual productivity aids, like personal code assistants, chatbots, and \u2026",
+    "title": "AI Agents Are Becoming Privilege Escalation Paths"
+  },
   "https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBsWnWcWrV4eZwbF35H11zf4qjfCNl3bUZgrkSqhaYuyIXID6DpEY1XojOah8CUzZhvs-c33uelCSfZ1MuOMPoP4i4chKkblzMPNIdY4AbQ7iusK97HXg5NPwoc3Dc_DcuKuGZhwc8OxxOvBcnxOlHYSSl1ugILGsbfqg7fA00uZ5w14595CpY8_uoyEj2/s1600/claude.jpg",
@@ -2516,6 +2525,15 @@
     "summary": "Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control Cybersecurity researchers have disclosed details of yet another maximum-severity security flaw in n8n, a popular workflow automation platform, that allows an unauthenticated remote attack\u2026",
     "title": "Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control"
   },
+  "https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaCf34rufIAaB1zg0XCGzy86tGwLrk8gGoZ9woUybQk2mzmVq3TlkTzYf1MYnIA12yy5ujravpnTZ3UcDEtRlt_vPDS8VQroTd44vbZuatBDMsh3op-9H1e_i2Hr8wjHLM6DoxchN319FXrpoB8554QFsyKDEj8gfxb5d0MrzAfu86ar5xmKW605Fen9_D/s1600/node.jpg",
+    "published": "2026-01-14T07:05:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow Node.js has released updates to fix what it described as a critical security issue impacting \"virtually every production Node.js app\" that, if successfully exploited, could trigger a denial-of-\u2026",
+    "title": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow"
+  },
   "https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYs3DrTLoxNKDEunQc4yjZyAmnuhSyJGccrpxhneZyB6iJ29zkbfcoDpsPZlJYL59ZNTX09BS4FmbV_Yv2WjkB-mptBp_vVyYa4PpPY5jk73XydEvhAdyS-oHdUzSmbCobA7Gnnf6Iogvs3YdR2yC0XkkCGzdz3e9PQ3qg5kaVRVmn3OKxLbfaT2b0SIld/s1600/phishing-email.jpg",
@@ -2561,6 +2579,15 @@
     "summary": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing The U.S. Federal Bureau of Investigation (FBI) on Thursday released an advisory warning of North Korean state-sponsored threat actors leveraging malicious QR codes in spear-phishing campaigns targeting enti\u2026",
     "title": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing"
   },
+  "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimc7gjS2ZNi7kOnZXqH-FOYhQ5snGQ-zfhTA1NvxSNOo0dFaX62BEJSqr0qVmPJ9wY4jNffKZ8P5mciZC34btvRAJ4KH6dKXmcOOZpmFUZOU0cOtyJxNf-eImO9Gq8CIc3aVPlNo267-_RSUqTHyrjTkkfSbCnLb2lqjECHgqqo78Y-2Gib0Pxy8m3D-S9/s1600/fort.jpg",
+    "published": "2026-01-14T11:53:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution Fortinet has released updates to fix a critical security flaw impacting FortiSIEM that could allow an unauthenticated attacker to achieve code execution on susceptible instances.\nThe operating s\u2026",
+    "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution"
+  },
   "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-QNOjf4TVLf-q_dbb5g-hf4E4UjlFOOK5YAqVzx7MjPKi8yBuDxhMV34BhS8j_2G1Pyc54-wnEssVbtX7I2m-tTz8-sYtURpMRet1G83UIOgdbNw5TnuokdfQXqtd2DXeVjtM6lthXMyMP3BrHzha9fMdzLbrWrmEmAdUj-rhblxC_FMF9nwbcOrpMRtl/s1600/brute.jpg",
@@ -2569,6 +2596,15 @@
     "source": "The Hacker News",
     "summary": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials A new wave of GoBruteforcer attacks has targeted databases of cryptocurrency and blockchain projects to co-opt them into a botnet that's capable of brute-forcing user passwords for services such \u2026",
     "title": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials"
+  },
+  "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZpmrWdjziw_EBxzQs9lPcsMwRp6OICCFmo0QhzZoHdyE5WgEjcM2Y90QbmkJegSh19-ho2EsdkKwoEVKiSnM1ODN-8e5XJrw1cgjUHGm_ZAM6pYLaHSHa8TTJA8-ALLBty_JtK073FvqZFSjnuW7cEFGXNDQrGL12QRsuGJUl0Oc2QzoM-aMBVCatJLjc/s1600/cert.jpg",
+    "published": "2026-01-14T14:18:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware Security experts have disclosed details of an active malware campaign that's exploiting a DLL side-loading vulnerability in a legitimate binary associated with the open-source c-ares library to bypass s\u2026",
+    "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware"
   },
   "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html": {
     "categories": [],
@@ -2588,6 +2624,15 @@
     "summary": "Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks The botnet known as Kimwolf has infected more than 2 million Android devices by tunneling through residential proxy networks, according to findings from Synthient.\n\"Key actors involved in the\u2026",
     "title": "Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks"
   },
+  "https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd8LcAq2Eh4FGdeubIWyG99KZTiImVy-_8pLP_ooz55oOJQbiUnFXUS8yQ9Zg_XOj1eqw-qCII4_ZeoQqYlCou4ELHCWcqE1Fkkpr7y0CiCV0phTdYcTxGB-Q66Vjedk9f5svf8bB3eGyGVvI-iYmAZhGsDuJujVaAY9tsjsJ5xDjIJabN_4MagL4jnG63/s1600/sep.jpg",
+    "published": "2026-01-14T19:03:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers The Black Lotus Labs team at Lumen Technologies said it null-routed traffic to more than 550 command-and-control (C2) nodes associated with the AISURU/Kimwolf botnet since early October 2025.\nAISURU and its\u2026",
+    "title": "Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers"
+  },
   "https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVHFQIvHd3Xgz0zjrshHMJtilffEd0_azV_hpxK8GoTLQWDeGdaBZYKYitTQoFr5eqVFb3GFc4g0xz8wopdk3WBOsDKkP_7Nev4o91jQA7z1giTaO0aMVWRP4brxYXlyZ5qIxmyh7M3PkhIuL3yjQtXuMoAJm-HBgOgyV6-5ukzwQYT15woXwmFRxPoVXQ/s1600/payment.png",
@@ -2605,6 +2650,15 @@
     "source": "The Hacker News",
     "summary": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available \u2026",
     "title": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool"
+  },
+  "https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd1UzTU9iJxk97BH-xsazSYv5S_gP8HFp479Wqwm0Ymvk5m75SNtzqiQqEpXQAyhENUGfRtp8imo96TaRdXSfRrBpbnBtsWFOoYApGx_vghD9mn1aHaswGlIwBh-_loU9jS9WKGuWDI1PryeE_RHDCOAEIFRzO3Pob5LO_BqIZz-bWW0sGWlOVWQbIzZlL/s1600/ms.jpg",
+    "published": "2026-01-14T09:38:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Microsoft Fixes 114 Windows Flaws in January 2026 Patch, One Actively Exploited Microsoft on Tuesday rolled out its first security update for 2026, addressing 114 security flaws, including one vulnerability that it said has been actively exploited in the wild.\nOf the 114 flaws, e\u2026",
+    "title": "Microsoft Fixes 114 Windows Flaws in January 2026 Patch, One Actively Exploited"
   },
   "https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html": {
     "categories": [],
@@ -2668,6 +2722,15 @@
     "source": "The Hacker News",
     "summary": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the \u2026",
     "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands"
+  },
+  "https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5NXMxDA7kwnpve46qU_R-VOm0ixNMNXzSqO-JhkwA4DyYfCsqmqGABQ8KKee0ua43Va7twnJrrqp-6hztmRvDJCFv7o_kd7ozx9BqBeUvHPybqf8Ja2PcSNLFddsgRcWtI9mlvzsr2dooslCd7HaGMpkPrMZVbWBIXpYpHsodtRB7XG-c_YmI6DNAmZlX/s1600/reflectiz.jpg",
+    "published": "2026-01-14T11:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification Research analyzing 4,700 leading websites reveals that 64% of third-party applications now access sensitive data without business justification, up from 51% in 2024.&nbsp;\nGovernment sector ma\u2026",
+    "title": "New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification"
   },
   "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html": {
     "categories": [],
@@ -3029,6 +3092,18 @@
     "summary": "ChatGPT\u2019s new formatting blocks make its UI look more like a task tool OpenAI has quietly rolled out 'formatting blocks,' which tweak GPT's layout to match the UI of the task it is supposed to execute. [...]",
     "title": "ChatGPT\u2019s new formatting blocks make its UI look more like a task tool"
   },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-upcoming-cross-platform-feature-is-codenamed-agora/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-15T03:00:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "ChatGPT's upcoming cross-platform feature is codenamed \"Agora\" OpenAI is internally testing a new feature called \"Agora,\" and it could be related to some sort of cross-platform feature that works in real time or some other new product. [...]",
+    "title": "ChatGPT's upcoming cross-platform feature is codenamed \"Agora\""
+  },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/": {
     "categories": [
       "Artificial Intelligence",
@@ -3052,6 +3127,18 @@
     "summary": "Google deletes X post after getting caught using a \u2018stolen\u2019 AI recipe infographic Google is facing backlash on X after a viral post for its NotebookLM appeared to use a food blogger's work without credit. [...]",
     "title": "Google deletes X post after getting caught using a \u2018stolen\u2019 AI recipe infographic"
   },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/google-plans-to-make-chrome-for-android-an-agentic-browser-with-gemini/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-01-15T01:30:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google plans to make Chrome for Android an agentic browser with Gemini Google appears to be testing a new feature that integrates Gemini into Chrome for Android, allowing you to use agentic browser capabilities on your mobile device. [...]",
+    "title": "Google plans to make Chrome for Android an agentic browser with Gemini"
+  },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/google-search-is-now-using-ai-to-create-interactive-ui-to-answer-your-questions/": {
     "categories": [
       "Artificial Intelligence",
@@ -3073,6 +3160,18 @@
     "source": "BleepingComputer",
     "summary": "Google's Gemini 3 is living up to the hype and creating games in one shot Google's Gemini 3 is finally here, and we're impressed with the results, but it still does not adhere to my requests as well as Claude Code. [...]",
     "title": "Google's Gemini 3 is living up to the hype and creating games in one shot"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/googles-personal-intelligence-links-gmail-photos-and-search-to-gemini/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-15T00:00:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google's Personal Intelligence links Gmail, Photos and Search to Gemini Google is rolling out 'Personal Intelligence,' a new Gemini feature that pulls your data from Gmail, Photos, Google Search, and other products. [...]",
+    "title": "Google's Personal Intelligence links Gmail, Photos and Search to Gemini"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-google-gemini-3-pro-and-nano-banana-2-could-launch-soon/": {
     "categories": [
@@ -3211,6 +3310,18 @@
     "source": "BleepingComputer",
     "summary": "OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers OpenAI is reportedly mulling a new form of ads on ChatGPT called \"sponsored content,\" which could influence your buying decisions. [...]",
     "title": "OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-hidden-chatgpt-translate-tool-takes-on-google-translate/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-14T22:52:16+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI's hidden ChatGPT Translate tool takes on Google Translate OpenAI has quietly rolled out a new ChatGPT feature called ChatGPT Translate, and it looks very similar to Google Translate on the web. [...]",
+    "title": "OpenAI's hidden ChatGPT Translate tool takes on Google Translate"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/xai-teases-major-grok-upgrade-hints-at-grok-code-cli/": {
     "categories": [
@@ -3936,6 +4047,18 @@
     "summary": "Microsoft to secure Entra ID sign-ins from script injection attacks Starting in mid-to-late October 2026, Microsoft will enhance the security of the Entra ID authentication system against external script injection attacks. [...]",
     "title": "Microsoft to secure Entra ID sign-ins from script injection attacks"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-14T16:44:09+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft updates Windows DLL that triggered security alerts Microsoft has resolved a known issue that was causing security applications to incorrectly flag a core Windows component, the company said in a service alert posted this week. [...]",
+    "title": "Microsoft updates Windows DLL that triggered security alerts"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/": {
     "categories": [
       "Microsoft",
@@ -4154,6 +4277,18 @@
     "source": "BleepingComputer",
     "summary": "Google enables Pixel-to-iPhone file sharing via Quick Share, AirDrop Google has added interoperability support\u00a0between Android Quick Share and Apple AirDrop, to let users share files between Pixel devices and iPhones. [...]",
     "title": "Google enables Pixel-to-iPhone file sharing via Quick Share, AirDrop"
+  },
+  "https://www.bleepingcomputer.com/news/mobile/verizon-wireless-outage-puts-phones-in-sos-mode-without-cell-service/": {
+    "categories": [
+      "Mobile",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-14T18:27:25+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Verizon Wireless outage puts phones in SOS mode without cell service Verizon Wireless is suffering a massive outage in the US, with customers reporting their phones stuck in SOS mode with no cellular service. [...]",
+    "title": "Verizon Wireless outage puts phones in SOS mode without cell service"
   },
   "https://www.bleepingcomputer.com/news/security/2025s-top-phishing-trends-and-what-they-mean-for-your-security-strategy/": {
     "categories": [
@@ -4789,6 +4924,17 @@
     "summary": "Cloud file-sharing sites targeted for corporate data theft attacks A threat actor known as Zestix has\u00a0been offering to corporate data stolen from dozens of companies likely after breaching their ShareFile, Nextcloud, and OwnCloud instances. [...]",
     "title": "Cloud file-sharing sites targeted for corporate data theft attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-14T12:01:07+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners Cloud marketplace and distributor Pax8 has confirmed that it mistakenly sent an email to fewer than 40 UK-based partners containing a spreadsheet with internal business information, including MSP customer and \u2026",
+    "title": "Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners"
+  },
   "https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/": {
     "categories": [
       "Security"
@@ -4819,6 +4965,17 @@
     "source": "BleepingComputer",
     "summary": "Comcast to pay $1.5M fine for vendor breach affecting 270K customers Comcast will pay a $1.5 million fine to settle a Federal Communications Commission investigation into a February 2024 vendor data breach that exposed the personal information of nearly 275,000 customers. [...]",
     "title": "Comcast to pay $1.5M fine for vendor breach affecting 270K customers"
+  },
+  "https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-14T15:01:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "ConsentFix debrief: Insights from the new OAuth phishing attack ConsentFix is an OAuth phishing technique abusing browser-based authorization flows to hijack Microsoft accounts. Push Security shares new insights from continued tracking, community research, and evolving attacker t\u2026",
+    "title": "ConsentFix debrief: Insights from the new OAuth phishing attack"
   },
   "https://www.bleepingcomputer.com/news/security/continuous-purple-teaming-turning-red-blue-rivalry-into-real-defense/": {
     "categories": [
@@ -5268,6 +5425,17 @@
     "summary": "Police busts credit card fraud rings with 4.3 million victims International authorities have dismantled three massive credit card fraud and money laundering networks, linked to losses exceeding \u20ac300 million ($344 million) and affecting over 4.3 million cardholders across 193 coun\u2026",
     "title": "Police busts credit card fraud rings with 4.3 million victims"
   },
+  "https://www.bleepingcomputer.com/news/security/exploit-code-public-for-critical-fortisiem-command-injection-flaw/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-14T18:51:54+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Exploit code public for critical FortiSIEM command injection flaw Technical details and a public exploit have been published for a critical vulnerability affecting\u00a0Fortinet's Security Information and Event Management (SIEM) solution that could be leveraged by a remote, unauthenti\u2026",
+    "title": "Exploit code public for critical FortiSIEM command injection flaw"
+  },
   "https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/": {
     "categories": [
       "Security"
@@ -5518,6 +5686,18 @@
     "source": "BleepingComputer",
     "summary": "France arrests suspect tied to cyberattack on Interior Ministry French authorities arrested a 22-year-old suspect on Tuesday for a cyberattack that targeted France's Ministry of the Interior earlier this month. [...]",
     "title": "France arrests suspect tied to cyberattack on Interior Ministry"
+  },
+  "https://www.bleepingcomputer.com/news/security/france-fines-free-mobile-42-million-over-2024-data-breach-incident/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-01-14T19:50:49+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "France fines Free Mobile \u20ac42 million over 2024 data breach incident The French data protection authority (CNIL) has imposed cumulative fines of \u20ac42 million on Free Mobile and its parent company, Free, for inadequate protection of customer data against cyber threats. [...]",
+    "title": "France fines Free Mobile \u20ac42 million over 2024 data breach incident"
   },
   "https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/": {
     "categories": [
@@ -6525,6 +6705,18 @@
     "summary": "New Windows updates replace expiring Secure Boot certificates Microsoft has started rolling out new Secure Boot certificates that will automatically install on eligible Windows 11 24H2 and 25H2 systems. [...]",
     "title": "New Windows updates replace expiring Secure Boot certificates"
   },
+  "https://www.bleepingcomputer.com/news/security/microsoft-seizes-servers-disrupts-massive-redvds-cybercrime-platform/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-01-15T07:11:45+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft disrupts massive RedVDS cybercrime virtual desktop service Microsoft announced on Wednesday that it disrupted RedVDS, a massive cybercrime platform linked to at least $40 million in reported losses in the United States alone since March 2025. [...]",
+    "title": "Microsoft disrupts massive RedVDS cybercrime virtual desktop service"
+  },
   "https://www.bleepingcomputer.com/news/security/microsoft-sesameop-malware-abuses-openai-assistants-api-in-attacks/": {
     "categories": [
       "Security",
@@ -7403,6 +7595,18 @@
     "summary": "Real-estate finance services giant SitusAMC breach exposes client data SitusAMC, a company that provides back-end services for top banks and lenders, disclosed on Saturday a data breach it had discovered earlier this month that impacted customer data. [...]",
     "title": "Real-estate finance services giant SitusAMC breach exposes client data"
   },
+  "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-01-14T14:00:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Reprompt attack hijacked Microsoft Copilot sessions for data theft Researchers identified an attack method dubbed \"Reprompt\" that could allow attackers to infiltrate a user's Microsoft Copilot session and issue commands to exfiltrate sensitive data. [...]",
+    "title": "Reprompt attack hijacked Microsoft Copilot sessions for data theft"
+  },
   "https://www.bleepingcomputer.com/news/security/retail-giant-coupang-suffers-data-breach-impacting-337-million-people/": {
     "categories": [
       "Security"
@@ -7689,6 +7893,17 @@
     "source": "BleepingComputer",
     "summary": "SoundCloud confirms breach after member data stolen, VPN access disrupted Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in which threat actors stole a database exposing users' email\u2026",
     "title": "SoundCloud confirms breach after member data stolen, VPN access disrupted"
+  },
+  "https://www.bleepingcomputer.com/news/security/south-korean-giant-kyowon-confirms-data-theft-in-ransomware-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-14T21:49:50+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "South Korean giant Kyowon confirms data theft in ransomware attack The Kyowon Group (Kyowon), a South Korean conglomerate, disclosed that a cyberattack has disrupted its operations and customer information may have been exposed in the incident. [...]",
+    "title": "South Korean giant Kyowon confirms data theft in ransomware attack"
   },
   "https://www.bleepingcomputer.com/news/security/spain-arrests-34-suspects-linked-to-black-axe-cyber-crime/": {
     "categories": [
@@ -8727,6 +8942,15 @@
     "summary": "Phishers Exploit Office 365 Users Who Let Their Guard Down Microsoft said that Office 365 tenants with weak configurations and who don't have strict anti-spoofing protection enabled are especially vulnerable.",
     "title": "Phishers Exploit Office 365 Users Who Let Their Guard Down"
   },
+  "https://www.darkreading.com/cloud-security/voidlink-malware-advanced-threat-linux-systems": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt46dc371b35a44012/69677b76b17f285b03d25e9c/Cloud-Security_Aleksia_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-14T15:59:49+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "'VoidLink' Malware Poses Advanced Threat to Linux Systems Researchers discovered a modular, &quot;cloud-first&quot; framework that is feature-rich and designed to maintain stealthy, long-term access to Linux environments.",
+    "title": "'VoidLink' Malware Poses Advanced Threat to Linux Systems"
+  },
   "https://www.darkreading.com/cyber-risk/ai-agents-going-rogue": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c003bbc98535214/690d2d9cb7095674342285e7/rogue_AO_bot_Chris_Light_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -9289,6 +9513,15 @@
     "summary": "How Agentic AI Can Boost Cyber Defense Transurban head of cyber defense Muhammad Ali Paracha shares how his team is automating the triaging and scoring of security threats as part of the Black Hat Middle East conference.",
     "title": "How Agentic AI Can Boost Cyber Defense"
   },
+  "https://www.darkreading.com/cybersecurity-analytics/retail-services-industries-oceania": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt018b331cae1a6dc9/6967ed1d8658fdf65007a729/Australia_New_Zealand-Tsado-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-14T21:19:44+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Retail, Services Industries Under Fire in Oceania Last year in Australia, New Zealand, and the South Pacific, Main Street businesses like retail and construction suffered more cyberattacks than their critical sector counterparts.",
+    "title": "Retail, Services Industries Under Fire in Oceania"
+  },
   "https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8e5cfc50a562f286/69456796bbf6bc28b7111ebb/plants1800_Perry_van_Munster_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -9750,6 +9983,15 @@
     "summary": "GISEC GLOBAL 2026 \u2013 The Middle East &amp; Africa\u2019s Largest Cybersecurity Event",
     "title": "GISEC GLOBAL 2026 \u2013 The Middle East &amp; Africa\u2019s Largest Cybersecurity Event"
   },
+  "https://www.darkreading.com/events/rsac-2026-conference": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf2acea5fe4550663/6967de4d65f053216c30865e/RSAC_2026.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-23T11:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Secure Your Spot at RSAC 2026 Conference",
+    "title": "Secure Your Spot at RSAC 2026 Conference"
+  },
   "https://www.darkreading.com/ics-ot-security/ai-ot-too-incompatible-work-securely": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7923c579bab7c392/6932e6f3c23f653dc027c2b9/2X8EYCK.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -9884,6 +10126,15 @@
     "source": "darkreading",
     "summary": "Amazon Fends Off 1,800 Suspected DPRK IT Job Scammers The tech giant has been beset by a deluge of state-sponsored North Korean operatives, showcasing the sheer scale of the IT worker scam problem.",
     "title": "Amazon Fends Off 1,800 Suspected DPRK IT Job Scammers"
+  },
+  "https://www.darkreading.com/remote-workforce/crowdstrike-buy-seraphic-security-boost-browser-security": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8a8eddbbd5db1b8f/688784dc79d76ee8ab91e3e2/browser-security-Robert_Avgustin-shutterstock.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-13T23:59:37+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "CrowdStrike to Buy Seraphic Security in Bid to Boost Browser Security The browser protection and detection technology will be integrated into CrowdStrike's Falcon platform to protect endpoints, browser sessions, and cloud applications.",
+    "title": "CrowdStrike to Buy Seraphic Security in Bid to Boost Browser Security"
   },
   "https://www.darkreading.com/remote-workforce/deepfake-fraud-tools-lag-expectations": {
     "categories": [],
@@ -10064,6 +10315,15 @@
     "source": "darkreading",
     "summary": "'Matrix Push' C2 Tool Hijacks Browser Notifications Have you ever given two seconds of thought to a browser notification? No? That's what hackers bent on phishing are counting on.",
     "title": "'Matrix Push' C2 Tool Hijacks Browser Notifications"
+  },
+  "https://www.darkreading.com/threat-intelligence/microsoft-disrupts-cybercrime-service-redvds": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9aa697ef63d55a4e/6967f055f701a7ca39e96c0c/Judge_Gavel_Andrii_Yalanskyi_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-14T19:07:30+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Microsoft Disrupts Cybercrime Service RedVDS RedVDS, a cybercrime-as-a-service operation that has stolen millions from victims, lost two domains to a law enforcement operation supported by Microsoft.",
+    "title": "Microsoft Disrupts Cybercrime Service RedVDS"
   },
   "https://www.darkreading.com/threat-intelligence/money-mules-require-banks-to-switch-from-defense-to-offense": {
     "categories": [],
