@@ -2399,6 +2399,15 @@
     "summary": "Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails A new agentic browser attack targeting Perplexity's Comet browser that's capable of turning a seemingly innocuous email into a destructive action that wipes a user's entire Google Drive contents\u2026",
     "title": "Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails"
   },
+  "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFWLON6Sb5l1X4m1NB6waPUcKnXCUUYcBnqw9AwkTbX4m2LYQqvC7SrpCvMsYuzAvb6HZkJ_EyA1ow6sL-oIFCKdn1wZN6EXxYH-ZmnAcmQW7adxUTGEkkw1SSeMCJgdandr0AqC6JDYW6Mxx2FxyTSz6kpAMbRMF1E7uLR1jvFYBekOkv8S-560C8pI/s1600/anyrun-main.jpg",
+    "published": "2026-01-15T11:00:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "4 Outdated Habits Destroying Your SOC's MTTR in 2026 It\u2019s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber threats, outdated practices \u2026",
+    "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026"
+  },
   "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheWL4H_fZgt293fAWAIgIuiEKOwhrhBh7P6E26EPey9tV-t5-5uSIW-84Jfg6Uq3UOP8R3RqBC_lj-kBq_X2JnthYUqbpX8pX6zVTLtORbMk_M4OEJp2OHqEpHtVXJrW12DpkgtSrl5vcu-goQ2s9iAAbBMBc6oTWzTzUUvQYABY8bVsNXJ08lQhY60xw2/s1600/router.jpg",
@@ -2425,6 +2434,15 @@
     "source": "The Hacker News",
     "summary": "Anthropic Launches Claude AI for Healthcare with Secure Health Record Access Anthropic has become the latest Artificial intelligence (AI) company to announce a new suite of features that allows users of its Claude platform to better understand their health information.\nUnder an i\u2026",
     "title": "Anthropic Launches Claude AI for Healthcare with Secure Health Record Access"
+  },
+  "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtz1db4ZW0v9IOmiEDYea5iRhI0pJ5FDJ1MjpzJMDkqBQVUR49G7UA9mmPRPG_tCtFMNFz_8K7nCdBsW_-V85RH4tgLY4jKk5Z0JGAVbcApWgXVb4TwmW1G5kHzydowLYHm36xV6XjcKQK5K1384NfjskWh54_MGL2J_FNx5aFTRUBuV3wxbp_DHaiy6mo/s1600/wiz.jpg",
+    "published": "2026-01-15T19:31:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks A critical misconfiguration in Amazon Web Services (AWS) CodeBuild could have allowed complete takeover of the cloud service provider's own GitHub repositories, including its AWS JavaScript SDK,\u2026",
+    "title": "AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks"
   },
   "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html": {
     "categories": [],
@@ -2498,6 +2516,15 @@
     "summary": "Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release Cisco has released updates to address a medium-severity security flaw in Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC) with a public proof-of-concept (PoC) exploit.\nThe vulnera\u2026",
     "title": "Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release"
   },
+  "https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEhi1mo3JJ4SVSswb-QR3VpYd-cBKzSU_dKtLhngGvo0GRALzIlSbBqXAaMCfGGoqiuqjDFjaF61Eh5wh8oVzHyxgaBQyzDLLw9kFM3euSDNe87Ezsb_K87GuquNG-DrRb5pH9Zsmu1wjAmqzvkSdoG4NhaHKpYubjhscJyfBPx6wIATz8wsaon-I-vwE/s1600/cisco.jpg",
+    "published": "2026-01-16T05:38:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways Cisco on Thursday released security updates for a maximum-severity security flaw impacting Cisco AsyncOS Software for Cisco Secure Email Gateway and Cisco Secure Email and Web Manager, nearly a mont\u2026",
+    "title": "Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways"
+  },
   "https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiTPlT13VFHh6Gnrmg0ozwHRlYaVFKySt-BBjowr5Az7KwqG4PXVrH9n_1YTLZpuJHf02fu1TJBTeHKLnDJ3UTzhZR_8ldCYcHRoSoUaqhmj1vrBqDGn3StC_LYhVzLI5S-iFELOqLhnet3zlgB91h5KehCfvyoQ9IQc_MZt_bE-Y3SJ0fvVUAkLVqx6zw/s1600/coolify.jpg",
@@ -2533,6 +2560,15 @@
     "source": "The Hacker News",
     "summary": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow Node.js has released updates to fix what it described as a critical security issue impacting \"virtually every production Node.js app\" that, if successfully exploited, could trigger a denial-of-\u2026",
     "title": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow"
+  },
+  "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIrX01QDd37hdy-1O44aRlrR6Td_bOz5czKroO7QmjA75gR74sBpq0Ew6MSiV2eyQWeJIhzlk58MJ5XHuN5q50DGNLT81pBcLeKs1IUV9PM9_pcCpY_wCTpabTaMo4m40rd_UkRWfsTyyhyphenhyphenMKy-u2eVMrPxDsu1qsZGnZKwWbcKvLJAlnQQda-k0aiQDSU/s1600/wordpress-exploit.jpg",
+    "published": "2026-01-15T15:31:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.\nThe vulnerability, tracked as CVE-2026-23550 (CVSS s\u2026",
+    "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access"
   },
   "https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html": {
     "categories": [],
@@ -2660,6 +2696,15 @@
     "summary": "Microsoft Fixes 114 Windows Flaws in January 2026 Patch, One Actively Exploited Microsoft on Tuesday rolled out its first security update for 2026, addressing 114 security flaws, including one vulnerability that it said has been actively exploited in the wild.\nOf the 114 flaws, e\u2026",
     "title": "Microsoft Fixes 114 Windows Flaws in January 2026 Patch, One Actively Exploited"
   },
+  "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCVLDhpz3tBZUhh-88mVPvKY16J7ws-ofqjwN_YUNINRU2YeXG0zA5O39KqPKDWa2cN-QOht-WHJ6BmfwrPCR0DUMQFUJ2Gr9DjSjF0Kmk31Sc8nGh9ciUWfpbv-SJFkwgHeBVh3b4s6PuqLvjeqAbAJvve7PksGugF9p0ESp9jrEmNweKeXCQFC_SS7Tp/s1600/ms-fraud-servers.jpg",
+    "published": "2026-01-15T09:37:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud Microsoft on Wednesday announced that it has taken a \"coordinated legal action\" in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled mil\u2026",
+    "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud"
+  },
   "https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHZJ_x-tDf2JaX7jVZDlS1KTcw7PnwLR03qRgpIHRBtIvLNIybJd8Gw058LyQyjV73UUJy39rcTziPgH9B1cqkTeOMF5zn7GstRSXG-MV1kWEfbnsACIM7VDbodevFXrvnYQjZjQMmicjj16dM6nb1tUEhsoDSQ5UOFAGpaG3P0XCpR5s5nazAf9npmgge/s1600/email-phishing.jpg",
@@ -2668,6 +2713,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing Threat actors engaging in phishing attacks are exploiting routing scenarios and misconfigured spoof protections to impersonate organizations' domains and distribute emails that appear as if they have \u2026",
     "title": "Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing"
+  },
+  "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifF0ZjKCWkqtgjpXwfOT24GtsqzBWdfQLVwBqhmXBsDash4aV99f9fnE7zk1QI_98C_PbWtT-WGWf5ULG50ITJ8OljCyCEfbJIqxJx_ZZP6krcHK7UEv_QuOt0eugeUIQh8TO1kZArRZ4-rbSXa10SaAocQRnJJ-Sni2eXt8aq6SVoDYCYN2E9LTDVDv4/s1600/main.png",
+    "published": "2026-01-15T11:55:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Model Security Is the Wrong Frame \u2013 The Real Risk Is Workflow Security As AI copilots and assistants become embedded in daily work, security teams are still focused on protecting the models themselves. But recent incidents suggest the bigger risk lies elsewhere: in the workflows \u2026",
+    "title": "Model Security Is the Wrong Frame \u2013 The Real Risk Is Workflow Security"
   },
   "https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html": {
     "categories": [],
@@ -2750,6 +2804,15 @@
     "summary": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls Artificial intelligence (AI) company OpenAI on Wednesday announced the launch of ChatGPT Health, a dedicated space that allows users to have conversations with the chatbot about their health.\nTo that end\u2026",
     "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls"
   },
+  "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYIgBhmpBELPnR-WkdX1gKhf8lt6aLh_vFl7l4w8GVDOFcvbF8Vwrvt0vTwAqX5q51ybv3o8qPzMre3pF1PwDCnX0aYUmKBKHusgttSMK07Pbh20nSIq4hqwA_1dumI3Jhop44Dxh1uUkCzg-9CRT7b3BrWLGfgAyVP9o65XkuRkUASszfh1ljMyr-aiDP/s1600/paloalto.jpg",
+    "published": "2026-01-15T08:18:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit.\nThe vulner\u2026",
+    "title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login"
+  },
   "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6i85mU3PMQNKV9ygNXalAIYl19jrFu8mwAYx4Pa0hYDvtlr2MYpm0fHFVlsG8cVgCRkp3URTdzcxfx38d26boTVjF4vJ3J-85B0Bam3JZifhIg2dqczZXw0fht-lN4Erv8lyzhFedTIC0n-QMAtOGWsiYp_GdtVpu8qYJS2TQb3WMvTN9481pHruTvfPQ/s1600/uk.jpg",
@@ -2758,6 +2821,15 @@
     "source": "The Hacker News",
     "summary": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of new cyber attacks targeting its defense forces with malware known as PLUGGYAPE between October and December 2025.\nThe a\u2026",
     "title": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces"
+  },
+  "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUttEV3Kwm4PD4w5h618KgulBz1T4aO-lP65yy2YD10J410HuFtAORucYtZ7bG5AGTy1XS2whXAxNenoflKKIe57oZIaewKsBPYtDvc1RCCSPpd3W4nc7rnuSyU9pXiLc0uZbaxHbOsMXQ7dNsCCU4g2wDymsmkKfHmBL9fyMJKQ6L5twNNMe7_v8mycfi/s1600/data-leak.jpg",
+    "published": "2026-01-15T15:09:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) cha\u2026",
+    "title": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot"
   },
   "https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html": {
     "categories": [],
@@ -2848,6 +2920,15 @@
     "source": "The Hacker News",
     "summary": "The State of Trusted Open Source Chainguard, the trusted source for open source, has a unique view into how modern organizations actually consume open source software and where they run into risk and operational burdens. Across a growing customer base and an extensive catalog of \u2026",
     "title": "The State of Trusted Open Source"
+  },
+  "https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzvvHEqTEOReDITlWAubNSlpgKNjcExRCQaCh0X8XHhNVEE2Z7R4puzJjK_UZ14TUS-XkFH1d3_IGJm3vBbEo4LVB_onEDCCNF-19h0NKMQug88rD_Apz8SxCm62hPo4j3WVdmTvJWSlKGDiPT7A7Ae4G5aSq9mbC2t62vLoNORmK8w821nNMVOaNlbpMn/s1600/th.jpg",
+    "published": "2026-01-15T13:56:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.\nThis week\u2019s stories show how fast attackers change their tricks, how small mista\u2026",
+    "title": "ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories"
   },
   "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html": {
     "categories": [],
@@ -3067,6 +3148,18 @@
     "source": "BleepingComputer",
     "summary": "ChatGPT is losing market share as Google Gemini gains ground New data suggests that ChatGPT is losing its market share to Gemini on the web. It's unclear if Gemini is also gaining ground in the mobile space. [...]",
     "title": "ChatGPT is losing market share as Google Gemini gains ground"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-now-more-reliable-at-finding-and-remembering-your-past-chat/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-16T00:14:44+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "ChatGPT is now more reliable at finding and remembering your past chat OpenAI is rolling out a big upgrade for ChatGPT with support for advanced chat history search, but the feature is rolling out to Plus and Pro subscribers only. [...]",
+    "title": "ChatGPT is now more reliable at finding and remembering your past chat"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-tests-a-new-feature-to-find-jobs-improve-your-resume-and-more/": {
     "categories": [
@@ -3594,6 +3687,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft Copilot is rolling out GPT 5.2 as \"Smart Plus\" mode Microsoft is rolling out GPT 5.2 to Copilot on the web, Windows, and mobile as a free upgrade, and it'll coexist with the GPT 5.1 model. [...]",
     "title": "Microsoft Copilot is rolling out GPT 5.2 as \"Smart Plus\" mode"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-studio-extension-for-vs-code-now-publicly-available/": {
+    "categories": [
+      "Microsoft",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-01-15T19:08:13+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Copilot Studio extension for VS Code now publicly available Microsoft announced that\u00a0the Copilot Studio extension for the Visual Studio Code (VS Code) integrated development environment is now available to all users. [...]",
+    "title": "Microsoft Copilot Studio extension for VS Code now publicly available"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2025-patch-tuesday-fixes-3-zero-days-57-flaws/": {
     "categories": [
@@ -4277,6 +4382,18 @@
     "source": "BleepingComputer",
     "summary": "Google enables Pixel-to-iPhone file sharing via Quick Share, AirDrop Google has added interoperability support\u00a0between Android Quick Share and Apple AirDrop, to let users share files between Pixel devices and iPhones. [...]",
     "title": "Google enables Pixel-to-iPhone file sharing via Quick Share, AirDrop"
+  },
+  "https://www.bleepingcomputer.com/news/mobile/verizon-blames-nationwide-outage-on-a-software-issue/": {
+    "categories": [
+      "Mobile",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-15T20:13:54+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Verizon blames nationwide outage on a \"software issue\" Verizon has confirmed that yesterday's nationwide wireless outage was caused by a software issue, though the company has not shared additional details about what went wrong. [...]",
+    "title": "Verizon blames nationwide outage on a \"software issue\""
   },
   "https://www.bleepingcomputer.com/news/mobile/verizon-wireless-outage-puts-phones-in-sos-mode-without-cell-service/": {
     "categories": [
@@ -5129,6 +5246,17 @@
     "summary": "Critical React, Next.js flaw lets hackers execute code on servers A maximum severity vulnerability,\u00a0dubbed 'React2Shell',\u00a0in the React Server Components (RSC) 'Flight' protocol\u00a0allows remote code execution without authentication in React and Next.js applications. [...]",
     "title": "Critical React, Next.js flaw lets hackers execute code on servers"
   },
+  "https://www.bleepingcomputer.com/news/security/critical-whisperpair-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-15T16:13:54+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Critical WhisperPair flaw lets hackers track, eavesdrop via Bluetooth audio devices A critical vulnerability in Google's Fast Pair protocol can allow attackers to hijack Bluetooth audio accessories like wireless headphones and earbuds,\u00a0track users, and eavesdrop on their conversa\u2026",
+    "title": "Critical WhisperPair flaw lets hackers track, eavesdrop via Bluetooth audio devices"
+  },
   "https://www.bleepingcomputer.com/news/security/crowdstrike-catches-insider-feeding-information-to-hackers/": {
     "categories": [
       "Security"
@@ -5753,6 +5881,17 @@
     "summary": "French Football Federation discloses data breach after cyberattack The French Football Federation (FFF) disclosed a data breach on Friday after attackers used a compromised account to gain access to administrative management software used by football clubs. [...]",
     "title": "French Football Federation discloses data breach after cyberattack"
   },
+  "https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-15T09:59:30+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "FTC bans GM from selling drivers' location data for five years The FTC has finalized an order with General Motors, settling charges that it collected and\u00a0sold the location and driving data of millions of drivers without consent. [...]",
+    "title": "FTC bans GM from selling drivers' location data for five years"
+  },
   "https://www.bleepingcomputer.com/news/security/ftc-settlement-requires-illuminate-to-delete-unnecessary-student-data/": {
     "categories": [
       "Security",
@@ -5956,6 +6095,17 @@
     "summary": "Gootloader malware is back with new tricks after 7-month break The Gootloader malware loader operation has returned after a 7-month absence and is once again performing SEO poisoning to promote fake websites that distribute the malware. [...]",
     "title": "Gootloader malware is back with new tricks after 7-month break"
   },
+  "https://www.bleepingcomputer.com/news/security/gootloader-now-uses-1-000-part-zip-archives-for-stealthy-delivery/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-15T22:54:34+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Gootloader now uses 1,000-part ZIP archives for stealthy delivery The Gootloader malware, typically used for initial access, is now using a malformed ZIP archive designed to evade detection by concatenating up to 1,000 archives. [...]",
+    "title": "Gootloader now uses 1,000-part ZIP archives for stealthy delivery"
+  },
   "https://www.bleepingcomputer.com/news/security/grafana-warns-of-max-severity-admin-spoofing-vulnerability/": {
     "categories": [
       "Security"
@@ -5976,6 +6126,17 @@
     "source": "BleepingComputer",
     "summary": "GreyNoise launches free scanner to check if you're part of a botnet GreyNoise Labs has launched a free tool called GreyNoise IP Check that lets users check if their IP address has been observed in malicious scanning operations, like botnet and residential proxy\u00a0networks. [...]",
     "title": "GreyNoise launches free scanner to check if you're part of a botnet"
+  },
+  "https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-15T21:38:51+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Grubhub confirms hackers stole data in recent security breach Food delivery platform Grubhub has confirmed a recent data breach after hackers accessed its systems, with sources telling BleepingComputer the company is now facing extortion demands. [...]",
+    "title": "Grubhub confirms hackers stole data in recent security breach"
   },
   "https://www.bleepingcomputer.com/news/security/hacker-arrested-for-kmsauto-malware-campaign-with-28-million-downloads/": {
     "categories": [
@@ -6085,6 +6246,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks Hackers are exploiting a new, undocumented vulnerability in the implementation of the cryptographic algorithm present in\u00a0Gladinet's CentreStack and Triofox products for secure remote file access and sharing. [\u2026",
     "title": "Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-modular-ds-wordpress-plugin-flaw-for-admin-access/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-15T20:49:50+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit Modular DS WordPress plugin flaw for admin access Hackers are actively exploiting a maximum\u00a0severity flaw in the Modular DS WordPress plugin that allows them to bypass authentication remotely and access the vulnerable sites with\u00a0admin-level privileges. [...]",
+    "title": "Hackers exploit Modular DS WordPress plugin flaw for admin access"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/": {
     "categories": [
@@ -6213,6 +6385,17 @@
     "source": "BleepingComputer",
     "summary": "How strong password policies secure OT systems against cyber threats OT environments rely on aging systems, shared accounts, and remote access, making weak or reused passwords a major attack vector. Specops Software explains how stronger password policies and continuous checks fo\u2026",
     "title": "How strong password policies secure OT systems against cyber threats"
+  },
+  "https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-15T15:01:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "How to automate just-in-time access to applications with Tines Managing just-in-time access at scale is a growing IAM challenge as speed and auditability collide daily. Tines shows how automated workflows can grant, track, and revoke temporary app access without manual effort. [.\u2026",
+    "title": "How to automate just-in-time access to applications with Tines"
   },
   "https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/": {
     "categories": [
@@ -7317,6 +7500,17 @@
     "source": "BleepingComputer",
     "summary": "ownCloud urges users to enable MFA after credential theft reports File-sharing platform ownCloud warned users today to enable multi-factor authentication (MFA) to block attackers using compromised credentials from stealing their data. [...]",
     "title": "ownCloud urges users to enable MFA after credential theft reports"
+  },
+  "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-15T09:02:42+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Palo Alto Networks warns of DoS bug letting hackers disable firewalls Palo Alto Networks patched a high-severity vulnerability that could allow unauthenticated attackers to disable firewall protections in denial-of-service (DoS) attacks. [...]",
+    "title": "Palo Alto Networks warns of DoS bug letting hackers disable firewalls"
   },
   "https://www.bleepingcomputer.com/news/security/passwork-7-self-hosted-password-and-secrets-manager-for-enterprise-teams/": {
     "categories": [
@@ -8639,6 +8833,18 @@
     "summary": "Cloudflare hit by outage affecting global network services Cloudflare is investigating an outage affecting its global network services, with users encountering \"internal server error\" messages when attempting to access affected websites and online platforms. [...]",
     "title": "Cloudflare hit by outage affecting global network services"
   },
+  "https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/": {
+    "categories": [
+      "Technology",
+      "Google"
+    ],
+    "image": "",
+    "published": "2026-01-16T00:36:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google now lets you change your @gmail.com address, rolling out Google has confirmed that it's now possible to change your @gmail.com address. This means that if your current email is xyz@gmail.com, you can now change it to abc@gmail.com. [...]",
+    "title": "Google now lets you change your @gmail.com address, rolling out"
+  },
   "https://www.bleepingcomputer.com/news/technology/nvidia-fixes-gaming-issues-caused-by-october-windows-update/": {
     "categories": [
       "Technology",
@@ -9522,6 +9728,15 @@
     "summary": "Retail, Services Industries Under Fire in Oceania Last year in Australia, New Zealand, and the South Pacific, Main Street businesses like retail and construction suffered more cyberattacks than their critical sector counterparts.",
     "title": "Retail, Services Industries Under Fire in Oceania"
   },
+  "https://www.darkreading.com/cybersecurity-analytics/vulnerabilities-surge-messy-reporting-blurs-picture": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt34627fccbad2ec53/69666889a335089cd39479e3/vulnerability_trends-Lemos.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-15T15:19:31+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Vulnerabilities Surge, But Messy Reporting Blurs Picture MITRE loses its lead as the top reporter of vulnerabilities, while new organizations pump out CVEs and reported bugs in WordPress plug-ins surge.",
+    "title": "Vulnerabilities Surge, But Messy Reporting Blurs Picture"
+  },
   "https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8e5cfc50a562f286/69456796bbf6bc28b7111ebb/plants1800_Perry_van_Munster_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -10008,6 +10223,15 @@
     "summary": "Critical Claroty Authentication Bypass Flaw Opened OT to Attack CVE-2025-54603 gave attackers an opening to disrupt critical operational technology (OT) environments and critical infrastructure, plus steal data from them.",
     "title": "Critical Claroty Authentication Bypass Flaw Opened OT to Attack"
   },
+  "https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8181392fb86595df/6967fde2c0d7175dbe65a3b6/PLC-genkur-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-15T11:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Trio of Critical Bugs Spotted in Delta Industrial PLCs Experts disagree on whether the vulnerabilities in a programmable logic controller from Delta are a five-alarm fire or not much to worry over.",
+    "title": "Trio of Critical Bugs Spotted in Delta Industrial PLCs"
+  },
   "https://www.darkreading.com/ics-ot-security/critical-railway-braking-systems-tampering": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc068f4477738319d/691cd55ae16a280b60a7611e/Toy_train_crash-PRILL_Mediendesign-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -10100,6 +10324,15 @@
     "summary": "'Landfall' Malware Targeted Samsung Galaxy Users The tool let its operators secretly record conversations, track device locations, capture photos, collect contacts, and perform other surveillance on compromised devices.",
     "title": "'Landfall' Malware Targeted Samsung Galaxy Users"
   },
+  "https://www.darkreading.com/mobile-security/predator-spyware-sample-vendor-controlled-c2": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf3b3d1b0511463fa/696929a65206a2fe320d6c60/predator_Cinematic_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-15T21:26:18+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Predator Spyware Sample Indicates 'Vendor-Controlled' C2 Researchers detailed how Intellexa, Predator's owner, uses failed deployments and thwarted infections to strengthen its commercial spyware and generate more effective attacks.",
+    "title": "Predator Spyware Sample Indicates 'Vendor-Controlled' C2"
+  },
   "https://www.darkreading.com/remote-workforce/advisor360-gets-handle-on-shadow-ai-via-automation": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38b7ecf1b2d539aa/68361e403eff810ad0b49f45/automation-Aleksey_Funtap-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -10169,6 +10402,15 @@
     "source": "darkreading",
     "summary": "US Citizens Plead Guilty to Aiding North Korean IT Worker Campaigns Four individuals admitted to assisting foreign IT workers in gaining employment at US companies by providing false identities and remote access to employer-owned laptops.",
     "title": "US Citizens Plead Guilty to Aiding North Korean IT Worker Campaigns"
+  },
+  "https://www.darkreading.com/remote-workforce/winter-olympics-podium-cyberattackers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcf5c65d6b706f7e8/69693ba00070ec0dd0b2390c/olumpics_kovop_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-15T19:10:05+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Winter Olympics Could Share Podium With Cyberattackers The upcoming Winter Games in the Italian Alps are attracting both hacktivists looking to reach billions of people and state-sponsored cyber-spies targeting the attending glitterati.",
+    "title": "Winter Olympics Could Share Podium With Cyberattackers"
   },
   "https://www.darkreading.com/threat-intelligence/akira-raas-nutanix-vms-critical-orgs": {
     "categories": [],
