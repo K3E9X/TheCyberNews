@@ -2462,6 +2462,15 @@
     "summary": "Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches A cybercrime gang known as Black Cat has been attributed to a search engine optimization (SEO) poisoning campaign that employs fraudulent sites advertising popular software to trick users into dow\u2026",
     "title": "Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches"
   },
+  "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9UdFF7GIb9sKuDwjd_5b2PQvzSOUTH-7rbAWmB4O8ZeJsf_zqM3Es_xfsXQ23jfQQL8rT7FbClxATKW87Z04pIeW04H-FEX0JQkFLmTZCABSpKwvd26jSWc9-h3sKG_1RxN_DdZjNhgoa0QJv-wxVJJ2ngOqYQIK2i-EfELxa88IOGN71kqw2tow8A2ga/s1600/sitecore.jpg",
+    "published": "2026-01-16T07:18:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions A threat actor likely aligned with China has been observed targeting critical infrastructure sectors in North America since at least last year.\nCisco Talos, which is tracking the activity under the\u2026",
+    "title": "China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions"
+  },
   "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIuo2qB5l6db9QikPiuSfBft9oeKf1XAw3ncOyYjA2V34TZdm8KZKAARqUi9GffvgaVZGqlGFw9Ntj0t-sRzWuOL-OOngT2MeB1at04yfHwaT72o6QFRtnJkwczGdrv_F9snu9cBoNjn9hJ1XjbTdgNSJFIGXxzMbR34LELEqMXZ_s_jZS3oXSCnmS3GQY/s1600/telecom-hack.jpg",
@@ -2615,6 +2624,15 @@
     "summary": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing The U.S. Federal Bureau of Investigation (FBI) on Thursday released an advisory warning of North Korean state-sponsored threat actors leveraging malicious QR codes in spear-phishing campaigns targeting enti\u2026",
     "title": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing"
   },
+  "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7kvgFz8ELXceV5_LsBgcodkjSM6meRhVnuxiijpgc1_2XcMb9Gh660H5HEknLGskzkx9L81bbOM651BUVAzu2u6bf36gf5r2x3ndhltKVFZAforGzT-dQhny2-zEk3cih03DU1pfyRFiJLlNXuv_Ml-glQC1dGl95L1KpYHBXnMOfXZwfd4bWGaUH3uel/s1600/chrome.jpg",
+    "published": "2026-01-16T14:09:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts Cybersecurity researchers have discovered five new malicious Google Chrome web browser extensions that masquerade as human resources (HR) and enterprise resource planning (ERP) platforms like Wor\u2026",
+    "title": "Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts"
+  },
   "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimc7gjS2ZNi7kOnZXqH-FOYhQ5snGQ-zfhTA1NvxSNOo0dFaX62BEJSqr0qVmPJ9wY4jNffKZ8P5mciZC34btvRAJ4KH6dKXmcOOZpmFUZOU0cOtyJxNf-eImO9Gq8CIc3aVPlNo267-_RSUqTHyrjTkkfSbCnLb2lqjECHgqqo78Y-2Gib0Pxy8m3D-S9/s1600/fort.jpg",
@@ -2632,6 +2650,15 @@
     "source": "The Hacker News",
     "summary": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials A new wave of GoBruteforcer attacks has targeted databases of cryptocurrency and blockchain projects to co-opt them into a botnet that's capable of brute-forcing user passwords for services such \u2026",
     "title": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials"
+  },
+  "https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9KFkvTcZ_PkWZffX2HE8olvWbZAOrsco48R3JqZQsB4hUc2GGS7xh9a6suu7I_eIe4NU8M5sjecperqY7v7V4nSuAffVy024xnlN38Ig-LPae-RiwXXxMUnf8FvvNX9HVjsf1yHr4cZaDxww_pa53yqGlSNfQtnsA6NZGwELbUyE5pPKOp96QK-BQI3GB/s1600/code.jpg",
+    "published": "2026-01-16T17:59:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "GootLoader Malware Uses 500\u20131,000 Concatenated ZIP Archives to Evade Detection The JavaScript (aka JScript) malware loader called GootLoader has been observed using a malformed ZIP archive that's designed to sidestep detection efforts by concatenating anywhere from 500 to 1,000 a\u2026",
+    "title": "GootLoader Malware Uses 500\u20131,000 Concatenated ZIP Archives to Evade Detection"
   },
   "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html": {
     "categories": [],
@@ -2677,6 +2704,15 @@
     "source": "The Hacker News",
     "summary": "Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages Cybersecurity researchers have discovered a major web skimming campaign that has been active since January 2022, targeting several major payment networks like American Express, Diners Club, Discover\u2026",
     "title": "Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages"
+  },
+  "https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVK3A2yZNeTmDZQnzYo5bTA8R87lnRUIqYSSxOoyKUkAqFH97mjhNJ2LiAT64bsC9ExwqhQnDHhAfs5RJUIUbPGPp5E7h-L3efaT-216BWjYgGsZfZbe46N3BaIR7pxOusAcaJV7a9HHm6RyV3ZAvuz9ECIJPnBnrCuXimEH___3cbJkTefgy8dtfPx9mE/s1600/policy-malware.jpg",
+    "published": "2026-01-16T10:27:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing Security experts have disclosed details of a new campaign that has targeted U.S. government and policy entities using politically themed lures to deliver a backdoor known as LOTUSLITE.\nThe targe\u2026",
+    "title": "LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing"
   },
   "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html": {
     "categories": [],
@@ -3065,6 +3101,15 @@
     "summary": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging Cybersecurity researchers have disclosed details of a new campaign that uses WhatsApp as a distribution vector for a Windows banking trojan called Astaroth in attacks targeting Brazil.\nThe camp\u2026",
     "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging"
   },
+  "https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_20kAAwaCZD2Lh6-cSZ4bMJ5QJq16p3GRg-tw994MYxsXjW6EikJ7cJbFhb-I6H3hZQRN0blLVlY_zd1993WBJixaFKtO0eXeskqu6HKzE25lZWtfHQckAbh-doxDoBQkcuEazU3GkBSXWP-uNKXvjXdK9NSAGo_BEOPYD7vntOgaSAjVuRI0_lOSwRU/s1600/Incogni.jpg",
+    "published": "2026-01-16T10:42:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Your Digital Footprint Can Lead Right to Your Front Door You lock your doors at night. You avoid sketchy phone calls. You\u2019re careful about what you post on social media.\nBut what about the information about you that\u2019s already out there\u2014without your permission?\nYour name. Home add\u2026",
+    "title": "Your Digital Footprint Can Lead Right to Your Front Door"
+  },
   "https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/": {
     "categories": [
       "Apple",
@@ -3124,6 +3169,18 @@
     "source": "BleepingComputer",
     "summary": "ChatGPT finally rolls out Thinking time toggle on mobile OpenAI is rolling out an update to ChatGPT on mobile that finally allows you to select the Thinking time toggle, also called \"juice\" of the model. [...]",
     "title": "ChatGPT finally rolls out Thinking time toggle on mobile"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-subscription-rolls-out-worldwide-at-8-but-itll-show-you-ads/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-16T23:43:49+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "ChatGPT Go subscription rolls out worldwide at $8, but it'll show you ads OpenAI's $8 ChatGPT Go subscription, which gives you 10x more messages, is now available in the United States and other regions. [...]",
+    "title": "ChatGPT Go subscription rolls out worldwide at $8, but it'll show you ads"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-dissapeared-for-users/": {
     "categories": [
@@ -3391,6 +3448,18 @@
     "source": "BleepingComputer",
     "summary": "OpenAI says its latest GPT-5.1 Codex can code independently for hours OpenAI has started rolling out GPT 5.1-Codex-Max on Codex with a better performance on coding tasks. [...]",
     "title": "OpenAI says its latest GPT-5.1 Codex can code independently for hours"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-chatgpt-ads-wont-influence-answers/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-16T23:06:36+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI says its new ChatGPT ads won't influence answers OpenAI has confirmed ChatGPT is getting ads in the coming weeks, but it promises that ads won't influence answers generated by ChatGPT. [...]",
+    "title": "OpenAI says its new ChatGPT ads won't influence answers"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/": {
     "categories": [
@@ -4206,6 +4275,17 @@
     "summary": "Microsoft: Windows 11 24H2 bug crashes Explorer and Start Menu Microsoft has confirmed a critical Windows 11 24H2 bug that causes the File Explorer, the Start Menu, and other key system components to crash when provisioning systems with\u00a0cumulative updates released since July 2025\u2026",
     "title": "Microsoft: Windows 11 24H2 bug crashes Explorer and Start Menu"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-update-causes-outlook-freezes-for-pop-users/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-01-16T12:12:41+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Windows 11 update causes Outlook freezes for POP users Microsoft confirmed that the KB5074109 January Windows 11 security update causes the classic Outlook desktop client to freeze and hang for users with POP email accounts. [...]",
+    "title": "Microsoft: Windows 11 update causes Outlook freezes for POP users"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-bug-blocks-microsoft-365-desktop-app-installs/": {
     "categories": [
       "Microsoft"
@@ -4394,6 +4474,18 @@
     "source": "BleepingComputer",
     "summary": "Verizon blames nationwide outage on a \"software issue\" Verizon has confirmed that yesterday's nationwide wireless outage was caused by a software issue, though the company has not shared additional details about what went wrong. [...]",
     "title": "Verizon blames nationwide outage on a \"software issue\""
+  },
+  "https://www.bleepingcomputer.com/news/mobile/verizon-starts-issuing-20-credits-after-nationwide-outage/": {
+    "categories": [
+      "Mobile",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-16T16:19:47+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Verizon starts issuing $20 credits after nationwide outage Verizon has begun sending text messages with instructions on how to redeem a $20 account credit for last week's nationwide wireless outage. [...]",
+    "title": "Verizon starts issuing $20 credits after nationwide outage"
   },
   "https://www.bleepingcomputer.com/news/mobile/verizon-wireless-outage-puts-phones-in-sos-mode-without-cell-service/": {
     "categories": [
@@ -4712,6 +4804,18 @@
     "summary": "\u201cBitcoin Queen\u201d gets 11 years in prison for $7.3 billion Bitcoin scam A Chinese woman\u00a0known as the \"Bitcoin Queen\" was sentenced in London to 11 years and eight months in jail for laundering Bitcoin from a \u00a35.5 billion ($7.3 billion) cryptocurrency investment scheme. [...]",
     "title": "\u201cBitcoin Queen\u201d gets 11 years in prison for $7.3 billion Bitcoin scam"
   },
+  "https://www.bleepingcomputer.com/news/security/black-basta-boss-makes-it-onto-interpols-red-notice-list/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-01-16T19:00:20+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Black Basta boss makes it onto Interpol's 'Red Notice' list The identity of the\u00a0Black Basta ransomware gang leader has been confirmed by law enforcement in Ukraine and Germany, and the individual has been added to the wanted list of Europol and Interpol. [...]",
+    "title": "Black Basta boss makes it onto Interpol's 'Red Notice' list"
+  },
   "https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/": {
     "categories": [
       "Security"
@@ -4775,6 +4879,17 @@
     "source": "BleepingComputer",
     "summary": "China-linked hackers exploited Lanscope flaw as a zero-day in attacks China-linked cyber-espionage actors tracked as 'Bronze Butler' (Tick) exploited a Motex Lanscope Endpoint Manager vulnerability as a zero-day to deploy an updated version of their Gokcpdoor malware. [...]",
     "title": "China-linked hackers exploited Lanscope flaw as a zero-day in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-sitecore-zero-day-for-initial-access/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-16T17:10:15+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "China-linked hackers exploited Sitecore zero-day for initial access An advanced threat actor tracked as UAT-8837 and believed to be linked to China has been focusing on critical infrastructure systems in North America, gaining access by exploiting both known and zero-day vulnerab\u2026",
+    "title": "China-linked hackers exploited Sitecore zero-day for initial access"
   },
   "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/": {
     "categories": [
@@ -4953,6 +5068,17 @@
     "source": "BleepingComputer",
     "summary": "Cisco: Actively exploited firewall flaws now abused for DoS attacks Cisco warned this week that\u00a0two vulnerabilities, which have been exploited in zero-day attacks,\u00a0are now being abused to force ASA and FTD firewalls into\u00a0reboot loops. [...]",
     "title": "Cisco: Actively exploited firewall flaws now abused for DoS attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-16T09:20:58+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Cisco finally fixes AsyncOS zero-day exploited since November \u200bCisco finally patched a maximum-severity AsyncOS zero-day exploited in attacks targeting Secure Email Gateway (SEG) appliances since November 2025. [...]",
+    "title": "Cisco finally fixes AsyncOS zero-day exploited since November"
   },
   "https://www.bleepingcomputer.com/news/security/cisco-switches-hit-by-reboot-loops-due-to-dns-client-bug/": {
     "categories": [
@@ -6289,6 +6415,17 @@
     "summary": "Hackers exploited Citrix, Cisco ISE flaws in zero-day attacks An advanced threat actor exploited the critical vulnerabilities \"Citrix Bleed 2\" (CVE-2025-5777) in NetScaler ADC and Gateway, and\u00a0CVE-2025-20337 affecting\u00a0Cisco Identity Service Engine (ISE) as zero-days to deploy cus\u2026",
     "title": "Hackers exploited Citrix, Cisco ISE flaws in zero-day attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-fortinet-fortisiem-vulnerability-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-16T10:29:58+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers now exploiting critical Fortinet FortiSIEM flaw in attacks Attackers are now exploiting a critical Fortinet FortiSIEM vulnerability with publicly available proof-of-concept exploit code. [...]",
+    "title": "Hackers now exploiting critical Fortinet FortiSIEM flaw in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/": {
     "categories": [
       "Security",
@@ -6910,6 +7047,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks Microsoft security researchers have discovered a new backdoor malware that uses the OpenAI Assistants API as a covert command-and-control channel. [...]",
     "title": "Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-some-windows-pcs-fail-to-shut-down-after-january-update/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-01-16T08:35:38+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Some Windows PCs fail to shut down after January update Microsoft has confirmed a new issue that prevents Windows 11 23H2 devices with System Guard Secure Launch enabled from shutting down. [...]",
+    "title": "Microsoft: Some Windows PCs fail to shut down after January update"
   },
   "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-warn-of-suspicious-traffic-with-external-domains/": {
     "categories": [
@@ -8131,6 +8280,17 @@
     "source": "BleepingComputer",
     "summary": "Spanish energy giant Endesa discloses data breach affecting customers Spanish energy provider Endesa and its\u00a0Energ\u00eda XXI operator are notifying customers that hackers accessed the company's systems and accessed contract-related information, which includes personal details. [...]",
     "title": "Spanish energy giant Endesa discloses data breach affecting customers"
+  },
+  "https://www.bleepingcomputer.com/news/security/stealc-hackers-hacked-as-researchers-hijack-malware-control-panels/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-16T21:00:22+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "StealC hackers hacked as researchers hijack malware control panels A cross-site scripting (XSS) flaw in the web-based control panel used by operators of the StealC info-stealing malware allowed researchers to observe active sessions and gather intelligence on the attackers' hardw\u2026",
+    "title": "StealC hackers hacked as researchers hijack malware control panels"
   },
   "https://www.bleepingcomputer.com/news/security/synnovis-notifies-of-data-breach-after-2024-ransomware-attack/": {
     "categories": [
@@ -9787,6 +9947,15 @@
     "summary": "AI Security Agents Get Persona Makeovers New synthetic security staffers promise to bring artificial intelligence comfortably into the security operations center, but they will require governance to protect security.",
     "title": "AI Security Agents Get Persona Makeovers"
   },
+  "https://www.darkreading.com/cybersecurity-operations/ai-system-attack-reconstruction-weeks-hours": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltabf62208cb15269a/69696362b3bef68c50966540/AI-defense-for-IT-Smile_Studio_AP-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-16T14:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI System Reduces Attack Reconstruction Time From Weeks to Hours Pacific Northwest National Labs' expert cybersecurity system, ALOHA, can recreate attacks and test them against organizations' infrastructure to bolster defense.",
+    "title": "AI System Reduces Attack Reconstruction Time From Weeks to Hours"
+  },
   "https://www.darkreading.com/cybersecurity-operations/bug-bounty-programs-rise-as-key-strategic-security-solutions": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte167a3b3b53f76b7/690a4f0b0ef6e359c9434bcf/omdia-Elvia-finalle.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -9811,6 +9980,15 @@
     "source": "darkreading",
     "summary": "CISA Publishes Security Guidance for Using AI in OT Global cybersecurity agencies published guidance regarding AI deployments in operational technology, a backbone of critical infrastructure.",
     "title": "CISA Publishes Security Guidance for Using AI in OT"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/cisos-rise-to-prominence-security-leaders-join-the-executive-suite": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfc6e4e62c7e4dffb/696a5a2234206b341965b0ac/2XD0MYD.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-16T15:25:40+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "CISOs Rise to Prominence: Security Leaders Join the Executive Suite Security professionals are moving up the executive ranks as enterprises face rising regulatory and compliance standards.",
+    "title": "CISOs Rise to Prominence: Security Leaders Join the Executive Suite"
   },
   "https://www.darkreading.com/cybersecurity-operations/cisos-should-be-asking-these-quantum-questions-today": {
     "categories": [],
@@ -10746,6 +10924,15 @@
     "source": "darkreading",
     "summary": "5 Threats That Defined Security in 2025 2025 included a number of monumental threats, from the global attacks of Salt Typhoon to dangerous vulnerabilities like React2Shell.",
     "title": "5 Threats That Defined Security in 2025"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/fortinet-critical-fortisiem-flaw-exploited": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteb41f617ff40b846/696aa0ebffd73fdb969c975b/fortinet_RalfLiebhold_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-16T21:03:37+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "More Problems for Fortinet: Critical FortiSIEM Flaw Exploited CVE-2025-64155, a command injection vulnerability, was disclosed earlier this week and quickly came under attack from a variety of IP addresses.",
+    "title": "More Problems for Fortinet: Critical FortiSIEM Flaw Exploited"
   },
   "https://www.darkreading.com/vulnerabilities-threats/fortinet-woes-continue-another-waf-zero-day-flaw": {
     "categories": [],
