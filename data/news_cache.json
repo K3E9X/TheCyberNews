@@ -2453,6 +2453,15 @@
     "summary": "Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act Ilya Lichtenstein, who was sentenced to prison last year for money laundering charges in connection with his role in the massive hack of cryptocurrency exchange Bitfinex in 2016, said he has been rel\u2026",
     "title": "Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act"
   },
+  "https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3VY2I87McGcsRT2S52vO2sa1A9ZvLo_H6YYLk5sCypOvjoX1H4Ee9QkvAiFJIvy0qW0dvgi_db78HgDvWHJKW9Fkaf5sLOt-RA2sP8fooQrHtv0qFf6Cazo7YjXAKY7NXJdNotK4w8aiiuz1nzNzmGbiJ6l81rbrU5-Sa7oOlMiRl08-4_4p9XtsjB1Am/s1600/Ukrainian-hacker.jpg",
+    "published": "2026-01-17T16:26:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice Ukrainian and German law enforcement authorities have identified two Ukrainians suspected of working for the Russia-linked ransomware-as-a-service (RaaS) group Black Basta.\nIn addition, the group's alle\u2026",
+    "title": "Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice"
+  },
   "https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGPPKJS6BE2or-jGvE7W-v-Fsie9HZAZYKAqyBv1c97ZycU7mV1adA8edY8RwqcUAjM2Q1ut1l-Qcwjyv9X1BCh9u3TMR1l0tukZUi7rGkNNJgepwUtRkBcdxXOdFKk7C4D6GXv0CtSl3RiPSkmVwJtxZoWq8SuQIEWBqNorc3imhtz7-eg2akMQwRJNuu/s1600/notepad-malware.jpg",
@@ -2839,6 +2848,15 @@
     "source": "The Hacker News",
     "summary": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls Artificial intelligence (AI) company OpenAI on Wednesday announced the launch of ChatGPT Health, a dedicated space that allows users to have conversations with the chatbot about their health.\nTo that end\u2026",
     "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls"
+  },
+  "https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSamhve9k7iL2Jd0BpqUkreaa3K7itkI4XIHJVBxqZ6l07U24t76eNbuhKMnRtu7eJ66TmiqgVQbAATH-pHha8jEcBz2PePIWaQDrWPky4mT6KFKVxjxe0N-yTFVEjXa3263Nt2IO_jmvJOjld503G-i99zT-7xeNf-BiAYFtyVdzV8QOu6tMvRyQbvYtn/s1600/chatgpt.jpg",
+    "published": "2026-01-17T08:34:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans OpenAI on Friday said it would start showing ads in ChatGPT to logged-in adult U.S. users in both the free and ChatGPT Go tiers in the coming weeks, as the artificial intelligence (AI) company expanded a\u2026",
+    "title": "OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans"
   },
   "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html": {
     "categories": [],
@@ -3264,6 +3282,18 @@
     "source": "BleepingComputer",
     "summary": "Google begins showing ads in AI Mode (AI answers) Google has started rolling out ads in AI mode, which is the company's \"answer engine,\" not a search engine. [...]",
     "title": "Google begins showing ads in AI Mode (AI answers)"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Google"
+    ],
+    "image": "",
+    "published": "2026-01-18T02:05:01+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google Chrome now lets you turn off on-device AI model powering scam detection Google Chrome now lets you delete the local AI models that power the \"Enhanced Protection\" feature, which was upgraded with AI capabilities last year. [...]",
+    "title": "Google Chrome now lets you turn off on-device AI model powering scam detection"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/google-deletes-x-post-after-getting-caught-using-a-stolen-ai-recipe-infographic/": {
     "categories": [
@@ -5307,6 +5337,17 @@
     "summary": "Cox Enterprises discloses Oracle E-Business Suite data breach Cox Enterprises is notifying impacted individuals of a data breach that exposed their personal data to hackers who breached\u00a0the company network after exploiting a zero-day flaw in Oracle E-Business Suite. [...]",
     "title": "Cox Enterprises discloses Oracle E-Business Suite data breach"
   },
+  "https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-17T16:19:30+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Credential-stealing Chrome extensions target enterprise HR platforms Malicious Chrome extensions on the Chrome Web Store masquerading as productivity and security tools for enterprise HR and ERP platforms were discovered stealing authentication credentials or blocking management \u2026",
+    "title": "Credential-stealing Chrome extensions target enterprise HR platforms"
+  },
   "https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/": {
     "categories": [
       "Security"
@@ -6847,6 +6888,17 @@
     "source": "BleepingComputer",
     "summary": "Malicious extensions in Chrome Web store steal user credentials Two Chrome extensions in the Web Store named 'Phantom Shuttle' are posing as plugins for a\u00a0proxy service to hijack user traffic and steal sensitive data. [...]",
     "title": "Malicious extensions in Chrome Web store steal user credentials"
+  },
+  "https://www.bleepingcomputer.com/news/security/malicious-ghostposter-browser-extensions-found-with-840-000-installs/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-17T15:23:34+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Malicious GhostPoster browser extensions found with 840,000 installs Another set of 17 malicious extensions linked to the GhostPoster campaign has\u00a0been discovered in Chrome, Firefox, and Edge stores, where they accumulated a total of\u00a0840,000 installations. [...]",
+    "title": "Malicious GhostPoster browser extensions found with 840,000 installs"
   },
   "https://www.bleepingcomputer.com/news/security/malicious-llms-empower-inexperienced-hackers-with-advanced-tools/": {
     "categories": [
