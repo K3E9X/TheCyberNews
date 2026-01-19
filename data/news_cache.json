@@ -2930,6 +2930,15 @@
     "summary": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish energy and nuclear research agency, as \u2026",
     "title": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations"
   },
+  "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWgXm3VbZRhqFOmPi88AiXeiRLKHkASKs6cVSYmMLmlZiGyP3Xqdd8X1J5qkppk2zMYcKK5-rkza0xId4pky69xHymWs7aX3DXRaMGmDZm0WgtfPRjw3OyD4G2VfuB_4WveR3GQ3b0das7-37IWLkZbEQDG_jiheSCynC23sxLFLhW4Lnxhlfa_X2EAqzd/s1600/uno.jpg",
+    "published": "2026-01-19T06:53:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC information stealer, allowing them to gather cruc\u2026",
+    "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations"
+  },
   "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxZu-BM7xxcFqhj3Vi07lWWCcD8kJgOH3JTQ4oV6Q3Ngd6GmylXsA52gk2aqSCIfEEHxsmev5EbQPxMr4fWFMLFrvwj1U8VKilr46bj6oN01nCbN08tV9bkft9WpFgSZHVXd_-jrbSTTvlpKrPpvqazA_Cwoh8XUjLKK0SC-r1Plq-2KCpdlDgTHBg1e4H/s1600/SERVICENOW-AI.jpg",
@@ -3295,6 +3304,18 @@
     "summary": "Google Chrome now lets you turn off on-device AI model powering scam detection Google Chrome now lets you delete the local AI models that power the \"Enhanced Protection\" feature, which was upgraded with AI capabilities last year. [...]",
     "title": "Google Chrome now lets you turn off on-device AI model powering scam detection"
   },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-tests-gemini-powered-ai-skills/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-18T03:00:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google Chrome tests Gemini-powered AI \"Skills\" Google is testing \"Skills\" for Gemini in Chrome, which will allow AI in Chrome to perform tasks automatically, and it could challenge Perplexity Comet or Edge's Copilot mode. [...]",
+    "title": "Google Chrome tests Gemini-powered AI \"Skills\""
+  },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/google-deletes-x-post-after-getting-caught-using-a-stolen-ai-recipe-infographic/": {
     "categories": [
       "Artificial Intelligence",
@@ -3375,6 +3396,18 @@
     "source": "BleepingComputer",
     "summary": "Leak confirms OpenAI is preparing ads on ChatGPT for public roll out OpenAI is now internally testing 'ads' inside ChatGPT that could redefine the web economy. [...]",
     "title": "Leak confirms OpenAI is preparing ads on ChatGPT for public roll out"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-19T00:29:05+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "New OpenAI leak hints at upcoming ChatGPT features OpenAI is internally testing a new update for ChatGPT, at least on the web. It'll begin rolling out in the coming weeks. [...]",
+    "title": "New OpenAI leak hints at upcoming ChatGPT features"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/": {
     "categories": [
@@ -4071,6 +4104,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft releases KB5068781 \u2014 The first Windows 10 extended security update Microsoft has released the KB5068781 update, the first Windows 10 extended security update since the operating system reached end of support last month. [...]",
     "title": "Microsoft releases KB5068781 \u2014 The first Windows 10 extended security update"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-oob-windows-updates-to-fix-shutdown-cloud-pc-bugs/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-01-18T18:16:27+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft releases OOB Windows updates to fix shutdown, Cloud PC bugs Microsoft has released multiple emergency, out-of-band updates for Windows 10, Windows 11, and Windows Server to fix two issues caused by the January Patch Tuesday updates. [...]",
+    "title": "Microsoft releases OOB Windows updates to fix shutdown, Cloud PC bugs"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/": {
     "categories": [
@@ -4931,6 +4975,17 @@
     "source": "BleepingComputer",
     "summary": "Chinese state hackers use rootkit to hide ToneShell malware activity A new sample of the ToneShell backdoor, typically seen in Chinese cyberespionage campaigns, has been delivered through a kernel-mode loader in attacks against government organizations. [...]",
     "title": "Chinese state hackers use rootkit to hide ToneShell malware activity"
+  },
+  "https://www.bleepingcomputer.com/news/security/ciro-data-breach-last-year-exposed-info-on-750-000-canadian-investors/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-18T15:17:45+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CIRO confirms data breach exposed info on 750,000 Canadian investors The Canadian Investment Regulatory Organization (CIRO) confirmed that the data breach it suffered last year impacts about 750,000 Canadian investors. [...]",
+    "title": "CIRO confirms data breach exposed info on 750,000 Canadian investors"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-flags-asus-live-update-cve-but-the-attack-is-years-old/": {
     "categories": [
