@@ -2552,6 +2552,15 @@
     "summary": "Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances Cybersecurity researchers have disclosed details of multiple critical-severity security flaws affecting Coolify, an open-source, self-hosting platform, that could result in authentication\u2026",
     "title": "Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances"
   },
+  "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHk6v6YRLFG3a9vVJQ5OLdPuN9cBdDklQzJHf91XqJUjDiKB8IT7VEmxB7VyKcSXbahTKXr-seTEvP3hdRWT2ws4xUteRY4tfouGxjDrH22aIxauonv9sb7Gw6TgCRh4GfoMCZLnp6gL79_feODNKp7LHF8nkte3e6mvt4d3UERPwMxUvHgnF1e6uB2BSf/s1600/edges.jpg",
+    "published": "2026-01-19T09:09:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web \u2026",
+    "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures"
+  },
   "https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzO1cc-SgAdpaPJsJZj5THeCL4mn7tPUZbghNoDdS-5-NM8bsS9s-Rrp3VwPIm0bEP0qP4kasNmPfuo4Thkd1gWc-8tjPHwjb1lfacgHdfFvtPz2RXzqD-Ny9LecUi5kU4NHXxYkjzuAKSvToFOfBQjSwHcA43UzcfY__3PwwgO8muoNhYJ7Qr6qrOSP_U/s1600/adonis-security.jpg",
@@ -2660,6 +2669,15 @@
     "summary": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials A new wave of GoBruteforcer attacks has targeted databases of cryptocurrency and blockchain projects to co-opt them into a botnet that's capable of brute-forcing user passwords for services such \u2026",
     "title": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials"
   },
+  "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRoKH8kODtvGyUQmuWC8vWW2D9wJIlBhYnl2hlvLUojFSV7sVmZJ3nqnxDHHMhIqzIpXmcFy_x6GOxTYsrvTa9lJw4tE0vPvx8OPrRV7bmpBp_z7babFHy88b09t9fVw_Xw326BOFDFZ54PwPeihsITRugqHdOTqQjvTqvjmufoPqD5RmtLWy8WUNsHuOn/s1600/gem.jpg",
+    "published": "2026-01-19T17:21:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google \u2026",
+    "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites"
+  },
   "https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9KFkvTcZ_PkWZffX2HE8olvWbZAOrsco48R3JqZQsB4hUc2GGS7xh9a6suu7I_eIe4NU8M5sjecperqY7v7V4nSuAffVy024xnlN38Ig-LPae-RiwXXxMUnf8FvvNX9HVjsf1yHr4cZaDxww_pa53yqGlSNfQtnsA6NZGwELbUyE5pPKOp96QK-BQI3GB/s1600/code.jpg",
@@ -2677,6 +2695,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware Security experts have disclosed details of an active malware campaign that's exploiting a DLL side-loading vulnerability in a legitimate binary associated with the open-source c-ares library to bypass s\u2026",
     "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware"
+  },
+  "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-NFsj68xaf2p3zjA44oQOJv4NBoDt21KPCna8vnSvswE0hTcKyO7_ExzxpSX_PadfPFzlnA2bQ2gNpsMDNKqwIT_Rlj5GgtssnvnSfnbHCgJl4hH7u4XNRhfm7Yqd7wTnZ-8pU_THZ6wt7sFCQGxzXwFlczbU2DH5fQ7BakcnJ15uc7_lMefQlkrEpOw/s1600/devops.jpg",
+    "published": "2026-01-19T11:55:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses Just a few years ago, the cloud was touted as the \u201cmagic pill\u201d for any cyber threat or performance issue. Many were lured by the \u201calways-on\u201d dream, trading granular control for the convenience of manag\u2026",
+    "title": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses"
   },
   "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html": {
     "categories": [],
@@ -2830,6 +2857,15 @@
     "source": "The Hacker News",
     "summary": "New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification Research analyzing 4,700 leading websites reveals that 64% of third-party applications now access sensitive data without business justification, up from 51% in 2024.&nbsp;\nGovernment sector ma\u2026",
     "title": "New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification"
+  },
+  "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjvBKIwExgNlDEHvCub_5W4y4uhPhsKYtGX8oPC_DrwzV5Wl5i_QPN2oEgBoSHBAAbsurdEryR3O56kclGi5uN38Y50ftQUAPzj1Y-r0bAS3rQ_lqRm88M4umTl1e4bAiCAGArNy2v70l31w5IArnzj8rUqxCAL2Xd3C8j2POKMP8tr6iAhsynSMNPAZH6/s1600/stack.jpg",
+    "published": "2026-01-19T11:31:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1\u20135 CPUs A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors.\nThe security flaw, codenamed Stac\u2026",
+    "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1\u20135 CPUs"
   },
   "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html": {
     "categories": [],
@@ -3092,6 +3128,15 @@
     "summary": "\u26a1 Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More This week made one thing clear: small oversights can spiral fast. Tools meant to save time and reduce friction turned into easy entry points once basic safeguards were ignored. Attackers didn\u2019t need\u2026",
     "title": "\u26a1 Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More"
   },
+  "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfn1SBAkKZzvUvFxUuVea_4KYXozKlXG-6dDyXBZDwvc_b3-rDxdmhyphenhyphen1BVrjoSsCReCbC28V3ta7Wo00qmg6zk3cuiezDIp3g8Noqbx4sEbmDlCN7aF6LCFZWLn5a0RS5iaKfd4pyU2M7MiIF63xpRv9XbPL1dP08O2L0UyGKCf22cFB6IsH39VQTIhQ7E/s1600/recap.jpg",
+    "published": "2026-01-19T13:17:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressure from constant change. New AI tools, conne\u2026",
+    "title": "\u26a1 Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More"
+  },
   "https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpEUDAXLw6oaBwuDDWjb5LC1ARsZq2fg3GJ-qKhdAf-FchvPbjbdME9JLzX1Z2R8OKWYbYAg7BEVYf0LumhvXR0EFs2t8Okw9sXB4-aw-7orrIS93AuWlPnFGV5wfzCux97MCn8N2o7VXbeo5O5ph5m4hJHpunYmbw7Lvv16SnIlos6ZVjtboqT12lIqkk/s1600/recaps.jpg",
@@ -3196,6 +3241,17 @@
     "source": "BleepingComputer",
     "summary": "ChatGPT finally rolls out Thinking time toggle on mobile OpenAI is rolling out an update to ChatGPT on mobile that finally allows you to select the Thinking time toggle, also called \"juice\" of the model. [...]",
     "title": "ChatGPT finally rolls out Thinking time toggle on mobile"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-now-unlocks-unlimited-access-to-gpt-52-instant-for-8/": {
+    "categories": [
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-01-20T01:24:25+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "ChatGPT Go now unlocks unlimited access to GPT-5.2 Instant for $8 ChatGPT Go is finally worth your money, as OpenAI has almost doubled the usage limits and enabled ultimate access to GPT 5.2 Instant. [...]",
+    "title": "ChatGPT Go now unlocks unlimited access to GPT-5.2 Instant for $8"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-subscription-rolls-out-worldwide-at-8-but-itll-show-you-ads/": {
     "categories": [
@@ -3421,6 +3477,18 @@
     "summary": "OpenAI denies rolling out ads on ChatGPT paid plans ChatGPT is allegedly showing ads to those who pay $20 for the Plus subscription, but OpenAI says this is an app recommendation feature, not an ad. [...]",
     "title": "OpenAI denies rolling out ads on ChatGPT paid plans"
   },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-19T01:47:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI hostname hints at a new ChatGPT feature codenamed \"Sonata\" OpenAI is reportedly testing a new feature or product codenamed \"Sonata,\" and it could be related to music or audio-related experiences on ChatGPT. [...]",
+    "title": "OpenAI hostname hints at a new ChatGPT feature codenamed \"Sonata\""
+  },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-going-meta-route-as-it-considers-memory-based-ads-on-chatgpt/": {
     "categories": [
       "Artificial Intelligence",
@@ -3570,6 +3638,18 @@
     "source": "BleepingComputer",
     "summary": "xAI's Grok 4.1 rolls out with improved quality and speed for free Elon Musk-owned xAI has started rolling out Grok 4.1, which is an upgrade to the existing Grok 4 model, and it delivers some incremental improvements. [...]",
     "title": "xAI's Grok 4.1 rolls out with improved quality and speed for free"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/you-can-get-chatgpts-20-plus-subscription-for-free-for-a-limited-time/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-20T01:07:57+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "You can get ChatGPT's $20 Plus subscription for free for a limited time OpenAI is offering ChatGPT Plus, which costs $20 in the United States, for free, but the offer is valid for some accounts only, and it's a limited-time deal. [...]",
+    "title": "You can get ChatGPT's $20 Plus subscription for free for a limited time"
   },
   "https://www.bleepingcomputer.com/news/cryptocurrency/hacker-steals-over-120-million-from-balancer-defi-crypto-protocol/": {
     "categories": [
@@ -5818,6 +5898,17 @@
     "summary": "Facebook login thieves now using browser-in-browser trick Hackers over the past six months have relied increasingly more on the browser-in-the-browser (BitB) method to trick users into providing Facebook account credentials. [...]",
     "title": "Facebook login thieves now using browser-in-browser trick"
   },
+  "https://www.bleepingcomputer.com/news/security/fake-ad-blocker-extension-crashes-the-browser-for-clickfix-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-19T22:49:46+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Fake ad blocker extension crashes the browser for ClickFix attacks A malvertising campaign is using a fake ad-blocking Chrome and Edge extension named\u00a0NexShield\u00a0that intentionally crashes the browser in preparation for ClickFix attacks. [...]",
+    "title": "Fake ad blocker extension crashes the browser for ClickFix attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/fake-calendly-invites-spoof-top-brands-to-hijack-ad-manager-accounts/": {
     "categories": [
       "Security"
@@ -6360,6 +6451,17 @@
     "summary": "Grubhub confirms hackers stole data in recent security breach Food delivery platform Grubhub has confirmed a recent data breach after hackers accessed its systems, with sources telling BleepingComputer the company is now facing extortion demands. [...]",
     "title": "Grubhub confirms hackers stole data in recent security breach"
   },
+  "https://www.bleepingcomputer.com/news/security/hacker-admits-to-leaking-stolen-supreme-court-data-on-instagram/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-19T16:04:14+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hacker admits to leaking stolen Supreme Court data on Instagram A Tennessee man has pleaded guilty to hacking the U.S. Supreme Court's electronic filing system and breaching accounts at the AmeriCorps U.S. federal agency and the Department of Veterans Affairs. [...]",
+    "title": "Hacker admits to leaking stolen Supreme Court data on Instagram"
+  },
   "https://www.bleepingcomputer.com/news/security/hacker-arrested-for-kmsauto-malware-campaign-with-28-million-downloads/": {
     "categories": [
       "Security"
@@ -6715,6 +6817,17 @@
     "summary": "In 2026, Hackers Want AI: Threat Intel on Vibe Hacking & HackGPT Cybercriminals are increasingly using AI to lower the barrier to entry for fraud and hacking, shifting from skill-based to AI-assisted attacks known as \"vibe hacking.\" Flare examines how underground forums promote A\u2026",
     "title": "In 2026, Hackers Want AI: Threat Intel on Vibe Hacking & HackGPT"
   },
+  "https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-19T13:33:45+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Ingram Micro says ransomware attack affected 42,000 people \u200bInformation technology giant Ingram Micro has revealed that a ransomware attack on its systems in July 2025 led to a data breach affecting over 42,000 individuals. [...]",
+    "title": "Ingram Micro says ransomware attack affected 42,000 people"
+  },
   "https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/": {
     "categories": [
       "Security"
@@ -6802,6 +6915,17 @@
     "source": "BleepingComputer",
     "summary": "Japanese beer giant Asahi says data breach hit 1.5 million people Asahi Group Holdings, Japan's largest beer producer, has finished the investigation into the\u00a0September cyberattack and found that the incident has impacted up to\u00a01.9\u00a0million individuals. [...]",
     "title": "Japanese beer giant Asahi says data breach hit 1.5 million people"
+  },
+  "https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-19T14:38:32+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Jordanian pleads guilty to selling access to 50 corporate networks A Jordanian man has pleaded guilty to operating as an \"access broker\" who sold access to the computer networks of at least 50 companies. [...]",
+    "title": "Jordanian pleads guilty to selling access to 50 corporate networks"
   },
   "https://www.bleepingcomputer.com/news/security/kali-linux-20254-released-with-3-new-tools-desktop-updates/": {
     "categories": [
@@ -7422,6 +7546,17 @@
     "source": "BleepingComputer",
     "summary": "New password spraying attacks target Cisco, PAN VPN gateways An automated campaign is targeting multiple VPN platforms, with credential-based attacks being observed on\u00a0Palo Alto Networks GlobalProtect and Cisco SSL VPN. [...]",
     "title": "New password spraying attacks target Cisco, PAN VPN gateways"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-pdfsider-windows-malware-deployed-on-fortune-100-firms-network/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-19T21:00:34+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New PDFSider Windows malware deployed on Fortune 100 firm's network Ransomware attackers targeting a Fortune 100 company in the finance sector used a new malware strain, dubbed PDFSider, to deliver malicious payloads on Windows systems. [...]",
+    "title": "New PDFSider Windows malware deployed on Fortune 100 firm's network"
   },
   "https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/": {
     "categories": [
@@ -8658,6 +8793,17 @@
     "source": "BleepingComputer",
     "summary": "UK fines LastPass over 2022 data breach impacting 1.6 million users The UK Information Commissioner's Office (ICO) fined the LastPass password management firm \u00a31.2 million for failing to implement security measures that allowed an attacker to steal personal information and encryp\u2026",
     "title": "UK fines LastPass over 2022 data breach impacting 1.6 million users"
+  },
+  "https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-19T17:20:39+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "UK govt. warns about ongoing Russian hacktivist group attacks The U.K. government is warning of continued malicious activity from Russian-aligned hacktivist groups targeting critical infrastructure and local government organizations in the country in disruptive denial-of-service \u2026",
+    "title": "UK govt. warns about ongoing Russian hacktivist group attacks"
   },
   "https://www.bleepingcomputer.com/news/security/ukraines-army-targeted-in-new-charity-themed-malware-campaign/": {
     "categories": [
@@ -10644,6 +10790,15 @@
     "source": "darkreading",
     "summary": "Amazon Fends Off 1,800 Suspected DPRK IT Job Scammers The tech giant has been beset by a deluge of state-sponsored North Korean operatives, showcasing the sheer scale of the IT worker scam problem.",
     "title": "Amazon Fends Off 1,800 Suspected DPRK IT Job Scammers"
+  },
+  "https://www.darkreading.com/remote-workforce/chatgpt-health-security-safety-concerns": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9fbaafe5fd677944/69692c03e014134a5bae1ec7/robot_doctor_Panther_Media_Global_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-19T17:57:52+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "ChatGPT Health Raises Big Security, Safety Concerns ChatGPT Health promises robust data protection, but elements of the rollout raise big questions regarding user security and safety.",
+    "title": "ChatGPT Health Raises Big Security, Safety Concerns"
   },
   "https://www.darkreading.com/remote-workforce/crowdstrike-buy-seraphic-security-boost-browser-security": {
     "categories": [],
