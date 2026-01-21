@@ -2471,6 +2471,15 @@
     "summary": "Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches A cybercrime gang known as Black Cat has been attributed to a search engine optimization (SEO) poisoning campaign that employs fraudulent sites advertising popular software to trick users into dow\u2026",
     "title": "Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches"
   },
+  "https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidgbhveMnZAVV1RKf0coJN00ixwRd8lYIUz58lpP4qC-LhuOGvgZ7IG87XxkhQaR6bnvCY_Sl5yQ2yQyAr_V9oVZ9eCHWpOszGUOLyKWkygMpSyxAs0H7Zlu56FhRnBNeLW34FA_-1G3pcpoj81hDxxHr1MBJl7MD0UBDau3Nl43IVX-r2RsWDBksVyflV/s1600/binary-parser.jpg",
+    "published": "2026-01-21T06:04:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "CERT/CC Warns binary-parser Bug Allows Node.js Privilege-Level Code Execution A security vulnerability has been disclosed in the popular binary-parser npm library that, if successfully exploited, could result in the execution of arbitrary JavaScript.\nThe vulnerability, tracked as\u2026",
+    "title": "CERT/CC Warns binary-parser Bug Allows Node.js Privilege-Level Code Execution"
+  },
   "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9UdFF7GIb9sKuDwjd_5b2PQvzSOUTH-7rbAWmB4O8ZeJsf_zqM3Es_xfsXQ23jfQQL8rT7FbClxATKW87Z04pIeW04H-FEX0JQkFLmTZCABSpKwvd26jSWc9-h3sKG_1RxN_DdZjNhgoa0QJv-wxVJJ2ngOqYQIK2i-EfELxa88IOGN71kqw2tow8A2ga/s1600/sitecore.jpg",
@@ -2542,6 +2551,15 @@
     "source": "The Hacker News",
     "summary": "Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways Cisco on Thursday released security updates for a maximum-severity security flaw impacting Cisco AsyncOS Software for Cisco Secure Email Gateway and Cisco Secure Email and Web Manager, nearly a mont\u2026",
     "title": "Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways"
+  },
+  "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFMNWyLouRnOIXsad4n8lgA97dY7GEYeVjCrVWqYokwEg-es4kDCyjPCwEKZ_q0LCOCjcufDbeBu-O_aJIuKYu6IY2g9ZMoMMxhkYgCWlsjeIA0ByqwBVJX-HaF_G3oNlBuUWsTk5b4K35K60lUrjrWQ-dhMtEymdsWX84cuPUERd5balmQJMZQqsfKhnu/s1600/acme.jpg",
+    "published": "2026-01-20T11:12:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it possible to bypass security controls and access origin serv\u2026",
+    "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers"
   },
   "https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html": {
     "categories": [],
@@ -2624,6 +2642,15 @@
     "summary": "Europol Arrests 34 Black Axe Members in Spain Over \u20ac5.9M Fraud and Organized Crime Europol on Friday announced the arrest of 34 individuals in Spain who are alleged to be part of an international criminal organization called Black Axe.\nAs part of an operation conducted by the Spa\u2026",
     "title": "Europol Arrests 34 Black Axe Members in Spain Over \u20ac5.9M Fraud and Organized Crime"
   },
+  "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXd0cDqljLdjUTKJVODHzhlibAZe2-m53DWQpXWjKLY2pZyxDivUWJFky8KJbZ48kAKDTbwuh7FtNGmI9JKsaNivp5Xr-HrK803vlk0PsfbSYX2cxkTQoOBue2mRQ6ExYZpdLi3RQUvbuMjhndYKUAaFQxNTIm69cKuKFm5AgyAs6sUerbkWXs6RwTikXV/s1600/keys.jpg",
+    "published": "2026-01-20T11:48:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft\u2026",
+    "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto"
+  },
   "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlFgZ371OJLB7x0fK_3a34h710DpAHQLeyLQyaBpp1jhfsFyRD0-tmkLhXAvv0VD1XnU_WK8g5O16VUob1aHIyQf2smhkn6llIaC_H5_6MwogFRD11Hfp-w2kPc9vgiBUTlnftXM7VuCMsFmBPwxtyvAokqOJbgSAndESDU3qZV6-R9SH6meqbyuyoFk8n/s1600/windows.jpg",
@@ -2696,6 +2723,15 @@
     "summary": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware Security experts have disclosed details of an active malware campaign that's exploiting a DLL side-loading vulnerability in a legitimate binary associated with the open-source c-ares library to bypass s\u2026",
     "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware"
   },
+  "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfS_8l12ibwFemmowyvwW3TRy6H3Hk3BjSa-r1KzCfVMU2rB1wOoswclUs5hEuXN2TjQGz9y5eWSe7i8-crBQWCc4Nr8cDHOLDBU0e8T5r66eP_nWjkzIYwvp3hoKTZury1NQLnx6SOxM2OCwpC6Syr4zqHriStaxEksPoIbOJB4aPmAFHwhiucSErD-wM/s1600/linkedin.jpg",
+    "published": "2026-01-20T13:46:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading Cybersecurity researchers have uncovered a new phishing campaign that exploits social media private messages to propagate malicious payloads, likely with the intent to deploy a remote access trojan (RAT).\u2026",
+    "title": "Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading"
+  },
   "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-NFsj68xaf2p3zjA44oQOJv4NBoDt21KPCna8vnSvswE0hTcKyO7_ExzxpSX_PadfPFzlnA2bQ2gNpsMDNKqwIT_Rlj5GgtssnvnSfnbHCgJl4hH7u4XNRhfm7Yqd7wTnZ-8pU_THZ6wt7sFCQGxzXwFlczbU2DH5fQ7BakcnJ15uc7_lMefQlkrEpOw/s1600/devops.jpg",
@@ -2731,6 +2767,15 @@
     "source": "The Hacker News",
     "summary": "Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers The Black Lotus Labs team at Lumen Technologies said it null-routed traffic to more than 550 command-and-control (C2) nodes associated with the AISURU/Kimwolf botnet since early October 2025.\nAISURU and its\u2026",
     "title": "Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers"
+  },
+  "https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgARX8var88XnuiwAzTQxw-Iu0AEnvMqDZoQMH_UxnEUzuJ6yqPLLbij2G1PFEMHWToqT8hjNEvYxr-S4WCy5psHYCQw76jRiwGaFavY2Qe1jUvT7t-uUXn7CLWRXteMBhsunO2MbYEt8doaPcgHq2srmzSxXGzdW-pNgF0Fli_3kXrhcWAmln5JU2sptOf/s1600/lastpass.jpg",
+    "published": "2026-01-21T06:40:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "LastPass Warns of Fake Maintenance Messages Targeting Users\u2019 Master Passwords LastPass is alerting users to a new active phishing campaign that's impersonating the password management service, which aims to trick users into giving up their master passwords.\nThe campaign, which be\u2026",
+    "title": "LastPass Warns of Fake Maintenance Messages Targeting Users\u2019 Master Passwords"
   },
   "https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html": {
     "categories": [],
@@ -2876,6 +2921,15 @@
     "summary": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code Cybersecurity researchers have disclosed details of a new Python-based information stealer called VVS Stealer (also styled as VVS $tealer) that's capable of harvesting Discord credentials and tokens.\nThe \u2026",
     "title": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code"
   },
+  "https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0h2bAZNzwVEuQKgQlWm86TvDCUL308-g1xrbV2ZuCKJdiuCxebUL3w04zPuBIafTaSB4SkyqbdIb0Kpqn_jCUQMB8j9s-amDohBq4Lw_-Q9G0ZVIkmKIIP54wUsq7wvtgV03b9x_I-tpCDytn4Y6UHgBiPPUXQ9sVSsQVyjSYMrexTs7ZSNetSjFybpJp/s1600/vscode.png",
+    "published": "2026-01-20T18:41:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects The North Korean threat actors associated with the long-running Contagious Interview campaign have been observed using malicious Microsoft Visual Studio Code (VS Code) projects as lures to deliver a backd\u2026",
+    "title": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects"
+  },
   "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG4JjVzaUBhtnt0VrEKyVRib_UrgTLXJAKDFh5laNkMyFhaeJl8PqEHGpBEh34MW4YwNxIDbftlhHFHI56gxVW2RWWYnT9f9dlRpKsuWNFIqV4Xgn9xZegMmow-NFkNUPye8J0iT1nN1QikfsAuSbA2Qi3ZqPEdcEL6sFKl1cgRrxbhWB-Jm9XLAwwwtmy/s1600/chatgpt-health.jpg",
@@ -2993,6 +3047,15 @@
     "summary": "The Future of Cybersecurity Includes Non-Human Employees Non-human employees are becoming the future of cybersecurity, and enterprises need to prepare accordingly. As organizations scale Artificial Intelligence (AI) and cloud automation, there is exponential growth in Non-Human I\u2026",
     "title": "The Future of Cybersecurity Includes Non-Human Employees"
   },
+  "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-z9xF6QsTXxdgaSXZJQKDVTmBJGusdJ30GBYqWZ4w29KDo3yRA3HGE8BsxyQoctkOWtsv-b90dH698y-H015umuI0oOCHaPApTLj3UMcaMV9aYIqA_Oel0ZHHOy4g9qufvVc4kmRKyafIvCBKCHPsnVdx4ppZssttmenN8gEw0emeoNyTzYuuZur5s_Y/s1600/Orphan.gif",
+    "published": "2026-01-20T11:58:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "The Hidden Risk of Orphan Accounts The Problem: The Identities Left Behind\nAs organizations grow and evolve, employees, contractors, services, and systems come and go - but their accounts often remain. These abandoned or \u201corphan\u201d accounts sit dormant across applications, platform\u2026",
+    "title": "The Hidden Risk of Orphan Accounts"
+  },
   "https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOgqxWyZ5k1mEMGQ8sCbC-M19ff7_TVyt69pnktcYU9wNBJttxeAp9Cw3dzhrTdYwKNCYNPwOa_GV1OND0GP9cqYCLMO7A2vGJS14t32VoYAvv_R4NBlh1Jk7Cv8h3B_tp8uuHak1rB0vLwYycZHbpZc3KlWLQRXy5mg7Y_J7mC6zqepPwbuRNlArMGLE7/s1600/main.jpg",
@@ -3047,6 +3110,15 @@
     "summary": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.\nThis week\u2019s stories show how fast attackers change their tricks, how small mistakes tu\u2026",
     "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories"
   },
+  "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-pw9mrLv_u7G4cYmZabAPduOBzVremxpnTTBjAnpvt95Kdt-kVFdO1GuHAnFwKZ0MNOAB86u6PacmrUDnAT0tcXghadZTRaEQTFiCXUTcoQksHFc4FKIpWGGYeVmJHM0kLvyWrUC7QPHJ6sjkHGEPgjNwkjpJSQihknrukwDKzuvW445fDoi1tNPfThXW/s1600/git-ai-flaw.jpg",
+    "published": "2026-01-20T13:55:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution A set of three security vulnerabilities has been disclosed in mcp-server-git, the official Git Model Context Protocol (MCP) server maintained by Anthropic, that could be exploited to read or delete arbi\u2026",
+    "title": "Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution"
+  },
   "https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaFyRmyuVgO_C0sj1T6dS6xOHtQzLfUUckXuj31BDmfIdvD6xMza5hxryu06NflKvAWIOrqiIl5qZRQRuiTXiRoGkzSSCmfffHmkoW6w1yu7wWkXbk3YnnPQojFwLfDhnCvmjU063dxagQoIPFtiyxLoBP-V36reDJ7__kmAZQ5UD4Ybva-cvjDryruo2W/s1600/india.jpg",
@@ -3064,6 +3136,15 @@
     "source": "The Hacker News",
     "summary": "Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions Trend Micro has released security updates to address multiple security vulnerabilities impacting on-premise versions of Apex Central for Windows, including a critical bug that could result in arbitrary \u2026",
     "title": "Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions"
+  },
+  "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAig5-Somu-FrJikNOP0x03HGZ7BNOjkJuWqVOJpyVr1jyPxPtgCIZqqrDEn9G3FPkgryml3vqK5FeSnKaVMTWypZTvChn6hLRgJ5cjLzOS39BW0U_OW38ggPj7izAgiU5IOjATbCl6A2fRC156dZQ2Pn-Yman12ABm-uFtRN3oGofTeCZk6lpdQgll6eY/s1600/botcoin.jpg",
+    "published": "2026-01-20T07:40:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to new findings from Elliptic.\nThe blockch\u2026",
+    "title": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion"
   },
   "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html": {
     "categories": [],
@@ -3172,6 +3253,15 @@
     "source": "The Hacker News",
     "summary": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging Cybersecurity researchers have disclosed details of a new campaign that uses WhatsApp as a distribution vector for a Windows banking trojan called Astaroth in attacks targeting Brazil.\nThe camp\u2026",
     "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging"
+  },
+  "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieV5wPGUwZgsm79ntLb9Sz_6xAPAV54CQ1SztbNfpLe-ovKEkTrCsLBRsD52c87yFiByHZGandN1pYNNBn1OLUpc5iEFJnGP0YRn_WWeWod1xxQUNhjlD1vFMh-4EI2fq06Gt86H_U7rX7FBjhLoXrhtzQKqjLRa3X6c7W86BFrR5xfDX80ve6UDs4zU8/s1600/main.jpg",
+    "published": "2026-01-20T10:45:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Why Secrets in JavaScript Bundles are Still Being Missed Leaked API keys are no longer unusual, nor are the breaches that follow. So why are sensitive tokens still being so easily exposed?\nTo find out, Intruder\u2019s research team looked at what traditional vulnerability scanners act\u2026",
+    "title": "Why Secrets in JavaScript Bundles are Still Being Missed"
   },
   "https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html": {
     "categories": [],
@@ -3396,6 +3486,18 @@
     "summary": "Google plans to make Chrome for Android an agentic browser with Gemini Google appears to be testing a new feature that integrates Gemini into Chrome for Android, allowing you to use agentic browser capabilities on your mobile device. [...]",
     "title": "Google plans to make Chrome for Android an agentic browser with Gemini"
   },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/google-says-gemini-wont-have-ads-as-chatgpt-prepares-to-add-them/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-21T00:00:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google says Gemini won\u2019t have ads, as ChatGPT prepares to add them OpenAI recently rolled out ads to ChatGPT in the United States if you use $8 Go subscription or a free account, but Google says it does not plan to put ads in Gemini. [...]",
+    "title": "Google says Gemini won\u2019t have ads, as ChatGPT prepares to add them"
+  },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/google-search-is-now-using-ai-to-create-interactive-ui-to-answer-your-questions/": {
     "categories": [
       "Artificial Intelligence",
@@ -3557,6 +3659,18 @@
     "summary": "OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro OpenAI is preparing the GPT-5.1 family for public rollout. This includes GPT-5.1 (base), GPT-5.1 Reasoning, and GPT-5.1 Pro for those who pay a $200 monthly subscription. [...]",
     "title": "OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro"
   },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-age-prediction-model-on-chatgpt-to-detect-your-age/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-20T22:57:21+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI rolls out age prediction model on ChatGPT to detect your age OpenAI is rolling out an age prediction model on ChatGPT to detect your age and apply possible safety-related restrictions to prevent misuse by teens. [...]",
+    "title": "OpenAI rolls out age prediction model on ChatGPT to detect your age"
+  },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-wont-use-your-health-information-to-train-its-models/": {
     "categories": [
       "Artificial Intelligence",
@@ -3603,6 +3717,18 @@
     "source": "BleepingComputer",
     "summary": "OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers OpenAI is reportedly mulling a new form of ads on ChatGPT called \"sponsored content,\" which could influence your buying decisions. [...]",
     "title": "OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-21T02:00:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI's ChatGPT Atlas browser is testing actions feature Chromium-based ChatGPT Atlas browser is testing a new feature likely called \"Actions,\" and it can also understand videos, which is why you might see ChatGPT generating timestamps for videos. [...]",
+    "title": "OpenAI's ChatGPT Atlas browser is testing actions feature"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-hidden-chatgpt-translate-tool-takes-on-google-translate/": {
     "categories": [
@@ -4152,6 +4278,17 @@
     "summary": "Microsoft: Patch for WSUS flaw disabled Windows Server hotpatching An out-of-band (OOB) security update that patches an actively exploited Windows Server Update Service (WSUS) vulnerability has broken hotpatching on some Windows Server 2025 devices. [...]",
     "title": "Microsoft: Patch for WSUS flaw disabled Windows Server hotpatching"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-new-cursorwrap-mouse-teleport-tool/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-01-20T16:33:30+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft PowerToys adds new CursorWrap mouse 'teleport' tool Microsoft has released PowerToys 0.97, with a new mouse utility for multi-monitor setups and significant improvements to the Command Palette quick launcher. [...]",
+    "title": "Microsoft PowerToys adds new CursorWrap mouse 'teleport' tool"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/": {
     "categories": [
       "Microsoft"
@@ -4695,6 +4832,17 @@
     "source": "BleepingComputer",
     "summary": "A Practical Guide to Continuous Attack Surface Visibility Passive scan data goes stale fast as cloud assets shift daily, leaving teams blind to real exposures. Sprocket Security shows how continuous, automated recon gives accurate, up-to-date attack surface visibility. [...]",
     "title": "A Practical Guide to Continuous Attack Surface Visibility"
+  },
+  "https://www.bleepingcomputer.com/news/security/acf-plugin-bug-gives-hackers-admin-on-50-000-wordpress-sites/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-20T22:12:27+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "ACF plugin bug gives hackers admin on 50,000 WordPress sites A critical-severity vulnerability in the Advanced Custom Fields: Extended (ACF Extended) plugin for WordPress can be exploited remotely by unauthenticated attackers to obtain administrative permissions. [...]",
+    "title": "ACF plugin bug gives hackers admin on 50,000 WordPress sites"
   },
   "https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/": {
     "categories": [
@@ -5803,6 +5951,17 @@
     "summary": "EU fines X $140 million over deceptive blue checkmarks The European Commission has fined X \u20ac120 million ($140 million) for violating transparency obligations under the Digital Services Act (DSA). [...]",
     "title": "EU fines X $140 million over deceptive blue checkmarks"
   },
+  "https://www.bleepingcomputer.com/news/security/eu-plans-cybersecurity-overhaul-to-block-foreign-high-risk-suppliers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-20T18:54:38+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "EU plans cybersecurity overhaul to block foreign high-risk suppliers The European Commission has proposed new cybersecurity legislation mandating the removal of high-risk suppliers to secure telecommunications networks and strengthening defenses against state-backed\u00a0and cybercrim\u2026",
+    "title": "EU plans cybersecurity overhaul to block foreign high-risk suppliers"
+  },
   "https://www.bleepingcomputer.com/news/security/eurofiber-france-warns-of-breach-after-hacker-tries-to-sell-customer-data/": {
     "categories": [
       "Security"
@@ -6216,6 +6375,18 @@
     "source": "BleepingComputer",
     "summary": "FTC settlement requires Illuminate to delete unnecessary student data The Federal Trade Commission (FTC) is proposing that education technology provider Illuminate Education to delete unnecessary student data and improve its security to settle allegations related to an incident i\u2026",
     "title": "FTC settlement requires Illuminate to delete unnecessary student data"
+  },
+  "https://www.bleepingcomputer.com/news/security/gemini-ai-assistant-tricked-into-leaking-google-calendar-data/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-01-20T17:50:01+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Gemini AI assistant tricked into leaking Google Calendar data Using only natural language instructions, researchers were able to bypass Google Gemini's defenses against malicious prompt injection\u00a0and create misleading events to leak private Calendar data. [...]",
+    "title": "Gemini AI assistant tricked into leaking Google Calendar data"
   },
   "https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/": {
     "categories": [
@@ -7035,6 +7206,17 @@
     "source": "BleepingComputer",
     "summary": "Maintaining enterprise IT hygiene using Wazuh SIEM/XDR Poor IT hygiene, such as unused accounts, outdated software, and risky extensions, creates hidden exposure in your infrastructure. Wazuh, the open-source XDR and SIEM, shows how continuous inventory monitoring across endpoint\u2026",
     "title": "Maintaining enterprise IT hygiene using Wazuh SIEM/XDR"
+  },
+  "https://www.bleepingcomputer.com/news/security/make-identity-threat-detection-your-security-strategy-for-2026/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-20T15:01:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Make Identity Threat Detection your security strategy for 2026 Identity-based attacks are one of the primary paths attackers use to breach corporate networks. Tenfold shows how Identity Threat Detection helps spot suspicious account activity before real damage occurs. [...]",
+    "title": "Make Identity Threat Detection your security strategy for 2026"
   },
   "https://www.bleepingcomputer.com/news/security/malicious-android-apps-on-google-play-downloaded-42-million-times/": {
     "categories": [
@@ -9023,6 +9205,18 @@
     "summary": "VMware ESXi zero-days likely exploited a year before disclosure Chinese-speaking threat actors used a compromised SonicWall VPN appliance to deliver a VMware ESXi exploit toolkit that seems to have been developed more than a year before the targeted vulnerabilities became publicl\u2026",
     "title": "VMware ESXi zero-days likely exploited a year before disclosure"
   },
+  "https://www.bleepingcomputer.com/news/security/voidlink-cloud-malware-shows-clear-signs-of-being-ai-generated/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-01-20T19:35:31+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "VoidLink cloud malware shows clear signs of being AI-generated The recently discovered cloud-focused VoidLink malware framework is believed to have been developed by a single person with the help of an artificial intelligence model. [...]",
+    "title": "VoidLink cloud malware shows clear signs of being AI-generated"
+  },
   "https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/": {
     "categories": [
       "Security",
@@ -9065,6 +9259,17 @@
     "source": "BleepingComputer",
     "summary": "New critical WatchGuard Firebox firewall flaw exploited in attacks WatchGuard has warned customers to patch a critical, actively exploited remote code execution (RCE) vulnerability in its Firebox firewalls. [...]",
     "title": "New critical WatchGuard Firebox firewall flaw exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/webinar-aligning-cybersecurity-purchases-with-what-your-soc-team-needs/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-20T13:15:23+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Webinar: Aligning cybersecurity purchases with what your SOC team needs Learn how security leaders and SOC teams can work together to close the gap between platform decisions and operational needs. Join Sumo Logic and BleepingComputer on January 29 for a practical webinar on alig\u2026",
+    "title": "Webinar: Aligning cybersecurity purchases with what your SOC team needs"
   },
   "https://www.bleepingcomputer.com/news/security/webinar-modern-patch-management-strategies-to-patch-faster-with-less-risk/": {
     "categories": [
@@ -9405,6 +9610,15 @@
     "summary": "Malicious Npm Packages Abuse Adspect Cloaking in Crypto Scam A malware campaign presents fake websites that can check if a visitor is a potential victim or a security researcher, and then proceed accordingly to defraud or evade.",
     "title": "Malicious Npm Packages Abuse Adspect Cloaking in Crypto Scam"
   },
+  "https://www.darkreading.com/application-security/microsoft-anthropic-mcp-servers-risk-takeovers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56f8db3e3c8d26b3/696abb187491521602d9d74e/Do_Not_Trust_Robots-Jansos-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-20T15:47:19+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Microsoft &amp; Anthropic MCP Servers At Risk of RCE, Cloud Takeovers Researchers found the popular model context protocol (MCP) servers, which are integral components of AI services, carry serious vulnerabilities.",
+    "title": "Microsoft &amp; Anthropic MCP Servers At Risk of RCE, Cloud Takeovers"
+  },
   "https://www.darkreading.com/application-security/microsoft-fixes-exploited-zero-day-light-patch-tuesday": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteeda9139b627cb5e/69389770c9923c42c04a9c31/bugs_Cagkan_Sayin_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -9524,6 +9738,15 @@
     "source": "darkreading",
     "summary": "Fake AI Chrome Extensions Steal 900K Users' Data Threat actors ripped off a legitimate AI-powered Chrome extension in order to harvest ChatGPT and DeepSeek data before sending it to a C2 server.",
     "title": "Fake AI Chrome Extensions Steal 900K Users' Data"
+  },
+  "https://www.darkreading.com/cloud-security/google-gemini-flaw-calendar-invites-attack-vector": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt433da4a9f9b25cbe/696f6a079d56b585438debf1/Deemerwha_studio-AI-tools-shutterstock.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-20T15:52:35+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Google Gemini Flaw Turns Calendar Invites Into Attack Vector The indirect prompt injection vulnerability allows an attacker to weaponize invites to circumvent Google's privacy controls and access private data.",
+    "title": "Google Gemini Flaw Turns Calendar Invites Into Attack Vector"
   },
   "https://www.darkreading.com/cloud-security/heres-cloud-security-holds-year-ahead": {
     "categories": [],
@@ -9885,6 +10108,15 @@
     "source": "darkreading",
     "summary": "Coyote, Maverick Banking Trojans Run Rampant in Brazil South America's largest country is notorious for banking malware attacks; Maverick self-terminates if its targeted user is based outside Brazil.",
     "title": "Coyote, Maverick Banking Trojans Run Rampant in Brazil"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/crashfix-scam-crashes-browsers-delivers-malware": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt920749c6a2e462d4/696fef42c947e92cb1f1f401/rat_alexskopje_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-20T21:10:14+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "'CrashFix' Scam Crashes Browsers, Delivers Malware The attack consists of a NexShield malicious browser extension, a social engineering technique to crash the browser, and a Python-based RAT.",
+    "title": "'CrashFix' Scam Crashes Browsers, Delivers Malware"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack": {
     "categories": [],
@@ -10990,6 +11222,15 @@
     "summary": "How Malware Authors Are Incorporating LLMs to Evade Detection Cyberattackers are integrating large language models (LLMs) into malware, running prompts at runtime to evade detection and augment their code on demand.",
     "title": "How Malware Authors Are Incorporating LLMs to Evade Detection"
   },
+  "https://www.darkreading.com/threat-intelligence/mass-spam-attacks-zendesk-instances": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8c7445d2bc171453/696fd3f1ea12a22dfb0f6e33/Spam_Email_Feng_Yu_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-20T20:18:30+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Mass Spam Attacks Leverage Zendesk Instances The CRM vendor advised ignoring or deleting suspicious emails and said the attacks were not tied to any breach or software vulnerability.",
+    "title": "Mass Spam Attacks Leverage Zendesk Instances"
+  },
   "https://www.darkreading.com/threat-intelligence/matrix-push-c2-tool-hijacks-browser-notifications-phishing": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4f92811f8645c0f6/691f5a21ce05bdd0f66b605c/Matrix_Push_dashboard-BlackFog.png?width=1280&auto=webp&quality=80&disable=upscale",
@@ -11297,5 +11538,14 @@
     "source": "darkreading",
     "summary": "'TruffleNet' Attack Wields Stolen Credentials Against AWS Reconnaissance and BEC are among the malicious activities attackers commit after compromising cloud accounts, using a framework based on the TruffleHog tool.",
     "title": "'TruffleNet' Attack Wields Stolen Credentials Against AWS"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-break-chainlit-ai-framework": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf8b98774562b7a03/696ebf0b2710161f38346a79/Robot_toys-robertharding-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-20T18:04:28+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Vulnerabilities Threaten to Break Chainlit AI Framework Familiar bugs in a popular open source framework for AI chatbots could give attackers dangerous powers in the cloud.",
+    "title": "Vulnerabilities Threaten to Break Chainlit AI Framework"
   }
 }
