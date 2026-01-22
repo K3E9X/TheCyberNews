@@ -2435,6 +2435,15 @@
     "summary": "Anthropic Launches Claude AI for Healthcare with Secure Health Record Access Anthropic has become the latest Artificial intelligence (AI) company to announce a new suite of features that allows users of its Claude platform to better understand their health information.\nUnder an i\u2026",
     "title": "Anthropic Launches Claude AI for Healthcare with Secure Health Record Access"
   },
+  "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6O_1FUjFHFlfeetaainBwBLAivJlaoFZZYZ-M9gJCGGmmNW1QE_mHtFOlYhtYbuM5fXV8-ySVyNrPVocMA2GBV_1TQdqLS3yZkU5ThvGuQ6AfuN20gtMsBa-7C3_A8oOjPPyP2SP_W8bX6zCcGgPpu9MQuX490PT2d2OMZYgL1Ra30gHM8ZmfAdM9MfTf/s1600/fortinet.jpg",
+    "published": "2026-01-22T05:55:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations Cybersecurity company Arctic Wolf has warned of a \"new cluster of automated malicious activity\" that involves unauthorized firewall configuration changes on Fortinet FortiGate devices.\nThe activit\u2026",
+    "title": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations"
+  },
   "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtz1db4ZW0v9IOmiEDYea5iRhI0pJ5FDJ1MjpzJMDkqBQVUR49G7UA9mmPRPG_tCtFMNFz_8K7nCdBsW_-V85RH4tgLY4jKk5Z0JGAVbcApWgXVb4TwmW1G5kHzydowLYHm36xV6XjcKQK5K1384NfjskWh54_MGL2J_FNx5aFTRUBuV3wxbp_DHaiy6mo/s1600/wiz.jpg",
@@ -2479,6 +2488,15 @@
     "source": "The Hacker News",
     "summary": "CERT/CC Warns binary-parser Bug Allows Node.js Privilege-Level Code Execution A security vulnerability has been disclosed in the popular binary-parser npm library that, if successfully exploited, could result in the execution of arbitrary JavaScript.\nThe vulnerability, tracked as\u2026",
     "title": "CERT/CC Warns binary-parser Bug Allows Node.js Privilege-Level Code Execution"
+  },
+  "https://thehackernews.com/2026/01/chainlit-ai-framework-flaws-enable-data.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOQfYQeWdwmviN0kYk0o1lwduXDGiv53wwizZeyajke-6SGNlGc1wdSk5yUWZ_Bt4-yQrihJrMohBqDcsqStLjmdJ_YfRZ2vM27oKy4LVviBgbJHP71E2MWRRf_d39VMy7BQ2WzIxl-s0ufscfKHo8AL9Dj0W77aRmVM_lNvGAeOwN1Xxf7IGoG7DwTbus/s1600/exploit.jpg",
+    "published": "2026-01-21T09:10:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Chainlit AI Framework Flaws Enable Data Theft via File Read and SSRF Bugs Security vulnerabilities were uncovered in the popular open-source artificial intelligence (AI) framework Chainlit that could allow attackers to steal sensitive data, which may allow for lateral movement wi\u2026",
+    "title": "Chainlit AI Framework Flaws Enable Data Theft via File Read and SSRF Bugs"
   },
   "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html": {
     "categories": [],
@@ -2533,6 +2551,15 @@
     "source": "The Hacker News",
     "summary": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of active exploitation of a high-severity security flaw impacting Gogs by adding it to its Known Exploited Vulnerabilities (\u2026",
     "title": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution"
+  },
+  "https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHOCMXq3WVtmcL9apl3XWrlOoAeRxJ2kZf_37YNtvg2oaO5wVX4zD-vOckg8TzcAeNUDKe0CpwaIvMz_9RQ0Lx-2sD5Jdz4rF7TxN74zZdq6lWOzfF3PdsYvmUy9CDqB9MxFV1leIxvXTuYYajixMcaQJLFGLGsLyfX7wdp9hkENDvdJqW6Y_hRlT6PnBk/s1600/cisco-patch.jpg",
+    "published": "2026-01-22T04:06:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex Cisco has released fresh patches to address what it described as a \"critical\" security vulnerability impacting multiple Unified Communications (CM) products and Webex Calling Dedicated Instance that it\u2026",
+    "title": "Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex"
   },
   "https://thehackernews.com/2026/01/cisco-patches-ise-security.html": {
     "categories": [],
@@ -2650,6 +2677,15 @@
     "source": "The Hacker News",
     "summary": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft\u2026",
     "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto"
+  },
+  "https://thehackernews.com/2026/01/exposure-assessment-platforms-signal.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQmSU5s0ahHNb_O6TnXm0i8cw93oK40sAl5By7cIbChjHl5xUqt4_24bcXtVXugQG4zcGbsmtbZz-QTvhOyWRhyxuYPB6nmaY65vANZFcuBHeqSuELPN7JbGTfHaAn5JlSFt_C00S_RMkS9I2UyDUQaCWr2lj6qDKe8ys1D2ZA3myEEZDEEcej12BJWvM/s1600/xmcyber.jpg",
+    "published": "2026-01-21T10:30:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Exposure Assessment Platforms Signal a Shift in Focus Gartner\u00ae doesn\u2019t create new categories lightly. Generally speaking, a new acronym only emerges when the industry's collective \"to-do list\" has become mathematically impossible to complete. And so it seems that the introduction\u2026",
+    "title": "Exposure Assessment Platforms Signal a Shift in Focus"
   },
   "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html": {
     "categories": [],
@@ -2930,6 +2966,15 @@
     "summary": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects The North Korean threat actors associated with the long-running Contagious Interview campaign have been observed using malicious Microsoft Visual Studio Code (VS Code) projects as lures to deliver a backd\u2026",
     "title": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects"
   },
+  "https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrrIdMGRCKi6umFOuh-RXZ-VygDIwLtr18W0bnicPF1AYj5jLZVM3x76V96YjaTJm_FlzW1RftmJvZoWxBBcGkcN4DzIfSCw7XQO5Omyf8st-ezm8mYdzyG4vx9VhQOTjZcTT4K6JnU11fQkq201EwBq9Lj6OHxIIGRu52eBIHFCacZuaei3DnnphunRg5/s1600/hackers.jpg",
+    "published": "2026-01-21T17:17:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews As many as 3,136 individual IP addresses linked to likely targets of the Contagious Interview activity have been identified, with the campaign claiming 20 potential victim organizations spanning\u2026",
+    "title": "North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews"
+  },
   "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG4JjVzaUBhtnt0VrEKyVRib_UrgTLXJAKDFh5laNkMyFhaeJl8PqEHGpBEh34MW4YwNxIDbftlhHFHI56gxVW2RWWYnT9f9dlRpKsuWNFIqV4Xgn9xZegMmow-NFkNUPye8J0iT1nN1QikfsAuSbA2Qi3ZqPEdcEL6sFKl1cgRrxbhWB-Jm9XLAwwwtmy/s1600/chatgpt-health.jpg",
@@ -3173,6 +3218,15 @@
     "summary": "Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication Veeam has released security updates to address multiple flaws in its Backup &amp; Replication software, including a \"critical\" issue that could result in remote code execution (RCE).\nThe vulnerability,\u2026",
     "title": "Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication"
   },
+  "https://thehackernews.com/2026/01/voidlink-linux-malware-framework-built.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Wwnorzi4IOE-M6KTtD-M3NkFDUouUmfnwteDny1m-6-slwsXN8LGxzhX2jmXH9qIk1YWGqUJYdOiAWkouZYPcakwcnoA9GjLWcjdbPnnxYgJy5aPQpO1uPSAYVPOfp2lQtBlbKxA5BmR-xHBwtV28Xp6GpnOwY0VDIj13rCTSiaS54uIWwR4ErcLi8Tm/s1600/linux.jpg",
+    "published": "2026-01-21T08:55:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "VoidLink Linux Malware Framework Built with AI Assistance Reaches 88,000 Lines of Code The recently discovered sophisticated Linux malware framework known as VoidLink is assessed to have been developed by a single person with assistance from an artificial intelligence (AI) model.\u2026",
+    "title": "VoidLink Linux Malware Framework Built with AI Assistance Reaches 88,000 Lines of Code"
+  },
   "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0cvjE-uBAOipvEWs5BsHAt3ztw9IYIHxKGLFRdgCKnxYAJ1UHFZs0b3Zl_xw729c3-7WMgT3G4uLN2kLzwHpwZ3HZFXJ6KwgPg4v6JH3k02OsrQVFHF8BDsf4XKhKjuOajrGqcmNxvmE4LKCru_S6L2wV8SfI38McnPrcI4WC_r_wZHOfLYcOgACPmTvQ/s1600/koi.jpg",
@@ -3181,6 +3235,15 @@
     "source": "The Hacker News",
     "summary": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX Popular artificial intelligence (AI)-powered Microsoft Visual Studio Code (VS Code) forks such as Cursor, Windsurf, Google Antigravity, and Trae have been found to recommend extensions that are non\u2026",
     "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX"
+  },
+  "https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnAjw_7hs2TWB60U9A3rLWVRbNehP6fCA9boU8Wc9AX_z4CTre8ODPME4NHIdHpY5_1JNAgaLwLKPHPfVOwsx8ap_TUzjdBFpyzM2x-BM3skhfwqDdz7AtEWGHrs9jfmU8hQ_zkM66xXfF3A3J0hs-lLUrBDoC7ycnfFEV-_2JzDg93uAO4ASrJq_eJ3-i/s1600/mssp.jpg",
+    "published": "2026-01-21T11:58:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff Every managed security provider is chasing the same problem in 2026 \u2014 too many alerts, too few analysts, and clients demanding \u201cCISO-level protection\u201d at SMB budgets.\nThe truth? Most MSSPs are running harder, \u2026",
+    "title": "Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff"
   },
   "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html": {
     "categories": [],
@@ -3271,6 +3334,15 @@
     "source": "The Hacker News",
     "summary": "Your Digital Footprint Can Lead Right to Your Front Door You lock your doors at night. You avoid sketchy phone calls. You\u2019re careful about what you post on social media.\nBut what about the information about you that\u2019s already out there\u2014without your permission?\nYour name. Home add\u2026",
     "title": "Your Digital Footprint Can Lead Right to Your Front Door"
+  },
+  "https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwPQt59QKpm9rpNLriqoUsKPzbWcBj9P-u1ZdIn5xhxR6hgRztxdSAXN5bgEnDvd4uEEBgW4Imr_g-__YN0NY3-vLa_vEuYIwRzlrnRF3s0Vz8wDb937XfoxDbpPFapWvz0wH5TO2rK-32zQ2WLv8_loqE9rZIn_x5RzgtTyxrOQcUN-POOgDziDZNngjf/s1600/zoom-gitlab.jpg",
+    "published": "2026-01-21T15:42:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws Zoom and GitLab have released security updates to resolve a number of security vulnerabilities that could result in denial-of-service (DoS) and remote code execution.\nThe most severe of the lot is a cr\u2026",
+    "title": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/": {
     "categories": [
@@ -4390,6 +4462,17 @@
     "summary": "Microsoft says new Outlook can't open some Excel attachments \u200bMicrosoft is working to resolve a known issue that prevents some users from opening Excel email attachments in the new Outlook client. [...]",
     "title": "Microsoft says new Outlook can't open some Excel attachments"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-outlook-freezes-after-windows-update/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-01-21T15:12:59+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft shares workaround for Outlook freezes after Windows update Microsoft shared a temporary workaround for customers experiencing Outlook freezes after installing this month's Windows security updates. [...]",
+    "title": "Microsoft shares workaround for Outlook freezes after Windows update"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/": {
     "categories": [
       "Microsoft"
@@ -5163,6 +5246,17 @@
     "summary": "Central Maine Healthcare breach exposed data of over 145,000 people A data breach last year at Central Maine Healthcare (CMH) exposed sensitive information of more than\u00a0145,000 individuals. [...]",
     "title": "Central Maine Healthcare breach exposed data of over 145,000 people"
   },
+  "https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-21T22:37:04+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Chainlit AI framework bugs let hackers breach cloud environments Two high-severity vulnerabilities in Chainlit, a popular open-source framework for building conversational AI applications, allow reading any file on the server and leak sensitive information. [...]",
+    "title": "Chainlit AI framework bugs let hackers breach cloud environments"
+  },
   "https://www.bleepingcomputer.com/news/security/checkoutcom-snubs-shinyhunters-hackers-to-donate-ransom-instead/": {
     "categories": [
       "Security"
@@ -5392,6 +5486,17 @@
     "source": "BleepingComputer",
     "summary": "Cisco finally fixes AsyncOS zero-day exploited since November \u200bCisco finally patched a maximum-severity AsyncOS zero-day exploited in attacks targeting Secure Email Gateway (SEG) appliances since November 2025. [...]",
     "title": "Cisco finally fixes AsyncOS zero-day exploited since November"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-21T22:16:21+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Cisco fixes Unified Communications RCE zero day exploited in attacks Cisco has fixed a critical Unified Communications and Webex Calling remote code execution vulnerability, tracked as\u00a0CVE-2026-20045, that has been actively exploited as a zero-day in\u00a0attacks. [...]",
+    "title": "Cisco fixes Unified Communications RCE zero day exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/cisco-switches-hit-by-reboot-loops-due-to-dns-client-bug/": {
     "categories": [
@@ -6090,6 +6195,17 @@
     "summary": "Fake GrubHub emails promise tenfold return on sent cryptocurrency Grubhub users received fraudulent messages, apparently from a company email address, promising a tenfold bitcoin payout in return for a transfer to a specified wallet. [...]",
     "title": "Fake GrubHub emails promise tenfold return on sent cryptocurrency"
   },
+  "https://www.bleepingcomputer.com/news/security/fake-lastpass-emails-pose-as-password-vault-backup-alerts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-21T16:58:39+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Fake Lastpass emails pose as password vault backup alerts LastPass is warning of a new phishing campaign disguised as a maintenance notification from the service, asking users to back up their vaults in the next 24 hours. [...]",
+    "title": "Fake Lastpass emails pose as password vault backup alerts"
+  },
   "https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/": {
     "categories": [
       "Security"
@@ -6212,6 +6328,17 @@
     "source": "BleepingComputer",
     "summary": "Former Coinbase support agent arrested for helping hackers A former Coinbase customer service agent was arrested in India for helping hackers earlier this year\u00a0steal sensitive customer information from a company database. [...]",
     "title": "Former Coinbase support agent arrested for helping hackers"
+  },
+  "https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-21T17:49:08+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Fortinet admins report patched FortiGate firewalls getting hacked Fortinet customers are seeing attackers exploiting a patch bypass for a previously fixed critical FortiGate authentication vulnerability (CVE-2025-59718) to hack patched firewalls. [...]",
+    "title": "Fortinet admins report patched FortiGate firewalls getting hacked"
   },
   "https://www.bleepingcomputer.com/news/security/fortinet-confirms-silent-patch-for-fortiweb-zero-day-exploited-in-attacks/": {
     "categories": [
@@ -6398,6 +6525,17 @@
     "source": "BleepingComputer",
     "summary": "GhostPoster attacks hide malicious JavaScript in Firefox addon logos A new campaign dubbed 'GhostPoster' is hiding JavaScript code in the image logo of malicious Firefox extensions counting more than\u00a050,000 downloads, to monitor browser activity and plant a backdoor. [...]",
     "title": "GhostPoster attacks hide malicious JavaScript in Firefox addon logos"
+  },
+  "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-high-severity-2fa-bypass-denial-of-service-flaws/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-21T13:57:06+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "GitLab warns of high-severity 2FA bypass, denial-of-service flaws GitLab has patched a high-severity two-factor authentication bypass impacting community and enterprise editions of its software development platform. [...]",
+    "title": "GitLab warns of high-severity 2FA bypass, denial-of-service flaws"
   },
   "https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-in-third-wave-of-malicious-vs-code-packages/": {
     "categories": [
@@ -6763,6 +6901,18 @@
     "source": "BleepingComputer",
     "summary": "Hackers exploit newly patched Fortinet auth bypass flaws Hackers are exploiting critical-severity vulnerabilities affecting multiple Fortinet products to get unauthorized access to admin accounts\u00a0and steal system configuration files. [...]",
     "title": "Hackers exploit newly patched Fortinet auth bypass flaws"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-security-testing-apps-to-breach-fortune-500-firms/": {
+    "categories": [
+      "Security",
+      "Cloud"
+    ],
+    "image": "",
+    "published": "2026-01-21T14:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit security testing apps to breach Fortune 500 firms Threat actors are exploiting misconfigured\u00a0web applications used for security training and internal penetration testing, such as DVWA, OWASP Juice Shop, Hackazon, and bWAPP, to gain\u00a0access to cloud environments of \u2026",
+    "title": "Hackers exploit security testing apps to breach Fortune 500 firms"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-post-smtp-to-hijack-admin-accounts/": {
     "categories": [
@@ -7594,6 +7744,17 @@
     "summary": "NCSC's \u2018Proactive Notifications\u2019 warns orgs of flaws in exposed devices The UK's National Cyber Security Center (NCSC) announced the testing phase of a new service called Proactive Notifications, designed to inform organizations in the country of vulnerabilities present in their \u2026",
     "title": "NCSC's \u2018Proactive Notifications\u2019 warns orgs of flaws in exposed devices"
   },
+  "https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-21T22:07:53+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New Android malware uses AI to click on hidden browser ads A new family of Android click-fraud trojans leverages TensorFlow machine learning models to automatically detect and interact with specific advertisement elements. [...]",
+    "title": "New Android malware uses AI to click on hidden browser ads"
+  },
   "https://www.bleepingcomputer.com/news/security/new-china-linked-hackers-breach-telcos-using-edge-device-exploits/": {
     "categories": [
       "Security"
@@ -7989,6 +8150,17 @@
     "source": "BleepingComputer",
     "summary": "Ongoing SoundCloud issue blocks VPN users with 403 server error Users accessing the SoundCloud audio streaming platform through a virtual private network (VPN) connection are denied access to the service and see\u00a0a 403 'forbidden' error. [...]",
     "title": "Ongoing SoundCloud issue blocks VPN users with 403 server error"
+  },
+  "https://www.bleepingcomputer.com/news/security/online-retailer-pccomponentes-says-data-breach-claims-are-fake/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-21T20:55:19+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Online retailer PcComponentes says data breach claims are fake PcComponentes, a major technology retailer in Spain,\u00a0has denied claims of a data breach on its systems impacting 16 million customers, but confirmed it suffered a credential stuffing attack. [...]",
+    "title": "Online retailer PcComponentes says data breach claims are fake"
   },
   "https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/": {
     "categories": [
@@ -8772,6 +8944,17 @@
     "summary": "Target's dev server offline after hackers claim to steal source code Hackers are claiming to be selling internal source code belonging to Target Corporation, after publishing what appears to be a sample of stolen code repositories on a public software development platform. After \u2026",
     "title": "Target's dev server offline after hackers claim to steal source code"
   },
+  "https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-21T12:16:15+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Tesla hacked, 37 zero-days demoed at Pwn2Own Automotive 2026 Security researchers have hacked the Tesla Infotainment System and earned $516,500 after exploiting\u00a037 zero-days on the first day of the Pwn2Own Automotive 2026 competition. [...]",
+    "title": "Tesla hacked, 37 zero-days demoed at Pwn2Own Automotive 2026"
+  },
   "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/": {
     "categories": [
       "Security",
@@ -9374,6 +9557,17 @@
     "summary": "Year-end approaches: How to maximize your cyber spend Year-end budgeting is the perfect time to close real security gaps by strengthening identity controls, reducing redundant tools, and investing in outcome-driven engagements. The article highlights how targeting credential risk\u2026",
     "title": "Year-end approaches: How to maximize your cyber spend"
   },
+  "https://www.bleepingcomputer.com/news/security/you-got-phished-of-course-youre-human/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-21T14:30:39+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "You Got Phished? Of Course! You're Human... Phishing succeeds not because users are careless, but because attackers exploit human timing, context, and emotion. Flare shows how modern phishing has become industrialized, scalable, and increasingly hard to spot. [...]",
+    "title": "You Got Phished? Of Course! You're Human..."
+  },
   "https://www.bleepingcomputer.com/news/security/your-mfa-is-costing-you-millions-it-doesnt-have-to/": {
     "categories": [
       "Security"
@@ -9384,6 +9578,17 @@
     "source": "BleepingComputer",
     "summary": "Your MFA Is Costing You Millions. It Doesn't Have To. Passwords and app-based MFA add hidden costs through lost productivity, frequent resets, and risk of phishing and social engineering attacks. Token explains how wireless biometric, passwordless authentication eliminates creden\u2026",
     "title": "Your MFA Is Costing You Millions. It Doesn't Have To."
+  },
+  "https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-21T23:46:53+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Zendesk ticket systems hijacked in massive global spam wave People worldwide are being targeted by a massive spam wave originating from unsecured Zendesk support systems, with victims reporting receiving hundreds of emails with strange and sometimes alarming subject lines. [...]",
+    "title": "Zendesk ticket systems hijacked in massive global spam wave"
   },
   "https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/": {
     "categories": [
@@ -9653,6 +9858,15 @@
     "summary": "OWASP Highlights Supply Chain Risks in New Top 10 List Security misconfiguration jumped to second place while injection vulnerabilities dropped, as organizations improve defenses against traditional coding flaws.",
     "title": "OWASP Highlights Supply Chain Risks in New Top 10 List"
   },
+  "https://www.darkreading.com/application-security/phishing-campaign-zeroes-lastpass-customers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb023f7da7de72138/69712e852a97c4ee565f6b2b/bank_vault_DecaStock_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-21T20:22:02+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Phishing Campaign Zeroes in on LastPass Customers The bait incudes plausible subject lines and credible messages, most likely thanks to attackers' use of large language models to craft them.",
+    "title": "Phishing Campaign Zeroes in on LastPass Customers"
+  },
   "https://www.darkreading.com/application-security/prompt-injections-loom-large-over-chatgpt-atlas-launch": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt773b39b569af50a2/6925fbb1db48105c9783cb0f/Atlas_Michael_Brooks_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -9720,6 +9934,15 @@
     "source": "darkreading",
     "summary": "Vibe Coding: Innovation Demands Vigilance Unmanaged coding is indeed an alluring idea, but can introduce a host of significant cybersecurity dangers, Constantine warns.",
     "title": "Vibe Coding: Innovation Demands Vigilance"
+  },
+  "https://www.darkreading.com/application-security/vulnerable-vendors-training-apps": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1a38301417577ff6/696fdba1861a82bb5f3d2803/Folder-C._Fish_Images-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-21T14:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "'Damn Vulnerable' Training Apps Leave Vendors' Clouds Exposed Hackers are already leveraging these over-permissioned programs to access the IT systems of major security vendors.",
+    "title": "'Damn Vulnerable' Training Apps Leave Vendors' Clouds Exposed"
   },
   "https://www.darkreading.com/cloud-security/attackers-use-stolen-aws-credentials-cryptomining": {
     "categories": [],
@@ -9817,6 +10040,15 @@
     "source": "darkreading",
     "summary": "Cloudflare Blames Outage on Internal Configuration Error Initially though to be a DDoS attack, the incident was actually due to a routine change in permissions that caused widespread software failure.",
     "title": "Cloudflare Blames Outage on Internal Configuration Error"
+  },
+  "https://www.darkreading.com/cyber-risk/contagious-interview-attack-delivers-backdoor": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb13d116be7eae67d/697144598b39d0886e68e922/jobscam_Stokkete_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-21T22:00:37+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "'Contagious Interview' Attack Now Delivers Backdoor Via VS Code Once trust is granted to the repository's author, a malicious app executes arbitrary commands on the victim's system with no other user interaction.",
+    "title": "'Contagious Interview' Attack Now Delivers Backdoor Via VS Code"
   },
   "https://www.darkreading.com/cyber-risk/cto-new-year-resolutions-for-a-more-secure-2026": {
     "categories": [],
@@ -11301,6 +11533,15 @@
     "source": "darkreading",
     "summary": "Researchers Use Poetry to Jailbreak AI Models When prompts were presented in poetic rather than prose form, attack success rates increased from 8% to 43%, on average \u2014 a fivefold increase.",
     "title": "Researchers Use Poetry to Jailbreak AI Models"
+  },
+  "https://www.darkreading.com/threat-intelligence/voidlink-linux-malware-ai": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1880c47c131e8c5/6970bd763974e86f534678e3/AI(1800)_NicoElNino_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-21T14:48:15+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Complex VoidLink Linux Malware Created by AI Researchers say the advanced framework was built almost entirely by agents, marking a significant evolution in the use of AI to develop wholly original malware.",
+    "title": "Complex VoidLink Linux Malware Created by AI"
   },
   "https://www.darkreading.com/threat-intelligence/whatsapp-eternidade-trojan-self-propagates-brazil": {
     "categories": [],
