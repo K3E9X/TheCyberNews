@@ -2615,6 +2615,15 @@
     "summary": "Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers Users of the \"@adonisjs/bodyparser\" npm package are being advised to update to the latest version following the disclosure of a critical security vulnerability that, if successfully exploited, co\u2026",
     "title": "Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers"
   },
+  "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgswkkor42PbpMA2JvEug_zR_BOp1L3DrLlZ8GqcxlJchqNGqZZT7ndgNE51CVPI5YEhi1js3MsyDOYVmA19EKWA330OszynMa9IJpHJzDXtZ3iET5VPrCkCZHOZ2jhnV114UijsA4b2tgGiT8XBD7eRpZ9Su9UAYy-ay9qsmrysuw-v3KOIJkkhCXjStP7/s1600/linux-unix.jpg",
+    "published": "2026-01-22T16:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access A critical security flaw has been disclosed in the GNU InetUtils telnet daemon (telnetd) that went unnoticed for nearly 11 years.\nThe vulnerability, tracked as CVE-2026-24061, is rated 9.8 out of\u2026",
+    "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access"
+  },
   "https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRmvh_VGQV3SHDgFZ8xqgyEkPWUl7nJQ9sCacu3z2jU7lgI8brolO60urOgFHXiKeiia-DbnqD68GCnaK7NvmOiAGHRAEMqIud07DMQtT-8Fz7T7YuQXztiCFKpjcga_4klOnWBbTMA3-O8blyLt_roer7z66yEQ_tFFR3XEZn42Y2tC7jLcFk6mLyH6FK/s1600/n8n-flaw.jpg",
@@ -2704,6 +2713,15 @@
     "source": "The Hacker News",
     "summary": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing The U.S. Federal Bureau of Investigation (FBI) on Thursday released an advisory warning of North Korean state-sponsored threat actors leveraging malicious QR codes in spear-phishing campaigns targeting enti\u2026",
     "title": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing"
+  },
+  "https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjppNAJYCOHh4mqdL3GuJ4elABk4wn-ciw9V6oYuZ8Sdb0LllyS_YRl6YXX-I_eaMDcVG8Zt9X42HbFVlmEb0umu4D4nelT-qOpG7ZtYSz0t-wbngKFalwdDHW4VHUlNXfMUswtSCx4WptHTAoKHJo94vWXVjSq4cGRP4FyN1P35n8dc8_dl-2yi3jFePU/s1600/main.png",
+    "published": "2026-01-22T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Filling the Most Common Gaps in Google Workspace Security Security teams at agile, fast-growing companies often have the same mandate: secure the business without slowing it down. Most teams inherit a tech stack optimized for breakneck growth, not resilience. In these environment\u2026",
+    "title": "Filling the Most Common Gaps in Google Workspace Security"
   },
   "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html": {
     "categories": [],
@@ -2840,6 +2858,15 @@
     "summary": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available \u2026",
     "title": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool"
   },
+  "https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWCefYaSp9ssGTQkdK58gL2QbQurY3rXLBGBTEC2hXq1qGh88LxThrqrtejW9sVCnoXsrwoAZQwlbdrwOl-O0fEz509vXrbK235fZ0tl9iPWgiKBJt49PqTRB6uu_ZDyeaMl6F6zqfVmJFw8PU4e8-0MgYh-qxJpn1xRcLN9NfnQQ_X47nJxdz3N47s3z8/s1600/pypi-cryptocurrency-malware.jpg",
+    "published": "2026-01-22T10:04:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts A new malicious package discovered in the Python Package Index (PyPI) has been found to impersonate a popular library for symbolic mathematics to deploy malicious payloads, including a cryptocurrency mi\u2026",
+    "title": "Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts"
+  },
   "https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd1UzTU9iJxk97BH-xsazSYv5S_gP8HFp479Wqwm0Ymvk5m75SNtzqiQqEpXQAyhENUGfRtp8imo96TaRdXSfRrBpbnBtsWFOoYApGx_vghD9mn1aHaswGlIwBh-_loU9jS9WKGuWDI1PryeE_RHDCOAEIFRzO3Pob5LO_BqIZz-bWW0sGWlOVWQbIzZlL/s1600/ms.jpg",
@@ -2929,6 +2956,15 @@
     "source": "The Hacker News",
     "summary": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the \u2026",
     "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands"
+  },
+  "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYzbCMSUAN1p1M0CnYPBeFVA3mYmKz-XYLo2R-0OUmaSxvarUieSUkbxkOexloc74_koPBcfuIcHXj2taolqWDe8nhE4Uo8maY_rioqDFiWgi9OWuQseJ5VLk4nf74YzkJ1nPf2sQlFyNBbHMktJ7Fe7XbJbJJa-Viv28SJ28jmrceB3dSGpVNIQbS8UYZ/s1600/ransomware.jpg",
+    "published": "2026-01-22T18:00:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack Cybersecurity researchers have disclosed details of a new ransomware family called Osiris that targeted a major food service franchisee operator in Southeast Asia in November 2025.\nThe attack leverag\u2026",
+    "title": "New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack"
   },
   "https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html": {
     "categories": [],
@@ -3083,6 +3119,15 @@
     "summary": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow artificial intelligence (AI) Platform that could enable an unauthenticated user to impersonat\u2026",
     "title": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation"
   },
+  "https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfzCM1c0lJOZ7pXEcdXTXGEeNzq845Kr3uoQe6p2pY1l062KKPqAvTiQmrHDY-3IVIsFlQHtm1YYOWCAEPeuDJeY2N7qYX3C02Qh4dfd56mUj20ChkMEAGb_nl9vymqoCGmUriGCMHCZAT4fO0MzL4mi0vKxc9rSz4ythSpJOJlEBEXXNU35Ziz-M-Oa0k/s1600/SmarterTools-exploit.jpg",
+    "published": "2026-01-22T09:46:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release A new security flaw in SmarterTools SmarterMail email software has come under active exploitation in the wild, two days after the release of a patch.\nThe vulnerability, which currently does not have a CVE \u2026",
+    "title": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release"
+  },
   "https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkiUvCH8FmVQqzbY2bGi6CJGsbrnr5MZ3rJH6vFxhyIAeuPvl-sx7ZUtjbaIbfJMjZkpHRYY8d2GBtobRF8W8JAinRMQ1JImmAKzS696J2gkYBuXFkkh1Hi0VLFVx9ARSlEPD-52BAZDGWD2QcCRQvOXmbDAycx4zRbULCNCcBUgG2sP6YSzQshZdbKRs/s1600/non-human-employees.jpg",
@@ -3145,6 +3190,15 @@
     "source": "The Hacker News",
     "summary": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories The first ThreatsDay Bulletin of 2026 lands on a day that already feels symbolic \u2014 new year, new breaches, new tricks. If the past twelve months taught defenders anything, it\u2019s that \u2026",
     "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories"
+  },
+  "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxksXhijxqjYwcb5PYwnxnKJNyjVua9KXaVRMA_0sM5ZHkPM3mJ7S8PrniWhDhPQxjS1IL-okMbEHzBHFXApE0fGUY_dOSBYGbXoD6mDeg2YLOyjqZthPP_wYdmLOfIEsMSOAoMyJiBoAcyAPxXHUGgBl6epepPYmX40YCIW42pue9MuAQi3C_yrv5S_c4/s1600/threatsday.jpg",
+    "published": "2026-01-22T14:23:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories Most of this week\u2019s threats didn\u2019t rely on new tricks. They relied on familiar systems behaving exactly as designed, just in the wrong hands. Ordinary files, routine services, and tru\u2026",
+    "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories"
   },
   "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html": {
     "categories": [],
@@ -4484,6 +4538,18 @@
     "summary": "Microsoft Teams strengthens messaging security by default in January Microsoft Teams will automatically enable messaging safety features by default in January to strengthen defenses against content tagged as malicious. [...]",
     "title": "Microsoft Teams strengthens messaging security by default in January"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-add-brand-impersonation-warnings-to-calls/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-22T16:28:47+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Teams to add brand impersonation warnings to calls Microsoft will soon add new fraud protection features to Teams calls, warning users about external callers who attempt to impersonate trusted organizations in social engineering attacks. [...]",
+    "title": "Microsoft Teams to add brand impersonation warnings to calls"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-admins-block-external-users-via-defender-portal/": {
     "categories": [
       "Microsoft"
@@ -4594,6 +4660,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft to secure Entra ID sign-ins from script injection attacks Starting in mid-to-late October 2026, Microsoft will enhance the security of the Entra ID authentication system against external script injection attacks. [...]",
     "title": "Microsoft to secure Entra ID sign-ins from script injection attacks"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-notepad-and-paint-with-more-ai-features/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-01-22T14:22:23+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft updates Notepad and Paint with more AI features Microsoft is rolling out new artificial intelligence features with the latest updates to the Notepad and Paint apps for Windows 11 Insiders. [...]",
+    "title": "Microsoft updates Notepad and Paint with more AI features"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/": {
     "categories": [
@@ -5833,6 +5910,17 @@
     "summary": "Cryptocurrency theft attacks traced to 2022 LastPass breach Blockchain investigation firm TRM Labs says ongoing cryptocurrency thefts have been traced to the 2022 LastPass breach, with attackers draining wallets years after encrypted vaults were\u00a0stolen and laundering the crypto t\u2026",
     "title": "Cryptocurrency theft attacks traced to 2022 LastPass breach"
   },
+  "https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-22T19:01:36+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Curl ending bug bounty program after flood of AI slop reports The developer of the popular curl command-line utility and library announced that the project will end its HackerOne security bug bounty program at the end of this month, after being overwhelmed by low-quality AI-gener\u2026",
+    "title": "Curl ending bug bounty program after flood of AI slop reports"
+  },
   "https://www.bleepingcomputer.com/news/security/cyber-theory-vs-practice-are-you-navigating-with-faulty-instruments/": {
     "categories": [
       "Security"
@@ -6836,6 +6924,17 @@
     "summary": "Hackers are exploiting ArrayOS AG VPN flaw to plant webshells Threat actors have been exploiting a command injection vulnerability in Array AG Series VPN devices to plant webshells and create rogue users. [...]",
     "title": "Hackers are exploiting ArrayOS AG VPN flaw to plant webshells"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-22T11:49:12+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers breach Fortinet FortiGate devices, steal firewall configs Fortinet FortiGate devices are being targeted in automated attacks that create rogue accounts and steal firewall configuration data,\u00a0according to cybersecurity company Arctic Wolf. [...]",
+    "title": "Hackers breach Fortinet FortiGate devices, steal firewall configs"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/": {
     "categories": [
       "Security"
@@ -6858,6 +6957,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers drain $3.9M from Unleash Protocol after multisig hijack The decentralized intellectual property platform Unleash Protocol has lost around $3.9 million\u00a0worth of cryptocurrency after someone executed an unauthorized contract upgrade that allowed asset withdrawals. [...]",
     "title": "Hackers drain $3.9M from Unleash Protocol after multisig hijack"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-22T12:30:30+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit 29 zero-days on second day of Pwn2Own Automotive Hackers collect $439,250 after exploiting 29 zero-day vulnerabilities on the second day of Pwn2Own Automotive 2026. [...]",
+    "title": "Hackers exploit 29 zero-days on second day of Pwn2Own Automotive"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-flaw-in-jobmonster-wordpress-theme/": {
     "categories": [
@@ -7137,6 +7247,17 @@
     "source": "BleepingComputer",
     "summary": "In 2026, Hackers Want AI: Threat Intel on Vibe Hacking & HackGPT Cybercriminals are increasingly using AI to lower the barrier to entry for fraud and hacking, shifting from skill-based to AI-assisted attacks known as \"vibe hacking.\" Flare examines how underground forums promote A\u2026",
     "title": "In 2026, Hackers Want AI: Threat Intel on Vibe Hacking & HackGPT"
+  },
+  "https://www.bleepingcomputer.com/news/security/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-22T16:21:17+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "INC ransomware opsec fail allowed data recovery for 12 US orgs An operational security failure allowed researchers to recover data that the INC ransomware\u00a0gang stole from a dozen U.S. organizations. [...]",
+    "title": "INC ransomware opsec fail allowed data recovery for 12 US orgs"
   },
   "https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/": {
     "categories": [
@@ -8140,6 +8261,17 @@
     "summary": "\u2018We got hacked\u2019 emails threaten to leak University of Pennsylvania data The University of Pennsylvania suffered a cybersecurity incident on Friday, where students and alumni received a series of offensive emails from various University email addresses, claiming that data was stol\u2026",
     "title": "\u2018We got hacked\u2019 emails threaten to leak University of Pennsylvania data"
   },
+  "https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-22T21:43:43+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Okta SSO accounts targeted in vishing-based data theft attacks Okta is warning about custom phishing kits built specifically for voice-based social engineering (vishing) attacks. BleepingComputer has learned that these kits are being used in active attacks to steal Okta SSO crede\u2026",
+    "title": "Okta SSO accounts targeted in vishing-based data theft attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/ongoing-soundcloud-issue-blocks-vpn-users-with-403-server-error/": {
     "categories": [
       "Security"
@@ -8778,6 +8910,17 @@
     "source": "BleepingComputer",
     "summary": "Six for 2026: The cyber threats you can\u2019t ignore Cybersecurity threats in 2026 are accelerating, driven by AI, automation, and more effective social engineering. Corelight outlines six emerging attack trends and explains how network visibility can help defenders respond faster. [\u2026",
     "title": "Six for 2026: The cyber threats you can\u2019t ignore"
+  },
+  "https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-22T18:44:21+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "SmarterMail auth bypass flaw now exploited to hijack admin accounts Hackers began exploiting an authentication bypass vulnerability in SmarterTools' SmarterMail email server and collaboration tool that allows resetting admin passwords. [...]",
+    "title": "SmarterMail auth bypass flaw now exploited to hijack admin accounts"
   },
   "https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/": {
     "categories": [
@@ -9518,6 +9661,17 @@
     "summary": "Why a secure software development life cycle is critical for manufacturers Recent supply-chain breaches show how attackers exploit development tools, compromised credentials, and malicious NPM packages to infiltrate manufacturing and production environments. Acronis explains why \u2026",
     "title": "Why a secure software development life cycle is critical for manufacturers"
   },
+  "https://www.bleepingcomputer.com/news/security/why-active-directory-password-resets-are-surging-in-hybrid-work/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-22T15:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Why Active Directory password resets are surging in hybrid work Hybrid work has driven a surge in Active Directory password resets, turning minor lockouts into major productivity drains. Specops shows why remote access, cached credentials, and security policies are fueling the sp\u2026",
+    "title": "Why Active Directory password resets are surging in hybrid work"
+  },
   "https://www.bleepingcomputer.com/news/security/why-password-controls-still-matter-in-cybersecurity/": {
     "categories": [
       "Security"
@@ -9687,6 +9841,15 @@
     "source": "darkreading",
     "summary": "150,000 Packages Flood NPM Registry in Token Farming Campaign A self-replicating attack led to a tidal wave of malicious packages in the NPM registry, targeting tokens for the tea.xyz protocol.",
     "title": "150,000 Packages Flood NPM Registry in Token Farming Campaign"
+  },
+  "https://www.darkreading.com/application-security/ai-agents-undermine-progress-browser-security": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt05f9484bdbd89092/696f9c401e442fefa13cbee5/no-entry-sign-CoreRock-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-21T23:06:50+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI Agents Undermine Progress in Browser Security Web browser companies have put in substantial effort over the past three decades to strengthen the browser security stack against abuses. Agentic browsers are undoing all that work.",
+    "title": "AI Agents Undermine Progress in Browser Security"
   },
   "https://www.darkreading.com/application-security/ai-attack-surface-agents-cyber-stakes": {
     "categories": [],
@@ -9962,6 +10125,15 @@
     "summary": "Fake AI Chrome Extensions Steal 900K Users' Data Threat actors ripped off a legitimate AI-powered Chrome extension in order to harvest ChatGPT and DeepSeek data before sending it to a C2 server.",
     "title": "Fake AI Chrome Extensions Steal 900K Users' Data"
   },
+  "https://www.darkreading.com/cloud-security/fortinet-firewalls-malicious-configuration-changes": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdccaab3067412d8a/6972857f6cb6e632cf392d4c/firewall_Skorzewiak_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-22T21:18:42+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Fortinet Firewalls Hit With Malicious Configuration Changes Automated infections of potentially fully patched FortiGate devices are allowing threat actors to steal firewall configuration files.",
+    "title": "Fortinet Firewalls Hit With Malicious Configuration Changes"
+  },
   "https://www.darkreading.com/cloud-security/google-gemini-flaw-calendar-invites-attack-vector": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt433da4a9f9b25cbe/696f6a079d56b585438debf1/Deemerwha_studio-AI-tools-shutterstock.png?width=1280&auto=webp&quality=80&disable=upscale",
@@ -10023,6 +10195,15 @@
     "source": "darkreading",
     "summary": "AI Agents Are Going Rogue: Here's How to Rein Them In Human-centered identity frameworks are incorrectly being applied to AI agents, creating the potential for catastrophe at machine speed, Poghosyan argues.",
     "title": "AI Agents Are Going Rogue: Here's How to Rein Them In"
+  },
+  "https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt70c2ac1b79b49742/697283ecb23c6f9776d4c9bb/Yutong-Cynthia_Lee-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-22T22:13:49+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Risky Chinese Electric Buses Spark Aussie Gov't Review Deployed across Australia and Europe, China's electric buses are vulnerable to cybercriminals and sport a virtual kill switch the Chinese state could activate.",
+    "title": "Risky Chinese Electric Buses Spark Aussie Gov't Review"
   },
   "https://www.darkreading.com/cyber-risk/ciso-succession-crisis-highlights-turnover-amplifies-security-risks": {
     "categories": [],
@@ -10143,6 +10324,15 @@
     "source": "darkreading",
     "summary": "Industry Continues to Push Back on HIPAA Security Rule Overhaul Healthcare cyberattacks are on the rise, but industry organizations say the proposed changes to the security rules fall short of what's needed.",
     "title": "Industry Continues to Push Back on HIPAA Security Rule Overhaul"
+  },
+  "https://www.darkreading.com/cyber-risk/latin-american-confidence-cyber-defenses-skills": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt033f92837dcc1245/6972332ad31c5ff864e529c3/latin-america-digital-cyber-vectorfusionart-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-22T16:05:18+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Latin American Orgs Lack Confidence in Cyber Defenses, Skills Cybersecurity professionals in Latin America are least likely to have faith in their countries' preparedness for cyberattacks on critical infrastructure, the World Economic Forum says.",
+    "title": "Latin American Orgs Lack Confidence in Cyber Defenses, Skills"
   },
   "https://www.darkreading.com/cyber-risk/microsoft-exchange-under-imminent-threat-act-now": {
     "categories": [],
@@ -10785,6 +10975,15 @@
     "summary": "Enterprises Gear Up for 2026\u2019s IT Transformation Experts predict big changes are coming for IT infrastructure in 2026 driven by AI adoption, hybrid cloud strategies, and evolving security demands.",
     "title": "Enterprises Gear Up for 2026\u2019s IT Transformation"
   },
+  "https://www.darkreading.com/cybersecurity-operations/europe-frets-about-overreliance-on-us-tech": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt29b82f05f8faa5ce/69728312a3f34533d10c708a/business_man_and_bullhorn_Gabriel_Blaj_Alamy_Stock_Photo.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-22T18:09:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "From a Whisper to a Scream: Europe Frets About Overreliance on US Tech Concern is growing across Europe about relying on US cybersecurity companies, and Greenland takeover talk is eroding trust across the EU even further.",
+    "title": "From a Whisper to a Scream: Europe Frets About Overreliance on US Tech"
+  },
   "https://www.darkreading.com/cybersecurity-operations/gen-z-cybersecurity-jury-out-ai-impact": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt903df1c6b19686d9/6925deaff3543b29df29d8ee/genz-Mirko_Vitali-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -10996,6 +11195,15 @@
     "source": "darkreading",
     "summary": "CrowdStrike to Buy SGNL to Expand Identity Security Capabilities The CrowdStrike-SGNL deal underscores how identity security has become a critical component of enterprise cybersecurity as companies add cloud services and deploy AI-driven tools.",
     "title": "CrowdStrike to Buy SGNL to Expand Identity Security Capabilities"
+  },
+  "https://www.darkreading.com/endpoint-security/dprk-vs-code-tunnels-remote-hacking": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd00cfa47e3809f89/69721587b56a7279a9fc182c/northkorea_DD_Images_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-22T14:05:11+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "DPRK Actors Deploy VS Code Tunnels for Remote Hacking A spear-phishing campaign tied to the Democratic People's Republic of Korea (DPRK) uses trusted Microsoft infrastructure to avoid detection.",
+    "title": "DPRK Actors Deploy VS Code Tunnels for Remote Hacking"
   },
   "https://www.darkreading.com/endpoint-security/phishing-tool-smart-redirects-bypass-email-security": {
     "categories": [],
