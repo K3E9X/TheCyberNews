@@ -2525,6 +2525,15 @@
     "summary": "China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines Chinese-speaking threat actors are suspected to have leveraged a compromised SonicWall VPN appliance as an initial access vector to deploy a VMware ESXi exploit that may have been developed as far back \u2026",
     "title": "China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines"
   },
+  "https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAS4r1YmdF-kqL3YwcAZAYsspwp0KB3XNknsYwmjR5YrXgNy956NSjgc3-RacAnCgT56dkPCBNRZfrbw18N2JfGMkd2ZFTRIqVxdjsNe2P5akQ56kpc5nplK8KPy-9TLEDycjb2QZrBqhEL-4jEL9upEN0CAvvkJYyEdNqCPicbPScEfmTIyPleWeUCP35/s1600/vmware.jpg",
+    "published": "2026-01-24T08:09:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw affecting Broadcom VMware vCenter Server that was patched in June 2024 to its Known Exploited V\u2026",
+    "title": "CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog"
+  },
   "https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga4BuY0cfkZtUBEs_clNF6tMFR1KPmYrO-dUbtA75BQSRTRHiV294UlhyHIcAHpTJd9iQVHEF4oDBCal-yAZvcRPofh22MzIqcyEA-JA2C1syuAiWdspPmKG6f1Hrr_kOdcg0PLHh75t9x1-ubtcj_QhpA5g5nHkZEkG58dGFGBuzaZ0DJgVG6AWwjV2J8/s1600/cisa.jpg",
@@ -2939,6 +2948,15 @@
     "summary": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors The Iranian threat actor known as MuddyWater has been attributed to a spear-phishing campaign targeting diplomatic, maritime, financial, and telecom entities in the Middle East with a Rust-based impl\u2026",
     "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors"
   },
+  "https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipVK-eTPu0vfv8p-slHnoh8LJka5_l-zmd82fTCO2rB8yxGFPRArabSzbI5LWzMskPr6UWf79uQ9fiHvVzY7eDB0Kj0cQIFZQEVSYJv-2nhqZJeNdnlZTp_I3e3tDePl7El94WvXFz4U-alGCONeTaxYRGWUNxhY1L0Osoq2hgl3pUghnPGbc5YK-XVVLj/s1600/github-chain.jpg",
+    "published": "2026-01-24T11:09:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware A new multi-stage phishing campaign has been observed targeting users in Russia with ransomware and a remote access trojan called Amnesia RAT.\n\"The attack begins with social engineering lures delivered v\u2026",
+    "title": "Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware"
+  },
   "https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN2wvrCTGv4Grbd3bv9DT4hUFuTCDt4Wlec_AQ5mYNiWEp2Kze4dSC56p123i08vZnmWNVBd9EZpcVnBdcN-VGShQYmQdDrgaZ6YshND2_s_ZB4S6Aml_tBIURWmvGI9ixZnXKiQMa62wQydWFKhMWVw6Z8S3nT3KlNPA0uJPFQBUPldUirfSu5UmRKJbY/s1600/n8n-supply-chain.jpg",
@@ -2965,6 +2983,15 @@
     "source": "The Hacker News",
     "summary": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments Cybersecurity researchers have disclosed details of a previously undocumented and feature-rich malware framework codenamed VoidLink that's specifically designed for long-term, stealthy access to Linux-ba\u2026",
     "title": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments"
+  },
+  "https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnjp5lsaWHKXcLJl4fjk6nW0R-oXfuin3AicaKqzCuMbG95h-qptbJ2_ZnnR6L2eMfHJLpu3K6fhX2ZThB3P6nThiinK6BBb7TPjGNe5-cBpS_oVOeHaZfjSZxRuFsqQzuTfAXRV68uVyw-7KW_f2gFiL0XZBkGpYO0H-IxVDZd3EKtGiyuEpZZ_3FdPSb/s1600/powerplant.jpg",
+    "published": "2026-01-24T08:21:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector The Russian nation-state hacking group known as Sandworm has been attributed to what has been described as the \"largest cyber attack\" targeting Poland's power system in the last week of December 2025.\n\u2026",
+    "title": "New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector"
   },
   "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html": {
     "categories": [],
@@ -3415,6 +3442,15 @@
     "source": "The Hacker News",
     "summary": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging Cybersecurity researchers have disclosed details of a new campaign that uses WhatsApp as a distribution vector for a Windows banking trojan called Astaroth in attacks targeting Brazil.\nThe camp\u2026",
     "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging"
+  },
+  "https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW0YdKx3Mn8l9PzpwwxmdeBP5kgWuc5R4LevYs6tP-J1z5nSZcdE16En4Z9Ad89VIFR_f3qxeM-vMtgvfOTPxyoZV8H5Dcaj4WlXB2tmh9NG6vGLY7jfD7CyToCKJ_BHVMkkR2kcJdo6yZhIS-RiV3yVyBUHZcVrodWp4wDHdT1phfyZFDifLQnaqiXBc/s1600/wing.jpg",
+    "published": "2026-01-24T08:20:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents AI agents are accelerating how work gets done. They schedule meetings, access data, trigger workflows, write code, and take action in real time, pushing productivity beyond human speed ac\u2026",
+    "title": "Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents"
   },
   "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html": {
     "categories": [],
@@ -4492,6 +4528,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Recent Windows updates break VPN access for WSL users Microsoft says that recent Windows 11 security updates are causing VPN networking failures for enterprise users running Windows Subsystem for Linux. [...]",
     "title": "Microsoft: Recent Windows updates break VPN access for WSL users"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-01-25T01:59:15+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft releases emergency OOB update to fix Outlook freezes Microsoft has released emergency, out-of-band updates on Saturday for Windows 10, Windows 11, and Windows Server to fix an issue that prevented Microsoft Outlook classic from opening when using PSTs stored in cloud st\u2026",
+    "title": "Microsoft releases emergency OOB update to fix Outlook freezes"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-kb5068781-the-first-windows-10-extended-security-update/": {
     "categories": [
@@ -7502,6 +7549,17 @@
     "summary": "Kimwolf Android botnet abuses residential proxies to infect internal devices The Kimwolf botnet, an Android variant of the Aisuru malware, has grown to more than two million hosts, most of them infected by exploiting vulnerabilities in residential proxy networks to target devices\u2026",
     "title": "Kimwolf Android botnet abuses residential proxies to infect internal devices"
   },
+  "https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-24T15:23:46+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Konni hackers target blockchain engineers with AI-built malware The North Korean hacker group Konni (Opal Sleet, TA406) is using AI-generated PowerShell malware to target developers and engineers in the blockchain sector. [...]",
+    "title": "Konni hackers target blockchain engineers with AI-built malware"
+  },
   "https://www.bleepingcomputer.com/news/security/korea-arrests-suspects-selling-intimate-videos-from-hacked-ip-cameras/": {
     "categories": [
       "Security",
@@ -8907,6 +8965,17 @@
     "source": "BleepingComputer",
     "summary": "Crypto mixer founders sent to prison for laundering over $237 million The founders of the Samourai Wallet (Samourai) cryptocurrency mixing service have been sent to prison for helping criminals launder over $237 million. [...]",
     "title": "Crypto mixer founders sent to prison for laundering over $237 million"
+  },
+  "https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-24T21:58:42+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Sandworm hackers linked to failed wiper attack on Poland\u2019s energy systems A cyberattack targeting Poland's power grid in late December 2025 has been linked to the Russian state-sponsored hacking group Sandworm, which attempted to deploy a new destructive data-wiping malware dubbe\u2026",
+    "title": "Sandworm hackers linked to failed wiper attack on Poland\u2019s energy systems"
   },
   "https://www.bleepingcomputer.com/news/security/sandworm-hackers-use-data-wipers-to-disrupt-ukraines-grain-sector/": {
     "categories": [
@@ -10420,6 +10489,15 @@
     "summary": "New Tech Deployments That Cyber Insurers Recommend for 2026 An analysis of cyber-insurance claims data shows which cyber defenses actually work for policyholders. Here are six technologies that will pay off for companies in 2026.",
     "title": "New Tech Deployments That Cyber Insurers Recommend for 2026"
   },
+  "https://www.darkreading.com/cyber-risk/gcve-raises-concerns-fragmentation-vulnerability-database": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte5eb6cc965064e57/679fd0cc104604191eb4e7cb/Vulnerability_(1800)_Cagkan_Sayin_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-23T20:31:58+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Europe's GCVE Raises Concerns Over Fragmentation in Vulnerability Databases GCVE would enhance global collaboration, flexibility, and efficiency in tracking security flaws. Duplicate entries and a decentralization policy may create more chaos for defenders.",
+    "title": "Europe's GCVE Raises Concerns Over Fragmentation in Vulnerability Databases"
+  },
   "https://www.darkreading.com/cyber-risk/grandparents-to-c-suite-elder-fraud-reveals-gaps-in-human-centered-cybersecurity": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1cd670312c015de5/69136ba5b7f0b78a2e2f575e/olderstudents-Milan_Ilic-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -10583,6 +10661,15 @@
     "source": "darkreading",
     "summary": "Venezuelan Oil Company Downplays Alleged US Cyberattack But media reports described the attack as causing major disruption to PDVSA, the state-owned oil and natural gas company.",
     "title": "Venezuelan Oil Company Downplays Alleged US Cyberattack"
+  },
+  "https://www.darkreading.com/cyber-risk/wake-up-call-to-protect-human-decisions-not-just-systems": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf650f1c3fb943113/69756c36a578c70307784492/whack-mole-Gabe-Palmer-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-24T00:55:56+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "2025 Was a Wake-Up Call to Protect Human Decisions, Not Just Systems Cybersecurity must shift from solely protecting systems to safeguarding human decision-making under uncertainty and system failures.",
+    "title": "2025 Was a Wake-Up Call to Protect Human Decisions, Not Just Systems"
   },
   "https://www.darkreading.com/cyber-risk/why-an-engineering-focused-ciso-can-be-a-liability": {
     "categories": [],
