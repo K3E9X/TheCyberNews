@@ -2507,6 +2507,15 @@
     "summary": "China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions A threat actor likely aligned with China has been observed targeting critical infrastructure sectors in North America since at least last year.\nCisco Talos, which is tracking the activity under the\u2026",
     "title": "China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions"
   },
+  "https://thehackernews.com/2026/01/china-linked-hackers-have-used.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy5RzwPMRj7i78zsLQinlntZrTjk6KP4CdBUnLfoumPUoYEQV_9WrqrB-5EKXD_vxcZSEDlUqb2zaHZ0tf90W9QL8lWPLCWdjZ2jhYmzIlsNSI_1HEDKiFom8VdHK_jjRz7JZWebAXTXHkVgMFto-WkrlFuCgaoU6mo871w3hP5vG0Alg3A4VmVScWjCW-/s1600/chinese-hackers.jpg",
+    "published": "2026-01-27T09:01:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023 Cybersecurity researchers have discovered a JScript-based command-and-control (C2) framework called PeckBirdy that has been put to use by China-aligned APT actors since 2023 to target multiple environ\u2026",
+    "title": "China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023"
+  },
   "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIuo2qB5l6db9QikPiuSfBft9oeKf1XAw3ncOyYjA2V34TZdm8KZKAARqUi9GffvgaVZGqlGFw9Ntj0t-sRzWuOL-OOngT2MeB1at04yfHwaT72o6QFRtnJkwczGdrv_F9snu9cBoNjn9hJ1XjbTdgNSJFIGXxzMbR34LELEqMXZ_s_jZS3oXSCnmS3GQY/s1600/telecom-hack.jpg",
@@ -2597,6 +2606,15 @@
     "summary": "Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways Cisco on Thursday released security updates for a maximum-severity security flaw impacting Cisco AsyncOS Software for Cisco Secure Email Gateway and Cisco Secure Email and Web Manager, nearly a mont\u2026",
     "title": "Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways"
   },
+  "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW6W_rux-XGbdn40S_idHK9NuIPQ9Apvc-2JZAvLaHngDYeb5gvSFLF0A4Fds4fpAZqOdeavVBdL0mpSYS3uuIZ7x_w4cdViWRc8e8SoHUkCcfrTxWCm-i8-g63Xn7wgF3IEs21EWyAYn3m719zUh66sCrVOjCaKNJrkoI6q_LwayxogECmwHCKjQS-HO6/s1600/clickfix.jpg",
+    "published": "2026-01-27T14:38:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services Cybersecurity researchers have disclosed details of a new campaign that combines ClickFix-style fake CAPTCHAs with a signed Microsoft Application Virtualization (App-V) script to distribute a\u2026",
+    "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services"
+  },
   "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFMNWyLouRnOIXsad4n8lgA97dY7GEYeVjCrVWqYokwEg-es4kDCyjPCwEKZ_q0LCOCjcufDbeBu-O_aJIuKYu6IY2g9ZMoMMxhkYgCWlsjeIA0ByqwBVJX-HaF_G3oNlBuUWsTk5b4K35K60lUrjrWQ-dhMtEymdsWX84cuPUERd5balmQJMZQqsfKhnu/s1600/acme.jpg",
@@ -2642,6 +2660,15 @@
     "summary": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access A critical security flaw has been disclosed in the GNU InetUtils telnet daemon (telnetd) that went unnoticed for nearly 11 years.\nThe vulnerability, tracked as CVE-2026-24061, is rated 9.8 out of\u2026",
     "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access"
   },
+  "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvRey8657FAMdnIBTkgIYsOw5_q9LqFajseJ0AJPHyOUuNvZzxliNLuREO1z8j0AorIgW91Jqg6wLwb5QvqZvz2er7S-RL2zFXeBK2EpMm6pf_6JY8kcVmDAXjzwbbOtykq_j2It-oRb_Qkojl4Zh4WSVcwDNBsrU_N6pxycV0RYBT5ftvED7onxcA_qkL/s1600/grist-main.jpg",
+    "published": "2026-01-27T10:36:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas A critical security flaw has been disclosed in Grist\u2011Core, an open-source, self-hosted version of the Grist relational spreadsheet-database, that could result in remote code execution.\nThe vulnerability\u2026",
+    "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas"
+  },
   "https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRmvh_VGQV3SHDgFZ8xqgyEkPWUl7nJQ9sCacu3z2jU7lgI8brolO60urOgFHXiKeiia-DbnqD68GCnaK7NvmOiAGHRAEMqIud07DMQtT-8Fz7T7YuQXztiCFKpjcga_4klOnWBbTMA3-O8blyLt_roer7z66yEQ_tFFR3XEZn42Y2tC7jLcFk6mLyH6FK/s1600/n8n-flaw.jpg",
@@ -2668,6 +2695,15 @@
     "source": "The Hacker News",
     "summary": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.\nThe vulnerability, tracked as CVE-2026-23550 (CVSS s\u2026",
     "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access"
+  },
+  "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWEyUd1th0A_7Xrd7TRNZgue6HQe_wsQebBCFx7I9UVXc5U-OUOjCujgMmp8kl7_rA3imZvOVLcm4DL61rJemNLfmJoelFuUT2sjMSjUq2hupwoc7yzOVvIMDMdRAs6skQA39eCNXEoQ6Csz0duZlvqf8Oau0WblLZXzfDbojCCWU7XKzWIgXcqRkJ9iU/s1600/ctem.jpg",
+    "published": "2026-01-27T11:50:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It\u2019s not only about what could go wrong (vulnerabilities) or who might attack (threats), but where they\u2026",
+    "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter"
   },
   "https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html": {
     "categories": [],
@@ -2704,6 +2740,15 @@
     "source": "The Hacker News",
     "summary": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft\u2026",
     "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto"
+  },
+  "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG612WfAM4qjKPdbLvz7i_kK0qgRz5Abg8pRz9uGc86pEQvuO-_83uNd8xC8e1y86mWhlTRL_PeWtgp2bfizGf8y78pp1xGYqoXJ9Q7ilpXG4lAS4MvNiiAMGf74PzFod56EJW9qq6P3afCB9IgTFGrbgu1EqnXVsly_I8clrUqdGReHfmEJtKUL09wV5m/s1600/attack.jpg",
+    "published": "2026-01-27T16:45:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities Indian government entities have been targeted in two campaigns undertaken by a threat actor that operates in Pakistan using previously undocumented tradecraft.\nThe campaigns have been codenamed Gop\u2026",
+    "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities"
   },
   "https://thehackernews.com/2026/01/exposure-assessment-platforms-signal.html": {
     "categories": [],
@@ -2767,6 +2812,15 @@
     "source": "The Hacker News",
     "summary": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution Fortinet has released updates to fix a critical security flaw impacting FortiSIEM that could allow an unauthenticated attacker to achieve code execution on susceptible instances.\nThe operating s\u2026",
     "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution"
+  },
+  "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJmyxNZ9ucHk0D1SWniVEbsc3BGO5xHxj-ZkFAuhPEz20iKmAoq5DXnvM38bp7RHdqrAGG9bYTc7QB_YajPP8GgRSzH9NGadnQ_vlm9W-GDuFJBG3WQI-2KTNyNIuaQZaTXxsisflH5Xmcsmq5jal0LVUZfRRvn8DW9ud-gMOHc2q6cyJWApCtUQ2Tpcly/s1600/fortinet.jpg",
+    "published": "2026-01-28T04:49:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected Fortinet has begun releasing security updates to address a critical flaw impacting FortiOS that has come under active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2026-2\u2026",
+    "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected"
   },
   "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html": {
     "categories": [],
@@ -2938,6 +2992,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms Microsoft has warned of a multi\u2011stage adversary\u2011in\u2011the\u2011middle (AitM) phishing and business email compromise (BEC) campaign targeting multiple organizations in the energy sector.\n\"The campaign abused \u2026",
     "title": "Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms"
+  },
+  "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVXdXkw2KW16Axf6p0n3iVGhXFH-cAv1j6egQSfKBoQ5IqWBuv3hFohISz_2vPIzQ9O4pxN6KpALsOXhkxBo5mGAtLabL5RsJpTvgCaWiZAsYo6SWB27isS1kvxmXQD2aUjU0-3AKk3FbKFTrzy79Urt7G3KhvYthGAujQodNbksuNmxMti97Os0ZcM9iJ/s1600/OFFICE.jpg",
+    "published": "2026-01-27T10:37:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation Microsoft on Monday issued out-of-band security patches for a high-severity Microsoft Office zero-day vulnerability exploited in attacks.\nThe vulnerability, tracked as CVE-2026-21509, carr\u2026",
+    "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation"
   },
   "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html": {
     "categories": [],
@@ -3470,6 +3533,15 @@
     "summary": "What Should We Learn From How Attackers Leveraged AI in 2025? Old Playbook, New Scale: While defenders are chasing trends, attackers are optimizing the basics\nThe security industry loves talking about \"new\" threats. AI-powered attacks. Quantum-resistant encryption. Zero-trust arc\u2026",
     "title": "What Should We Learn From How Attackers Leveraged AI in 2025?"
   },
+  "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSEqf3d7_s2ZXF98sYMqm8yXX33VRczEODYgiLAdEnxGSi6nvJPMS5KE69oow3jm3mJqW5Z4BE5SQ3oR8APXfdPFofQZvOBZDOntO8wFcQwOhjfjZ7-JI_xgiHK5hbs90kco4FKNXaxDw0qwMb_c2sSUi4Ne3-i_ZYUve2rT8-x0Ysv-HSP1Bxb8maU9EI/s1600/whatsapp-security.jpg",
+    "published": "2026-01-27T16:54:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware Meta on Tuesday announced it's adding Strict Account Settings on WhatsApp to secure certain users against advanced cyber attacks because of who they are and what they do.\nThe feature, similar t\u2026",
+    "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware"
+  },
   "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYFJO9rj-4g9MZUaHNkJ-OnOQ8chRQD9P0NwEU6-yh-_9eaNTNRTPn6Pozv7uJCpBVtgdE_OVgnpXiAtk-LwWFCcOPom8RjmrK1k-AYKXcC5kb72v0RtI6QFsfSngAzpFPIc9NiMUiGK3_DNnuxVDw-XChMMhCw40cBaa4F988REweIBKWk8TQGRfmHJhG/s1600/whatsapp-worm.jpg",
@@ -3981,6 +4053,18 @@
     "source": "BleepingComputer",
     "summary": "OpenAI says its new ChatGPT ads won't influence answers OpenAI has confirmed ChatGPT is getting ads in the coming weeks, but it promises that ads won't influence answers generated by ChatGPT. [...]",
     "title": "OpenAI says its new ChatGPT ads won't influence answers"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ad-costs-are-on-par-with-live-nfl-broadcasts/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-01-28T00:04:45+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI's ChatGPT ad costs are on par with live NFL broadcasts OpenAI plans to begin rolling out ads on ChatGPT in the United States if you have a free or $8 Go subscription, but the catch is that the ads could be very expensive for advertisers. [...]",
+    "title": "OpenAI's ChatGPT ad costs are on par with live NFL broadcasts"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/": {
     "categories": [
@@ -5581,6 +5665,17 @@
     "summary": "China-linked hackers exploited Sitecore zero-day for initial access An advanced threat actor tracked as UAT-8837 and believed to be linked to China has been focusing on critical infrastructure systems in North America, gaining access by exploiting both known and zero-day vulnerab\u2026",
     "title": "China-linked hackers exploited Sitecore zero-day for initial access"
   },
+  "https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-27T22:26:26+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Chinese Mustang Panda hackers deploy infostealers via CoolClient backdoor The Chinese espionage threat group Mustang Panda has updated its\u00a0CoolClient backdoor to a new variant that can steal login data from browsers and monitor the clipboard. [...]",
+    "title": "Chinese Mustang Panda hackers deploy infostealers via CoolClient backdoor"
+  },
   "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/": {
     "categories": [
       "Security"
@@ -6127,6 +6222,17 @@
     "source": "BleepingComputer",
     "summary": "Critical React, Next.js flaw lets hackers execute code on servers A maximum severity vulnerability,\u00a0dubbed 'React2Shell',\u00a0in the React Server Components (RSC) 'Flight' protocol\u00a0allows remote code execution without authentication in React and Next.js applications. [...]",
     "title": "Critical React, Next.js flaw lets hackers execute code on servers"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-sandbox-escape-flaw-discovered-in-popular-vm2-nodejs-library/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-27T16:35:29+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Critical sandbox escape flaw found in popular vm2 NodeJS library A critical-severity vulnerability in the vm2\u00a0Node.js sandbox library, tracked as\u00a0CVE-2026-22709, allows escaping the sandbox and executing arbitrary code on the underlying host system. [...]",
+    "title": "Critical sandbox escape flaw found in popular vm2 NodeJS library"
   },
   "https://www.bleepingcomputer.com/news/security/critical-whisperpair-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/": {
     "categories": [
@@ -6678,6 +6784,17 @@
     "summary": "Fortinet admins report patched FortiGate firewalls getting hacked Fortinet customers are seeing attackers exploiting a patch bypass for a previously fixed critical FortiGate authentication vulnerability (CVE-2025-59718) to hack patched firewalls. [...]",
     "title": "Fortinet admins report patched FortiGate firewalls getting hacked"
   },
+  "https://www.bleepingcomputer.com/news/security/fortinet-blocks-exploited-forticloud-sso-zero-day-until-patch-is-ready/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-27T23:19:42+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Fortinet blocks exploited FortiCloud SSO zero day until patch is ready Fortinet has confirmed a new, actively exploited critical FortiCloud single sign-on (SSO) authentication bypass vulnerability, tracked as CVE-2026-24858, and says it has mitigated the zero-day attacks by block\u2026",
+    "title": "Fortinet blocks exploited FortiCloud SSO zero day until patch is ready"
+  },
   "https://www.bleepingcomputer.com/news/security/fortinet-confirms-critical-forticloud-auth-bypass-not-fully-patched/": {
     "categories": [
       "Security"
@@ -6828,6 +6945,17 @@
     "source": "BleepingComputer",
     "summary": "French Football Federation discloses data breach after cyberattack The French Football Federation (FFF) disclosed a data breach on Friday after attackers used a compromised account to gain access to administrative management software used by football clubs. [...]",
     "title": "French Football Federation discloses data breach after cyberattack"
+  },
+  "https://www.bleepingcomputer.com/news/security/from-cipher-to-fear-the-psychology-behind-modern-ransomware-extortion/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-27T15:02:12+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "From Cipher to Fear: The psychology behind modern ransomware extortion Modern ransomware has shifted from encryption to psychological extortion that exploits fear, liability, and exposure. Flare shows how today's ransomware groups weaponize stolen data and pressure tactics to for\u2026",
+    "title": "From Cipher to Fear: The psychology behind modern ransomware extortion"
   },
   "https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/": {
     "categories": [
@@ -7380,6 +7508,17 @@
     "source": "BleepingComputer",
     "summary": "Harvard University discloses data breach affecting alumni, donors Harvard University disclosed over the weekend that its Alumni Affairs and Development systems were compromised in a voice phishing attack, exposing the personal information of students, alumni, donors, staff, and f\u2026",
     "title": "Harvard University discloses data breach affecting alumni, donors"
+  },
+  "https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-27T12:25:00+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts Hackers have stolen the personal and contact information belonging to over 29.8 million SoundCloud user accounts after breaching the audio streaming platform's systems. [...]",
+    "title": "Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts"
   },
   "https://www.bleepingcomputer.com/news/security/hidden-telegram-proxy-links-can-reveal-your-ip-address-in-one-click/": {
     "categories": [
@@ -8505,6 +8644,17 @@
     "summary": "Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform The Nigerian police have arrested three individuals linked to targeted Microsoft 365 cyberattacks via Raccoon0365 phishing-as-a-service. [...]",
     "title": "Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform"
   },
+  "https://www.bleepingcomputer.com/news/security/nike-investigates-data-breach-after-extortion-gang-leaks-files/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-27T16:45:46+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Nike investigates data breach after extortion gang leaks files Nike is investigating what it described as a \"potential cyber security incident\" after the World Leaks ransomware gang leaked 1.4 TB of files allegedly stolen from the sportswear giant. [...]",
+    "title": "Nike investigates data breach after extortion gang leaks files"
+  },
   "https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/": {
     "categories": [
       "Security"
@@ -8717,6 +8867,17 @@
     "source": "BleepingComputer",
     "summary": "Over 25,000 FortiCloud SSO devices exposed to remote attacks Internet security watchdog Shadowserver has found over 25,000 Fortinet devices exposed online with FortiCloud SSO enabled, amid ongoing attacks targeting a critical authentication bypass vulnerability. [...]",
     "title": "Over 25,000 FortiCloud SSO devices exposed to remote attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-27T14:09:47+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Over 6,000 SmarterMail servers exposed to automated hijacking attacks Nonprofit security organization Shadowserver has found over 6,000 SmarterMail servers exposed online and likely vulnerable to attacks exploiting a critical authentication bypass vulnerability. [...]",
+    "title": "Over 6,000 SmarterMail servers exposed to automated hijacking attacks"
   },
   "https://www.bleepingcomputer.com/news/security/owncloud-urges-users-to-enable-mfa-after-credential-theft-reports/": {
     "categories": [
@@ -9829,6 +9990,17 @@
     "summary": "US broadband provider Brightspeed investigates breach claims Brightspeed, one of the largest fiber broadband companies in the United States, is investigating security breach and data theft claims made by the Crimson Collective extortion gang. [...]",
     "title": "US broadband provider Brightspeed investigates breach claims"
   },
+  "https://www.bleepingcomputer.com/news/security/us-charges-31-more-suspects-linked-to-atm-malware-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-27T16:27:04+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "US charges 31 more suspects linked to ATM malware attacks A Nebraska federal grand jury charged 31 additional defendants for their involvement in an ATM jackpotting operation allegedly orchestrated by members of the Venezuelan gang Tren de Aragua. [...]",
+    "title": "US charges 31 more suspects linked to ATM malware attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/us-congressional-budget-office-hit-by-suspected-foreign-cyberattack/": {
     "categories": [
       "Security",
@@ -10086,6 +10258,17 @@
     "summary": "Windows 11 now supports 3rd-party apps for native passkey management Microsoft announced that passwordless authentication is now easier on Windows 11 through native support for third-party passkey managers, the first ones supported being\u00a01Password and Bitwarden. [...]",
     "title": "Windows 11 now supports 3rd-party apps for native passkey management"
   },
+  "https://www.bleepingcomputer.com/news/security/winrar-path-traversal-flaw-still-exploited-by-numerous-hackers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-27T19:38:24+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "WinRAR path traversal flaw still exploited by numerous hackers Multiple threat actors, both state-sponsored and financially motivated, are exploiting the\u00a0CVE-2025-8088\u00a0high-severity vulnerability in WinRAR\u00a0for initial access and to deliver various malicious payloads. [...]",
+    "title": "WinRAR path traversal flaw still exploited by numerous hackers"
+  },
   "https://www.bleepingcomputer.com/news/security/yanluowang-initial-access-broker-pleaded-guilty-to-ransomware-attacks/": {
     "categories": [
       "Security"
@@ -10261,6 +10444,15 @@
     "source": "darkreading",
     "summary": "AI Developed Code: 5 Critical Security Checkpoints for Human Oversight To write secure code with LLMs developers must have the skills to use AI as a collaborative assistant rather than an autonomous tool, Madou argues.",
     "title": "AI Developed Code: 5 Critical Security Checkpoints for Human Oversight"
+  },
+  "https://www.darkreading.com/application-security/ai-death-accuracy-zero-trust": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt16a225f2be68303f/6972837427d0e5cd3caca439/wood_block_tower_cagan_niron_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-27T22:31:48+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI &amp; the Death of Accuracy: What It Means for Zero-Trust AI &quot;model collapse,&quot; where LLMs over time train on more and more AI-generated data and become degraded as a result, can introduce inaccuracies, promulgate malicious activity, and impact PII protections.",
+    "title": "AI &amp; the Death of Accuracy: What It Means for Zero-Trust"
   },
   "https://www.darkreading.com/application-security/apache-max-severity-tika-cve-patch-miss": {
     "categories": [],
@@ -11199,6 +11391,15 @@
     "summary": "Vision Language Models Keep an Eye on Physical Security Advancements in vision language models expanded models reasoning capabilities to help protect employee safety.",
     "title": "Vision Language Models Keep an Eye on Physical Security"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/worldeaks-extortion-group-stole-1.4tb-nike-data": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt80a2a5d78b60fadf/6978b324a48f64012e026e5c/Nike_KenWolter_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-27T16:41:40+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "WorldLeaks Extortion Group Claims It Stole 1.4TB of Nike Data The sportswear brand is investigating an alleged breach of its network that exposed some 188,347 files of highly sensitive corporate data.",
+    "title": "WorldLeaks Extortion Group Claims It Stole 1.4TB of Nike Data"
+  },
   "https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8497ff5ba464f933/6943172f8d0bea2fbc0e4978/AI_apps_hacker-Matt_Fowler-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -11422,6 +11623,15 @@
     "source": "darkreading",
     "summary": "As Gen Z Enters Cybersecurity, Jury Is Out on AI's Impact Despite possibly supplanting some young analysts, one Gen Z cybersecurity specialist sees AI helping teach those willing to learn and removing drudge work.",
     "title": "As Gen Z Enters Cybersecurity, Jury Is Out on AI's Impact"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/hand-cve-over-to-private-sector": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c0fed15bcf85f3e/6977ead312384d542af14fd8/plan_a_Warakorn_Hamprasop_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-27T13:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Hand CVE Over to the Private Sector How MITRE has mismanaged the world's vulnerability database for decades and wasted millions along the way.",
+    "title": "Hand CVE Over to the Private Sector"
   },
   "https://www.darkreading.com/cybersecurity-operations/india-app-mandate-surveillance-concerns": {
     "categories": [],
@@ -11733,6 +11943,15 @@
     "summary": "Startup Trends Shaking Up Browsers, SOC Automation, AppSec These startups reimagined browser security, pioneered application security for AI-generated code, and are building consensus on agentic vs. human costs.",
     "title": "Startup Trends Shaking Up Browsers, SOC Automation, AppSec"
   },
+  "https://www.darkreading.com/endpoint-security/vibe-coded-sicarii-ransomware-decrypted": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3a42a1eea74652dc/69791e570a92d0e8966052b9/padlock_keyboard_Panther_Media_Global_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-27T22:15:39+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Vibe-Coded 'Sicarii' Ransomware Can't Be Decrypted A new ransomware strain that entered the scene last year has poorly designed code and an odd &quot;Hebrew&quot; identity that might be a false flag.",
+    "title": "Vibe-Coded 'Sicarii' Ransomware Can't Be Decrypted"
+  },
   "https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltec9f14c11f342d6f/69161ac9bc68b50a22001b58/DRVE_Event_20251203.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -11791,6 +12010,15 @@
     "source": "darkreading",
     "summary": "Critical Railway Braking Systems Open to Tampering It only takes recycled cans, copper, and cheap gadgets off the Web to trick a train conductor into doing something dangerous.",
     "title": "Critical Railway Braking Systems Open to Tampering"
+  },
+  "https://www.darkreading.com/ics-ot-security/critical-telnet-server-flaw-forgotten-attack-surface": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt430ff60742e98288/69792997014d860341b7757e/telnet_DzmitrySkazau_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-27T21:00:21+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Critical Telnet Server Flaw Exposes Forgotten Attack Surface While telnet is considered obsolete, the network protocol is still used by hundreds of thousands of legacy systems and IoT devices for remote access.",
+    "title": "Critical Telnet Server Flaw Exposes Forgotten Attack Surface"
   },
   "https://www.darkreading.com/ics-ot-security/cybersecurity-risks-humanoid-robots": {
     "categories": [],
@@ -11955,6 +12183,15 @@
     "source": "darkreading",
     "summary": "Kimsuky APT Takes Over South Korean Androids, Abuses KakaoTalk Konni, a subset of the state-sponsored DPRK cyberespionage group, first exploits Google Find Hub, which ironically aims to protect lost Android devices, to remotely wipe devices.",
     "title": "Kimsuky APT Takes Over South Korean Androids, Abuses KakaoTalk"
+  },
+  "https://www.darkreading.com/remote-workforce/stanley-toolkit-chrome-undetectable-phishing": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte643bc0eefa9fd48/697901fef5778471f5846627/browser_Profit_Image_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-27T18:20:28+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "'Stanley' Toolkit Turns Chrome Into Undetectable Phishing Vector The malware-as-a-service kit enables malicious extensions to overlay pages on real websites without changing the visible URL, signaling a fresh challenge for enterprise security.",
+    "title": "'Stanley' Toolkit Turns Chrome Into Undetectable Phishing Vector"
   },
   "https://www.darkreading.com/remote-workforce/us-citizens-plead-guilty-north-korean-it-worker": {
     "categories": [],
@@ -12259,6 +12496,15 @@
     "summary": "Attackers Exploited Gogs Zero-Day Flaw for Months Wiz disclosed a still-unpatched vulnerability in self-hosted Git service Gogs, which is a bypass for a previous RCE bug disclosed last year.",
     "title": "Attackers Exploited Gogs Zero-Day Flaw for Months"
   },
+  "https://www.darkreading.com/vulnerabilities-threats/beauty-in-destruction-exploring-malware-impact-through-art": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1be91080a0e0d043/6978be5f27d0e5dda6acaf26/graffiti-viktor-gladkov-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-26T23:08:57+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Beauty in Destruction: Exploring Malware's Impact Through Art Artistic initiatives turn cybersecurity into immersive exhibits at the Museum of Malware Art, transforming digital threats into thought-provoking experiences.",
+    "title": "Beauty in Destruction: Exploring Malware's Impact Through Art"
+  },
   "https://www.darkreading.com/vulnerabilities-threats/cheap-hardware-module-amd-intel-memory-encryption": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf1384a6364352326/692614e04fcb945115f68986/intelamd_Andreas_Prott_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -12368,6 +12614,15 @@
     "source": "darkreading",
     "summary": "Maximum Severity HPE OneView Flaw Exploited in the Wild Exploitation of CVE-2025-37164 can enable remote code execution on HPE's IT infrastructure management platform, leading to devastating consequences.",
     "title": "Maximum Severity HPE OneView Flaw Exploited in the Wild"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/microsoft-rushes-emergency-patch-office-zero-day": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcca9ca8d64d125e0/69791af60a92d013266052a7/zeroday_QINQIE99_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-27T20:07:03+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Microsoft Rushes Emergency Patch for Office Zero-Day To exploit the vulnerability, an attacker would need either system access or be able to convince a user to open a malicious Office file.",
+    "title": "Microsoft Rushes Emergency Patch for Office Zero-Day"
   },
   "https://www.darkreading.com/vulnerabilities-threats/new-raptor-framework-uses-agentic-ai-create-patches": {
     "categories": [],
