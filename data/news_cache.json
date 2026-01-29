@@ -2687,6 +2687,15 @@
     "summary": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow Node.js has released updates to fix what it described as a critical security issue impacting \"virtually every production Node.js app\" that, if successfully exploited, could trigger a denial-of-\u2026",
     "title": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow"
   },
+  "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir_Rl9Xy1aEtQBIw6aqscoEj4444e7H2BJLRbPSyqbi2DMtc22vTReAQM6ye0KR8pr1iBs4YA3KIdgfAvfBuIGBMrd7JYL5P9NNnNt6vgeD_B5GStVh1Bq5DzgnRsViE-z_dmkuGuhWTchwmk3ULxzq7_vVoUnKnwFaQtqVyCDf-oHiqBeiViqAlqdsGsi/s1600/vm2.jpg",
+    "published": "2026-01-28T11:50:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution A critical sandbox escape vulnerability has been disclosed in the popular vm2 Node.js library that, if successfully exploited, could allow attackers to run arbitrary code on the underlying operating syst\u2026",
+    "title": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution"
+  },
   "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIrX01QDd37hdy-1O44aRlrR6Td_bOz5czKroO7QmjA75gR74sBpq0Ew6MSiV2eyQWeJIhzlk58MJ5XHuN5q50DGNLT81pBcLeKs1IUV9PM9_pcCpY_wCTpabTaMo4m40rd_UkRWfsTyyhyphenhyphenMKy-u2eVMrPxDsu1qsZGnZKwWbcKvLJAlnQQda-k0aiQDSU/s1600/wordpress-exploit.jpg",
@@ -2768,6 +2777,24 @@
     "summary": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat Source: Securonix\nCybersecurity researchers have disclosed details of a new campaign dubbed PHALT#BLYX that has leveraged ClickFix-style lures to display fixes for fake blue screen of death (BSoD) errors\u2026",
     "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat"
   },
+  "https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcDOoAyo7J2datj6fehqndPoEoXI2bIED_JR3Wiyi-XWBhzWlStRSgOUjJ9XGw8Wf5r5l-Vc3KIWs6ELAT_4MH-EgTiGYsrOI4JGGlYTTRYA9GhfAzRmzpzufVSOMTP8xdDA7Z68BE1mkdbPEmDSVWkfEeM6FmEMoDdjPcuEs5oSeoU0ZRqWNGgSV79rIc/s1600/moltbot.jpg",
+    "published": "2026-01-28T17:46:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware Cybersecurity researchers have flagged a new malicious Microsoft Visual Studio Code (VS Code) extension for Moltbot (formerly Clawdbot) on the official Extension Marketplace that claims to be a free artificial \u2026",
+    "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware"
+  },
+  "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmO6wqQYQf9Jzy85AeKQArxw_sFT_Qyd30NJ2Fxfs6FN6MgxQDuyTmUnlyThYj_4a4BN0bsejx2owRMl6_rLwiCpgh_WGWVH80OezW3ToFf2Aedn9a-023kI71i4NwG7HQ5tZ2So97M4N4jkTXKqRnlty7V10DsQeQ6UIPC7jIRrCNzSd6p1KfKKx_9m_/s1600/python.jpg",
+    "published": "2026-01-28T09:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access tro\u2026",
+    "title": "Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan"
+  },
   "https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgse_7aGT72WMfI84aD05FVQShHvmKX2cLQnvrpoCSDCmVuArEHaqVjxxzESK58K9zsdB6q5T3uDSwEZrwfEd42kD1daVt-o12gjKLGqoiKiAH29poW0nn5CuhjjLIa69jGl4Xg7bw7wBtm8At9D6aJxUxg53c2kvH9GSjH-XQNvASYWI2om8Ic76fGaPXt/s1600/qrcodes.jpg",
@@ -2822,6 +2849,15 @@
     "summary": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected Fortinet has begun releasing security updates to address a critical flaw impacting FortiOS that has come under active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2026-2\u2026",
     "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected"
   },
+  "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghs8WHLFXdoOPjX8iPhC7ecFE52CMqypJ6IQ7vZIqEiCi7wpEiHdOI2XsSGqbTOVZiINMjvx-xQPV0t-KpwKnF-dHNYGG5yrNh-P_WLPbM2_fgRap6jTr9NOnfXuvgxZs9Xpd-JME7ArxhPMBrkOzHidNo7XjngGI-EtPDZ1eUIxb8-REtmvKWbZ2QhqY/s1600/prophet.jpg",
+    "published": "2026-01-28T11:55:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "From Triage to Threat Hunts: How AI Accelerates SecOps If you work in security operations, the concept of the AI SOC agent is likely familiar. Early narratives promised total autonomy. Vendors seized on the idea of the \"Autonomous SOC\" and suggested a future where algorithms repl\u2026",
+    "title": "From Triage to Threat Hunts: How AI Accelerates SecOps"
+  },
   "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-QNOjf4TVLf-q_dbb5g-hf4E4UjlFOOK5YAqVzx7MjPKi8yBuDxhMV34BhS8j_2G1Pyc54-wnEssVbtX7I2m-tTz8-sYtURpMRet1G83UIOgdbNw5TnuokdfQXqtd2DXeVjtM6lthXMyMP3BrHzha9fMdzLbrWrmEmAdUj-rhblxC_FMF9nwbcOrpMRtl/s1600/brute.jpg",
@@ -2831,6 +2867,15 @@
     "summary": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials A new wave of GoBruteforcer attacks has targeted databases of cryptocurrency and blockchain projects to co-opt them into a botnet that's capable of brute-forcing user passwords for services such \u2026",
     "title": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials"
   },
+  "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji2m0M2CgLOyvWFLDsxvvFHRC_bP8UZH66OXowPdykfsWnt3WwvYrvdnPnixz7wnn7uB5EIO4svESi1i9Bj-3dRBcHihgQExiog-cv24tLBxJ8HibquEo5yFqKzDDPpIJsVBciHzvZm3N-rszwG9q4rXuibLC69BZcH2iS6oSExUFmPpPjXxy-jRSVB58E/s1600/ipidea.png",
+    "published": "2026-01-29T07:16:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Google Disrupts IPIDEA \u2014 One of the World\u2019s Largest Residential Proxy Networks Google on Wednesday announced that it worked together with other partners to disrupt IPIDEA, which it described as one of the largest residential proxy networks in the world.\nTo that end, the company s\u2026",
+    "title": "Google Disrupts IPIDEA \u2014 One of the World\u2019s Largest Residential Proxy Networks"
+  },
   "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRoKH8kODtvGyUQmuWC8vWW2D9wJIlBhYnl2hlvLUojFSV7sVmZJ3nqnxDHHMhIqzIpXmcFy_x6GOxTYsrvTa9lJw4tE0vPvx8OPrRV7bmpBp_z7babFHy88b09t9fVw_Xw326BOFDFZ54PwPeihsITRugqHdOTqQjvTqvjmufoPqD5RmtLWy8WUNsHuOn/s1600/gem.jpg",
@@ -2839,6 +2884,15 @@
     "source": "The Hacker News",
     "summary": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google \u2026",
     "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites"
+  },
+  "https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmyh6hD6dEZgQCDgGumKxGNc5W_9iRS9Or90FAqQShHB7mO7bls8iiTm3Zd85KEQdLvIZrp3r_mghXMX5r-sJLcdQ57OOYidhqKeSQJcxqCnjA8SFlYh3FGTj8g_ulShcpgUS_k41RmAJuIU77IXQFdcwhZR9hipopYp62cXESIq68MHugeFW5bYIQSCDm/s1600/winrar.jpg",
+    "published": "2026-01-28T09:46:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088 Google on Tuesday revealed that multiple threat actors, including nation-state adversaries and financially motivated groups, are exploiting a now-patched critical security flaw in RARLAB WinRAR to establish\u2026",
+    "title": "Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088"
   },
   "https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html": {
     "categories": [],
@@ -3047,6 +3101,15 @@
     "summary": "Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware A new multi-stage phishing campaign has been observed targeting users in Russia with ransomware and a remote access trojan called Amnesia RAT.\n\"The attack begins with social engineering lures delivered v\u2026",
     "title": "Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware"
   },
+  "https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbfyqOKlboKyz0aepCrCjmgfx7hVJKbZ5zcv_iQC6sUvz4vyarawc69b_BxxUdQYhl62-gOoWmlEDQywKqX4zRtKo7X_G_eZTCignSldlMeGxb6ZxhYRJTFn2L0f_FcdJS2FrlLq32HpdE1N_XqD639QIYNC9xGZymr8PNBLW_mU7uB6Oa4f759T_4t-0E/s1600/cyber.jpg",
+    "published": "2026-01-28T11:40:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks Threat actors with ties to China have been observed using an updated version of a backdoor called COOLCLIENT in cyber espionage attacks in 2025 to facilitate comprehensive data theft from infected endpo\u2026",
+    "title": "Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks"
+  },
   "https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN2wvrCTGv4Grbd3bv9DT4hUFuTCDt4Wlec_AQ5mYNiWEp2Kze4dSC56p123i08vZnmWNVBd9EZpcVnBdcN-VGShQYmQdDrgaZ6YshND2_s_ZB4S6Aml_tBIURWmvGI9ixZnXKiQMa62wQydWFKhMWVw6Z8S3nT3KlNPA0uJPFQBUPldUirfSu5UmRKJbY/s1600/n8n-supply-chain.jpg",
@@ -3182,6 +3245,15 @@
     "summary": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit.\nThe vulner\u2026",
     "title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login"
   },
+  "https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYpmMp4cskBZ-rNTPTP2vOSKi-iVREeVHfeGAcK0DdP-QGwmWDF2R5IRqmNjQmYb7x9zjnle6EEoNOH_WTKG-YYuMQhoDJW0__i7rgSuLTKjLDlmHs4mC0-9PUNFtr451zaHU8uXd8H3QBvD0xyPrMaOsZbYZDKZTUvreAL3DX1iKMAQGHBkvk2gdFfU0/s1600/outpost24.jpg",
+    "published": "2026-01-28T10:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Password Reuse in Disguise: An Often-Missed Risky Workaround When security teams discuss credential-related risk, the focus typically falls on threats such as phishing, malware, or ransomware. These attack methods continue to evolve and rightly command attention. However, one of \u2026",
+    "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround"
+  },
   "https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicydHIzxQzKCM6IJLuGPOYTskBFZhVxh6XYXItKSN91mAqv0xzZfIRmI1XXeyGE8yJ-gORNbdNwXBdCSJ9uEV9CnSE814erkLz4HKjN-eYPERE-7CWfE-UER9iumjTABTzv6j05jubb0hND2LJs9SNJyIBBd7PFkkzv0wNvlDfZFtsYqrxZgR5a0VLaNAI/s1600/logmein.jpg",
@@ -3253,6 +3325,15 @@
     "source": "The Hacker News",
     "summary": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish energy and nuclear research agency, as \u2026",
     "title": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations"
+  },
+  "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpzZ7e4dYy-hpTfbR7szq9J8RcMD40YfqgkKsvCTqBy-LIR2HtA3D4gY0i_-yiitA72t97lJlC4cW3klbAsJB6BBxxfOXDjhf68Z9RNF2GDYwWxPkdzSYTIcgQZzXg_0hCSqYOPI4nI8Wq3NHj5DrgwQ0RpdEZGJ1hMteDuOBNDxn-sXuzj57K9K-QKhz0/s1600/powergrid.jpg",
+    "published": "2026-01-28T16:06:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid The \"coordinated\" cyber attack targeting multiple sites across the Polish power grid has been attributed with medium confidence to a Russian state-sponsored hacking crew known as ELECTRUM.\nOperational techno\u2026",
+    "title": "Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid"
   },
   "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html": {
     "categories": [],
@@ -3415,6 +3496,15 @@
     "source": "The Hacker News",
     "summary": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users Cybersecurity researchers have discovered two new malicious extensions on the Chrome Web Store that are designed to exfiltrate OpenAI ChatGPT and DeepSeek conversations alongside browsing data to \u2026",
     "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users"
+  },
+  "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW94x6FIasfUAUj1l0mDp4cnVeR5PmfPV85I4_GuIlUqCVlMX0bthAcsA9oHJJz8d3gXUo74yw4d2kG3FnDnFe0zz_CzVY6Hyy8biL_gMKKaErWM3p15lAdh5xQnBBb6RhHSgKmpM3RLx1wccjhlKJc6I6lrO8M7SFIs3ezfEXuieA11PIJ1D7Z4nSaLb2/s1600/n8n.jpg",
+    "published": "2026-01-28T12:43:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution Cybersecurity researchers have disclosed two new security flaws in the n8n workflow automation platform, including a crucial vulnerability that could result in remote code execution.\nThe weaknesses, discovered \u2026",
+    "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution"
   },
   "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html": {
     "categories": [],
@@ -5327,6 +5417,17 @@
     "summary": "AI is accelerating cyberattacks. Is your network prepared? AI-driven attacks now automate reconnaissance, generate malware variants, and evade detection at a speed that overwhelms traditional defenses. Corelight explains how network detection and response (NDR) provides the visib\u2026",
     "title": "AI is accelerating cyberattacks. Is your network prepared?"
   },
+  "https://www.bleepingcomputer.com/news/security/ai-is-rewriting-compliance-controls-and-cisos-must-take-notice/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-28T15:00:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "AI Is Rewriting Compliance Controls and CISOs Must Take Notice AI agents are now executing regulated actions, reshaping how compliance controls actually work. Token Security explains why CISOs must rethink identity, access, and auditability as AI becomes a digital employee. [...]",
+    "title": "AI Is Rewriting Compliance Controls and CISOs Must Take Notice"
+  },
   "https://www.bleepingcomputer.com/news/security/ai-slop-ransomware-test-sneaks-on-to-vs-code-marketplace/": {
     "categories": [
       "Security",
@@ -6309,6 +6410,17 @@
     "summary": "Cyberattack knocks offline France's postal, banking services The French national postal service's online services were knocked offline by \"a major network incident\" on Monday, disrupting digital banking and other services for millions. [...]",
     "title": "Cyberattack knocks offline France's postal, banking services"
   },
+  "https://www.bleepingcomputer.com/news/security/cyberattack-on-polish-energy-grid-impacted-around-30-facilities/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-28T22:14:35+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Cyberattack on Polish energy grid impacted around 30 facilities The coordinated attack on Poland's power grid in late December targeted multiple distributed energy resource (DER) sites across the country, including combined heat and power (CHP) facilities and wind and solar dispa\u2026",
+    "title": "Cyberattack on Polish energy grid impacted around 30 facilities"
+  },
   "https://www.bleepingcomputer.com/news/security/cybercrime-goes-saas-renting-tools-access-and-infrastructure/": {
     "categories": [
       "Security"
@@ -6479,6 +6591,17 @@
     "summary": "Email security needs more seatbelts: Why click rate is the wrong metric Click rate misses the real email security risk: what attackers can do after they access a mailbox. Material Security explains why containment and post-compromise impact matter more than phishing metrics. [...\u2026",
     "title": "Email security needs more seatbelts: Why click rate is the wrong metric"
   },
+  "https://www.bleepingcomputer.com/news/security/empire-cybercrime-market-owner-pleads-guilty-to-drug-conspiracy/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-28T17:19:02+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Empire cybercrime market owner pleads guilty to drug conspiracy \u200bA Virginia man who co-created Empire Market, one of the largest dark web marketplaces at the time, pleaded guilty to federal drug conspiracy charges for facilitating $430 million in illegal transactions from 2018 to\u2026",
+    "title": "Empire cybercrime market owner pleads guilty to drug conspiracy"
+  },
   "https://www.bleepingcomputer.com/news/security/enterprise-password-security-and-secrets-management-with-passwork-7/": {
     "categories": [
       "Security"
@@ -6488,6 +6611,17 @@
     "source": "BleepingComputer",
     "summary": "Enterprise password security and secrets management with Passwork 7 Passwork 7 unifies enterprise password and secrets management in a self-hosted platform. Organizations can automate credential workflows and test the full system with a free trial and up to 50% Black Friday savin\u2026",
     "title": "Enterprise password security and secrets management with Passwork 7"
+  },
+  "https://www.bleepingcomputer.com/news/security/escan-confirms-update-server-breached-to-push-malicious-update/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-28T21:00:40+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "eScan confirms update server breached to push malicious update MicroWorld Technologies, the maker of the eScan antivirus product, has confirmed that one of its update servers was breached and used to distribute an unauthorized update later analyzed as malicious to a small subset \u2026",
+    "title": "eScan confirms update server breached to push malicious update"
   },
   "https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/": {
     "categories": [
@@ -6703,6 +6837,17 @@
     "source": "BleepingComputer",
     "summary": "FBI seizes domain storing bank credentials stolen from U.S. victims The U.S. government has seized the 'web3adspanels.org' domain and the associated database used by cybercriminals to host bank login credentials stolen in account takeover attacks. [...]",
     "title": "FBI seizes domain storing bank credentials stolen from U.S. victims"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-28T17:38:45+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "FBI seizes RAMP cybercrime forum used by ransomware gangs The FBI has seized the notorious RAMP cybercrime forum, a platform used to advertise a wide range of malware and hacking services, and one of the few remaining forums that openly allowed the promotion of ransomware operati\u2026",
+    "title": "FBI seizes RAMP cybercrime forum used by ransomware gangs"
   },
   "https://www.bleepingcomputer.com/news/security/fbi-warns-about-kimsuky-hackers-using-qr-codes-to-phish-us-orgs/": {
     "categories": [
@@ -7466,6 +7611,18 @@
     "summary": "Hackers get $1,047,000 for 76 zero-days at Pwn2Own Automotive 2026 Pwn2Own Automotive 2026 has ended with security researchers earning $1,047,000 after exploiting 76 zero-day vulnerabilities between January 21 and January 23. [...]",
     "title": "Hackers get $1,047,000 for 76 zero-days at Pwn2Own Automotive 2026"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-exposed-llm-endpoints-in-bizarre-bazaar-operation/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-01-28T13:15:03+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation A malicious campaign is actively targeting\u00a0exposed LLM (Large Language Model) service endpoints to commercialize unauthorized access to\u00a0AI infrastructure. [...]",
+    "title": "Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-fortinet-fortisiem-vulnerability-in-attacks/": {
     "categories": [
       "Security"
@@ -7702,6 +7859,17 @@
     "source": "BleepingComputer",
     "summary": "Ingram Micro says ransomware attack affected 42,000 people \u200bInformation technology giant Ingram Micro has revealed that a ransomware attack on its systems in July 2025 led to a data breach affecting over 42,000 individuals. [...]",
     "title": "Ingram Micro says ransomware attack affected 42,000 people"
+  },
+  "https://www.bleepingcomputer.com/news/security/initial-access-hackers-switch-to-tsundere-bot-for-ransomware-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-28T23:29:00+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Initial access hackers switch to Tsundere Bot for ransomware attacks A prolific initial access broker tracked as\u00a0TA584 has been observed using the Tsundere Bot alongside XWorm remote access trojan\u00a0to gain network access that could lead to ransomware attacks. [...]",
+    "title": "Initial access hackers switch to Tsundere Bot for ransomware attacks"
   },
   "https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/": {
     "categories": [
@@ -8511,6 +8679,17 @@
     "source": "BleepingComputer",
     "summary": "New PDFSider Windows malware deployed on Fortune 100 firm's network Ransomware attackers targeting a Fortune 100 company in the finance sector used a new malware strain, dubbed PDFSider, to deliver malicious payloads on Windows systems. [...]",
     "title": "New PDFSider Windows malware deployed on Fortune 100 firm's network"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-28T17:46:57+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New sandbox escape flaw exposes n8n instances to RCE attacks Two vulnerabilities in the n8n workflow automation platform could allow attackers to fully compromise affected instances, access sensitive data, and execute arbitrary code on the underlying host. [...]",
+    "title": "New sandbox escape flaw exposes n8n instances to RCE attacks"
   },
   "https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/": {
     "categories": [
@@ -9445,6 +9624,17 @@
     "summary": "Six for 2026: The cyber threats you can\u2019t ignore Cybersecurity threats in 2026 are accelerating, driven by AI, automation, and more effective social engineering. Corelight outlines six emerging attack trends and explains how network visibility can help defenders respond faster. [\u2026",
     "title": "Six for 2026: The cyber threats you can\u2019t ignore"
   },
+  "https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-28T12:49:05+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Slovakian man pleads guilty to operating darknet marketplace A Slovakian national admitted on Tuesday to helping operate a darknet marketplace that sold narcotics, cybercrime tools and services, fake government IDs, and stolen personal information for more than two years. [...]",
+    "title": "Slovakian man pleads guilty to operating darknet marketplace"
+  },
   "https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/": {
     "categories": [
       "Security"
@@ -9477,6 +9667,17 @@
     "source": "BleepingComputer",
     "summary": "Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack Sneaky2FA, a popular among cybercriminals phishing-as-a-service (PhaaS) kit, has added Browser-in-the-Browser (BitB) capabilities, giving \"customers\" the option to launch highly deceptive attacks. [...]",
     "title": "Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack"
+  },
+  "https://www.bleepingcomputer.com/news/security/solarwinds-warns-of-critical-web-help-desk-rce-auth-bypass-flaws/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-28T14:39:02+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "SolarWinds warns of critical Web Help Desk RCE, auth bypass flaws SolarWinds has released security updates to patch critical authentication bypass and remote command execution vulnerabilities in its Web Help Desk IT help desk software. [...]",
+    "title": "SolarWinds warns of critical Web Help Desk RCE, auth bypass flaws"
   },
   "https://www.bleepingcomputer.com/news/security/sonicwall-says-state-sponsored-hackers-behind-security-breach-in-september/": {
     "categories": [
@@ -10076,6 +10277,18 @@
     "summary": "US sanctions North Korean bankers linked to cybercrime, IT worker fraud The U.S. Treasury Department imposed sanctions on two North Korean financial institutions and eight individuals involved in laundering cryptocurrency stolen in cybercrime and fraudulent IT worker schemes. [..\u2026",
     "title": "US sanctions North Korean bankers linked to cybercrime, IT worker fraud"
   },
+  "https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-01-28T20:26:59+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Viral Moltbot AI assistant raises concerns over data security Security researchers are warning of insecure deployments in enterprise environments of the\u00a0Moltbot (formerly Clawdbot) AI assistant, which can lead to leaking API keys, OAuth tokens, conversation history, and credentia\u2026",
+    "title": "Viral Moltbot AI assistant raises concerns over data security"
+  },
   "https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/": {
     "categories": [
       "Security"
@@ -10205,6 +10418,17 @@
     "source": "BleepingComputer",
     "summary": "WhatsApp device linking abused in account hijacking attacks Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing. [...]",
     "title": "WhatsApp device linking abused in account hijacking attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-28T11:48:26+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New WhatsApp lockdown feature protects high-risk users from hackers Meta has started rolling out a new WhatsApp lockdown-style security feature designed to protect journalists, public figures, and other high-risk individuals from sophisticated threats, including spyware attacks. \u2026",
+    "title": "New WhatsApp lockdown feature protects high-risk users from hackers"
   },
   "https://www.bleepingcomputer.com/news/security/when-hackers-wear-suits-protecting-your-team-from-insider-cyber-threats/": {
     "categories": [
@@ -10592,6 +10816,15 @@
     "summary": "Microsoft Starts 2026 With a Bang: A Freshly Exploited Zero-Day The vendor's first Patch Tuesday of the year also contains fixes for 112 CVEs, nearly double the amount from last month.",
     "title": "Microsoft Starts 2026 With a Bang: A Freshly Exploited Zero-Day"
   },
+  "https://www.darkreading.com/application-security/months-after-patch-winrar-bug-poised-smbs-hardest": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0a4be9d9e0d90f6a/697a6914014d86b9a8b778c2/WinRAR_Alina_Vytiuk_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-28T22:48:09+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Months After Patch, WinRAR Bug Poised to Hit SMBs Hardest Russian and Chinese nation-state attackers are exploiting a months-old WinRAR vulnerability, despite a patch that came out last July.",
+    "title": "Months After Patch, WinRAR Bug Poised to Hit SMBs Hardest"
+  },
   "https://www.darkreading.com/application-security/multiple-chatgpt-security-bugs-rampant-data-theft": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5e4cc096e6f29a85/690b84a196c0541fffb6173a/openai_PeachY_Photograph_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -10809,6 +11042,15 @@
     "summary": "Cloudflare Blames Outage on Internal Configuration Error Initially though to be a DDoS attack, the incident was actually due to a routine change in permissions that caused widespread software failure.",
     "title": "Cloudflare Blames Outage on Internal Configuration Error"
   },
+  "https://www.darkreading.com/cyber-risk/consumers-reluctant-to-shop-at-stores-hit-by-cyberattacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7aa2682ca9508864/697a73464671d882f3d1d780/F3MH4B.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-28T20:24:40+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Consumers Reluctant to Shop at Stores That Don't Take Security Seriously The retail sector must adapt as consumers become more cybersecurity-conscious. Increased attack transparency is a good place to start.",
+    "title": "Consumers Reluctant to Shop at Stores That Don't Take Security Seriously"
+  },
   "https://www.darkreading.com/cyber-risk/contagious-interview-attack-delivers-backdoor": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb13d116be7eae67d/697144598b39d0886e68e922/jobscam_Stokkete_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -10980,6 +11222,15 @@
     "source": "darkreading",
     "summary": "Sunken Ships: Will Orgs Learn From Ivanti EPMM Attacks? The April/May zero-day exploitations of Ivanti's mobile device management platform meant unprecedented pwning of thousands of orgs by a Chinese APT \u2014 and history will probably repeat itself.",
     "title": "Sunken Ships: Will Orgs Learn From Ivanti EPMM Attacks?"
+  },
+  "https://www.darkreading.com/cyber-risk/surging-cyberattacks-latin-america-riskiest-region": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt36f10d5b76a92866/697a8e56a708e4cc6f1bca1b/latAm_map-Libin_Jose-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-28T14:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Surging Cyberattacks Boost Latin America to Riskiest Region The region is up against tactics like data-leak extortion, credential-stealing campaigns, edge-device exploitation, and attackers leveraging AI.",
+    "title": "Surging Cyberattacks Boost Latin America to Riskiest Region"
   },
   "https://www.darkreading.com/cyber-risk/taiwan-sees-greater-cyber-pressure-from-china": {
     "categories": [],
@@ -12245,6 +12496,15 @@
     "summary": "'Cellik' Android RAT Leverages Google Play Store The remote access Trojan lets an attacker remotely control a victim's phone and can generate malicious apps from inside the Play Store.",
     "title": "'Cellik' Android RAT Leverages Google Play Store"
   },
+  "https://www.darkreading.com/threat-intelligence/china-backed-peckbirdy-cross-platform-attacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0a28f9ebb0055cdf/6979febf1480da7ff6cd6221/chinaspying_BeeBright_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-28T16:19:22+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "China-Backed 'PeckBirdy' Takes Flight for Cross-Platform Attacks In two separate campaigns, attackers used the JScript C2 framework to target Chinese gambling websites and Asian government entities with new backdoors.",
+    "title": "China-Backed 'PeckBirdy' Takes Flight for Cross-Platform Attacks"
+  },
   "https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1b218e107bc27d9c/6944ce944152047a75f028fd/back2thefuture1800_Pictorial_Press_Ltd_alamy_2.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -12589,6 +12849,15 @@
     "source": "darkreading",
     "summary": "More Problems for Fortinet: Critical FortiSIEM Flaw Exploited CVE-2025-64155, a command injection vulnerability, was disclosed earlier this week and quickly came under attack from a variety of IP addresses.",
     "title": "More Problems for Fortinet: Critical FortiSIEM Flaw Exploited"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/fortinet-new-zero-day-malicious-sso-logins": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b02086bc28696b8/697a7007b7023a5348c8e907/fortinet_PosmodernStudio_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-28T21:14:27+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Fortinet Confirms New Zero-Day Behind Malicious SSO Logins To stop the ongoing attacks, the cybersecurity vendor took the drastic step of temporarily disabling FortiCloud single sign-on (SSO) authentication for all devices.",
+    "title": "Fortinet Confirms New Zero-Day Behind Malicious SSO Logins"
   },
   "https://www.darkreading.com/vulnerabilities-threats/fortinet-woes-continue-another-waf-zero-day-flaw": {
     "categories": [],
