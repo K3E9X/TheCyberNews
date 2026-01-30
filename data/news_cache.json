@@ -2399,6 +2399,15 @@
     "summary": "Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails A new agentic browser attack targeting Perplexity's Comet browser that's capable of turning a seemingly innocuous email into a destructive action that wipes a user's entire Google Drive contents\u2026",
     "title": "Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails"
   },
+  "https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWlUKxcIQjw2yXjFrMsuLb5iy1iV4WwF7H7CNMqEn5pIJFJv6HyUatmeyAO8oFXUtqLjCTeXU_Ce-7UacHCLBKVHeedCYgJefEOCj9_EwDCsa17T0U7SUhEpVDs9WKPqcvptuKI1q3luQJCsGuRXM-sBJtV_BtCsiGt8ybUMIRYwbXpZ_8UHvri58xy9g/s1600/anyrun.jpg",
+    "published": "2026-01-29T10:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026 Beyond the direct impact of cyberattacks, enterprises suffer from a secondary but potentially even more costly risk: operational downtime, any amount of which translates into very real damage. That\u2019s why for CISOs, i\u2026",
+    "title": "3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026"
+  },
   "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFWLON6Sb5l1X4m1NB6waPUcKnXCUUYcBnqw9AwkTbX4m2LYQqvC7SrpCvMsYuzAvb6HZkJ_EyA1ow6sL-oIFCKdn1wZN6EXxYH-ZmnAcmQW7adxUTGEkkw1SSeMCJgdandr0AqC6JDYW6Mxx2FxyTSz6kpAMbRMF1E7uLR1jvFYBekOkv8S-560C8pI/s1600/anyrun-main.jpg",
@@ -3272,6 +3281,15 @@
     "summary": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of new cyber attacks targeting its defense forces with malware known as PLUGGYAPE between October and December 2025.\nThe a\u2026",
     "title": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces"
   },
+  "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpmx-gYMpMW-nf6wXdiwU6bhhuySnvXQo3BifYIaLE8Vi7Verinm69xkQ4B2AWSXdkdU6yA0WjLVtNGvxx_QzRyxEDKxbpqil2P3NZzOQrFf_MihjJeRVJ64VrWW9IAW9eaxmay2BeiTCHKIestdHmy3KpDagP53nnYQkV4z2TsKoCa_m-gk7BCTue_CKE/s1600/Ollama.jpg",
+    "published": "2026-01-29T18:37:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries A new joint investigation by SentinelOne SentinelLABS, and Censys has revealed that the open-source artificial intelligence (AI) deployment has created a vast \"unmanaged, publicly accessible layer of\u2026",
+    "title": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries"
+  },
   "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUttEV3Kwm4PD4w5h618KgulBz1T4aO-lP65yy2YD10J410HuFtAORucYtZ7bG5AGTy1XS2whXAxNenoflKKIe57oZIaewKsBPYtDvc1RCCSPpd3W4nc7rnuSyU9pXiLc0uZbaxHbOsMXQ7dNsCCU4g2wDymsmkKfHmBL9fyMJKQ6L5twNNMe7_v8mycfi/s1600/data-leak.jpg",
@@ -3362,6 +3380,24 @@
     "summary": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release A new security flaw in SmarterTools SmarterMail email software has come under active exploitation in the wild, two days after the release of a patch.\nThe vulnerability, which currently does not have a CVE \u2026",
     "title": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release"
   },
+  "https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6GfPr6A1uY8KhmAw_BnWkdf6psUxmcTyTGGRQmw4LwX7cYRCH1CIS_hoATQj0ZLWSWI2brY2fVOsyx5vtncgWgg7D3KFpyIp4cazlOS1ByTGkRPY0ZjHBMelCGtrLsCktO8_bmIa48L8voQKre51yUDBaNY8qO_c-imAcN9Cj3FKLx3KQ12wYFxs0OOGV/s1600/solarwinds.jpg",
+    "published": "2026-01-29T09:00:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass SolarWinds has released security updates to address multiple security vulnerabilities impacting SolarWinds Web Help Desk, including four critical vulnerabilities that could result in authe\u2026",
+    "title": "SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass"
+  },
+  "https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhndro6YfGYXSFh-wAT7XEfHLAjm5fzAlSj4nIw5XpxVdKfWDNMBz5PsrZaDPUkm_nUv8jTBBEq_-SprE2qSvV3-ennuzMFmLXU6m6v9Y9Tx_6SzEu2DRUinDU_qeTkdK6fvGS4IbkBl7YCsfyWFgrKKDlxZWDTpSLrN3psyCfZ2iNDcZFhqX4dLXuk8os/s1600/2025-hackernews-100-energy-systems-FeaturedImage-728x380.jpg",
+    "published": "2026-01-29T11:55:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps A study by OMICRON has revealed widespread cybersecurity gaps in the operational technology (OT) networks of substations, power plants, and control centers worldwide. Drawing on data from more than 100 installat\u2026",
+    "title": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps"
+  },
   "https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkiUvCH8FmVQqzbY2bGi6CJGsbrnr5MZ3rJH6vFxhyIAeuPvl-sx7ZUtjbaIbfJMjZkpHRYY8d2GBtobRF8W8JAinRMQ1JImmAKzS696J2gkYBuXFkkh1Hi0VLFVx9ARSlEPD-52BAZDGWD2QcCRQvOXmbDAycx4zRbULCNCcBUgG2sP6YSzQshZdbKRs/s1600/non-human-employees.jpg",
@@ -3424,6 +3460,15 @@
     "source": "The Hacker News",
     "summary": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories The first ThreatsDay Bulletin of 2026 lands on a day that already feels symbolic \u2014 new year, new breaches, new tricks. If the past twelve months taught defenders anything, it\u2019s that \u2026",
     "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories"
+  },
+  "https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf9SbFXbZQct1Wv_AQYHmdxLtLQA3WcRYvE1h1O0tOFuTdYd4dt90zYmpbisbBaxpw-W6mTvDjyj1_t5kT4IwXNHd79KUAVhbRipMsb7u97bPjrkN4ATjfy5J-KXAgE502qUoy6fFcAC9ottxydNt5nFPXoM1j979_3uy752gIiMR3DUDKNSaca6_qhnHt/s1600/threatsday.jpg",
+    "published": "2026-01-29T13:01:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories This week\u2019s updates show how small changes can create real problems. Not loud incidents, but quiet shifts that are easy to miss until they add up. The kind that affects systems people rely on every day.\n\u2026",
+    "title": "ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories"
   },
   "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html": {
     "categories": [],
@@ -3505,6 +3550,15 @@
     "source": "The Hacker News",
     "summary": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution Cybersecurity researchers have disclosed two new security flaws in the n8n workflow automation platform, including a crucial vulnerability that could result in remote code execution.\nThe weaknesses, discovered \u2026",
     "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution"
+  },
+  "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4Rs7Y_u40V21-Pl0vLEibJfbiR_LUST7UWdsOc9zTPLJpEhBLV93qKih14JGk5_eSXBGn52Y4r6kHmGbwMzHcNlHhG7Am4AmcvHu_o6ym059uR8ffyWrCPg88xxTCqjW8-IobxZ4nkQ76bBc6gf05D7M6M49KofRepS8DcmkcoDAcZy7X6g-K7geZPTBw/s1600/ivanti-zero-day.jpg",
+    "published": "2026-01-30T04:43:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-day attacks, one of which has been added by the U\u2026",
+    "title": "Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released"
   },
   "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html": {
     "categories": [],
@@ -4317,6 +4371,18 @@
     "summary": "Google is testing a new image AI and it's going to be its fastest model Google is testing a new image AI model called \"Nano Banana 2 Flash,\" and it's going to be as good as the Gemini 3 Pro Nano Banana, but it'll be cheaper. [...]",
     "title": "Google is testing a new image AI and it's going to be its fastest model"
   },
+  "https://www.bleepingcomputer.com/news/google/google-rolls-out-android-theft-protection-feature-updates/": {
+    "categories": [
+      "Google",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-29T11:56:26+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google rolls out Android theft protection feature updates \u200bGoogle has introduced stronger Android authentication safeguards and enhanced recovery tools to make smartphones more challenging targets for thieves. [...]",
+    "title": "Google rolls out Android theft protection feature updates"
+  },
   "https://www.bleepingcomputer.com/news/google/google-search-ai-hallucinations-push-google-to-hire-ai-answers-quality-engineers/": {
     "categories": [
       "Google",
@@ -4673,6 +4739,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: KB5070311 triggers File Explorer white flash in dark mode Microsoft has confirmed that the KB5070311 preview update is triggering bright white flashes when launching the File Explorer in dark mode on Windows 11 systems. [...]",
     "title": "Microsoft: KB5070311 triggers File Explorer white flash in dark mode"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-windows-11-boot-failures-to-failed-december-2025-update/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-01-30T00:21:49+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft links Windows 11 boot failures to failed December 2025 update Microsoft has linked recent reports of Windows 11 boot failures after installing the January 2026 updates to previously failed attempts to install the December 2025 security update, which left systems in an \"\u2026",
+    "title": "Microsoft links Windows 11 boot failures to failed December 2025 update"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-soon-allow-it-admins-to-uninstall-copilot-on-managed-devices/": {
     "categories": [
@@ -5137,6 +5214,18 @@
     "summary": "Microsoft: Windows updates make password login option invisible Microsoft warned users that Windows 11 updates released since August may cause the password sign-in option to disappear from the lock screen options, even though the button remains functional. [...]",
     "title": "Microsoft: Windows updates make password login option invisible"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-feature-will-let-you-report-suspicious-calls/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-29T14:49:47+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New Microsoft Teams feature will let you report suspicious calls Microsoft plans to introduce a call reporting feature in Teams by mid-March, allowing users to flag suspicious or unwanted\u00a0calls as potential scams or phishing attempts. [...]",
+    "title": "New Microsoft Teams feature will let you report suspicious calls"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/": {
     "categories": [
       "Microsoft",
@@ -5449,6 +5538,17 @@
     "source": "BleepingComputer",
     "summary": "Aisuru botnet behind new record-breaking 29.7 Tbps DDoS attack In just three months, the massive Aisuru botnet launched more than 1,300 distributed denial-of-service attacks, one of them setting a new record with a peak at 29.7 terabits per second. [...]",
     "title": "Aisuru botnet behind new record-breaking 29.7 Tbps DDoS attack"
+  },
+  "https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-29T14:55:25+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Aisuru botnet sets new record with 31.4 Tbps DDoS attack The Aisuru/Kimwolf botnet launched a new massive distributed denial of service (DDoS) attack in December 2025, peaking at 31.4 Tbps and 200 million requests per second. [...]",
+    "title": "Aisuru botnet sets new record with 31.4 Tbps DDoS attack"
   },
   "https://www.bleepingcomputer.com/news/security/alleged-meduza-stealer-malware-admins-arrested-after-hacking-russian-org/": {
     "categories": [
@@ -7037,6 +7137,18 @@
     "summary": "France fines Free Mobile \u20ac42 million over 2024 data breach incident The French data protection authority (CNIL) has imposed cumulative fines of \u20ac42 million on Free Mobile and its parent company, Free, for inadequate protection of customer data against cyber threats. [...]",
     "title": "France fines Free Mobile \u20ac42 million over 2024 data breach incident"
   },
+  "https://www.bleepingcomputer.com/news/security/france-fines-unemployment-agency-5-million-over-data-breach/": {
+    "categories": [
+      "Security",
+      "Government"
+    ],
+    "image": "",
+    "published": "2026-01-29T13:36:01+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "France fines unemployment agency \u20ac5 million over data breach The French data protection authority fined the national employment agency \u20ac5 million (nearly \u20ac6 million) for failing to secure job seekers' data, which allowed hackers to steal the personal information of 43 million peo\u2026",
+    "title": "France fines unemployment agency \u20ac5 million over data breach"
+  },
   "https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/": {
     "categories": [
       "Security"
@@ -7224,6 +7336,18 @@
     "source": "BleepingComputer",
     "summary": "Google Chrome adds new security layer for Gemini AI agentic browsing Google Chrome is introducing a new security architecture designed to protect upcoming agentic AI browsing features powered by Gemini. [...]",
     "title": "Google Chrome adds new security layer for Gemini AI agentic browsing"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-01-29T19:29:17+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Google disrupts IPIDEA residential proxy networks fueled by malware IPIDEA, one of the largest residential proxy networks used by threat actors, was disrupted earlier this week by Google Threat Intelligence Group (GTIG) in collaboration with industry partners. [...]",
+    "title": "Google disrupts IPIDEA residential proxy networks fueled by malware"
   },
   "https://www.bleepingcomputer.com/news/security/google-expands-android-scam-protection-feature-to-chase-cash-app-in-us/": {
     "categories": [
@@ -7764,6 +7888,18 @@
     "summary": "HPE warns of maximum severity RCE flaw in OneView software Hewlett Packard Enterprise (HPE) has patched a maximum-severity vulnerability in its HPE OneView software that enables\u00a0attackers to execute arbitrary code remotely. [...]",
     "title": "HPE warns of maximum severity RCE flaw in OneView software"
   },
+  "https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/": {
+    "categories": [
+      "Security",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-01-29T22:08:19+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hugging Face abused to spread thousands of Android malware variants A new Android malware campaign is using the Hugging Face platform as a repository for thousands of variations of an APK payload that collects credentials for popular financial and payment services. [...]",
+    "title": "Hugging Face abused to spread thousands of Android malware variants"
+  },
   "https://www.bleepingcomputer.com/news/security/hyundai-autoever-america-data-breach-exposes-ssns-drivers-licenses/": {
     "categories": [
       "Security"
@@ -7926,6 +8062,17 @@
     "source": "BleepingComputer",
     "summary": "Ivanti warns of critical Endpoint Manager code execution flaw American IT software company Ivanti warned customers today to patch a newly disclosed vulnerability in its Endpoint Manager (EPM) solution that could allow attackers to execute code remotely. [...]",
     "title": "Ivanti warns of critical Endpoint Manager code execution flaw"
+  },
+  "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-29T22:07:33+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Ivanti warns of two EPMM flaws exploited in zero-day attacks Ivanti has disclosed two critical vulnerabilities\u00a0in Ivanti Endpoint Manager Mobile (EPMM), tracked as CVE-2026-1281 and CVE-2026-1340, that were exploited in zero-day\u00a0attacks. [...]",
+    "title": "Ivanti warns of two EPMM flaws exploited in zero-day attacks"
   },
   "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-cyberattack-cost-the-company-over-220-million/": {
     "categories": [
@@ -8234,6 +8381,17 @@
     "summary": "Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison A 44-year-old man was sentenced to seven years and four months in prison for operating an \"evil twin\" WiFi network to steal the data of unsuspecting travelers at various airports across Australia. [...]",
     "title": "Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison"
   },
+  "https://www.bleepingcomputer.com/news/security/marquis-blames-ransomware-breach-on-sonicwall-cloud-backup-hack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-29T17:57:58+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Marquis blames ransomware breach on SonicWall cloud backup hack Marquis Software Solutions, a Texas-based financial services provider, is blaming a ransomware attack that impacted its systems and affected dozens of U.S. banks and credit unions in August 2025 on a security breach \u2026",
+    "title": "Marquis blames ransomware breach on SonicWall cloud backup hack"
+  },
   "https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/": {
     "categories": [
       "Security"
@@ -8256,6 +8414,17 @@
     "source": "BleepingComputer",
     "summary": "Massive Rainbow Six Siege breach gives players billions of credits Ubisoft's Rainbow Six Siege (R6) suffered a breach that allowed hackers to abuse internal systems to ban and unban players, manipulate in-game moderation feeds, and grant massive amounts of in-game currency and co\u2026",
     "title": "Massive Rainbow Six Siege breach gives players billions of credits"
+  },
+  "https://www.bleepingcomputer.com/news/security/match-group-breach-exposes-data-from-hinge-tinder-okcupid-and-match/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-29T18:09:40+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match Match Group, the owner of multiple popular online dating services, Tinder, Match.com, Meetic, OkCupid, and Hinge, confirmed a cybersecurity incident that compromised user data. [...]",
+    "title": "Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match"
   },
   "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/": {
     "categories": [
@@ -8898,6 +9067,17 @@
     "source": "BleepingComputer",
     "summary": "North Korean hackers exploit React2Shell flaw in EtherRAT malware attacks A new malware implant called EtherRAT, deployed in a recent React2Shell attack, runs five separate Linux persistence mechanisms and leverages Ethereum smart contracts for communication with the attacker. [.\u2026",
     "title": "North Korean hackers exploit React2Shell flaw in EtherRAT malware attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-29T15:02:12+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Not a Kids Game: From Roblox Mod to Compromising Your Company Seemingly harmless game mods can hide infostealer malware that quietly steals identities. Flare shows how Roblox mods can turn a home PC infection into corporate compromise. [...]",
+    "title": "Not a Kids Game: From Roblox Mod to Compromising Your Company"
   },
   "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/": {
     "categories": [
@@ -10909,6 +11089,15 @@
     "summary": "Supply Chain Attacks Targeting GitHub Actions Increased in 2025 At this week's Black Hat Europe conference, two researchers urged developers to adopt a shared responsibility model for open source software and not leave it all up to GitHub to handle.",
     "title": "Supply Chain Attacks Targeting GitHub Actions Increased in 2025"
   },
+  "https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8388f8f5c698ee1e/697bcefb49b2f5ccd0d80d98/Russell_Vought_Abaca_Press_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-29T22:25:07+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Trump Administration Rescinds Biden-Era SBOM Guidance Federal agencies will no longer be required to solicit software bills of material (SBOMs) from tech vendors, nor attestations that they comply with NIST's Secure Software Development Framework (SSDF). What that means long term\u2026",
+    "title": "Trump Administration Rescinds Biden-Era SBOM Guidance"
+  },
   "https://www.darkreading.com/application-security/vibe-coding-innovation-demands-vigilance": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8359f9fc3c8cb3a1/693c70cd516b719f628b72c3/office_worker_blindfold_Elnur_Amikishiyev_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -11145,6 +11334,15 @@
     "summary": "How CISOs Can Best Work With CEOs and the Board: Lessons From the Field To build an effective relationship with the CEO and board, CISOs must translate technical risks into business terms and position cybersecurity as a strategic business enabler rather than just a business funct\u2026",
     "title": "How CISOs Can Best Work With CEOs and the Board: Lessons From the Field"
   },
+  "https://www.darkreading.com/cyber-risk/how-cisos-respond-ransomware-getting-more-violent": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2a664b4c9f102c54/67041e74357c961dfaad7427/Natee_Jindakum-CISO-icons-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-28T22:51:36+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "How Can CISOs Respond to Ransomware Getting More Violent? Ransomware defense requires focusing on business resilience. This means patching issues promptly, improving user education, and deploying multifactor authentication.",
+    "title": "How Can CISOs Respond to Ransomware Getting More Violent?"
+  },
   "https://www.darkreading.com/cyber-risk/how-cyber-insurance-mga-shape-cyber-risk-policy": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta75787bee51209ca/6940d0ceeaf13f52d784d119/insurancetech-_Rawpixel_Ltd-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -11352,6 +11550,15 @@
     "source": "darkreading",
     "summary": "With Friends Like These: China Spies on Russian IT Orgs State-linked hackers stayed under the radar by using a variety of commercial cloud services for command-and-control communications.",
     "title": "With Friends Like These: China Spies on Russian IT Orgs"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta35e927d03abf966/697bc88ec469bc6d5a03a84f/chinaapts_DragosCondrea_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-30T02:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Chinese APTs Hacking Asian Orgs With High-End Malware Advanced persistent threat (APT) groups have deployed new cyber weapons against a variety of targets, highlighting the increasing threats to the region.",
+    "title": "Chinese APTs Hacking Asian Orgs With High-End Malware"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/cisa-ongoing-brickstorm-backdoor-attacks": {
     "categories": [],
@@ -11957,6 +12164,15 @@
     "source": "darkreading",
     "summary": "Let's Get Physical: A New Convergence for Electrical Grid Security The power grid is being attacked online and IRL. Increasingly, regulators and industry experts agree: Security teams need to focus on both cyber and physical threats, together.",
     "title": "Let's Get Physical: A New Convergence for Electrical Grid Security"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/quantum-ai-risks-cybersecuritys-future": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltedb1bea2d486b68c/697b81dea84cdccb8474a5d7/new_years_resolutions_Keitma_alamy1800.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-29T15:32:24+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "From Quantum to AI Risks: Preparing for Cybersecurity's Future As 2026 begins, these journalists urge the cybersecurity industry to prioritize patching vulnerabilities, preparing for quantum threats, and refining AI applications, in the latest edition of Reporters' Notebook.",
+    "title": "From Quantum to AI Risks: Preparing for Cybersecurity's Future"
   },
   "https://www.darkreading.com/cybersecurity-operations/securing-win-what-cybersecurity-learn-from-paddock": {
     "categories": [],
@@ -12798,6 +13014,15 @@
     "summary": "Critical Flaw in Oracle Identity Manager Under Exploitation The exploitation of CVE-2025-61757 follows a breach of Oracle Cloud earlier this year as well as a recent extortion campaign targeting Oracle E-Business Suite customers.",
     "title": "Critical Flaw in Oracle Identity Manager Under Exploitation"
   },
+  "https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf5b26145b966c08c/697bbdcbc469bccd7603a820/n8n_Azulblue_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-29T21:53:01+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "More Critical Flaws on n8n Could Compromise Customer Security A new around of vulnerabilities in the popular AI automation platform could let attackers hijack servers and steal credentials.",
+    "title": "More Critical Flaws on n8n Could Compromise Customer Security"
+  },
   "https://www.darkreading.com/vulnerabilities-threats/critical-react-flaw-triggers-immediate-action": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6cc9f3be7b3307fc/6930abbf9c83974138ac4920/react_KoshiroK_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -12943,6 +13168,15 @@
     "source": "darkreading",
     "summary": "RondoDox Botnet Expands Scope With React2Shell Exploitation Recent attacks are targeting Next.js servers and pose a significant threat of cryptomining, botnet payloads, and other malicious activity to IoT networks and enterprises.",
     "title": "RondoDox Botnet Expands Scope With React2Shell Exploitation"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/semantic-chaining-jailbreak-gemini-nano-banana-grok-4": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1e0bf0ba527ee27e/697a7d5a5042f93d2dd1b261/Gemini_Grok_ChatGPT-Robert_W-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-29T16:09:01+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "'Semantic Chaining' Jailbreak Dupes Gemini Nano Banana, Grok 4 If an attacker splits a malicious prompt into discrete chunks, some large language models (LLMs) will get lost in the details and miss the true intent.",
+    "title": "'Semantic Chaining' Jailbreak Dupes Gemini Nano Banana, Grok 4"
   },
   "https://www.darkreading.com/vulnerabilities-threats/sonicwall-edge-devices-zero-day-attacks": {
     "categories": [],
