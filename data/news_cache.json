@@ -2462,6 +2462,15 @@
     "summary": "AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks A critical misconfiguration in Amazon Web Services (AWS) CodeBuild could have allowed complete takeover of the cloud service provider's own GitHub repositories, including its AWS JavaScript SDK,\u2026",
     "title": "AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks"
   },
+  "https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEulnS63dy7njgVFds_geMDCv0zmG26xS14G9C5NKNmD7sT42_P_f_GjJhkzZ59m-fobXQGPzP65ioXYtq0edn3Wje7rXn9is0fPlt-XMHhtAtE7cp5B4M_Mw3lwHJ4u-nHOJt4OoyJ1sRd6RXPRXY1dBkFAeOtzAaij6WlX0syPvBqSMV5G2Kt8ylkPU/s1600/orange.jpg",
+    "published": "2026-01-30T11:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Badges, Bytes and Blackmail Behind the scenes of law enforcement in cyber: what do we know about caught cybercriminals? What brought them in, where do they come from and what was their function in the crimescape?\n\nIntroduction: One view on the scattered fight against cybercrime\nT\u2026",
+    "title": "Badges, Bytes and Blackmail"
+  },
   "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRjeSAB0rkk2lglAZ8hgVe7QDPCxycsYNyYdH-GgUX4XyDU2mGl_iQ2uOtMu8ShG5OlzZ-ds7crBTv8Orc9nSe-JMycT7ukvHmQ-yEmXZPSwkhY8DlnPvfag3d0RdJ6fPAV_baXOgwpvJefpvO08HzmLNZF13f5d9oL63dXTTBS72P_2lg0lsaEJCQx82C/s1600/bitfinex-case.jpg",
@@ -2533,6 +2542,15 @@
     "source": "The Hacker News",
     "summary": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes A China-nexus threat actor known as UAT-7290 has been attributed to espionage-focused intrusions against entities in South Asia and Southeastern Europe.\nThe activity cluster, which has been active since at le\u2026",
     "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes"
+  },
+  "https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHLguVjEqBEjsNUwBu1Bv6QSXsAEumwRQ9SbyNaXyyoeA_U8-ZAttNvbX30QiW6E5a8New3cjan0cGsHJbPTtifUFLjERM37BpZX0BV_zgqeGeRXpb527_kE400nvKQ9HfQk423qmnak8ZpzFCGzPz7LIdbhbnRWnj29uOPXOrQzIEwvvIDE3VnSAypa1y/s1600/chinese-hackers.jpg",
+    "published": "2026-01-30T12:08:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware Cybersecurity researchers have discovered a new campaign attributed to a China-linked threat actor known as UAT-8099 that took place between late 2025 and early 2026.\nThe activity, discovered by Cisco Talos\u2026",
+    "title": "China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware"
   },
   "https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html": {
     "categories": [],
@@ -2758,6 +2776,15 @@
     "source": "The Hacker News",
     "summary": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft\u2026",
     "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto"
+  },
+  "https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiLCvokVP8ei0IzeeCTdv8uXcyZ4052maeakPb57SypS2iVyNL4ctwUKjGUjrdVBYyS7eCP-5fydL1UJXLGmg4Ae5wY6J1Nhaph__CeBi2ht5W-XTJhBim8IbYf78EgXdZ7omg2O30DgJCZPTqN1CPQMZ5023ZGU0K5jTmxoX251whXEQ0CljA9BP9RWZ/s1600/ai-secrets.jpg",
+    "published": "2026-01-30T07:35:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Ex-Google Engineer Convicted for Stealing AI Secrets for China Startup A former Google engineer accused of stealing thousands of the company's confidential documents to build a startup in China has been convicted in the U.S., the Department of Justice (DoJ) announced Thursday.\nLi\u2026",
+    "title": "Ex-Google Engineer Convicted for Stealing AI Secrets for China Startup"
   },
   "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html": {
     "categories": [],
@@ -3281,6 +3308,15 @@
     "summary": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of new cyber attacks targeting its defense forces with malware known as PLUGGYAPE between October and December 2025.\nThe a\u2026",
     "title": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces"
   },
+  "https://thehackernews.com/2026/01/poland-attributes-december-cyber.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5cwnqWO_vrn1IMT0UVtME4aucCsS_J5p48slMlc8jBUgNPFLBUdakBPEj38y6dnkUlrnRMdSA3IB7Jc5hVxU227Jl7T6641Py08_lld2UzvG8YoKmJYr07piXYUzyMFW4HwBDuxUgzu2R-j3pcGZ_2yJIZOKlQPvoMIKXtaj2HXUuJJXsUaf8lqvoD5qm/s1600/energy.jpg",
+    "published": "2026-01-31T07:05:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms CERT Polska, the Polish computer emergency response team, revealed that coordinated cyber attacks targeted more than 30 wind and photovoltaic farms, a private company from the manufacturing sector, and a la\u2026",
+    "title": "CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms"
+  },
   "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpmx-gYMpMW-nf6wXdiwU6bhhuySnvXQo3BifYIaLE8Vi7Verinm69xkQ4B2AWSXdkdU6yA0WjLVtNGvxx_QzRyxEDKxbpqil2P3NZzOQrFf_MihjJeRVJ64VrWW9IAW9eaxmay2BeiTCHKIestdHmy3KpDagP53nnYQkV4z2TsKoCa_m-gk7BCTue_CKE/s1600/Ollama.jpg",
@@ -3298,6 +3334,15 @@
     "source": "The Hacker News",
     "summary": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) cha\u2026",
     "title": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot"
+  },
+  "https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4xLoFpuzf6DbHF4Fy9WnEv4INmkiXkLiWxb9Pc7eqWDphv3Wcp57B38zLriR2xberjGDP_Xll60j1q8KmqpFTu9yfBIuyWilyHA97sm4-2CD_yqTOJubfYUKDp_-gkGHS-f-tcZYMk4N3sjwNzcy3GomBw-yVigT-MqY3J77PiGLVQyGK8JKHla5vykAd/s1600/chrome.jpg",
+    "published": "2026-01-30T13:42:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access Cybersecurity researchers have discovered malicious Google Chrome extensions that come with capabilities to hijack affiliate links, steal data, and collect OpenAI ChatGPT authentication toke\u2026",
+    "title": "Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access"
   },
   "https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html": {
     "categories": [],
@@ -3379,6 +3424,15 @@
     "source": "The Hacker News",
     "summary": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release A new security flaw in SmarterTools SmarterMail email software has come under active exploitation in the wild, two days after the release of a patch.\nThe vulnerability, which currently does not have a CVE \u2026",
     "title": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release"
+  },
+  "https://thehackernews.com/2026/01/smartermail-fixes-critical.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg68yf4tK-m7j1I6zRCo-SBeQ4cCXmLiwvPRMoEXS_I8m7V53UUmULEbWr2vVAEJd34U0hknt8J5wnzcNv1kGayBLApw6mu0UmRZRyCstoXJAteTDrnRZBnoh5n3ROzBarjsRgPXeV_1WDsxQmg5ysAETrtYI3L9oNWnX246xTksVuWWqi34CzJCJnFc0uv/s1600/smartertools.jpg",
+    "published": "2026-01-30T07:09:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score SmarterTools has addressed two more security flaws in SmarterMail email software, including one critical security flaw that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2026-244\u2026",
+    "title": "SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score"
   },
   "https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html": {
     "categories": [],
@@ -4441,6 +4495,17 @@
     "summary": "FTC: Instacart to refund $60M over deceptive subscription tactics Grocery delivery service Instacart will refund $60 million to settle FTC claims that it misled customers with false advertising and unlawfully enrolled them in paid subscriptions. [...]",
     "title": "FTC: Instacart to refund $60M over deceptive subscription tactics"
   },
+  "https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/": {
+    "categories": [
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-01-30T16:39:43+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Operation Switch Off dismantles major pirate TV streaming services The latest phase of the global law enforcement action resulted in seizing three industrial-scale illegal IPTV services. [...]",
+    "title": "Operation Switch Off dismantles major pirate TV streaming services"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/": {
     "categories": [
       "Microsoft",
@@ -4649,6 +4714,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft fixes bug causing false Windows 10 end-of-support alerts Microsoft has resolved a bug causing incorrect Windows 10 end-of-support warnings on systems with active security coverage or still under active support after installing the October 2025 updates. [...]",
     "title": "Microsoft fixes bug causing false Windows 10 end-of-support alerts"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-01-30T14:48:49+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft fixes Outlook bug blocking access to encrypted emails Microsoft has fixed a known issue that prevented Microsoft 365 customers from opening encrypted emails in classic Outlook after a recent\u00a0update. [...]",
+    "title": "Microsoft fixes Outlook bug blocking access to encrypted emails"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-explorer-white-flashes-in-dark-mode/": {
     "categories": [
@@ -5062,6 +5138,18 @@
     "summary": "Microsoft is speeding up the Teams desktop client for Windows Microsoft says it will add a new Teams call handler beginning in January 2026 to reduce launch times and boost call performance for the Windows desktop client. [...]",
     "title": "Microsoft is speeding up the Teams desktop client for Windows"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-30T17:08:57+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft to disable NTLM by default in future Windows releases Microsoft announced that it will disable the 30-year-old NTLM authentication protocol by default in upcoming Windows releases due to\u00a0security vulnerabilities that expose organizations to cyberattacks. [...]",
+    "title": "Microsoft to disable NTLM by default in future Windows releases"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/": {
     "categories": [
       "Microsoft",
@@ -5325,6 +5413,17 @@
     "source": "BleepingComputer",
     "summary": "Windows 11 KB5072033 & KB5071417 cumulative updates released Microsoft has released Windows 11\u00a0KB5072033 and\u00a0KB5071417 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
     "title": "Windows 11 KB5072033 & KB5071417 cumulative updates released"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074105-update-fixes-boot-sign-in-and-activation-issues/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-01-30T12:02:09+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 KB5074105 update fixes boot, sign-in, and activation issues Microsoft has released the KB5074105 preview cumulative update for Windows 11 systems, which includes 32 changes, including fixes for sign-in, boot, and activation issues. [...]",
+    "title": "Windows 11 KB5074105 update fixes boot, sign-in, and activation issues"
   },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074109-and-kb5073455-cumulative-updates-released/": {
     "categories": [
@@ -6455,6 +6554,17 @@
     "source": "BleepingComputer",
     "summary": "CrowdStrike catches insider feeding information to hackers American cybersecurity firm CrowdStrike has confirmed that an insider shared screenshots taken on internal systems with hackers after they were leaked on Telegram by the Scattered Lapsus$ Hunters threat actors. [...]",
     "title": "CrowdStrike catches insider feeding information to hackers"
+  },
+  "https://www.bleepingcomputer.com/news/security/crypto-wallets-received-a-record-158-billion-in-illicit-funds-last-year/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-01-30T18:49:51+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Crypto wallets received a record $158 billion in illicit funds last year Illegal cryptocurrency flows hit a record $158 billion in 2025, reversing a three-year trend of declining amounts from $86B in 2021 to $64B in 2024. [...]",
+    "title": "Crypto wallets received a record $158 billion in illicit funds last year"
   },
   "https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/": {
     "categories": [
@@ -11013,6 +11123,15 @@
     "summary": "Multiple ChatGPT Security Bugs Allow Rampant Data Theft Attackers can use them to inject arbitrary prompts, exfiltrate personal user information, bypass safety mechanisms, and take other malicious actions.",
     "title": "Multiple ChatGPT Security Bugs Allow Rampant Data Theft"
   },
+  "https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2da75d92a779fe95/697cfe6249b2f57fe9d81054/crabclaw-AfriPics.com-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-30T16:40:34+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "OpenClaw AI Runs Wild in Business Environments The popular open source AI assistant (aka ClawdBot, MoltBot) has taken off, raising security concerns over its privileged, autonomous control within users' computers.",
+    "title": "OpenClaw AI Runs Wild in Business Environments"
+  },
   "https://www.darkreading.com/application-security/owasp-highlights-supply-chain-risks-new-top-10": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf79663c8258d2e9f/69125bcec5908516224a49b7/supplychain_A9_STUDIO_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -11438,6 +11557,15 @@
     "source": "darkreading",
     "summary": "Taiwan Endures Greater Cyber Pressure From China Chinese cyberattacks on Taiwan's critical infrastructure \u2014 including energy utilities and hospitals \u2014\u00a0rose 6% in 2025, averaging 2.63 million attacks a day.",
     "title": "Taiwan Endures Greater Cyber Pressure From China"
+  },
+  "https://www.darkreading.com/cyber-risk/tenable-tackles-ai-governance-shadow-ai-risks-data-exposure": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte17bc7f9dced30f8/67598def098d3995d4241885/network-attack-HernanSchmidt-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-30T20:23:53+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Tenable Tackles AI Governance, Shadow AI Risks, Data Exposure The Tenable One AI Exposure add-on discovers unsanctioned AI use in the organization and enforces policy compliance with approved tools.",
+    "title": "Tenable Tackles AI Governance, Shadow AI Risks, Data Exposure"
   },
   "https://www.darkreading.com/cyber-risk/trade-concerns-trumping-cybersecurity": {
     "categories": [],
@@ -12677,6 +12805,15 @@
     "summary": "Winter Olympics Could Share Podium With Cyberattackers The upcoming Winter Games in the Italian Alps are attracting both hacktivists looking to reach billions of people and state-sponsored cyber-spies targeting the attending glitterati.",
     "title": "Winter Olympics Could Share Podium With Cyberattackers"
   },
+  "https://www.darkreading.com/threat-intelligence/2026-agentic-ai-attack-surface-poster-child": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt57b3a8fe4390c38b/697d0fde4671d821edd1dec7/redrobot-Robert_Evans-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-30T21:16:15+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "2026: The Year Agentic AI Becomes the Attack-Surface Poster Child Dark Reading asked readers whether agentic AI attacks, advanced deepfake threats, board recognition of cyber as a top priority, or password-less technology adoption would be most likely to become a trending reality\u2026",
+    "title": "2026: The Year Agentic AI Becomes the Attack-Surface Poster Child"
+  },
   "https://www.darkreading.com/threat-intelligence/akira-raas-nutanix-vms-critical-orgs": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt45b4f2f2f8b69096/6917943f43e227caace3ecf6/Akira_film-Pictorial_Press_Ltd-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -12720,6 +12857,15 @@
     "source": "darkreading",
     "summary": "China-Backed 'PeckBirdy' Takes Flight for Cross-Platform Attacks In two separate campaigns, attackers used the JScript C2 framework to target Chinese gambling websites and Asian government entities with new backdoors.",
     "title": "China-Backed 'PeckBirdy' Takes Flight for Cross-Platform Attacks"
+  },
+  "https://www.darkreading.com/threat-intelligence/cyber-expectations-2026-grab-bag-risk": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt22940fd5b14c854e/697d35710a92d05703605cd1/rolldice-Dennis_Hallinan-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-01-30T21:14:32+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Out-of-the-Box Expectations for 2026 Reveal a Grab-Bag of Risk Security teams need to be thinking about this list of emerging cybersecurity realities, to avoid rolling the dice on enterprise security risks (and opportunities).",
+    "title": "Out-of-the-Box Expectations for 2026 Reveal a Grab-Bag of Risk"
   },
   "https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats": {
     "categories": [],
