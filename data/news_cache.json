@@ -3821,6 +3821,42 @@
     "summary": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware The update infrastructure for eScan antivirus, a security solution developed by Indian cybersecurity company MicroWorld Technologies, has been compromised by unknown attackers to deliver a persistent downlo\u2026",
     "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware"
   },
+  "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZOf9qxdul5asVTIVQe4P6l_tPfVmbnsfVrt3cNmU3_q5qDeFcqXdve4AgXe-z7gCGozXQ3z0wDZnXn_-bynodpDfeUQaM5T4CFWpZUcGsbD-R-JS93Jp_1R37WQkCU4gLLpFjDxkN6T2DpAXXthKXl4QDIe_D486n18bp4_yyxt2DuVz2-zLjTybVQFDS/s1600/windows.jpg",
+    "published": "2026-02-02T15:59:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos Microsoft has announced a three-phase approach to phase out New Technology LAN Manager (NTLM) as part of its efforts to shift Windows environments toward stronger, Kerberos-based options.\nThe develo\u2026",
+    "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos"
+  },
+  "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJFREHntU9jE2vdgmfzAVYrexFXt9MeruM4HiYozg9V4r-x4KdVLieGy3RgN40mWiE7m_U-d-rinldqoyYhf7hETgMSb-JI6pzdyOyCqm-Xogscv90ZTzis-Hfxe3LwKTWOLoLF52CZz6yVKTVX4Dk6AF4Ad_UwTaDQjqUw7J3DafVFVomKMVyEnoLjioB/s1600/firefox.jpg",
+    "published": "2026-02-03T05:39:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artificial intelligence (GenAI) features.\n\"It provides a singl\u2026",
+    "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox"
+  },
+  "https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzMhF4Q5Le-vJfovBcsvDHI-V4XTT-ZlCDveT5a3ibTH_5_USxu3yKbxTyY86_7HfbI0Lfcvl9zXpIWost8jehkxJ83EEkTpJNxySNjlntsGoxQtgJompW0iNQdpylvHAc5GkY-7L8X4iebatDHQUhMYFspiAKemuy_iPqtjz3NCwLXzIRC4xFOeiq6Ea5/s1600/notepad.jpg",
+    "published": "2026-02-03T04:55:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group A China-linked threat actor known as Lotus Blossom has been attributed with medium confidence to the recently discovered compromise of the infrastructure hosting Notepad++.\nThe attack enabled the stat\u2026",
+    "title": "Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group"
+  },
+  "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieIJHd4OQK00g8yDOJc5wJZ0EWtYGWBzwoLlIxw_YWELb5JYsmrE_jz2VDjexbfuzmGjZcvQ4iX6rAorcNC-7YgwG577NGRfGFuCzfGK9ZkMc7jiDLl9RCtRM45pUSLAOO-S-z1MDKEJjvXzxSZ90RQ4OmCPuYCHDEfBzgCADf21_XLxxBq9C7puPcFlL_/s1600/notepad-hacked.jpg",
+    "published": "2026-02-02T08:55:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users The maintainer of Notepad++ has revealed that state-sponsored attackers hijacked the utility's update mechanism to redirect update traffic to malicious servers instead.\n\"The attack involved [an] infra\u2026",
+    "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users"
+  },
   "https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPOwjTAXR_bWT_xYvDJKDsLnYrGiJXhQxeF4lVk_19Ovkom1S6fZsO3tDeSdpK2EZ8Q8ZJeDpWLtRhNHRisN-pwNwio6DDz24wH3nMyfzsT_ZpD2Mq08hKMJXWt_p8RxIK4DVpk70Ssm114e1BzrMJDDij0pYO1ZEOixGZtD0pB61mQWATJkAJP6gl_9BK/s1600/open.jpg",
@@ -3829,6 +3865,42 @@
     "source": "The Hacker News",
     "summary": "Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm Cybersecurity researchers have disclosed details of a supply chain attack targeting the Open VSX Registry in which unidentified threat actors compromised a legitimate developer's resources to push malic\u2026",
     "title": "Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm"
+  },
+  "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4fXSwhiW0Eb2lGzmNue91AjKZ-c420l6qWRP0mQkVZWlxxe_Iq0MkDlUYw7GrvFfd2UqhpLGsSYc9H3-o33nWGXEUX_OPcTWpzn3lQNvZTVyzEx1CJw2r2UQMfkFdNiHJF4_x8mLAkOy7st09Siko8G8KTlPyNkVNeLDf2xTKVgCFLnumaeT4v7Q_f27J/s1600/openclaw.jpg",
+    "published": "2026-02-02T16:28:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RCE) through a crafted malicious link.\nThe issue, which is t\u2026",
+    "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link"
+  },
+  "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrHsgrh_iIHVwJdfZ-6tSVag1fs71bd15QISN82bzqvxchcyJGuWdbtZRqQ25tJC_HoeaGAMI3phpFy_TAy2NYbSpJTwuTJ5jIz_QKmNPTv_zqA2GNvuozLGpKCqTa-OI1Hp-zOy_B8wjkvoYcBn56g09PpoQOMd568LfGiH7J0Ee0hg65eBaHSWxDe92m/s1600/OpenClaw-skills.jpg",
+    "published": "2026-02-02T17:49:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users A security audit of 2,857 skills on ClawHub has found 341 malicious skills across multiple campaigns, according to new findings from Koi Security, exposing users to new supply chain risks.\nClawHub is \u2026",
+    "title": "Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users"
+  },
+  "https://thehackernews.com/2026/02/securing-mid-market-across-complete.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4y344uMUZbiZBbPIsnlfMhx46Zt9i87UwhpylWJtJrZru1JWuGPnvuLUJJilFtcLXJ4a8nWv7V5qfYkvFXJzbo1N8cWgtTKpUBy3P75OTJqREoJ_uuk7pU-tY5Qf1R5yMlGNT-1iKpaZvcAc0Ge5ZPPR6j6Unygo3QQUfMP6CakkKSXQYntDi5TVYSw/s1600/bitdefender.jpg",
+    "published": "2026-02-02T11:45:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Securing the Mid-Market Across the Complete Threat Lifecycle For mid-market organizations, cybersecurity is a constant balancing act. Proactive, preventative security measures are essential to protect an expanding attack surface. Combined with effective protection that blocks thr\u2026",
+    "title": "Securing the Mid-Market Across the Complete Threat Lifecycle"
+  },
+  "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn9uSby99DCwswXd6TJFvm-PoprW_CRTBw9ybmBUQv9frf03WLoy6wgTB5IhjjulguZSLvc72tXk-6OrsFDjg5_Ab1QivwnXKZY16oC4sJ9iKE39MyxSXmXdWZ8o3XdAc4X3vB6-ed7x5WvNt149AgZ7EI7sTg2FDqcWU5HkI9Mli-dDUPUzj_ub_-umx0/s1600/recap.jpg",
+    "published": "2026-02-02T11:59:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats Every week brings new discoveries, attacks, and defenses that shape the state of cybersecurity. Some threats are stopped quickly, while others go unseen until they cause real damage.\nSometime\u2026",
+    "title": "\u26a1 Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/": {
     "categories": [
@@ -4787,6 +4859,17 @@
     "summary": "Microsoft fixes bug causing false Windows 10 end-of-support alerts Microsoft has resolved a bug causing incorrect Windows 10 end-of-support warnings on systems with active security coverage or still under active support after installing the October 2025 updates. [...]",
     "title": "Microsoft fixes bug causing false Windows 10 end-of-support alerts"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-02-02T11:34:34+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft fixes bug causing password sign-in option to disappear Microsoft has fixed a known issue that was causing the password sign-in option to disappear from the lock screen options after installing Windows 11 updates released since August 2025. [...]",
+    "title": "Microsoft fixes bug causing password sign-in option to disappear"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/": {
     "categories": [
       "Microsoft"
@@ -4876,6 +4959,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft January 2026 Patch Tuesday fixes 3 zero-days, 114 flaws Today is Microsoft's January 2026\u00a0Patch Tuesday with security updates for 114 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
     "title": "Microsoft January 2026 Patch Tuesday fixes 3 zero-days, 114 flaws"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-02-02T17:17:30+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: January update shutdown bug affects more Windows PCs Microsoft has confirmed that a known issue preventing some Windows 11 devices from shutting down also affects Windows 10 systems with Virtual Secure Mode (VSM) enabled. [...]",
+    "title": "Microsoft: January update shutdown bug affects more Windows PCs"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5070311-triggers-file-explorer-bright-white-flashes-in-dark-mode/": {
     "categories": [
@@ -6659,6 +6753,17 @@
     "source": "BleepingComputer",
     "summary": "Cryptocurrency theft attacks traced to 2022 LastPass breach Blockchain investigation firm TRM Labs says ongoing cryptocurrency thefts have been traced to the 2022 LastPass breach, with attackers draining wallets years after encrypted vaults were\u00a0stolen and laundering the crypto t\u2026",
     "title": "Cryptocurrency theft attacks traced to 2022 LastPass breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-02T15:34:44+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams Fake high-yield investment platforms are surging worldwide, promising \"guaranteed\" returns that mask classic Ponzi schemes.CTM360 explains how HYIP scams scale through social media, recycled templates, and re\u2026",
+    "title": "CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams"
   },
   "https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/": {
     "categories": [
@@ -8519,6 +8624,18 @@
     "summary": "Malicious LLMs empower inexperienced hackers with advanced tools Unrestricted large language models (LLMs) like WormGPT 4 and KawaiiGPT are improving their capabilities to generate malicious code, delivering functional scripts for ransomware encryptors and lateral movement. [...]",
     "title": "Malicious LLMs empower inexperienced hackers with advanced tools"
   },
+  "https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-02-02T19:11:12+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Malicious MoltBot skills used to push password-stealing malware More than 230 malicious packages for the personal AI assistant OpenClaw (formerly known as Moltbot and\u00a0ClawdBot) have been published in less than a week on the tool's official registry and on GitHub. [...]",
+    "title": "Malicious MoltBot skills used to push password-stealing malware"
+  },
   "https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/": {
     "categories": [
       "Security"
@@ -8863,6 +8980,17 @@
     "summary": "NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features NAKIVO Backup & Replication v11.1 expands disaster recovery with real-time replication, enhanced Proxmox VE support, and granular physical backups. The update adds MSP Direct Connect for secure client manage\u2026",
     "title": "NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features"
   },
+  "https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-02T10:05:57+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "NationStates confirms data breach, shuts down game site NationStates, a multiplayer browser-based game, has confirmed a data breach after taking its website offline earlier this week to investigate a security incident. [...]",
+    "title": "NationStates confirms data breach, shuts down game site"
+  },
   "https://www.bleepingcomputer.com/news/security/ncscs-proactive-notifications-warns-orgs-of-flaws-in-exposed-devices/": {
     "categories": [
       "Security"
@@ -8974,6 +9102,17 @@
     "source": "BleepingComputer",
     "summary": "New ErrTraffic service enables ClickFix attacks via fake browser glitches A new cybercrime tool\u00a0called ErrTraffic allows threat actors to automate ClickFix attacks by generating 'fake glitches' on compromised websites to lure users into downloading payloads or following malicious\u2026",
     "title": "New ErrTraffic service enables ClickFix attacks via fake browser glitches"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-02T22:04:19+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New GlassWorm attack targets macOS via compromised OpenVSX extensions A new GlassWorm malware attack\u00a0through compromised OpenVSX extensions focuses on stealing passwords, crypto-wallet data, and developer credentials and configurations from macOS systems. [...]",
+    "title": "New GlassWorm attack targets macOS via compromised OpenVSX extensions"
   },
   "https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/": {
     "categories": [
@@ -9305,6 +9444,17 @@
     "summary": "Notepad++ fixes flaw that let attackers push malicious update files Notepad++ version 8.8.9 was released to fix a security weakness in its WinGUp update tool after researchers and users reported incidents in which the updater retrieved malicious executables instead of legitimate \u2026",
     "title": "Notepad++ fixes flaw that let attackers push malicious update files"
   },
+  "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-update-feature-hijacked-by-chinese-state-hackers-for-months/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-02T14:53:52+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Notepad++ update feature hijacked by Chinese state hackers for months Chinese state-sponsored threat actors were likely behind the hijacking of Notepad++ update traffic last year that lasted for almost half a year, the developer states in an official announcement\u00a0today. [...]",
+    "title": "Notepad++ update feature hijacked by Chinese state hackers for months"
+  },
   "https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/": {
     "categories": [
       "Security",
@@ -9474,6 +9624,17 @@
     "source": "BleepingComputer",
     "summary": "Palo Alto Networks warns of DoS bug letting hackers disable firewalls Palo Alto Networks patched a high-severity vulnerability that could allow unauthenticated attackers to disable firewall protections in denial-of-service (DoS) attacks. [...]",
     "title": "Palo Alto Networks warns of DoS bug letting hackers disable firewalls"
+  },
+  "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-02T13:46:39+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Panera Bread breach impacts 5.1 million accounts, not 14 million customers The data breach notification service Have I Been Pwned says that a data breach at the U.S. food chain Panera Bread affected 5.1 million accounts, not 14 million customers as previously reported. [...]",
+    "title": "Panera Bread breach impacts 5.1 million accounts, not 14 million customers"
   },
   "https://www.bleepingcomputer.com/news/security/passwork-7-self-hosted-password-and-secrets-manager-for-enterprise-teams/": {
     "categories": [
@@ -9870,6 +10031,17 @@
     "source": "BleepingComputer",
     "summary": "Russian hackers abuse Hyper-V to hide malware in Linux VMs The Russian hacker group Curly COMrades is abusing Microsoft Hyper-V in Windows to bypass endpoint detection and response solutions by creating a hidden Alpine Linux-based virtual machine to run malware. [...]",
     "title": "Russian hackers abuse Hyper-V to hide malware in Linux VMs"
+  },
+  "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-02T21:00:07+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Russian hackers exploit recently patched Microsoft Office bug in attacks Ukraine's Computer Emergency Response Team (CERT) says that Russian hackers are exploiting CVE-2026-21509, a recently patched vulnerability in\u00a0multiple versions of Microsoft Office. [...]",
+    "title": "Russian hackers exploit recently patched Microsoft Office bug in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/salesforce-investigates-customer-data-theft-via-gainsight-breach/": {
     "categories": [
@@ -10988,6 +11160,17 @@
     "summary": "Zoom Stealer browser extensions harvest corporate meeting intelligence A newly discovered campaign, which researchers call Zoom Stealer, is affecting 2.2 million Chrome, Firefox, and Microsoft Edge users through 18 extensions that collect online meeting-related data like URLs, ID\u2026",
     "title": "Zoom Stealer browser extensions harvest corporate meeting intelligence"
   },
+  "https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/": {
+    "categories": [
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-02-02T18:09:13+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Mozilla announces switch to disable all Firefox AI features In response to user feedback on AI integration, Mozilla announced today that the next Firefox release will let users disable AI features entirely or manage them individually. [...]",
+    "title": "Mozilla announces switch to disable all Firefox AI features"
+  },
   "https://www.bleepingcomputer.com/news/software/thunderbird-adds-native-support-for-microsoft-exchange-accounts/": {
     "categories": [
       "Software",
@@ -11122,6 +11305,15 @@
     "source": "darkreading",
     "summary": "APT 'Bronze Butler' Exploits Zero-Day to Root Japan Orgs A critical security issue in a popular endpoint manager (CVE-2025-61932) allowed Chinese state-sponsored attackers to backdoor Japanese businesses.",
     "title": "APT 'Bronze Butler' Exploits Zero-Day to Root Japan Orgs"
+  },
+  "https://www.darkreading.com/application-security/chinese-hackers-hijack-notepad-updates-6-months": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7c6a1067f4bc53c3/6981019d195be4bafb6a8089/update_SuPatMaN_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-02T19:57:02+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Chinese Hackers Hijack Notepad++ Updates for 6 Months State-sponsored threat actors compromised the popular code editor's hosting provider to redirect targeted users to malicious downloads.",
+    "title": "Chinese Hackers Hijack Notepad++ Updates for 6 Months"
   },
   "https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026": {
     "categories": [],
@@ -11363,6 +11555,15 @@
     "source": "darkreading",
     "summary": "'Damn Vulnerable' Training Apps Leave Vendors' Clouds Exposed Hackers are already leveraging these over-permissioned programs to access the IT systems of major security vendors.",
     "title": "'Damn Vulnerable' Training Apps Leave Vendors' Clouds Exposed"
+  },
+  "https://www.darkreading.com/cloud-security/attackers-harvest-dropbox-logins-fake-pdf-lures": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltde0dd50be1f8d693/698109c083114ac5027006e9/Man_Fishing_Jorge_Fernandez_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-02T22:21:33+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Attackers Harvest Dropbox Logins Via Fake PDF Lures A malware-free phishing campaign targets corporate inboxes and asks employees to view &quot;request orders,&quot; ultimately leading to Dropbox credential theft.",
+    "title": "Attackers Harvest Dropbox Logins Via Fake PDF Lures"
   },
   "https://www.darkreading.com/cloud-security/attackers-use-stolen-aws-credentials-cryptomining": {
     "categories": [],
@@ -12030,6 +12231,15 @@
     "summary": "Shai-hulud 2.0 Variant Threatens Cloud Ecosystem The latest attack from the self-replicating npm-package poisoning worm can also steal credentials and secrets from AWS, Google Cloud Platform, and Azure.",
     "title": "Shai-hulud 2.0 Variant Threatens Cloud Ecosystem"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-expands-scope-saas-extortion-attacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb75a524817d25b09/6980abb6e2f4a28b24165083/vishing_FranRodriguez_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-02T16:07:57+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "ShinyHunters Expands Scope of SaaS Extortion Attacks Following its attacks on Salesforce instances last year, members of the cybercrime group have broadened their targeting and gotten more aggressive with extortion tactics.",
+    "title": "ShinyHunters Expands Scope of SaaS Extortion Attacks"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-firewall-backups-nation-state-actor": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8de56be35f4fee7c/690cf08022b9701b85cba1fc/firewall_imageBROKER.com_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -12285,6 +12495,15 @@
     "source": "darkreading",
     "summary": "Contrarians No More: AI Skepticism Is on the Rise Concerns about an economic bubble bursting, along with doubts regarding return on investment, suggest the tide may be turning for the artificial intelligence industry.",
     "title": "Contrarians No More: AI Skepticism Is on the Rise"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/county-pays-600k-wrongfully-jailed-pen-testers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteebfe4a7b43ec6c8/6980f9b6d4a780771c9281ae/Arrest-Justin_Wynn_Gary_De_Mercurio.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-02T21:57:51+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "County Pays $600K to Wrongfully Jailed Pen Testers Iowa police arrested two penetration testers in 2019 for doing their jobs, highlighting the risk to security professionals in red teaming exercises.",
+    "title": "County Pays $600K to Wrongfully Jailed Pen Testers"
   },
   "https://www.darkreading.com/cybersecurity-operations/cyberattacks-part-military-operation-venezuela": {
     "categories": [],
