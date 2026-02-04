@@ -3812,6 +3812,42 @@
     "summary": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws Zoom and GitLab have released security updates to resolve a number of security vulnerabilities that could result in denial-of-service (DoS) and remote code execution.\nThe most severe of the lot is a cr\u2026",
     "title": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws"
   },
+  "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8WToLgQKoSrd-Jg_YD7OJQSJIx2IjJPdhMLYQNTuE9_0bNVo7rwzOdJ0fj0x8oy7-1i4OcXxRbB4nDF502wV5Jwxl5mKPZRpjz5kWijxGRixX2jaewHQHmxGAWVguAFni_muFJNsk610Gaa4JMCCvJMQ7j9kmKgww3U3-z8olchagQGw6cGXxte_4tyPS/s1600/office.jpg",
+    "published": "2026-02-03T09:12:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks The Russia-linked state-sponsored threat actor known as APT28 (aka UAC-0001) has been attributed to attacks exploiting a newly disclosed security flaw in Microsoft Office as part of a campaign codenam\u2026",
+    "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks"
+  },
+  "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXYyskJSpKQz4MscPjTNveStRrjYgHDTsZffWZld_xrrWTRQzAJC52KvI8uTEhbysHizeZ14HTRrrlbpxTjUUMIMnwPqYBBVu_FgJcIWtw1r-fWL3RHz-pzr-eSX-6bmL3N7ZO30ZCSLoYkzAOWTBrnQd0NXFBHyZWlJ-ib9ghgCNbeXbdiYUYFSu7dss5/s1600/solarwinds-exploit.jpg",
+    "published": "2026-02-04T05:50:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) to its Known Exploited Vulnerabilities (KEV) catalog, flagg\u2026",
+    "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog"
+  },
+  "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEjMkaXhS9INevCSOPI_fOpweXt3g4TvjWQWZiUuxYDziaTNIsIk5vg-FCGf2sVKw6xzckOoHmfEODI5gJR_PzcUDayWZTEit09jkkb5QVxZNWtTg8ULumP2aiJc0ae6Km_eKzQwaZzp1EFrVcDm7PND2VjtV7VH7PyA3r5qwlReoDAoH38LVHcX9qjH3G/s1600/gordon.jpg",
+    "published": "2026-02-03T16:41:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata Cybersecurity researchers have disclosed details of a now-patched security flaw impacting Ask Gordon, an artificial intelligence (AI) assistant built into Docker Desktop and the Docker Command-Lin\u2026",
+    "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata"
+  },
+  "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXHoCQzirCKCGciIltPFi7LbjpANR75gNFmH6Lbsm5FOdl40UHJT4Xd3aWxxSdUe6r7wlqMWKuLSkUWmg11yfF7pnvIcETtkv5S5gtEeYFaHh8hKUoSicCcMvUn8UO9WUTVUDzSpEyXEaS01P6Wza6weGp2iqIbAnQKlN3I3f2_F2bGXSyssfhG2iIE591/s1600/openvsx.jpg",
+    "published": "2026-02-04T06:26:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source \u2026",
+    "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions"
+  },
   "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2_pLOtIyNONJPvqUhPq0AJ_UsM-8YXPWRQCdP_QmlX6I4vGJrWcWgmpAa3lBiFaBOt6rEKgFt6q4yWhb-Nuu2sUVhvgyx2RZsAmyjXZXTvhaFr21qbyAFqobpiqlceg-jN0-tjwDMS62yu4byJBydGXo_qpw6yHtczD_cBEdJjvesHfZocuJSvTS9w2lR/s1600/escan.jpg",
@@ -3820,6 +3856,15 @@
     "source": "The Hacker News",
     "summary": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware The update infrastructure for eScan antivirus, a security solution developed by Indian cybersecurity company MicroWorld Technologies, has been compromised by unknown attackers to deliver a persistent downlo\u2026",
     "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware"
+  },
+  "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoY39EkJj9fch5nmhH8FbZrt87Lvt1bszbWtMThQ0yaemkia0K_avsYUK1pNT5jcN7vYoL0rK_y-17LQ3silMU-Jg0UixiFlceBjUcwng2z17B-W4HZnUEzoMHuecgNwRezisydmEGOG26RxF9u9UEof0KPmQIp4Y2QlDLaxPb6TFq7C8rkAn1CzW9y18Z/s1600/react.jpg",
+    "published": "2026-02-03T14:00:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package Threat actors have been observed exploiting a critical security flaw impacting the Metro Development Server in the popular \"@react-native-community/cli\" npm package.\nCybersecurity company VulnCheck said it first\u2026",
+    "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package"
   },
   "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html": {
     "categories": [],
@@ -3893,6 +3938,15 @@
     "summary": "Securing the Mid-Market Across the Complete Threat Lifecycle For mid-market organizations, cybersecurity is a constant balancing act. Proactive, preventative security measures are essential to protect an expanding attack surface. Combined with effective protection that blocks thr\u2026",
     "title": "Securing the Mid-Market Across the Complete Threat Lifecycle"
   },
+  "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwD8GAdNdNuHeeaGY_XNzQ5R2ImwMvVU46K5gM8t9-q0vuQ4enqi1W5Ljd4D6RktNyAY75SA0gLSrf6oqykbq3lQn5jhZglmqyGYGf3pm6mdHbTSjZoRxPFxG3ruwjYGu6vl9UtgAaORZTIkEliQl1bzeWXt554RsrCKzJlAhyADYV2X_n42rmfAg_Iiig/s1600/soc.jpg",
+    "published": "2026-02-03T14:14:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate Most security teams today are buried under tools. Too many dashboards. Too much noise. Not enough real progress.\nEvery vendor promises \u201ccomplete coverage\u201d or \u201cAI-powered automation,\u201d but inside most SOCs,\u2026",
+    "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate"
+  },
   "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn9uSby99DCwswXd6TJFvm-PoprW_CRTBw9ybmBUQv9frf03WLoy6wgTB5IhjjulguZSLvc72tXk-6OrsFDjg5_Ab1QivwnXKZY16oC4sJ9iKE39MyxSXmXdWZ8o3XdAc4X3vB6-ed7x5WvNt149AgZ7EI7sTg2FDqcWU5HkI9Mli-dDUPUzj_ub_-umx0/s1600/recap.jpg",
@@ -3901,6 +3955,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats Every week brings new discoveries, attacks, and defenses that shape the state of cybersecurity. Some threats are stopped quickly, while others go unseen until they cause real damage.\nSometime\u2026",
     "title": "\u26a1 Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats"
+  },
+  "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5A2lK2hBXnibuGwyEFh23Ff9v06u07aDA_n1I1aJJjghSJHfGa1BQ5kmELI2inX855kRwZI0r2XTRWGZ95rMvJNTiz98WNTA_8P2fI-oZll8vvvT_OlDgOPef1iBU4Hlq7j3ZcSQnLf_8aWYXW5FebN8rML3yEpOP-EKS6wlagaNu4jOBt4U0ET89Whg/s1600/cloud.jpg",
+    "published": "2026-02-03T11:00:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "When Cloud Outages Ripple Across the Internet Recent major cloud service outages have been hard to miss. High-profile incidents affecting providers such as AWS, Azure, and Cloudflare have disrupted large parts of the internet, taking down websites and services that many other sys\u2026",
+    "title": "When Cloud Outages Ripple Across the Internet"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/": {
     "categories": [
@@ -11368,6 +11431,15 @@
     "summary": "'Fake Proof' and AI Slop Hobble Defenders In the React2Shell saga, nonworking and trivial proof-of-concept exploits led to confusion and perhaps a false sense of security. Can the onslaught of PoCs be tamed?",
     "title": "'Fake Proof' and AI Slop Hobble Defenders"
   },
+  "https://www.darkreading.com/application-security/glassworm-malware-developer-ecosystems": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt89e43bb7b94d8e00/69824e2f1f08093631eac63d/Gummy_worms_Brent_Hofacker_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-03T20:55:51+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "GlassWorm Malware Returns to Shatter Developer Ecosystems The self-replicating malware has poisoned a fresh set of Open VSX software components, leaving potential downstream victims with infostealer infections.",
+    "title": "GlassWorm Malware Returns to Shatter Developer Ecosystems"
+  },
   "https://www.darkreading.com/application-security/hardened-containers-eliminate-common-source-vulnerabilities": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4dc9efdc9690e340/6916538eabd3a407fac9b603/stacked-colored-containers-Siwakorn1933-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -11556,6 +11628,15 @@
     "summary": "'Damn Vulnerable' Training Apps Leave Vendors' Clouds Exposed Hackers are already leveraging these over-permissioned programs to access the IT systems of major security vendors.",
     "title": "'Damn Vulnerable' Training Apps Leave Vendors' Clouds Exposed"
   },
+  "https://www.darkreading.com/cloud-security/8-minute-access-ai-aws-environment-breach": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6a01396af4bb8efc/6981eb3283114a859b700945/Cloud-Security_Aleksia_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-03T16:38:11+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "8-Minute Access: AI Accelerates Breach of AWS Environment The AI-assisted attack, which started with exposed credentials from public S3 buckets, rapidly achieved administrative privilges.",
+    "title": "8-Minute Access: AI Accelerates Breach of AWS Environment"
+  },
   "https://www.darkreading.com/cloud-security/attackers-harvest-dropbox-logins-fake-pdf-lures": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltde0dd50be1f8d693/698109c083114ac5027006e9/Man_Fishing_Jorge_Fernandez_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -11740,6 +11821,15 @@
     "source": "darkreading",
     "summary": "New Tech Deployments That Cyber Insurers Recommend for 2026 An analysis of cyber-insurance claims data shows which cyber defenses actually work for policyholders. Here are six technologies that will pay off for companies in 2026.",
     "title": "New Tech Deployments That Cyber Insurers Recommend for 2026"
+  },
+  "https://www.darkreading.com/cyber-risk/dark-patterns-undermine-security-one-click-at-a-time": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0bd05b2533928d15/69822803c3f503f0b8b35222/2X1A639.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-03T16:30:41+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Dark Patterns Undermine Security, One Click at a Time People trust organizations to do the right thing, but some websites and apps have user interfaces that ultimately lead to inadequate security for users.",
+    "title": "Dark Patterns Undermine Security, One Click at a Time"
   },
   "https://www.darkreading.com/cyber-risk/gcve-raises-concerns-fragmentation-vulnerability-database": {
     "categories": [],
@@ -12205,6 +12295,15 @@
     "source": "darkreading",
     "summary": "Russia\u2019s Fancy Bear APT Doubles Down on Global Secrets Theft The notorious Russian state-sponsored group relies on basic techniques that are highly effective, often delivering greater ROI than more complex malware-heavy operations.",
     "title": "Russia\u2019s Fancy Bear APT Doubles Down on Global Secrets Theft"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-weaponize-office-bug-within-days": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5195a8c00b38792b/698264b2b58920fdb16f7d7b/russia_Pixel-Shot_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-03T21:52:22+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Russian Hackers Weaponize Microsoft Office Bug in Just 3 Days APT28's attacks rely on specially crafted Microsoft Rich Text Format (RTF) documents to kick off a multistage infection chain to deliver malicious payloads.",
+    "title": "Russian Hackers Weaponize Microsoft Office Bug in Just 3 Days"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/salesforce-customers-hacked-gainsight": {
     "categories": [],
