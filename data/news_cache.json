@@ -3821,6 +3821,15 @@
     "summary": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks The Russia-linked state-sponsored threat actor known as APT28 (aka UAC-0001) has been attributed to attacks exploiting a newly disclosed security flaw in Microsoft Office as part of a campaign codenam\u2026",
     "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks"
   },
+  "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnDkrWZsbnchuoTSKHJzBamJKGb-b_h8TY-BhcWP6QeO0n9s3DQ0WGyzcZhUOET1mMZ66n_jNrwRSU7X759cKKsmNYPobdzRk-55snSEVZTS3hq_0le0ulcDFqwncn9SsXwWVDxTVEBoa0r1y0Hz4zdMKKmuW_XNrfsRqOBh4Zd34ylZt2aKdWF8XtjN_s/s1600/chinese-winrar.jpg",
+    "published": "2026-02-04T14:09:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns Threat actors affiliated with China have been attributed to a fresh set of cyber espionage campaigns targeting government and law enforcement agencies across Southeast Asia throughout 2025.\nCheck Point Resea\u2026",
+    "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns"
+  },
   "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXYyskJSpKQz4MscPjTNveStRrjYgHDTsZffWZld_xrrWTRQzAJC52KvI8uTEhbysHizeZ14HTRrrlbpxTjUUMIMnwPqYBBVu_FgJcIWtw1r-fWL3RHz-pzr-eSX-6bmL3N7ZO30ZCSLoYkzAOWTBrnQd0NXFBHyZWlJ-ib9ghgCNbeXbdiYUYFSu7dss5/s1600/solarwinds-exploit.jpg",
@@ -3829,6 +3838,24 @@
     "source": "The Hacker News",
     "summary": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) to its Known Exploited Vulnerabilities (KEV) catalog, flagg\u2026",
     "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog"
+  },
+  "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijeDfUJ3dcvTHnszlPkp_8RQkKpjpHIbWHPCfPjGf16CK3oGHnoDK4gkT5aAlsOX8xzlqoXjO607ZI5hGGrfcEcx7sVF4GPhGRAM_CzLIpjeo8x2bnmulJeGj1EcCvfXciADxkSoVB3E2EDxAfIv6SLjeWoNl073KrVdkVeSVt-VTwMoLGgApT46oEYK9-/s1600/n8n-hacking.jpg",
+    "published": "2026-02-05T06:16:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows A new, critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in the execution of arbitrary system commands.\u2026",
+    "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows"
+  },
+  "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq4HVk4ciPlJyef53_1ZqrcfFGmEY0t3LucRl-DSVWgMuVfBt7fc8LULklQ4Bc-8Tk6Wc9tGbL46vMwvb1CAsBNv3I5ZevSrFE67JGzn9v6VocRSrTscsmesuhc-1cS_ZlUsanT1x92ul38nd29xGW7HnJnlb6WgzzTO-kE5YSn3sLu5U6Lfi1Ra7zEaPd/s1600/windows-malware.jpg",
+    "published": "2026-02-04T17:24:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of \"disciplined tradecraft and clever abuse of legitimate system features\" to bypass traditio\u2026",
+    "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files"
   },
   "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html": {
     "categories": [],
@@ -3866,6 +3893,15 @@
     "summary": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package Threat actors have been observed exploiting a critical security flaw impacting the Metro Development Server in the popular \"@react-native-community/cli\" npm package.\nCybersecurity company VulnCheck said it first\u2026",
     "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package"
   },
+  "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1rduNeKuuHUpRierQx1jig2SMH0dhcoENNLniZavZ25JgD68fkxRwp3s4H42sJrL7OXa4r0QublDt9VQ2mjh1uIBuQsvPi4iHtrY2JHw4res_AZQc3pf-AQ610FvG6o_TcXxDliH5JlNJbaVN0AXj3De60H669V9fTQIyqNRNHHMgSfwbjZe8xt3cPhIy/s1600/nginx-hacked.jpg",
+    "published": "2026-02-05T04:56:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign Cybersecurity researchers have disclosed details of an active web traffic hijacking campaign that has targeted NGINX installations and management panels like Baota (BT) in an attempt to route it thro\u2026",
+    "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign"
+  },
   "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZOf9qxdul5asVTIVQe4P6l_tPfVmbnsfVrt3cNmU3_q5qDeFcqXdve4AgXe-z7gCGozXQ3z0wDZnXn_-bynodpDfeUQaM5T4CFWpZUcGsbD-R-JS93Jp_1R37WQkCU4gLLpFjDxkN6T2DpAXXthKXl4QDIe_D486n18bp4_yyxt2DuVz2-zLjTybVQFDS/s1600/windows.jpg",
@@ -3874,6 +3910,24 @@
     "source": "The Hacker News",
     "summary": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos Microsoft has announced a three-phase approach to phase out New Technology LAN Manager (NTLM) as part of its efforts to shift Windows environments toward stronger, Kerberos-based options.\nThe develo\u2026",
     "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos"
+  },
+  "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBZPWiqEqWIj0fKQtxyusGomOmOzx4xkp4zh-TUGEtbgZP0yDEl91QHC-tP-8fiufd0Nue-dUYt1ajpkSkJZfV9_7M03gegp2LZaiIAyDJ1B03MCQVSn77Q8zH8x7UVq3Lir0uMWEvB7rzMEZ5jz1w3rfwTwM59h-_paVKuEdozFOAsjPb7e6aND1KapHV/s1600/llm-scanner.jpg",
+    "published": "2026-02-04T17:52:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (A\u2026",
+    "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models"
+  },
+  "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitGprkuP7SdfHIWnVVo7pZJ941c_TOVgrrZCPM9BosshMNfva3UbHAZG791-XufHdEc6hGRcFX3Ucak4XRDOgoSa4KCyPHeuxwWKr8y_LNLmo6mOqxgKvLOfbcAVDoACJ9MTSDkq25noRCdjHTBZVtGCulkPK5cjRBsQGf0LQQQkUujppEe6K4i0lq7VZF/s1600/macos-malware.jpg",
+    "published": "2026-02-04T07:42:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers Microsoft has warned that information-stealing attacks are \"rapidly expanding\" beyond Windows to target Apple macOS environments by leveraging cross-platform languages like Python and abusing trusted pla\u2026",
+    "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers"
   },
   "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html": {
     "categories": [],
@@ -3920,6 +3974,15 @@
     "summary": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RCE) through a crafted malicious link.\nThe issue, which is t\u2026",
     "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link"
   },
+  "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghboJKP_ilIImzDjyOOa4B8E7ROaXqrkh3DC6nIy_UixMApqE53tBrehqcGNDE0YlAl2jHW-t4hWtNqSIIlM8YDgBqb4vLS9Em9quvWdzN8xsrh6KkkGGI3lAHSqitDBH0u1RXDmCXrXU_zbRUjGgtBI4scsiYTHycXXb3Fjzk3ozHYsTw2zMFb-_KgWc/s1600/mai.gif",
+    "published": "2026-02-04T11:58:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications An innovative approach to discovering, analyzing, and governing identity usage beyond traditional IAM controls.\nThe Challenge: Identity Lives Outside the Identity Stack\nIdentity and access ma\u2026",
+    "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications"
+  },
   "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrHsgrh_iIHVwJdfZ-6tSVag1fs71bd15QISN82bzqvxchcyJGuWdbtZRqQ25tJC_HoeaGAMI3phpFy_TAy2NYbSpJTwuTJ5jIz_QKmNPTv_zqA2GNvuozLGpKCqTa-OI1Hp-zOy_B8wjkvoYcBn56g09PpoQOMd568LfGiH7J0Ee0hg65eBaHSWxDe92m/s1600/OpenClaw-skills.jpg",
@@ -3937,6 +4000,15 @@
     "source": "The Hacker News",
     "summary": "Securing the Mid-Market Across the Complete Threat Lifecycle For mid-market organizations, cybersecurity is a constant balancing act. Proactive, preventative security measures are essential to protect an expanding attack surface. Combined with effective protection that blocks thr\u2026",
     "title": "Securing the Mid-Market Across the Complete Threat Lifecycle"
+  },
+  "https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUnx0YyMmcxNjnpByxI1Ox1uYPj-VK1XhaTm_BWuyumyZGTDH9njGAT0tc95n736kaWAVeRD9ptaw5XJZoNSuIeVBgU8bBXXMlu-zlyZxXq8AjftysB21xcTcM5U-mtX6-jdtRAYuAhkLTb2k2inxlvvI4vXevI8knxLpst2BeGfY6LI0bHj7U87-VwxQ/s1600/malware-attack.jpg",
+    "published": "2026-02-04T10:00:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "The First 90 Seconds: How Early Decisions Shape Incident Response Investigations Many incident response failures do not come from a lack of tools, intelligence, or technical skills. They come from what happens immediately after detection, when pressure is high, and information is\u2026",
+    "title": "The First 90 Seconds: How Early Decisions Shape Incident Response Investigations"
   },
   "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html": {
     "categories": [],
@@ -5245,6 +5317,17 @@
     "summary": "Microsoft removing Defender Application Guard from Office Microsoft plans to remove\u00a0Defender Application Guard from Office by December 2027, starting with the February 2026 release of Office version 2602. [...]",
     "title": "Microsoft removing Defender Application Guard from Office"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-02-04T12:58:20+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft rolls out native Sysmon monitoring in Windows 11 Microsoft has started rolling out built-in Sysmon functionality to some Windows 11 systems enrolled in the Windows Insider program. [...]",
+    "title": "Microsoft rolls out native Sysmon monitoring in Windows 11"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-screen-capture-prevention-for-teams-users/": {
     "categories": [
       "Microsoft",
@@ -6344,6 +6427,17 @@
     "summary": "CISA tags max severity HPE OneView flaw as actively exploited The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has flagged a maximum-severity HPE OneView vulnerability as actively exploited in attacks. [...]",
     "title": "CISA tags max severity HPE OneView flaw as actively exploited"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-04T17:38:46+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA: VMware ESXi flaw now exploited in ransomware attacks CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was previously used in zero-day attacks. [...]",
+    "title": "CISA: VMware ESXi flaw now exploited in ransomware attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-fully-patch-actively-exploited-cisco-flaws/": {
     "categories": [
       "Security"
@@ -6385,6 +6479,17 @@
     "source": "BleepingComputer",
     "summary": "CISA warns of critical CentOS Web Panel bug exploited in attacks The U.S. Cybersecurity & Infrastructure Security Agency (CISA) is warning that threat actors are exploiting a\u00a0critical remote command execution flaw in CentOS Web Panel (CWP). [...]",
     "title": "CISA warns of critical CentOS Web Panel bug exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-04T15:42:31+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "CISA warns of five-year-old GitLab flaw exploited in attacks The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems against a five-year-old GitLab vulnerability that is actively being exploited in attacks. [...]",
+    "title": "CISA warns of five-year-old GitLab flaw exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-watchguard-firewall-flaw-exploited-in-attacks/": {
     "categories": [
@@ -6579,6 +6684,17 @@
     "summary": "Code beautifiers expose credentials from banks, govt, tech orgs Thousands of credentials, authentication keys, and configuration data impacting organizations in sensitive sectors have been sitting in publicly accessible JSON snippets submitted to the JSONFormatter and CodeBeautif\u2026",
     "title": "Code beautifiers expose credentials from banks, govt, tech orgs"
   },
+  "https://www.bleepingcomputer.com/news/security/coinbase-confirms-insider-breach-linked-to-leaked-support-tool-screenshots/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-04T02:04:23+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Coinbase confirms insider breach linked to leaked support tool screenshots Coinbase has confirmed an insider breach after a contractor improperly accessed the data of approximately thirty customers, which BleepingComputer has learned is a new incident that occurred in December. [\u2026",
+    "title": "Coinbase confirms insider breach linked to leaked support tool screenshots"
+  },
   "https://www.bleepingcomputer.com/news/security/comcast-to-pay-15-million-fine-after-a-vendor-data-breach-affecting-270-000-customers/": {
     "categories": [
       "Security"
@@ -6740,6 +6856,17 @@
     "source": "BleepingComputer",
     "summary": "Critical jsPDF flaw lets hackers steal secrets via generated PDFs The jsPDF library for generating PDF documents in JavaScript applications is vulnerable to a critical vulnerability that allows an attacker to steal sensitive data from the local filesystem by including it in gener\u2026",
     "title": "Critical jsPDF flaw lets hackers steal secrets via generated PDFs"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-04T21:14:36+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Critical n8n flaws disclosed along with public exploits Multiple critical vulnerabilities in the popular n8n open-source workflow automation platform allow escaping the confines of the environment and taking complete control of the host server. [...]",
+    "title": "Critical n8n flaws disclosed along with public exploits"
   },
   "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/": {
     "categories": [
@@ -7040,6 +7167,17 @@
     "source": "BleepingComputer",
     "summary": "Dutch police seizes 250 servers used by \u201cbulletproof hosting\u201d service The police in the Netherlands have seized around 250 physical servers powering a bulletproof hosting service in the country used exclusively by cybercriminals for providing complete anonymity. [...]",
     "title": "Dutch police seizes 250 servers used by \u201cbulletproof hosting\u201d service"
+  },
+  "https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-04T14:17:45+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "EDR killer tool uses signed kernel driver from forensic software Hackers are abusing\u00a0a legitimate but long-revoked EnCase kernel driver in an EDR killer that can detect 59 security tools in attempts to deactivate them. [...]",
+    "title": "EDR killer tool uses signed kernel driver from forensic software"
   },
   "https://www.bleepingcomputer.com/news/security/email-security-needs-more-seatbelts-why-click-rate-is-the-wrong-metric/": {
     "categories": [
@@ -7986,6 +8124,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers claim to hack Resecurity, firm says it was a honeypot The ShinyHunters hacking group claims it breached the systems of cybersecurity firm Resecurity and stole internal data, while Resecurity says the attackers only accessed a deliberately deployed honeypot containing fake\u2026",
     "title": "Hackers claim to hack Resecurity, firm says it was a honeypot"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-04T23:26:56+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers compromise NGINX servers to redirect user traffic A threat actor is compromising NGINX servers in a campaign that hijacks user traffic and reroutes it through the attacker's backend infrastructure. [...]",
+    "title": "Hackers compromise NGINX servers to redirect user traffic"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/": {
     "categories": [
@@ -9075,6 +9224,17 @@
     "source": "BleepingComputer",
     "summary": "Nearly 800,000 Telnet servers exposed to remote attacks Internet security watchdog Shadowserver tracks nearly 800,000 IP addresses with Telnet fingerprints amid ongoing attacks exploiting a critical authentication bypass vulnerability in the GNU InetUtils telnetd server. [...]",
     "title": "Nearly 800,000 Telnet servers exposed to remote attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-04T14:00:00+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New Amaranth Dragon cyberespionage group exploits WinRAR flaw A new threat actor called Amaranth Dragon,\u00a0linked to APT41 state-sponsored Chinese operations, exploited the\u00a0CVE-2025-8088 vulnerability in WinRAR in espionage attacks on government and law enforcement agencies. [...]",
+    "title": "New Amaranth Dragon cyberespionage group exploits WinRAR flaw"
   },
   "https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/": {
     "categories": [
@@ -10407,6 +10567,18 @@
     "summary": "StealC hackers hacked as researchers hijack malware control panels A cross-site scripting (XSS) flaw in the web-based control panel used by operators of the StealC info-stealing malware allowed researchers to observe active sessions and gather intelligence on the attackers' hardw\u2026",
     "title": "StealC hackers hacked as researchers hijack malware control panels"
   },
+  "https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-02-03T21:33:23+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Step Finance says compromised execs' devices led to $40M crypto theft Step Finance announced that it lost $40 million worth of digital assets after hackers compromised devices belonging to the company's team of executives. [...]",
+    "title": "Step Finance says compromised execs' devices led to $40M crypto theft"
+  },
   "https://www.bleepingcomputer.com/news/security/synnovis-notifies-of-data-breach-after-2024-ransomware-attack/": {
     "categories": [
       "Security",
@@ -10440,6 +10612,17 @@
     "source": "BleepingComputer",
     "summary": "Taiwan says China's attacks on its energy sector increased tenfold The National Security Bureau in Taiwan says that China's attacks on the country's energy sector increased tenfold in 2025 compared to the previous year. [...]",
     "title": "Taiwan says China's attacks on its energy sector increased tenfold"
+  },
+  "https://www.bleepingcomputer.com/news/security/taiwanese-man-gets-30-years-for-operating-dark-web-drug-market/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-04T11:24:23+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Owner of Incognito dark web drugs market gets 30 years in prison A Taiwanese man was sentenced to 30 years in prison for operating Incognito Market, one of the world's largest online narcotics marketplaces that sold over $105 million worth of illegal drugs to customers worldwide.\u2026",
+    "title": "Owner of Incognito dark web drugs market gets 30 years in prison"
   },
   "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-source-code-is-authentic/": {
     "categories": [
@@ -10517,6 +10700,17 @@
     "source": "BleepingComputer",
     "summary": "The Black Friday 2025 Cybersecurity, IT, VPN, & Antivirus Deals Black Friday 2025 is almost here, and early deals are already live across security software, online courses, system administration tools, antivirus products, and VPN services. These discounts are limited-time offers \u2026",
     "title": "The Black Friday 2025 Cybersecurity, IT, VPN, & Antivirus Deals"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-04T15:05:15+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "The Double-Edged Sword of Non-Human Identities Leaked non-human identities like API keys and tokens are becoming a major breach driver in cloud environments. Flare shows how exposed machine credentials quietly grant attackers long-term access to enterprise systems. [...]",
+    "title": "The Double-Edged Sword of Non-Human Identities"
   },
   "https://www.bleepingcomputer.com/news/security/the-hidden-risk-in-virtualization-why-hypervisors-are-a-ransomware-magnet/": {
     "categories": [
@@ -11361,6 +11555,15 @@
     "summary": "Arizona AG Sues Temu Over 'Stealing' User Data The suit alleges the Chinese retailer's app secretly accesses and harvests users' sensitive information without their knowledge or consent.",
     "title": "Arizona AG Sues Temu Over 'Stealing' User Data"
   },
+  "https://www.darkreading.com/application-security/attackers-use-screensavers-drop-malware-rmm-tools": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98d837cf68d4775e/6983a0c9b61a0ffd1d281b12/computer_screensaver_StormStudio_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-04T21:06:28+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Attackers Use Windows Screensavers to Drop Malware, RMM Tools By tapping the unusual .scr file type, attackers leverage &quot;executables that don't always receive executable-level controls,&quot; one researcher noted.",
+    "title": "Attackers Use Windows Screensavers to Drop Malware, RMM Tools"
+  },
   "https://www.darkreading.com/application-security/bronze-butler-apt-exploits-zero-day-vuln-root-japan": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc4fb1e58a83989e5/690bb5e164cd7f024c52e137/butler-Steve_Cukrov-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -11439,6 +11642,15 @@
     "source": "darkreading",
     "summary": "GlassWorm Malware Returns to Shatter Developer Ecosystems The self-replicating malware has poisoned a fresh set of Open VSX software components, leaving potential downstream victims with infostealer infections.",
     "title": "GlassWorm Malware Returns to Shatter Developer Ecosystems"
+  },
+  "https://www.darkreading.com/application-security/google-looker-bugs-cross-tenant-rce-data-exfil": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4524d58abb4bc819/697e6e756dea183a06dd7404/Google_Looker-Postmodern_Studio-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-04T11:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Google Looker Bugs Allow Cross-Tenant RCE, Data Exfil Attackers could even have used one vulnerable Lookout user to gain access to other GCP tenants' environments.",
+    "title": "Google Looker Bugs Allow Cross-Tenant RCE, Data Exfil"
   },
   "https://www.darkreading.com/application-security/hardened-containers-eliminate-common-source-vulnerabilities": {
     "categories": [],
@@ -11934,6 +12146,15 @@
     "summary": "Microsoft Backs Massive AI Push in UAE, Raising Security Concerns In partnership with Emirates tech company G42, Microsoft is building the first stage of a 5-gigawatt US-UAE AI campus using Nvidia GPUs.",
     "title": "Microsoft Backs Massive AI Push in UAE, Raising Security Concerns"
   },
+  "https://www.darkreading.com/cyber-risk/ransomware-gang-full-godfather-cartel": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta8ad0cbff9c121e0/6983ba6c994a669ca58c7084/godfather_Usa-Pyon_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-04T22:14:19+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Ransomware Gang Goes Full 'Godfather' With Cartel Since its launch in 2023, DragonForce has pushed a cartel model, emphasizing cooperation and coordination among ransomware gangs.",
+    "title": "Ransomware Gang Goes Full 'Godfather' With Cartel"
+  },
   "https://www.darkreading.com/cyber-risk/servicenow-acquire-nhi-provider-veza-strengthen-governance-portfolio": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt623e9c094f6b87c3/66951d7d24bd25490eec57cc/Merger(1800)_Mohd_Izzuan_Roslan_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -12081,6 +12302,15 @@
     "source": "darkreading",
     "summary": "Attackers Exploit Zero-Day in End-of-Life D-Link Routers Hackers are attacking a critical zero-day flaw in unsupported D-Link DSL routers to run arbitrary commands.",
     "title": "Attackers Exploit Zero-Day in End-of-Life D-Link Routers"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/big-breach-or-nada-de-nada-mexican-govt-faces-leak-allegations": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc7355a5663f9d26/69827292d724225c7bc48bd8/mexico-flag-cyber-bits-GagoDesign-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-04T13:00:00+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Big Breach or Smooth Sailing? Mexican Gov't Faces Leak Allegations A hacktivist group claims a 2.3-terabyte data breach exposes the information of 36 million Mexicans, but no sensitive accounts are at risk, says government.",
+    "title": "Big Breach or Smooth Sailing? Mexican Gov't Faces Leak Allegations"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/china-researches-ways-disrupt-satellite-internet": {
     "categories": [],
@@ -12236,6 +12466,15 @@
     "source": "darkreading",
     "summary": "Hamas-Linked Hackers Probe Middle Eastern Diplomats Hamas's best hackers have been maturing, building better malware, and spreading their attacks more widely across the region.",
     "title": "Hamas-Linked Hackers Probe Middle Eastern Diplomats"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/iran-spies-expats-syrians-israelis": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta2424b0fd6048839/6983ac2c3bd30e51c6651003/Iran_keyboard-Per_Bengston-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-05T07:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Protests Don't Impede Iranian Spying on Expats, Syrians, Israelis Iranian threat actors have been stealing credentials from people of interest across the Middle East, using spear-phishing and social engineering.",
+    "title": "Protests Don't Impede Iranian Spying on Expats, Syrians, Israelis"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/iranian-apt-phishes-us-policy-wonks": {
     "categories": [],
@@ -12518,6 +12757,15 @@
     "source": "darkreading",
     "summary": "AI System Reduces Attack Reconstruction Time From Weeks to Hours Pacific Northwest National Labs' expert cybersecurity system, ALOHA, can recreate attacks and test them against organizations' infrastructure to bolster defense.",
     "title": "AI System Reduces Attack Reconstruction Time From Weeks to Hours"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/announcing-dr-global-latin-america": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0ee80d2156216312/698359c327a39116a4345aa4/newsstand-Ruslan_Bustamante-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-04T13:30:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Extra Extra! Announcing DR Global Latin America Dark Reading has something new hitting the newsstand: a content section purpose-built for Latin American readers, featuring news, analysis, features, and multimedia.",
+    "title": "Extra Extra! Announcing DR Global Latin America"
   },
   "https://www.darkreading.com/cybersecurity-operations/bug-bounty-programs-rise-as-key-strategic-security-solutions": {
     "categories": [],
@@ -13313,6 +13561,15 @@
     "source": "darkreading",
     "summary": "China-Backed 'PeckBirdy' Takes Flight for Cross-Platform Attacks In two separate campaigns, attackers used the JScript C2 framework to target Chinese gambling websites and Asian government entities with new backdoors.",
     "title": "China-Backed 'PeckBirdy' Takes Flight for Cross-Platform Attacks"
+  },
+  "https://www.darkreading.com/threat-intelligence/cisa-hidden-ransomware-updates-kev-catalog": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt547f81fd7ede8d27/698385ee40f199b6b2c14e50/cisa_TimonSchneider_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-04T21:48:57+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "CISA Makes Unpublicized Ransomware Updates to KEV Catalog A third of the &quot;flipped&quot; CVEs affected network edge devices, leading one researcher to conclude, &quot;Ransomware operators are building playbooks around your perimeter.&quot;",
+    "title": "CISA Makes Unpublicized Ransomware Updates to KEV Catalog"
   },
   "https://www.darkreading.com/threat-intelligence/cyber-expectations-2026-grab-bag-risk": {
     "categories": [],
