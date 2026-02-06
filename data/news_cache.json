@@ -3812,6 +3812,15 @@
     "summary": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws Zoom and GitLab have released security updates to resolve a number of security vulnerabilities that could result in denial-of-service (DoS) and remote code execution.\nThe most severe of the lot is a cr\u2026",
     "title": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws"
   },
+  "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQbTqDN-_b5elqPIFownbT3lOVYJRL4StGkEByqXJ9cFpW_3FZ112yglt38w0cRmOEt9yjBq7iViP5_KQHiGrtZW2FoquBUb8TYk-EcyohYRSteaPMF2jBiIlShX-YF5D1WFi4gAHeCLh2IBF-FCPetINbYSC5-MMxr5co9Pghjz4V-fL0PaYNxtcX3J7d/s1600/ddos.jpg",
+    "published": "2026-02-05T17:25:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack The distributed denial-of-service (DDoS) botnet known as AISURU/Kimwolf has been attributed to a record-setting attack that peaked at 31.4 Terabits per second (Tbps) and lasted only 35 seconds.\nCloudflare, which \u2026",
+    "title": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack"
+  },
   "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8WToLgQKoSrd-Jg_YD7OJQSJIx2IjJPdhMLYQNTuE9_0bNVo7rwzOdJ0fj0x8oy7-1i4OcXxRbB4nDF502wV5Jwxl5mKPZRpjz5kWijxGRixX2jaewHQHmxGAWVguAFni_muFJNsk610Gaa4JMCCvJMQ7j9kmKgww3U3-z8olchagQGw6cGXxte_4tyPS/s1600/office.jpg",
@@ -3838,6 +3847,15 @@
     "source": "The Hacker News",
     "summary": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) to its Known Exploited Vulnerabilities (KEV) catalog, flagg\u2026",
     "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog"
+  },
+  "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3INhSQ0eqV1r5O9Q_JGSGDCw6r657lTF_JXgvwnA7iHLRer8FgbUzV37ALPlKD0MNHNUltUI8BjJNLOb2iL8FRZ3xlBO74k2HCxEsTcY8z0wN6xfNacnOK7eRHDmrw0mEbBvYINLHTQs7AEDhffz2DRXd2uOJgPh7tJg-xVZFx070Lo36hdfu7HpEEeRO/s1600/claude-opus-4.6.jpg",
+    "published": "2026-02-06T05:49:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-s\u2026",
+    "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries"
   },
   "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html": {
     "categories": [],
@@ -3901,6 +3919,15 @@
     "source": "The Hacker News",
     "summary": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign Cybersecurity researchers have disclosed details of an active web traffic hijacking campaign that has targeted NGINX installations and management panels like Baota (BT) in an attempt to route it thro\u2026",
     "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign"
+  },
+  "https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ERbt8WNDNB0dUBHa1RW4Js_8AhSmorSisyOplVJjamDe87uMfCCGeqM_VrKwRGteNlpjh3NfFHjriXs81bWsrgjtX75RGERc1AFNBWFKLTtm-geYPNn4aVPeDVNzcoqmDrMImn7YPl1sqja6zKy7aAFO5baubav3qk8AMIFj5MAh2GpkSoI1YL4PSKMk/s1600/iranian-hackers.jpg",
+    "published": "2026-02-05T10:25:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends The elusive Iranian threat group known as Infy (aka Prince of Persia) has evolved its tactics as part of efforts to hide its tracks, even as it readied new command-and-control (C2) infrastructure\u2026",
+    "title": "Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends"
   },
   "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html": {
     "categories": [],
@@ -4001,6 +4028,15 @@
     "summary": "Securing the Mid-Market Across the Complete Threat Lifecycle For mid-market organizations, cybersecurity is a constant balancing act. Proactive, preventative security measures are essential to protect an expanding attack surface. Combined with effective protection that blocks thr\u2026",
     "title": "Securing the Mid-Market Across the Complete Threat Lifecycle"
   },
+  "https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlpSoX57ALenPL8np8ytWrS5oa8e4k8YIalPfIMcz22AlZ0d6ty1EO1myE6RDnMzhJvexH4pdak5SFgADFsYSqv7yb788Y6wm1aAVuxBQfOzENiAydw6vUhEVpBdI27mA0GVGnCwICW5okRNTyXHthGXdMoOVnrnC-gTqISgISWgRqPmwbgQAFZXpBveo/s1600/main.jpg",
+    "published": "2026-02-05T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "The Buyer\u2019s Guide to AI Usage Control Today\u2019s \u201cAI everywhere\u201d reality is woven into everyday workflows across the enterprise, embedded in SaaS platforms, browsers, copilots, extensions, and a rapidly expanding universe of shadow tools that appear faster than security teams can tr\u2026",
+    "title": "The Buyer\u2019s Guide to AI Usage Control"
+  },
   "https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUnx0YyMmcxNjnpByxI1Ox1uYPj-VK1XhaTm_BWuyumyZGTDH9njGAT0tc95n736kaWAVeRD9ptaw5XJZoNSuIeVBgU8bBXXMlu-zlyZxXq8AjftysB21xcTcM5U-mtX6-jdtRAYuAhkLTb2k2inxlvvI4vXevI8knxLpst2BeGfY6LI0bHj7U87-VwxQ/s1600/malware-attack.jpg",
@@ -4009,6 +4045,15 @@
     "source": "The Hacker News",
     "summary": "The First 90 Seconds: How Early Decisions Shape Incident Response Investigations Many incident response failures do not come from a lack of tools, intelligence, or technical skills. They come from what happens immediately after detection, when pressure is high, and information is\u2026",
     "title": "The First 90 Seconds: How Early Decisions Shape Incident Response Investigations"
+  },
+  "https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYa_2XB7ryXippAp9zUFVo52pAx1ApwoiVUwGxURxVTNIji0VO33VdciwulLXVslQ90-eSYknrIr8KSJMDEjC2uHK92e1Iin45YEI3IN5LvHAp5AJif7FqHJ-hsZ_WlmiOlXemsLpQWZ5KBSvKKZGoQ6AqePah4TWVcwbu2aFAKgugkK6SA8YglMDW5kUx/s1600/threatsday-main.jpg",
+    "published": "2026-02-05T12:57:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories This week didn\u2019t produce one big headline. It produced many small signals \u2014 the kind that quietly shape what attacks will look like next.\nResearchers tracked intrusions that start in \u2026",
+    "title": "ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories"
   },
   "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html": {
     "categories": [],
@@ -5506,6 +5551,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft to secure Entra ID sign-ins from script injection attacks Starting in mid-to-late October 2026, Microsoft will enhance the security of the Entra ID authentication system against external script injection attacks. [...]",
     "title": "Microsoft to secure Entra ID sign-ins from script injection attacks"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-02-05T18:07:41+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft to shut down Exchange Online EWS in April 2027 Microsoft announced today that the Exchange Web Services (EWS) API for Exchange Online will be shut down in April 2027, after nearly 20 years. [...]",
+    "title": "Microsoft to shut down Exchange Online EWS in April 2027"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-notepad-and-paint-with-more-ai-features/": {
     "categories": [
@@ -7072,6 +7128,17 @@
     "summary": "Dartmouth College confirms data breach after Clop extortion attack \u200bDartmouth College has disclosed a data breach after the Clop extortion gang leaked data allegedly stolen from the school's Oracle E-Business Suite servers on its dark web leak site. [...]",
     "title": "Dartmouth College confirms data breach after Clop extortion attack"
   },
+  "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-05T11:16:12+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Data breach at fintech firm Betterment exposes 1.4 million accounts Hackers stole email addresses and other personal information from 1.4 million accounts after breaching the systems of automated investment platform Betterment\u00a0in\u00a0January. [...]",
+    "title": "Data breach at fintech firm Betterment exposes 1.4 million accounts"
+  },
   "https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/": {
     "categories": [
       "Security",
@@ -8562,6 +8629,18 @@
     "summary": "Ireland recalls almost 13,000 passports over missing 'IRL' code Ireland's Department of Foreign Affairs has recalled nearly 13,000 passports after a software update caused a printing defect. The printing error makes the documents non-compliant with international travel standards \u2026",
     "title": "Ireland recalls almost 13,000 passports over missing 'IRL' code"
   },
+  "https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/": {
+    "categories": [
+      "Security",
+      "Education"
+    ],
+    "image": "",
+    "published": "2026-02-05T17:02:45+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Italian university La Sapienza goes offline after cyberattack Rome's \"La Sapienza\" university has been targeted by a cyberattack that impacted its IT systems and caused widespread operational disruptions at the educational institute. [...]",
+    "title": "Italian university La Sapienza goes offline after cyberattack"
+  },
   "https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/": {
     "categories": [
       "Security"
@@ -9557,6 +9636,17 @@
     "summary": "New WrtHug campaign hijacks thousands of end-of-life ASUS routers Thousands of ASUS WRT routers, mostly end-of-life or outdated devices, have been hijacked in a global campaign called Operation WrtHug that exploits six vulnerabilities. [...]",
     "title": "New WrtHug campaign hijacks thousands of end-of-life ASUS routers"
   },
+  "https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-05T12:54:48+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Newsletter platform Substack notifies users of data breach Newsletter platform Substack is notifying users of a data breach after attackers stole their email addresses and phone numbers in October 2025. [...]",
+    "title": "Newsletter platform Substack notifies users of data breach"
+  },
   "https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/": {
     "categories": [
       "Security",
@@ -10072,6 +10162,17 @@
     "summary": "RansomHouse upgrades encryption with multi-layered data processing The RansomHouse ransomware-as-a-service (RaaS) has recently upgraded its encryptor, switching\u00a0from a relatively simple single-phase linear technique to a more complex, multi-layered method. [...]",
     "title": "RansomHouse upgrades encryption with multi-layered data processing"
   },
+  "https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-05T20:57:11+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Ransomware gang uses ISPsystem VMs for stealthy payload delivery Ransomware operators are hosting and delivering malicious payloads at scale by abusing virtual machines (VMs) provisioned by\u00a0ISPsystem, a legitimate virtual infrastructure management provider. [...]",
+    "title": "Ransomware gang uses ISPsystem VMs for stealthy payload delivery"
+  },
   "https://www.bleepingcomputer.com/news/security/ransomware-gangs-turn-to-shanya-exe-packer-to-hide-edr-killers/": {
     "categories": [
       "Security"
@@ -10190,6 +10291,17 @@
     "source": "BleepingComputer",
     "summary": "Romanian energy provider hit by Gentlemen ransomware attack A ransomware attack hit Oltenia Energy Complex (Complexul Energetic Oltenia), Romania's largest coal-based energy producer, on the second day of Christmas, taking down its IT infrastructure. [...]",
     "title": "Romanian energy provider hit by Gentlemen ransomware attack"
+  },
+  "https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-05T15:15:49+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Romanian oil pipeline operator Conpet discloses cyberattack Conpet, Romania's national oil pipeline operator, has disclosed that a cyberattack disrupted its business systems and took down the company's website on Tuesday. [...]",
+    "title": "Romanian oil pipeline operator Conpet discloses cyberattack"
   },
   "https://www.bleepingcomputer.com/news/security/romanian-water-authority-hit-by-ransomware-attack-over-weekend/": {
     "categories": [
@@ -10544,6 +10656,19 @@
     "source": "BleepingComputer",
     "summary": "Spain arrests teen who stole 64 million personal data records The National Police in Spain have arrested a suspected 19-year-old hacker in Barcelona, for allegedly stealing and attempting to sell 64 million records obtained from breaches at nine companies. [...]",
     "title": "Spain arrests teen who stole 64 million personal data records"
+  },
+  "https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/": {
+    "categories": [
+      "Security",
+      "Education",
+      "Government"
+    ],
+    "image": "",
+    "published": "2026-02-05T21:23:00+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Spain's Ministry of Science shuts down systems after breach claims Spain's Ministry of Science (Ministerio de Ciencia) announced a partial shutdown of its IT systems, affecting several citizen- and company-facing services. [...]",
+    "title": "Spain's Ministry of Science shuts down systems after breach claims"
   },
   "https://www.bleepingcomputer.com/news/security/spanish-energy-giant-endesa-discloses-data-breach-affecting-customers/": {
     "categories": [
@@ -11278,6 +11403,17 @@
     "summary": "New WhatsApp lockdown feature protects high-risk users from hackers Meta has started rolling out a new WhatsApp lockdown-style security feature designed to protect journalists, public figures, and other high-risk individuals from sophisticated threats, including spyware attacks. \u2026",
     "title": "New WhatsApp lockdown feature protects high-risk users from hackers"
   },
+  "https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-05T15:00:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "When cloud logs fall short, the network tells the truth Cloud logs can be inconsistent or incomplete, creating blind spots as environments scale and change. Corelight shows how network-level telemetry provides reliable visibility when cloud logs fall short. [...]",
+    "title": "When cloud logs fall short, the network tells the truth"
+  },
   "https://www.bleepingcomputer.com/news/security/when-hackers-wear-suits-protecting-your-team-from-insider-cyber-threats/": {
     "categories": [
       "Security"
@@ -11382,6 +11518,17 @@
     "source": "BleepingComputer",
     "summary": "Your MFA Is Costing You Millions. It Doesn't Have To. Passwords and app-based MFA add hidden costs through lost productivity, frequent resets, and risk of phishing and social engineering attacks. Token explains how wireless biometric, passwordless authentication eliminates creden\u2026",
     "title": "Your MFA Is Costing You Millions. It Doesn't Have To."
+  },
+  "https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-05T10:22:36+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Zendesk spam wave returns, floods users with 'Activate account' emails A fresh wave of spam is hitting inboxes worldwide, with users reporting that they are once again being bombarded by automated emails generated through companies' unsecured Zendesk support systems. Some recipie\u2026",
+    "title": "Zendesk spam wave returns, floods users with 'Activate account' emails"
   },
   "https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/": {
     "categories": [
@@ -11938,6 +12085,15 @@
     "source": "darkreading",
     "summary": "'VoidLink' Malware Poses Advanced Threat to Linux Systems Researchers discovered a modular, &quot;cloud-first&quot; framework that is feature-rich and designed to maintain stealthy, long-term access to Linux environments.",
     "title": "'VoidLink' Malware Poses Advanced Threat to Linux Systems"
+  },
+  "https://www.darkreading.com/cyber-risk/agentic-ai-moltbook-security-risks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt68890563646ac2cb/6985015d83114a143d701324/Moltbook-SOPA_Images_Limited-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-05T22:03:29+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Agentic AI Site 'Moltbook' Is Riddled With Security Risks Someone used AI to build an entire Web platform, which then did something predictable and preventable: It exposed all its data through a publicly accessible API.",
+    "title": "Agentic AI Site 'Moltbook' Is Riddled With Security Risks"
   },
   "https://www.darkreading.com/cyber-risk/ai-agents-going-rogue": {
     "categories": [],
@@ -13040,6 +13196,15 @@
     "summary": "The CISO-COO Partnership: Protecting Operational Excellence Digital transformation has made cybersecurity preparation part of operational resilience for most organizations. This calls for a new relationship between CISO and COO.",
     "title": "The CISO-COO Partnership: Protecting Operational Excellence"
   },
+  "https://www.darkreading.com/cybersecurity-operations/the-trifecta-of-cyber-success-education-certifications-and-experience": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfeabfda42baee19a/697d19fff577843f12847110/cybersecurity1800_MediaPhotos_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-05T14:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Cyber Success Trifecta: Education, Certifications &amp; Experience Col. Georgeo Xavier Pulikkathara, CISO at iMerit, discusses the importance of fundamentals, continuous learning, and human ingenuity in the face of AI-driven cybersecurity evolution.",
+    "title": "Cyber Success Trifecta: Education, Certifications &amp; Experience"
+  },
   "https://www.darkreading.com/cybersecurity-operations/us-refuses-sign-un-cybercrime-treaty": {
     "categories": [],
     "published": "2025-10-30T20:51:33+00:00",
@@ -13596,6 +13761,15 @@
     "source": "darkreading",
     "summary": "'Dark LLMs' Aid Petty Criminals, But Underwhelm Technically As in the wider world, AI is not quite living up to the hype in the cyber underground. But it's definitely helping low-level cybercriminals do competent work.",
     "title": "'Dark LLMs' Aid Petty Criminals, But Underwhelm Technically"
+  },
+  "https://www.darkreading.com/threat-intelligence/encase-driver-weaponized-edr-killers-persist": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf86236c78ccddc87/6985065f2024991ee0b33534/magnifyingglass_Brainlight_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-05T22:35:20+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "EnCase Driver Weaponized as EDR Killers Persist The forensic tool's driver was signed with a digital certificate that expired years ago, but major security gaps allowed Windows to load it.",
+    "title": "EnCase Driver Weaponized as EDR Killers Persist"
   },
   "https://www.darkreading.com/threat-intelligence/flaw-hacktivist-ransomware-victims-decrypt-files": {
     "categories": [],
