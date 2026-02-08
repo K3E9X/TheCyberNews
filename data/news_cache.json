@@ -3938,6 +3938,15 @@
     "summary": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware The update infrastructure for eScan antivirus, a security solution developed by Indian cybersecurity company MicroWorld Technologies, has been compromised by unknown attackers to deliver a persistent downlo\u2026",
     "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware"
   },
+  "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZLxiSHzgB4jnGhqSTb5U-LmLyQn1DAEdjL73NAKb8oapBTIPlINZbiOL3pHZNBlOHYI9yuZgxV8aRvGefuo5OzaP8TVtvoHYznKe-5Lr493T9s7hOHGCqNqXhgm-4r_biXNbYjuaRGDTcfNNwqoZNVBkKwfdAud8ropOXgONMa7xizOHOWM0DCpDQaFZ9/s1600/signal.jpg",
+    "published": "2026-02-07T11:15:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists Germany's Federal Office for the Protection of the Constitution (aka Bundesamt f\u00fcr Verfassungsschutz or BfV) and Federal Office for Information Security (BSI) have issued a joint advisory warning\u2026",
+    "title": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists"
+  },
   "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoY39EkJj9fch5nmhH8FbZrt87Lvt1bszbWtMThQ0yaemkia0K_avsYUK1pNT5jcN7vYoL0rK_y-17LQ3silMU-Jg0UixiFlceBjUcwng2z17B-W4HZnUEzoMHuecgNwRezisydmEGOG26RxF9u9UEof0KPmQIp4Y2QlDLaxPb6TFq7C8rkAn1CzW9y18Z/s1600/react.jpg",
@@ -10093,6 +10102,17 @@
     "summary": "Passwork 7: Self-hosted password and secrets manager for enterprise teams Passwork 7 unifies enterprise password and secrets management in a self-hosted platform. Organizations can automate credential workflows and test the full system with a free trial and up to 50% Black Friday\u2026",
     "title": "Passwork 7: Self-hosted password and secrets manager for enterprise teams"
   },
+  "https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-07T09:47:10+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Payments platform BridgePay confirms ransomware attack behind outage A major U.S. payment gateway and solutions provider says a ransomware attack has knocked key systems offline, triggering a widespread outage affecting multiple services. The incident began on Friday and quickly \u2026",
+    "title": "Payments platform BridgePay confirms ransomware attack behind outage"
+  },
   "https://www.bleepingcomputer.com/news/security/pennsylvania-ag-confirms-data-breach-after-inc-ransom-attack/": {
     "categories": [
       "Security"
@@ -10814,6 +10834,17 @@
     "source": "BleepingComputer",
     "summary": "Spanish energy giant Endesa discloses data breach affecting customers Spanish energy provider Endesa and its\u00a0Energ\u00eda XXI operator are notifying customers that hackers accessed the company's systems and accessed contract-related information, which includes personal details. [...]",
     "title": "Spanish energy giant Endesa discloses data breach affecting customers"
+  },
+  "https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-07T15:09:46+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "State actor targets 155 countries in 'Shadow Campaigns' espionage op A new state-aligned cyberespionage threat group tracked as TGR-STA-1030/UNC6619, has conducted a global-scale operation dubbed the \"Shadow Campaigns,\" where it targeted government infrastructure in 155 countries\u2026",
+    "title": "State actor targets 155 countries in 'Shadow Campaigns' espionage op"
   },
   "https://www.bleepingcomputer.com/news/security/stealc-hackers-hacked-as-researchers-hijack-malware-control-panels/": {
     "categories": [
