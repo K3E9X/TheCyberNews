@@ -4055,6 +4055,15 @@
     "summary": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RCE) through a crafted malicious link.\nThe issue, which is t\u2026",
     "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link"
   },
+  "https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFUWaEYK5yvPD9ZZdP6cMRMXduyDlAE77-447kgI9rd6ASyC1rDEnZKMIvcbYLsEs1vaXIH6lXLOjMF-JktVNvjhfPy1_5YmWcXXoXQagMLUW5uuXy8gFMyxgEK9ZA4ve51Q95p_9gi5EJpq-IISmuSFkEX1hfuK1CNiXS1Bqf_GZbjE8r80ZN_JJkyq_r/s1600/openclaw-virustotal.jpg",
+    "published": "2026-02-08T07:32:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills OpenClaw (formerly Moltbot and Clawdbot) has announced that it's partnering with Google-owned VirusTotal to scan skills that are being uploaded to ClawHub, its skill marketplace, as part of broader efforts\u2026",
+    "title": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills"
+  },
   "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghboJKP_ilIImzDjyOOa4B8E7ROaXqrkh3DC6nIy_UixMApqE53tBrehqcGNDE0YlAl2jHW-t4hWtNqSIIlM8YDgBqb4vLS9Em9quvWdzN8xsrh6KkkGGI3lAHSqitDBH0u1RXDmCXrXU_zbRUjGgtBI4scsiYTHycXXb3Fjzk3ozHYsTw2zMFb-_KgWc/s1600/mai.gif",
@@ -9711,6 +9720,17 @@
     "source": "BleepingComputer",
     "summary": "New Spiderman phishing service targets dozens of European banks A new phishing kit called Spiderman\u00a0is being used to target\u00a0customers of dozens of European banks and cryptocurrency holders with\u00a0pixel-perfect cloned sites\u00a0impersonating brands and organizations. [...]",
     "title": "New Spiderman phishing service targets dozens of European banks"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-08T15:26:48+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New tool blocks imposter attacks disguised as safe commands A new open-source and cross-platform tool called Tirith can detect homoglyph attacks over command-line environments by analyzing URLs in typed commands and stopping their execution.\u00a0 [...]",
+    "title": "New tool blocks imposter attacks disguised as safe commands"
   },
   "https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/": {
     "categories": [
