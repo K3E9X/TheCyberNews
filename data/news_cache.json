@@ -3839,6 +3839,24 @@
     "summary": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities A previously undocumented cyber espionage group operating from Asia broke into the networks of at least 70 government and critical infrastructure organizations across 37 countries over the past \u2026",
     "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities"
   },
+  "https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoSFjfJhHXUMJ0_vAj8LwmTeAMOkqVJomqws8hEaofSam7jnpED75EtkDhrEkofhEd0o_z-gZngp5Ue2kgvyhX3GrQA3gUp3v2H4OmEvpjYQb93gmQNeSppy5WIH6LJNg97OIEAsMXmelNMrq9VR5sN3ZrCnWwgfum_0MUCW5hHoqPQ2gmVxWFGwdr5l2t/s1600/bt.jpg",
+    "published": "2026-02-09T08:03:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA BeyondTrust has released updates to address a critical security flaw impacting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could result in remote c\u2026",
+    "title": "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA"
+  },
+  "https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiehyphenhyphenizf_EezYiQzf7tUgHJUYqd7k7zumWKSqP1n8K5YoJMRzmHjxJHdnN0GydURXFuwrRJd2qyTQSuH8TWPo_Wfh7SX0_1ljHcMjQGMQrDCtW23OLow6w7rPv4Uemxrd7vnQtGsWBzdUrhnrEtl914RxUcNeqKxVl81xXI9pVOFNaTh6UCLgkKw7QQYqeI/s1600/rat-attack.jpg",
+    "published": "2026-02-09T10:58:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign The threat actor known as Bloody Wolf has been linked to a campaign targeting Uzbekistan and Russia to infect systems with a remote access trojan known as NetSupport RAT.\nCybersecurity vendor K\u2026",
+    "title": "Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign"
+  },
   "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnDkrWZsbnchuoTSKHJzBamJKGb-b_h8TY-BhcWP6QeO0n9s3DQ0WGyzcZhUOET1mMZ66n_jNrwRSU7X759cKKsmNYPobdzRk-55snSEVZTS3hq_0le0ulcDFqwncn9SsXwWVDxTVEBoa0r1y0Hz4zdMKKmuW_XNrfsRqOBh4Zd34ylZt2aKdWF8XtjN_s/s1600/chinese-winrar.jpg",
@@ -3856,6 +3874,15 @@
     "source": "The Hacker News",
     "summary": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery Cybersecurity researchers have taken the wraps off a gateway-monitoring and adversary-in-the-middle (AitM) framework dubbed DKnife that's operated by China-nexus threat actors since at leas\u2026",
     "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery"
+  },
+  "https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitWC7fuHQt0LEMJmwl8Nv8meCzOQQJ4XuPacIEsqxLrSxPLslJjapg-02Nmzb8ngITdSXT-C_cLn1JYF4KDUAH3bpuFyb9qznZkD8A3m-wotkulB0yflFBcAFgPuU0Ci8DYloAZGFJecZyrByApcTSCSB8Kqg6wki4UYqTt9pQPXmnkqVOMxZyfWx9820Z/s1600/chinese-telecom.jpg",
+    "published": "2026-02-09T17:01:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign The Cyber Security Agency (CSA) of Singapore on Monday revealed that the China-nexus cyber espionage group known as UNC3886 targeted its telecommunications sector.\n\"UNC3886 had launched a deliberate\u2026",
+    "title": "China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign"
   },
   "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html": {
     "categories": [],
@@ -3938,6 +3965,15 @@
     "summary": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware The update infrastructure for eScan antivirus, a security solution developed by Indian cybersecurity company MicroWorld Technologies, has been compromised by unknown attackers to deliver a persistent downlo\u2026",
     "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware"
   },
+  "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnvpWlJDRcbb7ljfQfr3-cgxfkViTJBw0bxfA9YRZxbXS7GWlhhOdByicULU6alislJQMfCcRjKjB3T_WJXNSH4EnAYMPHbg7G2WxCD3bug8W1aCPOsUCqG2p9_y4NGvKSpwGio3xsAbCsGALZtdn72ervcYQjY9eDhasnbDprcYmxUI-A-10PHaVtSdok/s1600/fort.jpg",
+    "published": "2026-02-10T04:38:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution Fortinet has released security updates to address a critical flaw impacting FortiClientEMS that could lead to the execution of arbitrary code on susceptible systems.\nThe vulnerability, tracked as CVE-2026\u2026",
+    "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution"
+  },
   "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZLxiSHzgB4jnGhqSTb5U-LmLyQn1DAEdjL73NAKb8oapBTIPlINZbiOL3pHZNBlOHYI9yuZgxV8aRvGefuo5OzaP8TVtvoHYznKe-5Lr493T9s7hOHGCqNqXhgm-4r_biXNbYjuaRGDTcfNNwqoZNVBkKwfdAud8ropOXgONMa7xizOHOWM0DCpDQaFZ9/s1600/signal.jpg",
@@ -3973,6 +4009,15 @@
     "source": "The Hacker News",
     "summary": "How Samsung Knox Helps Stop Your Network Security Breach As you know, enterprise network security has undergone significant evolution over the past decade. Firewalls have become more intelligent, threat detection methods have advanced, and access controls are now more detailed. H\u2026",
     "title": "How Samsung Knox Helps Stop Your Network Security Breach"
+  },
+  "https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEWlaquUArR-GMqukRCHWrs9_HN46zhN8-clTeBqbAGOl5ABkSUp-YEe32I-Da1P0TY8LZ7zbS-k9iYploghqd07vgWNP-JW71E5xH6uOHVFctuRCfRCZ_iC6oWEVdcWPexxoc-WTgl9DNZTKiTcPuAzFJ_ytpDC_u7mNZBaFBE4w4EXhOHcvV5ZTVuKs/s1600/anyrun-soc.jpg",
+    "published": "2026-02-09T11:23:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring Why do SOC teams keep burning out and missing SLAs even after spending big on security tools? Routine triage piles up, senior specialists get dragged into basic validation, and MTTR climbs, while stealthy threats \u2026",
+    "title": "How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring"
   },
   "https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html": {
     "categories": [],
@@ -4091,6 +4136,24 @@
     "summary": "Securing the Mid-Market Across the Complete Threat Lifecycle For mid-market organizations, cybersecurity is a constant balancing act. Proactive, preventative security measures are essential to protect an expanding attack surface. Combined with effective protection that blocks thr\u2026",
     "title": "Securing the Mid-Market Across the Complete Threat Lifecycle"
   },
+  "https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1coFDcJGaV6fnBzpBs3TXSas4-odFMjYTlXPM-cyQcpzDyCshc0pH8HMEo1XmNUoVPRU4J56lg3ApR_-KpFn8L6aiATW4A5Xx_cIUbCYO1MI9W6lTiW-vlJWPK7Bc-SkXNcjQ-CnP7_HCOwhRYn1HsJnuE6sCOQZ6S4m-LC3zySGT_mHorlhwwJA4SLlO/s1600/1000054453.jpg",
+    "published": "2026-02-09T14:42:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers Microsoft has revealed that it observed a multi\u2011stage intrusion that involved the threat actors exploiting internet\u2011exposed SolarWinds Web Help Desk (WHD) instances to obtain initial access and m\u2026",
+    "title": "SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers"
+  },
+  "https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiW_jUJE_4sQRwRYF1TXG-rmM3C4nC_15zd82rYQuuLdwncMPrT8M2X-45Ap_KPH09DynvlzyzTd62EEy9116zPjR4FAO92QedrPRA6jxz9pgXSlUi_TsryFlxVcApwV89bUUTWmFuFx-nbXDBBt2WPi-RO6_Iaq3II98RcOqL4XaedeBVKoKX4vb3dQr6/s1600/cloud-infra.jpg",
+    "published": "2026-02-09T08:37:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure Cybersecurity researchers have called attention to a \"massive campaign\" that has systematically targeted cloud native environments to set up malicious infrastructure for follow-on exploitation.\nThe activi\u2026",
+    "title": "TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure"
+  },
   "https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlpSoX57ALenPL8np8ytWrS5oa8e4k8YIalPfIMcz22AlZ0d6ty1EO1myE6RDnMzhJvexH4pdak5SFgADFsYSqv7yb788Y6wm1aAVuxBQfOzENiAydw6vUhEVpBdI27mA0GVGnCwICW5okRNTyXHthGXdMoOVnrnC-gTqISgISWgRqPmwbgQAFZXpBveo/s1600/main.jpg",
@@ -4126,6 +4189,15 @@
     "source": "The Hacker News",
     "summary": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate Most security teams today are buried under tools. Too many dashboards. Too much noise. Not enough real progress.\nEvery vendor promises \u201ccomplete coverage\u201d or \u201cAI-powered automation,\u201d but inside most SOCs,\u2026",
     "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate"
+  },
+  "https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUQI___vJxIaWlqG1lWOUAxD5Ur1U6VZA2denhtk0dqfyI4yIlzqTGJkg1vqQVn5twAhjY9JraokCa2Ly2xBoZ4wXwX5XRncJcZpbANC1j8RtIBi9-jezYgF56QIny6kJRuqCXqgVGXQWX935VYiaLlPqu88xmqmg5n2_PJgtFZsx75cnOAlgWcyp0A_SK/s1600/recap-main.jpg",
+    "published": "2026-02-09T12:59:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More Cyber threats are no longer coming from just malware or exploits. They\u2019re showing up inside the tools, platforms, and ecosystems organizations use every day. As companies connect AI, cloud apps,\u2026",
+    "title": "\u26a1 Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More"
   },
   "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html": {
     "categories": [],
@@ -5060,6 +5132,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Emergency Windows 10 update fixes ESU enrollment bug Microsoft has released an emergency out-of-band update to address a known issue preventing Windows 10 users from enrolling in the Extended Security Updates (ESU) program. [...]",
     "title": "Microsoft: Emergency Windows 10 update fixes ESU enrollment bug"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-flags-legitimate-emails-as-phishing/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-09T10:47:25+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Exchange Online flags legitimate emails as phishing Microsoft is investigating an ongoing Exchange Online issue that mistakenly flags legitimate emails as phishing and quarantines them. [...]",
+    "title": "Microsoft: Exchange Online flags legitimate emails as phishing"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/": {
     "categories": [
@@ -6288,6 +6372,17 @@
     "summary": "Beware: PayPal subscriptions abused to send fake purchase emails An email scam is abusing abusing PayPal's \"Subscriptions\"\u00a0billing feature to send legitimate PayPal emails that contain fake purchase notifications embedded in the Customer service URL field. [...]",
     "title": "Beware: PayPal subscriptions abused to send fake purchase emails"
   },
+  "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-09T13:07:03+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "BeyondTrust warns of critical RCE flaw in remote support software BeyondTrust warned customers to patch a critical security flaw in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow unauthenticated attackers to execute arbitrary code remotely. [\u2026",
+    "title": "BeyondTrust warns of critical RCE flaw in remote support software"
+  },
   "https://www.bleepingcomputer.com/news/security/bitcoin-queen-gets-11-years-in-prison-for-73-billion-bitcoin-scam/": {
     "categories": [
       "Security"
@@ -6395,6 +6490,17 @@
     "source": "BleepingComputer",
     "summary": "China-linked hackers exploited Sitecore zero-day for initial access An advanced threat actor tracked as UAT-8837 and believed to be linked to China has been focusing on critical infrastructure systems in North America, gaining access by exploiting both known and zero-day vulnerab\u2026",
     "title": "China-linked hackers exploited Sitecore zero-day for initial access"
+  },
+  "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breach-singapores-four-largest-telcos/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-09T22:47:53+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Chinese cyberspies breach Singapore's four largest telcos The Chinese threat actor tracked as UNC3886 breached Singapore's four largest telecommunication service providers, Singtel, StarHub, M1, and Simba, at least once last year. [...]",
+    "title": "Chinese cyberspies breach Singapore's four largest telcos"
   },
   "https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/": {
     "categories": [
@@ -7440,6 +7546,17 @@
     "summary": "European authorities dismantle call center fraud ring in Ukraine European law enforcement authorities dismantled a fraud network operating call centers in Ukraine that scammed victims across Europe out of more than 10 million euros. [...]",
     "title": "European authorities dismantle call center fraud ring in Ukraine"
   },
+  "https://www.bleepingcomputer.com/news/security/european-commission-discloses-breach-that-exposed-staff-data/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-09T09:49:04+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "European Commission discloses breach that exposed staff data The European Commission is investigating a breach after finding evidence that its mobile device management platform was hacked. [...]",
+    "title": "European Commission discloses breach that exposed staff data"
+  },
   "https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/": {
     "categories": [
       "Security"
@@ -8310,6 +8427,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers breach Fortinet FortiGate devices, steal firewall configs Fortinet FortiGate devices are being targeted in automated attacks that create rogue accounts and steal firewall configuration data,\u00a0according to cybersecurity company Arctic Wolf. [...]",
     "title": "Hackers breach Fortinet FortiGate devices, steal firewall configs"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-breach-smartertools-network-using-flaw-in-its-own-software/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-09T19:08:58+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers breach SmarterTools network using flaw in its own software SmarterTools confirmed last week that the Warlock ransomware gang breached its network after compromising an email system, but did not impact business applications or account data. [...]",
+    "title": "Hackers breach SmarterTools network using flaw in its own software"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-can-bypass-npms-shai-hulud-defenses-via-git-dependencies/": {
     "categories": [
@@ -9243,6 +9371,17 @@
     "summary": "Meet ShinySp1d3r: New Ransomware-as-a-Service created by ShinyHunters An in-development build of the upcoming ShinySp1d3r ransomware-as-a-service platform has surfaced, offering a preview of the upcoming extortion operation. [...]",
     "title": "Meet ShinySp1d3r: New Ransomware-as-a-Service created by ShinyHunters"
   },
+  "https://www.bleepingcomputer.com/news/security/men-charged-in-massive-fanduel-fraud-scheme-fueled-by-thousands-of-stolen-identities/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-09T11:41:17+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Men charged in FanDuel scheme fueled by thousands of stolen identities Two Connecticut men face federal charges for allegedly defrauding FanDuel and other online gambling sites of $3 million over several years using the stolen identities of approximately 3,000 victims. [...]",
+    "title": "Men charged in FanDuel scheme fueled by thousands of stolen identities"
+  },
   "https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/": {
     "categories": [
       "Security"
@@ -10111,6 +10250,17 @@
     "source": "BleepingComputer",
     "summary": "Panera Bread breach impacts 5.1 million accounts, not 14 million customers The data breach notification service Have I Been Pwned says that a data breach at the U.S. food chain Panera Bread affected 5.1 million accounts, not 14 million customers as previously reported. [...]",
     "title": "Panera Bread breach impacts 5.1 million accounts, not 14 million customers"
+  },
+  "https://www.bleepingcomputer.com/news/security/password-guessing-without-ai-how-attackers-build-targeted-wordlists/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-09T15:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Password guessing without AI: How attackers build targeted wordlists Attackers don't need AI to crack passwords, they build targeted wordlists from an organization's own public language. This article explains how tools like CeWL turn websites into high-success password guesses an\u2026",
+    "title": "Password guessing without AI: How attackers build targeted wordlists"
   },
   "https://www.bleepingcomputer.com/news/security/passwork-7-self-hosted-password-and-secrets-manager-for-enterprise-teams/": {
     "categories": [
@@ -11073,6 +11223,17 @@
     "source": "BleepingComputer",
     "summary": "The Tycoon 2FA Phishing Platform and the Collapse of Legacy MFA Tycoon 2FA enables turnkey real-time MFA relays behind 64,000+ attacks this year, proving legacy MFA collapses the moment a phishing kit targets it. Learn from Token Ring how biometric, phishing-proof FIDO2 hardware \u2026",
     "title": "The Tycoon 2FA Phishing Platform and the Collapse of Legacy MFA"
+  },
+  "https://www.bleepingcomputer.com/news/security/threat-actors-exploit-solarwinds-wdh-flaws-to-deploy-velociraptor/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-09T20:28:15+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit SolarWinds WHD flaws to deploy DFIR tool in attacks Hackers are now exploiting SolarWinds Web Help Desk (WHD) vulnerabilities to gain code execution rights on exposed systems and deploy legitimate tools, including the Velociraptor forensics tools, for persistence \u2026",
+    "title": "Hackers exploit SolarWinds WHD flaws to deploy DFIR tool in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/tor-switches-to-new-counter-galois-onion-relay-encryption-algorithm/": {
     "categories": [
@@ -12190,6 +12351,15 @@
     "summary": "'Damn Vulnerable' Training Apps Leave Vendors' Clouds Exposed Hackers are already leveraging these over-permissioned programs to access the IT systems of major security vendors.",
     "title": "'Damn Vulnerable' Training Apps Leave Vendors' Clouds Exposed"
   },
+  "https://www.darkreading.com/application-security/warlock-gang-breaches-smartertools-smartermail-bugs": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt80a51748c9f8b598/698a41ba510a9c0b04350902/Unlock_Data_Breach_Pattara_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-09T21:59:02+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Warlock Gang Breaches SmarterTools Via SmarterMail Bugs The ransomware group breached SmarterTools through a vulnerability in the company's own SmarterMail product.",
+    "title": "Warlock Gang Breaches SmarterTools Via SmarterMail Bugs"
+  },
   "https://www.darkreading.com/cloud-security/8-minute-access-ai-aws-environment-breach": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6a01396af4bb8efc/6981eb3283114a859b700945/Cloud-Security_Aleksia_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -12288,6 +12458,15 @@
     "source": "darkreading",
     "summary": "Phishers Exploit Office 365 Users Who Let Their Guard Down Microsoft said that Office 365 tenants with weak configurations and who don't have strict anti-spoofing protection enabled are especially vulnerable.",
     "title": "Phishers Exploit Office 365 Users Who Let Their Guard Down"
+  },
+  "https://www.darkreading.com/cloud-security/teampcp-cloud-infrastructure-crime-bots": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1be9ed15b24ac959/698a3d5c83114a0a87701b4e/cloud_KanawatTH_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-09T21:14:34+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "TeamPCP Turns Cloud Infrastructure into Crime Bots The threat actor has been compromising cloud environments at scale with automated worm-like attacks on exposed services and interfaces.",
+    "title": "TeamPCP Turns Cloud Infrastructure into Crime Bots"
   },
   "https://www.darkreading.com/cloud-security/voidlink-malware-advanced-threat-linux-systems": {
     "categories": [],
@@ -13645,6 +13824,15 @@
     "summary": "Secure Your Spot at RSAC 2026 Conference",
     "title": "Secure Your Spot at RSAC 2026 Conference"
   },
+  "https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8a0a23d922e8040c/698a52efc397d867074bbec6/DRVE_Event_2060319.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-19T15:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "[Virtual Event] Shields Up: Key Technologies Reshaping Cybersecurity Defenses",
+    "title": "[Virtual Event] Shields Up: Key Technologies Reshaping Cybersecurity Defenses"
+  },
   "https://www.darkreading.com/ics-ot-security/ai-ot-too-incompatible-work-securely": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7923c579bab7c392/6932e6f3c23f653dc027c2b9/2X8EYCK.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -13902,6 +14090,15 @@
     "source": "darkreading",
     "summary": "Akira RaaS Targets Nutanix VMs, Threatens Critical Orgs The Akira ransomware group has been experimenting with new tools, bugs, and attack surfaces, with demonstrated success in significant sectors.",
     "title": "Akira RaaS Targets Nutanix VMs, Threatens Critical Orgs"
+  },
+  "https://www.darkreading.com/threat-intelligence/black-basta-bundles-byovd-ransomware-payload": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt73fb59d43adcecc1/698a049acd8daf2453824e49/ransomwarecode_PeachayaTanomsup_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-09T20:14:22+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "'Reynolds' Bundles BYOVD With Ransomware Payload Researchers discovered a newly disclosed vulnerable driver embedded in Reynolds' ransomware, illustrating the increasing popularity of the defense-evasion technique.",
+    "title": "'Reynolds' Bundles BYOVD With Ransomware Payload"
   },
   "https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals": {
     "categories": [],
