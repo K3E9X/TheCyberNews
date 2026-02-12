@@ -3821,6 +3821,15 @@
     "summary": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack The distributed denial-of-service (DDoS) botnet known as AISURU/Kimwolf has been attributed to a record-setting attack that peaked at 31.4 Terabits per second (Tbps) and lasted only 35 seconds.\nCloudflare, which \u2026",
     "title": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack"
   },
+  "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjyk4RBhw7ZLa79jfuotCrBx0CSEp-EFKyO90NFkT728W0TaMEf4Rc50U3FFEx_EiZ3D1-RoiEWHWYb-EDeECBP6R2Es2rhNSyM0HqT03lX94UlFdLizO6qfkD1f-FyVmco9XwzO0fE6draieYuLHM0Vcsapjj9jl2phHIAMOF_2kvnNAeHJWoupqjgPhu/s1600/apple.jpg",
+    "published": "2026-02-12T05:39:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks.\nThe vulnerability, tracked a\u2026",
+    "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices"
+  },
   "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8WToLgQKoSrd-Jg_YD7OJQSJIx2IjJPdhMLYQNTuE9_0bNVo7rwzOdJ0fj0x8oy7-1i4OcXxRbB4nDF502wV5Jwxl5mKPZRpjz5kWijxGRixX2jaewHQHmxGAWVguAFni_muFJNsk610Gaa4JMCCvJMQ7j9kmKgww3U3-z8olchagQGw6cGXxte_4tyPS/s1600/office.jpg",
@@ -3829,6 +3838,15 @@
     "source": "The Hacker News",
     "summary": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks The Russia-linked state-sponsored threat actor known as APT28 (aka UAC-0001) has been attributed to attacks exploiting a newly disclosed security flaw in Microsoft Office as part of a campaign codenam\u2026",
     "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks"
+  },
+  "https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbazpuuwU1rJbldu2fNhcDhnmgmpygU-Ci4lvjJXXo3TlmbV06oWZJ-FEJjMtQnkzg9-cBOt9h8aCA5d2EuO3gRaDlbzzc1w4cZRsdDUY1YwMTXv9f3ebp4CrZ-0jIar70HO_pyuhzHdClzTo85wpHJF8wiabXv8ko9fxQbp5WFmWdVwvtqqAkh5mk2_hv/s1600/india.jpg",
+    "published": "2026-02-11T14:52:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities Indian defense sector and government-aligned organizations have been targeted by multiple campaigns that are designed to compromise Windows and Linux environments with remote access trojans capable of \u2026",
+    "title": "APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities"
   },
   "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html": {
     "categories": [],
@@ -3983,6 +4001,24 @@
     "summary": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware The update infrastructure for eScan antivirus, a security solution developed by Indian cybersecurity company MicroWorld Technologies, has been compromised by unknown attackers to deliver a persistent downlo\u2026",
     "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware"
   },
+  "https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQeF3lExyDyGEAtnZylF2A30qkeG6Yoa-GxL_guF46TWzDUEyX7jg-j-PSO7VwdSUlFIalEmV2nCGE4KyntCePcUgW6qEBX6Mmj3rOpo5iTEqIjkQYd0YdeEOWjnpg5AWhfK0jO0wDksHchtMgjF8pq-lwcO-eHoyw2EqAGGqc48_UZRQsZ2R4ZxFG0bc/s1600/pentera.jpg",
+    "published": "2026-02-11T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments Intentionally vulnerable training applications are widely used for security education, internal testing, and product demonstrations. Tools such as OWASP Juice Shop, DVWA, Hackazon, and bWAPP are de\u2026",
+    "title": "Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments"
+  },
+  "https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGH5OFCdEH8WLDQvMuU6qAbaI73kVMtx4uASqujZ12UAb3Q-yJX3ZsFCpc1uJuUE4ah_z24WgRv_1JhOem_ISHdoYtPzZPy6o5HwRuoBGjThyru3WAtrcOqyA9hDvSNgSKIgaYUTdIOUJHL7HCRUEZgt9Z8fP6F8oINDt4LkeziTnTW6cx_Qw_DJ2FLMmo/s1600/outlook.jpg",
+    "published": "2026-02-11T17:45:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials Cybersecurity researchers have discovered what they said is the first known malicious Microsoft Outlook add-in detected in the wild.\nIn this unusual supply chain attack detailed by Koi Security, an unknown\u2026",
+    "title": "First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials"
+  },
   "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnvpWlJDRcbb7ljfQfr3-cgxfkViTJBw0bxfA9YRZxbXS7GWlhhOdByicULU6alislJQMfCcRjKjB3T_WJXNSH4EnAYMPHbg7G2WxCD3bug8W1aCPOsUCqG2p9_y4NGvKSpwGio3xsAbCsGALZtdn72ervcYQjY9eDhasnbDprcYmxUI-A-10PHaVtSdok/s1600/fort.jpg",
@@ -4073,6 +4109,15 @@
     "summary": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (A\u2026",
     "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models"
   },
+  "https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXD1L5ieHEU_h9-eg9LNbLb5-NpNemZK7bZbgYQS5MAeiHtGT2NyiQWOda0XOYhmj3wH_C0Bh4Nk8OzsXqAFaTCsja2EuPd_6t-V2R5PZjtwUQ2-74OWfUJKrJbRLy5n5qwchKcwcZ2Ns8DzYM_bE04nY9l3ntTbUXDi6OYxWO9EZmf8Ibv9YNBhUv6ejv/s1600/windows-updates.jpg",
+    "published": "2026-02-11T10:22:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days Microsoft on Tuesday released security updates to address a set of 59 flaws across its software, including six vulnerabilities that it said have been exploited in the wild.\nOf the 59 flaws, five are r\u2026",
+    "title": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days"
+  },
   "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitGprkuP7SdfHIWnVVo7pZJ941c_TOVgrrZCPM9BosshMNfva3UbHAZG791-XufHdEc6hGRcFX3Ucak4XRDOgoSa4KCyPHeuxwWKr8y_LNLmo6mOqxgKvLOfbcAVDoACJ9MTSDkq25noRCdjHTBZVtGCulkPK5cjRBsQGf0LQQQkUujppEe6K4i0lq7VZF/s1600/macos-malware.jpg",
@@ -4154,6 +4199,15 @@
     "summary": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications An innovative approach to discovering, analyzing, and governing identity usage beyond traditional IAM controls.\nThe Challenge: Identity Lives Outside the Identity Stack\nIdentity and access ma\u2026",
     "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications"
   },
+  "https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn9BjSz22uW2NPDNZhkDs7Ygjb5lTP5jFhXbGlk3oBRgpncWsp6pu42-c0T7TXDPviwihS5GuwedI6ULAmI6Zp8NKWOMzS-wJlSjVkd02cB6rM0uLbi-ZU1oxKsSQIpesNLkaA13EDcht62GZgjQbG2nffYeQPhXOWJHUBKhRwKm4s_-_ukeKZuno8I7Iv/s1600/patches.jpg",
+    "published": "2026-02-11T13:28:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms It's Patch Tuesday, which means a number of software vendors have released patches for various security vulnerabilities impacting their products and services.\nMicrosoft issued fixes for 59 flaws\u2026",
+    "title": "Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms"
+  },
   "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrHsgrh_iIHVwJdfZ-6tSVag1fs71bd15QISN82bzqvxchcyJGuWdbtZRqQ25tJC_HoeaGAMI3phpFy_TAy2NYbSpJTwuTJ5jIz_QKmNPTv_zqA2GNvuozLGpKCqTa-OI1Hp-zOy_B8wjkvoYcBn56g09PpoQOMd568LfGiH7J0Ee0hg65eBaHSWxDe92m/s1600/OpenClaw-skills.jpg",
@@ -4189,6 +4243,15 @@
     "source": "The Hacker News",
     "summary": "SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers Microsoft has revealed that it observed a multi\u2011stage intrusion that involved the threat actors exploiting internet\u2011exposed SolarWinds Web Help Desk (WHD) instances to obtain initial access and m\u2026",
     "title": "SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers"
+  },
+  "https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIWksXdbZ0O2Uys7zlFHh363x_928N5gROvDQuqYlRb952YgIX5wXoIOhRZy6ZBS0Lswnax_SfsXm77mjIojyvIYLn8PQID-pGysGygXRuDj4MPbLlxHnwjVJ48IeW0Yf4K0Yw8mwxXkmFjYF3JnLoms3GbRYZbjWX28y2FuV2xyLFTaDM1NgQafp_j1uS/s1600/linux-botnet.jpg",
+    "published": "2026-02-11T09:56:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "SSHStalker Botnet Uses IRC C2 to Control Linux Systems via Legacy Kernel Exploits Cybersecurity researchers have disclosed details of a new botnet operation called SSHStalker that relies on the Internet Relay Chat (IRC) communication protocol for command-and-control (C2) purposes\u2026",
+    "title": "SSHStalker Botnet Uses IRC C2 to Control Linux Systems via Legacy Kernel Exploits"
   },
   "https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html": {
     "categories": [],
@@ -6098,6 +6161,18 @@
     "summary": "Windows 11 KB5077181 & KB5075941 cumulative updates released Microsoft has released Windows 11\u00a0KB5077181\u00a0and\u00a0KB5075941\u00a0cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
     "title": "Windows 11 KB5077181 & KB5075941 cumulative updates released"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-11T23:15:41+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 Notepad flaw let files execute silently via Markdown links Microsoft has fixed a \"remote code execution\" vulnerability in Windows 11 Notepad that allowed attackers to execute local or remote programs by tricking users into clicking specially crafted Markdown links, wit\u2026",
+    "title": "Windows 11 Notepad flaw let files execute silently via Markdown links"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-store-gets-ninite-style-multi-app-installer-feature/": {
     "categories": [
       "Microsoft",
@@ -6376,6 +6451,18 @@
     "source": "BleepingComputer",
     "summary": "Apple fixes two zero-day flaws exploited in 'sophisticated' attacks Apple has released emergency updates to patch two zero-day vulnerabilities that were exploited in an \"extremely sophisticated attack\" targeting specific individuals. [...]",
     "title": "Apple fixes two zero-day flaws exploited in 'sophisticated' attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/": {
+    "categories": [
+      "Security",
+      "Apple"
+    ],
+    "image": "",
+    "published": "2026-02-12T01:06:05+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Apple fixes zero-day flaw used in 'extremely sophisticated' attacks Apple has released security updates to fix a zero-day vulnerability that was exploited in an \"extremely sophisticated attack\" targeting specific individuals. [...]",
+    "title": "Apple fixes zero-day flaw used in 'extremely sophisticated' attacks"
   },
   "https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/": {
     "categories": [
@@ -7195,6 +7282,17 @@
     "source": "BleepingComputer",
     "summary": "Cox Enterprises discloses Oracle E-Business Suite data breach Cox Enterprises is notifying impacted individuals of a data breach that exposed their personal data to hackers who breached\u00a0the company network after exploiting a zero-day flaw in Oracle E-Business Suite. [...]",
     "title": "Cox Enterprises discloses Oracle E-Business Suite data breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-11T19:29:14+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Crazy ransomware gang abuses employee monitoring tool in attacks A member of the Crazy ransomware gang is abusing legitimate employee monitoring software and the SimpleHelp remote support tool to maintain persistence in corporate networks, evade detection, and prepare for ransomw\u2026",
+    "title": "Crazy ransomware gang abuses employee monitoring tool in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/": {
     "categories": [
@@ -8411,6 +8509,19 @@
     "summary": "Google links more Chinese hacking groups to React2Shell attacks Over the weekend, \u200bGoogle's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity \"React2Shell\" remote code execution vulnerability. [...]",
     "title": "Google links more Chinese hacking groups to React2Shell attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence",
+      "Google"
+    ],
+    "image": "",
+    "published": "2026-02-12T07:00:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google says hackers are abusing Gemini AI for all attacks stages Google Threat Intelligence Group (GTIG) has published a new report warning about AI model extraction/distillation attacks, in which private-sector firms and researchers use legitimate API access to systematically pr\u2026",
+    "title": "Google says hackers are abusing Gemini AI for all attacks stages"
+  },
   "https://www.bleepingcomputer.com/news/security/google-sues-to-dismantle-chinese-phishing-platform-behind-us-toll-scams/": {
     "categories": [
       "Security",
@@ -9263,6 +9374,17 @@
     "summary": "Lost iPhone? Don\u2019t fall for phishing texts saying it was found The Swiss National Cyber Security Centre (NCSC) is warning iPhone owners about a\u00a0phishing scam that claims to have found your lost or stolen iPhone but is actually trying to steal your Apple ID credentials. [...]",
     "title": "Lost iPhone? Don\u2019t fall for phishing texts saying it was found"
   },
+  "https://www.bleepingcomputer.com/news/security/lummastealer-infections-surge-after-castleloader-malware-campaigns/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-11T17:02:29+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "LummaStealer infections surge after CastleLoader malware campaigns A\u00a0surge in LummaStealer infections has been observed, driven by social engineering campaigns leveraging the ClickFix technique to deliver the CastleLoader malware. [...]",
+    "title": "LummaStealer infections surge after CastleLoader malware campaigns"
+  },
   "https://www.bleepingcomputer.com/news/security/maintaining-enterprise-it-hygiene-using-wazuh-siem-xdr/": {
     "categories": [
       "Security"
@@ -9630,6 +9752,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Some Windows PCs fail to shut down after January update Microsoft has confirmed a new issue that prevents Windows 11 23H2 devices with System Guard Secure Launch enabled from shutting down. [...]",
     "title": "Microsoft: Some Windows PCs fail to shut down after January update"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-02-11T21:53:58+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Store Outlook add-in hijacked to steal 4,000 Microsoft accounts The AgreeTo add-in for Outlook has been hijacked and turned into a phishing kit that stole more than 4,000 Microsoft account credentials. [...]",
+    "title": "Microsoft Store Outlook add-in hijacked to steal 4,000 Microsoft accounts"
   },
   "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-warn-of-suspicious-traffic-with-external-domains/": {
     "categories": [
@@ -10538,6 +10672,17 @@
     "summary": "Poland arrests Ukrainians utilizing 'advanced' hacking equipment The police in Poland arrested three\u00a0Ukrainian nationals for allegedly attempting to damage IT systems in the country using hacking equipment and for obtaining\u00a0\"computer data of particular importance to national defe\u2026",
     "title": "Poland arrests Ukrainians utilizing 'advanced' hacking equipment"
   },
+  "https://www.bleepingcomputer.com/news/security/police-arrest-seller-of-jokerotp-mfa-passcode-capturing-tool/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-11T19:14:32+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Police arrest seller of JokerOTP MFA passcode capturing tool The Netherlands Police have arrested a\u00a0a 21-year-old man from Dordrecht, suspected of selling access to the JokerOTP\u00a0phishing automation tool that can intercept one-time passwords (OTP) for hijacking accounts. [...]",
+    "title": "Police arrest seller of JokerOTP MFA passcode capturing tool"
+  },
   "https://www.bleepingcomputer.com/news/security/police-disrupts-rhadamanthys-venomrat-and-elysium-malware-operations/": {
     "categories": [
       "Security"
@@ -10646,6 +10791,17 @@
     "source": "BleepingComputer",
     "summary": "Princeton University discloses data breach affecting donors, alumni A Princeton University database was compromised in a cyberattack on November 10, exposing the personal information of alumni, donors, faculty members, and students. [...]",
     "title": "Princeton University discloses data breach affecting donors, alumni"
+  },
+  "https://www.bleepingcomputer.com/news/security/proactive-strategies-for-cyber-resilience-with-wazuh/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-11T17:40:28+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Proactive strategies for cyber resilience with Wazuh Cyber resilience means anticipating threats, detecting them early, and recovering fast when incidents occur. Wazuh shows how its open source SIEM and XDR unify visibility, detection, and automated response to strengthen proacti\u2026",
+    "title": "Proactive strategies for cyber resilience with Wazuh"
   },
   "https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/": {
     "categories": [
@@ -12283,6 +12439,15 @@
     "summary": "Attackers Use Windows Screensavers to Drop Malware, RMM Tools By tapping the unusual .scr file type, attackers leverage &quot;executables that don't always receive executable-level controls,&quot; one researcher noted.",
     "title": "Attackers Use Windows Screensavers to Drop Malware, RMM Tools"
   },
+  "https://www.darkreading.com/application-security/automaker-secures-supply-chain-developer-friendly-platform": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte5c82e8ab7593fa8/65f1a392990e9d040a78f0ff/Open_Studi0-digital-car-software-defined-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-10T19:35:53+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Automaker Secures the Supply Chain With Developer-Friendly Platform How a platform engineering team embeds supply chain security into infrastructure without slowing developers.",
+    "title": "Automaker Secures the Supply Chain With Developer-Friendly Platform"
+  },
   "https://www.darkreading.com/application-security/bronze-butler-apt-exploits-zero-day-vuln-root-japan": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc4fb1e58a83989e5/690bb5e164cd7f024c52e137/butler-Steve_Cukrov-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -12334,6 +12499,15 @@
     "source": "darkreading",
     "summary": "Critical Fortinet FortiWeb WAF Bug Exploited in the Wild The vulnerability could allow an unauthenticated attacker to remotely execute administrative commands.",
     "title": "Critical Fortinet FortiWeb WAF Bug Exploited in the Wild"
+  },
+  "https://www.darkreading.com/application-security/cyber-industry-defenses-co2-emissions": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9e68ba407e192fcf/698b83f535702e4a5ec046c6/Keyboard_grass-mediacolor_s-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-11T14:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Top Cyber Industry Defenses Spike CO2 Emissions Organizations can improve their climate footprints by optimizing two specific cybersecurity protections, without incurring added risks.",
+    "title": "Top Cyber Industry Defenses Spike CO2 Emissions"
   },
   "https://www.darkreading.com/application-security/dark-reading-opens-state-appsec-survey": {
     "categories": [],
@@ -13804,6 +13978,15 @@
     "summary": "ServiceNow Buys Armis for $7.75B, Boosts 'AI Control Tower' Its latest cybersecurity acquisition will help further ServiceNow's plans for autonomous cybersecurity, and building a security stack to proactively manage AI.",
     "title": "ServiceNow Buys Armis for $7.75B, Boosts 'AI Control Tower'"
   },
+  "https://www.darkreading.com/cybersecurity-operations/stay-top-future-threats-cutting-edge-soc": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt42df7ca896592a2e/6751ee3d47226cf59b96d81d/SOC_(1800)_Dragos_Condrea_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-10T20:36:42+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "How to Stay on Top of Future Threats With a Cutting-Edge SOC CISOs should focus on harnessing and securing AI and building new skills among their people. Vision and change management can transform security.",
+    "title": "How to Stay on Top of Future Threats With a Cutting-Edge SOC"
+  },
   "https://www.darkreading.com/cybersecurity-operations/stop-secrets-creep-across-developer-platforms": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -13846,6 +14029,15 @@
     "source": "darkreading",
     "summary": "Why You Should Train Your SOC Like a Triathlete The key elements in a security operations center's strategy map very closely to the swim/bike/run events in a triathlon. SOCs, like triathletes, perform well when their &quot;inputs&quot; are strong.",
     "title": "Why You Should Train Your SOC Like a Triathlete"
+  },
+  "https://www.darkreading.com/data-privacy/do-we-know-enough-about-data-populating-ai": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9f65631630e592f3/698b910082cad77379eec706/Warning_question_mark_Lensw0rld_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-11T14:31:47+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI Rising: Do We Know Enough About the Data Populating It? Organizations remain reluctant to address the fact that AI can dangerously expose business operations as well as personal data.",
+    "title": "AI Rising: Do We Know Enough About the Data Populating It?"
   },
   "https://www.darkreading.com/data-privacy/while-ech-adoption-is-low-risks-remain-for-enterprises-end-users": {
     "categories": [],
@@ -14571,6 +14763,15 @@
     "source": "darkreading",
     "summary": "'MuddyWater' Hackers Target Israeli Orgs With Retro Game Tactic Iran's top state-sponsored APT is usually rather crass. But in a recent spate of attacks, it tried out some interesting evasion tactics, including delving into Snake, an old-school mobile game.",
     "title": "'MuddyWater' Hackers Target Israeli Orgs With Retro Game Tactic"
+  },
+  "https://www.darkreading.com/threat-intelligence/north-koreas-unc1069-hammers-crypto-firms": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb6cbcc2ccc50eb28/698cef37eddb0d5845453339/DPRK_flag_Valerio_Rosati_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-11T21:56:11+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "North Korea's UNC1069 Hammers Crypto Firms With AI In moving away from traditional banks to focus on Web3 companies, the threat actor is leveraging LLMs, deepfakes, legitimate platforms, and ClickFix.",
+    "title": "North Korea's UNC1069 Hammers Crypto Firms With AI"
   },
   "https://www.darkreading.com/threat-intelligence/operation-sentinel-african-cybercrime-syndicates": {
     "categories": [],
