@@ -10675,6 +10675,17 @@
     "summary": "Okta SSO accounts targeted in vishing-based data theft attacks Okta is warning about custom phishing kits built specifically for voice-based social engineering (vishing) attacks. BleepingComputer has learned that these kits are being used in active attacks to steal Okta SSO crede\u2026",
     "title": "Okta SSO accounts targeted in vishing-based data theft attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-14T16:02:34+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "One threat actor responsible for 83% of recent Ivanti RCE attacks Threat intelligence observations show that a\u00a0single threat actor is responsible for most of the active exploitation of two critical vulnerabilities in\u00a0Ivanti Endpoint Manager Mobile (EPMM), tracked as\u00a0CVE-2026-2196\u2026",
+    "title": "One threat actor responsible for 83% of recent Ivanti RCE attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/ongoing-soundcloud-issue-blocks-vpn-users-with-403-server-error/": {
     "categories": [
       "Security"
@@ -11502,6 +11513,17 @@
     "source": "BleepingComputer",
     "summary": "SmartTube YouTube app for Android TV breached to push malicious update The popular open-source SmartTube YouTube client for Android TV was compromised after an attacker gained access to the developer's signing keys, leading to a malicious update being pushed to users. [...]",
     "title": "SmartTube YouTube app for Android TV breached to push malicious update"
+  },
+  "https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-14T15:15:25+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Snail mail letters target Trezor and Ledger users in crypto-theft attacks Threat actors are sending physical letters pretending to be from Trezor and Ledger, makers of cryptocurrency hardware wallets, to trick users into submitting recovery phrases in crypto theft attacks. [...]",
+    "title": "Snail mail letters target Trezor and Ledger users in crypto-theft attacks"
   },
   "https://www.bleepingcomputer.com/news/security/sneaky2fa-phaas-kit-now-uses-redteamers-browser-in-the-browser-attack/": {
     "categories": [
@@ -14861,6 +14883,15 @@
     "source": "darkreading",
     "summary": "Winter Olympics Could Share Podium With Cyberattackers The upcoming Winter Games in the Italian Alps are attracting both hacktivists looking to reach billions of people and state-sponsored cyber-spies targeting the attending glitterati.",
     "title": "Winter Olympics Could Share Podium With Cyberattackers"
+  },
+  "https://www.darkreading.com/remote-workforce/zscaler-squarex-deal-boosts-zero-trust-secure-browsing-capabilities": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf459c9ff5d345e58/686d20d8a502a804ecf992c7/browser-security-Robert_Avgustin-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-13T21:58:19+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Zscaler-SquareX Deal Boosts Zero Trust, Secure Browsing Capabilities Zscaler's acquisition of SquareX comes as competitors like CrowdStrike and Palo Alto Networks are also investing in secure browser technologies.",
+    "title": "Zscaler-SquareX Deal Boosts Zero Trust, Secure Browsing Capabilities"
   },
   "https://www.darkreading.com/threat-intelligence/2026-agentic-ai-attack-surface-poster-child": {
     "categories": [],
