@@ -4163,6 +4163,15 @@
     "summary": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (A\u2026",
     "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models"
   },
+  "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTITWEvp6Fk_BovXCLk1PaSAb0HJBzETmOcgn9ZPlY81ojfvKU3aoqM3BO_mtyqpL1idL2F1TY7e_3dAJiW6_DMDUAK5Q-zGKUnQvP1POiFDB_M0HwKiMQK2DuIihygT7Hpar1KtZ5KYCDISM2E98kRCBNxxt27oBWDX2hS0Qres6xc_0wFdaNbrxp92fj/s1600/dns.jpg",
+    "published": "2026-02-15T14:10:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (D\u2026",
+    "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging"
+  },
   "https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXD1L5ieHEU_h9-eg9LNbLb5-NpNemZK7bZbgYQS5MAeiHtGT2NyiQWOda0XOYhmj3wH_C0Bh4Nk8OzsXqAFaTCsja2EuPd_6t-V2R5PZjtwUQ2-74OWfUJKrJbRLy5n5qwchKcwcZ2Ns8DzYM_bE04nY9l3ntTbUXDi6OYxWO9EZmf8Ibv9YNBhUv6ejv/s1600/windows-updates.jpg",
@@ -4189,6 +4198,15 @@
     "source": "The Hacker News",
     "summary": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artificial intelligence (GenAI) features.\n\"It provides a singl\u2026",
     "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox"
+  },
+  "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFT4HoaSQbeCeLfXBXoGeq1zFeqdug4-I0sb9l4cbhjD9-84AWZx3KdM0pprDWqB9U673WmwexIudqWWrT4Fg44evASMxLYfTdwK43jwJyaL667fZDdQBB2vsFWXqE2XH8pNLp1TzgWhPxsqm9FuNrpClWdtGZ81t1gzbmcTJXTmFYsK8tcOG84mqzOKgr/s1600/chrome-0day.jpg",
+    "published": "2026-02-16T06:38:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack \u2014 Patch Released Google on Friday released security updates for its Chrome browser to address a security flaw that it said has been exploited in the wild.\nThe high-severity vulnerability, tracked as CVE-2026-2441 (CVSS score\u2026",
+    "title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack \u2014 Patch Released"
   },
   "https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html": {
     "categories": [],
@@ -6283,6 +6301,17 @@
     "summary": "Windows 11 KB5077181 & KB5075941 cumulative updates released Microsoft has released Windows 11\u00a0KB5077181\u00a0and\u00a0KB5075941\u00a0cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
     "title": "Windows 11 KB5077181 & KB5075941 cumulative updates released"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-02-15T22:08:53+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 KB5077181 fixes boot failures linked to failed updates Microsoft says it has resolved a Windows 11 bug that caused some commercial systems to fail to boot with an \"UNMOUNTABLE_BOOT_VOLUME\" error after installing recent security updates, with the fix delivered in the Fe\u2026",
+    "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/": {
     "categories": [
       "Microsoft",
@@ -6803,6 +6832,17 @@
     "source": "BleepingComputer",
     "summary": "California man admits to laundering crypto stolen in $230M heist A 45-year-old from Irvine, California, has pleaded guilty to laundering at least $25 million stolen in a massive $230 million cryptocurrency heist. [...]",
     "title": "California man admits to laundering crypto stolen in $230M heist"
+  },
+  "https://www.bleepingcomputer.com/news/security/canada-goose-investigating-as-hackers-leak-600k-customer-records/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-16T04:45:32+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Canada Goose investigating as hackers leak 600K customer records ShinyHunters, a well-known data extortion group, claims to have stolen more than 600,000 Canada Goose customer records containing personal and payment-related data. Canada Goose told BleepingComputer the dataset app\u2026",
+    "title": "Canada Goose investigating as hackers leak 600K customer records"
   },
   "https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/": {
     "categories": [
@@ -7613,6 +7653,17 @@
     "source": "BleepingComputer",
     "summary": "Cryptocurrency theft attacks traced to 2022 LastPass breach Blockchain investigation firm TRM Labs says ongoing cryptocurrency thefts have been traced to the 2022 LastPass breach, with attackers draining wallets years after encrypted vaults were\u00a0stolen and laundering the crypto t\u2026",
     "title": "Cryptocurrency theft attacks traced to 2022 LastPass breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-15T16:30:41+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups CTM360 reports 4,000+ malicious Google Groups and 3,500+ Google-hosted URLs used to spread the Lumma Stealer infostealing malware and a trojanized \"Ninja Browser.\" The report details how attackers abus\u2026",
+    "title": "CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups"
   },
   "https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/": {
     "categories": [
@@ -10156,6 +10207,17 @@
     "summary": "New China-linked hackers breach telcos using edge device exploits A sophisticated threat actor that uses Linux-based malware to target telecommunications providers has recently broadened its operations to include organizations in Southeastern Europe. [...]",
     "title": "New China-linked hackers breach telcos using edge device exploits"
   },
+  "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-16T00:29:00+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS Threat actors are now abusing DNS queries as part of ClickFix social engineering attacks to deliver malware, making this the first known use of DNS as a channel in these campaigns. [...]",
+    "title": "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS"
+  },
   "https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/": {
     "categories": [
       "Security"
@@ -10845,6 +10907,17 @@
     "source": "BleepingComputer",
     "summary": "Passwork 7: Self-hosted password and secrets manager for enterprise teams Passwork 7 unifies enterprise password and secrets management in a self-hosted platform. Organizations can automate credential workflows and test the full system with a free trial and up to 50% Black Friday\u2026",
     "title": "Passwork 7: Self-hosted password and secrets manager for enterprise teams"
+  },
+  "https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-15T15:17:27+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps Threat actors are abusing Pastebin comments to distribute a new ClickFix-style attack that tricks cryptocurrency users into executing malicious JavaScript in their browser, allowing attackers to hijack Bitco\u2026",
+    "title": "Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps"
   },
   "https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/": {
     "categories": [
