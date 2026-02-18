@@ -3929,6 +3929,15 @@
     "summary": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) to its Known Exploited Vulnerabilities (KEV) catalog, flagg\u2026",
     "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog"
   },
+  "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMthhoYB21iUycGm4t9Z8XBCzBHeEBnyGAy0VYV_szV8cL19wb2nn0OSqFBl35b7viP2cIkWdNIULp3eZHNPXMAjdyL67hvTY7wlYizhDDysYKzSinMqCJrh44qfrrdTmfT3Dx9H_gJlFayVV0NoDAP_JSPHDLo0WQjM4d7AGdA-wo8mf1vmoZIPrjBZQY/s1600/cisa-kev.jpg",
+    "published": "2026-02-18T06:52:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the \u2026",
+    "title": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update"
+  },
   "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge1uFwm_WzT-KegdpNHP4BZ8lVr18AxaDHJOg7q82ToP6qmFMnQyBFVEFSnIO4vOPNF0vKBCZyllAPnBsWALveRbuPV9J-vZClRVCbp8_5dmKpPsrYghHm_ONMIxi-gatCoDpkHqCExbcZiMyGPzXV0TzqBJlXcraIeCWwEeyEk4pBChWP8iHuWAOuUzOV/s1600/cisa.jpg",
@@ -3946,6 +3955,15 @@
     "source": "The Hacker News",
     "summary": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-s\u2026",
     "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries"
+  },
+  "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV4miUFC2VRtb2QbEjK8NcEvIZXEvwWMtG-FJdc87p3-LqV7rxBsXHJh3WTgqy8xKUtOJ30qlqn7LP3FjAEQpEQRbi_XxDS9r9te8ipkxyFO9Xeo9Eems4WSEcpLEzD4j9IVCGl_74w6uvOrA8_eC-rpbE7A9D_kqsGogEgqqKxR8mV1pNSlzfnIZKFMBZ/s1600/cloud-forensics-webinar.jpg",
+    "published": "2026-02-17T19:08:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster Cloud attacks move fast \u2014 faster than most incident response teams.\nIn data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the \u2026",
+    "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster"
   },
   "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html": {
     "categories": [],
@@ -4145,6 +4163,15 @@
     "summary": "Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends The elusive Iranian threat group known as Infy (aka Prince of Persia) has evolved its tactics as part of efforts to hide its tracks, even as it readied new command-and-control (C2) infrastructure\u2026",
     "title": "Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends"
   },
+  "https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Wza_QsQzhfPQCPUG6GYFEMc6xpel-E8wWXPSZlSeSLIHLRkxcgj-XxdItkZjBJSg7CW26jOr0gtstF5MjAeAumhISRoOJatq0Bss2rNv4f35PVZcwrrxlvhXqBwjtqCt6mL06qZJJZWFNTmLdCBkuL74UCB3O8rN1mC2UOulCvFIs37CyUl9v00zx1OD/s1600/android-firmware.jpg",
+    "published": "2026-02-17T16:41:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates A new Android backdoor that's embedded deep into the device firmware can silently harvest data and remotely control its behavior, according to new findings from Kaspersky.\nThe Russian cybersecurity vendor sa\u2026",
+    "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates"
+  },
   "https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg48-Bb1617Je211tmVOc4BKdYLJjIst0IBibAqJyCaHUi1ZpHQd0EW_idmBrAbIlMm8fDx9yciZ0HiC4WdvabpudTHGJsa_5sOEfHf6idS0Lwv86Zk3Bb9tVvyQJrJ5d0PkByBASbHpjWr5hLU5aWWBeUH3pjMyPhEZtE5WxbpQNRbzhWTSUSSCFGwg1mU/s1600/nkorea-hacker-code.jpg",
@@ -4190,6 +4217,15 @@
     "summary": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (D\u2026",
     "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging"
   },
+  "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh0FV5y7nlXl9cJspXtL5CZNMf2-ftHbx-kv0fjJ54M7A5FWTCUgzmscihQebjqcp3c9VXNPK784ZocV5_sG_5eizK2Kp1FeCbVvKuOlpi0vVOMUCUiSUCkdMpU8UWuworyKKXQLL0NAqkoFlBCnjxyB4UsLsEOqRx0hJzXZcWs998ANw_dyKyeip3I6ah/s1600/thn.jpg",
+    "published": "2026-02-17T09:31:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Microsoft Finds \u201cSummarize with AI\u201d Prompts Manipulating Chatbot Recommendations New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the \"Summarize with AI\" button that's being increasingly placed on websites in\u2026",
+    "title": "Microsoft Finds \u201cSummarize with AI\u201d Prompts Manipulating Chatbot Recommendations"
+  },
   "https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXD1L5ieHEU_h9-eg9LNbLb5-NpNemZK7bZbgYQS5MAeiHtGT2NyiQWOda0XOYhmj3wH_C0Bh4Nk8OzsXqAFaTCsja2EuPd_6t-V2R5PZjtwUQ2-74OWfUJKrJbRLy5n5qwchKcwcZ2Ns8DzYM_bE04nY9l3ntTbUXDi6OYxWO9EZmf8Ibv9YNBhUv6ejv/s1600/windows-updates.jpg",
@@ -4216,6 +4252,15 @@
     "source": "The Hacker News",
     "summary": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artificial intelligence (GenAI) features.\n\"It provides a singl\u2026",
     "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox"
+  },
+  "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNtu8YGAogyismJs9M9YdnRhGbjScyVHZkNmeiwAafRQFLjFy4FzEajb_1HcQsiPSO6jEbkgBNdsxL3lrRaK05f8qY32TIUmkz67ue-LShVtui5dKxwGG78GPwvvM7hdftNkCd0KsVfNPapBB9DD7qvZgwSRYtC84kIzPOFUBreckXSDXHkXhGsA1ju-A/s1600/corelight.jpg",
+    "published": "2026-02-17T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "My Day Getting My Hands Dirty with an NDR System My objectiveThe role of NDR in SOC workflowsStarting up the NDR systemHow AI complements the human responseWhat else did I try out?What could I see with NDR that I wouldn\u2019t otherwise?Am I ready to be a network security analyst now?\u2026",
+    "title": "My Day Getting My Hands Dirty with an NDR System"
   },
   "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html": {
     "categories": [],
@@ -4334,6 +4379,15 @@
     "summary": "Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability Threat actors have started to exploit a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products, according to watchTowr.\n\"Ove\u2026",
     "title": "Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability"
   },
+  "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzYX37QWNtfn6KjpvO-G2qEj3m_ARN3yOl6MgQKaMMAAAw_EUE2o_zASrY9uGyYZhUXJbSY6n3nmo-hXvpBHnG7LL6Qm4KJi0GUv8eoRlSSqLQAQVU_pbSp6FzsJTrcNVdZef3J4L9HrK-kwm5oiT7_Hx6Perm-y-P0saLA9gsmp16shesbIqeBsG-WD6Z/s1600/grok-ai.jpg",
+    "published": "2026-02-17T18:08:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies Cybersecurity researchers have disclosed that artificial intelligence (AI) assistants that support web browsing or URL fetching capabilities can be turned into stealthy command-and-control (C2) relays, a techni\u2026",
+    "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies"
+  },
   "https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqTeSYoXhnTy-zKDDdC_mNC4M0z32QT7sAvTipDACRrlUcGRFE2rWJ3wGacGPtT8n9evbDa7H2cL0GRj8ABmUgdMvaS9UBi8fhZMkvoXV8BhfCGYeCMvmReDOgrTzB6hVf0dEZ6V_cA9wDhkwzDFdqhBtMOtibNJsge2YkohfspG3Z-y45_ysTjatb2M6F/s1600/edr.jpg",
@@ -4360,6 +4414,15 @@
     "source": "The Hacker News",
     "summary": "Securing the Mid-Market Across the Complete Threat Lifecycle For mid-market organizations, cybersecurity is a constant balancing act. Proactive, preventative security measures are essential to protect an expanding attack surface. Combined with effective protection that blocks thr\u2026",
     "title": "Securing the Mid-Market Across the Complete Threat Lifecycle"
+  },
+  "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTqbI3s_iPxMUClWM1mAlNmZ1XoIGvcr_s7qE8slqSkSFCyPIU50Ml0XsqsxGAnsMt1Ys4v9Z2MYWapLXIB9bvkvXw7pPt8NvS05UotSaichBUZjw-WaoUwIlUCMjk1elkTOAFdwFfZyNCufWdiNoL2CmhbuW79HpBxWDELf1mqDC6ZA3BShpMK8C8sUbL/s1600/mcp-hack.jpg",
+    "published": "2026-02-17T12:42:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer Cybersecurity researchers have disclosed details of a new SmartLoader campaign that involves distributing a trojanized version of a Model Context Protocol (MCP) server associated with Oura Health to d\u2026",
+    "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer"
   },
   "https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html": {
     "categories": [],
@@ -5262,6 +5325,17 @@
     "summary": "Operation Switch Off dismantles major pirate TV streaming services The latest phase of the global law enforcement action resulted in seizing three industrial-scale illegal IPTV services. [...]",
     "title": "Operation Switch Off dismantles major pirate TV streaming services"
   },
+  "https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/": {
+    "categories": [
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-02-17T23:15:49+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites A Spanish court has granted precautionary measures against NordVPN and ProtonVPN, ordering the two popular VPN providers to block 16 websites that facilitate piracy of football matches. [...]",
+    "title": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/": {
     "categories": [
       "Microsoft",
@@ -5943,6 +6017,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft shares workaround for Outlook freezes after Windows update Microsoft shared a temporary workaround for customers experiencing Outlook freezes after installing this month's Windows security updates. [...]",
     "title": "Microsoft shares workaround for Outlook freezes after Windows update"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-02-17T15:37:45+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Teams outage affects users in United States, Europe \u200bMicrosoft is working to resolve an ongoing outage affecting Microsoft Teams users, causing delays and preventing some from accessing the service. [...]",
+    "title": "Microsoft Teams outage affects users in United States, Europe"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/": {
     "categories": [
@@ -6973,6 +7058,17 @@
     "source": "BleepingComputer",
     "summary": "Chinese cyberspies breach Singapore's four largest telcos The Chinese threat actor tracked as UNC3886 breached Singapore's four largest telecommunication service providers, Singtel, StarHub, M1, and Simba, at least once last year. [...]",
     "title": "Chinese cyberspies breach Singapore's four largest telcos"
+  },
+  "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-17T20:15:03+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Chinese hackers exploiting Dell zero-day flaw since mid-2024 A suspected Chinese state-backed hacking group has been quietly exploiting a critical Dell security flaw in zero-day attacks that started in mid-2024. [...]",
+    "title": "Chinese hackers exploiting Dell zero-day flaw since mid-2024"
   },
   "https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/": {
     "categories": [
@@ -8392,6 +8488,17 @@
     "summary": "Five plead guilty to helping North Koreans infiltrate US firms The U.S. Department of Justice announced that five individuals pleaded guilty to aiding North Korea's illicit revenue generation schemes, including remote IT worker fraud and cryptocurrency theft. [...]",
     "title": "Five plead guilty to helping North Koreans infiltrate US firms"
   },
+  "https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-17T21:27:12+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Flaws in popular VSCode extensions expose developers to attacks Vulnerabilities with high to critical severity ratings affecting popular\u00a0Visual Studio Code (VSCode) extensions collectively downloaded more than 128 million times\u00a0could be exploited to steal local files and execute \u2026",
+    "title": "Flaws in popular VSCode extensions expose developers to attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/": {
     "categories": [
       "Security"
@@ -9520,6 +9627,17 @@
     "summary": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds An Interpol-coordinated initiative called Operation Sentinel led to the arrest of 574 individuals and the recovery of $3 million linked to business email compromise, extortion, and ransomware incidents. [...]",
     "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds"
   },
+  "https://www.bleepingcomputer.com/news/security/ireland-now-also-investigating-x-over-grok-made-sexual-images/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-17T10:02:21+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Ireland now also investigating X over Grok-made sexual images Ireland's Data Protection Commission (DPC), the country's data protection authority, has opened a formal investigation into X over the use of the platform's Grok artificial intelligence tool to generate non-consensual \u2026",
+    "title": "Ireland now also investigating X over Grok-made sexual images"
+  },
   "https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/": {
     "categories": [
       "Security"
@@ -10441,6 +10559,18 @@
     "summary": "New \u2018IndonesianFoods\u2019 worm floods npm with 100,000 packages A self-spreading\u00a0package published on npm spams the registry by spawning new packages every every seven seconds, creating large volumes of junk. [...]",
     "title": "New \u2018IndonesianFoods\u2019 worm floods npm with 100,000 packages"
   },
+  "https://www.bleepingcomputer.com/news/security/new-keenadu-backdoor-found-in-android-firmware-google-play-apps/": {
+    "categories": [
+      "Security",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-02-17T14:05:25+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New Keenadu backdoor found in Android firmware, Google Play apps A newly discovered and sophisticated Android malware called Keenadu has been found embedded in firmware from multiple device brands, enabling it to compromise all installed applications and gain unrestricted control\u2026",
+    "title": "New Keenadu backdoor found in Android firmware, Google Play apps"
+  },
   "https://www.bleepingcomputer.com/news/security/new-landfall-spyware-exploited-samsung-zero-day-via-whatsapp-messages/": {
     "categories": [
       "Security",
@@ -10773,6 +10903,18 @@
     "summary": "Not a Kids Game: From Roblox Mod to Compromising Your Company Seemingly harmless game mods can hide infostealer malware that quietly steals identities. Flare shows how Roblox mods can turn a home PC infection into corporate compromise. [...]",
     "title": "Not a Kids Game: From Roblox Mod to Compromising Your Company"
   },
+  "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/": {
+    "categories": [
+      "Security",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-02-17T18:29:18+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Notepad++ boosts update security with \u2018double-lock\u2019 mechanism Notepad++ has adopted a \"double-lock\" design for its update mechanism to address recently exploited security gaps that resulted in a supply-chain compromise. [...]",
+    "title": "Notepad++ boosts update security with \u2018double-lock\u2019 mechanism"
+  },
   "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/": {
     "categories": [
       "Security"
@@ -11092,6 +11234,17 @@
     "source": "BleepingComputer",
     "summary": "\u2018PlushDaemon\u2019 hackers hijack software updates in supply-chain attacks The China-aligned advanced persistent threat (APT) tracked as 'PlushDaemon' is hijacking software update traffic to deliver malicious payloads to its targets. [...]",
     "title": "\u2018PlushDaemon\u2019 hackers hijack software updates in supply-chain attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/poland-arrests-suspect-linked-to-phobos-ransomware-operation/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-17T11:31:37+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Poland arrests suspect linked to Phobos ransomware operation Polish police have detained a 47-year-old man suspected of ties to the Phobos ransomware group and seized computers and mobile phones containing stolen credentials, credit card numbers, and server access data. [...]",
+    "title": "Poland arrests suspect linked to Phobos ransomware operation"
   },
   "https://www.bleepingcomputer.com/news/security/poland-arrests-ukrainians-utilizing-advanced-hacking-equipment/": {
     "categories": [
@@ -12565,6 +12718,17 @@
     "summary": "WebRAT malware spread via fake vulnerability exploits on GitHub The WebRAT malware is now being distributed through GitHub repositories that claim to host proof-of-concept\u00a0exploits for recently disclosed vulnerabilities. [...]",
     "title": "WebRAT malware spread via fake vulnerability exploits on GitHub"
   },
+  "https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-17T14:40:49+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "What 5 Million Apps Revealed About Secrets in JavaScript Leaked API keys are nothing new, but the scale of the problem in front-end code has been largely a mystery - until now. Intruder's research team built a new secrets detection method and scanned 5 million applications specif\u2026",
+    "title": "What 5 Million Apps Revealed About Secrets in JavaScript"
+  },
   "https://www.bleepingcomputer.com/news/security/what-an-ai-written-honeypot-taught-us-about-trusting-machines/": {
     "categories": [
       "Security"
@@ -13188,6 +13352,15 @@
     "source": "darkreading",
     "summary": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool Some of the world's biggest technology companies use a program liable to introduce malware into their software. The potential consequences are staggering, but there's an easy fix.",
     "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool"
+  },
+  "https://www.darkreading.com/application-security/rmm-abuse-explodes-hackers-ditch-malware": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltac90e1eb954c1669/6994cb1349e8a40008936007/rmm_tashatuvango_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-17T21:01:26+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "RMM Abuse Explodes as Hackers Ditch Malware Remote monitoring and management (RMM) software offers hackers multiple benefits, including stealth, persistence, and operational efficiency.",
+    "title": "RMM Abuse Explodes as Hackers Ditch Malware"
   },
   "https://www.darkreading.com/application-security/rust-code-delivers-better-security-streamlines-devops": {
     "categories": [],
@@ -14106,6 +14279,15 @@
     "summary": "ShinyHunters Expands Scope of SaaS Extortion Attacks Following its attacks on Salesforce instances last year, members of the cybercrime group have broadened their targeting and gotten more aggressive with extortion tactics.",
     "title": "ShinyHunters Expands Scope of SaaS Extortion Attacks"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/singapore-major-telcos-fend-chinese-hackers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7a9c799c7bf54f37/6994dc0149e8a40008936035/singtel-building-singapore-RidhamSupriyanto-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-18T01:00:00+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Singapore &amp; Its 4 Major Telcos Fend Off Chinese Hackers After detecting a zero-day attack, the country's effective response was attributed to the tight relationship between its government and private industry.",
+    "title": "Singapore &amp; Its 4 Major Telcos Fend Off Chinese Hackers"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-firewall-backups-nation-state-actor": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8de56be35f4fee7c/690cf08022b9701b85cba1fc/firewall_imageBROKER.com_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -14682,6 +14864,15 @@
     "summary": "CISOs Face a Tighter Insurance Market in 2026 Insured entities are becoming more sophisticated in their views on how cyber policies fit into their broader risk management plans.",
     "title": "CISOs Face a Tighter Insurance Market in 2026"
   },
+  "https://www.darkreading.com/endpoint-security/clickfix-attacks-dns-lookup-command-modelorat": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt26ca6f75ad43d880/699489c6cbe7c60008821687/browser_Tada_Images_shutterstock.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-17T21:01:02+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "ClickFix Attacks Abuses DNS Lookup Command to Deliver ModeloRAT ClickFix campaigns have adapted to the latest defenses with a new technique to trick users into infecting their own machines with malware.",
+    "title": "ClickFix Attacks Abuses DNS Lookup Command to Deliver ModeloRAT"
+  },
   "https://www.darkreading.com/endpoint-security/crowdsrike-buy-sgnl-expand-identity-security-capabilities": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7ea610a15c2e225b/6706fbc3dd85ad377e33a095/identity-ArtemisDiana-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -15002,6 +15193,15 @@
     "source": "darkreading",
     "summary": "Predator Spyware Sample Indicates 'Vendor-Controlled' C2 Researchers detailed how Intellexa, Predator's owner, uses failed deployments and thwarted infections to strengthen its commercial spyware and generate more effective attacks.",
     "title": "Predator Spyware Sample Indicates 'Vendor-Controlled' C2"
+  },
+  "https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteec55ffad5271851/6994da303302230008e898ba/android_tomeqs_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-17T22:06:36+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Supply Chain Attack Embeds Malware in Android Devices Keenadu downloads payloads that hijack browser searches, commit ad fraud, and execute other actions without user knowledge.",
+    "title": "Supply Chain Attack Embeds Malware in Android Devices"
   },
   "https://www.darkreading.com/remote-workforce/advisor360-gets-handle-on-shadow-ai-via-automation": {
     "categories": [],
@@ -15398,6 +15598,15 @@
     "source": "darkreading",
     "summary": "Packer-as-a-Service Shanya Hides Ransomware, Kills EDR Shanya is the latest in an emerging field of packing malware, selling obfuscation functionality in order to help ransomware actors reach their target.",
     "title": "Packer-as-a-Service Shanya Hides Ransomware, Kills EDR"
+  },
+  "https://www.darkreading.com/threat-intelligence/poland-energy-attack-wind-solar-infrastructure": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd7343bc1daa241ed/6994ced3f972a80008bb167b/wind_turbines_Paul_Glendell_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-17T21:31:50+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Poland Energy Survives Attack on Wind, Solar Infrastructure Russia-aligned groups are probable culprits behind the wiper attacks against renewable energy farms, a manufacturer, and a heating and power plant.",
+    "title": "Poland Energy Survives Attack on Wind, Solar Infrastructure"
   },
   "https://www.darkreading.com/threat-intelligence/react2shell-exploits-flood-internet-attacks-continue": {
     "categories": [],
