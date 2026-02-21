@@ -3893,6 +3893,15 @@
     "summary": "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA BeyondTrust has released updates to address a critical security flaw impacting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could result in remote c\u2026",
     "title": "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA"
   },
+  "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjMKRB_5ww1tcCh0no0OxbE4Bhcg4nVEe4y-cHBLi03rhgJFM_8y6EatBQ_L00yCHRNRJmaiVq3fMGo2NUAjPLCbcXdWG2wqAG4qZtT0MAedKcFEiXHr_g2gRd0GuTc_wD8X5_Ss0Azn1YhZnEXO88hApw52GJI3_6hnJmf8aNueuEYFCLtdhaHBSg8i0a/s1600/bt-main.jpg",
+    "published": "2026-02-20T15:45:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of maliciou\u2026",
+    "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration"
+  },
   "https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiehyphenhyphenizf_EezYiQzf7tUgHJUYqd7k7zumWKSqP1n8K5YoJMRzmHjxJHdnN0GydURXFuwrRJd2qyTQSuH8TWPo_Wfh7SX0_1ljHcMjQGMQrDCtW23OLow6w7rPv4Uemxrd7vnQtGsWBzdUrhnrEtl914RxUcNeqKxVl81xXI9pVOFNaTh6UCLgkKw7QQYqeI/s1600/rat-attack.jpg",
@@ -3973,6 +3982,24 @@
     "source": "The Hacker News",
     "summary": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-s\u2026",
     "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries"
+  },
+  "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIWybmqdjOp2WuZ84iFMFu3-0eOVa8l0etXodmxf1nt6J5HOLansMggutpXiJZTE4n_ENW6Ea_hb-6XuzCoyrvS830lwOZC_T6GAeGTzHVNfa5kqoZ5QYrN-vscS1XlXY5bIvrmUhXnPbOB73YUoWoysyr4o1W8pbhYi-TEWTGuvbh3zL7baiD3RuAyE30/s1600/clickfix.jpg",
+    "published": "2026-02-20T11:55:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware Cybersecurity researchers have disclosed details of a new ClickFix campaign that abuses compromised legitimate sites to deliver a previously undocumented remote access trojan (RAT) called MIMICRAT (aka Astarion\u2026",
+    "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware"
+  },
+  "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvPoczCRsYg15Y2soZNAfhG8r-8FhwlnlnpNANn6DmZ9WPYJo203gJTPDaWyrBoK8eRtHTBE2Xl5hBEIka4d0PcU2zQX5T6bl1tM1bt8Kq2sDFEplKhMlrSMWbJUhGw3nvlUbN9_3zMqrv9o8SlUdCGIea3rV2u4Z_KdV1PrGBDIcT1GYnfzsozeUy54ee/s1600/cline.jpg",
+    "published": "2026-02-20T14:20:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI agent \u2026",
+    "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems"
   },
   "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html": {
     "categories": [],
@@ -4109,6 +4136,15 @@
     "summary": "Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users Cybersecurity researchers have disclosed details of a new Android trojan called Massiv that's designed to facilitate device takeover (DTO) attacks for financial theft.\nThe malware, according to ThreatFabr\u2026",
     "title": "Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users"
   },
+  "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiXPVDmMVgDgvY95KLoB6_26_t5Kwrx7BSZ4ZReWQo8tfOw2DKA5juhnpWoX0DZNeATur1aceTliNyPR6QoBPIY_ur5fFBmVaJIv022Z_2v6s6AQQczflmpczLHtjFtSIAM63etJp9ClLbZkGD2ZIqWbSDu5XBQofkvD3bc1UpJTsbKo0NcvwCciTUkDGK/s1600/atm-hacking.jpg",
+    "published": "2026-02-20T08:05:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025 The U.S. Federal Bureau of Investigation (FBI) has warned of an increase in ATM jackpotting incidents across the country, leading to losses of more than $20 million in 2025.\nThe agency said 1,900 ATM jackpo\u2026",
+    "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025"
+  },
   "https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGH5OFCdEH8WLDQvMuU6qAbaI73kVMtx4uASqujZ12UAb3Q-yJX3ZsFCpc1uJuUE4ah_z24WgRv_1JhOem_ISHdoYtPzZPy6o5HwRuoBGjThyru3WAtrcOqyA9hDvSNgSKIgaYUTdIOUJHL7HCRUEZgt9Z8fP6F8oINDt4LkeziTnTW6cx_Qw_DJ2FLMmo/s1600/outlook.jpg",
@@ -4225,6 +4261,15 @@
     "source": "The Hacker News",
     "summary": "How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring Why do SOC teams keep burning out and missing SLAs even after spending big on security tools? Routine triage piles up, senior specialists get dragged into basic validation, and MTTR climbs, while stealthy threats \u2026",
     "title": "How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring"
+  },
+  "https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij2H1-xKGMb4Q70WJNrlk_Mgup1cfHNGRRmnZxhOaJLcfWBq_audXpVc5TAUsyT9MRS5hST-fI7ZaH59FVMzAzYubjo7YdUoRcmtEs8v3ck9J8jhJdnEq9mtU4FqTYA-ikCBGQ4edCU47t9pN-ljEQO00-e1ZNMrxQYuyev9uLfv9VQU_KOhJQUFSa6YWF/s1600/OUT.jpg",
+    "published": "2026-02-20T10:30:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026 With one in three cyber-attacks now involving compromised employee accounts, insurers and regulators are placing far greater emphasis on identity posture when assessing cyber risk.&nbsp;\nFor many organizations,\u2026",
+    "title": "Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026"
   },
   "https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html": {
     "categories": [],
@@ -4648,6 +4693,15 @@
     "source": "The Hacker News",
     "summary": "UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors A previously unknown threat actor tracked as UAT-9921 has been observed leveraging a new modular framework called VoidLink in its campaigns targeting the technology and financial services sectors, accord\u2026",
     "title": "UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors"
+  },
+  "https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7SAlrXjwZQ5XcgI0VvKJ13Np81mBpx_kV5bcRCdUERu1dffmFSpnVoQxYFSC5pURrbqYF4roBPOUvaiG8oa5NimxrYTLdbUYboTyDfRCdgCPf0qGUwaCgUx7lb31vHJb1pB8Y83YGG0WaNwlLsBCPdp0t22HxMdyo2v_rRES5X5nL752HSPyMS3cAKBZ9/s1600/IT-Worker-Fraud.jpg",
+    "published": "2026-02-20T09:52:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case A 29-year-old Ukrainian national has been sentenced to five years in prison in the U.S. for his role in facilitating North Korea's fraudulent information technology (IT) worker scheme.\nIn November 2025, O\u2026",
+    "title": "Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case"
   },
   "https://thehackernews.com/2026/02/warlock-ransomware-breaches.html": {
     "categories": [],
@@ -7272,6 +7326,17 @@
     "summary": "CIRO confirms data breach exposed info on 750,000 Canadian investors The Canadian Investment Regulatory Organization (CIRO) confirmed that the data breach it suffered last year impacts about 750,000 Canadian investors. [...]",
     "title": "CIRO confirms data breach exposed info on 750,000 Canadian investors"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-20T17:02:25+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA: BeyondTrust RCE flaw now exploited in ransomware attacks Hackers are actively exploiting the CVE-2026-1731 vulnerability in the BeyondTrust Remote Support product, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) warns. [...]",
+    "title": "CISA: BeyondTrust RCE flaw now exploited in ransomware attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/": {
     "categories": [
       "Security"
@@ -8167,6 +8232,17 @@
     "summary": "Data breach at fintech firm Figure affects nearly 1 million accounts Hackers have stolen the personal and contact information of nearly 1 million accounts after breaching the systems of Figure Technology Solutions, a self-described blockchain-native financial technology company. \u2026",
     "title": "Data breach at fintech firm Figure affects nearly 1 million accounts"
   },
+  "https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-20T16:20:40+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Data breach at French bank registry impacts 1.2 million accounts The French Ministry of Finance has published an announcement informing of a cybersecurity incident that has impacted 1.2 million accounts. [...]",
+    "title": "Data breach at French bank registry impacts 1.2 million accounts"
+  },
   "https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/": {
     "categories": [
       "Security",
@@ -8610,6 +8686,17 @@
     "source": "BleepingComputer",
     "summary": "FBI: Cybercriminals stole $262M by impersonating bank support teams The FBI warns of a surge in account takeover (ATO) fraud schemes and says that cybercriminals impersonating various financial institutions have stolen over $262 million in ATO attacks since the start of the year.\u2026",
     "title": "FBI: Cybercriminals stole $262M by impersonating bank support teams"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-20T10:08:49+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "FBI: Over $20 million stolen in surge of ATM malware attacks in 2025 The FBI warned that Americans lost more than $20 million last year amid a massive surge in ATM \"jackpotting\" attacks, in which criminals use malware to force cash machines to dispense money. [...]",
+    "title": "FBI: Over $20 million stolen in surge of ATM malware attacks in 2025"
   },
   "https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/": {
     "categories": [
@@ -9982,6 +10069,17 @@
     "source": "BleepingComputer",
     "summary": "Japanese beer giant Asahi says data breach hit 1.5 million people Asahi Group Holdings, Japan's largest beer producer, has finished the investigation into the\u00a0September cyberattack and found that the incident has impacted up to\u00a01.9\u00a0million individuals. [...]",
     "title": "Japanese beer giant Asahi says data breach hit 1.5 million people"
+  },
+  "https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-20T18:30:44+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Japanese tech giant Advantest hit by ransomware attack Advantest Corporation disclosed that its corporate network has been targeted in a ransomware attack that may have affected customer or employee data. [...]",
+    "title": "Japanese tech giant Advantest hit by ransomware attack"
   },
   "https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/": {
     "categories": [
@@ -11474,6 +11572,17 @@
     "summary": "Payments platform BridgePay confirms ransomware attack behind outage A major U.S. payment gateway and solutions provider says a ransomware attack has knocked key systems offline, triggering a widespread outage affecting multiple services. The incident began on Friday and quickly \u2026",
     "title": "Payments platform BridgePay confirms ransomware attack behind outage"
   },
+  "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-20T13:12:01+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "PayPal discloses data breach that exposed user info for 6 months PayPal is notifying customers of a data breach after a software error in a loan application exposed their sensitive personal information, including Social Security numbers, for nearly 6 months last year. [...]",
+    "title": "PayPal discloses data breach that exposed user info for 6 months"
+  },
   "https://www.bleepingcomputer.com/news/security/pennsylvania-ag-confirms-data-breach-after-inc-ransom-attack/": {
     "categories": [
       "Security"
@@ -12679,6 +12788,17 @@
     "summary": "Ukraine's army targeted in new charity-themed malware campaign Officials of Ukraine's Defense Forces were targeted in a charity-themed campaign between October and December 2025 that delivered backdoor malware called\u00a0PluggyApe. [...]",
     "title": "Ukraine's army targeted in new charity-themed malware campaign"
   },
+  "https://www.bleepingcomputer.com/news/security/ukrainian-gets-5-years-for-helping-north-koreans-infiltrate-us-firms/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-20T09:00:15+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Ukrainian gets 5 years for helping North Koreans infiltrate US firms A Ukrainian national was sentenced to five years in prison for providing North Korean IT workers with stolen identities that helped them infiltrate U.S. companies. [...]",
+    "title": "Ukrainian gets 5 years for helping North Koreans infiltrate US firms"
+  },
   "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-admits-affiliate-role-in-nefilim-ransomware-gang/": {
     "categories": [
       "Security"
@@ -12712,6 +12832,17 @@
     "source": "BleepingComputer",
     "summary": "University of Hawaii Cancer Center hit by ransomware attack \u200bUniversity of Hawaii says a ransomware gang breached its Cancer Center in August 2025, stealing data of study participants, including documents from the 1990s containing Social Security numbers. [...]",
     "title": "University of Hawaii Cancer Center hit by ransomware attack"
+  },
+  "https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-20T11:50:14+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Mississippi medical center closes all clinics after ransomware attack The University of Mississippi Medical Center (UMMC) closed all its clinic locations statewide on Thursday following a ransomware attack. [...]",
+    "title": "Mississippi medical center closes all clinics after ransomware attack"
   },
   "https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-confirms-data-stolen-in-cyberattack/": {
     "categories": [
@@ -13150,6 +13281,17 @@
     "summary": "Why password controls still matter in cybersecurity Passwords still matter \u2014 and weak policies leave the door wide open. Specops Software explains how longer passphrases, smarter banned-password lists, and adaptive rotation strategies can strengthen security without frustrating u\u2026",
     "title": "Why password controls still matter in cybersecurity"
   },
+  "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-20T14:45:54+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Why the shift left dream has become a nightmare for security and developers The \"shift left\" approach has increased pressure on developers, as speed demands override security checks in modern CI pipelines. Qualys explains how analyzing 34,000 public container images revealed 7.3%\u2026",
+    "title": "Why the shift left dream has become a nightmare for security and developers"
+  },
   "https://www.bleepingcomputer.com/news/security/windows-11-now-supports-3rd-party-apps-for-native-passkey-management/": {
     "categories": [
       "Security"
@@ -13367,6 +13509,15 @@
     "summary": "150,000 Packages Flood NPM Registry in Token Farming Campaign A self-replicating attack led to a tidal wave of malicious packages in the NPM registry, targeting tokens for the tea.xyz protocol.",
     "title": "150,000 Packages Flood NPM Registry in Token Farming Campaign"
   },
+  "https://www.darkreading.com/application-security/ai-agents-ignore-security-policies": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt655ff616652abbb6/699897d60837c40008e79974/AI-agent-delete-data-vittaya_pinpan-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-20T18:31:58+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "'God-Like' Attack Machines: AI Agents Ignore Security Policies Microsoft Copilot recently summarized and leaked user emails; but any AI agent will go above and beyond to complete assigned tasks, even breaking through their carefully designed guardrails.",
+    "title": "'God-Like' Attack Machines: AI Agents Ignore Security Policies"
+  },
   "https://www.darkreading.com/application-security/ai-agents-undermine-progress-browser-security": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt05f9484bdbd89092/696f9c401e442fefa13cbee5/no-entry-sign-CoreRock-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -13418,6 +13569,15 @@
     "source": "darkreading",
     "summary": "Arizona AG Sues Temu Over 'Stealing' User Data The suit alleges the Chinese retailer's app secretly accesses and harvests users' sensitive information without their knowledge or consent.",
     "title": "Arizona AG Sues Temu Over 'Stealing' User Data"
+  },
+  "https://www.darkreading.com/application-security/attackers-new-tool-scan-react2shell-exposure": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt82c7759f9032a337/6998ba99a367730008c7a3e5/React-Araki_Illustrations-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-20T21:07:07+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Attackers Use New Tool to Scan for React2Shell Exposure Researchers say threat actors wielded the sophisticated \u2014 and unfortunately named \u2014 toolkit to target high-value networks for React2Shell exploitation.",
+    "title": "Attackers Use New Tool to Scan for React2Shell Exposure"
   },
   "https://www.darkreading.com/application-security/attackers-use-screensavers-drop-malware-rmm-tools": {
     "categories": [],
@@ -13558,6 +13718,15 @@
     "source": "darkreading",
     "summary": "Infamous Shai-hulud Worm Resurfaces From the Depths This campaign introduces a new variant that executes malicious code during preinstall, significantly increasing potential exposure in build and runtime environments, researchers said.",
     "title": "Infamous Shai-hulud Worm Resurfaces From the Depths"
+  },
+  "https://www.darkreading.com/application-security/lessons-ai-hacking-model-every-layer-risky": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1aaa12dc01a8cc8a/69977e2049e8a40008936853/AI-security-error-unlocked-Summit_Art_Creations-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-20T18:02:02+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Lessons From AI Hacking: Every Model, Every Layer Is Risky After two years of finding flaws in AI infrastructure, two Wiz researchers advise security pros to worry less about prompt injection and more about vulnerabilities.",
+    "title": "Lessons From AI Hacking: Every Model, Every Layer Is Risky"
   },
   "https://www.darkreading.com/application-security/line-messaging-bugs-asian-cyber-espionage": {
     "categories": [],
@@ -14050,6 +14219,15 @@
     "source": "darkreading",
     "summary": "Dark Patterns Undermine Security, One Click at a Time People trust organizations to do the right thing, but some websites and apps have user interfaces that ultimately lead to inadequate security for users.",
     "title": "Dark Patterns Undermine Security, One Click at a Time"
+  },
+  "https://www.darkreading.com/cyber-risk/emerging-chiplet-designs-spark-fresh-cybersecurity-challenges": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcff4659d9279972e/6998587d80f60800089483dc/Chip_silkwayrain_iStock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-19T23:17:19+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Emerging Chiplet Designs Spark Fresh Cybersecurity Challenges As scaled-down circuits with limited functions redefine computing for AI systems and autonomous vehicles, their flexibility demands new approaches to safeguard critical infrastructure.",
+    "title": "Emerging Chiplet Designs Spark Fresh Cybersecurity Challenges"
   },
   "https://www.darkreading.com/cyber-risk/gcve-raises-concerns-fragmentation-vulnerability-database": {
     "categories": [],
@@ -15916,6 +16094,15 @@
     "source": "darkreading",
     "summary": "'JackFix' Attack Circumvents ClickFix Mitigations A new ClickFix variant ratchets up the psychological pressure to 100 and addresses some technical mitigations to classic ClickFix attacks.",
     "title": "'JackFix' Attack Circumvents ClickFix Mitigations"
+  },
+  "https://www.darkreading.com/threat-intelligence/latin-americas-cyber-maturity-lags-threat-landscape": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf956d8a2ab06e898/69976ab8c8bdfd0008c426ab/Brazil_flag_binary_Ivan_Tsyrkunovich_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-20T14:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Latin America's Cyber Maturity Lags Threat Landscape The slower pace of upgrades has the unintended impact of creating a haven for attackers, especially for initial access brokers and ransomware gangs.",
+    "title": "Latin America's Cyber Maturity Lags Threat Landscape"
   },
   "https://www.darkreading.com/threat-intelligence/longnosedgoblin-caught-snooping-on-asian-governments": {
     "categories": [],
