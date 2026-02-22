@@ -3830,6 +3830,15 @@
     "summary": "83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure A significant chunk of the exploitation attempts targeting a newly disclosed security flaw in Ivanti Endpoint Manager Mobile (EPMM) can be traced back to a single IP address on bulletproof hosti\u2026",
     "title": "83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure"
   },
+  "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJJ0OGjlNTnrjpx23D3iKXHFeEEDiGO2GRCI-o4SmtGRuXcl5S4rAcjOqOBrfuI1g8E_pj6UQjQP-R2qfAsV08Oukshw6Inq8fUK83I9sLd3LwnPyWazzaQ3yUghSA3UL0j-BNz0tn2dCEQsG3MpACZKSXoKnM6nhyphenhyphenf727_4S_f3L8EU3fxDc332_6Swkm/s1600/FortiGate.jpg",
+    "published": "2026-02-21T14:49:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries A Russian-speaking, financially motivated threat actor has been observed taking advantage of commercial generative artificial intelligence (AI) services to compromise over 600 FortiGate devices located in\u2026",
+    "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries"
+  },
   "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQbTqDN-_b5elqPIFownbT3lOVYJRL4StGkEByqXJ9cFpW_3FZ112yglt38w0cRmOEt9yjBq7iViP5_KQHiGrtZW2FoquBUb8TYk-EcyohYRSteaPMF2jBiIlShX-YF5D1WFi4gAHeCLh2IBF-FCPetINbYSC5-MMxr5co9Pghjz4V-fL0PaYNxtcX3J7d/s1600/ddos.jpg",
@@ -3838,6 +3847,15 @@
     "source": "The Hacker News",
     "summary": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack The distributed denial-of-service (DDoS) botnet known as AISURU/Kimwolf has been attributed to a record-setting attack that peaked at 31.4 Terabits per second (Tbps) and lasted only 35 seconds.\nCloudflare, which \u2026",
     "title": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack"
+  },
+  "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnUd8T_I-xQKNmoLh2WLznpTvsH2JGWkhRJOOcjgUxat1PSS3OKl-z5P-OYhbJssm5DqAP8B3Dye8Z298RAqvSKibFo-ISDmF0qPlOpUdUVKJRO9Gy5MxDZP4A2uUxmoqBpfK95Z4u-hvqmNqsRE42ivsIc2H-NQYubExbmPug9WbHkVpuqry9hO9nNG4y/s1600/ai-code-scan.jpg",
+    "published": "2026-02-21T07:58:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning Artificial intelligence (AI) company Anthropic has begun to roll out a new security feature for Claude Code that can scan a user's software codebase for vulnerabilities and suggest patches.\nThe capabili\u2026",
+    "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning"
   },
   "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html": {
     "categories": [],
@@ -3946,6 +3964,15 @@
     "source": "The Hacker News",
     "summary": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) to its Known Exploited Vulnerabilities (KEV) catalog, flagg\u2026",
     "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog"
+  },
+  "https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtZg49iJDSf0QXV_lj9uqgkcevxHhncfWJrejyCIdGb2hlzcVefAWXETqflE7uEUTuAGKkqfSpa9_w1FoNTZ-67YU4H-iUio2DfhF7o2qIMIbx8BewvMG8rHsq8eh7gBwjVckasb5Qj8jsGY_3wRjBaYTh-nL10wAWFI5PbCu62cfJFk9Y8ucUBDyQNkEh/s1600/roundcube.jpg",
+    "published": "2026-02-21T07:21:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Roundcube webmail software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active\u2026",
+    "title": "CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog"
   },
   "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html": {
     "categories": [],
@@ -4099,6 +4126,15 @@
     "source": "The Hacker News",
     "summary": "Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data The Netherlands' Dutch Data Protection Authority (AP) and the Council for the Judiciary confirmed both agencies (Rvdr) have disclosed that their systems were impacted by cyber attacks that exploited t\u2026",
     "title": "Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data"
+  },
+  "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTNtB3q8UY8WtPavGisP57bq3aRlFLsQJSfTpwuLP0E1eqcPNAtjaI2_YeTjOxEi4GGQbFUOu-sYuTLRB_WnoQNAKfiwUIJqmU5G8GrhPjsmKCx_03Ecyid-28wg-nWj4RjV8YWVXM4unbx9uhtxBz-b7crRhe03y4fH8up6O3q2k5Gdjx-r4-9Yk4QCM/s1600/ec.jpg",
+    "published": "2026-02-21T04:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security With $5.5 trillion in global AI risk exposure and 700,000 U.S. workers needing reskilling, four new AI certifications and Certified CISO v4 help close the gap between AI adoption \u2026",
+    "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security"
   },
   "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html": {
     "categories": [],
@@ -6906,6 +6942,17 @@
     "source": "BleepingComputer",
     "summary": "Alleged Meduza Stealer malware admins arrested after hacking Russian org The Russian authorities have arrested three individuals in Moscow who are\u00a0believed to be the creators and operators of the Meduza Stealer information-stealing\u00a0malware. [...]",
     "title": "Alleged Meduza Stealer malware admins arrested after hacking Russian org"
+  },
+  "https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-21T13:50:58+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks Amazon is warning that a Russian-speaking hacker used multiple generative AI services as part of a campaign that breached more than 600 FortiGate firewalls across 55 countries in five weeks. [...]",
+    "title": "Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks"
   },
   "https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-gru-hackers-attacking-edge-network-devices/": {
     "categories": [
@@ -11743,6 +11790,19 @@
     "source": "BleepingComputer",
     "summary": "Portugal updates cybercrime law to exempt security researchers Portugal has modified\u00a0its cybercrime law to establish a legal safe harbor for good-faith security research and to make hacking non-punishable under certain strict conditions. [...]",
     "title": "Portugal updates cybercrime law to exempt security researchers"
+  },
+  "https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/": {
+    "categories": [
+      "Security",
+      "Apple",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-02-21T16:13:24+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Predator spyware hooks iOS SpringBoard to hide mic, camera activity Intellexa's Predator spyware can hide iOS recording indicators while secretly streaming camera and microphone feeds to its operators. [...]",
+    "title": "Predator spyware hooks iOS SpringBoard to hide mic, camera activity"
   },
   "https://www.bleepingcomputer.com/news/security/predator-spyware-uses-new-infection-vector-for-zero-click-attacks/": {
     "categories": [
