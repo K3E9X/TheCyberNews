@@ -4433,6 +4433,15 @@
     "summary": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artificial intelligence (GenAI) features.\n\"It provides a singl\u2026",
     "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox"
   },
+  "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk6M5M47ZmJ-KuhYC2JC8UwHjdNPLoS3oSeT38cnI8sCmd9NbNFmjNh8qCUXxC7XexLVdUBTBsEIELNLfj2nM-LTRKJajmvwbdehC_bNch-kE98Py-CaDoSAZHCxQztFszsWePupECSqKuasUv8lu9IXYhg8qAS2V7ojLqicNp_HRnyhnc74n_vWYHeEQ-/s1600/muddy.jpg",
+    "published": "2026-02-23T07:25:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP The Iranian hacking group known as MuddyWater (aka Earth Vetala, Mango Sandstorm, and MUDDYCOAST) has targeted several organizations and individuals mainly located across the Middle East and North Africa (M\u2026",
+    "title": "MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP"
+  },
   "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNtu8YGAogyismJs9M9YdnRhGbjScyVHZkNmeiwAafRQFLjFy4FzEajb_1HcQsiPSO6jEbkgBNdsxL3lrRaK05f8qY32TIUmkz67ue-LShVtui5dKxwGG78GPwvvM7hdftNkCd0KsVfNPapBB9DD7qvZgwSRYtC84kIzPOFUBreckXSDXHkXhGsA1ju-A/s1600/corelight.jpg",
@@ -7055,6 +7064,18 @@
     "source": "BleepingComputer",
     "summary": "Are Copilot prompt injection flaws vulnerabilities or AI limits? Microsoft has pushed back against claims that multiple prompt injection and sandbox-related issues raised by a security engineer in its Copilot AI assistant constitute security vulnerabilities. The development highl\u2026",
     "title": "Are Copilot prompt injection flaws vulnerabilities or AI limits?"
+  },
+  "https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-02-22T15:33:26+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Arkanix Stealer pops up as short-lived AI info-stealer experiment An information-stealing malware operation named\u00a0Arkanix Stealer, promoted on multiple dark web forums towards the end\u00a0of 2025, was likely developed as an AI-assisted experiment. [...]",
+    "title": "Arkanix Stealer pops up as short-lived AI info-stealer experiment"
   },
   "https://www.bleepingcomputer.com/news/security/askul-confirms-theft-of-740k-customer-records-in-ransomhouse-attack/": {
     "categories": [
