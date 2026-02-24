@@ -3857,6 +3857,15 @@
     "summary": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning Artificial intelligence (AI) company Anthropic has begun to roll out a new security feature for Claude Code that can scan a user's software codebase for vulnerabilities and suggest patches.\nThe capabili\u2026",
     "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning"
   },
+  "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtOj1fS7tAn4wMRrrGDi48Wc6VXmI3R9vUy-2LGuDSk18ewlkxWrs9-vG7NLgIjMybAk8USxFfrfegmjLA7lGZ7vK57qY79qaxgriIm8kGMP-kuzLyu_JMU85xJXQ_hA151ZzI1mZkcfVCiDRw7oYbIwLGYg5tCe90C0etlJ5KrgnDkNT028R_AL1qtec1/s1600/claude-ai.jpg",
+    "published": "2026-02-24T06:04:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model Anthropic on Monday said it identified \"industrial-scale campaigns\" mounted by three artificial intelligence (AI) companies, DeepSeek, Moonshot AI, and MiniMax, to illegally extract Claude's capabilities\u2026",
+    "title": "Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model"
+  },
   "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjyk4RBhw7ZLa79jfuotCrBx0CSEp-EFKyO90NFkT728W0TaMEf4Rc50U3FFEx_EiZ3D1-RoiEWHWYb-EDeECBP6R2Es2rhNSyM0HqT03lX94UlFdLizO6qfkD1f-FyVmco9XwzO0fE6draieYuLHM0Vcsapjj9jl2phHIAMOF_2kvnNAeHJWoupqjgPhu/s1600/apple.jpg",
@@ -3874,6 +3883,15 @@
     "source": "The Hacker News",
     "summary": "Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta Apple on Monday released a new developer beta of iOS and iPadOS with support for end-to-end encryption (E2EE) in Rich Communications Services (RCS) messages.\nThe feature is currently available for testing i\u2026",
     "title": "Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta"
+  },
+  "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSwbKDzax_Hh_RHSU7qEInhqGvzoEncnUbB3WgxiRorJPzrvWGo2GCCC0_94YDAdaIs3gBMgO8N4iM4FoMzMiaM1icI-NX2qTf5Dflmv25XR66ni1JEcMl0HxwApTpA5W48R9KLgF5oo7uB8FAjoUrI3h7FxPgoER_FCPPgJ2gHZQyk3BR4kZkt-tU6CFG/s1600/malware-attack-eu.jpg",
+    "published": "2026-02-23T19:41:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "APT28 Targeted European Entities Using Webhook-Based Macro Malware The Russia-linked state-sponsored threat actor tracked as APT28 has been attributed to a new campaign targeting specific entities in Western and Central Europe.\nThe activity, per S2 Grupo's LAB52 threat intelligen\u2026",
+    "title": "APT28 Targeted European Entities Using Webhook-Based Macro Malware"
   },
   "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html": {
     "categories": [],
@@ -4280,6 +4298,15 @@
     "summary": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign Cybersecurity researchers have disclosed details of an active web traffic hijacking campaign that has targeted NGINX installations and management panels like Baota (BT) in an attempt to route it thro\u2026",
     "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign"
   },
+  "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7sXBbFbgAhWn7fFcyznMrutXhMfRWKQzw6aFcQwiJ-ViGLqg_Vse2wGKgGrAkyXTh2y9XtufC9otYEoUyIPsV6FB1ktgNSVQ15UFYNKN8HVzncL6tYLNYtzqX6rqhgVIfThhll1TxO1627pxBguwt4J1QRKGMOHx7_jBRlhhebK-yq1LMnCAIetPNw1E/s1600/keeper.jpg",
+    "published": "2026-02-23T11:58:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "How Exposed Endpoints Increase Risk Across LLM Infrastructure As more organizations run their own Large Language Models (LLMs), they are also deploying more internal services and Application Programming Interfaces (APIs) to support those models. Modern security risks are being in\u2026",
+    "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure"
+  },
   "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYbHuhB2klNlaHkYykLYRjMjQVPrFD5GjaSmTiLJPzDkOGBVufabhBs2akKWk8RV3LBOvEqj2ANFmVcfqfixnoHAlShEtg6FZvSviNFYX1xmLxdRZwK3M87ElFVhJbArR7ZELSje8MoaPW2FnbHHIWFTpjSOxlPaP5KWEXzIJ8YkkMlzdUE01DTeDPKUw/s1600/samsung.jpg",
@@ -4360,6 +4387,15 @@
     "source": "The Hacker News",
     "summary": "Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History Cybersecurity researchers have discovered a malicious Google Chrome extension that's designed to steal data associated with Meta Business Suite and Facebook Business Manager.\nThe extension, na\u2026",
     "title": "Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History"
+  },
+  "https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuEqzksJuTTXCDhdqgtAIFwGij7CiTa9hyGtjvNUn3wVoFYnH9_f0F-ILQlJhaACL9g1sNbdxCptyn_HwKxFha-yhWgnEph96LK390IGibwSZ3x2iwNeB_JEbhgLCL1lonRUtIU8ubyI7TprS8mbmNrpB7f6_fAhtaJQG3frpu4N6MTzwcrmEF5TpnwuqO/s1600/npm-stealer.jpg",
+    "published": "2026-02-23T10:20:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens Cybersecurity researchers have disclosed what they say is an active \"Shai-Hulud-like\" supply chain worm campaign that has leveraged a cluster of at least 19 malicious npm packages to enable credential harvesti\u2026",
+    "title": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens"
   },
   "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html": {
     "categories": [],
@@ -4775,6 +4811,15 @@
     "summary": "\u26a1 Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More Cyber threats are no longer coming from just malware or exploits. They\u2019re showing up inside the tools, platforms, and ecosystems organizations use every day. As companies connect AI, cloud apps,\u2026",
     "title": "\u26a1 Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More"
   },
+  "https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD4zrmWnbbBtQZsZm7orVyVisAR_ymd6dfSG7kPtgEo-CxVEphY0ZZXuQL4IiXd3ISaSR-qhY2uALIOlVgLCCZNyBiLd-WSfzR3x7NWo0xQWpwi6kTIZaZDHzwPzulQmWzndoAd-HDhPLtEYg-OrNyl-5FjPpDKSm1hPXVBnu-p6e8wtvpOFiWRUd1-pF9/s1600/cyber-recap.jpg",
+    "published": "2026-02-23T13:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More Security news rarely moves in a straight line. This week, it feels more like a series of sharp turns, some happening quietly in the background, others playing out in public view. The details are\u2026",
+    "title": "\u26a1 Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More"
+  },
   "https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkMGhmz-GyqlBgWLqr4q8O_WMowIYyItP0DG0jxeAvGw8ob_fAPWwSoQoKHbsFYCruaXH8xJss4OechIdlkf7MKf0ohaTnqUacvNTJqG727FIWeBYnN6vTiIJuzYwbyzA-OhIBl0nCZPXfgQbbfWgoydzQvT1DSB9FAe1vMOKy5N2p82kP7tmcKbEcxik2/s1600/recap-fb-main.jpg",
@@ -4801,6 +4846,15 @@
     "source": "The Hacker News",
     "summary": "When Cloud Outages Ripple Across the Internet Recent major cloud service outages have been hard to miss. High-profile incidents affecting providers such as AWS, Azure, and Cloudflare have disrupted large parts of the internet, taking down websites and services that many other sys\u2026",
     "title": "When Cloud Outages Ripple Across the Internet"
+  },
+  "https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSN4m24uNLL9rLCwHv89KIT-P1ExHG8D2EAk0TBI7XClmXn4JxBe0NWurC0iazjhxVKll6ZmSfMPbfD3ohlUDAXCscVdXkLmFicuwIoz9ya4Lvx6FCcgAdu75R72rx_W1-1I5UGbtgJMkSCR1MaZAGUxzHM5uSDAhNj5FBHGpCq__7yUclLAQg7IGhUhdW/s1600/miners.jpg",
+    "published": "2026-02-23T17:59:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb Cybersecurity researchers have disclosed details of a new cryptojacking campaign that uses pirated software bundles as lures to deploy a bespoke XMRig miner program on compromised hosts.\n\"Analysis of the recover\u2026",
+    "title": "Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb"
   },
   "https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html": {
     "categories": [],
@@ -6252,6 +6306,17 @@
     "summary": "Microsoft says bug causes Copilot to summarize confidential emails Microsoft says a Microsoft 365 Copilot bug has been causing the AI assistant to summarize confidential emails since late January, bypassing data loss prevention (DLP) policies that organizations rely on to protect\u2026",
     "title": "Microsoft says bug causes Copilot to summarize confidential emails"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-02-23T19:40:42+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft says bug in classic Outlook hides the mouse pointer Microsoft is investigating a known issue that causes the mouse pointer to disappear in the classic Outlook desktop email client for some users. [...]",
+    "title": "Microsoft says bug in classic Outlook hides the mouse pointer"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-new-outlook-cant-open-some-excel-attachments/": {
     "categories": [
       "Microsoft"
@@ -6865,6 +6930,17 @@
     "summary": "ACF plugin bug gives hackers admin on 50,000 WordPress sites A critical-severity vulnerability in the Advanced Custom Fields: Extended (ACF Extended) plugin for WordPress can be exploited remotely by unauthenticated attackers to obtain administrative permissions. [...]",
     "title": "ACF plugin bug gives hackers admin on 50,000 WordPress sites"
   },
+  "https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-23T18:04:01+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Ad tech firm Optimizely confirms data breach after vishing attack New York-based ad tech company Optimizely has notified an undisclosed number of customers of a data breach after threat actors compromised some of its systems in a voice phishing attack. [...]",
+    "title": "Ad tech firm Optimizely confirms data breach after vishing attack"
+  },
   "https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/": {
     "categories": [
       "Security"
@@ -6998,6 +7074,17 @@
     "source": "BleepingComputer",
     "summary": "AMOS infostealer targets macOS through a popular AI app AMOS infostealer is targeting macOS users by abusing popular AI apps and extension marketplaces to harvest credentials. Flare examines how AMOS operates, spreads through AI-driven lures, and feeds the broader stealer-log cyb\u2026",
     "title": "AMOS infostealer targets macOS through a popular AI app"
+  },
+  "https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-23T22:59:04+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Android mental health apps with 14.7M installs filled with security flaws Several mental health mobile apps with millions of downloads on Google Play contain security vulnerabilities that could expose users' sensitive medical information. [...]",
+    "title": "Android mental health apps with 14.7M installs filled with security flaws"
   },
   "https://www.bleepingcomputer.com/news/security/anthropic-claims-of-claude-ai-automated-cyberattacks-met-with-doubt/": {
     "categories": [
@@ -7533,6 +7620,17 @@
     "source": "BleepingComputer",
     "summary": "CISA orders feds to patch Samsung zero-day used in spyware attacks CISA ordered U.S. federal agencies today to patch a critical Samsung vulnerability that has been exploited in zero-day attacks to deploy LandFall spyware on devices running WhatsApp. [...]",
     "title": "CISA orders feds to patch Samsung zero-day used in spyware attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-23T11:44:21+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA: Recently patched RoundCube flaws now exploited in attacks CISA flagged two Roundcube Webmail vulnerabilities as actively exploited in attacks and ordered U.S. federal agencies to patch them within three weeks. [...]",
+    "title": "CISA: Recently patched RoundCube flaws now exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/": {
     "categories": [
@@ -12441,6 +12539,17 @@
     "summary": "Spain arrests 34 suspects linked to Black Axe cyber crime Authorities in Spain have arrested 34 individuals allegedly part of a criminal network involved in cyber fraud and believed to be connected to the Black Axe group responsible for illicit activities across Europe. [...]",
     "title": "Spain arrests 34 suspects linked to Black Axe cyber crime"
   },
+  "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-23T21:59:42+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Spain arrests suspected hacktivists for DDoSing govt sites Spanish authorities have arrested four alleged members of a hacktivist group believed to have carried out cyberattacks targeting government ministries, political parties, and various public institutions. [...]",
+    "title": "Spain arrests suspected hacktivists for DDoSing govt sites"
+  },
   "https://www.bleepingcomputer.com/news/security/spain-arrests-teen-who-stole-64-million-personal-data-records/": {
     "categories": [
       "Security"
@@ -13331,6 +13440,17 @@
     "summary": "When Hackers Wear Suits: Protecting Your Team from Insider Cyber Threats Hackers impersonate IT pros with deepfakes, fake resumes, and stolen identities, turning hiring pipelines into insider threats. Huntres sLabs explains how stronger vetting and access controls help stop these\u2026",
     "title": "When Hackers Wear Suits: Protecting Your Team from Insider Cyber Threats"
   },
+  "https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-23T15:00:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "When identity isn\u2019t the weak link, access still is Stolen tokens and compromised devices let attackers reuse trust without breaking authentication. Specops Software explains why identity alone isn't enough and how continuous device verification strengthens Zero Trust. [...]",
+    "title": "When identity isn\u2019t the weak link, access still is"
+  },
   "https://www.bleepingcomputer.com/news/security/why-a-secure-software-development-life-cycle-is-critical-for-manufacturers/": {
     "categories": [
       "Security"
@@ -14186,6 +14306,15 @@
     "source": "darkreading",
     "summary": "AI Agents Are Going Rogue: Here's How to Rein Them In Human-centered identity frameworks are incorrectly being applied to AI agents, creating the potential for catastrophe at machine speed, Poghosyan argues.",
     "title": "AI Agents Are Going Rogue: Here's How to Rein Them In"
+  },
+  "https://www.darkreading.com/cyber-risk/atm-jackpotting-attacks-surged-2025": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt23ecc9ccf2274ea0/699cca2df14a810008dcd553/atm_Gearstd_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-23T22:20:08+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Spitting Cash: ATM Jackpotting Attacks Surged in 2025 The attacks cost banks more than $20 million in losses last year, as criminals used many of the same tools and tactics they have wielded for more than a decade.",
+    "title": "Spitting Cash: ATM Jackpotting Attacks Surged in 2025"
   },
   "https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt": {
     "categories": [],
@@ -15974,6 +16103,15 @@
     "summary": "2026: The Year Agentic AI Becomes the Attack-Surface Poster Child Dark Reading asked readers whether agentic AI attacks, advanced deepfake threats, board recognition of cyber as a top priority, or password-less technology adoption would be most likely to become a trending reality\u2026",
     "title": "2026: The Year Agentic AI Becomes the Attack-Surface Poster Child"
   },
+  "https://www.darkreading.com/threat-intelligence/600-fortigate-devices-hacked-ai-amateur": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt17816803d6b4b62e/699cafe259613500081d92b3/Evil_AI_ElenaBs_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-23T19:37:59+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "600+ FortiGate Devices Hacked by AI-Armed Amateur A Russian-speaking hacker used generative AI to compromise the FortiGate firewalls, targeting credentials and backups for possible follow-on ransomware attacks.",
+    "title": "600+ FortiGate Devices Hacked by AI-Armed Amateur"
+  },
   "https://www.darkreading.com/threat-intelligence/akira-raas-nutanix-vms-critical-orgs": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt45b4f2f2f8b69096/6917943f43e227caace3ecf6/Akira_film-Pictorial_Press_Ltd-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -16089,6 +16227,15 @@
     "summary": "EnCase Driver Weaponized as EDR Killers Persist The forensic tool's driver was signed with a digital certificate that expired years ago, but major security gaps allowed Windows to load it.",
     "title": "EnCase Driver Weaponized as EDR Killers Persist"
   },
+  "https://www.darkreading.com/threat-intelligence/enigma-cipher-device-secrets-cyber-pros": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt34a092bfd870feb2/6999070b80f60800089485dd/enigma_machine_ton_Koene_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-23T20:11:27+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Enigma Cipher Device Still Holds Secrets for Cyber Pros The Nazi relic's history is riddled with resilience errors, and those lessons still apply to defending against modern cyber threats.",
+    "title": "Enigma Cipher Device Still Holds Secrets for Cyber Pros"
+  },
   "https://www.darkreading.com/threat-intelligence/flaw-hacktivist-ransomware-victims-decrypt-files": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5e2fc9b6ca856010/693ff9b8d94bfe50aca17cb3/Ransomware_Zoonar_GmbH_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -16167,6 +16314,15 @@
     "source": "darkreading",
     "summary": "Iran Exploits Cyber Domain to Aid Kinetic Strikes The country deploys &quot;cyber-enabled kinetic targeting&quot; prior to \u2014 and following \u2014 real-world missile attacks against ships and land-based targets.",
     "title": "Iran Exploits Cyber Domain to Aid Kinetic Strikes"
+  },
+  "https://www.darkreading.com/threat-intelligence/iran-muddywater-new-malware-tensions-mount": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5cbb73b40d6a8e0e/699c98fc4ec6fc0008d04591/Water(1800)_roibu_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-23T20:35:12+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Iran's MuddyWater Targets Orgs With Fresh Malware as Tensions Mount The long-active Iranian threat group debuted various attack strains and payloads in attacks against organizations in the Middle East and Africa.",
+    "title": "Iran's MuddyWater Targets Orgs With Fresh Malware as Tensions Mount"
   },
   "https://www.darkreading.com/threat-intelligence/jackfix-attack-clickfix-mitigations": {
     "categories": [],
