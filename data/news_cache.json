@@ -4019,6 +4019,15 @@
     "summary": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered Federal Civilian Executive Branch (FCEB) agencies to strengthen asset lifecycle management for edge network devices and remo\u2026",
     "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk"
   },
+  "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguuaG3Zn05bu2DRYkpxdcKrvugskd4bWxOdVfAIk2Yeaz_haffll_p9cgQ9DvoIID6Qyihvpq0q9M8NZFBOFprN-7ILllTeAs7Y5WJ5kqUPsBblknz376nPPxRa04vGkCKNVfLSUgTfweasJd9Q533msiw6SdqGP0K61_ZZYMhR9QD_sueS-R9vftPtheu/s1600/cisco.jpg",
+    "published": "2026-02-26T06:13:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as part \u2026",
+    "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access"
+  },
   "https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcKg1ustDlFg4Z8PIFRlPPO6LEfnuCsAZRD59FSKmiMZuhKtTrL6mOL43EJt1_iczcPYcYlwaEqf8xNFE6suEy3qtcXhv3vBAizeuenRGoan22ouXKyetDLoHME-y3wr0vKLr0OFAPkOuEjVjhokDssNgQpXnvauTbjQvDo2p31Cwv7s0qmr7pMG-ajXSY/s1600/sam.jpg",
@@ -4027,6 +4036,15 @@
     "source": "The Hacker News",
     "summary": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist\u2019s Phone in Police Custody New research from the Citizen Lab has found signs that Kenyan authorities used a commercial forensic extraction tool manufactured by Israeli company Cellebrite to break into a prominent dissident'\u2026",
     "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist\u2019s Phone in Police Custody"
+  },
+  "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3ch5lk3LqPFl0TutlBSasJaFa2bNjNdXbIePoE8y76HOmsErmRwXcYUungmePyAK_J_zclibjngwBoTNEB2whRW3-ZAjwKSu1B0VwHyHS_qtKqeivbIdC4HFmSef-lcxWkLXnMs_4HVgmiTNNQSE6UeNt4Ci6lkQaZZlrcwrEy1s4wAVb93CJup8e6r7/s1600/claudecode.jpg",
+    "published": "2026-02-25T17:00:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration Cybersecurity researchers have disclosed multiple security vulnerabilities in Anthropic's Claude Code, an artificial intelligence (AI)-powered coding assistant, that could result in remote code execution and t\u2026",
+    "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration"
   },
   "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html": {
     "categories": [],
@@ -4117,6 +4135,15 @@
     "source": "The Hacker News",
     "summary": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of \"disciplined tradecraft and clever abuse of legitimate system features\" to bypass traditio\u2026",
     "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files"
+  },
+  "https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdiryFv5ZRzMaWgy0tIX9m-TmOscWeEBw8Do0GJ-3cOnT79ekD7oZzFZQkVU-pEvrJC6wv9ngJoaqch-bmNcAIrfHbyH2BJBFZG2Cff0gfFKcoS_ray_OrqditeEHz-XK7Z7jRrU80eo_KcfasAg3Wi_Cjd79-MxpMvqTGtwKNuWAnnZrhg9pcxKDzvjeB/s1600/zero-day.jpg",
+    "published": "2026-02-25T08:49:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker A 39-year-old Australian national who was previously employed at U.S. defense contractor L3Harris has been sentenced to a little over seven years in prison for selling eight zero-day exploits to Russian \u2026",
+    "title": "Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker"
   },
   "https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html": {
     "categories": [],
@@ -4252,6 +4279,15 @@
     "source": "The Hacker News",
     "summary": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists Germany's Federal Office for the Protection of the Constitution (aka Bundesamt f\u00fcr Verfassungsschutz or BfV) and Federal Office for Information Security (BSI) have issued a joint advisory warning\u2026",
     "title": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists"
+  },
+  "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyrJTi6YIFc4PWNVjyVZgjQfbHNpfH-WtwcxIIEgUSin8DR8zz_VZBauDnlTA42bh7LT7nj1Y-OtoKL34tEKUKo4JrNuWgnhC1r54tIkws6OC8SWqucU0OrWysv2-pzj_YCinatv9FwUUsvADoPMVngfmR8wB2xr_lS1viUQHoK_Vom83SmBZMOBJPe6Nb/s1600/google.jpg",
+    "published": "2026-02-25T17:46:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53 organiza\u2026",
+    "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries"
   },
   "https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html": {
     "categories": [],
@@ -4423,6 +4459,24 @@
     "source": "The Hacker News",
     "summary": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens Cybersecurity researchers have disclosed what they say is an active \"Shai-Hulud-like\" supply chain worm campaign that has leveraged a cluster of at least 19 malicious npm packages to enable credential harvesti\u2026",
     "title": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens"
+  },
+  "https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE-bjDoQWaHQbmh17EY0EzAbNkQxh3AHTCEBNjNpdXsBeuuuHPycl9tIzC9msasA7ZwhewkuMMk-MAJvrV5EVSgOrn8FdHnAxdkiGA1YRNL4pHJ3QUSoreUf6d9VIRagp9oi26XKEYgsdon3wDf81fE5mjkq8yJmhC2wSkIK3emLP_xHvAJ2eC3uanvXEW/s1600/coding.jpg",
+    "published": "2026-02-25T12:43:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware Cybersecurity researchers have discovered four malicious NuGet packages that are designed to target ASP.NET web application developers to steal sensitive data.\nThe campaign, discovered by Socket, exfiltrates\u2026",
+    "title": "Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware"
+  },
+  "https://thehackernews.com/2026/02/manual-processes-are-putting-national.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBTbttsBjbdKdXIOeHSFgfUVWVU-b7OHEjeyjoeKSBCV3Hnw9ecKqS8Eg2Hhx-VTaFgdjd1-UvFSgZkjkYNnLICgEKQy9-J_lseukUyEr_Q3HV-CuJyZ5OxK64-qtnMYduhtorZyKCnxboOUCitv9mOQhFEGt9cytBNNiyO92J5Qlt9JOTYCN0zH_kKdg/s1600/national-security.jpg",
+    "published": "2026-02-25T11:00:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Manual Processes Are Putting National Security at Risk Why automating sensitive data transfers is now a mission-critical priority\nMore than half of national security organizations still rely on manual processes to transfer sensitive data, according to The CYBER360: Defending the \u2026",
+    "title": "Manual Processes Are Putting National Security at Risk"
   },
   "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html": {
     "categories": [],
@@ -4694,6 +4748,15 @@
     "summary": "Securing the Mid-Market Across the Complete Threat Lifecycle For mid-market organizations, cybersecurity is a constant balancing act. Proactive, preventative security measures are essential to protect an expanding attack surface. Combined with effective protection that blocks thr\u2026",
     "title": "Securing the Mid-Market Across the Complete Threat Lifecycle"
   },
+  "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheMHWdwNTiAJVGFveDmUE-c6R5fRxcIf_ECfU1uk44EkFSWh1PAkXZhOoPtL9vJESPwrDSPgCGRsl3_nvkHawqFo8vTOk7WytOuAjfnnFTfxeGoDQFPuPoMS0fKbGfNSKAOt12sCvE5NxbCMOgzrmozgrvPTNUWeNdkz4Kz23xG2rQYPndvynXw34uD6lx/s1600/vishing-attack.jpg",
+    "published": "2026-02-25T15:06:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "SLH Offers $500\u2013$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks The notorious cybercrime collective known as Scattered LAPSUS$ Hunters (SLH) has been observed offering financial incentives to recruit women to pull off social engineering attacks.\nThe idea is to h\u2026",
+    "title": "SLH Offers $500\u2013$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks"
+  },
   "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTqbI3s_iPxMUClWM1mAlNmZ1XoIGvcr_s7qE8slqSkSFCyPIU50Ml0XsqsxGAnsMt1Ys4v9Z2MYWapLXIB9bvkvXw7pPt8NvS05UotSaichBUZjw-WaoUwIlUCMjk1elkTOAFdwFfZyNCufWdiNoL2CmhbuW79HpBxWDELf1mqDC6ZA3BShpMK8C8sUbL/s1600/mcp-hack.jpg",
@@ -4702,6 +4765,15 @@
     "source": "The Hacker News",
     "summary": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer Cybersecurity researchers have disclosed details of a new SmartLoader campaign that involves distributing a trojanized version of a Model Context Protocol (MCP) server associated with Oura Health to d\u2026",
     "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer"
+  },
+  "https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJsxWsiu7fwprSIRxMv2GeyDwgjXKWppIf60pJICGIbw87BvlIEuh4P_8cWt1GXCcChC7u521YqP5RVa-3vV-Hs2djakl0xfjcRe5YAQPnrekGJBVrrdC8MKMcGKsG0YxOXZF15XUTTLXiEWhJViXZUnI2Rl2S9QLe3lUuautotpE8OhS1D6g2HfmAEI86/s1600/solarwinds-serv-u.jpg",
+    "published": "2026-02-25T07:04:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution SolarWinds has released updates to address four critical security flaws in its Serv-U file transfer software that, if successfully exploited, could result in remote code execution.\nThe vulnerabilities, a\u2026",
+    "title": "SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution"
   },
   "https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html": {
     "categories": [],
@@ -4801,6 +4873,15 @@
     "source": "The Hacker News",
     "summary": "Three Former Google Engineers Indicted Over Trade Secret Transfers to Iran Two former Google engineers and one of their husbands have been indicted in the U.S. for allegedly committing trade secret theft from the search giant and other tech firms and transferring the information \u2026",
     "title": "Three Former Google Engineers Indicted Over Trade Secret Transfers to Iran"
+  },
+  "https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5NekLXfHU8r6WoAeokuYAZFesA6Hu1-CaDaMxGkNI2ZMMZQMYjhkhv9op5m7gxZPtPSsICJz6HOoQnbQLaLbb58xgMKzdIzZ2YEozZ7T7cPyliMxoRVkjYJ1JYk0XoR-_T6WovGnQQOiiUSOhu9cxn2e8XnXOWeGtdFe4WsQNXYMcLj9OT_iMQ9eQ1YQ/s1600/anyrun-main.jpg",
+    "published": "2026-02-25T14:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It Triage is supposed to make things simpler. In a lot of teams, it does the opposite.\nWhen you can\u2019t reach a confident verdict early, alerts turn into repeat checks, back-and-forth, and \u201cjust escalate it\u201d calls\u2026",
+    "title": "Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It"
   },
   "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html": {
     "categories": [],
@@ -7535,6 +7616,18 @@
     "summary": "Chinese cyberspies breach Singapore's four largest telcos The Chinese threat actor tracked as UNC3886 breached Singapore's four largest telecommunication service providers, Singtel, StarHub, M1, and Simba, at least once last year. [...]",
     "title": "Chinese cyberspies breach Singapore's four largest telcos"
   },
+  "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/": {
+    "categories": [
+      "Security",
+      "Government"
+    ],
+    "image": "",
+    "published": "2026-02-25T17:00:15+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Chinese cyberspies breached dozens of telecom firms, govt agencies Google's Threat Intelligence Group (GTIG), Mandiant, and partners disrupted a global espionage campaign attributed to a suspected Chinese\u00a0threat actor that used SaaS API calls to hide malicious traffic in attacks \u2026",
+    "title": "Chinese cyberspies breached dozens of telecom firms, govt agencies"
+  },
   "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/": {
     "categories": [
       "Security"
@@ -8205,6 +8298,17 @@
     "summary": "Critical BeyondTrust RCE flaw now exploited in attacks, patch now A critical pre-authentication remote code execution vulnerability in BeyondTrust Remote Support and Privileged Remote Access appliances is now being exploited in attacks after a PoC was published online. [...]",
     "title": "Critical BeyondTrust RCE flaw now exploited in attacks, patch now"
   },
+  "https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-25T18:01:51+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023 Cisco is warning that a critical authentication bypass vulnerability in Cisco Catalyst SD-WAN, tracked as CVE-2026-20127, was actively exploited in zero-day attacks that allowed remote attackers to compromise cont\u2026",
+    "title": "Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023"
+  },
   "https://www.bleepingcomputer.com/news/security/critical-cisco-uccx-flaw-lets-hackers-run-commands-as-root/": {
     "categories": [
       "Security"
@@ -8798,6 +8902,17 @@
     "summary": "Police busts credit card fraud rings with 4.3 million victims International authorities have dismantled three massive credit card fraud and money laundering networks, linked to losses exceeding \u20ac300 million ($344 million) and affecting over 4.3 million cardholders across 193 coun\u2026",
     "title": "Police busts credit card fraud rings with 4.3 million victims"
   },
+  "https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-25T08:21:40+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker The former head of Trenchant, a specialized U.S. defense contractor unit, was sentenced Tuesday to more than seven years in federal prison for stealing and selling zero-day exploits to a Russian broker whose \u2026",
+    "title": "Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker"
+  },
   "https://www.bleepingcomputer.com/news/security/exploit-code-public-for-critical-fortisiem-command-injection-flaw/": {
     "categories": [
       "Security"
@@ -8930,6 +9045,17 @@
     "source": "BleepingComputer",
     "summary": "Fake MAS Windows activation domain used to spread PowerShell malware A typosquatted domain impersonating the Microsoft Activation Scripts (MAS) tool was used to distribute malicious\u00a0PowerShell scripts that infect Windows systems with the 'Cosmali Loader'. [...]",
     "title": "Fake MAS Windows activation domain used to spread PowerShell malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-25T21:47:12+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Fake Next.js job interview tests backdoor developer's devices The Microsoft Defender team has discovered a coordinated campaign targeting software developers through malicious repositories posing as legitimate Next.js projects and technical assessment materials, including recruit\u2026",
+    "title": "Fake Next.js job interview tests backdoor developer's devices"
   },
   "https://www.bleepingcomputer.com/news/security/fake-one-battle-after-another-torrent-hides-malware-in-subtitles/": {
     "categories": [
@@ -10743,6 +10869,19 @@
     "summary": "Marquis data breach impacts over 74 US banks, credit unions Financial software provider Marquis Software Solutions is warning that it suffered a data breach that impacted dozens of banks and credit unions across the US. [...]",
     "title": "Marquis data breach impacts over 74 US banks, credit unions"
   },
+  "https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-02-25T15:54:44+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Marquis sues SonicWall over backup breach that led to ransomware attack Marquis Software Solutions has filed a lawsuit against SonicWall, accusing the cybersecurity company of gross negligence and misrepresentation that allegedly led to a ransomware attack disrupting operations a\u2026",
+    "title": "Marquis sues SonicWall over backup breach that led to ransomware attack"
+  },
   "https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/": {
     "categories": [
       "Security",
@@ -10797,6 +10936,18 @@
     "source": "BleepingComputer",
     "summary": "Media giant Nikkei reports data breach impacting 17,000 people Japanese publishing giant Nikkei announced earlier today that its Slack messaging platform had been compromised, exposing the personal information of over 17,000 employees and business partners. [...]",
     "title": "Media giant Nikkei reports data breach impacting 17,000 people"
+  },
+  "https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/": {
+    "categories": [
+      "Security",
+      "Healthcare"
+    ],
+    "image": "",
+    "published": "2026-02-25T23:02:16+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Medical device maker UFP Technologies warns of data stolen in cyberattack American manufacturer of medical devices, UFP Technologies,\u00a0has disclosed that a cybersecurity incident has compromised its IT systems and data. [...]",
+    "title": "Medical device maker UFP Technologies warns of data stolen in cyberattack"
   },
   "https://www.bleepingcomputer.com/news/security/meet-shinysp1d3r-new-ransomware-as-a-service-created-by-shinyhunters/": {
     "categories": [
@@ -12949,6 +13100,17 @@
     "summary": "The hidden risks in your DevOps stack data\u2014and how to address them DevOps repos on GitHub, GitLab, Bitbucket, and Azure DevOps face risks from weak access controls, misconfigurations, outages, and accidental deletions. GitProtect provides automated, immutable backups and fast rec\u2026",
     "title": "The hidden risks in your DevOps stack data\u2014and how to address them"
   },
+  "https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-25T15:01:11+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web OpenClaw has sparked heavy Telegram and dark web chatter, but Flare's data shows more research hype than mass exploitation. Flare explains how its telemetry found real supply-chain risk in the skills market\u2026",
+    "title": "The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web"
+  },
   "https://www.bleepingcomputer.com/news/security/the-real-world-attacks-behind-owasp-agentic-ai-top-10/": {
     "categories": [
       "Security"
@@ -13362,6 +13524,17 @@
     "source": "BleepingComputer",
     "summary": "Russian bulletproof hosting provider sanctioned over ransomware ties Today, the United States, the United Kingdom, and Australia announced sanctions targeting Russian bulletproof hosting (BPH) providers that have supported ransomware gangs and other cybercrime operations. [...]",
     "title": "Russian bulletproof hosting provider sanctioned over ransomware ties"
+  },
+  "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-25T10:31:13+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "US sanctions Russian broker for buying stolen zero-day exploits The U.S. Treasury Department has sanctioned a Russian exploit broker who bought stolen hacking tools from a former executive of a U.S. defense contractor. [...]",
+    "title": "US sanctions Russian broker for buying stolen zero-day exploits"
   },
   "https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/": {
     "categories": [
@@ -13800,6 +13973,17 @@
     "summary": "Zoom Stealer browser extensions harvest corporate meeting intelligence A newly discovered campaign, which researchers call Zoom Stealer, is affecting 2.2 million Chrome, Firefox, and Microsoft Edge users through 18 extensions that collect online meeting-related data like URLs, ID\u2026",
     "title": "Zoom Stealer browser extensions harvest corporate meeting intelligence"
   },
+  "https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-25T12:53:02+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Zyxel warns of critical RCE flaw affecting over a dozen routers Taiwan networking provider Zyxel has released security updates to address a critical vulnerability affecting over a dozen router models that can allow unauthenticated attackers to gain remote command execution on unp\u2026",
+    "title": "Zyxel warns of critical RCE flaw affecting over a dozen routers"
+  },
   "https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/": {
     "categories": [
       "Software"
@@ -14061,6 +14245,15 @@
     "source": "darkreading",
     "summary": "'Fake Proof' and AI Slop Hobble Defenders In the React2Shell saga, nonworking and trivial proof-of-concept exploits led to confusion and perhaps a false sense of security. Can the onslaught of PoCs be tamed?",
     "title": "'Fake Proof' and AI Slop Hobble Defenders"
+  },
+  "https://www.darkreading.com/application-security/flaws-claude-code-developer-machines-risk": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta29c5320030f6a4c/699f61ef0bc2e4000874c759/claudecode_aileenchik_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-25T22:02:32+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Flaws in Claude Code Put Developers' Machines at Risk The vulnerabilities highlight a big drawback to integrating AI into software development workflows and the potential impact on supply chains.",
+    "title": "Flaws in Claude Code Put Developers' Machines at Risk"
   },
   "https://www.darkreading.com/application-security/glassworm-malware-developer-ecosystems": {
     "categories": [],
@@ -14754,6 +14947,15 @@
     "summary": "Gone With the Shame: One in Two Americans Are Reluctant to Talk About Romance Scam Incidents Men should take extra care on Valentine\u2019s Day because they are nearly twice as likely as women to fall victim to romance scams.",
     "title": "Gone With the Shame: One in Two Americans Are Reluctant to Talk About Romance Scam Incidents"
   },
+  "https://www.darkreading.com/cyber-risk/pci-council-threats-payments-systems-speeding-up": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt296528a0e67b180a/699f4d00f245a400089e2f2e/HPY13C.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-25T19:15:33+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "PCI Council Says Threats to Payments Systems Are Speeding Up The PCI Security Standards Council experienced a record year in many regards, but its first annual report shows it needs to work even faster to stay ahead of attackers.",
+    "title": "PCI Council Says Threats to Payments Systems Are Speeding Up"
+  },
   "https://www.darkreading.com/cyber-risk/ransomware-gang-full-godfather-cartel": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta8ad0cbff9c121e0/6983ba6c994a669ca58c7084/godfather_Usa-Pyon_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -14964,6 +15166,15 @@
     "summary": "Chinese APTs Hacking Asian Orgs With High-End Malware Advanced persistent threat (APT) groups have deployed new cyber weapons against a variety of targets, highlighting the increasing threats to the region.",
     "title": "Chinese APTs Hacking Asian Orgs With High-End Malware"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/chinese-police-chatgpt-smear-japan-pm-takaichi": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5019de3e3f187ef1/699f54699372de000896be92/Sanae_Takaichi_Xi_Jinping-Xinhua-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-26T00:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Chinese Police Use ChatGPT to Smear Japan PM Takaichi A Chinese keyboard warrior inadvertently leaked information about politically motivated influence operations through a ChatGPT account.",
+    "title": "Chinese Police Use ChatGPT to Smear Japan PM Takaichi"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/cisa-ongoing-brickstorm-backdoor-attacks": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb4b9ab59bde157e0/6931fcd9a4d05c98983cde9c/bricks_FrankieAngel_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -15145,6 +15356,15 @@
     "source": "darkreading",
     "summary": "Lazarus Group Picks a New Poison: Medusa Ransomware The North Korean threat group also leveraged Comebacker backdoor, Blindingcan RAT, and info stealer Infohook in its recent attacks.",
     "title": "Lazarus Group Picks a New Poison: Medusa Ransomware"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/malicious-nextjs-repos-developers-fake-job-interviews": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1451fb532a165f33/699ee8725a46010008b62fb3/developer-everythingpossible-AdobeStock.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-25T16:42:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Malicious Next.js Repos Target Developers Via Fake Job Interviews Linked to North Korean fake job-recruitment campaigns, the poisoned repositories are aimed at establishing persistent access to infected machines.",
+    "title": "Malicious Next.js Repos Target Developers Via Fake Job Interviews"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/nikkei-suffers-breach-slack-compromise": {
     "categories": [],
@@ -15660,6 +15880,15 @@
     "summary": "New Startup Mate Launches With AI-Driven Security Operations Platform Security teams can combat alert fatigue, high rates of false positives, and reduce time spent on manual data collection with Mate's SOC platform, which utilizes AI agents to autonomously investigate and resolve\u2026",
     "title": "New Startup Mate Launches With AI-Driven Security Operations Platform"
   },
+  "https://www.darkreading.com/cybersecurity-operations/operation-red-card-2-0-leads-to-651-arrests-in-africa": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1bcf422262d1181d/699e638580f6080008948c35/redcard_ChrisFryatt_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-25T08:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Operation Red Card 2.0 Leads to 651 Arrests in Africa In the latest operation targeting cybercrime groups, African law enforcement agencies cooperated with Interpol and cybersecurity firms to recover more than $4.3 million.",
+    "title": "Operation Red Card 2.0 Leads to 651 Arrests in Africa"
+  },
   "https://www.darkreading.com/cybersecurity-operations/physical-convergence-electrical-grid-cybersecurity": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0ddd25ebea5b1966/6904f863dbd06db098f23a98/lightning-David_Mabe-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -16087,6 +16316,15 @@
     "source": "darkreading",
     "summary": "OT Attacks Get Scary With 'Living-off-the-Plant' Techniques Ironically, security by obscurity has helped prevent dangerous OT attacks in recent years. It won't be that way forever.",
     "title": "OT Attacks Get Scary With 'Living-off-the-Plant' Techniques"
+  },
+  "https://www.darkreading.com/ics-ot-security/richter-scale-model-measures-cyber-incidents": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltea65dbb95a793ac6/699df33bf14a810008dcd759/Gas_Stations_Colonial_Pipeline_Gloria_Good_Alamy_(1).jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-25T12:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "'Richter Scale' Model Measures Magnitude of OT Cyber Incidents ICS/OT experts have devised a scoring system for rating the severity and effects of cybersecurity events in operational technology environments.",
+    "title": "'Richter Scale' Model Measures Magnitude of OT Cyber Incidents"
   },
   "https://www.darkreading.com/identity-access-management-security/enterprise-not-confident-secure-non-human-identities": {
     "categories": [],
@@ -16650,6 +16888,15 @@
     "summary": "Poland Energy Survives Attack on Wind, Solar Infrastructure Russia-aligned groups are probable culprits behind the wiper attacks against renewable energy farms, a manufacturer, and a heating and power plant.",
     "title": "Poland Energy Survives Attack on Wind, Solar Infrastructure"
   },
+  "https://www.darkreading.com/threat-intelligence/ramp-forum-seizure-fractures-ransomware-ecosystem": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltffa1374205a8fff7/699f59949f7a850008a87863/Man_at_computer_Aleksei_Gorodenkov_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-25T21:14:21+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "RAMP Forum Seizure Fractures Ransomware Ecosystem Researchers suggest defenders monitor how these malicious groups re-form and leverage the useful threat intel to guide their next moves.",
+    "title": "RAMP Forum Seizure Fractures Ransomware Ecosystem"
+  },
   "https://www.darkreading.com/threat-intelligence/react2shell-exploits-flood-internet-attacks-continue": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2f423e90264d26a8/693c77db12ca300e247b043b/maliciouscode_Victor_Koldunov_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -16711,6 +16958,15 @@
     "source": "darkreading",
     "summary": "Why a 17-Year-Old Built an AI Model to Expose Deepfake Maps A high-school student is tackling the overlooked risk of AI-generated satellite imagery that could mislead governments and emergency responders.",
     "title": "Why a 17-Year-Old Built an AI Model to Expose Deepfake Maps"
+  },
+  "https://www.darkreading.com/threat-intelligence/why-call-this-number-toad-emails-beat-gateways": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta1a4160f6d227002/699dfe0b14d53f0008bf1ec4/American_Toad_Phil_Degginger_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-25T14:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Why 'Call This Number' TOAD Emails Beat Gateways Attackers are bypassing email gateways through telephone-oriented attack delivery (TOAD), in which the only email payload is a phone number.",
+    "title": "Why 'Call This Number' TOAD Emails Beat Gateways"
   },
   "https://www.darkreading.com/threat-intelligence/zerodayrat-brings-commercial-spyware-to-mass-market": {
     "categories": [],
