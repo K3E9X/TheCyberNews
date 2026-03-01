@@ -4073,6 +4073,15 @@
     "summary": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-s\u2026",
     "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries"
   },
+  "https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMEZ7gMViZ9XlXs35FiyviBZR19FbDXmatfjhNRw59daWLw41ScorGKG3xXYWFD6dDuYHajwoUnkWgQV9SrPe9iiV8UqDVjw4K5hX8cng7VDPTsljAZazuxUDdk7_hZ7SFV9rDCxNcYNWjmEY_lUVj01-PEI9D9rY5tMYJZTP5X887UuXOsDD90UOvo_mG/s1600/opem.jpg",
+    "published": "2026-02-28T17:21:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket OpenClaw has fixed a high-severity security issue that, if successfully exploited, could have allowed a malicious website to connect to a locally running artificial intelligence (AI) agent and take\u2026",
+    "title": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket"
+  },
   "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIWybmqdjOp2WuZ84iFMFu3-0eOVa8l0etXodmxf1nt6J5HOLansMggutpXiJZTE4n_ENW6Ea_hb-6XuzCoyrvS830lwOZC_T6GAeGTzHVNfa5kqoZ5QYrN-vscS1XlXY5bIvrmUhXnPbOB73YUoWoysyr4o1W8pbhYi-TEWTGuvbh3zL7baiD3RuAyE30/s1600/clickfix.jpg",
@@ -4927,6 +4936,15 @@
     "source": "The Hacker News",
     "summary": "The First 90 Seconds: How Early Decisions Shape Incident Response Investigations Many incident response failures do not come from a lack of tools, intelligence, or technical skills. They come from what happens immediately after detection, when pressure is high, and information is\u2026",
     "title": "The First 90 Seconds: How Early Decisions Shape Incident Response Investigations"
+  },
+  "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1wA-JoARjvd0BYW-3G0XMdHXcWpWdkWk3bIkWV2myMGfRRsp4Dl8A24cpj8Elpe5lJO6KdyS36Nsts7_o0Xx70HSxwY3se4RuNPRzfFmodMhX-jU_lkCefaathP6uan4UGLWmuQvxjerq6_H-z16vFY3h4pCeVqDBGA13ne12uRZfuU7fHW2pQVAtuM4E/s1600/gemini.jpg",
+    "published": "2026-02-28T09:56:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement New research has found that Google Cloud API keys, typically designated as project identifiers for billing purposes, could be abused to authenticate to sensitive Gemini endpoints and access \u2026",
+    "title": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement"
   },
   "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html": {
     "categories": [],
@@ -7183,6 +7201,18 @@
     "source": "BleepingComputer",
     "summary": "2025\u2019s Top Phishing Trends and What They Mean for Your Security Strategy Phishing attacks in 2025 increasingly moved beyond email, with attackers using social platforms, search ads, and browser-based techniques to bypass MFA and steal sessions. Push Security outlines key phishing\u2026",
     "title": "2025\u2019s Top Phishing Trends and What They Mean for Your Security Strategy"
+  },
+  "https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-02-28T15:17:23+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "$4.8M in crypto stolen after Korean tax agency exposes wallet seed South Korea's National Tax Service accidentally exposed the mnemonic recovery phrase of a seized cryptocurrency wallet in an official press release, allowing hackers to steal 6.4 billion won ($4.8M) worth in crypt\u2026",
+    "title": "$4.8M in crypto stolen after Korean tax agency exposes wallet seed"
   },
   "https://www.bleepingcomputer.com/news/security/5-reasons-why-attackers-are-phishing-over-linkedin/": {
     "categories": [
@@ -12532,6 +12562,17 @@
     "source": "BleepingComputer",
     "summary": "Quantum Route Redirect PhaaS targets Microsoft 365 users worldwide A new phishing automation platform named Quantum Route Redirect is using around\u00a01,000 domains to steal\u00a0Microsoft 365 users' credentials. [...]",
     "title": "Quantum Route Redirect PhaaS targets Microsoft 365 users worldwide"
+  },
+  "https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-02-28T19:18:52+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "QuickLens Chrome extension steals crypto, shows ClickFix attack A Chrome extension named \"QuickLens - Search Screen with Google Lens\" has been removed from the Chrome Web Store after it was compromised to push malware and attempt\u00a0to steal crypto from\u00a0thousands of users. [...]",
+    "title": "QuickLens Chrome extension steals crypto, shows ClickFix attack"
   },
   "https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/": {
     "categories": [
