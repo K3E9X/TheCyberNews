@@ -8219,6 +8219,17 @@
     "summary": "Claude LLM artifacts abused to push Mac infostealers in ClickFix attack Threat actors are abusing\u00a0Claude artifacts and Google Ads in ClickFix campaigns that deliver infostealer malware to macOS users searching for specific queries. [...]",
     "title": "Claude LLM artifacts abused to push Mac infostealers in ClickFix attack"
   },
+  "https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-01T21:44:55+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "ClawJacked attack let malicious websites hijack OpenClaw to steal data Security researchers have disclosed a high-severity vulnerability dubbed \"ClawJacked\"\u00a0in the popular AI agent OpenClaw that allowed a malicious website to silently bruteforce access to a locally running instan\u2026",
+    "title": "ClawJacked attack let malicious websites hijack OpenClaw to steal data"
+  },
   "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/": {
     "categories": [
       "Security"
@@ -12857,6 +12868,18 @@
     "summary": "Crypto mixer founders sent to prison for laundering over $237 million The founders of the Samourai Wallet (Samourai) cryptocurrency mixing service have been sent to prison for helping criminals launder over $237 million. [...]",
     "title": "Crypto mixer founders sent to prison for laundering over $237 million"
   },
+  "https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-03-01T15:23:34+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Samsung TVs to stop collecting Texans\u2019 data without express consent Samsung and the State of Texas have reached a settlement agreement over the alleged unlawful collection of content-viewing information through its smart TVs [...]",
+    "title": "Samsung TVs to stop collecting Texans\u2019 data without express consent"
+  },
   "https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/": {
     "categories": [
       "Security"
@@ -14569,6 +14592,15 @@
     "source": "darkreading",
     "summary": "'Fake Proof' and AI Slop Hobble Defenders In the React2Shell saga, nonworking and trivial proof-of-concept exploits led to confusion and perhaps a false sense of security. Can the onslaught of PoCs be tamed?",
     "title": "'Fake Proof' and AI Slop Hobble Defenders"
+  },
+  "https://www.darkreading.com/application-security/flaw-finding-ai-assistants-face-criticism-speed-accuracy": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0c673bcc88bf6440/69a07384bfa5110008445d68/AI-cybersecurity-coding-Koupei_Studio-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-02-27T20:16:24+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Flaw-Finding AI Assistants Face Criticism for Speed, Accuracy Using AI to find security vulnerabilities holds significant promise, but the initial products fall short of the needs of enterprises and software developers, say experts.",
+    "title": "Flaw-Finding AI Assistants Face Criticism for Speed, Accuracy"
   },
   "https://www.darkreading.com/application-security/flaws-claude-code-developer-machines-risk": {
     "categories": [],
