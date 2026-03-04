@@ -5135,6 +5135,15 @@
     "summary": "ZAST.AI Raises $6M Pre-A to Scale \"Zero False Positive\" AI-Powered Code Security January 5, 2026, Seattle, USA \u2014 ZAST.AI announced the completion of a $6 million Pre-A funding round. This investment came from the well-known investment firm Hillhouse Capital, bringing ZAST.AI's to\u2026",
     "title": "ZAST.AI Raises $6M Pre-A to Scale \"Zero False Positive\" AI-Powered Code Security"
   },
+  "https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy66jCAP3njemOp9S0dnoRSikwWIk-OjV_6kygA0ubIpsczO3IWQf7SD3hcvCzRrDtiL6_2jOk3fWy2YtEWMwEyCmvzhw6QReN8cvfOlYuiXP4VzgeV_PaFRsylxXhR7akoqfkgxsD_oiNXSAabskwOrDoIJMSsAgr0VZO2UW-4odf7eAjioV1KX7mn3w/s1600/ormain.jpg",
+    "published": "2026-03-03T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged The Rise of MCPs in the Enterprise\nThe Model Context Protocol (MCP) is quickly becoming a practical way to push LLMs from \u201cchat\u201d into real work. By providing structured access to applications, APIs\u2026",
+    "title": "AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged"
+  },
   "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGmBYExYY-MdqirvtI7-k2gWDf2rCE5AX4J246DywytJU0hWklJfAxRUKUa6AhU-VFWf2jazsAR1DkpPBHUqv2LsGckfxhVUebrMsnAccaYYmp2L9VJDz4rHaRLxKRgXaYM-UPcFS_ZoyveJxkLu1RunwaIuCBckILFDzMo1mCZtg9zaOmXrOSEEWU7RSg/s1600/windows.jpg",
@@ -5143,6 +5152,42 @@
     "source": "The Hacker News",
     "summary": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, according to new findings from Akamai.\nThe vulnerabi\u2026",
     "title": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday"
+  },
+  "https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwYwVezgvocYpgSVlObttlWWj69Wzly716Z1gfPOUjTsEL1TqBXiWSSexSIR2o96ji1cbMuxtxZVETQ7oN6klFQ2do3WCjhmiVLt1BXlMekcMlJSGxTD6XffjEZRWsc3q8eo0HmRc1IV8p777ZLFW4wOXPsDNaCetHqmCkMLILYOAsmDgSaVwerAUtS0A/s1600/tier1.jpg",
+    "published": "2026-03-03T14:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow Every CISO knows the uncomfortable truth about their Security Operations Center: the people most responsible for catching threats in real time are the people with the least experience. Tier 1 analysts sit at the front l\u2026",
+    "title": "Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow"
+  },
+  "https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwSnIflppBRH5X_FxN5pZcibA3-KyhW9iDiNGlD76L9B8dFwzLtP5i7FHFzf73XpTAhCLtmQn0JD_fUqgXceUlrCwPgJqbmlkPXi2e_IDggrIHDyJ5HoDzr191LxAbe08arokXZ4FXH5k9NxErepVgiaEkGVfWDWQ2ZWJ8h3mGjySQ-QqTzo02oBdh01Up/s1600/vmware.jpg",
+    "published": "2026-03-04T04:35:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabili\u2026",
+    "title": "CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog"
+  },
+  "https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMxXTslXwVQy4UDmwQOi39oPLz0gBjk3E_mUL0hONp_uAbe2mkCooBcTU3zE6nArVycOldRPm5jMHfzTAI_plrX1jvn5o8zmSGKTH794N2tpztPyTLW-TBZqfHaa4nbHLMY2LHhW0l1J4wzmg8lCRXOFWdAQSSn1Qb4iR8PIeRUE9K1NvpCtluT69-y7By/s1600/outlook.jpg",
+    "published": "2026-03-03T17:15:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations Threat hunters have called attention to a new campaign as part of which bad actors masqueraded as fake IT support to deliver the Havoc command-and-control (C2) framework as a precursor to data exfiltration or\u2026",
+    "title": "Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations"
+  },
+  "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR_pPCmiYZpBkIhumuW9B55rXBX7U9PZto5xPxHsLBbx5EstbqXgUI-XLZkQQV8OCsdaOi5RuSapl0V4LPKX9B_8MDBqSteyX83vXpj7G8-87BBhyphenhyphen75Os_0RhTFWBL_yxr7JVwXXtZ-qdbbugAlw9MoC5mFEx0hfQMncgnDRR8tLlEMXsLiPmim2sTjzNO/s1600/android-exploit.jpg",
+    "published": "2026-03-03T07:08:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild.\nThe vulnerability in question is CVE-2026-21385\u2026",
+    "title": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited"
   },
   "https://thehackernews.com/2026/03/google-develops-merkle-tree.html": {
     "categories": [],
@@ -5162,6 +5207,15 @@
     "summary": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them.\nOn paper, everything looks great: more sign-ups, more sessions, more API calls. But in reality, so\u2026",
     "title": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF"
   },
+  "https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVaGXK9F-m4oJx6H9HD0gQaOmONLT8sEFgtKmoGO4k6MzjQY-bfbtoGrUcG2k7tH571M_K6Ej7P5Z5vtjuCYsrKU3tRpOE2fkZv_ViiEmjpUeYwwHTB_8oKlQZd2-VysqvPgdvaofwFi13iPjMSe1pjf0nudP2s4YvheFQHwvsQT8neGjKTPq7nA_PPn0x/s1600/ms-login.jpg",
+    "published": "2026-03-03T09:20:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets Microsoft on Monday warned of phishing campaigns that employ phishing emails and OAuth URL redirection mechanisms to bypass conventional phishing defenses implemented in email and browsers.\nThe activity, \u2026",
+    "title": "Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets"
+  },
   "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGvdv2as5vfPUJybxkOOX1bDflJKOb5b1uVw9SHrVOo6TD5GKc0JbMB2p2yxxpwj4UlZK680ZnF4J8Ccie6G13W8cklnxDOs-E74-jy3fuIyr53UWuGuwhSM8HvHUIhilChdeRdF3yz9ObuHMHlKGUHI4TMWachzuvWJ3aZdEmz_fPNaIRm_IYDKiqUl1G/s1600/gemini-chrome.jpg",
@@ -5179,6 +5233,33 @@
     "source": "The Hacker News",
     "summary": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the \u2026",
     "title": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT"
+  },
+  "https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfbbcxvw46Df6wZJpHzgD3wrBSTcFyJLQEYVSpnUYNF2U92TTfAilNI6bijzKSHSiHb_XiQgw_V9Rn5HBEoUjx-pGg9fVLh07C7gebKC80qyqTUD0HvHbiquEkIvxjs9n6MuQH5QHp_Sf9nw_NIJRg8Ffi8N_1exLScK5EMuP99dwof4p4aCvRIqlv8zwV/s1600/cyberattacks.jpg",
+    "published": "2026-03-03T14:29:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries The threat actor behind the recently disclosed artificial intelligence (AI)-assisted campaign targeting Fortinet FortiGate appliances leveraged an open-source, AI-native security testing platfor\u2026",
+    "title": "Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries"
+  },
+  "https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfEU4zf_Kk2z8HBMdkRrw-hKeM6LmC7tBBt_P7K_2rGOfnc15ew5Y9fg4NeeCAMUNfRvcEhbLohCz6-oeONrOsfTnLDk7nEETbgewwLvjyqxprh26CYIpvGexZOvWADe0EutygQFHoGeMCa1sSNRQt-iA5meuqodGe7MK2Lpepa9CUu4PkxeszGIf_pDUH/s1600/malware-attack.jpg",
+    "published": "2026-03-03T06:53:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains The threat activity cluster known as SloppyLemming has been attributed to a fresh set of attacks targeting government entities and critical infrastructure operators in Pakistan and Bangladesh.\nThe\u2026",
+    "title": "SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains"
+  },
+  "https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOdnsC4miBmpXK8ZPV1kM1figMIfiqkQpUeAt8idIiZEFRCNt6AMaFSmpUaR215Hrw-XIGi6Zcl9vOgGO5ItB53gWlN_r8UxGz_yTrPTk9bFgCUudYbq2jETdm526DpMDaPyT8UFt7m5XUwlrYdJmUDyEmoQO6zcnGvUB4_W0mBiHJtWFqJk7udXMelfSu/s1600/star.jpg",
+    "published": "2026-03-03T11:10:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication Cybersecurity researchers have disclosed details of a new phishing suite called Starkiller that proxies legitimate login pages to bypass multi-factor authentication (MFA) protections.\nIt's adv\u2026",
+    "title": "Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication"
   },
   "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html": {
     "categories": [],
@@ -7975,6 +8056,17 @@
     "summary": "CISA flags critical Microsoft SCCM flaw as exploited in attacks CISA ordered federal agencies on Thursday to secure their systems against a critical Microsoft Configuration Manager vulnerability patched in October 2024 and now exploited in attacks. [...]",
     "title": "CISA flags critical Microsoft SCCM flaw as exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-03T23:40:37+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "CISA flags VMware Aria Operations RCE flaw as exploited in attacks The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a VMware Aria Operations vulnerability\u00a0tracked as CVE-2026-22719 to its Known Exploited Vulnerabilities catalog, flagging the flaw as expl\u2026",
+    "title": "CISA flags VMware Aria Operations RCE flaw as exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-gives-govt-agencies-7-days-to-patch-new-fortinet-flaw/": {
     "categories": [
       "Security"
@@ -8435,6 +8527,17 @@
     "source": "BleepingComputer",
     "summary": "Comcast to pay $1.5M fine for vendor breach affecting 270K customers Comcast will pay a $1.5 million fine to settle a Federal Communications Commission investigation into a February 2024 vendor data breach that exposed the personal information of nearly 275,000 customers. [...]",
     "title": "Comcast to pay $1.5M fine for vendor breach affecting 270K customers"
+  },
+  "https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-03T15:01:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Compromised Site Management Panels are a Hot Item in Cybercrime Markets Compromised cPanel credentials are being sold in bulk across underground channels as plug-and-play phishing and scam infrastructure. Flare explains how analyzing 200,000 underground posts reveals a commoditiz\u2026",
+    "title": "Compromised Site Management Panels are a Hot Item in Cybercrime Markets"
   },
   "https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/": {
     "categories": [
@@ -9923,6 +10026,18 @@
     "summary": "Google Chrome adds new security layer for Gemini AI agentic browsing Google Chrome is introducing a new security architecture designed to protect upcoming agentic AI browsing features powered by Gemini. [...]",
     "title": "Google Chrome adds new security layer for Gemini AI agentic browsing"
   },
+  "https://www.bleepingcomputer.com/news/security/google-chrome-shifts-to-two-week-release-cycle-for-increased-stability/": {
+    "categories": [
+      "Security",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-03-03T17:00:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google Chrome shifts to two-week release cycle for increased stability Google Chrome will shift from a four-week to a two-week release cycle to roll out new features, bug fixes, and performance improvements more frequently. [...]",
+    "title": "Google Chrome shifts to two-week release cycle for increased stability"
+  },
   "https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/": {
     "categories": [
       "Security",
@@ -10004,6 +10119,18 @@
     "source": "BleepingComputer",
     "summary": "Google links more Chinese hacking groups to React2Shell attacks Over the weekend, \u200bGoogle's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity \"React2Shell\" remote code execution vulnerability. [...]",
     "title": "Google links more Chinese hacking groups to React2Shell attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/": {
+    "categories": [
+      "Security",
+      "Google"
+    ],
+    "image": "",
+    "published": "2026-03-03T08:19:53+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Android gets patches for Qualcomm zero-day exploited in attacks Google has released security updates to patch 129 Android security vulnerabilities, including an actively exploited zero-day flaw in a Qualcomm display component. [...]",
+    "title": "Android gets patches for Qualcomm zero-day exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/google-patches-first-chrome-zero-day-exploited-in-attacks-this-year/": {
     "categories": [
@@ -10940,6 +11067,17 @@
     "summary": "Ledger customers impacted by third-party Global-e data breach Ledger is informing some customers that their personal data has been exposed after hackers breached the systems of third-party payment processor\u00a0Global-e. [...]",
     "title": "Ledger customers impacted by third-party Global-e data breach"
   },
+  "https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-03T15:40:48+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "LexisNexis confirms data breach as hackers leak stolen files American data analytics company LexisNexis Legal & Professional has confirmed to BleepingComputer that hackers breached its servers and accessed some customer and business information. [...]",
+    "title": "LexisNexis confirms data breach as hackers leak stolen files"
+  },
   "https://www.bleepingcomputer.com/news/security/logitech-confirms-data-breach-after-clop-extortion-attack/": {
     "categories": [
       "Security"
@@ -11338,6 +11476,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft expands Windows restore to more enterprise devices Microsoft now allows more enterprise users to restore their personal settings and Microsoft Store apps from a previous Windows 11 device. [...]",
     "title": "Microsoft expands Windows restore to more enterprise devices"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-03-03T20:59:19+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Hackers abuse OAuth error flows to spread malware Hackers are abusing the legitimate OAuth redirection mechanism to bypass phishing protections in email and browsers to take users to malicious pages. [...]",
+    "title": "Microsoft: Hackers abuse OAuth error flows to spread malware"
   },
   "https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-hardware-accelerated-bitlocker-in-windows-11/": {
     "categories": [
@@ -12313,6 +12463,17 @@
     "source": "BleepingComputer",
     "summary": "ownCloud urges users to enable MFA after credential theft reports File-sharing platform ownCloud warned users today to enable multi-factor authentication (MFA) to block attackers using compromised credentials from stealing their data. [...]",
     "title": "ownCloud urges users to enable MFA after credential theft reports"
+  },
+  "https://www.bleepingcomputer.com/news/security/paint-maker-giant-akzonobel-confirms-cyberattack-on-us-site/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-03T23:00:53+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Paint maker giant AkzoNobel confirms cyberattack on U.S. site The multinational Dutch paint company AkzoNobel has confirmed to BleepingComputer that hackers breached the network of one of its U.S. sites. [...]",
+    "title": "Paint maker giant AkzoNobel confirms cyberattack on U.S. site"
   },
   "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/": {
     "categories": [
@@ -13317,6 +13478,17 @@
     "summary": "Spanish energy giant Endesa discloses data breach affecting customers Spanish energy provider Endesa and its\u00a0Energ\u00eda XXI operator are notifying customers that hackers accessed the company's systems and accessed contract-related information, which includes personal details. [...]",
     "title": "Spanish energy giant Endesa discloses data breach affecting customers"
   },
+  "https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-03T10:50:26+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Star Citizen game dev discloses breach affecting user data Cloud Imperium Games (CIG), the game developer behind Star Citizen and Squadron 42, says attackers breached systems containing some users' personal information in January. [...]",
+    "title": "Star Citizen game dev discloses breach affecting user data"
+  },
   "https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/": {
     "categories": [
       "Security"
@@ -13820,6 +13992,18 @@
     "source": "BleepingComputer",
     "summary": "University of Hawaii Cancer Center hit by ransomware attack \u200bUniversity of Hawaii says a ransomware gang breached its Cancer Center in August 2025, stealing data of study participants, including documents from the 1990s containing Social Security numbers. [...]",
     "title": "University of Hawaii Cancer Center hit by ransomware attack"
+  },
+  "https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-ransomware-attack-affects-nearly-12-million-people/": {
+    "categories": [
+      "Security",
+      "Healthcare"
+    ],
+    "image": "",
+    "published": "2026-03-03T09:48:51+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "UH Cancer Center data breach affects nearly 1.2 million people The University of Hawaii confirmed that a ransomware gang stole the data of nearly 1.2 million individuals in August 2025 after breaching its Cancer Center's Epidemiology Division. [...]",
+    "title": "UH Cancer Center data breach affects nearly 1.2 million people"
   },
   "https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/": {
     "categories": [
@@ -14477,6 +14661,17 @@
     "summary": "Thunderbird adds native support for Microsoft Exchange accounts Thunderbird 145 has been released with full native support for Microsoft Exchange email via the Exchange Web Services (EWS) protocol. [...]",
     "title": "Thunderbird adds native support for Microsoft Exchange accounts"
   },
+  "https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/": {
+    "categories": [
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-03-03T11:44:44+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Amazon: Drone strikes damaged AWS data centers in Middle East Amazon has confirmed that three Amazon Web Services (AWS) data centers in the United Arab Emirates (UAE) and one in Bahrain have been damaged by drone strikes, causing an extensive outage that is still affecting dozens\u2026",
+    "title": "Amazon: Drone strikes damaged AWS data centers in Middle East"
+  },
   "https://www.bleepingcomputer.com/news/technology/cloudflare-blames-this-weeks-massive-outage-on-database-issues/": {
     "categories": [
       "Technology"
@@ -14508,6 +14703,17 @@
     "source": "BleepingComputer",
     "summary": "Cloudflare hit by outage affecting global network services Cloudflare is investigating an outage affecting its global network services, with users encountering \"internal server error\" messages when attempting to access affected websites and online platforms. [...]",
     "title": "Cloudflare hit by outage affecting global network services"
+  },
+  "https://www.bleepingcomputer.com/news/technology/facebook-hit-with-worldwide-outage-stating-accounts-are-unavailable/": {
+    "categories": [
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-03-03T22:38:55+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Facebook accounts unavailable in worldwide outage Social media giant Facebook is currently experiencing a massive worldwide outage, preventing\u00a0users from accessing their accounts. [...]",
+    "title": "Facebook accounts unavailable in worldwide outage"
   },
   "https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/": {
     "categories": [
@@ -15031,6 +15237,15 @@
     "summary": "8-Minute Access: AI Accelerates Breach of AWS Environment The AI-assisted attack, which started with exposed credentials from public S3 buckets, rapidly achieved administrative privilges.",
     "title": "8-Minute Access: AI Accelerates Breach of AWS Environment"
   },
+  "https://www.darkreading.com/cloud-security/ai-agent-workload-identity-crisis": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d24be5a5d5eede1/69a5f3508999bf720c9d53ee/Authentication_Zoonar_GmbH_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-03T12:57:19+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI Agent Overload: How to Solve the Workload Identity Crisis Workloads keep getting more complicated and organizations are struggling to keep up. So what's the play?",
+    "title": "AI Agent Overload: How to Solve the Workload Identity Crisis"
+  },
   "https://www.darkreading.com/cloud-security/ai-agents-swarm-security-complexity": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf93f1e0821b376bb/698e2c405d330e0008bd406d/Agent_Smith_Maximum_Film_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -15506,6 +15721,15 @@
     "source": "darkreading",
     "summary": "ShadowRay 2.0 Turns AI Clusters into Crypto Botnets A threat actor is leveraging a flaw in the Ray framework to hijack AI infrastructure worldwide and distribute a self-propagating cryptomining and data theft botnet.",
     "title": "ShadowRay 2.0 Turns AI Clusters into Crypto Botnets"
+  },
+  "https://www.darkreading.com/cyber-risk/speakeasies-shadow-ai-banning-ai-browsers-fail": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt982b603fcfc4ecee/69a65b9d3149d1f382fdc2eb/ai-hide-kittipong-jirasukhanont-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-03T17:40:21+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Speakeasies to Shadow AI: Banning AI Browsers Will Fail Lessons from history highlight why AI-enabled browsers require controlled enablement.",
+    "title": "Speakeasies to Shadow AI: Banning AI Browsers Will Fail"
   },
   "https://www.darkreading.com/cyber-risk/summarize-ai-buttons-may-be-lying": {
     "categories": [],
@@ -16878,6 +17102,15 @@
     "summary": "'Richter Scale' Model Measures Magnitude of OT Cyber Incidents ICS/OT experts have devised a scoring system for rating the severity and effects of cybersecurity events in operational technology environments.",
     "title": "'Richter Scale' Model Measures Magnitude of OT Cyber Incidents"
   },
+  "https://www.darkreading.com/ics-ot-security/tire-pressure-sensors-silent-tracking": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b777921e2f779f3/69a738c6ec4b2cb365b075b3/tpms_Trong_Nguyen_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-03T20:53:39+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Vehicle Tire Pressure Sensors Enable Silent Tracking Like many other features and systems in modern cars, tire pressure sensors leak sensitive data that can be abused by threat actors.",
+    "title": "Vehicle Tire Pressure Sensors Enable Silent Tracking"
+  },
   "https://www.darkreading.com/identity-access-management-security/enterprise-not-confident-secure-non-human-identities": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5db5ab5d5397f957/668d3825792bbe77be9dd24e/Don_Tait(1300)_2023.png?width=1280&auto=webp&quality=80&disable=upscale",
@@ -17449,6 +17682,15 @@
     "summary": "Poland Energy Survives Attack on Wind, Solar Infrastructure Russia-aligned groups are probable culprits behind the wiper attacks against renewable energy farms, a manufacturer, and a heating and power plant.",
     "title": "Poland Energy Survives Attack on Wind, Solar Infrastructure"
   },
+  "https://www.darkreading.com/threat-intelligence/qualcomm-zero-day-exploited-targeted-android-attacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0b4a36393b1f0b11/69a734e6d3d3bb081d500dbb/Android_robot_Google_Kristoffer_Tripplaar_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-03T20:28:05+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Qualcomm Zero-Day Exploited in Targeted Android Attacks The exploitation activity against CVE-2026-21385, a high-severity memory corruption flaw, could be tied to commercial spyware or nation-state threat groups.",
+    "title": "Qualcomm Zero-Day Exploited in Targeted Android Attacks"
+  },
   "https://www.darkreading.com/threat-intelligence/ramp-forum-seizure-fractures-ransomware-ecosystem": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltffa1374205a8fff7/699f59949f7a850008a87863/Man_at_computer_Aleksei_Gorodenkov_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -17494,6 +17736,15 @@
     "summary": "Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA A user-friendly PhaaS tool beats standard methods for detecting phishing attacks by live-proxying legitimate login sites.",
     "title": "Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA"
   },
+  "https://www.darkreading.com/threat-intelligence/threat-hunter-helped-cops-crack-african-cybercrime-syndicate": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-04T15:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Dark Reading Confidential: This Threat Hunter Helped Cops Bust Up An African Cybercrime Syndicate Dark Reading Confidential Episode 15: Interpol relied on Will Thomas and team to help break up a sprawling cybercrime ring, leading to the arrest of 574 suspects, the recovery of mor\u2026",
+    "title": "Dark Reading Confidential: This Threat Hunter Helped Cops Bust Up An African Cybercrime Syndicate"
+  },
   "https://www.darkreading.com/threat-intelligence/voidlink-linux-malware-ai": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1880c47c131e8c5/6970bd763974e86f534678e3/AI(1800)_NicoElNino_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
@@ -17502,6 +17753,15 @@
     "source": "darkreading",
     "summary": "Complex VoidLink Linux Malware Created by AI Researchers say the advanced framework was built almost entirely by agents, marking a significant evolution in the use of AI to develop wholly original malware.",
     "title": "Complex VoidLink Linux Malware Created by AI"
+  },
+  "https://www.darkreading.com/threat-intelligence/war-pro-iranian-actors-cyberattacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1e42cdf9c23a6955/69a6c775b8555a620ad35369/muhammadtoqeer-iran-cyber-flag-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-03T11:30:31+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "As War Continues, Pro-Iranian Actors Launch Barrage of Cyberattacks Iran and its supporters have taken to cyberspace to retaliate for US-Israeli military action, with an aim to cause economic and physical disruption.",
+    "title": "As War Continues, Pro-Iranian Actors Launch Barrage of Cyberattacks"
   },
   "https://www.darkreading.com/threat-intelligence/whatsapp-eternidade-trojan-self-propagates-brazil": {
     "categories": [],
