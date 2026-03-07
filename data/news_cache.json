@@ -5189,6 +5189,15 @@
     "summary": "Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow Every CISO knows the uncomfortable truth about their Security Operations Center: the people most responsible for catching threats in real time are the people with the least experience. Tier 1 analysts sit at the front l\u2026",
     "title": "Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow"
   },
+  "https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibIdID8bpu83EtYZEGzGQcfnL4Q2mTuhTp95la1d1iDtHqYtujF75TT6TkEmu6C123EIHQNF2P-M-Kj7Z0-3pjvm4CFFqnJ_qOxbgVAGJ7V6rnycpn-O-8v3Mw3dkYcSHSyee7EdPjIEejdoWwUx0YBQXexhtMZ79zQV5rBwbbrvxzoloBcLHoSOY_7Sg-/s1600/telecom.jpg",
+    "published": "2026-03-06T08:22:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks A China-linked advanced persistent threat (APT) actor has been targeting critical telecommunications infrastructure in South America since 2024, targeting Windows and Linux systems and edge \u2026",
+    "title": "China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks"
+  },
   "https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwSnIflppBRH5X_FxN5pZcibA3-KyhW9iDiNGlD76L9B8dFwzLtP5i7FHFzf73XpTAhCLtmQn0JD_fUqgXceUlrCwPgJqbmlkPXi2e_IDggrIHDyJ5HoDzr191LxAbe08arokXZ4FXH5k9NxErepVgiaEkGVfWDWQ2ZWJ8h3mGjySQ-QqTzo02oBdh01Up/s1600/vmware.jpg",
@@ -5279,6 +5288,15 @@
     "summary": "Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome Google has announced a new program in its Chrome browser to ensure that HTTPS certificates are secure against the future risk posed by quantum computers.\n\"To ensure the scalability and efficiency\u2026",
     "title": "Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome"
   },
+  "https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1dAatoZKBR1txy7hG-8XLixhMv5jhZEjgT_asHnTfyxS1KK9tOrJNwk2MSbXOL1ZoH8-18chWJUuLnegz6ByTRQuljhmqPu9W_BxQSQR7n45B1M3D1XHrwkne4uzqurGVkqDhyphenhyphendkfISqLjawr0HzRQX7ZhfXa-jB3hJ5V0oMr3TOebv_rcpcw9I3ym6v1/s1600/cisa.jpg",
+    "published": "2026-03-06T06:30:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Hikvision and Rockwell Automation products to its Known Exploited Vulnerabilities (KEV) catal\u2026",
+    "title": "Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog"
+  },
   "https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg26Zv-2JJHry05kpFUII9FwYbAuuOo0Wcdb3JH31Zkra0fNWVzvjjVEcBkHMlrctkhJbZzTygsEUTtn3vP-0eboH1JfY3x-bGM5-epP8rB610TfRYk4HD9SLZ-rhnFYt-U52xiAurOeGa2SoHVjbjjfpTr8nEpxbteNyzCrIvX8ICcKWNaDHQFFrvi7UQ/s1600/safeline.jpg",
@@ -5288,6 +5306,24 @@
     "summary": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them.\nOn paper, everything looks great: more sign-ups, more sessions, more API calls. But in reality, so\u2026",
     "title": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF"
   },
+  "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGoo0ChP6Wq4Hd0U_DeehQmIN-4DHpRX8YdIY6vSO3kEUeTeILUvJMbAZO2gplvYIYCG_q13wfn_So9SkmjHIFZdwyQZKf0uSyyUMpCV-0uUuptOsPsdAvQQbzBdTAG7zoeX2Zf5L2zrHoY0z-qd5RnNvHsm_R4qaVGKzY440Tkdv2zUJ7y9iUE-UP8Ddl/s1600/iran-hackers.jpg",
+    "published": "2026-03-06T10:23:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor New research from Broadcom's Symantec and Carbon Black Threat Hunter Team has discovered evidence of an Iranian hacking group embedding itself in several U.S. companies' networks, including banks, airpo\u2026",
+    "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor"
+  },
+  "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8H7sofZNyrZMv3vcKOeRa7Rw948uDto8VgAXNO8ZKLjUdzhpZW-ub4M_fxuM631fZplWm8BkPK8OifkblZnbNgFKXUB4PoFXXSeg1D0_olC5lAxQ0KtidSFQHlUvxVn1subQyQtI2qbzhChm0Sm3ADLs9C120EfhvLoBtNLbbtrSiyl3AKcss7u-WT-lS/s1600/clickfix.jpg",
+    "published": "2026-03-06T06:44:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer Microsoft on Thursday disclosed details of a new widespread ClickFix social engineering campaign that has leveraged the Windows Terminal app as a way to activate a sophisticated attack chain and de\u2026",
+    "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer"
+  },
   "https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVaGXK9F-m4oJx6H9HD0gQaOmONLT8sEFgtKmoGO4k6MzjQY-bfbtoGrUcG2k7tH571M_K6Ej7P5Z5vtjuCYsrKU3tRpOE2fkZv_ViiEmjpUeYwwHTB_8oKlQZd2-VysqvPgdvaofwFi13iPjMSe1pjf0nudP2s4YvheFQHwvsQT8neGjKTPq7nA_PPn0x/s1600/ms-login.jpg",
@@ -5296,6 +5332,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets Microsoft on Monday warned of phishing campaigns that employ phishing emails and OAuth URL redirection mechanisms to bypass conventional phishing defenses implemented in email and browsers.\nThe activity, \u2026",
     "title": "Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets"
+  },
+  "https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQjK1KC9p7VWWkeFycROhD4cXTkFws06lICtY2bwCh8m2G8vl20VKnurwKZGiqVLWKxZGBRREcIKUImgupySapsKegJcZjxIYuU5nmLtLBABpnxQIC0ShG0uUbiG0jfRH7IgBTj5COyPK090eD7qof5VnsI2gUG43uLkhdy3EqDCVPguAcBp7HSdASnA9Q/s1600/key-malware.jpg",
+    "published": "2026-03-06T14:33:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT Cybersecurity researchers have disclosed details of a multi-stage malware campaign that uses batch scripts as a pathway to deliver various encrypted remote access trojan (RATs) payloads that correspond to XWo\u2026",
+    "title": "Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT"
   },
   "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html": {
     "categories": [],
@@ -5360,6 +5405,15 @@
     "summary": "Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication Cybersecurity researchers have disclosed details of a new phishing suite called Starkiller that proxies legitimate login pages to bypass multi-factor authentication (MFA) protections.\nIt's adv\u2026",
     "title": "Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication"
   },
+  "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj87js9FM5u5gJgNYbTJGym-RLvB-9rHWoeFBMkLbzvbBgY8aGaMtb_pX5i2-rQz34VbJsQfeOD-GvRJ0yNXUSGjR3vnV7CUt4APOPSwvBNpaF4m64z5OxmNVw0WDaCa3q_KlAjNecBrLurfYPNFC3xiASO71v6k23E77RKyyRujOXUMWHbymxtrVLatdI/s1600/cynomi.jpg",
+    "published": "2026-03-06T10:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity Scaling cybersecurity services as an MSP or MSSP requires technical expertise and a business model that delivers measurable value at scale.\nRisk-based cybersecurity is the foundation of that model. When done\u2026",
+    "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity"
+  },
   "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmX71oTh0PhBoeXrV6BUD7_jQe9VWPqHc60ijUxf4iv8wPE8UeWY8dlDrfbx3-Ut5aNoNQZJ8DH_ADNQGgFL4NbMMcw-IayIe9HXKG3l5EN3-og9LuNqBP452mXpm1HTn3ooWlJ-q4QRqvPJC4gmR0lstJ8KWdQYa2knQ5J69nneIwIRTKKG43fXtcWRXm/s1600/threatsday.jpg",
@@ -5368,6 +5422,15 @@
     "source": "The Hacker News",
     "summary": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More Some weeks in cybersecurity feel routine. This one doesn&rsquo;t.\nSeveral new developments surfaced over the past few days, showing how quickly the threat landscape keeps shifting. Researchers\u2026",
     "title": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More"
+  },
+  "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw7Nnrc1zd-1NJp8aP69eS_s4Ai_GG7Um-ltzX8eO5Jfrnxaq_fj3z5u3k7WUU65b0lmmxd6012MxINWFPC5vZDhznqnIrNEerUiPKbeKEVCTwtRCv2RCwnYa-k_hz4mha_qyOBV9kgvkWw6xlZfNSQYqvhez0T1xJFJXeaCjlYFAAtwt4RrMdmMHHsAU3/s1600/ai-coded-malware.jpg",
+    "published": "2026-03-06T15:11:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India The Pakistan-aligned threat actor known as Transparent Tribe has become the latest hacking group to embrace artificial intelligence (AI)-powered coding tools to strike targets with various impl\u2026",
+    "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India"
   },
   "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html": {
     "categories": [],
@@ -6180,6 +6243,17 @@
     "source": "BleepingComputer",
     "summary": "How to use the new Windows 11 Start menu, now rolling out The Windows Start menu is getting its first major redesign since 2021 and will be rolled\u00a0out to everyone with the November 11 Patch Tuesday update. [...]",
     "title": "How to use the new Windows 11 Start menu, now rolling out"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-03-06T14:21:09+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft 365 Backup to add file-level restore for faster recovery Microsoft will soon begin rolling out a significant upgrade to Microsoft 365 Backup to speed up recovery by allowing administrators to restore individual files and folders. [...]",
+    "title": "Microsoft 365 Backup to add file-level restore for faster recovery"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-admin-center-in-north-america/": {
     "categories": [
@@ -8412,6 +8486,19 @@
     "summary": "CISA warns of Akira ransomware Linux encryptor targeting Nutanix VMs US government agencies are warning that the Akira ransomware operation has been spotted encrypting Nutanix AHV virtual machines in attacks.\u00a0 [...]",
     "title": "CISA warns of Akira ransomware Linux encryptor targeting Nutanix VMs"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/": {
+    "categories": [
+      "Security",
+      "Apple",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-03-06T15:57:16+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "CISA warns feds to patch iOS flaws exploited in crypto-theft attacks CISA ordered U.S. federal agencies to patch three iOS security flaws targeted in cyberespionage and crypto-theft attacks using the Coruna exploit kit. [...]",
+    "title": "CISA warns feds to patch iOS flaws exploited in crypto-theft attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-chinese-brickstorm-malware-attacks-on-vmware-servers/": {
     "categories": [
       "Security"
@@ -8703,6 +8790,18 @@
     "source": "BleepingComputer",
     "summary": "Code beautifiers expose credentials from banks, govt, tech orgs Thousands of credentials, authentication keys, and configuration data impacting organizations in sensitive sectors have been sitting in publicly accessible JSON snippets submitted to the JSONFormatter and CodeBeautif\u2026",
     "title": "Code beautifiers expose credentials from banks, govt, tech orgs"
+  },
+  "https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/": {
+    "categories": [
+      "Security",
+      "Healthcare"
+    ],
+    "image": "",
+    "published": "2026-03-06T19:50:21+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Cognizant TriZetto breach exposes health data of 3.4 million patients TriZetto Provider Solutions, a healthcare IT company that develops software and services used by health insurers and healthcare providers, has suffered a data breach that exposed the sensitive information of ov\u2026",
+    "title": "Cognizant TriZetto breach exposes health data of 3.4 million patients"
   },
   "https://www.bleepingcomputer.com/news/security/coinbase-confirms-insider-breach-linked-to-leaked-support-tool-screenshots/": {
     "categories": [
@@ -9332,6 +9431,17 @@
     "summary": "Dutch police seizes 250 servers used by \u201cbulletproof hosting\u201d service The police in the Netherlands have seized around 250 physical servers powering a bulletproof hosting service in the country used exclusively by cybercriminals for providing complete anonymity. [...]",
     "title": "Dutch police seizes 250 servers used by \u201cbulletproof hosting\u201d service"
   },
+  "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-06T15:00:10+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security EC-Council, creator of the world-renowned Certified Ethical Hacker (CEH) credential and a global leader in applied cybersecurity education, today launched its Enterprise AI Creden\u2026",
+    "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security"
+  },
   "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/": {
     "categories": [
       "Security"
@@ -9625,6 +9735,17 @@
     "summary": "Fake Calendly invites spoof top brands to hijack ad manager accounts An ongoing phishing campaign impersonates popular brands, such as Unilever, Disney, MasterCard, LVMH, and Uber, in Calendly-themed lures to steal Google Workspace and Facebook business account credentials. [...]",
     "title": "Fake Calendly invites spoof top brands to hijack ad manager accounts"
   },
+  "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-06T15:00:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Fake Claude Code install guides push infostealers in InstallFix attacks Threat actors are employing a new variation of the ClickFix social engineering technique called InstallFix to convince users into running malicious commands under the pretext of installing legitimate command \u2026",
+    "title": "Fake Claude Code install guides push infostealers in InstallFix attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/": {
     "categories": [
       "Security"
@@ -9745,6 +9866,17 @@
     "source": "BleepingComputer",
     "summary": "FBI: Cybercriminals stole $262M by impersonating bank support teams The FBI warns of a surge in account takeover (ATO) fraud schemes and says that cybercriminals impersonating various financial institutions have stolen over $262 million in ATO attacks since the start of the year.\u2026",
     "title": "FBI: Cybercriminals stole $262M by impersonating bank support teams"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-06T08:44:53+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "FBI investigates breach of surveillance and wiretap systems The U.S. Federal Bureau of Investigation (FBI) confirmed on Thursday that it's investigating a breach that affected systems used to manage surveillance and wiretap warrants. [...]",
+    "title": "FBI investigates breach of surveillance and wiretap systems"
   },
   "https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/": {
     "categories": [
@@ -10157,6 +10289,17 @@
     "source": "BleepingComputer",
     "summary": "Germany warns of Signal account hijacking targeting senior figures Germany's domestic intelligence agency is warning of\u00a0suspected state-sponsored threat actors targeting high-ranking individuals in phishing attacks via messaging apps like Signal. [...]",
     "title": "Germany warns of Signal account hijacking targeting senior figures"
+  },
+  "https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-06T10:08:00+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Ghanain man pleads guilty to role in $100 million fraud ring A Ghanaian national pleaded guilty to his role in a massive fraud ring that stole over $100 million from victims across the United States through business email compromise attacks and romance scams. [...]",
+    "title": "Ghanain man pleads guilty to role in $100 million fraud ring"
   },
   "https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/": {
     "categories": [
@@ -15269,6 +15412,15 @@
     "summary": "Top Cyber Industry Defenses Spike CO2 Emissions Organizations can improve their climate footprints by optimizing two specific cybersecurity protections, without incurring added risks.",
     "title": "Top Cyber Industry Defenses Spike CO2 Emissions"
   },
+  "https://www.darkreading.com/application-security/cyberattack-mexico-government-ai-threat": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1854eb639d790fee/69aa08c3ae1ef20c7e144273/mexico-code-flag-mr_tigga-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-06T13:37:31+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Cyberattack on Mexico's Gov't Agencies Highlight AI Threat Using Anthropic's Claude, OpenAI's ChatGPT, and a detailed playbook prompt, a handful of cyberattackers reportedly gained access to government agencies and its citizens' data.",
+    "title": "Cyberattack on Mexico's Gov't Agencies Highlight AI Threat"
+  },
   "https://www.darkreading.com/application-security/dark-reading-opens-state-appsec-survey": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte32ef2932d7a4117/66a95345fd20b827be022197/survey(1800)_Yuri_Arcurs_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -15920,6 +16072,15 @@
     "source": "darkreading",
     "summary": "Emerging Chiplet Designs Spark Fresh Cybersecurity Challenges As scaled-down circuits with limited functions redefine computing for AI systems and autonomous vehicles, their flexibility demands new approaches to safeguard critical infrastructure.",
     "title": "Emerging Chiplet Designs Spark Fresh Cybersecurity Challenges"
+  },
+  "https://www.darkreading.com/cyber-risk/eu-auto-rules-shift-gears-on-cybersecurity-standards": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0545789d5e2ff1e7/698ce0c84229558aa7937805/car-Henrik5000-iStock_15613460_MEDIUM.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-06T15:05:55+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "EU Auto Rules Shift Gears on Cybersecurity Standards The European Union is taking new precautions as climate change and cybersecurity threats rise across the automotive industry.",
+    "title": "EU Auto Rules Shift Gears on Cybersecurity Standards"
   },
   "https://www.darkreading.com/cyber-risk/gcve-raises-concerns-fragmentation-vulnerability-database": {
     "categories": [],
@@ -17960,6 +18121,15 @@
     "summary": "Dormant Iran APT is Still Alive, Spying on Dissidents &quot;Prince of Persia&quot; has rewritten the rules of persistence with advanced operational security and cryptographic communication with its command-and-control server.",
     "title": "Dormant Iran APT is Still Alive, Spying on Dissidents"
   },
+  "https://www.darkreading.com/threat-intelligence/iran-cyber-kinetic-war-doctrine": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eeed82d85c4d408/69a9db89c9e307dd41c77404/Man_installs_surveillance_camera_ronstik_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-06T14:01:11+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Iran's Cyber-Kinetic War Doctrine Takes Shape Iran has been hacking IP cameras to plan missile strikes against its enemies, and mounting other attacks on physical assets, showing how cyber and kinetic warfare are fast becoming one in the same.",
+    "title": "Iran's Cyber-Kinetic War Doctrine Takes Shape"
+  },
   "https://www.darkreading.com/threat-intelligence/iran-exploits-cyber-domain-kinetic-strikes": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef7b4ec1e1c7853d/692626d3d3d2e2547daa1fea/iran-digital-flag-Skorzewiak-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -18063,6 +18233,15 @@
     "source": "darkreading",
     "summary": "'MuddyWater' Hackers Target Israeli Orgs With Retro Game Tactic Iran's top state-sponsored APT is usually rather crass. But in a recent spate of attacks, it tried out some interesting evasion tactics, including delving into Snake, an old-school mobile game.",
     "title": "'MuddyWater' Hackers Target Israeli Orgs With Retro Game Tactic"
+  },
+  "https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt44c6eb78f3aab98e/69aa04d85a9d9c2894be4925/Robot_workers-Kittipong_Jirasukhanont-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-06T17:49:02+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "North Korean APTs Use AI to Enhance IT Worker Scams DPRK worker scams are old hat, but they're still working, thanks to AI tools that help with everything from face swapping to daily emails.",
+    "title": "North Korean APTs Use AI to Enhance IT Worker Scams"
   },
   "https://www.darkreading.com/threat-intelligence/north-koreas-unc1069-hammers-crypto-firms": {
     "categories": [],
