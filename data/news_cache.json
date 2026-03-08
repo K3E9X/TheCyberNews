@@ -11918,6 +11918,17 @@
     "summary": "Microsoft: Hackers abuse OAuth error flows to spread malware Hackers are abusing the legitimate OAuth redirection mechanism to bypass phishing protections in email and browsers to take users to malicious pages. [...]",
     "title": "Microsoft: Hackers abuse OAuth error flows to spread malware"
   },
+  "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-07T15:15:25+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Hackers abusing AI at every stage of cyberattacks Microsoft says threat actors are increasingly using artificial intelligence in their operations to accelerate attacks, scale malicious activity, and lower technical barriers across all aspects of a cyberattack. [...]",
+    "title": "Microsoft: Hackers abusing AI at every stage of cyberattacks"
+  },
   "https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-hardware-accelerated-bitlocker-in-windows-11/": {
     "categories": [
       "Security",
@@ -14076,6 +14087,17 @@
     "source": "BleepingComputer",
     "summary": "Telegram channels expose rapid weaponization of SmarterMail flaws Underground Telegram channels shared SmarterMail exploit PoCs and stolen admin credentials within days of disclosure. Flare explains how monitoring these communities reveals rapid weaponization of CVE-2026-24423 an\u2026",
     "title": "Telegram channels expose rapid weaponization of SmarterMail flaws"
+  },
+  "https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-07T16:14:32+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Termite ransomware breaches linked to ClickFix CastleRAT attacks Ransomware threat actors tracked as Velvet Tempest are using the ClickFix technique and legitimate Windows utilities to deploy the DonutLoader malware and the CastleRAT backdoor. [...]",
+    "title": "Termite ransomware breaches linked to ClickFix CastleRAT attacks"
   },
   "https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/": {
     "categories": [
@@ -17409,6 +17431,15 @@
     "summary": "CrowdStrike to Buy SGNL to Expand Identity Security Capabilities The CrowdStrike-SGNL deal underscores how identity security has become a critical component of enterprise cybersecurity as companies add cloud services and deploy AI-driven tools.",
     "title": "CrowdStrike to Buy SGNL to Expand Identity Security Capabilities"
   },
+  "https://www.darkreading.com/endpoint-security/cylake-offers-ai-native-security-without-relying-on-cloud-services": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7522685c1c420303/6680700b9ed8eb1f4010956b/hardware-security_1800_Sergey-Balakhnichev_Alamy-stock-Vector.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-06T19:04:36+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Cylake Offers AI-Native Security Without Relying on Cloud Services Cylake's platform will analyze security data locally and identify potential attacks for organizations concerned about data sovereignty.",
+    "title": "Cylake Offers AI-Native Security Without Relying on Cloud Services"
+  },
   "https://www.darkreading.com/endpoint-security/dprk-vs-code-tunnels-remote-hacking": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd00cfa47e3809f89/69721587b56a7279a9fc182c/northkorea_DD_Images_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -18040,6 +18071,15 @@
     "source": "darkreading",
     "summary": "Enigma Cipher Device Still Holds Secrets for Cyber Pros The Nazi relic's history is riddled with resilience errors, and those lessons still apply to defending against modern cyber threats.",
     "title": "Enigma Cipher Device Still Holds Secrets for Cyber Pros"
+  },
+  "https://www.darkreading.com/threat-intelligence/fig-security-stealth-fix-broken-security-operations": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt684a9419e22f3aa9/67e30c365fe4942452e4a318/ZinetroN-security-operations-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-05T16:55:05+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Fig Security Emerges From Stealth to Fix Broken Security Operations Fig Security's platform traces security data flows end-to-end across SIEMs, pipelines, and response systems to alert teams before infrastructure changes break critical defenses.",
+    "title": "Fig Security Emerges From Stealth to Fix Broken Security Operations"
   },
   "https://www.darkreading.com/threat-intelligence/flaw-hacktivist-ransomware-victims-decrypt-files": {
     "categories": [],
