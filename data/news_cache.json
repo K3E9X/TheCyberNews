@@ -5198,6 +5198,15 @@
     "summary": "Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow Every CISO knows the uncomfortable truth about their Security Operations Center: the people most responsible for catching threats in real time are the people with the least experience. Tier 1 analysts sit at the front l\u2026",
     "title": "Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow"
   },
+  "https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1VI1qz4KwHldnHqAJcopF23x8Jtybzn4Obme0AQPvuP_SDx-vwFks8V70CSb-Gn_BBlONDV7BoK3IrxzxGfUd_3va58XjeoXX81Ix1E7JkcgC2kikZ-nWAawWhE0uU8bURJs1ggtbIG1N_F8VsYIYyjDe5NuF3SAholWy_u6Evu5ROpWGAaIShHZMNiA/s1600/bit.jpg",
+    "published": "2026-03-09T11:45:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Can the Security Platform Finally Deliver for the Mid-Market? Mid-market organizations are constantly striving to achieve security levels on a par with their enterprise peers. With heightened awareness of supply chain attacks, your customers and business partners are defining the\u2026",
+    "title": "Can the Security Platform Finally Deliver for the Mid-Market?"
+  },
   "https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibIdID8bpu83EtYZEGzGQcfnL4Q2mTuhTp95la1d1iDtHqYtujF75TT6TkEmu6C123EIHQNF2P-M-Kj7Z0-3pjvm4CFFqnJ_qOxbgVAGJ7V6rnycpn-O-8v3Mw3dkYcSHSyee7EdPjIEejdoWwUx0YBQXexhtMZ79zQV5rBwbbrvxzoloBcLHoSOY_7Sg-/s1600/telecom.jpg",
@@ -5207,6 +5216,15 @@
     "summary": "China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks A China-linked advanced persistent threat (APT) actor has been targeting critical telecommunications infrastructure in South America since 2024, targeting Windows and Linux systems and edge \u2026",
     "title": "China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks"
   },
+  "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH49NW0X18R8bc0fzFm6aPt92f15pxPq-HLMfyFmsApiXvZEsCn4z9qNQErHHvW34SFXKUPWy7mK70hM06Ld6Cxa4DioW7xjV9jnMamMF3DDKIQ39VwJhvq7l4bO79yzGp8huA6ewRk-XdWvJSeYT8fs16PdOa9BSxdbzw0hIwC1PVxh9uY5L0Wx3nNMAL/s1600/chrome-malware.jpg",
+    "published": "2026-03-09T10:28:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft Two Google Chrome extensions have turned malicious after what appears to be a case of ownership transfer, offering attackers a way to push malware to downstream customers, inject arb\u2026",
+    "title": "Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft"
+  },
   "https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwSnIflppBRH5X_FxN5pZcibA3-KyhW9iDiNGlD76L9B8dFwzLtP5i7FHFzf73XpTAhCLtmQn0JD_fUqgXceUlrCwPgJqbmlkPXi2e_IDggrIHDyJ5HoDzr191LxAbe08arokXZ4FXH5k9NxErepVgiaEkGVfWDWQ2ZWJ8h3mGjySQ-QqTzo02oBdh01Up/s1600/vmware.jpg",
@@ -5215,6 +5233,15 @@
     "source": "The Hacker News",
     "summary": "CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabili\u2026",
     "title": "CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog"
+  },
+  "https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ3Jqmj7G6SohXnwkh-xbheyTYoylchcxew5kAJKo9InrbQ0QqVtNQ2hgFc5UuSyQ7sljAfkAlfMzlclT3LQetQdmpqqm3vyb9sZQO2QogQ55M8CpUjCAPMWXEYbtQHbT93Cg7cpWNH2Zq5RtU1T515FT_OAfFKj50HXF8Uwb1VgkLHIhjd-vNZWPRKQdf/s1600/cisa-kev.jpg",
+    "published": "2026-03-10T06:17:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitat\u2026",
+    "title": "CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited"
   },
   "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html": {
     "categories": [],
@@ -5323,6 +5350,15 @@
     "source": "The Hacker News",
     "summary": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor New research from Broadcom's Symantec and Carbon Black Threat Hunter Team has discovered evidence of an Iranian hacking group embedding itself in several U.S. companies' networks, including banks, airpo\u2026",
     "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor"
+  },
+  "https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWahQ89p408qBpZO2cmP-m44fNG_BRHT34hjfmDGn2WhALZRls9d94ap8uK0ZYXj1JjAgxdDogTHv_1PHloweK3RtglJheCsgulTB0-KrYOgUFI3Gvp4FJiPaV33FVa8I5bl-v92O1IephSEiV_FMU010of5pnmgMQ0ZmBuvY4yC0Bl0ndth42P924uxR/s1600/openclaw.jpg",
+    "published": "2026-03-09T18:31:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials Cybersecurity researchers have discovered a malicious npm package that masquerades as an OpenClaw installer to deploy a remote access trojan (RAT) and steal sensitive data from compromised ho\u2026",
+    "title": "Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials"
   },
   "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html": {
     "categories": [],
@@ -5450,6 +5486,15 @@
     "summary": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India The Pakistan-aligned threat actor known as Transparent Tribe has become the latest hacking group to embrace artificial intelligence (AI)-powered coding tools to strike targets with various impl\u2026",
     "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India"
   },
+  "https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu3lqP8aiEKLJA-l7TChGGULVqWhyphenhyphenMc67vwAHHEK4LkpR5ZlZuFIYWFmmPqdA8VQpGbFPvjwGvDHxkhXmC9xhTWlRCccD9PyU3A08-ahTc87j__u6g7RvgkwNo85LmbffhVRly_r4Sd9iiVdEvjtVvpcw0NiwOM1NfjNFQXx5xquwbd9E1zUUr09SYv_-A/s1600/crypto.jpg",
+    "published": "2026-03-09T14:50:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device The North Korean threat actor known as UNC4899 is suspected to be behind a sophisticated cloud compromise campaign targeting a cryptocurrency organization in 2025 to steal millions of dollars i\u2026",
+    "title": "UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device"
+  },
   "https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBw-CldP1FbyOXvJqoX3p-J6QQbtYRACj95MIqX7KakiKKyLMYE4lYpQm6eY7S5sGhsAp8vYbM2ZwPJT59JdjSnGyybDhNucYaymCijGQfyx_cJwkpBZGQ7Mgk2kiCALQU4qZ6i6q0SPo2cBEQHt8j6XX8RQo3kvQ9mj1W3DVP2ZoNF7ZkF7dsdJD9gVZI/s1600/critical.png",
@@ -5458,6 +5503,15 @@
     "source": "The Hacker News",
     "summary": "Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure High-value organizations located in South, Southeast, and East Asia have been targeted by a Chinese threat actor as part of a years-long campaign.\nThe activity, which has targeted aviation, e\u2026",
     "title": "Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure"
+  },
+  "https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoDPwegKSRDQPO8CYuOJ9gg-wqvYfrwW1Ne0kApS2regCVz9BAJVhPeGCxT8oMd8gnIfNm4-QdgqCXs6VHUDEoS4i66bGo7R52oYjURwGCyG5gPaM-MeWqgTrM5fmKSHJh42NYkPDYQX9v2x97Q2XP1l816qk17OL8ncXwGpRj3AQ-BTjjDZlG1WnbFKDz/s1600/recap-march.jpg",
+    "published": "2026-03-09T13:46:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware Another week in cybersecurity. Another week of \"you've got to be kidding me.\"\nAttackers were busy. Defenders were busy. And somewhere in the middle, a whole lot of people had a very bad Mond\u2026",
+    "title": "\u26a1 Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware"
   },
   "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html": {
     "categories": [],
@@ -7007,6 +7061,18 @@
     "summary": "Microsoft shares workaround for Outlook freezes after Windows update Microsoft shared a temporary workaround for customers experiencing Outlook freezes after installing this month's Windows security updates. [...]",
     "title": "Microsoft shares workaround for Outlook freezes after Windows update"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-03-09T14:10:17+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft still working to fix Windows Explorer white flashes Microsoft has confirmed that it's still working to fully address a known issue that causes bright white flashes when opening the File Explorer on some Windows 11 systems. [...]",
+    "title": "Microsoft still working to fix Windows Explorer white flashes"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/": {
     "categories": [
       "Microsoft"
@@ -7062,6 +7128,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft Teams to let users report messages wrongly flagged as threats Microsoft says that Teams users will be able to report false-positive threat alerts triggered by messages incorrectly flagged as malicious. [...]",
     "title": "Microsoft Teams to let users report messages wrongly flagged as threats"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-03-09T17:12:49+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Teams will tag third-party bots trying to join meetings Microsoft says Teams will soon automatically tag third-party bots in lobbies, allowing organizers to control whether they can join meetings. [...]",
+    "title": "Microsoft Teams will tag third-party bots trying to join meetings"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-faster-quick-machine-recovery-in-windows-11/": {
     "categories": [
@@ -9459,6 +9536,17 @@
     "summary": "DoorDash hit by new data breach in October exposing user information DoorDash\u00a0has disclosed a\u00a0data breach that hit the food delivery platform\u00a0this October. Beginning yesterday evening, DoorDash, which serves millions of customers across the U.S., Canada, Australia, and New Zealan\u2026",
     "title": "DoorDash hit by new data breach in October exposing user information"
   },
+  "https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-signal-whatsapp-account-hijacking-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-09T21:24:49+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Dutch govt warns of Signal, WhatsApp account hijacking attacks Russian state-sponsored hackers have been linked to an ongoing Signal and WhatsApp phishing campaign targeting government officials, military personnel, and journalists\u00a0to gain access to sensitive messages. [...]",
+    "title": "Dutch govt warns of Signal, WhatsApp account hijacking attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/dutch-police-seizes-250-servers-used-by-bulletproof-hosting-service/": {
     "categories": [
       "Security"
@@ -9533,6 +9621,17 @@
     "source": "BleepingComputer",
     "summary": "Enterprise password security and secrets management with Passwork 7 Passwork 7 unifies enterprise password and secrets management in a self-hosted platform. Organizations can automate credential workflows and test the full system with a free trial and up to 50% Black Friday savin\u2026",
     "title": "Enterprise password security and secrets management with Passwork 7"
+  },
+  "https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-09T19:07:50+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Ericsson US discloses data breach after service provider hack Ericsson Inc., the U.S. subsidiary of Swedish networking and telecommunications giant Ericsson, says attackers have stolen data belonging to an undisclosed number of employees and customers after hacking one of its ser\u2026",
+    "title": "Ericsson US discloses data breach after service provider hack"
   },
   "https://www.bleepingcomputer.com/news/security/escan-confirms-update-server-breached-to-push-malicious-update/": {
     "categories": [
@@ -9971,6 +10070,17 @@
     "source": "BleepingComputer",
     "summary": "FBI warns about Kimsuky hackers using QR codes to phish U.S. orgs The North Korean state-sponsored hacker group Kimsuki is using malicious\u00a0QR codes in spearphishing campaigns that target U.S. organizations, the Federal Bureau of Investigation warns in a flash alert. [...]",
     "title": "FBI warns about Kimsuky hackers using QR codes to phish U.S. orgs"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-09T15:30:50+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "FBI warns of phishing attacks impersonating US city, county officials The Federal Bureau of Investigation (FBI) warns that criminals are impersonating U.S. officials in phishing attacks targeting businesses and individuals who request city and county planning and zoning permits. \u2026",
+    "title": "FBI warns of phishing attacks impersonating US city, county officials"
   },
   "https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/": {
     "categories": [
@@ -10460,6 +10570,18 @@
     "source": "BleepingComputer",
     "summary": "Google Chrome shifts to two-week release cycle for increased stability Google Chrome will shift from a four-week to a two-week release cycle to roll out new features, bug fixes, and performance improvements more frequently. [...]",
     "title": "Google Chrome shifts to two-week release cycle for increased stability"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/": {
+    "categories": [
+      "Security",
+      "Cloud"
+    ],
+    "image": "",
+    "published": "2026-03-09T21:45:34+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Google: Cloud attacks exploit flaws more than weak credentials Hackers are increasingly exploiting newly disclosed vulnerabilities in third-party software to gain initial access to cloud environments, with the window for attacks shrinking from weeks to just days. [...]",
+    "title": "Google: Cloud attacks exploit flaws more than weak credentials"
   },
   "https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/": {
     "categories": [
@@ -12048,6 +12170,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft Store Outlook add-in hijacked to steal 4,000 Microsoft accounts The AgreeTo add-in for Outlook has been hijacked and turned into a phishing kit that stole more than 4,000 Microsoft account credentials. [...]",
     "title": "Microsoft Store Outlook add-in hijacked to steal 4,000 Microsoft accounts"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-09T22:50:38+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Teams phishing targets employees with A0Backdoor malware Hackers contacted employees at\u00a0financial and healthcare organizations over Microsoft Teams to trick them into granting remote access through Quick Assist and deploy a new piece of malware called A0Backdoor. [...]",
+    "title": "Microsoft Teams phishing targets employees with A0Backdoor malware"
   },
   "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-warn-of-suspicious-traffic-with-external-domains/": {
     "categories": [
@@ -13813,6 +13946,17 @@
     "summary": "ShinyHunters claim to be behind SSO-account data theft attacks The ShinyHunters extortion gang claims it is behind a wave of ongoing voice phishing attacks targeting single sign-on (SSO) accounts at Okta, Microsoft, and Google, enabling threat actors to breach corporate SaaS plat\u2026",
     "title": "ShinyHunters claim to be behind SSO-account data theft attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-09T17:12:22+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "ShinyHunters claims ongoing Salesforce Aura data theft attacks Salesforce is warning customers that hackers are targeting websites with misconfigured Experience Cloud platforms that give guest users access to more data than intended. However, the ShinyHunters extortion gang claim\u2026",
+    "title": "ShinyHunters claims ongoing Salesforce Aura data theft attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/": {
     "categories": [
       "Security"
@@ -15013,6 +15157,17 @@
     "summary": "Why Active Directory password resets are surging in hybrid work Hybrid work has driven a surge in Active Directory password resets, turning minor lockouts into major productivity drains. Specops shows why remote access, cached credentials, and security policies are fueling the sp\u2026",
     "title": "Why Active Directory password resets are surging in hybrid work"
   },
+  "https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-09T14:10:20+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Why Password Audits Miss the Accounts Attackers Actually Want Password audits often focus on complexity rules but miss the accounts attackers actually target. Specops Software explains how breached passwords, orphaned users, and service accounts can leave organizations exposed. [\u2026",
+    "title": "Why Password Audits Miss the Accounts Attackers Actually Want"
+  },
   "https://www.bleepingcomputer.com/news/security/why-password-controls-still-matter-in-cybersecurity/": {
     "categories": [
       "Security"
@@ -15394,6 +15549,15 @@
     "source": "darkreading",
     "summary": "Attackers Use Windows Screensavers to Drop Malware, RMM Tools By tapping the unusual .scr file type, attackers leverage &quot;executables that don't always receive executable-level controls,&quot; one researcher noted.",
     "title": "Attackers Use Windows Screensavers to Drop Malware, RMM Tools"
+  },
+  "https://www.darkreading.com/application-security/auto-remediation-agentic-ai": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt059bb5b901f83e55/69a9e7ddfa2e53821cf76b97/Agenic_AI_Pattara_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-09T20:13:01+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Are We Ready for Auto Remediation With Agentic AI? With the rapid innovations in AI, we are entering an exciting era of automated risk remediation. Learn about security team readiness to leverage agentic AI for threat and exposure management.",
+    "title": "Are We Ready for Auto Remediation With Agentic AI?"
   },
   "https://www.darkreading.com/application-security/automaker-secures-supply-chain-developer-friendly-platform": {
     "categories": [],
@@ -15895,6 +16059,15 @@
     "source": "darkreading",
     "summary": "Here's What Cloud Security's Future Holds for the Year Ahead Here are the top cloud security trends I'm seeing in my crystal ball for the New Year \u2014 particularly arming us for AI adoption.",
     "title": "Here's What Cloud Security's Future Holds for the Year Ahead"
+  },
+  "https://www.darkreading.com/cloud-security/installfix-attacks-fake-claude-code": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9ef0393a6c2b5267/69af1dcdda78b900084831b6/claude_RalfLiebhold_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-09T20:42:25+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "'InstallFix' Attacks Spread Fake Claude Code Sites A fresh cyberattack campaign blends malvertising with a ClickFix-style technique that highlights risky behavior with AI coding assistants and command-line interfaces.",
+    "title": "'InstallFix' Attacks Spread Fake Claude Code Sites"
   },
   "https://www.darkreading.com/cloud-security/lack-mfa-common-thread-vast-cloud-credential-heist": {
     "categories": [],
@@ -17364,6 +17537,15 @@
     "summary": "US Stands Out in Refusal to Sign UN Cybercrime Treaty The agreement aims to help law enforcement prosecute cross-border cybercrime, but the final treaty could allow unchecked surveillance and human-rights abuses, critics say; and, it includes no protection for pen testers.",
     "title": "US Stands Out in Refusal to Sign UN Cybercrime Treaty"
   },
+  "https://www.darkreading.com/cybersecurity-operations/white-house-cyber-strategy-prioritizes-offense": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt63e0819f18d54938/69af271b9341160008255f90/uscyber_Skorzewiak_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-09T21:09:12+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "White House Cyber Strategy Prioritizes Offense In a seven-page strategy document, the Trump administration signaled a shift to preemption and deterrence to handling cyber threats.",
+    "title": "White House Cyber Strategy Prioritizes Offense"
+  },
   "https://www.darkreading.com/cybersecurity-operations/why-you-should-train-your-soc-like-triathlete": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0ddc5f78fbb40924/694299f6211d3e3993e91d11/racing-H18PDW_Photography-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -18058,6 +18240,15 @@
     "source": "darkreading",
     "summary": "China's Silver Dragon Razes Governments in EU, SE Asia The emerging actor, part of the APT41 nexus, gains initial access via phishing, and uses legitimate network services to obscure cyber espionage activities.",
     "title": "China's Silver Dragon Razes Governments in EU, SE Asia"
+  },
+  "https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf0d61d4a1a19c799/69aebbfbc2ecdb000882580f/spy-Brian-Jackson-Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-09T12:05:06+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Chinese Cyber Threat Lurks In Critical Asian Sectors for Years An undefined Chinese-speaking actor wields a combo of custom malware, open source tools, and LOTL binaries against Windows and Linux, likely for spying.",
+    "title": "Chinese Cyber Threat Lurks In Critical Asian Sectors for Years"
   },
   "https://www.darkreading.com/threat-intelligence/cisa-hidden-ransomware-updates-kev-catalog": {
     "categories": [],
