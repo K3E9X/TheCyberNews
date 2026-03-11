@@ -5180,6 +5180,15 @@
     "summary": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, according to new findings from Akamai.\nThe vulnerabi\u2026",
     "title": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday"
   },
+  "https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-By3tHSMSOxuaRiOmtalZ7sltfDCZ-ZfA-SYEQ6RVae4iQoVJVeUZU380kIIgrdAnFkX516x6OdctG7NCgL3zNSSENMqgc1iNcSC48aIJ3sx7eAK1-5rGqPu00i5rfPpvxOQ9I9R-v1fPL-i_i0kreyvQ3a0WuneswNUZgnhaTKq6fFu3me-1TopHYcl1/s1600/Ukrainian-malware.jpg",
+    "published": "2026-03-10T10:55:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military The Russian state-sponsored hacking group tracked as APT28 has been observed using a pair of implants dubbed BEARDSHELL and COVENANT to facilitate long\u2011term surveillance of Ukrainian military personnel.\nThe t\u2026",
+    "title": "APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military"
+  },
   "https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGPaqQJe-7ak-qgx29_h6G7zUiJhGiBSHZEiydrRzZzuKVlVMBzrJNLFndAvmu15EzX2SXQ8NUHKyH9ZJDQRQMnXukmrUfdPor35gswSxUuTNGGXo7h8eOhDNBVAaCGEo_ohNYv2-8W-zpOuSSHYqCB5iURwesotjNTK9a3926UdkuqI2uz-zUBMzNP5cU/s1600/dragon.jpg",
@@ -5306,6 +5315,24 @@
     "summary": "FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials A joint law enforcement operation has dismantled LeakBase, one of the world's largest online forums for cybercriminals to buy and sell stolen data and cybercrime tools.\nThe LeakBase forum, per the U.S. Departme\u2026",
     "title": "FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials"
   },
+  "https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzAdo0qx6xgUYxpWZkp4v30357zGX7ojSkN1vbfazb6D_JiXd9ksAHFNZJzY6pleKYV_HeYZcgJ48U36zUMPSJFR9bPUvFz18THXzTTnvhembJW9wrCypxj_2ttelgwbBwOD__5Yr-WGIBw1XthSLi6UZy3QtLZfmt7j_P8fOxZmm0PQwPAMCtNKkQzz1n/s1600/rust.jpg",
+    "published": "2026-03-11T05:12:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets Cybersecurity researchers have discovered five malicious Rust crates that masquerade as time-related utilities to transmit .env file data to the threat actors.\nThe Rust packages, published to\u2026",
+    "title": "Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets"
+  },
+  "https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaob2yqCn3sfdJzP_Cg84pqsU3I0R7XKt1LiMZLkgr3o3IHIWwarYiLwvqGKig4ZFF4-Hdc2hq79QyM_xSbyGp2CsGZNA4X1ZHjxaY0NUeiFjBEMtbQHD45QQzSTtGTzJP8z7EfsJYnikYmV4dipwkSniPMgPaboch1EP4S-lmtjvrJ9eY-WcfWHMsOB89/s1600/fortinet-exploit.jpg",
+    "published": "2026-03-10T16:21:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances as entry points to breach victim networks.&n\u2026",
+    "title": "FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials"
+  },
   "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR_pPCmiYZpBkIhumuW9B55rXBX7U9PZto5xPxHsLBbx5EstbqXgUI-XLZkQQV8OCsdaOi5RuSapl0V4LPKX9B_8MDBqSteyX83vXpj7G8-87BBhyphenhyphen75Os_0RhTFWBL_yxr7JVwXXtZ-qdbbugAlw9MoC5mFEx0hfQMncgnDRR8tLlEMXsLiPmim2sTjzNO/s1600/android-exploit.jpg",
@@ -5342,6 +5369,15 @@
     "summary": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them.\nOn paper, everything looks great: more sign-ups, more sessions, more API calls. But in reality, so\u2026",
     "title": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF"
   },
+  "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK9rQgRdibuFYsDbwmp3SukV8rvo2XAcrItRHJVuYOvQd5AQyUUNQlF254t_zArE0rjDNbI-ibkfkezQF394z9u2QQRwCk9vju1yDsQJjYGjbfoNAvvUfM7ZhYl134SLtAYSmx4CtP8n9n0Uyk-DYW9gJ-ci7nGhInnioZMyhH1xT5ySyaXTYJ3nmD_Xo/s1600/ai-agents.jpg",
+    "published": "2026-03-10T16:21:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emails, move data, and even manage software on their o\u2026",
+    "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows"
+  },
   "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGoo0ChP6Wq4Hd0U_DeehQmIN-4DHpRX8YdIY6vSO3kEUeTeILUvJMbAZO2gplvYIYCG_q13wfn_So9SkmjHIFZdwyQZKf0uSyyUMpCV-0uUuptOsPsdAvQQbzBdTAG7zoeX2Zf5L2zrHoY0z-qd5RnNvHsm_R4qaVGKzY440Tkdv2zUJ7y9iUE-UP8Ddl/s1600/iran-hackers.jpg",
@@ -5350,6 +5386,15 @@
     "source": "The Hacker News",
     "summary": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor New research from Broadcom's Symantec and Carbon Black Threat Hunter Team has discovered evidence of an Iranian hacking group embedding itself in several U.S. companies' networks, including banks, airpo\u2026",
     "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor"
+  },
+  "https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL6yjElOGPcYBf276MHunx4KJvvDBj2k0LIMcaz8NZN6c9NM-EPhn5wGG8jiQab-zkwUzGWDNnqMo7F_mIq_HbuS4KKV9TNn3oebk_nWkZKcm3BRT0EIEqut61LgUodpHvtGYBB3bjeT_zJ_TxjxLgmO7DPwaFqXryrkQ7X8BpWz2GucoDtcTcXP6XbLQ_/s1600/router-botnet.jpg",
+    "published": "2026-03-10T16:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet Cybersecurity researchers have discovered a new malware called KadNap that's primarily targeting Asus routers to enlist them into a botnet for proxying malicious traffic.\nThe malware, first detected in the \u2026",
+    "title": "KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet"
   },
   "https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html": {
     "categories": [],
@@ -5395,6 +5440,15 @@
     "source": "The Hacker News",
     "summary": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel Cybersecurity researchers have disclosed details of a now-patched security flaw in Google Chrome that could have permitted attackers to escalate privileges and gain access to local files on the\u2026",
     "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel"
+  },
+  "https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2sHbLX0XUqPu9yr7S5g-qYzWmRx4m_RGqFl4wqfd87nzpCH4RbDGMzdvRIzXLHfGUFtESqDSbXjksDf73X6VqM9kdl0BsgoRGr6luzPooCoRR5oAzQzxyCPU7HMK_JrXS__l0h22_J0JNkveq_OA87M4MvaASKETRpM9lj57aLzm7znLU4OWz6Gs0ZmwT/s1600/looker.jpg",
+    "published": "2026-03-10T13:20:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New \"LeakyLooker\" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries Cybersecurity researchers have disclosed nine cross-tenant vulnerabilities in Google Looker Studio that could have permitted attackers to run arbitrary SQL queries on victims' databases and exfi\u2026",
+    "title": "New \"LeakyLooker\" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries"
   },
   "https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html": {
     "categories": [],
@@ -5467,6 +5521,24 @@
     "source": "The Hacker News",
     "summary": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity Scaling cybersecurity services as an MSP or MSSP requires technical expertise and a business model that delivers measurable value at scale.\nRisk-based cybersecurity is the foundation of that model. When done\u2026",
     "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity"
+  },
+  "https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixfoH6o4IkbYakx1lP-kILdg8glEenVOVdJFyn8cxnNYO9hRSMut-XrsII-HfqY_VuguC1b0yHPueeREjsdS0RpXViN0IhuFYzheblF8avbGI6GILTtyHMF5_nJYPIKFRRYL1staxa_9sYMHRjMkL995yoIJYRW072CQaIWh95cCsLXFFpqg769bN-KFA/s1600/INTRUDER.jpg",
+    "published": "2026-03-10T11:00:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction You can't control when the next critical vulnerability drops. You can control how much of your environment is exposed when it does. The problem is that most teams have more internet-facing exposure than they \u2026",
+    "title": "The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction"
+  },
+  "https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg3WBGF42HjwJCk1bkljwrz8qAZRBc_WKGgu7SuNluRZBhSEGh3JelP6R_I9w64bbi9soVTwDerZux7tknJmttdOS024pbnsAG8a16SYaBubeRlhDIYboq-SBO53ARQ77uWWAUGX6yTZ8AaeWOQMydWFRP-nbunFtTDsmCpqcUvgFBsTpxHYqSi050MtYl/s1600/salesforce.jpg",
+    "published": "2026-03-10T07:17:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool Salesforce has warned of an increase in threat actor activity that's aimed at exploiting misconfigurations in publicly accessible Experience Cloud sites by making use of a customized version of an\u2026",
+    "title": "Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool"
   },
   "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html": {
     "categories": [],
@@ -6548,6 +6620,18 @@
     "summary": "Microsoft: Emergency Windows 10 update fixes ESU enrollment bug Microsoft has released an emergency out-of-band update to address a known issue preventing Windows 10 users from enrolling in the Extended Security Updates (ESU) program. [...]",
     "title": "Microsoft: Emergency Windows 10 update fixes ESU enrollment bug"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-10T15:27:58+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys Microsoft is rolling out passkey support for Microsoft Entra on Windows devices, adding phishing-resistant passwordless authentication via Windows Hello. [...]",
+    "title": "Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-flags-legitimate-emails-as-phishing/": {
     "categories": [
       "Microsoft",
@@ -6758,6 +6842,18 @@
     "summary": "Microsoft links Windows 11 boot failures to failed December 2025 update Microsoft has linked recent reports of Windows 11 boot failures after installing the January 2026 updates to previously failed attempts to install the December 2025 security update, which left systems in an \"\u2026",
     "title": "Microsoft links Windows 11 boot failures to failed December 2025 update"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2026-patch-tuesday-fixes-2-zero-days-79-flaws/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-10T17:49:51+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft March 2026 Patch Tuesday fixes 2 zero-days, 79 flaws Today is Microsoft's March 2026\u00a0Patch Tuesday with security updates for 79 flaws, including 2\u00a0publicly disclosed zero-day vulnerabilities. [...]",
+    "title": "Microsoft March 2026 Patch Tuesday fixes 2 zero-days, 79 flaws"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-soon-allow-it-admins-to-uninstall-copilot-on-managed-devices/": {
     "categories": [
       "Microsoft"
@@ -6959,6 +7055,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft releases Windows 10 KB5075912 extended security update Microsoft has released the Windows 10 KB5075912 extended security update to fix February 2026 Patch Tuesday vulnerabilities, including six zero-days, and continue rolling out replacements for expiring Secure Boot ce\u2026",
     "title": "Microsoft releases Windows 10 KB5075912 extended security update"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-03-10T18:23:35+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft releases Windows 10 KB5078885 extended security update Microsoft has released the Windows 10 KB5078885 extended security update to fix the March\u00a02026 Patch Tuesday vulnerabilities, including 2 zero-days and an issue that prevent some devices from shutting down. [...]",
+    "title": "Microsoft releases Windows 10 KB5078885 extended security update"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/": {
     "categories": [
@@ -7207,6 +7314,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft to disable NTLM by default in future Windows releases Microsoft announced that it will disable the 30-year-old NTLM authentication protocol by default in upcoming Windows releases due to\u00a0security vulnerabilities that expose organizations to cyberattacks. [...]",
     "title": "Microsoft to disable NTLM by default in future Windows releases"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-03-10T10:35:33+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft to enable Windows hotpatch security updates by default Microsoft will turn on hotpatch security updates by default for all eligible Windows devices managed through Microsoft Intune and the Microsoft Graph API, beginning with the May 2026 Windows security update. [...]",
+    "title": "Microsoft to enable Windows hotpatch security updates by default"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/": {
     "categories": [
@@ -7550,6 +7668,18 @@
     "source": "BleepingComputer",
     "summary": "Windows 11 KB5077241 update improves BitLocker, adds Sysmon tool Microsoft has released the KB5077241 optional cumulative update for Windows 11, which comes with 29 changes, including improvements to BitLocker, a new network speed test tool, and native System Monitor (Sysmon) fun\u2026",
     "title": "Windows 11 KB5077241 update improves BitLocker, adds Sysmon tool"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079473-and-kb5078883-cumulative-updates-released/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-03-10T17:41:41+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 KB5079473 & KB5078883 cumulative updates released Microsoft has released Windows 11\u00a0KB5079473 and\u00a0KB5078883\u00a0cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+    "title": "Windows 11 KB5079473 & KB5078883 cumulative updates released"
   },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/": {
     "categories": [
@@ -7954,6 +8084,17 @@
     "source": "BleepingComputer",
     "summary": "Apple fixes zero-day flaw used in 'extremely sophisticated' attacks Apple has released security updates to fix a zero-day vulnerability that was exploited in an \"extremely sophisticated attack\" targeting specific individuals. [...]",
     "title": "Apple fixes zero-day flaw used in 'extremely sophisticated' attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-10T10:00:00+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "APT28 hackers deploy customized variant of Covenant open-source tool The Russian state-sponsored APT28 threat group is using a custom variant of the open-source Covenant post-exploitation framework for long-term espionage operations. [...]",
+    "title": "APT28 hackers deploy customized variant of Covenant open-source tool"
   },
   "https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/": {
     "categories": [
@@ -8525,6 +8666,17 @@
     "source": "BleepingComputer",
     "summary": "CISA orders feds to patch Samsung zero-day used in spyware attacks CISA ordered U.S. federal agencies today to patch a critical Samsung vulnerability that has been exploited in zero-day attacks to deploy LandFall spyware on devices running WhatsApp. [...]",
     "title": "CISA orders feds to patch Samsung zero-day used in spyware attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-10T11:36:13+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA: Recently patched Ivanti EPM flaw now actively exploited CISA flagged a high-severity Ivanti Endpoint Manager (EPM) vulnerability as actively exploited in attacks and ordered U.S. federal agencies to patch systems within three weeks. [...]",
+    "title": "CISA: Recently patched Ivanti EPM flaw now actively exploited"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/": {
     "categories": [
@@ -11270,6 +11422,17 @@
     "summary": "How to automate just-in-time access to applications with Tines Managing just-in-time access at scale is a growing IAM challenge as speed and auditability collide daily. Tines shows how automated workflows can grant, track, and revoke temporary app access without manual effort. [.\u2026",
     "title": "How to automate just-in-time access to applications with Tines"
   },
+  "https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-aos-cx-flaw-allowing-admin-password-resets/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-10T17:30:35+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "HPE warns of critical AOS-CX flaw allowing admin password resets Hewlett Packard Enterprise (HPE) has patched multiple security vulnerabilities in the Aruba Networking AOS-CX operating system, including several authentication and code execution issues. [...]",
+    "title": "HPE warns of critical AOS-CX flaw allowing admin password resets"
+  },
   "https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/": {
     "categories": [
       "Security"
@@ -12359,6 +12522,30 @@
     "summary": "New Android malware uses AI to click on hidden browser ads A new family of Android click-fraud trojans leverages TensorFlow machine learning models to automatically detect and interact with specific advertisement elements. [...]",
     "title": "New Android malware uses AI to click on hidden browser ads"
   },
+  "https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-03-10T21:27:59+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New BeatBanker Android malware poses as Starlink app to hijack devices A new Android malware named BeatBanker can hijack devices and tricks users into installing it by posing as a Starlink app on websites masquerading as the official Google Play Store. [...]",
+    "title": "New BeatBanker Android malware poses as Starlink app to hijack devices"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-10T22:57:54+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New \u2018BlackSanta\u2019 EDR killer spotted targeting HR departments For more than a year, a Russian-speaking threat actor targeted\u00a0human resource (HR) departments with malware that delivers a new EDR killer named BlackSanta. [...]",
+    "title": "New \u2018BlackSanta\u2019 EDR killer spotted targeting HR departments"
+  },
   "https://www.bleepingcomputer.com/news/security/new-china-linked-hackers-breach-telcos-using-edge-device-exploits/": {
     "categories": [
       "Security"
@@ -12492,6 +12679,17 @@
     "source": "BleepingComputer",
     "summary": "New \u2018IndonesianFoods\u2019 worm floods npm with 100,000 packages A self-spreading\u00a0package published on npm spams the registry by spawning new packages every every seven seconds, creating large volumes of junk. [...]",
     "title": "New \u2018IndonesianFoods\u2019 worm floods npm with 100,000 packages"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-kadnap-botnet-hijacks-asus-routers-to-fuel-cybercrime-proxy-network/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-10T15:01:57+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New KadNap botnet hijacks ASUS routers to fuel cybercrime proxy network A newly discovered\u00a0botnet malware called KadNap is targeting ASUS routers and other edge networking devices to turn them into proxies for malicious traffic. [...]",
+    "title": "New KadNap botnet hijacks ASUS routers to fuel cybercrime proxy network"
   },
   "https://www.bleepingcomputer.com/news/security/new-keenadu-backdoor-found-in-android-firmware-google-play-apps/": {
     "categories": [
@@ -12725,6 +12923,17 @@
     "source": "BleepingComputer",
     "summary": "New WrtHug campaign hijacks thousands of end-of-life ASUS routers Thousands of ASUS WRT routers, mostly end-of-life or outdated devices, have been hijacked in a global campaign called Operation WrtHug that exploits six vulnerabilities. [...]",
     "title": "New WrtHug campaign hijacks thousands of end-of-life ASUS routers"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-zombie-zip-technique-lets-malware-slip-past-security-tools/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-10T20:05:39+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New 'Zombie ZIP' technique lets malware slip past security tools A new technique dubbed \"Zombie ZIP\" helps conceal payloads in compressed\u00a0files specially created to avoid detection from security solutions such as antivirus and endpoint detection and response (EDR) products. [...]",
+    "title": "New 'Zombie ZIP' technique lets malware slip past security tools"
   },
   "https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/": {
     "categories": [
@@ -14390,6 +14599,17 @@
     "summary": "The hidden risks in your DevOps stack data\u2014and how to address them DevOps repos on GitHub, GitLab, Bitbucket, and Azure DevOps face risks from weak access controls, misconfigurations, outages, and accidental deletions. GitProtect provides automated, immutable backups and fast rec\u2026",
     "title": "The hidden risks in your DevOps stack data\u2014and how to address them"
   },
+  "https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-10T14:02:12+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "The New Turing Test: How Threats Use Geometry to Prove 'Humanness' Malware is evolving to evade sandboxes by pretending to be a real human behind the keyboard. The Picus Red Report 2026 shows 80% of top attacker techniques now focus on evasion and persistence, including geometry-\u2026",
+    "title": "The New Turing Test: How Threats Use Geometry to Prove 'Humanness'"
+  },
   "https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/": {
     "categories": [
       "Security"
@@ -15778,6 +15998,15 @@
     "summary": "Microsoft Fixes Exploited Zero Day in Light Patch Tuesday Proof-of-concept exploit code is publicly available for two other flaws in this month's Patch Tuesday. In total, the company issued patches for more than 1,150 flaws this year.",
     "title": "Microsoft Fixes Exploited Zero Day in Light Patch Tuesday"
   },
+  "https://www.darkreading.com/application-security/microsoft-patches-83-cves-march-update": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt86a60c9129737f3d/69b0ac42fcbe2ddcc580ebd9/patchtuesday_janews_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-11T01:08:31+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Microsoft Patches 83 CVEs in March Update For a change, there's little in this month's Patch Tuesday that should cause panic, according to security experts.",
+    "title": "Microsoft Patches 83 CVEs in March Update"
+  },
   "https://www.darkreading.com/application-security/microsoft-under-pressure-defenses-byovd-attacks": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc47bdfb118e01ac9/698f45e46b7ceb00088481e3/drivers_SamanthaCraddock_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -15830,6 +16059,15 @@
     "source": "darkreading",
     "summary": "OpenClaw's Gregarious Insecurities Make Safe Usage Difficult Malicious &quot;skills&quot; and persnickety configuration settings are just some of the issues that security researchers have found when installing \u2014 and removing \u2014 the OpenClaw AI assistant.",
     "title": "OpenClaw's Gregarious Insecurities Make Safe Usage Difficult"
+  },
+  "https://www.darkreading.com/application-security/overly-permissive-salesforce-cloud-configs-crosshairs": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt96b598e2f309fd1e/69b05f485ab755030092ccd2/Salesforce_logo_SF_JHVEPhoto_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-10T21:05:28+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "'Overly Permissive' Salesforce Cloud Configs in the Crosshairs Some customers have mishandled guest user configurations otherwise intended to allow third-party access to important \u2014 and sensitive \u2014 client data.",
+    "title": "'Overly Permissive' Salesforce Cloud Configs in the Crosshairs"
   },
   "https://www.darkreading.com/application-security/owasp-highlights-supply-chain-risks-new-top-10": {
     "categories": [],
@@ -16429,6 +16667,15 @@
     "summary": "Microsoft Backs Massive AI Push in UAE, Raising Security Concerns In partnership with Emirates tech company G42, Microsoft is building the first stage of a 5-gigawatt US-UAE AI campus using Nvidia GPUs.",
     "title": "Microsoft Backs Massive AI Push in UAE, Raising Security Concerns"
   },
+  "https://www.darkreading.com/cyber-risk/middle-east-conflict-highlights-cloud-resilience-gaps": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt90841fe71714e5f7/69b08bb2d279ae7c82a47b99/cloud-storm-in-desert-ABDULLAHNALMAMARI-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-11T05:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Middle East Conflict Highlights Cloud Resilience Gaps Data centers \u2014 used by both governments and militaries for operations \u2014 are now fair game, not just for cyberattacks, but for kinetic attacks as well.",
+    "title": "Middle East Conflict Highlights Cloud Resilience Gaps"
+  },
   "https://www.darkreading.com/cyber-risk/more-dashboards-ai-decisions-provable": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltacc573d6dd646e71/67852893f2a2afe352092724/MMD_Creative-data-dashboard-metrics-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -16473,6 +16720,15 @@
     "source": "darkreading",
     "summary": "Ransomware Gang Goes Full 'Godfather' With Cartel Since its launch in 2023, DragonForce has pushed a cartel model, emphasizing cooperation and coordination among ransomware gangs.",
     "title": "Ransomware Gang Goes Full 'Godfather' With Cartel"
+  },
+  "https://www.darkreading.com/cyber-risk/sednit-resurfaces-with-sophisticated-new-toolkit": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb0a1e321e37fc6dc/69b069c04f248870f18bc58b/russiancyber_DC_Studio_shuttersstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-10T18:57:55+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Russian Threat Actor Sednit Resurfaces With Sophisticated Toolkit After several years of using simple implants, the Russia-affiliated actor is back with two new sophisticated malware tools.",
+    "title": "Russian Threat Actor Sednit Resurfaces With Sophisticated Toolkit"
   },
   "https://www.darkreading.com/cyber-risk/servicenow-acquire-nhi-provider-veza-strengthen-governance-portfolio": {
     "categories": [],
@@ -18195,6 +18451,15 @@
     "source": "darkreading",
     "summary": "'Reynolds' Bundles BYOVD With Ransomware Payload Researchers discovered a newly disclosed vulnerable driver embedded in Reynolds' ransomware, illustrating the increasing popularity of the defense-evasion technique.",
     "title": "'Reynolds' Bundles BYOVD With Ransomware Payload"
+  },
+  "https://www.darkreading.com/threat-intelligence/blacksanta-edr-killer-hr-workflows": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltba97bdde474d59f9/69b02c2c10c21d00f4563cf1/santa-Tatiana_Koroleva-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-10T13:30:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "'BlackSanta' EDR Killer Targets HR Workflows A campaign by Russian-speaking cyberattackers hijacks workflows to deliver security-busting malware, allowing attackers to steal data without detection.",
+    "title": "'BlackSanta' EDR Killer Targets HR Workflows"
   },
   "https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals": {
     "categories": [],
