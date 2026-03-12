@@ -5243,6 +5243,15 @@
     "summary": "CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabili\u2026",
     "title": "CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog"
   },
+  "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqTMEW2jHKU06jv88QZ06xgVQgmBS6BBQ2qOiIrLlhEJvpDCbje7ou_bIPAxP-N9b90TI7pIKZMotOLtO_3Gi4B3JBRRW8QxuqZtVj8WwFdEMhCdqd-XaTcRFRjBEyGeDeNjznGmw2qUWyHAshjwN8J2FOLhqTzwIS9-X6-G0pm5lUeKuxQegcENT4V8Q0/s1600/cisa-exploit.jpg",
+    "published": "2026-03-12T05:18:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting n8n to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of activ\u2026",
+    "title": "CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed"
+  },
   "https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ3Jqmj7G6SohXnwkh-xbheyTYoylchcxew5kAJKo9InrbQ0QqVtNQ2hgFc5UuSyQ7sljAfkAlfMzlclT3LQetQdmpqqm3vyb9sZQO2QogQ55M8CpUjCAPMWXEYbtQHbT93Cg7cpWNH2Zq5RtU1T515FT_OAfFKj50HXF8Uwb1VgkLHIhjd-vNZWPRKQdf/s1600/cisa-kev.jpg",
@@ -5269,6 +5278,24 @@
     "source": "The Hacker News",
     "summary": "Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13\u201317.2.1 Google said it identified a \"new and powerful\" exploit kit dubbed Coruna (aka CryptoWaters) targeting Apple iPhone models running iOS versions between 13.0 and 17.2.1.\nThe exploit kit featured five\u2026",
     "title": "Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13\u201317.2.1"
+  },
+  "https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMTLKLDP1BIQuPb3-fnJrl5cpfhjHBhFF0Onswskul1eyu4fTPyEpOzUa13oWHQsl-83zPhaSVWBfIDj_RIeaQFrbr9VwCDLVXfUp-QDt5V6Dtd91VvXCO5O0Zm9hPTLOUhbXPQKb6tKdWecJ_ejME8fZX8rQRsRFkg67WdzlSv-g0mOuvhcsFKh9eeG-A/s1600/n8n.jpg",
+    "published": "2026-03-11T14:51:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials Cybersecurity researchers have disclosed details of two now-patched security flaws in the n8n workflow automation platform, including two critical bugs that could result in arbitrary command executi\u2026",
+    "title": "Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials"
+  },
+  "https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcrrEElPNhJ9Cn51FnZPkh9XKFRVQzKwXGWqMzaKySW388TL56lNUbySAgOs9nxMbwCHVmFwxE3UvCVt_H9MtWZfS2euZz9zF-Wrh0mnVf-3kefawk-MvoqjSZd3MOcKzHVgjYWnkWy9iE2Ns-6kauXtWE4K9LJHQdBStJVJHjGCRS4om2dZIHDv7rw3zh/s1600/software-update.jpg",
+    "published": "2026-03-11T12:26:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices SAP has released security updates to address two critical security flaws that could be exploited to achieve arbitrary code execution on affected systems.\nThe vulnerabilities in question listed b\u2026",
+    "title": "Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices"
   },
   "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html": {
     "categories": [],
@@ -5405,6 +5432,24 @@
     "summary": "Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials Cybersecurity researchers have discovered a malicious npm package that masquerades as an OpenClaw installer to deploy a remote access trojan (RAT) and steal sensitive data from compromised ho\u2026",
     "title": "Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials"
   },
+  "https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdiU2byr8OVn_Cvv66sMyUa0QaabpGv0bB1Y7u7BxMAryr4PRdDTQLlPMTavhwTj3aaVkNf9lPeXxnygBDTmm5MDETpEcbyJjpN2dt0yx-8MuEwwWXbZm4g0a6BTFfLOekUzBnjPR2qYkIyOP4K3tHRd8am6YbhYIcbSXYVdTt983cyMtYKbd8BgBsy0lu/s1600/whatsapp.gif",
+    "published": "2026-03-11T13:15:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown Meta on Wednesday said it disabled over 150,000 accounts associated with scam centers in Southeast Asia as part of a coordinated effort in partnership with authorities from Thailand, the U.S., t\u2026",
+    "title": "Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown"
+  },
+  "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipDVdeJebBFVnXLhsh2P4nBqmuh4R-UtLH7ZFvyw1W95zBU4YX4GF6I1WZ7g3ALEq596lEFr6q8iuGZ_PG2D12h67cLuNhCnSplkg_kDNbKyvTJnByhz2WAeAL9YHXCpJp0D3UOnhuydFZ6-jfXi6DLx5upod8egCtZ2lZhmbUzIprEusPyz0efzBMFzFI/s1600/windows-patch.jpg",
+    "published": "2026-03-11T09:15:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days Microsoft on Tuesday released patches for a set of 84 new security vulnerabilities affecting various software components, including two that have been listed as publicly known.\nOf these, eight are r\u2026",
+    "title": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days"
+  },
   "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8H7sofZNyrZMv3vcKOeRa7Rw948uDto8VgAXNO8ZKLjUdzhpZW-ub4M_fxuM631fZplWm8BkPK8OifkblZnbNgFKXUB4PoFXXSeg1D0_olC5lAxQ0KtidSFQHlUvxVn1subQyQtI2qbzhChm0Sm3ADLs9C120EfhvLoBtNLbbtrSiyl3AKcss7u-WT-lS/s1600/clickfix.jpg",
@@ -5495,6 +5540,15 @@
     "summary": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders Most organizations assume encrypted data is safe.\nBut many attackers are already preparing for a future where today\u2019s encryption can be broken. Instead of trying to decrypt information now, they\u2026",
     "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders"
   },
+  "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHkDTAnMilk2AM0Yg71UjZJul-Q0y_QvAqY97sCemt73LNrjo7Rwp7uHjmFpSmeV75WwsRN5tRMdcgACXJFnv7FMOqb9qAnaOoyek1f0KubQtDtdkWZAh6g8ZZXNSwLLmAZYONBXIM-xa9QNbO9qQDI4REUUobzfhTuBJED4ilM5CBA0AmQ6zfyUWpvQDo/s1600/agent.png",
+    "published": "2026-03-11T16:38:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes Agentic web browsers that leverage artificial intelligence (AI) capabilities to autonomously execute actions across multiple websites on behalf of a user could be trained and tricked into fal\u2026",
+    "title": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes"
+  },
   "https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfEU4zf_Kk2z8HBMdkRrw-hKeM6LmC7tBBt_P7K_2rGOfnc15ew5Y9fg4NeeCAMUNfRvcEhbLohCz6-oeONrOsfTnLDk7nEETbgewwLvjyqxprh26CYIpvGexZOvWADe0EutygQFHoGeMCa1sSNRQt-iA5meuqodGe7MK2Lpepa9CUu4PkxeszGIf_pDUH/s1600/malware-attack.jpg",
@@ -5567,6 +5621,15 @@
     "summary": "UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device The North Korean threat actor known as UNC4899 is suspected to be behind a sophisticated cloud compromise campaign targeting a cryptocurrency organization in 2025 to steal millions of dollars i\u2026",
     "title": "UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device"
   },
+  "https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFUREkqLhVFM9jnUqkHPMEmAj2KBdTrXOX_m8t7zEUdK4NE16BBL0XQHZ9q4KPVDfKecgf4KE64vzAW9XDvn6axd6fIU9WZy5Lqe348eT7rKvmsLU3ByDPajxWFlkTt6CQTNkmNv8e57XrvWAaM-YaXtD0QP1-grx4XPtV_Osxw-vjtPfw4A70O5x41yvq/s1600/aws.jpg",
+    "published": "2026-03-11T07:31:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours A threat actor known as UNC6426 leveraged keys stolen following the supply chain compromise of the nx npm package last year to completely breach a victim's cloud environment within a span of 72 hours\u2026",
+    "title": "UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours"
+  },
   "https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBw-CldP1FbyOXvJqoX3p-J6QQbtYRACj95MIqX7KakiKKyLMYE4lYpQm6eY7S5sGhsAp8vYbM2ZwPJT59JdjSnGyybDhNucYaymCijGQfyx_cJwkpBZGQ7Mgk2kiCALQU4qZ6i6q0SPo2cBEQHt8j6XX8RQo3kvQ9mj1W3DVP2ZoNF7ZkF7dsdJD9gVZI/s1600/critical.png",
@@ -5593,6 +5656,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More This week is not about one big event. It shows where things are moving. Network systems, cloud setups, AI tools, and common apps are all being pushed in different ways. Small gaps in access c\u2026",
     "title": "\u26a1 Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More"
+  },
+  "https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsE7iXMy1HxdiC1nv__LhHF82XPreFShxc1GUsFkX9zgXiLwfkFKnVKzKOIYxe3D8_-dQeigLmUpbojS2-9doGrKHcwXhV34J1S1qsK8TzWyo3kymXEHMtML-js6yobbKDk3DXCi7bV2tXjKs_p5KtbvHoyPXEANC0LI5h5fBqIw2poe_O2x-sh4tO4T4/s1600/ai-exploit.jpg",
+    "published": "2026-03-11T11:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "What Boards Must Demand in the Age of AI-Automated Exploitation \u201cYou knew, and you could have acted. Why didn\u2019t you?\u201d&nbsp;\nThis is the question you do not want to be asked. And increasingly, it\u2019s the question leaders are forced to answer after an incident.\nFor years, many execut\u2026",
+    "title": "What Boards Must Demand in the Age of AI-Automated Exploitation"
   },
   "https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html": {
     "categories": [],
@@ -8656,6 +8728,17 @@
     "source": "BleepingComputer",
     "summary": "CISA orders feds to patch Gogs RCE flaw exploited in zero-day attacks CISA has ordered government agencies to secure their systems against a high-severity Gogs vulnerability that was exploited in zero-day attacks. [...]",
     "title": "CISA orders feds to patch Gogs RCE flaw exploited in zero-day attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-11T18:21:15+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA orders feds to patch n8n RCE flaw exploited in attacks The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies on Wednesday to patch their systems against an actively exploited n8n vulnerability. [...]",
+    "title": "CISA orders feds to patch n8n RCE flaw exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-samsung-zero-day-used-in-spyware-attacks/": {
     "categories": [
@@ -12197,6 +12280,17 @@
     "summary": "Medical device maker UFP Technologies warns of data stolen in cyberattack American manufacturer of medical devices, UFP Technologies,\u00a0has disclosed that a cybersecurity incident has compromised its IT systems and data. [...]",
     "title": "Medical device maker UFP Technologies warns of data stolen in cyberattack"
   },
+  "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-11T17:21:22+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Medtech giant Stryker offline after Iran-linked wiper malware attack Leading medical technology company Stryker has been hit by a wiper malware attack claimed by Handala, an Iranian-linked and pro-Palestinian hacktivist group. [...]",
+    "title": "Medtech giant Stryker offline after Iran-linked wiper malware attack"
+  },
   "https://www.bleepingcomputer.com/news/security/meet-shinysp1d3r-new-ransomware-as-a-service-created-by-shinyhunters/": {
     "categories": [
       "Security"
@@ -12217,6 +12311,17 @@
     "source": "BleepingComputer",
     "summary": "Men charged in FanDuel scheme fueled by thousands of stolen identities Two Connecticut men face federal charges for allegedly defrauding FanDuel and other online gambling sites of $3 million over several years using the stolen identities of approximately 3,000 victims. [...]",
     "title": "Men charged in FanDuel scheme fueled by thousands of stolen identities"
+  },
+  "https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-11T13:29:29+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools Meta is introducing new anti-scam protections across its platforms, deploying systems and user-facing warnings to protect users against scammers. [...]",
+    "title": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools"
   },
   "https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/": {
     "categories": [
@@ -12781,6 +12886,17 @@
     "source": "BleepingComputer",
     "summary": "New PDFSider Windows malware deployed on Fortune 100 firm's network Ransomware attackers targeting a Fortune 100 company in the finance sector used a new malware strain, dubbed PDFSider, to deliver malicious payloads on Windows systems. [...]",
     "title": "New PDFSider Windows malware deployed on Fortune 100 firm's network"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-phantomraven-npm-attack-wave-steals-dev-data-via-88-packages/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-11T17:09:42+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "New PhantomRaven NPM attack wave steals dev data via 88 packages New attack waves from the 'PhantomRaven' supply-chain campaign are hitting the npm registry, with dozens of malicious packages that exfiltrate sensitive data from JavaScript developers. [...]",
+    "title": "New PhantomRaven NPM attack wave steals dev data via 88 packages"
   },
   "https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/": {
     "categories": [
@@ -14367,6 +14483,17 @@
     "summary": "Spyware-grade Coruna iOS exploit kit now used in crypto theft attacks A previously undocumented set of 23 iOS exploits named \"Coruna\" has been deployed by multiple threat actors in targeted espionage campaigns and financially motivated attacks. [...]",
     "title": "Spyware-grade Coruna iOS exploit kit now used in crypto theft attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/sqli-flaw-in-elementor-ally-plugin-impacts-250k-plus-wordpress-sites/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-11T19:38:14+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "SQLi flaw in Elementor Ally plugin impacts 250k+ WordPress sites An SQL injection vulnerability in Ally, a WordPress plugin from Elementor for web accessibility and usability with more than 400,000 installations, could be exploited to steal sensitive data without authentication. \u2026",
+    "title": "SQLi flaw in Elementor Ally plugin impacts 250k+ WordPress sites"
+  },
   "https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/": {
     "categories": [
       "Security"
@@ -15322,6 +15449,17 @@
     "summary": "New WhatsApp lockdown feature protects high-risk users from hackers Meta has started rolling out a new WhatsApp lockdown-style security feature designed to protect journalists, public figures, and other high-risk individuals from sophisticated threats, including spyware attacks. \u2026",
     "title": "New WhatsApp lockdown feature protects high-risk users from hackers"
   },
+  "https://www.bleepingcomputer.com/news/security/whatsapp-introduces-parent-managed-accounts-for-pre-teens/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-11T20:06:39+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "WhatsApp introduces parent-managed accounts for pre-teens WhatsApp has begun rolling out parent-managed accounts for pre-teens, allowing parents and guardians to decide who can contact them and which groups they can join. [...]",
+    "title": "WhatsApp introduces parent-managed accounts for pre-teens"
+  },
   "https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/": {
     "categories": [
       "Security"
@@ -16207,6 +16345,15 @@
     "source": "darkreading",
     "summary": "Warlock Gang Breaches SmarterTools Via SmarterMail Bugs The ransomware group breached SmarterTools through a vulnerability in the company's own SmarterMail product.",
     "title": "Warlock Gang Breaches SmarterTools Via SmarterMail Bugs"
+  },
+  "https://www.darkreading.com/application-security/xygeni-github-action-compromised-via-tag-poison": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltca84dfe5b302bfeb/69b1c687e135793785e83b40/Lock_unlock_graphic_Pattara_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-11T20:22:39+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Xygeni GitHub Action Compromised Via Tag Poison Attackers operated an active C2 implant for up to a week and compromised AppSec vendor Xygeni's xygeni/xygeni-action in that time.",
+    "title": "Xygeni GitHub Action Compromised Via Tag Poison"
   },
   "https://www.darkreading.com/cloud-security/8-minute-access-ai-aws-environment-breach": {
     "categories": [],
@@ -18515,6 +18662,15 @@
     "summary": "Chinese Cyber Threat Lurks In Critical Asian Sectors for Years An undefined Chinese-speaking actor wields a combo of custom malware, open source tools, and LOTL binaries against Windows and Linux, likely for spying.",
     "title": "Chinese Cyber Threat Lurks In Critical Asian Sectors for Years"
   },
+  "https://www.darkreading.com/threat-intelligence/chinese-nexus-actors-shift-focus-qatar-iranian-conflict": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb4fac6a91788722a/69b15758ace341be9d4c503f/qatar_hoody_3D_generator_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-11T14:46:51+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Chinese Nexus Actors Shift Focus to Qatar Amid Iranian Conflict Two attacks on Qatari entities signal a shift in focus for China-backed actors and demonstrate how quickly they can pivot in response to geopolitical events.",
+    "title": "Chinese Nexus Actors Shift Focus to Qatar Amid Iranian Conflict"
+  },
   "https://www.darkreading.com/threat-intelligence/cisa-hidden-ransomware-updates-kev-catalog": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt547f81fd7ede8d27/698385ee40f199b6b2c14e50/cisa_TimonSchneider_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -18647,6 +18803,15 @@
     "source": "darkreading",
     "summary": "Threat Intelligence Has a Human-Shaped Blind Spot How I realized what I was taught to about threat intelligence was missing something crucial.",
     "title": "Threat Intelligence Has a Human-Shaped Blind Spot"
+  },
+  "https://www.darkreading.com/threat-intelligence/inc-ransomware-healthcare-oceania": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt345666426f400d25/69b191d934cdd7dc39b13805/Australia_health-JJ_Gouin-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-11T22:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "INC Ransomware Group Holds Healthcare Hostage in Oceania Government agencies, emergency clinics, and others in Australia, New Zealand, and Tonga have had serious run-ins with the prolific ransomware outfit.",
+    "title": "INC Ransomware Group Holds Healthcare Hostage in Oceania"
   },
   "https://www.darkreading.com/threat-intelligence/india-apt-sloppy-lemming-defense-critical-infrastructure": {
     "categories": [],
