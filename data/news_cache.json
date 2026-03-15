@@ -5396,6 +5396,15 @@
     "summary": "FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances as entry points to breach victim networks.&n\u2026",
     "title": "FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials"
   },
+  "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4d-2XpiCS0UYnMWh32sQEJP9LnlN_m7m2hok9CnY_vu05XXwWn4INodYCvrEdweEzpho7XqcuOFvEPnnEWlHCRa_q3HY3V5O_ii35MVWAimRwsgrpNQrvGqeUchhZ48FRUl91zTpYQdLMRxVvRjV_T8GEm-J9mnMesefzlgeaoE_EU7Ba32liTr63SsQq/s1600/open.jpg",
+    "published": "2026-03-14T12:55:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a \"significant escalation\" in how it propagates through the Open VSX registry.\n\"Instead of re\u2026",
+    "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers"
+  },
   "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR_pPCmiYZpBkIhumuW9B55rXBX7U9PZto5xPxHsLBbx5EstbqXgUI-XLZkQQV8OCsdaOi5RuSapl0V4LPKX9B_8MDBqSteyX83vXpj7G8-87BBhyphenhyphen75Os_0RhTFWBL_yxr7JVwXXtZ-qdbbugAlw9MoC5mFEx0hfQMncgnDRR8tLlEMXsLiPmim2sTjzNO/s1600/android-exploit.jpg",
@@ -5629,6 +5638,15 @@
     "source": "The Hacker News",
     "summary": "OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues OpenAI on Friday began rolling out Codex Security, an artificial intelligence (AI)-powered security agent that's designed to find, validate, and propose fixes for vulnerabilities.\nThe feature \u2026",
     "title": "OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues"
+  },
+  "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2mVucJhli25A25joXcap-ewfeMT1Vh-95wQKQfGOue7PwZJ1_55YsG8OQ1DQF7WVOU8tsOy73kGDzgfpTLLeqTYQ1k9LqrFWTNavDmfvCV-9IIER9PfrRsdg1wA5UzpIMrer3xC1mBClBzKkaT6pfczDbppMjZM7afcWu-RURquDGrEfjq3vVBsmlltLm/s1600/open-clawss.jpg",
+    "published": "2026-03-14T16:17:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration China's National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw (formerly Clawdbot and Moltbot), an open-source and s\u2026",
+    "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration"
   },
   "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html": {
     "categories": [],
@@ -7342,6 +7360,18 @@
     "summary": "Microsoft releases Windows 11 26H1 for select and upcoming CPUs Microsoft has announced Windows 11 26H1, but it's not for existing PCs. Instead, it will ship on devices with Snapdragon X2 processors and possibly other rumored ARM chips.w [...]",
     "title": "Microsoft releases Windows 11 26H1 for select and upcoming CPUs"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-14T21:48:14+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw Microsoft has released an out-of-band (OOB) update to fix a security vulnerabilities affecting Windows 11 Enterprise devices that receive hotpatch updates instead of the regular Patch Tuesday cumulative updates. [...\u2026",
+    "title": "Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-removing-defender-application-guard-from-office/": {
     "categories": [
       "Microsoft",
@@ -8370,6 +8400,18 @@
     "source": "BleepingComputer",
     "summary": "Apple fixes zero-day flaw used in 'extremely sophisticated' attacks Apple has released security updates to fix a zero-day vulnerability that was exploited in an \"extremely sophisticated attack\" targeting specific individuals. [...]",
     "title": "Apple fixes zero-day flaw used in 'extremely sophisticated' attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-03-14T14:36:42+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code The AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack. [...]",
+    "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code"
   },
   "https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/": {
     "categories": [
