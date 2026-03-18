@@ -5153,6 +5153,24 @@
     "summary": "AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged The Rise of MCPs in the Enterprise\nThe Model Context Protocol (MCP) is quickly becoming a practical way to push LLMs from \u201cchat\u201d into real work. By providing structured access to applications, APIs\u2026",
     "title": "AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged"
   },
+  "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlC6FiLJ9YVGC1W0eo-MmFsPTu2DNqMSdo-QKnv1gdH_HpaKV3zPaWZrQTGNdklpv62BXb3ECiBqlkR1BzLbfz0tFWfMKNM1vZq88yf90XpycB2OSDq3NScWav6ZO_4IVjCWaJRJLwvthFo-7VJ-Uc8qijyycpXfkQRHcPr9pf-QVgGzyOeBFnwfOGnmLN/s1600/lang-ai.jpg",
+    "published": "2026-03-17T16:39:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution environments using domain name system (DNS) queries\u2026",
+    "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE"
+  },
+  "https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8f5KRgkqcEs7OtCxyKrJIvPWUOZnbkV5dIFPc5TjDbkAliVww6lOjpuOBZYQw1TF4H28aJZNMY6KkZmnaQfIGsR4PlXWHl4Ps-zfPutG01bPkEIjKSLlCWwK66sjwPX7uf7qsrjl3kMTVe1F4Wl7BJj7dPiC0rDW_skQOlfgirUrzT9E5bccb4fTXdLI/s1600/pentera.jpg",
+    "published": "2026-03-17T11:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds A majority of security leaders are struggling to defend AI systems with tools and skills that are not fit for the challenge, according to the AI and Adversarial Testing Benchmark Repo\u2026",
+    "title": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds"
+  },
   "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqvueuqNoIDsAH4vpBnbAGr2wz0tlhGECqZdmLWdnSPn-mZNpKuAIMPRyOR4B9C9RDKQKYKskTM-idN3OQ5zligs_i092dM4LLMP5jo1v2UHOe2hK9hV2GuX_5RvWrrmSh8b0FbKiVB7-5vuISiT_-ko5MbCTZs1YjLqFjUDZG8QFHIrV6MDlr1R1RdbM7/s1600/android-security.jpg",
@@ -5170,6 +5188,15 @@
     "source": "The Hacker News",
     "summary": "Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model Anthropic on Friday said it discovered 22 new security vulnerabilities in the Firefox web browser as part of a security partnership with Mozilla.\nOf these, 14 have been classified as high, seven have been c\u2026",
     "title": "Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model"
+  },
+  "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrIGrK9v7gHMVWn2ApD_KeHXedmQ6FwRObZ4ZqEQssbaUU_8qjOSYBBRzZPzK0J8eHdH37Ws_n1u-ESXKJ1WEb4jjFcLn1Tdoj4n0z0wrfFj7X5DKIK8dzKYZ9uLDV2dg6HecUyRdUDkYR1LKkvhkGWBh_anbKF83bvLXUJBeTTwjCDeJ0V2hRAEN1bxhv/s1600/apple-hacking.jpg",
+    "published": "2026-03-18T06:31:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS Apple on Tuesday released its first round of Background Security Improvements to address a security flaw in WebKit that affects iOS, iPadOS, and macOS.\nThe vulnerability, tracked as CVE-2026-2064\u2026",
+    "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS"
   },
   "https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html": {
     "categories": [],
@@ -5350,6 +5377,15 @@
     "source": "The Hacker News",
     "summary": "Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials Cybersecurity researchers have disclosed details of two now-patched security flaws in the n8n workflow automation platform, including two critical bugs that could result in arbitrary command executi\u2026",
     "title": "Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials"
+  },
+  "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm7eXnUZ_n354WSYj7Qjrk3sBFZkhyQ41VtRezIQRVo3KqzZJDE_A7CqshkkQ6RCiOyS1zuS8liODqSRGhURLUozRKEDZ6BmKyOxBVy8K0EF5TQB5QlyC7c1Cv0mHSj0BNwtGAS-PgOUobvSWJ1b82qWBHCMEocTyoOayx69DzM_gveQSuD1zbjYAjziX7/s1600/linux.jpg",
+    "published": "2026-03-18T05:06:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23 Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to exe\u2026",
+    "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23"
   },
   "https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html": {
     "categories": [],
@@ -5557,6 +5593,24 @@
     "source": "The Hacker News",
     "summary": "KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet Cybersecurity researchers have discovered a new malware called KadNap that's primarily targeting Asus routers to enlist them into a botnet for proxying malicious traffic.\nThe malware, first detected in the \u2026",
     "title": "KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet"
+  },
+  "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64jRKLqi9-c5fwxRIgUOuYe8fcW2NWoeEfMBoi9oBOrVRu1CW6TXPBuAL3VPIKoQMX4EeeKtPt0wzGFExXyCm3rGmXRYzfWsFSp1JDpxZ82neNjqGELR9s2ViKaVzhk2taHFfQNGiIYC9JyhaOd8c4DLKmUZt_SleyWwtCwi2ffFpFI6SIFq3h7pni3NZ/s1600/attack-talk.jpg",
+    "published": "2026-03-17T09:53:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware North Korean threat actors have been observed sending phishing to compromise targets and obtain access to a victim's KakaoTalk desktop application to distribute malicious payloads to certain contacts.\nThe \u2026",
+    "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware"
+  },
+  "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNHJfW8wlD2yQtP3pzAZhSRXNrzlhxXWqqG6GiAH3nbBo44Bz5mQxZ1LtsokhDYs-FC2t8hyphenhyphenY-TlNvck_Rtou9A_AA9lRnKNDRbMxZTpHfAe-6WETM-yJoWzxTANKVWrcZFdu7sax22JeTcWAVwuLKMibTNkLwSRyC0_HfBgCFM6EWqPl5-HbGtJEiSCTC/s1600/leaknet-ransomware.jpg",
+    "published": "2026-03-17T14:34:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial access method.\nThe use of ClickFix, where users are t\u2026",
+    "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader"
   },
   "https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html": {
     "categories": [],
@@ -6965,6 +7019,17 @@
     "summary": "Microsoft: Emergency Windows 10 update fixes ESU enrollment bug Microsoft has released an emergency out-of-band update to address a known issue preventing Windows 10 users from enrolling in the Extended Security Updates (ESU) program. [...]",
     "title": "Microsoft: Emergency Windows 10 update fixes ESU enrollment bug"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-03-17T10:37:19+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic Microsoft is working to address a known issue that renders the classic Outlook email client unusable for users who have enabled the Microsoft Teams Meeting Add-in. [...]",
+    "title": "Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/": {
     "categories": [
       "Microsoft",
@@ -7547,6 +7612,17 @@
     "summary": "Microsoft says new Outlook can't open some Excel attachments \u200bMicrosoft is working to resolve a known issue that prevents some users from opening Excel email attachments in the new Outlook client. [...]",
     "title": "Microsoft says new Outlook can't open some Excel attachments"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-03-17T12:03:38+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs Microsoft has shared guidance to fix C:&#092; drive access issues and app failures on some Samsung laptops running Windows 11, versions 25H2 and 24H2. [...]",
+    "title": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-outlook-freezes-after-windows-update/": {
     "categories": [
       "Microsoft"
@@ -7569,6 +7645,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft still working to fix Windows Explorer white flashes Microsoft has confirmed that it's still working to fully address a known issue that causes bright white flashes when opening the File Explorer on some Windows 11 systems. [...]",
     "title": "Microsoft still working to fix Windows Explorer white flashes"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-03-17T13:54:37+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Microsoft stops force-installing the Microsoft 365 Copilot app Microsoft has stopped automatically installing the Microsoft 365 Copilot app on Windows devices that have the Microsoft 365 desktop client apps. [...]",
+    "title": "Microsoft stops force-installing the Microsoft 365 Copilot app"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/": {
     "categories": [
@@ -7901,6 +7988,17 @@
     "source": "BleepingComputer",
     "summary": "New Microsoft Teams feature will let you report suspicious calls Microsoft plans to introduce a call reporting feature in Teams by mid-March, allowing users to flag suspicious or unwanted\u00a0calls as potential scams or phishing attempts. [...]",
     "title": "New Microsoft Teams feature will let you report suspicious calls"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-03-17T11:07:05+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New Windows 11 hotpatch fixes Bluetooth device visibility issue Microsoft has released an emergency update to fix a Bluetooth device visibility issue on hotpatch-enabled Windows 11 Enterprise devices. [...]",
+    "title": "New Windows 11 hotpatch fixes Bluetooth device visibility issue"
   },
   "https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/": {
     "categories": [
@@ -8497,6 +8595,18 @@
     "source": "BleepingComputer",
     "summary": "Apple fixes zero-day flaw used in 'extremely sophisticated' attacks Apple has released security updates to fix a zero-day vulnerability that was exploited in an \"extremely sophisticated attack\" targeting specific individuals. [...]",
     "title": "Apple fixes zero-day flaw used in 'extremely sophisticated' attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/": {
+    "categories": [
+      "Security",
+      "Apple"
+    ],
+    "image": "",
+    "published": "2026-03-18T01:06:31+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Apple pushes first Background Security Improvements update to fix WebKit flaw Apple has released its first Background Security Improvements update to fix a WebKit flaw tracked as CVE-2026-20643 on iPhones, iPads, and Macs without requiring a full operating system upgrade. [...]",
+    "title": "Apple pushes first Background Security Improvements update to fix WebKit flaw"
   },
   "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/": {
     "categories": [
@@ -10320,6 +10430,18 @@
     "summary": "Eurofiber France warns of breach after hacker tries to sell customer data Eurofiber France disclosed a data breach it discovered late last week when hackers gained access to its ticket management system by exploiting a vulnerability and exfiltrated information. [...]",
     "title": "Eurofiber France warns of breach after hacker tries to sell customer data"
   },
+  "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-03-17T18:41:59+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Europe sanctions Chinese and Iranian firms for cyberattacks The European Union Council has announced sanctions against three entities and two individuals for their involvement in cyberattacks targeting critical infrastructure in the region. [...]",
+    "title": "Europe sanctions Chinese and Iranian firms for cyberattacks"
+  },
   "https://www.bleepingcomputer.com/news/security/european-authorities-dismantle-call-center-fraud-ring-in-ukraine/": {
     "categories": [
       "Security"
@@ -11137,6 +11259,17 @@
     "source": "BleepingComputer",
     "summary": "GitLab warns of high-severity 2FA bypass, denial-of-service flaws GitLab has patched a high-severity two-factor authentication bypass impacting community and enterprise editions of its software development platform. [...]",
     "title": "GitLab warns of high-severity 2FA bypass, denial-of-service flaws"
+  },
+  "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-17T21:42:54+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX The GlassWorm supply-chain campaign has returned with a new, coordinated attack that targeted hundreds of packages, repositories, and extensions on GitHub, npm,\u00a0and VSCode/OpenVSX extensions. [...]",
+    "title": "GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX"
   },
   "https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-in-third-wave-of-malicious-vs-code-packages/": {
     "categories": [
@@ -12333,6 +12466,17 @@
     "summary": "Kraken ransomware benchmarks systems for optimal encryption choice The Kraken ransomware, which targets Windows, Linux/VMware ESXi systems, is testing machines to check how fast it can encrypt data without overloading them. [...]",
     "title": "Kraken ransomware benchmarks systems for optimal encryption choice"
   },
+  "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-17T12:09:35+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks The LeakNet ransomware gang is now using the ClickFix technique for initial access into corporate environments\u00a0and deploys a malware loader based on the open-source Deno runtime for JavaScript and TypeScript. [...\u2026",
+    "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/": {
     "categories": [
       "Security",
@@ -13183,6 +13327,18 @@
     "source": "BleepingComputer",
     "summary": "New ErrTraffic service enables ClickFix attacks via fake browser glitches A new cybercrime tool\u00a0called ErrTraffic allows threat actors to automate ClickFix attacks by generating 'fake glitches' on compromised websites to lure users into downloading payloads or following malicious\u2026",
     "title": "New ErrTraffic service enables ClickFix attacks via fake browser glitches"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-03-17T13:59:12+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "New font-rendering trick hides malicious commands from AI tools A new font-rendering attack causes AI assistants to miss malicious commands shown on webpages by hiding them in seemingly harmless HTML. [...]",
+    "title": "New font-rendering trick hides malicious commands from AI tools"
   },
   "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/": {
     "categories": [
@@ -15309,6 +15465,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers exploit SolarWinds WHD flaws to deploy DFIR tool in attacks Hackers are now exploiting SolarWinds Web Help Desk (WHD) vulnerabilities to gain code execution rights on exposed systems and deploy legitimate tools, including the Velociraptor forensics tools, for persistence \u2026",
     "title": "Hackers exploit SolarWinds WHD flaws to deploy DFIR tool in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-17T14:02:12+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Top 5 Things CISOs Need to Do Today to Secure AI Agents AI agents are autonomous actors with real access to data and systems, not just copilots. Token Security explains why identity-based access control is critical to prevent misuse and data exposure. [...]",
+    "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents"
   },
   "https://www.bleepingcomputer.com/news/security/tor-switches-to-new-counter-galois-onion-relay-encryption-algorithm/": {
     "categories": [
@@ -18987,6 +19154,15 @@
     "summary": "Identity Security 2026: Four Predictions &amp; Recommendations Agentic AI adoption and identity security risks, IGA expands in mid-market, SOC-identity team collaboration, and identity platform consolidation\u2014this 2026 predictions post previews identity trends.",
     "title": "Identity Security 2026: Four Predictions &amp; Recommendations"
   },
+  "https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte1c1a2e88d4ce9b9/69b9bbb4f23269821ba62200/credentials_iWissawa_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-17T22:04:46+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "More Attackers Are Logging In, Not Breaking In Credential theft soared in the second half of 2025, thanks in part to the industrialization of infostealer malware and AI-enabled social engineering.",
+    "title": "More Attackers Are Logging In, Not Breaking In"
+  },
   "https://www.darkreading.com/identity-access-management-security/specterops-launches-bloodhound-scentry": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=1280&auto=webp&quality=80&disable=upscale",
@@ -19448,6 +19624,15 @@
     "summary": "Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot CVE-2026-2329 allows unauthenticated root-level access to SMB phone infrastructure, so attackers can intercept calls, commit toll fraud, and impersonate users.",
     "title": "Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot"
   },
+  "https://www.darkreading.com/threat-intelligence/hackers-target-cybersecurity-firm-outpost24-phish": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3587241c66f92ae3/69b97dcdccf6a3497fc59660/phishing_tadamichi_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-17T19:41:24+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Hackers Target Cybersecurity Firm Outpost24 in 7-Stage Phish In an unsuccessful phishing attack, threat actors leveraged trusted brands and domains to try to redirect a C-suite executive at Outpost24 to give up his credentials.",
+    "title": "Hackers Target Cybersecurity Firm Outpost24 in 7-Stage Phish"
+  },
   "https://www.darkreading.com/threat-intelligence/hactivists-target-critical-infrastructure": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbaeec429a34c1139/693970af459cb20bfe096d17/ics-Yuri_Arcurs-alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
@@ -19553,6 +19738,15 @@
     "source": "darkreading",
     "summary": "Latin America's Cyber Maturity Lags Threat Landscape The slower pace of upgrades has the unintended impact of creating a haven for attackers, especially for initial access brokers and ransomware gangs.",
     "title": "Latin America's Cyber Maturity Lags Threat Landscape"
+  },
+  "https://www.darkreading.com/threat-intelligence/less-lucrative-ransomware-market-makes-attackers-alter-methods": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte72d0bf351c7e0d2/69b9b4c0a7730701b4a14225/farmer_Yuri_Arcurs_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-17T21:41:12+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Less Lucrative Ransomware Market Makes Attackers Alter Methods Ransomware actors are ditching Cobalt Strike in favor of native Windows tools, as payment rates hit record lows and data theft surges.",
+    "title": "Less Lucrative Ransomware Market Makes Attackers Alter Methods"
   },
   "https://www.darkreading.com/threat-intelligence/longnosedgoblin-caught-snooping-on-asian-governments": {
     "categories": [],
@@ -19758,6 +19952,15 @@
     "source": "darkreading",
     "summary": "As War Continues, Pro-Iranian Actors Launch Barrage of Cyberattacks Iran and its supporters have taken to cyberspace to retaliate for US-Israeli military action, with an aim to cause economic and physical disruption.",
     "title": "As War Continues, Pro-Iranian Actors Launch Barrage of Cyberattacks"
+  },
+  "https://www.darkreading.com/threat-intelligence/warlock-ransomware-post-exploitation-activities": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt264596230fa2e85d/69b94ecca34bb9e46e896dc0/Warlock_wizard_(1800)_Tithi_Luadthong_alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-17T15:36:52+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Warlock Ransomware Group Augments Post-Exploitation Activities In a recent attack, the group showcased stealthier cross-network activity, thanks to its use of a new BYOVD technique and other tools.",
+    "title": "Warlock Ransomware Group Augments Post-Exploitation Activities"
   },
   "https://www.darkreading.com/threat-intelligence/whatsapp-eternidade-trojan-self-propagates-brazil": {
     "categories": [],
