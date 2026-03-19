@@ -5144,6 +5144,15 @@
     "summary": "149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict Cybersecurity researchers have warned of a surge in retaliatory hacktivist activity following the U.S.-Israel coordinated military campaign against Iran, codenamed Epic Fury and Roaring L\u2026",
     "title": "149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict"
   },
+  "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1w0kzOmqTtztN-mHI2uI1lo8OnX3r0r6sB1FuwEKJAIX3zudBP_BkZiFk5f3RbtXjTiARWWhhKkLp2szjQk5-IVk_sOHkyGlIAof66_UIY595IhcdGZQR2xjTHKQSqWAV0bkjCPlfqBdJqokmSkZID1kQxcI8M-LX2aWSDErd63Y86_UTo321Fm45dcDC/s1600/ip.jpg",
+    "published": "2026-03-18T11:42:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors Cybersecurity researchers have warned about the risks posed by low-cost IP KVM (Keyboard, Video, Mouse over Internet Protocol) devices, which can grant attackers extensive control over compromised host\u2026",
+    "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors"
+  },
   "https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy66jCAP3njemOp9S0dnoRSikwWIk-OjV_6kygA0ubIpsczO3IWQf7SD3hcvCzRrDtiL6_2jOk3fWy2YtEWMwEyCmvzhw6QReN8cvfOlYuiXP4VzgeV_PaFRsylxXhR7akoqfkgxsD_oiNXSAabskwOrDoIJMSsAgr0VZO2UW-4odf7eAjioV1KX7mn3w/s1600/ormain.jpg",
@@ -5342,6 +5351,15 @@
     "summary": "CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitat\u2026",
     "title": "CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited"
   },
+  "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNz_gKNFLCIU1bf3r5ndKEJY42xA-0VYcdfKSV7dFnLR49717u_2GSnPWzDJk4OkX-VbcUgnij6CUo-ZJvV4-uWiUuXsS0FtuAA8RBYnElk3ELRm_ODa1MhwK9GcjjuIN3rqi51_BBFYvMYCbcJGifTrfv4bUHYZmkcJSnKGDT7NnLBHU4GtaxMvW9F7Pr/s1600/cida-patches.jpg",
+    "published": "2026-03-19T06:05:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged government agencies to apply patches for two security flaws impacting Synacor Zimbra Collaboration Suite (ZCS) and M\u2026",
+    "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks"
+  },
   "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEr5vlbwHAPeevtBJ7iylInnh2ZQCxX10smm1srCFONJBSriIbAvvp5jAFpFYdeoyk9BKBhyFZx-U4xBhqtN2eT1r150GMLdRP3scA8PsHMYh0PGALAqnzwQnLS-3K_9yneL-7tRa3lD-TTOIebyc_alzp2kLKFdFRCiJcWMcmTiMnoqUAeO_Wxv6hd05D/s1600/cisco-exploit.jpg",
@@ -5350,6 +5368,15 @@
     "source": "The Hacker News",
     "summary": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities Cisco has disclosed that two more vulnerabilities affecting Catalyst SD-WAN Manager (formerly SD-WAN vManage) have come under active exploitation in the wild.\nThe vulnerabilities in question are lis\u2026",
     "title": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities"
+  },
+  "https://thehackernews.com/2026/03/claude-code-security-and-magecart.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggz_kaHz2bigOo1y7BON5yhR9pCor4YwRAVV2PhMpW80pO5LnEQpI6Nzwyb1vAXqsORLe3-nM6npur3xdVzjvgFuv0_weLt2k3aganHfRUGHnvg258ymm460jOPDouqbnhZiOWNgkTEov8Iy1Ldb53EQg94GZMocgH3nwILAvMzDaNsyK7WaSrc1k7Rts/s1600/ref.jpg",
+    "published": "2026-03-18T11:58:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Claude Code Security and Magecart: Getting the Threat Model Right When a Magecart payload hides inside the EXIF data of a dynamically loaded third-party favicon, no repository scanner will catch it \u2013 because the malicious code never actually touches your repo. As teams adopt Clau\u2026",
+    "title": "Claude Code Security and Magecart: Getting the Threat Model Right"
   },
   "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html": {
     "categories": [],
@@ -5558,6 +5585,15 @@
     "summary": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emails, move data, and even manage software on their o\u2026",
     "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows"
   },
+  "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIlKuha7SKiNtcZ_rk3dVV2Mt4tDfyfAir2TYksjgJhuuBlUNRqZu0Zeh8xwCMU7XCedi9khw6ywY0sqBRY8BrY-8jLzGOdSU7YRit5m4ew711QN8qK-aG224wOrcXc7k3_8QDy1zfXZ1UWVaR3C_J3WzNuvCkApYqhmICJI62mVMO2R1OoiJ17ySmxQm6/s1600/cc.jpg",
+    "published": "2026-03-18T16:00:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisco Secure Firewall Management Center (FMC) Software\u2026",
+    "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access"
+  },
   "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwam91c_LDbgwJb9W7Op3ENyT1BX3vzALg2WSk7s8J1QFMNYVES8F_i1KqCw-jCad0-64HTyo9EmVMEkd0jOoZaTWQFVO57DOBtx7x1PJqCepEYivGHLu_IAkCzBlzrx91izrAJ3NRMpXNvU2JOplVI3Gr7cusWU85AF9h_UoAIE3PGV2M2wG6M4J5yC_X/s1600/interpol.jpg",
@@ -5720,6 +5756,15 @@
     "summary": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the \u2026",
     "title": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT"
   },
+  "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOXJqNKU2E3XuLpHv5iNIyXUsNHiw2sKZHX26AXk9X2bIlFfmTfRYdKkvL40FGg6dAccgemC93VDZ_l8uIFrzaxPY5OMtWeujIO4CS4XvbQQI-Y_B36j1wl5nFWFjXp968S6iTFFZlwdO9Qx8tNHBALQHagYFSFBGjncE6OJdk3ZOGZFWFnucDua1CawKd/s1600/1000061563.png",
+    "published": "2026-03-18T17:26:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has sanctioned six individuals and two entities for their involvement in the Democratic People's Republic of Korea (DP\u2026",
+    "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs"
+  },
   "https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfbbcxvw46Df6wZJpHzgD3wrBSTcFyJLQEYVSpnUYNF2U92TTfAilNI6bijzKSHSiHb_XiQgw_V9Rn5HBEoUjx-pGg9fVLh07C7gebKC80qyqTUD0HvHbiquEkIvxjs9n6MuQH5QHp_Sf9nw_NIJRg8Ffi8N_1exLScK5EMuP99dwof4p4aCvRIqlv8zwV/s1600/cyberattacks.jpg",
@@ -5755,6 +5800,15 @@
     "source": "The Hacker News",
     "summary": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders Most organizations assume encrypted data is safe.\nBut many attackers are already preparing for a future where today\u2019s encryption can be broken. Instead of trying to decrypt information now, they\u2026",
     "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders"
+  },
+  "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHQlWFzb-dPRLbO6sDQFLQgxeUGnAqvKyB-zYYZSGM9MySnNJYPuBGkaZCgGco3JT4zh1kuHg0PNbZ3drUNebzabC1l62_B_2laDHkQY3FZi8tYiG70rpoRE43pQcLc8bWXGXWNTdF9Nbr0-KKt8rkgpoaypKgLXJHyAxFGpik6iLrxckqVdW6bbAzhck/s1600/mesh-product.jpg",
+    "published": "2026-03-18T10:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels Security teams today are not short on tools or data. They are overwhelmed by both.&nbsp;\nYet within the terabytes of alerts, exposures, and misconfigurations \u2013 security teams still struggle to unde\u2026",
+    "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels"
   },
   "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html": {
     "categories": [],
@@ -5863,6 +5917,15 @@
     "source": "The Hacker News",
     "summary": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India The Pakistan-aligned threat actor known as Transparent Tribe has become the latest hacking group to embrace artificial intelligence (AI)-powered coding tools to strike targets with various impl\u2026",
     "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India"
+  },
+  "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjyR0arF1Y7SFoUB29ZhPX6xm5uAf4A7sdyhxPDSK52E3A-m2QCrr2DTMIYLCqIJnOUrQzo81R1_g-EMp82gZjHsMJegHxW4AeKRH3pnfjk2NGlBr5VZ9MoKRdbSgkBNs_039XoCT9eNSfka3VVbIhErq7lsOcW6gmN1CffJjFHrRILmXQgEmyZYz1E4KP/s1600/ubuntu.jpg",
+    "published": "2026-03-18T08:08:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to the root level.\nTracked as CVE-2026-3888 (CVS\u2026",
+    "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit"
   },
   "https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html": {
     "categories": [],
@@ -8706,6 +8769,17 @@
     "summary": "ASUS warns of new critical auth bypass flaw in AiCloud routers ASUS has released new firmware to patch nine security vulnerabilities, including a critical authentication bypass flaw in routers with AiCloud enabled. [...]",
     "title": "ASUS warns of new critical auth bypass flaw in AiCloud routers"
   },
+  "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-18T22:56:50+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Aura confirms data breach exposing 900,000 marketing contacts Identity protection company Aura has confirmed that an unauthorized party gained access to nearly 900,000 customer records containing names and email addresses. [...]",
+    "title": "Aura confirms data breach exposing 900,000 marketing contacts"
+  },
   "https://www.bleepingcomputer.com/news/security/australia-warns-of-badcandy-infections-on-unpatched-cisco-devices/": {
     "categories": [
       "Security"
@@ -9247,6 +9321,17 @@
     "summary": "CISA orders feds to patch Samsung zero-day used in spyware attacks CISA ordered U.S. federal agencies today to patch a critical Samsung vulnerability that has been exploited in zero-day attacks to deploy LandFall spyware on devices running WhatsApp. [...]",
     "title": "CISA orders feds to patch Samsung zero-day used in spyware attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-18T19:57:13+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA orders feds to patch Zimbra XSS flaw exploited in attacks CISA has ordered U.S. government agencies to secure their servers against an actively exploited vulnerability in the Zimbra Collaboration Suite (ZCS). [...]",
+    "title": "CISA orders feds to patch Zimbra XSS flaw exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/": {
     "categories": [
       "Security"
@@ -9681,6 +9766,17 @@
     "source": "BleepingComputer",
     "summary": "Compromised Site Management Panels are a Hot Item in Cybercrime Markets Compromised cPanel credentials are being sold in bulk across underground channels as plug-and-play phishing and scam infrastructure. Flare explains how analyzing 200,000 underground posts reveals a commoditiz\u2026",
     "title": "Compromised Site Management Panels are a Hot Item in Cybercrime Markets"
+  },
+  "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-18T18:10:35+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "ConnectWise patches new flaw allowing ScreenConnect hijacking ConnectWise is warning ScreenConnect customers of a\u00a0cryptographic signature verification vulnerability that could lead to unauthorized access and privilege escalation. [...]",
+    "title": "ConnectWise patches new flaw allowing ScreenConnect hijacking"
   },
   "https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/": {
     "categories": [
@@ -12256,6 +12352,17 @@
     "summary": "Instagram denies breach amid claims of 17 million account data leak Instagram says it fixed a bug that allowed threat actors to mass-request password reset emails, amid claims that data from more than 17 million Instagram accounts was scraped and leaked online. [...]",
     "title": "Instagram denies breach amid claims of 17 million account data leak"
   },
+  "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-18T16:53:42+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Ransomware gang exploits Cisco flaw in zero-day attacks since January The Interlock ransomware gang has been exploiting a maximum severity remote code execution (RCE) vulnerability in Cisco's Secure Firewall Management Center (FMC) software in zero-day attacks since late January.\u2026",
+    "title": "Ransomware gang exploits Cisco flaw in zero-day attacks since January"
+  },
   "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/": {
     "categories": [
       "Security",
@@ -12787,6 +12894,17 @@
     "summary": "Marquis data breach impacts over 74 US banks, credit unions Financial software provider Marquis Software Solutions is warning that it suffered a data breach that impacted dozens of banks and credit unions across the US. [...]",
     "title": "Marquis data breach impacts over 74 US banks, credit unions"
   },
+  "https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-18T15:32:39+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Marquis: Ransomware gang stole data of 672K people in cyberattack Marquis, a Texas-based financial services provider, revealed this week that a ransomware gang stole the data of over 670,000 individuals in an August 2025 cyberattack that also disrupted operations\u00a0at 74 banks\u00a0acro\u2026",
+    "title": "Marquis: Ransomware gang stole data of 672K people in cyberattack"
+  },
   "https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/": {
     "categories": [
       "Security",
@@ -13305,6 +13423,18 @@
     "summary": "New D-Link flaw in legacy DSL routers actively exploited in attacks Threat actors are exploiting a recently discovered\u00a0command injection vulnerability that affects\u00a0multiple D-Link DSL gateway routers that went out of support years ago. [...]",
     "title": "New D-Link flaw in legacy DSL routers actively exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/": {
+    "categories": [
+      "Security",
+      "Apple"
+    ],
+    "image": "",
+    "published": "2026-03-18T14:02:08+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New \u201cDarksword\u201d iOS exploit used in infostealer attack on iPhones A new exploit kit for iOS devices and delivery framework dubbed \"Darksword\" has been used to steal a wide range of personal information, including data from cryptocurrency wallet app. [...]",
+    "title": "New \u201cDarksword\u201d iOS exploit used in infostealer attack on iPhones"
+  },
   "https://www.bleepingcomputer.com/news/security/new-droidlock-malware-locks-android-devices-and-demands-a-ransom/": {
     "categories": [
       "Security",
@@ -13716,6 +13846,18 @@
     "source": "BleepingComputer",
     "summary": "Nissan says thousands of customers exposed in Red Hat breach Nissan Motor Co. Ltd. (Nissan) has confirmed that information of thousands of its customers has been compromised after the\u00a0data breach at Red Hat in September. [...]",
     "title": "Nissan says thousands of customers exposed in Red Hat breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-03-18T13:55:49+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Nordstrom's email system abused to send crypto scams to customers Customers of upscale department store chain Nordstrom received fraudulent messages from a legitimate company email address that promoted cryptocurrency scams disguised as a St. Patrick's Day promotion. [...]",
+    "title": "Nordstrom's email system abused to send crypto scams to customers"
   },
   "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-unlock-77-percent-off-vpn-plans-in-2025/": {
     "categories": [
@@ -15423,6 +15565,17 @@
     "source": "BleepingComputer",
     "summary": "The Real-World Attacks Behind OWASP Agentic AI Top 10 OWASP's new Agentic AI Top 10 highlights real-world attacks already targeting autonomous AI systems, from goal hijacking to malicious MCP servers. Koi Security breaks down real-world incidents behind multiple categories, inclu\u2026",
     "title": "The Real-World Attacks Behind OWASP Agentic AI Top 10"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-18T14:05:15+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms Refund fraud is now a business, with methods and tutorials sold to exploit return policies for profit. Flare shows how fraudsters turn refunds and chargebacks into a repeatable profit model. [...]",
+    "title": "The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms"
   },
   "https://www.bleepingcomputer.com/news/security/the-top-3-browser-sandbox-threats-that-slip-past-modern-security-tools/": {
     "categories": [
@@ -17555,6 +17708,15 @@
     "summary": "Latin American Orgs Lack Confidence in Cyber Defenses, Skills Cybersecurity professionals in Latin America are least likely to have faith in their countries' preparedness for cyberattacks on critical infrastructure, the World Economic Forum says.",
     "title": "Latin American Orgs Lack Confidence in Cyber Defenses, Skills"
   },
+  "https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30ca0d4bf093c658/69b85abb65cf383bd31f7bee/Eye-Shotshop_GmbH-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-18T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Researchers: Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads Tracking pixels let social media companies spy on their users even after they click over to advertiser sites, gleaning credit card info, geolocations, and more, according to an analysis.",
+    "title": "Researchers: Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads"
+  },
   "https://www.darkreading.com/cyber-risk/microsoft-exchange-under-imminent-threat-act-now": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf4d5cbfc04379237/682b51084166a56bc7b1e108/Hook_email_phishing_Mohd_Izzuan_Roslan_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -18062,6 +18224,15 @@
     "summary": "Nation-State Actor Embraces AI Malware Assembly Line Pakistan's APT36 threat group has begun using vibe-coding to churn out mediocre malware, but at a scale that could overwhelm defenses.",
     "title": "Nation-State Actor Embraces AI Malware Assembly Line"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/new-c2-implant-snappyclient-targets-crypto-wallets": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0372e765e2f60601/69bb0ab9e800678b63dc8ddb/remoteaccess_Khanthachai_C_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-18T21:49:02+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "C2 Implant 'SnappyClient' Targets Crypto Wallets In addition to enabling remote access, the malware supports a wide range of capabilities, including data theft and spying.",
+    "title": "C2 Implant 'SnappyClient' Targets Crypto Wallets"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/nikkei-suffers-breach-slack-compromise": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt111d40e2e2306743/690bbbd420119eaf33be38d6/nikkei_RobertEvans_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -18423,6 +18594,15 @@
     "source": "darkreading",
     "summary": "CISOs Should Be Asking These Quantum Questions Today As quantum quietly moves beyond lab experiment and into production workflows, here's what enterprise security leaders should be focused on, according to Lineswala.",
     "title": "CISOs Should Be Asking These Quantum Questions Today"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/clear-communication-missing-link-cybersecurity-success": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb123fa6bfacdc888/69bb2366fc6bd416f6ba4e6a/friction1800_ArchivalSurvival_alamy_2.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-17T21:42:46+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Clear Communication: The Missing Link in Cybersecurity Success When technical expertise meets clear communication, cybersecurity teams thrive. Learn how to foster trust and collaboration across diverse working groups.",
+    "title": "Clear Communication: The Missing Link in Cybersecurity Success"
   },
   "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework": {
     "categories": [],
@@ -19535,6 +19715,15 @@
     "summary": "'Dark LLMs' Aid Petty Criminals, But Underwhelm Technically As in the wider world, AI is not quite living up to the hype in the cyber underground. But it's definitely helping low-level cybercriminals do competent work.",
     "title": "'Dark LLMs' Aid Petty Criminals, But Underwhelm Technically"
   },
+  "https://www.darkreading.com/threat-intelligence/darksword-iphone-exploit-spies-thieves": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4bc589598164c815/69bb0530a773073aa8a1472a/dark_sword_Eugeniusz_Dudzi%25C5%2584ski_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-18T21:15:38+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "DarkSword: iPhone Exploit Kit Serves Spies &amp; Thieves Alike A sophisticated iOS exploit chain leverages multiple zero-day vulnerabilities and is targeting users in Saudi Arabia, Turkey, Malaysia, and Ukraine.",
+    "title": "DarkSword: iPhone Exploit Kit Serves Spies &amp; Thieves Alike"
+  },
   "https://www.darkreading.com/threat-intelligence/data-gap-why-nonprofit-cyber-incidents-go-underreported": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltca9a638d5179c87d/69b451ed1045ce42f1fbcbf7/AHHC42.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -19570,6 +19759,15 @@
     "source": "darkreading",
     "summary": "Enigma Cipher Device Still Holds Secrets for Cyber Pros The Nazi relic's history is riddled with resilience errors, and those lessons still apply to defending against modern cyber threats.",
     "title": "Enigma Cipher Device Still Holds Secrets for Cyber Pros"
+  },
+  "https://www.darkreading.com/threat-intelligence/eu-sanctions-companies-china-iran-cyberattacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt447b0823e680034d/69bb012e65cf387ebf1f8817/EU_Iran_China-Wirestock_Inc.-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-19T07:01:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "EU Sanctions Companies in China, Iran for Cyberattacks Already sanctioned in the US and the UK, these rulings prohibit companies and a couple of principals from entering or doing business in the European Union.",
+    "title": "EU Sanctions Companies in China, Iran for Cyberattacks"
   },
   "https://www.darkreading.com/threat-intelligence/fig-security-stealth-fix-broken-security-operations": {
     "categories": [],
@@ -19908,6 +20106,15 @@
     "summary": "Sandworm Blamed for Wiper Attack on Poland Power Grid Researchers attributed the failed attempt to the infamous Russian APT Sandworm, which is notorious for wiper attacks on critical infrastructure organizations.",
     "title": "Sandworm Blamed for Wiper Attack on Poland Power Grid"
   },
+  "https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt28c4d1bedaef1b13/69b9c60dfc6bd40f7fba492b/sidewinder-snake-on-sand-dune-Chantelle_Bosch-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-18T13:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "SideWinder Espionage Campaign Expands Across Southeast Asia The suspected India-linked threat group targets governments, telecom, and critical infrastructure using spear-phishing, old vulnerabilities, and rapidly rotating infrastructure to maintain persistent access.",
+    "title": "SideWinder Espionage Campaign Expands Across Southeast Asia"
+  },
   "https://www.darkreading.com/threat-intelligence/starkiller-phishing-kit-mfa": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8211663e9a463914/69976fdf6245840008fd226f/Star_cannon-Photobyt-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -20072,6 +20279,15 @@
     "source": "darkreading",
     "summary": "'CitrixBleed 2' Wreaks Havoc as Zero-Day Bug The same APT hammered critical bugs in Citrix NetScaler (CVE-2025-5777) and the Cisco Identity Service Engine (CVE-2025-20337) in a sign of growing adversary interest in identity and access management systems.",
     "title": "'CitrixBleed 2' Wreaks Havoc as Zero-Day Bug"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/claudy-day-trio-flaws-claude-users-data-theft": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10cc6694988697dc/69ba96a3a9cab62c8e5b1dba/claude_RalfLiebhold_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-18T15:05:58+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "'Claudy Day\u2019 Trio of Flaws Exposes Claude Users to Data Theft A prompt injection vulnerability paired with other flaws can turn a Google search into a full attack chain that could threaten enterprise networks.",
+    "title": "'Claudy Day\u2019 Trio of Flaws Exposes Claude Users to Data Theft"
   },
   "https://www.darkreading.com/vulnerabilities-threats/clickfix-style-attack-grok-chatgpt-malware": {
     "categories": [],
