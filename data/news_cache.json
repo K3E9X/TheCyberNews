@@ -5414,6 +5414,15 @@
     "summary": "Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13\u201317.2.1 Google said it identified a \"new and powerful\" exploit kit dubbed Coruna (aka CryptoWaters) targeting Apple iPhone models running iOS versions between 13.0 and 17.2.1.\nThe exploit kit featured five\u2026",
     "title": "Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13\u201317.2.1"
   },
+  "https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2uKC6w30P_dGu6jY7cfDW9xY9ElBbdwmshMQwltpgGrYMyN9TOPaFRbeHh_KM9QUBB7g77BpRq559AtmaDLBFgbxMV_ctMYqQmlaKukZe-LaiyEY_S675PLWqSbGJnjh3_g59EhNTTgjMGxnk-YZjjzX6D7dXOiWklwr_tUnd5sMSp15Q6kKVtYJ4isnF/s1600/langflow.jpg",
+    "published": "2026-03-20T15:15:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure A critical security flaw impacting Langflow has come under active exploitation within 20 hours of public disclosure, highlighting the speed at which threat actors weaponize newly published vulner\u2026",
+    "title": "Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure"
+  },
   "https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMTLKLDP1BIQuPb3-fnJrl5cpfhjHBhFF0Onswskul1eyu4fTPyEpOzUa13oWHQsl-83zPhaSVWBfIDj_RIeaQFrbr9VwCDLVXfUp-QDt5V6Dtd91VvXCO5O0Zm9hPTLOUhbXPQKb6tKdWecJ_ejME8fZX8rQRsRFkg67WdzlSv-g0mOuvhcsFKh9eeG-A/s1600/n8n.jpg",
@@ -5548,6 +5557,15 @@
     "source": "The Hacker News",
     "summary": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a \"significant escalation\" in how it propagates through the Open VSX registry.\n\"Instead of re\u2026",
     "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers"
+  },
+  "https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg5Jk2lVSKahNb8j13vUPG5pkYP6zhO6lI9b-X50lBxAq_5yluF0ly4g80Z51IS-x-gwqVV3xIRyu5e9fMQb7Rsebhd1Als8TDnY2nLGESKkaVOP-balDBrPBTUfMyb4oEOvY8dVihZZxT05nhkCuZqYDsu3LsVDtjigqfaCwW112fZ9YLR8JesGrBtAvs/s1600/android-sideloading.jpg",
+    "published": "2026-03-20T10:57:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams Google on Thursday announced a new \"advanced flow\" for Android sideloading that requires a mandatory 24-hour wait period to install apps from unverified developers in an attempt to balance opennes\u2026",
+    "title": "Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams"
   },
   "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html": {
     "categories": [],
@@ -5692,6 +5710,15 @@
     "source": "The Hacker News",
     "summary": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial access method.\nThe use of ClickFix, where users are t\u2026",
     "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader"
+  },
+  "https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmvoo5bgNhw6SuInM6rRH_pdtYFmiDdMlG7hS2GdUJfwhXoOClt29lEpxaqI27b6XOOfX3eO8eHlUM0LA55P9U_HfWgVPyqDWMO01Chkp6aC-is0292EqVXPRjwesdZl9igZ0iD7NdoW8rQhKRVfF7s_I98a8r2YOk3-vjDMEz4eGGVXjmt-nUJpLpM4OL/s1600/mag.jpg",
+    "published": "2026-03-20T09:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover Sansec is warning of a critical security flaw in Magento's REST API that could allow unauthenticated attackers to upload arbitrary executables and achieve code execution and account takeover.\nThe vul\u2026",
+    "title": "Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover"
   },
   "https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html": {
     "categories": [],
@@ -5927,6 +5954,15 @@
     "summary": "Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials Microsoft has disclosed details of a credential theft campaign that employs fake virtual private network (VPN) clients distributed through search engine optimization (SEO) poisoning techniques.\n\"The camp\u2026",
     "title": "Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials"
   },
+  "https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIq94dqdTz9Ic4q8eAt2c90zqmtdvYtzdDTv5UHg6On7d5AiYKyX4DbcskeTXNuT_ucj287szoc6-QWLMwboEKuRY_M7yeW9KstNR5irszE54SZvzHyFo7NBvpnhFW3zKZTMBhnP_aSG-AS7DMjvuRwp6X9_QbVhRyJD3sLIRp32No8X2RrMUp9ff-f_c/s1600/keeper.jpg",
+    "published": "2026-03-20T10:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks Artificial Intelligence (AI) is changing how individuals and organizations conduct many activities, including how cybercriminals carry out phishing attacks and iterate on malware. Now, cybercriminals are using AI \u2026",
+    "title": "The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks"
+  },
   "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj87js9FM5u5gJgNYbTJGym-RLvB-9rHWoeFBMkLbzvbBgY8aGaMtb_pX5i2-rQz34VbJsQfeOD-GvRJ0yNXUSGjR3vnV7CUt4APOPSwvBNpaF4m64z5OxmNVw0WDaCa3q_KlAjNecBrLurfYPNFC3xiASO71v6k23E77RKyyRujOXUMWHbymxtrVLatdI/s1600/cynomi.jpg",
@@ -5989,6 +6025,15 @@
     "source": "The Hacker News",
     "summary": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India The Pakistan-aligned threat actor known as Transparent Tribe has become the latest hacking group to embrace artificial intelligence (AI)-powered coding tools to strike targets with various impl\u2026",
     "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India"
+  },
+  "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNf7vYlImTCJ7BCjYYEhoFZXTawhHcJJad9cFjQn98oQjaPY9HY6Qgpp6pAyqkq7CNHyVXI9fR8hcyVNlW_knYia3f0BhAlK7fZb2gplznk9v9QCFGKtIbMLTSu-erTslOxZCHd8jkJKXIcCYhK8QkKLuWjG8yxjhPBaEWUDzwY0sUkX5JvhBtzFxyfp_q/s1600/scan.jpg",
+    "published": "2026-03-20T17:47:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets.\n\u2026",
+    "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets"
   },
   "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html": {
     "categories": [],
@@ -8641,6 +8686,17 @@
     "summary": "Aisuru botnet sets new record with 31.4 Tbps DDoS attack The Aisuru/Kimwolf botnet launched a new massive distributed denial of service (DDoS) attack in December 2025, peaking at 31.4 Tbps and 200 million requests per second. [...]",
     "title": "Aisuru botnet sets new record with 31.4 Tbps DDoS attack"
   },
+  "https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-20T08:05:12+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "International joint action disrupts world\u2019s largest DDoS botnets Authorities from the United States, Germany, and Canada have taken down Command and Control (C2) infrastructure used by the Aisuru, KimWolf, JackSkid, and Mossad botnets to infect Internet of Things (IoT) devices. [\u2026",
+    "title": "International joint action disrupts world\u2019s largest DDoS botnets"
+  },
   "https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/": {
     "categories": [
       "Security"
@@ -9416,6 +9472,17 @@
     "source": "BleepingComputer",
     "summary": "CISA orders feds to patch Gogs RCE flaw exploited in zero-day attacks CISA has ordered government agencies to secure their systems against a high-severity Gogs vulnerability that was exploited in zero-day attacks. [...]",
     "title": "CISA orders feds to patch Gogs RCE flaw exploited in zero-day attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-20T15:09:12+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "CISA orders feds to patch max-severity Cisco flaw by Sunday The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity vulnerability, CVE-2026-20131, in Cisco Secure Firewall Management Center (FMC) by Sunday,\u00a0March 22. [.\u2026",
+    "title": "CISA orders feds to patch max-severity Cisco flaw by Sunday"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/": {
     "categories": [
@@ -11017,6 +11084,17 @@
     "summary": "FBI investigates breach of surveillance and wiretap systems The U.S. Federal Bureau of Investigation (FBI) confirmed on Thursday that it's investigating a breach that affected systems used to manage surveillance and wiretap warrants. [...]",
     "title": "FBI investigates breach of surveillance and wiretap systems"
   },
+  "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-20T20:45:52+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "FBI links Signal phishing attacks to Russian intelligence services The FBI has issued a public service announcement warning that Russian intelligence-linked threat actors are actively targeting users of encrypted messaging apps such as Signal and WhatsApp in\u00a0phishing campaigns th\u2026",
+    "title": "FBI links Signal phishing attacks to Russian intelligence services"
+  },
   "https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/": {
     "categories": [
       "Security"
@@ -12262,6 +12340,17 @@
     "summary": "How Agentic BAS AI Turns Threat Headlines Into Defense Strategies Picus Security explains why relying on LLM-generated attack scripts is risky and how an agentic approach maps real threat intel to safe, validated TTPs. Their breakdown shows how teams can turn headline threats int\u2026",
     "title": "How Agentic BAS AI Turns Threat Headlines Into Defense Strategies"
   },
+  "https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-20T14:01:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "How CISOs Can Survive the Era of Geopolitical Cyberattacks Geopolitical tensions are driving destructive cyberattacks designed to disrupt operations, not demand ransom. CISOs must limit lateral movement and contain breaches to reduce the impact of wiper campaigns. [...]",
+    "title": "How CISOs Can Survive the Era of Geopolitical Cyberattacks"
+  },
   "https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/": {
     "categories": [
       "Security"
@@ -13418,6 +13507,17 @@
     "summary": "Multiple London councils' IT systems disrupted by cyberattack The Royal Borough of Kensington and Chelsea (RBKC) and the Westminster City Council (WCC)\u00a0announced that they are experiencing service disruptions following a cybersecurity issue. [...]",
     "title": "Multiple London councils' IT systems disrupted by cyberattack"
   },
+  "https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-20T09:33:33+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Musician admits to $10M streaming royalty fraud using AI bots North Carolina musician Michael Smith has pleaded guilty to collecting over $10 million in royalty payments through a massive streaming royalty fraud scheme on Spotify, Apple Music, Amazon Music, and YouTube Music. [..\u2026",
+    "title": "Musician admits to $10M streaming royalty fraud using AI bots"
+  },
   "https://www.bleepingcomputer.com/news/security/nakivo-introduces-v111-with-upgraded-disaster-recovery-and-msp-features/": {
     "categories": [
       "Security"
@@ -14283,6 +14383,17 @@
     "summary": "OpenAI discloses API customer data breach via Mixpanel vendor hack OpenAI is notifying some ChatGPT API customers that limited identifying information was exposed following a breach at its third-party analytics provider Mixpanel. [...]",
     "title": "OpenAI discloses API customer data breach via Mixpanel vendor hack"
   },
+  "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-20T18:48:47+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Oracle pushes emergency fix for critical Identity Manager RCE flaw Oracle has released an out-of-band security update to fix a critical unauthenticated remote code execution vulnerability in Identity Manager and Web Services Manager tracked as CVE-2026-21992. [...]",
+    "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw"
+  },
   "https://www.bleepingcomputer.com/news/security/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys/": {
     "categories": [
       "Security"
@@ -14607,6 +14718,17 @@
     "source": "BleepingComputer",
     "summary": "Police sinkholes 45,000 IP addresses in cybercrime crackdown An international law enforcement action codenamed \"Operation Synergia III\" has sinkholed tens of thousands of IP addresses and seized servers linked to cybercrime operations worldwide. [...]",
     "title": "Police sinkholes 45,000 IP addresses in cybercrime crackdown"
+  },
+  "https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-20T17:19:02+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Police take down 373,000 fake CSAM sites in Operation Alice An international law enforcement action called Operation Alice has shut down over 373,000 dark web sites that offered fake CSAM packages. [...]",
+    "title": "Police take down 373,000 fake CSAM sites in Operation Alice"
   },
   "https://www.bleepingcomputer.com/news/security/police-takes-down-cryptomixer-cryptocurrency-mixing-service/": {
     "categories": [
@@ -17598,6 +17720,15 @@
     "summary": "Critical 'MongoBleed' Bug Under Active Attack, Patch Now A memory leak security vulnerability allows unauthenticated attackers to extract passwords and tokens from MongoDB servers.",
     "title": "Critical 'MongoBleed' Bug Under Active Attack, Patch Now"
   },
+  "https://www.darkreading.com/cloud-security/native-launches-security-control-plane-multicloud": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d9cfad3cb569366/6852ccdd054857546446b424/cloudsecurity_PeachayaTanomsup_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-19T20:08:11+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Native Launches With Security Control Plane for Multicloud The cloud security startup's platform translates and enforces security policies across AWS, Azure, Google Cloud, and Oracle using provider-native controls.",
+    "title": "Native Launches With Security Control Plane for Multicloud"
+  },
   "https://www.darkreading.com/cloud-security/phishers-exploit-office-365-users-guard-down": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt25111ddc90b9d039/695eb555cbf6072c0543fa19/Fishing_caia_image_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -18171,6 +18302,15 @@
     "source": "darkreading",
     "summary": "Why Post-Quantum Cryptography Can't Wait Organizations have to prepare to ensure they have cryptography in place in the post-quantum world.",
     "title": "Why Post-Quantum Cryptography Can't Wait"
+  },
+  "https://www.darkreading.com/cyber-risk/with-government-role-uncertain-businesses-unite-to-combat-fraud": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt852374154dc9b41e/680964f6901a150e471ede06/Cyber_fraud_(1800)_Olekcii_Mach_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-19T20:43:01+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "With Government's Role Uncertain, Businesses Unite to Combat Fraud Major industry leaders agree to share information and collaborate to boost defenses in the wake of distressing online scams.",
+    "title": "With Government's Role Uncertain, Businesses Unite to Combat Fraud"
   },
   "https://www.darkreading.com/cyber-risk/zombie-projects-rise-again-undermine-security": {
     "categories": [],
@@ -20092,6 +20232,15 @@
     "summary": "Indian APT 'Sloppy Lemming' Targets Defense, Critical Infrastructure India-nexus cyber threat actors are growing more active and sophisticated, using custom tools coded in Rust and cloud-based command and control.",
     "title": "Indian APT 'Sloppy Lemming' Targets Defense, Critical Infrastructure"
   },
+  "https://www.darkreading.com/threat-intelligence/interlock-ransomware-targets-cisco-enterprise-firewalls": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc20a31ce918ced0e/69bc51ca221466202f29a950/Interlocking_Gears_Zoonar_GmbH_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-20T13:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Interlock Ransomware Targets Cisco Enterprise Firewalls The ransomware gang, known for double-extortion attacks, had access to a critical Cisco firewall vulnerability weeks before it was publicly disclosed.",
+    "title": "Interlock Ransomware Targets Cisco Enterprise Firewalls"
+  },
   "https://www.darkreading.com/threat-intelligence/iran-apt-spying-dissidents": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5cd0b7be5e90b1c4/69406360211d3e790fe91879/Prince_of_Persia-ArcadeImages-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -20267,6 +20416,15 @@
     "source": "darkreading",
     "summary": "Sprawling 'Operation Sentinel' Neutralizes African Cybercrime Syndicates Interpol said law enforcement across 19 countries made 574 arrests and recovered $3 million, against a backdrop of spiraling cybercrime in the region, including business email compromise, digital extortion, \u2026",
     "title": "Sprawling 'Operation Sentinel' Neutralizes African Cybercrime Syndicates"
+  },
+  "https://www.darkreading.com/threat-intelligence/opsec-beast-gang-exposes-ransomware-server": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt37940faf94d51576/69bd782de800671de0dc9622/beast-masks-at-hungarian-spring-carnival-Zsolt_Biczo-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-20T16:31:33+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Cyber OpSec Fail: Beast Gang Exposes Ransomware Server Files on a central cloud server used by the ransomware group highlight a systematic, aggressive attack on network backups as a key TTP.",
+    "title": "Cyber OpSec Fail: Beast Gang Exposes Ransomware Server"
   },
   "https://www.darkreading.com/threat-intelligence/packer-as-a-service-shanya-hides-ransomware-kills-edr": {
     "categories": [],
@@ -20685,6 +20843,15 @@
     "source": "darkreading",
     "summary": "Patch Now: Microsoft Flags Zero-Day &amp; Critical Zero-Click Bugs Security teams may have a less burdensome rollout in November after October's Goliath Patch Tuesday, but shouldn't wait on a few top-priority fixes.",
     "title": "Patch Now: Microsoft Flags Zero-Day &amp; Critical Zero-Click Bugs"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/patch-oracle-fusion-middleware-rce-flaw": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3966162dd76f69cb/69bd954678da062bb91c2e6a/Oracle-Jerome_Cid-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-20T19:30:19+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Patch Now: Oracle's Fusion Middleware Has Critical RCE Flaw Attackers can execute arbitrary code without authentication if Oracle's Identity or Web Services Managers are exposed to the Web.",
+    "title": "Patch Now: Oracle's Fusion Middleware Has Critical RCE Flaw"
   },
   "https://www.darkreading.com/vulnerabilities-threats/react2shell-under-attack-china-nexus-groups": {
     "categories": [],
