@@ -5360,6 +5360,15 @@
     "summary": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a medium-severity security flaw impacting Wing FTP to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of a\u2026",
     "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths"
   },
+  "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJQDea3eiUAONNSYkmQsjicwXBMSALOAUJi7yPHqOStd9N-KBADSGXjH5zJS66VPyzi7-w5ULK7Ax9qH66_Av9E3xIL8BB7sDKz9d-ZbmlyqeyfKyCUYBb15eOH5_keQQ-RUchVoh7NvguG3Ps8sau8Ik17QNOMVtmTkQEck9gao_1zcLPE8JE_qPvc4Q9/s1600/cisa-kev.jpg",
+    "published": "2026-03-21T08:25:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026 The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws impacting Apple, Craft CMS, and Laravel Livewire to its Known Exploited Vulnerabilities (KEV) ca\u2026",
+    "title": "CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026"
+  },
   "https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ3Jqmj7G6SohXnwkh-xbheyTYoylchcxew5kAJKo9InrbQ0QqVtNQ2hgFc5UuSyQ7sljAfkAlfMzlclT3LQetQdmpqqm3vyb9sZQO2QogQ55M8CpUjCAPMWXEYbtQHbT93Cg7cpWNH2Zq5RtU1T515FT_OAfFKj50HXF8Uwb1VgkLHIhjd-vNZWPRKQdf/s1600/cisa-kev.jpg",
@@ -5521,6 +5530,15 @@
     "source": "The Hacker News",
     "summary": "FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials A joint law enforcement operation has dismantled LeakBase, one of the world's largest online forums for cybercriminals to buy and sell stolen data and cybercrime tools.\nThe LeakBase forum, per the U.S. Departme\u2026",
     "title": "FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials"
+  },
+  "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiMsZnvgdoACYJn8WjDy_Lpvpy1iqvGpj-vb4hYfYTLujLp_5dm8WZKjl64LYwY4-MON0-1k8-F2K3KDu0QG7isYjhaMvre0E0vrqJCSP49r2j374JPbV6WvkTG8lwqwrxquX-3xrReaA3G-NQGvskSnlOtM1XRj1J3MdPuCK9lXC6vf8ZkrCizN6ohcLC/s1600/signal-whatsapp.jpg",
+    "published": "2026-03-21T13:17:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accounts be\u2026",
+    "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks"
   },
   "https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html": {
     "categories": [],
@@ -5873,6 +5891,15 @@
     "summary": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration China's National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw (formerly Clawdbot and Moltbot), an open-source and s\u2026",
     "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration"
   },
+  "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIh9aqIMPc6elNLcqZwmxGq0BHfA3NS2kkxawAr-H7SzPJKmvc7tXrykcm664TGFkJUIb_BmGpJV0CkEjIxVoRfTCrc8br5bi_TL93Nv_g7J_c9ccucZL4e55lp_zyywwBeAzDIoA1bnI95ELRLCbOyVf0WX0CGgGHLun2uQFKhqeMKf16nBOeJTO7O77/s1600/oracle-flaw-hack.jpg",
+    "published": "2026-03-21T10:24:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager Oracle has released security updates to address a critical security flaw impacting Identity Manager and Web Services Manager that could be exploited to achieve remote code execution.\nThe vulne\u2026",
+    "title": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager"
+  },
   "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1kV8IdraKTyGmXfKTap-DKE7krpM6SchfXQZlvruEBaaJyCbG0HQuJD3B08AkkIZF6Ej7oQ2Nr3AfzVD5klERt782T3IuCPT8tSYm49B6j6se-IH7d0XC4kBcTPl-yp3tsA_YmhrZsB0On2ukhH1rhlSaG3fpRXNrSzpbMEoVu_EBoiMGcbFVg9AcWTC/s1600/webinar.jpg",
@@ -6034,6 +6061,15 @@
     "source": "The Hacker News",
     "summary": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets.\n\u2026",
     "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets"
+  },
+  "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJqn31IC9aCQ9LMLCLRXgpwsa1gvtzXlYk20-1yRmCMYVM_MwGHedfSgbKl24yaeTx4fqRc4-vscge-d3P6sN8sErQBVGD0kgxMGzV-mDCI1wGFh87BB8me019zcennhvA6xyMHLnH9IKZ-txSWs9OwL5cGbg0X8sx_KZ2tj5A5awErRRRMbdSrw_cXs6a/s1600/npm-malware.jpg",
+    "published": "2026-03-21T08:25:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm pac\u2026",
+    "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages"
   },
   "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html": {
     "categories": [],
@@ -11659,6 +11695,19 @@
     "summary": "Going the Extra Mile: Travel Rewards Turn into Underground Currency. Stolen airline miles are converted into flights and hotel stays, then resold as discounted travel. Flare shows how cybercriminals and underground markets treat loyalty accounts like tradable currency. [...]",
     "title": "Going the Extra Mile: Travel Rewards Turn into Underground Currency."
   },
+  "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/": {
+    "categories": [
+      "Security",
+      "Google",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-03-21T14:18:23+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google adds \u2018Advanced Flow\u2019 for safe APK sideloading on Android Google has announced a new mechanism in Android called Advanced Flow that will allow sideloading APKs from unverified developers for power users in a more secure way. [...]",
+    "title": "Google adds \u2018Advanced Flow\u2019 for safe APK sideloading on Android"
+  },
   "https://www.bleepingcomputer.com/news/security/google-ads-for-shared-chatgpt-grok-guides-push-macos-infostealer-malware/": {
     "categories": [
       "Security",
@@ -13278,6 +13327,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft 365 accounts targeted in wave of OAuth phishing attacks Multiple threat actors are compromising Microsoft 365 accounts in phishing attacks that leverage the\u00a0OAuth device code authorization mechanism. [...]",
     "title": "Microsoft 365 accounts targeted in wave of OAuth phishing attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-21T14:09:19+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Azure Monitor alerts abused for callback phishing attacks Microsoft Azure Monitor alerts are being abused to send callback phishing emails that impersonate warnings from the Microsoft Security Team about unauthorized charges on your account. [...]",
+    "title": "Microsoft Azure Monitor alerts abused for callback phishing attacks"
   },
   "https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/": {
     "categories": [
@@ -15979,6 +16039,17 @@
     "source": "BleepingComputer",
     "summary": "Trend Micro warns of critical Apex One code execution flaws Trend Micro has patched two critical Apex One vulnerabilities\u00a0that allow attackers to gain remote code execution (RCE) on vulnerable\u00a0Windows systems. [...]",
     "title": "Trend Micro warns of critical Apex One code execution flaws"
+  },
+  "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-21T17:30:41+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions The Trivy vulnerability scanner was compromised in a supply-chain attack by threat actors known as TeamPCP, which distributed credential-stealing malware through official releases and GitHub Actions. [...]",
+    "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions"
   },
   "https://www.bleepingcomputer.com/news/security/trust-wallet-confirms-extension-hack-led-to-7-million-crypto-theft/": {
     "categories": [
