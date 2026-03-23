@@ -5612,6 +5612,15 @@
     "summary": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8 Google on Thursday released security updates for its Chrome web browser to address two high-severity vulnerabilities that it said have been exploited in the wild.\nThe list of vulnerabilities is as follo\u2026",
     "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8"
   },
+  "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuTlyFHjxX97gPhHFjyvPGAPsLFbWQSHzAofYEPTsqZS1Xyc4KjjMDOqW-N7Iku9d1cuOJLI7EMdA-kA5X86I2neC5efkXETfsIVOZcIEVfLxWKFEnR3qXfgpLxXvG3ZKixxV_bmEDxXIN_65QzgRKguXIJkQhzY50ROEEV5irUXNeuekFatz88Yk_BONZ/s1600/kace.jpg",
+    "published": "2026-03-23T06:15:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems Threat actors are suspected to be exploiting a maximum-severity security flaw impacting Quest KACE Systems Management Appliance (SMA), according to Arctic Wolf.\nThe cybersecurity company said it\u2026",
+    "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems"
+  },
   "https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1dAatoZKBR1txy7hG-8XLixhMv5jhZEjgT_asHnTfyxS1KK9tOrJNwk2MSbXOL1ZoH8-18chWJUuLnegz6ByTRQuljhmqPu9W_BxQSQR7n45B1M3D1XHrwkne4uzqurGVkqDhyphenhyphendkfISqLjawr0HzRQX7ZhfXa-jB3hJ5V0oMr3TOebv_rcpcw9I3ym6v1/s1600/cisa.jpg",
@@ -16570,6 +16579,17 @@
     "source": "BleepingComputer",
     "summary": "VoidLink cloud malware shows clear signs of being AI-generated The recently discovered cloud-focused VoidLink malware framework is believed to have been developed by a single person with the help of an artificial intelligence model. [...]",
     "title": "VoidLink cloud malware shows clear signs of being AI-generated"
+  },
+  "https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-22T14:32:46+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "VoidStealer malware steals Chrome master key via debugger trick An information stealer called VoidStealer uses a new approach to bypass Chrome's Application-Bound Encryption (ABE) and extract the master key for decrypting sensitive data stored in the browser. [...]",
+    "title": "VoidStealer malware steals Chrome master key via debugger trick"
   },
   "https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/": {
     "categories": [
