@@ -5477,6 +5477,15 @@
     "summary": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover A new exploit kit for Apple iOS devices designed to steal sensitive data from is being wielded by multiple threat actors since at least November 2025, according to reports from Google Threat Intelligence\u2026",
     "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover"
   },
+  "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifvDHwUAT0Y5sILbpMYi15pftc8kD-oPKrtaUucJ0PLeFRnxKsA14uMC3zCpTPZwj0w7GBTqFQCMfmwzzy_tv-RYTVBijk_x2KWzKkS68n9QfolIhr2B3rSMTGJWg3qt9ZbTYWDiyHmKNT6yD47XPMyS2aj8DF_lyKGKKGWfIsohBlWJvjS_Z3j_XqMZQ/s1600/ms-phish-kit.jpg",
+    "published": "2026-03-25T11:34:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse Cybersecurity researchers are calling attention to an active device code phishing campaign that's targeting Microsoft 365 identities across more than 340 organizations in the U.S., Canada, Aus\u2026",
+    "title": "Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse"
+  },
   "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinuGXmHjiDQoCgH14v3lddFUEZQ96DLgTZ_Q8k7l7lpnGTX4zzeJ78e0MLRH8L3Bah3_zMnLI4kVNn3RDbnlzXpzchm5mg_1SDo0mCETmOylAS9qCPuMVRhtAfVWDzHUDwK2fRNiACoXo3oPWR8VV0E3m5svUSuDATtF4O_CIC05Vco5m3dN9MR9D7V-JP/s1600/botnet-malware.jpg",
@@ -5558,6 +5567,15 @@
     "summary": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accounts be\u2026",
     "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks"
   },
+  "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCWdGgQ4RKWsSD83uBmdU0Vfi3E1vEi1qS7ImOYUXa9S6eDs5ShKP0tz3sZL5FPdt6lzwG4scb7HQPjGnsdPDFNWxZ2k8yK-whH4uU9_Ez3Nt5178ETgKceu4LpAPntUZZ7utBkHBd261B5Ltt2weQVT94qjY4wcRRGfSpv1sAZLjAVDc_oSNMPiISo4dU/s1600/routers.jpg",
+    "published": "2026-03-25T07:11:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns The U.S. Federal Communications Commission (FCC) said on Monday that it was banning the import of new, foreign-made consumer routers, citing \"unacceptable\" risks to cyber and national security.\nThe action\u2026",
+    "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns"
+  },
   "https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzAdo0qx6xgUYxpWZkp4v30357zGX7ojSkN1vbfazb6D_JiXd9ksAHFNZJzY6pleKYV_HeYZcgJ48U36zUMPSJFR9bPUvFz18THXzTTnvhembJW9wrCypxj_2ttelgwbBwOD__5Yr-WGIBw1XthSLi6UZy3QtLZfmt7j_P8fOxZmm0PQwPAMCtNKkQzz1n/s1600/rust.jpg",
@@ -5593,6 +5611,15 @@
     "source": "The Hacker News",
     "summary": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos The GlassWorm malware campaign is being used to fuel an ongoing attack that leverages the stolen GitHub tokens to inject malware into hundreds of Python repositories.\n\"The attack targets Python pro\u2026",
     "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos"
+  },
+  "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvLAu4RdpX-vvdNOKVtvqBhpnDMoSdpatgQ3X32zeCmcAhOUZxJo37kHAf-0sBO3tTY8Pc6i4Jr9CWHwZ1nR7ikRy86CVMizlgDH40OF0kr3P7otHCE9-3ghivGFG1bBoRrWsW-gD-OAqt7DI6pRuPA_NtnUkoQbW_FPB1NdgNmQwdhiFLqiWo1dHnsu2P/s1600/main-s.jpg",
+    "published": "2026-03-25T14:26:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data Cybersecurity researchers have flagged a new evolution of the GlassWorm campaign that delivers a multi-stage framework capable of comprehensive data theft and installing a remote access trojan \u2026",
+    "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data"
   },
   "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html": {
     "categories": [],
@@ -5764,6 +5791,15 @@
     "source": "The Hacker News",
     "summary": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware North Korean threat actors have been observed sending phishing to compromise targets and obtain access to a victim's KakaoTalk desktop application to distribute malicious payloads to certain contacts.\nThe \u2026",
     "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware"
+  },
+  "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj9UqvCgUXI-P9n0pHIj0a2d6gtlUe5ioSOzReAYnBthLWrwGhD0B9EKIlrrhiA8gsF61npoVKP8y1HftTKWD9xgTg0qBOHw2N3qn0Gak0BUAV9Jt2s8BmhzR9cLjOE5ynzKm8obB3G-fECJQ3bN1G8GVv2wgyKkLZ5JpYQKUyuVtTa2z27pHL9IN-th1k/s1600/leakbase.jpg",
+    "published": "2026-03-25T17:35:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday.\nAccording to TASS and MVD Media, a news website linked \u2026",
+    "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace"
   },
   "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html": {
     "categories": [],
@@ -5990,6 +6026,15 @@
     "summary": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes Agentic web browsers that leverage artificial intelligence (AI) capabilities to autonomously execute actions across multiple websites on behalf of a user could be trained and tricked into fal\u2026",
     "title": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes"
   },
+  "https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSFQsR3JgSCA44WGyYmcmFuACIlDkUDxOnRar3b3B-JHXTZq_dxARV6GEM5gvclJQktlfwnU88fV1Gzcr3HO7EJHoeE5kYA262Vv0SlCB6XPuyAiTSas8Iw0Ca5QkvnGaduv0Dt9euHjKn6A6lYWAHkpXPjbBRdmV1piwxsILM8wcfgT6mjtgQeEB4BUk/s1600/ransomware-russia.jpg",
+    "published": "2026-03-25T11:52:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks The U.S. Department of Justice (DoJ) said a Russian national has been sentenced to two years in prison for managing a botnet that was used to launch ransomware attacks against U.S. companies.\nIlya Ange\u2026",
+    "title": "Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks"
+  },
   "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjBG0q0txzazIOX6qmjJRAOlDmf27AY4QSQqf6Yqm4RUF6iNRgbo4T9mFhUoYDved5zs0MBrJYPTjpGhvs0ZWjUhlckqK97St9FlJrVT2BOKfslWcA_42FOySa0HT7razFyzHt2AKP76uwVzjDvYTwkNTs2M-TeC7Ospf0uLvbI6OGYhWh7Lf33DA9gCUt/s1600/banking-trojan.jpg",
@@ -6088,6 +6133,15 @@
     "source": "The Hacker News",
     "summary": "The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks Artificial Intelligence (AI) is changing how individuals and organizations conduct many activities, including how cybercriminals carry out phishing attacks and iterate on malware. Now, cybercriminals are using AI \u2026",
     "title": "The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks"
+  },
+  "https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIxwugQQz3vBJ2pK2wCB_DYKIxoDHo60x7SHE5WQonARyDulZoAc7X7LDiThunfB_Q60swcE_gAMuqSwHykOcGvFnU3TRlGMbIiYJvAuJAStlKGb8m6wjPeQx62PsOMzAaF6RfDaK6G8sPzgMfzNOu1KZZ5AEUnjq5G9NusUMnMo5EEpIQWN9DyajDuCs/s1600/reco.jpg",
+    "published": "2026-03-25T11:58:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "The Kill Chain Is Obsolete When Your AI Agent Is the Threat In September 2025, Anthropic disclosed that a state-sponsored threat actor used an AI coding agent to execute an autonomous cyber espionage campaign against 30 global targets. The AI handled 80-90% of tactical operations\u2026",
+    "title": "The Kill Chain Is Obsolete When Your AI Agent Is the Threat"
   },
   "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html": {
     "categories": [],
@@ -7157,6 +7211,18 @@
     "source": "BleepingComputer",
     "summary": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites A Spanish court has granted precautionary measures against NordVPN and ProtonVPN, ordering the two popular VPN providers to block 16 websites that facilitate piracy of football matches. [...]",
     "title": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites"
+  },
+  "https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/": {
+    "categories": [
+      "Linux",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-25T12:31:26+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Kali Linux 2026.1 released with 8 new tools, new BackTrack mode Kali Linux 2026.1, the first release of the year, is now available for download, featuring 8 new tools, a theme refresh, and a new BackTrack mode for Kali-Undercover. [...]",
+    "title": "Kali Linux 2026.1 released with 8 new tools, new BackTrack mode"
   },
   "https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/": {
     "categories": [
@@ -9351,6 +9417,18 @@
     "summary": "BreachForums hacking forum database leaked, exposing 324,000 accounts The latest incarnation of the notorious BreachForums hacking forum has suffered a data breach, with its user database table leaked online. [...]",
     "title": "BreachForums hacking forum database leaked, exposing 324,000 accounts"
   },
+  "https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-03-25T19:48:36+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Bubble AI app builder abused to steal Microsoft account credentials Threat actors are evading phishing detection in campaigns targeting Microsoft accounts by abusing the no-code app-building platform Bubble to generate and host malicious web apps. [...]",
+    "title": "Bubble AI app builder abused to steal Microsoft account credentials"
+  },
   "https://www.bleepingcomputer.com/news/security/california-man-admits-to-laundering-crypto-stolen-in-230m-heist/": {
     "categories": [
       "Security"
@@ -10016,6 +10094,17 @@
     "source": "BleepingComputer",
     "summary": "Cisco warns of unpatched AsyncOS zero-day exploited in attacks \u200bCisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) appliances. [...]",
     "title": "Cisco warns of unpatched AsyncOS zero-day exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-25T15:52:10+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Citrix urges admins to patch NetScaler flaws as soon as possible Citrix has patched two NetScaler ADC and NetScaler Gateway vulnerabilities, one of which is very similar to the CitrixBleed and CitrixBleed2 flaws exploited in zero-day attacks in recent years. [...]",
+    "title": "Citrix urges admins to patch NetScaler flaws as soon as possible"
   },
   "https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/": {
     "categories": [
@@ -11859,6 +11948,18 @@
     "source": "BleepingComputer",
     "summary": "GhostPoster attacks hide malicious JavaScript in Firefox addon logos A new campaign dubbed 'GhostPoster' is hiding JavaScript code in the image logo of malicious Firefox extensions counting more than\u00a050,000 downloads, to monitor browser activity and plant a backdoor. [...]",
     "title": "GhostPoster attacks hide malicious JavaScript in Firefox addon logos"
+  },
+  "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-03-25T23:23:39+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "GitHub adds AI-powered bug detection to expand security coverage GitHub is adopting AI-based scanning for its Code Security tool to expand vulnerability detections beyond the\u00a0CodeQL static analysis\u00a0and cover\u00a0more languages and frameworks. [...]",
+    "title": "GitHub adds AI-powered bug detection to expand security coverage"
   },
   "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-high-severity-2fa-bypass-denial-of-service-flaws/": {
     "categories": [
@@ -14331,6 +14432,19 @@
     "summary": "New tool blocks imposter attacks disguised as safe commands A new open-source and cross-platform tool called Tirith can detect homoglyph attacks over command-line environments by analyzing URLs in typed commands and stopping their execution.\u00a0 [...]",
     "title": "New tool blocks imposter attacks disguised as safe commands"
   },
+  "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency",
+      "Healthcare"
+    ],
+    "image": "",
+    "published": "2026-03-25T18:32:37+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New Torg Grabber infostealer malware targets 728 crypto wallets A new info-stealing malware called Torg Grabber is stealing sensitive data from 850 browser extensions, more than 700 of them for cryptocurrency wallets. [...]",
+    "title": "New Torg Grabber infostealer malware targets 728 crypto wallets"
+  },
   "https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/": {
     "categories": [
       "Security",
@@ -14804,6 +14918,17 @@
     "summary": "ownCloud urges users to enable MFA after credential theft reports File-sharing platform ownCloud warned users today to enable multi-factor authentication (MFA) to block attackers using compromised credentials from stealing their data. [...]",
     "title": "ownCloud urges users to enable MFA after credential theft reports"
   },
+  "https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-25T14:02:12+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Paid AI Accounts Are Now a Hot Underground Commodity AI accounts are becoming part of the cybercrime supply chain, sold like email accounts or VPS access. Flare Systems shows how underground markets bundle and resell premium AI access at scale. [...]",
+    "title": "Paid AI Accounts Are Now a Hot Underground Commodity"
+  },
   "https://www.bleepingcomputer.com/news/security/paint-maker-giant-akzonobel-confirms-cyberattack-on-us-site/": {
     "categories": [
       "Security"
@@ -15085,6 +15210,17 @@
     "source": "BleepingComputer",
     "summary": "Police takes down Cryptomixer cryptocurrency mixing service Law enforcement officers from Switzerland and Germany have taken down the Cryptomixer cryptocurrency-mixing service, believed to have helped cybercriminals launder over \u20ac1.3 billion in Bitcoin\u00a0since its launch in 2016. [\u2026",
     "title": "Police takes down Cryptomixer cryptocurrency mixing service"
+  },
+  "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-25T21:40:21+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "PolyShell attacks target 56% of all vulnerable Magento stores Attacks leveraging the 'PolyShell' vulnerability in version 2 of Magento Open Source and Adobe Commerce installations are underway, targeting more than half of all vulnerable stores. [...]",
+    "title": "PolyShell attacks target 56% of all vulnerable Magento stores"
   },
   "https://www.bleepingcomputer.com/news/security/popular-android-based-photo-frames-download-malware-on-boot/": {
     "categories": [
@@ -15557,6 +15693,17 @@
     "source": "BleepingComputer",
     "summary": "Russian hackers exploit recently patched Microsoft Office bug in attacks Ukraine's Computer Emergency Response Team (CERT) says that Russian hackers are exploiting CVE-2026-21509, a recently patched vulnerability in\u00a0multiple versions of Microsoft Office. [...]",
     "title": "Russian hackers exploit recently patched Microsoft Office bug in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-25T08:47:29+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Manager of botnet used in ransomware attacks gets 2 years in prison A Russian national has been sentenced to two years in prison after admitting that the phishing botnet he managed was used to launch BitPaymer ransomware attacks against 72 U.S. companies. [...]",
+    "title": "Manager of botnet used in ransomware attacks gets 2 years in prison"
   },
   "https://www.bleepingcomputer.com/news/security/salesforce-investigates-customer-data-theft-via-gainsight-breach/": {
     "categories": [
@@ -16335,6 +16482,17 @@
     "source": "BleepingComputer",
     "summary": "Tor switches to new Counter Galois Onion relay encryption algorithm Tor has announced improved encryption and security for the circuit traffic by replacing the old tor1 relay encryption\u00a0algorithm with a new design called Counter Galois Onion (CGO). [...]",
     "title": "Tor switches to new Counter Galois Onion relay encryption algorithm"
+  },
+  "https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-25T11:11:00+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "TP-Link warns users to patch critical router auth bypass flaw TP-Link has patched several vulnerabilities in its Archer NX router series, including a critical-severity flaw that may allow attackers to bypass authentication and upload new firmware. [...]",
+    "title": "TP-Link warns users to patch critical router auth bypass flaw"
   },
   "https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/": {
     "categories": [
@@ -18130,6 +18288,15 @@
     "summary": "Attackers Use Stolen AWS Credentials in Cryptomining Campaign Threat actors wielding stolen AWS Identity and Access Management (IAM) credentials leverage Amazon EC and EC2 infrastructure across multiple customer environments.",
     "title": "Attackers Use Stolen AWS Credentials in Cryptomining Campaign"
   },
+  "https://www.darkreading.com/cloud-security/csa-launches-csai-ai-security": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9b937f8191f7db1/68373d80713d870ca9cf4bdf/AI_(1800)_imageBROKER.com_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-24T22:34:28+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "CSA Launches CSAI Foundation for AI Security The Cloud Security Alliance creates a dedicated nonprofit to govern autonomous AI agent ecosystems through risk intelligence and certification.",
+    "title": "CSA Launches CSAI Foundation for AI Security"
+  },
   "https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5944ff3c70db0683/6986198322e6317c725733b5/2D75J4G.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -18327,6 +18494,15 @@
     "summary": "Attackers Now Need Just 29 Minutes to Own a Network Credential misuse, AI tools, and security blind spots help attackers move through breached networks faster than ever, CrowdStrike finds.",
     "title": "Attackers Now Need Just 29 Minutes to Own a Network"
   },
+  "https://www.darkreading.com/cyber-risk/blame-game-public-cyber-attribution-risks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbbe33d71e28ff223/69c3e7ff61dacc035fd0cad3/Attribution_rule_book_designer491_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-25T16:03:29+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Blame Game: Why Public Cyber Attribution Carries Risks Publicly accusing an entity of a cyberattack could have negative consequences that organizations should consider before taking the plunge.",
+    "title": "Blame Game: Why Public Cyber Attribution Carries Risks"
+  },
   "https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt70c2ac1b79b49742/697283ecb23c6f9776d4c9bb/Yutong-Cynthia_Lee-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -18476,6 +18652,24 @@
     "source": "darkreading",
     "summary": "EU Auto Rules Shift Gears on Cybersecurity Standards The European Union is taking new precautions as climate change and cybersecurity threats rise across the automotive industry.",
     "title": "EU Auto Rules Shift Gears on Cybersecurity Standards"
+  },
+  "https://www.darkreading.com/cyber-risk/ex-nsa-directors-red-line-offensive-cyberattacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltba60c0dd556d976d/69c36d2546de0c75e0fbcc67/NSA_panel_Alexander_Culafi.JPEG?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-25T11:55:50+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Ex-NSA Directors Discuss 'Red Line' for Offensive Cyberattacks Four former NSA chiefs representing a near-complete history of US Cyber Command debated and discussed the role of offensive cyber in the government.",
+    "title": "Ex-NSA Directors Discuss 'Red Line' for Offensive Cyberattacks"
+  },
+  "https://www.darkreading.com/cyber-risk/experts-near-miss-database-improve-information-sharing": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3f4e5dfde3293085/64f17dc3598d8097415a9af7/confusion-Andriy-Popov-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-25T14:09:01+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Why a 'Near Miss' Database Is Key to Improving Information Sharing Organizations disclose attack details, though information may be limited, following a breach, but what if they did the same with close calls?",
+    "title": "Why a 'Near Miss' Database Is Key to Improving Information Sharing"
   },
   "https://www.darkreading.com/cyber-risk/gcve-raises-concerns-fragmentation-vulnerability-database": {
     "categories": [],
@@ -18642,6 +18836,15 @@
     "source": "darkreading",
     "summary": "Ransomware Gang Goes Full 'Godfather' With Cartel Since its launch in 2023, DragonForce has pushed a cartel model, emphasizing cooperation and coordination among ransomware gangs.",
     "title": "Ransomware Gang Goes Full 'Godfather' With Cartel"
+  },
+  "https://www.darkreading.com/cyber-risk/rsac-eu-leads-us-officials-sidelined": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb35ee8873789c8f7/69c449c675d6b1b7bb6bf41e/US_and_EU_Dragon_Claws_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-25T21:52:38+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "At RSAC, the EU Leads While US Officials Are Sidelined While US government sits out this year, EU officials are on the ground in San Francisco leading the conversations on today's top cybersecurity challenges.",
+    "title": "At RSAC, the EU Leads While US Officials Are Sidelined"
   },
   "https://www.darkreading.com/cyber-risk/sednit-resurfaces-with-sophisticated-new-toolkit": {
     "categories": [],
@@ -19124,6 +19327,15 @@
     "summary": "Operation DoppelBrand: Weaponizing Fortune 500 Brands The GS7 cyberthreat group targets US financial institutions with near-perfect imitations of corporate portals to steal credentials and gain remote access.",
     "title": "Operation DoppelBrand: Weaponizing Fortune 500 Brands"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/phishers-pose-palo-alto-networks-recruiters-job-scam": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta383f95ada672aca/69c3c4983a227b9b4df06359/Jobs_(1800)_Panther_Media_GmbH_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-25T15:05:52+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Phishers Pose as Palo Alto Networks' Recruiters for Months in Job Scam A series of campaigns that began in August aim to defraud job candidates, using psychological tactics and data scraped from LinkedIn profiles.",
+    "title": "Phishers Pose as Palo Alto Networks' Recruiters for Months in Job Scam"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/police-disrupt-cryptomixer-seize-millions-crypto": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5202efd1ce51a018/692de37a0cb02e6e04ddd678/Bitcoin_over_dollar_RobertAx_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -19408,6 +19620,15 @@
     "source": "darkreading",
     "summary": "AI Dominates RSAC Innovation Sandbox The 10 finalists will each have three minutes to make their case for being the most innovative, promising young security company of the year.",
     "title": "AI Dominates RSAC Innovation Sandbox"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/ai-native-security-counter-attacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6da71c7236b44e30/694ae29f19b0239070b0480f/AI_brain_sleepyellow_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-25T12:26:14+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI-Native Security Is a Must to Counter AI-Based Attacks Attacks by artificial intelligence agents are a reality. Experts at Nvidia's GTC conference say defenders need to use the same tools to fight them off.",
+    "title": "AI-Native Security Is a Must to Counter AI-Based Attacks"
   },
   "https://www.darkreading.com/cybersecurity-operations/ai-security-agents-get-personas-make-them-more-appealing": {
     "categories": [],
@@ -21051,6 +21272,15 @@
     "source": "darkreading",
     "summary": "Sandworm Blamed for Wiper Attack on Poland Power Grid Researchers attributed the failed attempt to the infamous Russian APT Sandworm, which is notorious for wiper attacks on critical infrastructure organizations.",
     "title": "Sandworm Blamed for Wiper Attack on Poland Power Grid"
+  },
+  "https://www.darkreading.com/threat-intelligence/sans-most-dangerous-attack-techniques": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc5b7ebf765a3de26/69c3069dcf4b0937b7412d06/AI_button_phitoon_promkunpitak_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-25T14:40:33+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "SANS: Top 5 Most Dangerous New Attack Techniques to Watch For the first time, SANS Institute's five top attack techniques all have one thing in common \u2014 AI.",
+    "title": "SANS: Top 5 Most Dangerous New Attack Techniques to Watch"
   },
   "https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia": {
     "categories": [],
