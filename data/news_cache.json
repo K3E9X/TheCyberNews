@@ -5198,6 +5198,15 @@
     "summary": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds A majority of security leaders are struggling to defend AI systems with tools and skills that are not fit for the challenge, according to the AI and Adversarial Testing Benchmark Repo\u2026",
     "title": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds"
   },
+  "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9MSv7TxvzRXdcpb_tW0hSC0Jq5_7-VYEhbddL8im1K25nOcjSr0T3_Y2f9zG8Q9l7K3U_zOXBKWgnHAO9rWvYG9158OKLKcZif_lq7e5fpqwxrW3IdPWzgTko6ogQSQg77hmiWszgf3OOT7baBY8vI8XcPt0h8R_0p7oBX2WmVQUSgsJXfPQmCzOGTMX9/s1600/tiktok-b.jpg",
+    "published": "2026-03-27T12:03:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion Threat actors are using adversary-in-the-middle (AitM) phishing pages to seize control of TikTok for Business accounts in a new campaign, according to a report from Push Security.\nBusiness accounts \u2026",
+    "title": "AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion"
+  },
   "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqvueuqNoIDsAH4vpBnbAGr2wz0tlhGECqZdmLWdnSPn-mZNpKuAIMPRyOR4B9C9RDKQKYKskTM-idN3OQ5zligs_i092dM4LLMP5jo1v2UHOe2hK9hV2GuX_5RvWrrmSh8b0FbKiVB7-5vuISiT_-ko5MbCTZs1YjLqFjUDZG8QFHIrV6MDlr1R1RdbM7/s1600/android-security.jpg",
@@ -5233,6 +5242,15 @@
     "source": "The Hacker News",
     "summary": "Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit Apple on Wednesday backported fixes for a security flaw in iOS, iPadOS, and macOS Sonoma to older versions after it was found to be used as part of the Coruna exploit kit.\nThe vulnerability, tra\u2026",
     "title": "Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit"
+  },
+  "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN7dxzt-3rxkQ1A-6Sd9EzxINF3V70WAx4hsUUNPofdWcCO6hp0vEHavIsQsCUyXY7hOUOk7kDGIt2zN__gnigtzyYJyc31aiwpivHd4GEMPh0CHZHIBm58PtiyDXn7XNzI4hoZzmqVpErPty3VvEoyZCC4heyU0FE0uvM8_Ad_mWtXpSj5bcLIcTBwLNi/s1600/apple.jpg",
+    "published": "2026-03-27T17:22:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update.\nThe development \u2026",
+    "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits"
   },
   "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html": {
     "categories": [],
@@ -5297,6 +5315,15 @@
     "summary": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries A court-authorized international law enforcement operation has dismantled a criminal proxy service named SocksEscort that enslaved thousands of residential routers worldwide into a botnet for\u2026",
     "title": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries"
   },
+  "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJa_h_fZ55AqNWxz1cuJLjlOtmxDcBXqTxZ8URxFwRfQ1OsNpcQKZOafbe7MxL72WZ3c7ashklJn4nlUj6FD87PPAznL0bzBhlpRIpUTtHqluiAjZBZgMEPTvwPyBeSrsnrSTnmbuPTwpQQDl2xLHPpynscV2zy7sk_SMU3u_gNkbzAaoT16Lr8SZXQgJs/s1600/russian-ransomware.jpg",
+    "published": "2026-03-27T10:04:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent attacks leveraging a cus\u2026",
+    "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware"
+  },
   "https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwYwVezgvocYpgSVlObttlWWj69Wzly716Z1gfPOUjTsEL1TqBXiWSSexSIR2o96ji1cbMuxtxZVETQ7oN6klFQ2do3WCjhmiVLt1BXlMekcMlJSGxTD6XffjEZRWsc3q8eo0HmRc1IV8p777ZLFW4wOXPsDNaCetHqmCkMLILYOAsmDgSaVwerAUtS0A/s1600/tier1.jpg",
@@ -5359,6 +5386,15 @@
     "source": "The Hacker News",
     "summary": "CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabili\u2026",
     "title": "CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog"
+  },
+  "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOCtHFfd9TZrhTa9APggVpivUkp_7HLw49145Q93B-76BiG0kkbGOPgViPII25Inn9b8710FjsB1sG716DO1Qh3ikSV88oqwdhSCJ7V2FTWgPq1xaA_UqMVwIEi4zmLnAmXQmbdG2fWAVBx6H_OiHqCOzghwBkuQYy4mYUCIdIyBi54ojbF3rc_OGIPlGc/s1600/f5.jpg",
+    "published": "2026-03-28T07:07:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, \u2026",
+    "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation"
   },
   "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html": {
     "categories": [],
@@ -5819,6 +5855,15 @@
     "summary": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware North Korean threat actors have been observed sending phishing to compromise targets and obtain access to a victim's KakaoTalk desktop application to distribute malicious payloads to certain contacts.\nThe \u2026",
     "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware"
   },
+  "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkhroYg33geYKogEf838RfX0FRNjBX23ucPFzrxtbtf2CyTxoGZZ4RbTArZX672fygWxhNN2MOX-SXaPzWJPOeRTrnLCzYzQZ2e-7HO98AIbj-wEXbrPWSwzIOW2NbNhpWfayHyPYHyJGTRxZmDCHhR_qk79vyb29q1_p-hBCWvY2GsAPu0296IOlq_uQv/s1600/langchain.jpg",
+    "published": "2026-03-27T08:07:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks Cybersecurity researchers have disclosed three security vulnerabilities impacting LangChain and LangGraph that, if successfully exploited, could expose filesystem data, environment secrets, a\u2026",
+    "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks"
+  },
   "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj9UqvCgUXI-P9n0pHIj0a2d6gtlUe5ioSOzReAYnBthLWrwGhD0B9EKIlrrhiA8gsF61npoVKP8y1HftTKWD9xgTg0qBOHw2N3qn0Gak0BUAV9Jt2s8BmhzR9cLjOE5ynzKm8obB3G-fECJQ3bN1G8GVv2wgyKkLZ5JpYQKUyuVtTa2z27pHL9IN-th1k/s1600/leakbase.jpg",
@@ -6008,6 +6053,15 @@
     "summary": "Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries The threat actor behind the recently disclosed artificial intelligence (AI)-assisted campaign targeting Fortinet FortiGate appliances leveraged an open-source, AI-native security testing platfor\u2026",
     "title": "Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries"
   },
+  "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxyuzdQgdhyphenhyphenfWqx9GyfXC7_Bop28GdU7Bvyj3ZEvEBm8HbchBOMZFiLIGHSVFM9OdfCaKJSyAZzY3F3soB37-VtKEcY_KShCnzB2D-t8DJ5mbSl4MlbMgCV8uSMf9LaTds8vn_rccuiUIzq0mC5lxYK7HstyftiOEqYGCJC8PP5sCF_UariwUHXuvqYXkt/s1600/open-code.jpg",
+    "published": "2026-03-27T13:57:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks Cybersecurity researchers have disclosed details of a now-patched bug impacting Open VSX's pre-publish scanning pipeline to cause the tool to allow a malicious Microsoft Visual Studio Code (VS Code) \u2026",
+    "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks"
+  },
   "https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzxRjA2uB_r2z4AtvhADiDGrxTc62766WI5jApivjtuLfb2aS2kz9RWk7f9P3Lm7Nj5HH3u-7Etx4-8xr_Y4PflexsuMsAzXjvPoPLSQaSt1O-t4U3yBAnKm4HLm-64dbHDsWF-EXYVMvaMrMnhfbhV_qn2cvwmJE6x-U42aTjGbIOTNOXxpiH3x15C6Ag/s1600/codex.jpg",
@@ -6125,6 +6179,15 @@
     "summary": "Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials Microsoft has disclosed details of a credential theft campaign that employs fake virtual private network (VPN) clients distributed through search engine optimization (SEO) poisoning techniques.\n\"The camp\u2026",
     "title": "Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials"
   },
+  "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAX955shB28AQ8BgXC9lMJBSEWWtw5FVp3L9rxuVnBSsDMpj5Ssjh7cqxd7eJI_bES6b82XDHvxrH0U_cyEXwbS05QkUbSDPzP8ZGcjy2QD2-gY9utPDfcJ6EBO-nk3VayGUBUnesxmmGOH-AanOtkxxhPGyZ-5azN_kzflpKoqfW7U2m35ookIyuEYvFo/s1600/iphone-exploit.jpg",
+    "published": "2026-03-28T07:07:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "TA446 Deploys Leaked DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices.\nThe activ\u2026",
+    "title": "TA446 Deploys Leaked DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign"
+  },
   "https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHstwfvuhTqeOC7VWnSCBcxuxkGXQo_98_9hK16L_vSpzSRSYHXlBOeg2O61FYeF2rcfwnXFxzQHEkDyXYB6C_GtMIB-qEfIM_K3vMu-C_OHBNk5eOdwofhao0How3UZLVM1bQ4R5MzrGMSpIk74c_b0UI8ri7Itube7MGnrwEEoEHy-kOq1unklYy9zR5/s1600/tax-docs.jpg",
@@ -6151,6 +6214,15 @@
     "source": "The Hacker News",
     "summary": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials Two more GitHub Actions workflows have become the latest to be compromised by credential-stealing malware by a threat actor known as TeamPCP, the cloud-native cybercriminal operation also behind the Trivy supply c\u2026",
     "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials"
+  },
+  "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1CMUCCEUOX5JczcW-qUC2Bw8_3GmKNoLItyUq-AeuCUvFrJJL0t6aW5EhyJzNT5OyQJulbqwy847fK_EEBieTmTHEKn33suBcHss0AflwRWkPdmqT7FUbX5Rahkwz09g0Fw2GDZr00dAqHeEouzWvFVKMLgNshyO2HQ6QcD5qtbNu59djr1cdm0iV_ksj/s1600/wave.jpg",
+    "published": "2026-03-27T16:53:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data.\nThe t\u2026",
+    "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files"
   },
   "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html": {
     "categories": [],
@@ -6322,6 +6394,15 @@
     "source": "The Hacker News",
     "summary": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution Veeam has released security updates to address multiple critical vulnerabilities in its Backup &amp; Replication software that, if successfully exploited, could result in remote code execution.\nThe\u2026",
     "title": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution"
+  },
+  "https://thehackernews.com/2026/03/we-are-at-war.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaOP8SQvGcKjVqTcrOQdTQqpsDiPV47qdwzHqpxth6iyxLDSHoBNBKHVyh5LUzM1W2LdABzaDP6TjMektIuSiYhTXirHygMx_0Yh8dwpmREVfKUWPUiqRefYDptyZ3NG0Xa0X5aI6xJV0GsNoFM6Akna2z1pQ3Wre9V9aqjEpOwrn-tbkTiRaKFw3vE74/s1600/orange.jpg",
+    "published": "2026-03-27T11:00:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "We Are At War Rising geopolitical tensions are reflected (or in some cases preceded) by cyber operations, while technology itself has become politicized. Let\u2019s admit it: we are in the middle of it.&nbsp;\nIntroduction: One tech power to rule them all is a thing of the past&nbsp;\nT\u2026",
+    "title": "We Are At War"
   },
   "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html": {
     "categories": [],
@@ -8715,6 +8796,17 @@
     "summary": "Windows 11 KB5077241 update improves BitLocker, adds Sysmon tool Microsoft has released the KB5077241 optional cumulative update for Windows 11, which comes with 29 changes, including improvements to BitLocker, a new network speed test tool, and native System Monitor (Sysmon) fun\u2026",
     "title": "Windows 11 KB5077241 update improves BitLocker, adds Sysmon tool"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-03-27T09:20:59+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 KB5079391 update rolls out Smart App Control improvements \u200bMicrosoft has released the KB5079391 preview cumulative update for Windows 11 24H2 and 25H2, which includes 29 changes, such as Smart App Control and Display improvements. [...]",
+    "title": "Windows 11 KB5079391 update rolls out Smart App Control improvements"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079473-and-kb5078883-cumulative-updates-released/": {
     "categories": [
       "Microsoft",
@@ -8952,6 +9044,17 @@
     "summary": "Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome As agentic AI adoption accelerates, identity is emerging as the primary security challenge. Token Security explains why AI agents behave like a new class of identity and why CISOs must manage their ac\u2026",
     "title": "Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome"
   },
+  "https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-27T14:02:12+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing. Agentic GRC automates workflows, forcing teams to rethink their role beyond operations. Anecdotes explains why the biggest challenge is shifting from execution to risk leadership. [...]",
+    "title": "Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing."
+  },
   "https://www.bleepingcomputer.com/news/security/ai-generated-slopoly-malware-used-in-interlock-ransomware-attack/": {
     "categories": [
       "Security",
@@ -9142,6 +9245,17 @@
     "summary": "Anthropic claims of Claude AI-automated cyberattacks met with doubt Anthropic reports that a Chinese state-sponsored threat group, tracked as GTG-1002, carried out a cyber-espionage operation that was largely automated through the abuse of the company's Claude Code AI model. [...\u2026",
     "title": "Anthropic claims of Claude AI-automated cyberattacks met with doubt"
   },
+  "https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-27T10:40:17+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Anti-piracy coalition takes down AnimePlay app with 5 million users The Alliance for Creativity and Entertainment (ACE) announced the shutdown of AnimePlay, a major anime streaming platform with over 5 million users. [...]",
+    "title": "Anti-piracy coalition takes down AnimePlay app with 5 million users"
+  },
   "https://www.bleepingcomputer.com/news/security/apache-openoffice-disputes-data-breach-claims-by-ransomware-gang/": {
     "categories": [
       "Security"
@@ -9315,6 +9429,17 @@
     "source": "BleepingComputer",
     "summary": "Avast Makes AI-Driven Scam Defense Available for Free Worldwide Avast is rolling out Scam Guardian, a free AI-powered protection layer that analyzes websites, messages, and links to detect rising scam threats. Powered by Gen Threat Labs data, it reveals hidden dangers in code and\u2026",
     "title": "Avast Makes AI-Driven Scam Defense Available for Free Worldwide"
+  },
+  "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-27T21:13:26+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Backdoored Telnyx PyPI package pushes malware hidden in WAV audio TeamPCP hackers compromised the Telnyx package on the Python Package Index today, uploading malicious versions that deliver credential-stealing malware hidden inside a WAV file. [...]",
+    "title": "Backdoored Telnyx PyPI package pushes malware hidden in WAV audio"
   },
   "https://www.bleepingcomputer.com/news/security/bad-actor-hijacks-apex-legends-characters-in-live-matches/": {
     "categories": [
@@ -11019,6 +11144,17 @@
     "summary": "Dutch Ministry of Finance discloses breach affecting employees The Dutch Ministry of Finance confirmed on Monday that some of its systems were breached in a cyberattack detected last week. [...]",
     "title": "Dutch Ministry of Finance discloses breach affecting employees"
   },
+  "https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-27T08:20:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Dutch Police discloses security breach after phishing attack The Dutch National Police (Politie) says a security breach resulting from a successful phishing attack has had a limited impact and hasn't affected citizens' data. [...]",
+    "title": "Dutch Police discloses security breach after phishing attack"
+  },
   "https://www.bleepingcomputer.com/news/security/dutch-police-seizes-250-servers-used-by-bulletproof-hosting-service/": {
     "categories": [
       "Security"
@@ -11203,6 +11339,17 @@
     "source": "BleepingComputer",
     "summary": "European Commission discloses breach that exposed staff data The European Commission is investigating a breach after finding evidence that its mobile device management platform was hacked. [...]",
     "title": "European Commission discloses breach that exposed staff data"
+  },
+  "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-27T12:22:19+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "European Commission investigating breach after Amazon cloud account hack The European Commission, the European Union's main executive body, is investigating a security breach after a threat actor gained\u00a0access to the Commission's Amazon cloud environment. [...]",
+    "title": "European Commission investigating breach after Amazon cloud account hack"
   },
   "https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/": {
     "categories": [
@@ -11487,6 +11634,17 @@
     "source": "BleepingComputer",
     "summary": "Fake Solidity VSCode extension on Open VSX backdoors developers A remote access trojan\u00a0dubbed SleepyDuck, and disguised as the well-known Solidity extension in the Open VSX open-source registry, uses an Ethereum smart contract to\u00a0establish a communication channel with the attacke\u2026",
     "title": "Fake Solidity VSCode extension on Open VSX backdoors developers"
+  },
+  "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-27T16:51:52+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Fake VS Code alerts on GitHub spread malware to developers A large-scale campaign is targeting developers on GitHub with fake Visual Studio Code (VS Code) security alerts posted in the Discussions section of various projects, to trick users into downloading malware. [...]",
+    "title": "Fake VS Code alerts on GitHub spread malware to developers"
   },
   "https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/": {
     "categories": [
@@ -18102,6 +18260,15 @@
     "summary": "GlassWorm Malware Evolves to Hide in Dependencies Researchers have identified dozens of malicious GlassWorm extensions that come with new evasion techniques.",
     "title": "GlassWorm Malware Evolves to Hide in Dependencies"
   },
+  "https://www.darkreading.com/application-security/google-2029-deadline-quantum-safe-cryptography": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdee69c559f0e21b7/69c58b734754ce06f0ac8aaa/lock_on_laptop_Ales_Utouka_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-27T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Google Sets 2029 Deadline for Quantum-Safe Cryptography The post-quantum future may be coming sooner than you think, as Google plans to have PQC migration in place by 2029.",
+    "title": "Google Sets 2029 Deadline for Quantum-Safe Cryptography"
+  },
   "https://www.darkreading.com/application-security/google-looker-bugs-cross-tenant-rce-data-exfil": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4524d58abb4bc819/697e6e756dea183a06dd7404/Google_Looker-Postmodern_Studio-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -19169,6 +19336,15 @@
     "source": "darkreading",
     "summary": "2025 Was a Wake-Up Call to Protect Human Decisions, Not Just Systems Cybersecurity must shift from solely protecting systems to safeguarding human decision-making under uncertainty and system failures.",
     "title": "2025 Was a Wake-Up Call to Protect Human Decisions, Not Just Systems"
+  },
+  "https://www.darkreading.com/cyber-risk/wartime-usage-of-compromised-ip-cameras-highlight-their-danger": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9222cdaff4968ccb/69c6999dbe732d1b716236af/urban-cctv-cameras-pixinoo-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-27T16:21:48+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Wartime Usage of Compromised IP Cameras Highlight Their Danger The list of countries exploiting Internet-connected cameras to give them eyes inside their adversaries' borders continues to expand. What should companies look out for?",
+    "title": "Wartime Usage of Compromised IP Cameras Highlight Their Danger"
   },
   "https://www.darkreading.com/cyber-risk/why-an-engineering-focused-ciso-can-be-a-liability": {
     "categories": [],
@@ -20315,6 +20491,15 @@
     "summary": "ClickFix Attacks Abuses DNS Lookup Command to Deliver ModeloRAT ClickFix campaigns have adapted to the latest defenses with a new technique to trick users into infecting their own machines with malware.",
     "title": "ClickFix Attacks Abuses DNS Lookup Command to Deliver ModeloRAT"
   },
+  "https://www.darkreading.com/endpoint-security/coruna-darksword-democratizing-nation-state-exploit-kits": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0213b59cc64318b8/69c58fe61ccd12702311c1d5/iPhone_lock-Nedim_Bajramovic-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-26T19:56:41+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Coruna, DarkSword &amp; Democratizing Nation-State Exploit Kits Nation-state malware is being sold on the Dark Web and leaked to GitHub; and ordinary organizations might not stand much of a chance of defending themselves.",
+    "title": "Coruna, DarkSword &amp; Democratizing Nation-State Exploit Kits"
+  },
   "https://www.darkreading.com/endpoint-security/crowdsrike-buy-sgnl-expand-identity-security-capabilities": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7ea610a15c2e225b/6706fbc3dd85ad377e33a095/identity-ArtemisDiana-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -20984,6 +21169,15 @@
     "summary": "China's Silver Dragon Razes Governments in EU, SE Asia The emerging actor, part of the APT41 nexus, gains initial access via phishing, and uses legitimate network services to obscure cyber espionage activities.",
     "title": "China's Silver Dragon Razes Governments in EU, SE Asia"
   },
+  "https://www.darkreading.com/threat-intelligence/china-upgrades-backdoor-spy-telcos": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4407524c34b171a7/69c6a9ff1eae74c299bfc9f9/Telecom_mast-Steven_May-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-27T16:48:49+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "China Upgrades the Backdoor It Uses to Spy on Telcos Globally Chinese APT Red Menshen's super-advanced BPFdoor malware defeats traditional cybersecurity protections. All telcos can do, really, is try hunting it down.",
+    "title": "China Upgrades the Backdoor It Uses to Spy on Telcos Globally"
+  },
   "https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf0d61d4a1a19c799/69aebbfbc2ecdb000882580f/spy-Brian-Jackson-Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
@@ -21206,6 +21400,15 @@
     "source": "darkreading",
     "summary": "Indian APT 'Sloppy Lemming' Targets Defense, Critical Infrastructure India-nexus cyber threat actors are growing more active and sophisticated, using custom tools coded in Rust and cloud-based command and control.",
     "title": "Indian APT 'Sloppy Lemming' Targets Defense, Critical Infrastructure"
+  },
+  "https://www.darkreading.com/threat-intelligence/infrastructure-attacks-physical-consequences-down": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf8fa280b66af47f9/69b46fd523ae84adeeda18cc/Down_stairs-Javier_Soto_Vazquez-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-03-27T13:30:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Infrastructure Attacks With Physical Consequences Down 25% Operational technology (OT) at industrial and critical infrastructure sites seem to have been benefitting from a lull in ransomware, and hackers' relative ignorance of OT systems.",
+    "title": "Infrastructure Attacks With Physical Consequences Down 25%"
   },
   "https://www.darkreading.com/threat-intelligence/interlock-ransomware-targets-cisco-enterprise-firewalls": {
     "categories": [],
