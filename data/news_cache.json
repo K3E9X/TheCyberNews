@@ -5450,6 +5450,15 @@
     "summary": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities Cisco has disclosed that two more vulnerabilities affecting Catalyst SD-WAN Manager (formerly SD-WAN vManage) have come under active exploitation in the wild.\nThe vulnerabilities in question are lis\u2026",
     "title": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities"
   },
+  "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwI3gfUe4wDxvIuUsVXUVcyiZ6TWg7HIh7UgKbWXN8e5p6VbJM5hHvR0gCKbVRD3tx311R5b9TWnt0OrLNfpoSBrP1tv06PBWrUXtwzAZAvHVHo8a1uZXzqZBDkpCeGgHWI9tRrk39_n_YZgO7CeX6MXHo4kFSu_lFd5ZmAuiTdrg-x8w0svB3lF-2U1LV/s1600/citrix-exploit.jpg",
+    "published": "2026-03-28T09:11:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr.\nThe vulner\u2026",
+    "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug"
+  },
   "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMCnGCq_DsAE40JVqQy2HjOcbqucRBcpx0JOpEQM9SZplWbse_yzvfQGRG8Uux9NVkQhQrHYzTIlb3b58b47kkLOfIBcxeaMVT7SlUjBSr3URnME7qL5P3ZqJgVw3bGX0NY_hYsvhAbTTJ7PZk-mmpl949AALvrsV0JkZEQD82ah-B2jlOBz-oGC-P4xaY/s1600/citrix.jpg",
@@ -5827,6 +5836,15 @@
     "source": "The Hacker News",
     "summary": "Investigating a New Click-Fix Variant Disclaimer: This report has been prepared by the Threat Research Center to enhance cybersecurity awareness and support the strengthening of defense capabilities. It is based on independent research and observations of the current threat lands\u2026",
     "title": "Investigating a New Click-Fix Variant"
+  },
+  "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB5PedpQX_DQaCrJ76V6gQtAUKvDiV1udgR3vPrPp8k7dcP8jACbAPITTEwRpl7dS05Dz_hYFlt2v4H6KTukko0Sg8vRZpDGgWNbGzVqQDwcntdMVmhb3x5v0q3d0gRcbedgOxZLiVeiDCaxb8TNO8dEaE7Bn54TCqxKvbb7Ct_5Wxsxx5WSn2bqEIJqB4/s1600/iran-hacking.jpg",
+    "published": "2026-03-28T15:40:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Iran-Linked Hackers Breach FBI Director\u2019s Personal Email, Hit Stryker With Wiper Attack Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos a\u2026",
+    "title": "Iran-Linked Hackers Breach FBI Director\u2019s Personal Email, Hit Stryker With Wiper Attack"
   },
   "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html": {
     "categories": [],
@@ -14487,6 +14505,17 @@
     "source": "BleepingComputer",
     "summary": "New \u2018IndonesianFoods\u2019 worm floods npm with 100,000 packages A self-spreading\u00a0package published on npm spams the registry by spawning new packages every every seven seconds, creating large volumes of junk. [...]",
     "title": "New \u2018IndonesianFoods\u2019 worm floods npm with 100,000 packages"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-28T14:35:10+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New Infinity Stealer malware grabs macOS data via ClickFix lures A new info-stealing malware named Infinity Stealer is targeting macOS systems with a Python payload packaged as an executable using the open-source Nuitka compiler. [...]",
+    "title": "New Infinity Stealer malware grabs macOS data via ClickFix lures"
   },
   "https://www.bleepingcomputer.com/news/security/new-kadnap-botnet-hijacks-asus-routers-to-fuel-cybercrime-proxy-network/": {
     "categories": [
