@@ -6332,6 +6332,15 @@
     "summary": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More Some weeks in cybersecurity feel routine. This one doesn&rsquo;t.\nSeveral new developments surfaced over the past few days, showing how quickly the threat landscape keeps shifting. Researchers\u2026",
     "title": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More"
   },
+  "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMVmr08UFvUwMkDRW62724LCJu5Z774vza7r8UADDdCZcBFNJTeJ9WPFkt4BLIknMuCpLYow39D0rgDkTkftiSLBxtPsG3YW6Y7CRiPRxye2Con9Z1lP77VcDv2PA4UJ4PP6nNSCLX0cOKLKJOTCnVerXQ4w5we9s3rMTBbUMMX2hZBB5MLu5t4Ll3YFPe/s1600/chinese-hackers.jpg",
+    "published": "2026-03-30T07:00:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a \"complex and well-resourced operation.\"\nThe cam\u2026",
+    "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign"
+  },
   "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw7Nnrc1zd-1NJp8aP69eS_s4Ai_GG7Um-ltzX8eO5Jfrnxaq_fj3z5u3k7WUU65b0lmmxd6012MxINWFPC5vZDhznqnIrNEerUiPKbeKEVCTwtRCv2RCwnYa-k_hz4mha_qyOBV9kgvkWw6xlZfNSQYqvhez0T1xJFJXeaCjlYFAAtwt4RrMdmMHHsAU3/s1600/ai-coded-malware.jpg",
@@ -10706,6 +10715,17 @@
     "summary": "Critical flaw in WordPress add-on for Elementor exploited in attacks Attackers are exploiting a critical-severity privilege escalation vulnerability (CVE-2025-8489) in the King Addons for Elementor plugin for WordPress, which lets them obtain\u00a0administrative permissions during the\u2026",
     "title": "Critical flaw in WordPress add-on for Elementor exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-30T07:48:17+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Critical Fortinet Forticlient EMS flaw now exploited in attacks Attackers are now actively exploiting a critical vulnerability in Fortinet's FortiClient EMS platform, according to threat intelligence company Defused. [...]",
+    "title": "Critical Fortinet Forticlient EMS flaw now exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/": {
     "categories": [
       "Security"
@@ -11347,6 +11367,17 @@
     "summary": "European authorities dismantle call center fraud ring in Ukraine European law enforcement authorities dismantled a fraud network operating call centers in Ukraine that scammed victims across Europe out of more than 10 million euros. [...]",
     "title": "European authorities dismantle call center fraud ring in Ukraine"
   },
+  "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-30T06:42:58+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "European Commission confirms data breach after Europa.eu hack The European Commission has confirmed a data breach after its Europa.eu web platform was hacked in a cyberattack claimed by the\u00a0ShinyHunters extortion gang. [...]",
+    "title": "European Commission confirms data breach after Europa.eu hack"
+  },
   "https://www.bleepingcomputer.com/news/security/european-commission-discloses-breach-that-exposed-staff-data/": {
     "categories": [
       "Security"
@@ -11676,6 +11707,17 @@
     "summary": "FBI arrests suspect linked to $46M crypto theft from US Marshals \u200bA U.S. government contractor's son, accused of stealing more than $46 million in cryptocurrency from the U.S. Marshals Service, was arrested Wednesday on the island of Saint Martin. [...]",
     "title": "FBI arrests suspect linked to $46M crypto theft from US Marshals"
   },
+  "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-29T21:09:50+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "FBI confirms hack of Director Patel's personal email inbox The Handala hackers associated with Iran have breached the personal email account of FBI Director Kash Patel and published photos and documents. [...]",
+    "title": "FBI confirms hack of Director Patel's personal email inbox"
+  },
   "https://www.bleepingcomputer.com/news/security/fbi-cybercriminals-stole-262-million-by-impersonating-bank-support-teams-since-january/": {
     "categories": [
       "Security"
@@ -11844,6 +11886,17 @@
     "source": "BleepingComputer",
     "summary": "FCC rolls back cybersecurity rules for telcos, despite state-hacking risks The Federal Communications Commission (FCC) has rolled back a previous ruling that required U.S. telecom carriers to implement stricter cybersecurity measures following the massive hack from the Chinese th\u2026",
     "title": "FCC rolls back cybersecurity rules for telcos, despite state-hacking risks"
+  },
+  "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-03-29T14:38:25+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "File read flaw in Smart Slider plugin impacts 500K WordPress sites A vulnerability in the Smart Slider 3 WordPress plugin, active on more than 800,000 websites, can be exploited to allow subscriber-level users access to arbitrary files on the server. [...]",
+    "title": "File read flaw in Smart Slider plugin impacts 500K WordPress sites"
   },
   "https://www.bleepingcomputer.com/news/security/fincen-says-ransomware-gangs-extorted-over-21b-from-2022-to-2024/": {
     "categories": [
