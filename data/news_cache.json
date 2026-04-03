@@ -6683,6 +6683,15 @@
     "summary": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administration t\u2026",
     "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails"
   },
+  "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH6wuST9R8voZTpCC-v5LSwd4O7vlbuRDhXMzcSw9iu0k2JvFOao-3Jr2o9iCs0jqX3pIqHvcYo_n-5Ad80WXeQXKV_DTgJUN0A6nl9f73BA1U0wRoZBqgySfDR6Uk7KD8jXzw2BFLGvusf-96qsINw9jT4PnglZohYM2VhSsdHcpw-cl6vwAekfE-KD_H/s1600/cisco-exploit.jpg",
+    "published": "2026-04-02T15:21:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise Cisco&nbsp;has released updates to address a critical security flaw in the Integrated Management Controller (IMC) that, if successfully exploited, could allow an unauthenticated, remote attacker to bypass \u2026",
+    "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise"
+  },
   "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj39e4BXzk1M6BK7XEJcfogVbdwnYJjie08kNTAeW5T46Tn8UvbbaYGrrEpgw1Pa4IpJYeGe8AR7T_UCp4_vWYTcG-c5DY0HNlHW-8SbYkscVvjAKjKR3gHmlWAQONEx8kg_ANVfOr8OsQ7uTm-XWHW1PNfusxBj-Tn2kn-V2EedPykA3ESB66doPXxGzT8/s1600/claude-code.jpg",
@@ -6701,6 +6710,15 @@
     "summary": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069 Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069.\n\"We have attributed the at\u2026",
     "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069"
   },
+  "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8T48UROZtSjRXtkxVcNT2VmXbB1texWQPAqLbm06uwmJ8VsYFb_HeXOnZx9uz9QL-LB3aWdwcLm9TbuRler7w7jjXJlL_tQweQualaW4XEVav7Ysulqx_CJyc9a0P1dO1a69W_eQhroxV1LA_p5VB9T38Xubc3zXHgwd-4sAAc2whuv4ElnC5WtFSn7SH/s1600/nextjs.jpg",
+    "published": "2026-04-02T19:30:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials A&nbsp;large-scale credential harvesting operation&nbsp;has been&nbsp;observed exploiting the React2Shell vulnerability as an initial infection vector to steal database credentials, SSH private keys, Am\u2026",
+    "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials"
+  },
   "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq1lOqG2e9eetuSt3ne59NkxH-r0lCjnTmodLlbXt29w5AH_utoClwW1RfvpY5rC7vqb1rVBR4ApELx1ROFvmuMpPpk_9R7tshflL0WwPRuD25vu1gzaFuuldwTzAbcb1m7y7TBsTLr863BQhLHdJGwRUmVzuLayR1gTnkmG_XCraID8EuzUzeeVLtgp7p/s1600/whatsapp-exploit.jpg",
@@ -6718,6 +6736,42 @@
     "source": "The Hacker News",
     "summary": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation \u2014 Patch Released Google on Thursday released security updates for its Chrome web browser to address 21 vulnerabilities, including a zero-day flaw that it said has been exploited in the wild.\nThe high-severity vulnerabili\u2026",
     "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation \u2014 Patch Released"
+  },
+  "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpKoZinOy6MS9s0nTi1TV12H46KUmgkxu0kGinPE7yyq7Vpo9lmmcz30e5ve0yCk2T0ETCedeV6aXs0iEjI1rOykcXwBPa2a11yb75bjgjad7WKkKgsUAv0lO1tuZ8vVnYZtuiUHKqwM6Z6bxGtheJIhuWW5W6lKjo0FaHZf7ewPO_SFuKAjPKMh_sqDB2/s1600/monero.jpg",
+    "published": "2026-04-02T11:42:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners A&nbsp;financially motivated operation&nbsp;codenamed REF1695&nbsp;has been&nbsp;observed leveraging fake installers to deploy remote access trojans (RATs) and cryptocurrency miners since Novemb\u2026",
+    "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners"
+  },
+  "https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5yI578d17vaAxuCMW2SLrz3ibI4ibSfdDCfum-B3VZ0Ukyd79Eue2VR8ofUCBpISSXsL8biYdRFyuMm78T6PTU7U1w_6jJK3qV7ohPRSt3NGDTtAkseitLCaEZVHqcVIhFZABPlyAP8KPV-JMlnlq42Flgl7lB2Rs5hkIQYVYtc0Z15Yd0WKaYSu7CLM/s1600/devsecops.jpg",
+    "published": "2026-04-02T11:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "The State of Trusted Open Source Report In December&nbsp;2025, we shared the first-ever The State of Trusted Open&nbsp;Source report, featuring insights from our product data and customer base on open source consumption across our catalog of container image projects, versions, im\u2026",
+    "title": "The State of Trusted Open Source Report"
+  },
+  "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht9hzOUmn8npVxC_AyWUe1DLsv1VkWHox2PmDxZnVuG_XnQt7R5l7CZHlYu9m9BcwAib4L0j0x877sDuCF2shmSH3ef0Me-m0sbKDtu-ZEw5RLqLGNsjGJ0o-b_CuKtFg86fMFb-GKVBud7S8PfpsoL4HCqEZypO1NcWfx6ljXcUhC5O4GIjRbhRcG-fIi/s1600/threatsday.jpg",
+    "published": "2026-04-02T12:45:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories The&nbsp;latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No&nbsp;corporate fluff or boring lectures here, just a quick and honest \u2026",
+    "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories"
+  },
+  "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH1Qe0E88MYHp7xg6ApE5TypZK__02tmUnhvX60svA9npwirnTJbAb-Wl4rvLo3gq3kX1l9JUXDgXZJ0yPGNZlUo8n5DG1-pqONNFQIA2epqNdU7tNGZSJPJCthWLHtnDdO8jWQ5YzwY7TWUn_9SJP5pu0vHX2i3-L0zM5dZscSR4wAUPWAN1fm-3zgOGE/s1600/whatsapp-alert.jpg",
+    "published": "2026-04-02T09:51:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action Meta-owned messaging platform WhatsApp said it alerted about 200 users who were tricked into installing a bogus version of its iOS app that was infected with&nbsp;spyware.\nAccording to repor\u2026",
+    "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/": {
     "categories": [
@@ -8120,6 +8174,17 @@
     "summary": "Microsoft: KB5070311 triggers File Explorer white flash in dark mode Microsoft has confirmed that the KB5070311 preview update is triggering bright white flashes when launching the File Explorer in dark mode on Windows 11 systems. [...]",
     "title": "Microsoft: KB5070311 triggers File Explorer white flash in dark mode"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-02T09:12:12+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft links Classic Outlook issue to email delivery problems Microsoft is investigating a known issue that prevents some Classic Outlook users from sending emails via Outlook.com. [...]",
+    "title": "Microsoft links Classic Outlook issue to email delivery problems"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-windows-11-boot-failures-to-failed-december-2025-update/": {
     "categories": [
       "Microsoft"
@@ -8188,6 +8253,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft November 2025 Patch Tuesday fixes 1 zero-day, 63 flaws Today is Microsoft's November 2025 Patch Tuesday, which includes security updates for 63 flaws, including one actively exploited zero-day vulnerability. [...]",
     "title": "Microsoft November 2025 Patch Tuesday fixes 1 zero-day, 63 flaws"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-03T07:55:40+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Microsoft now force upgrades unmanaged Windows 11 24H2 PCs Starting this week, Microsoft has begun force-upgrading unmanaged devices running Windows 11 24H2 Home and Pro editions to Windows 11 25H2. [...]",
+    "title": "Microsoft now force upgrades unmanaged Windows 11 24H2 PCs"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-updates-trigger-bitlocker-recovery/": {
     "categories": [
@@ -9306,6 +9382,17 @@
     "summary": "Ad tech firm Optimizely confirms data breach after vishing attack New York-based ad tech company Optimizely has notified an undisclosed number of customers of a data breach after threat actors compromised some of its systems in a voice phishing attack. [...]",
     "title": "Ad tech firm Optimizely confirms data breach after vishing attack"
   },
+  "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-02T14:01:11+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime Threat actors are exploiting vacant homes as \"drop addresses\" to intercept mail and enable fraud. Flare shows how postal services and fake identities are abused to turn mail into a fraud vector. [...]",
+    "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime"
+  },
   "https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/": {
     "categories": [
       "Security"
@@ -9992,6 +10079,17 @@
     "summary": "Central Maine Healthcare breach exposed data of over 145,000 people A data breach last year at Central Maine Healthcare (CMH) exposed sensitive information of more than\u00a0145,000 individuals. [...]",
     "title": "Central Maine Healthcare breach exposed data of over 145,000 people"
   },
+  "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-03T06:33:34+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "CERT-EU: European Commission hack exposes data of 30 EU entities The European Union's Cybersecurity Service (CERT-EU) has attributed\u00a0the European Commission cloud hack to the TeamPCP threat group, saying the resulting\u00a0breach exposed the data of\u00a0at least 29 other Union entities. [\u2026",
+    "title": "CERT-EU: European Commission hack exposes data of 30 EU entities"
+  },
   "https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/": {
     "categories": [
       "Security"
@@ -10647,6 +10745,18 @@
     "summary": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open Vulnerabilities in the Vim and GNU Emacs text editors, discovered using simple prompts with the Claude assistant, allow remote code execution simply by opening a file. [...]",
     "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open"
   },
+  "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-04-02T20:30:55+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Claude Code leak used to push infostealer malware on GitHub Threat actors are exploiting the recent Claude Code source code leak by using fake GitHub repositories to deliver Vidar information-stealing malware. [...]",
+    "title": "Claude Code leak used to push infostealer malware on GitHub"
+  },
   "https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/": {
     "categories": [
       "Security"
@@ -10985,6 +11095,17 @@
     "source": "BleepingComputer",
     "summary": "Critical BeyondTrust RCE flaw now exploited in attacks, patch now A critical pre-authentication remote code execution vulnerability in BeyondTrust Remote Support and Privileged Remote Access appliances is now being exploited in attacks after a PoC was published online. [...]",
     "title": "Critical BeyondTrust RCE flaw now exploited in attacks, patch now"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-02T11:01:14+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Critical Cisco IMC auth bypass gives attackers Admin access Cisco has patched several critical and high-severity vulnerabilities, including an Integrated Management Controller (IMC) authentication bypass that enables attackers to gain Admin access. [...]",
+    "title": "Critical Cisco IMC auth bypass gives attackers Admin access"
   },
   "https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/": {
     "categories": [
@@ -11473,6 +11594,18 @@
     "source": "BleepingComputer",
     "summary": "DoorDash hit by new data breach in October exposing user information DoorDash\u00a0has disclosed a\u00a0data breach that hit the food delivery platform\u00a0this October. Beginning yesterday evening, DoorDash, which serves millions of customers across the U.S., Canada, Australia, and New Zealan\u2026",
     "title": "DoorDash hit by new data breach in October exposing user information"
+  },
+  "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-04-02T19:03:39+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Drift loses $280 million North Korean hackers seize Security Council powers The Drift Protocol lost at least $280 million after a threat actor took control of its Security Council administrative powers in a planned, sophisticated operation. [...]",
+    "title": "Drift loses $280 million North Korean hackers seize Security Council powers"
   },
   "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/": {
     "categories": [
@@ -14450,6 +14583,17 @@
     "summary": "Medical device maker UFP Technologies warns of data stolen in cyberattack American manufacturer of medical devices, UFP Technologies,\u00a0has disclosed that a cybersecurity incident has compromised its IT systems and data. [...]",
     "title": "Medical device maker UFP Technologies warns of data stolen in cyberattack"
   },
+  "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-02T13:28:39+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Medtech giant Stryker fully operational after data-wiping attack Stryker Corporation, one of the world's leading medical technology companies, says it's fully operational three weeks after many of its systems were wiped out in a cyberattack claimed by the Iranian-linked Handala h\u2026",
+    "title": "Medtech giant Stryker fully operational after data-wiping attack"
+  },
   "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/": {
     "categories": [
       "Security"
@@ -15181,6 +15325,17 @@
     "summary": "New \u2018PolyShell\u2019 flaw allows unauthenticated RCE on Magento e-stores A newly disclosed vulnerability dubbed 'PolyShell' affects all Magento Open Source and Adobe Commerce stable version 2 installations, allowing unauthenticated code execution and account takeover. [...]",
     "title": "New \u2018PolyShell\u2019 flaw allows unauthenticated RCE on Magento e-stores"
   },
+  "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-02T13:33:11+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks Two vulnerabilities in Progress ShareFile, an enterprise-grade secure file transfer solution, can be chained to enable unauthenticated file exfiltration from affected environments. [...]",
+    "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/": {
     "categories": [
       "Security"
@@ -15731,6 +15886,17 @@
     "source": "BleepingComputer",
     "summary": "Critical RCE flaw impacts over 115,000 WatchGuard firewalls Over 115,000 WatchGuard Firebox devices exposed online remain unpatched against a critical remote code execution (RCE) vulnerability actively exploited in attacks. [...]",
     "title": "Critical RCE flaw impacts over 115,000 WatchGuard firewalls"
+  },
+  "https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-02T08:25:50+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks Internet security watchdog Shadowserver has found over 14,000 BIG-IP APM instances exposed online amid ongoing attacks exploiting a critical-severity remote code execution (RCE) vulnerability. [...]",
+    "title": "Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks"
   },
   "https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/": {
     "categories": [
@@ -16400,6 +16566,17 @@
     "source": "BleepingComputer",
     "summary": "Researcher reveals evidence of private Instagram profiles leaking photos A researcher has released detailed evidence showing some Instagram private accounts exposed photo links to unauthenticated visitors. The issue was later fixed, but Meta closed the report as not applicable an\u2026",
     "title": "Researcher reveals evidence of private Instagram profiles leaking photos"
+  },
+  "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-02T15:21:02+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Residential proxies evaded IP reputation checks in 78% of 4B sessions Researchers warn that residential proxies used to route malicious traffic are a big problem for\u00a0IP reputation systems, as there is no clear distinction between attackers and legitimate users. [...]",
+    "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions"
   },
   "https://www.bleepingcomputer.com/news/security/retail-giant-coupang-suffers-data-breach-impacting-337-million-people/": {
     "categories": [
@@ -20090,6 +20267,15 @@
     "summary": "Attackers Hide Infostealer in Copyright Infringement Notices A phishing campaign targeting healthcare, government, hospitality, and education sectors in various countries uses several evasion techniques to avoid detection.",
     "title": "Attackers Hide Infostealer in Copyright Infringement Notices"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/bank-trojan-casbaneiro-worms-latin-america": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt16cb4a90b4357a88/69cd468c610d0ab0477bd007/Worm_carnival_ride-Hugo_Oliveira-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-02T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Bank Trojan 'Casbaneiro' Worms Through Latin America Augmented Marauder's multipronged banking-Trojan cyber campaigns are targeting Spanish speakers, evading detection, and replicating rapidly.",
+    "title": "Bank Trojan 'Casbaneiro' Worms Through Latin America"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/big-breach-or-nada-de-nada-mexican-govt-faces-leak-allegations": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc7355a5663f9d26/69827292d724225c7bc48bd8/mexico-flag-cyber-bits-GagoDesign-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -20499,6 +20685,15 @@
     "summary": "Tomiris Unleashes 'Havoc' With New Tools, Tactics The Russian-speaking group is targeting government and diplomatic entities in CIS member states and Central Asia in its latest cyber-espionage campaign.",
     "title": "Tomiris Unleashes 'Havoc' With New Tools, Tactics"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/toying-around-hasbro-attack-remediate": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb4eb373845e02c10/69cec4d10268bec52dd83c55/Operation-Kerry_Taylor-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-02T20:28:36+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate The company's 8-K filing notes &quot;unauthorized access&quot; and that it's activated business continuity plans and taken some systems offline.",
+    "title": "Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/unc6384-european-diplomat-windows": {
     "categories": [],
     "published": "2025-10-31T20:07:58+00:00",
@@ -20872,6 +21067,15 @@
     "summary": "As Gen Z Enters Cybersecurity, Jury Is Out on AI's Impact Despite possibly supplanting some young analysts, one Gen Z cybersecurity specialist sees AI helping teach those willing to learn and removing drudge work.",
     "title": "As Gen Z Enters Cybersecurity, Jury Is Out on AI's Impact"
   },
+  "https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt52c682d1b06fcea2/69cc3ebb4642d5670041150e/quantum_computing1800_jvphoto_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-02T21:14:27+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026 AI-driven threats, global leadership shifts, and the future of cybersecurity in a rapidly evolving landscape were among the discussions at RSAC 2026 Conference.",
+    "title": "Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026"
+  },
   "https://www.darkreading.com/cybersecurity-operations/hand-cve-over-to-private-sector": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c0fed15bcf85f3e/6977ead312384d542af14fd8/plan_a_Warakorn_Hamprasop_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -20973,6 +21177,15 @@
     "summary": "From Quantum to AI Risks: Preparing for Cybersecurity's Future As 2026 begins, these journalists urge the cybersecurity industry to prioritize patching vulnerabilities, preparing for quantum threats, and refining AI applications, in the latest edition of Reporters' Notebook.",
     "title": "From Quantum to AI Risks: Preparing for Cybersecurity's Future"
   },
+  "https://www.darkreading.com/cybersecurity-operations/ransomware-hospitals-preparation-key-defense": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9b5b97c6c5a88d9c/655f53bc09902b040ae06301/hospital_hack_Oleckii_Mach_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-01T22:04:43+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Ransomware Will Hit Hospitals. Rehearsals Are Key to Defense A chief medical information officer describes what hospitals face when they inevitably suffer a ransomware attack\u2014whether it leads to short- or long-term outages.",
+    "title": "Ransomware Will Hit Hospitals. Rehearsals Are Key to Defense"
+  },
   "https://www.darkreading.com/cybersecurity-operations/rethinking-vulnerability-management-strategies-for-mid-market-security": {
     "categories": [],
     "image": "",
@@ -20982,6 +21195,15 @@
     "summary": "Rethinking Vulnerability Management Strategies for Mid-Market Security Intruder's Chris Wallis argues mid-market teams should prioritize CVE remediation speed over vulnerability counts, while expanding defenses beyond CVEs to include attack surface management.",
     "title": "Rethinking Vulnerability Management Strategies for Mid-Market Security"
   },
+  "https://www.darkreading.com/cybersecurity-operations/rsac-2026-ai-dominates-community": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7c4a998794182807/69cdf0ad19dc583a4e26ec0f/conference1800_sebastien_bonaime_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-02T15:56:32+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "RSAC 2026: AI Dominates, But Community Remains Key to Security As AI took center stage at this year's conference, experts debated automation, oversight and the evolving role of human intelligence in cybersecurity \u2014 despite the US government's notable absence.",
+    "title": "RSAC 2026: AI Dominates, But Community Remains Key to Security"
+  },
   "https://www.darkreading.com/cybersecurity-operations/securing-win-what-cybersecurity-learn-from-paddock": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt37741e93e49d05eb/69206ce5c761fbfd2c83c577/race-car-wisnu-haryo-yudhanto-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -20989,6 +21211,15 @@
     "source": "darkreading",
     "summary": "Securing the Win: What Cybersecurity Can Learn From the Paddock A Formula 1 pit crew demonstrates the basic principles of how modern security teams should work.",
     "title": "Securing the Win: What Cybersecurity Can Learn From the Paddock"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/security-bosses-all-in-ai": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-02T19:12:45+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Security Bosses Are All-In on AI. Here's Why CISOs are bullish on AI and have big plans to roll out future tools. We talk to Reddit CISO Frederick Lee and leading analyst Dave Gruber about how AI is working out in the real world, as well as its future promise.",
+    "title": "Security Bosses Are All-In on AI. Here's Why"
   },
   "https://www.darkreading.com/cybersecurity-operations/security-problems-cyber-training-fails-miserably": {
     "categories": [],
