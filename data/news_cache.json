@@ -6683,6 +6683,15 @@
     "summary": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administration t\u2026",
     "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails"
   },
+  "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi-dKCldJqtZI1CocMVxHNKusU5tcnMKjx7mzG9EfehvGacnTy4tsTfZLMfhyphenhyphenC5W210OxrxijBNAP8UumXAZH15ZSOM4x8xb9VTIHxN1HCouzROU0pn7sCJki9zJOkk9_8SRns73KxO1KvxUY4YgKGbbme6ZcKdbt4cqSHUkG5WQQPgDDTx_OLRbms35Dv/s1600/chinese-hackers.jpg",
+    "published": "2026-04-03T17:34:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025,&nbsp;following a two-year&nbsp;period of minimal targeting in the&nbsp;region.\nT\u2026",
+    "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing"
+  },
   "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH6wuST9R8voZTpCC-v5LSwd4O7vlbuRDhXMzcSw9iu0k2JvFOao-3Jr2o9iCs0jqX3pIqHvcYo_n-5Ad80WXeQXKV_DTgJUN0A6nl9f73BA1U0wRoZBqgySfDR6Uk7KD8jXzw2BFLGvusf-96qsINw9jT4PnglZohYM2VhSsdHcpw-cl6vwAekfE-KD_H/s1600/cisco-exploit.jpg",
@@ -6700,6 +6709,15 @@
     "source": "The Hacker News",
     "summary": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error.\n\"No sensitive customer data or\u2026",
     "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms"
+  },
+  "https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUiYsLIirEMJ6RmQKL7LnI8V0CmqL2qggZITpbnhuDXgXPAsXZ7cGv1KBjp1VBfeBVjUHypgPIC1DENjD735MO9gZQVPZO_xI424cuWoRowXBNflIs3rteCoCpdMPeTo5y2-I67CKALepuLYF-OfTplaTVBtextDcgCTW81sGmhT710Uu-37ouNh6MJjfk/s1600/drift-1.png",
+    "published": "2026-04-03T08:35:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK Solana-based decentralized exchange Drift has confirmed that attackers drained about $285 million from the platform during a security incident that took place on April 1,&nbsp;2026.\n\"Earlier today,\u2026",
+    "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK"
   },
   "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html": {
     "categories": [],
@@ -6719,6 +6737,15 @@
     "summary": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials A&nbsp;large-scale credential harvesting operation&nbsp;has been&nbsp;observed exploiting the React2Shell vulnerability as an initial infection vector to steal database credentials, SSH private keys, Am\u2026",
     "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials"
   },
+  "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_2zEf8l08MTElI1sGlJPVVWtscud2RAXdsivOvcby3pO4NUWMBioT3FNaFL7Bw0GeEqnX_WqY10FVqXhVNBTOrl0UMPoyun7AvshwpvfJIdfdJ0yJ1V2mz7ZHQDE9motXuuW6urvTJYu0kLGvpZf10Qx1hNeobD4YV25tJY9nvNoW9Sqd8nSsWK7NWQP0/s1600/php-linux.jpg",
+    "published": "2026-04-03T15:32:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers Threat&nbsp;actors are increasingly using HTTP cookies as a control channel for PHP-based web shells on Linux servers and to achieve remote code execution, according to findings from the Micro\u2026",
+    "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers"
+  },
   "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq1lOqG2e9eetuSt3ne59NkxH-r0lCjnTmodLlbXt29w5AH_utoClwW1RfvpY5rC7vqb1rVBR4ApELx1ROFvmuMpPpk_9R7tshflL0WwPRuD25vu1gzaFuuldwTzAbcb1m7y7TBsTLr863BQhLHdJGwRUmVzuLayR1gTnkmG_XCraID8EuzUzeeVLtgp7p/s1600/whatsapp-exploit.jpg",
@@ -6736,6 +6763,15 @@
     "source": "The Hacker News",
     "summary": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation \u2014 Patch Released Google on Thursday released security updates for its Chrome web browser to address 21 vulnerabilities, including a zero-day flaw that it said has been exploited in the wild.\nThe high-severity vulnerabili\u2026",
     "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation \u2014 Patch Released"
+  },
+  "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2s09d3X9qYABLHP5v1u9iyjRN5p28u6xvnL0qkKR1-s1CsqtIDAWeQCFKQ9S4Mde1ueUmzcjNA9SAzWN-lDWwbmTmmlwbbLkyKx-EJc2-bjhKlEsChsp3iZ6watrZ4I8LJdL_p0vatW4NrXntcs6_xdReGEQJMUCgfAFo-ZfCy_jDsxEZgPMx1T9e1e0L/s1600/mobile-wallet-seed.jpg",
+    "published": "2026-04-03T09:10:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images Cybersecurity researchers&nbsp;have discovered a new version of&nbsp;the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the&nbsp;trojan was discovered targ\u2026",
+    "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images"
   },
   "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html": {
     "categories": [],
@@ -6764,6 +6800,15 @@
     "summary": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories The&nbsp;latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No&nbsp;corporate fluff or boring lectures here, just a quick and honest \u2026",
     "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories"
   },
+  "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgZRu55MSbdanW8-1PyCciQIyWUcB9Dv4WhQQEELGJqahN5q7MyrDJKQ77e-9-fNetZJZiaJKERrgMWTGcQ-4TKhzhWE6veQp5w3wxhUnjq3NPMifbpdn1VLYpx5nngu4GsgPknNfAV8CNTGq_L_PBri4s3xz4hp8yt7OPin9Q-Kq_xcBNqzbgHx5SkrU/s1600/supplychain.jpg",
+    "published": "2026-04-03T11:04:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack The&nbsp;maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering campaign orchestrated by North Korean threat actors tra\u2026",
+    "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack"
+  },
   "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH1Qe0E88MYHp7xg6ApE5TypZK__02tmUnhvX60svA9npwirnTJbAb-Wl4rvLo3gq3kX1l9JUXDgXZJ0yPGNZlUo8n5DG1-pqONNFQIA2epqNdU7tNGZSJPJCthWLHtnDdO8jWQ5YzwY7TWUn_9SJP5pu0vHX2i3-L0zM5dZscSR4wAUPWAN1fm-3zgOGE/s1600/whatsapp-alert.jpg",
@@ -6772,6 +6817,15 @@
     "source": "The Hacker News",
     "summary": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action Meta-owned messaging platform WhatsApp said it alerted about 200 users who were tricked into installing a bogus version of its iOS app that was infected with&nbsp;spyware.\nAccording to repor\u2026",
     "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action"
+  },
+  "https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVOZWf-jO2_HykRTz3eVXj5HliZeT5oLJzIB9b4aX4fX_0nV9zUgCHL_WU9qxq7Uipi77Sf7I0DfRNGpmI0DwAZTusda6siewFmPGUnLjPIrsUDwagoy7PyaUlpR6anmdXp3OoTMB5aYEBlwKUt_zqRF0rxNQLub2TFqfqitAQdKXMA0ZPBwEV2hzJr1I/s1600/cynomi.jpg",
+    "published": "2026-04-03T11:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture The next major&nbsp;breach hitting your clients probably won't come&nbsp;from inside their&nbsp;walls. It'll come through a vendor they trust, a SaaS tool their finance team signed up for, or a subcontracto\u2026",
+    "title": "Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/": {
     "categories": [
@@ -8577,6 +8631,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft shares workaround for Outlook freezes after Windows update Microsoft shared a temporary workaround for customers experiencing Outlook freezes after installing this month's Windows security updates. [...]",
     "title": "Microsoft shares workaround for Outlook freezes after Windows update"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-03T11:25:20+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft still working to fix Exchange Online mailbox access issues Microsoft is investigating and working to resolve Exchange Online mailbox access issues that have intermittently affected Outlook mobile and macOS users for weeks. [...]",
+    "title": "Microsoft still working to fix Exchange Online mailbox access issues"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/": {
     "categories": [
@@ -11540,6 +11605,17 @@
     "summary": "Denmark blames Russia for destructive cyberattack on water utility Danish intelligence officials blamed Russia for orchestrating cyberattacks against Denmark's critical infrastructure, as part of Moscow's hybrid attacks against Western nations. [...]",
     "title": "Denmark blames Russia for destructive cyberattack on water utility"
   },
+  "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-03T16:36:44+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Die Linke German political party confirms data stolen by Qilin ransomware The Qilin ransomware group has claimed responsibility for an attack against Die Linke ('The Left'), forcing an IT systems outage at the political party, and threatening sensitive data leak. [...]",
+    "title": "Die Linke German political party confirms data stolen by Qilin ransomware"
+  },
   "https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/": {
     "categories": [
       "Security"
@@ -11921,6 +11997,17 @@
     "source": "BleepingComputer",
     "summary": "Police busts credit card fraud rings with 4.3 million victims International authorities have dismantled three massive credit card fraud and money laundering networks, linked to losses exceeding \u20ac300 million ($344 million) and affecting over 4.3 million cardholders across 193 coun\u2026",
     "title": "Police busts credit card fraud rings with 4.3 million victims"
+  },
+  "https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-03T14:05:15+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Evolution of Ransomware: Multi-Extortion Ransomware Attacks Multi-extortion ransomware relies on stolen data to pressure victims with public leaks. Penta Security explains how its D.AMO platform keeps exfiltrated files encrypted and useless to attackers. [...]",
+    "title": "Evolution of Ransomware: Multi-Extortion Ransomware Attacks"
   },
   "https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/": {
     "categories": [
@@ -13599,6 +13686,17 @@
     "summary": "Hidden Telegram proxy links can reveal your IP address in one click A single click on what may appear to be a Telegram username or harmless link is all it takes to expose your real IP address to attackers due to how proxy links are handled. Telegram says it will add warnings to p\u2026",
     "title": "Hidden Telegram proxy links can reveal your IP address in one click"
   },
+  "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-03T17:41:11+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Hims & Hers warns of data breach after Zendesk support ticket breach Telehealth giant Hims & Hers Health is warning that it suffered a data breach after support tickets were stolen from a third-party customer service platform. [...]",
+    "title": "Hims & Hers warns of data breach after Zendesk support ticket breach"
+  },
   "https://www.bleepingcomputer.com/news/security/how-a-brute-force-attack-unmasked-a-ransomware-infrastructure-network/": {
     "categories": [
       "Security"
@@ -14194,6 +14292,17 @@
     "summary": "LexisNexis confirms data breach as hackers leak stolen files American data analytics company LexisNexis Legal & Professional has confirmed to BleepingComputer that hackers breached its servers and accessed some customer and business information. [...]",
     "title": "LexisNexis confirms data breach as hackers leak stolen files"
   },
+  "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-03T20:40:22+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "LinkedIn secretely scans for 6,000+ Chrome extensions, collects data A new report dubbed \"BrowserGate\"\u00a0warns that Microsoft's LinkedIn is using hidden JavaScript scripts on its website to scan visitors' browsers for installed extensions and collect device data. [...]",
+    "title": "LinkedIn secretely scans for 6,000+ Chrome extensions, collects data"
+  },
   "https://www.bleepingcomputer.com/news/security/logitech-confirms-data-breach-after-clop-extortion-attack/": {
     "categories": [
       "Security"
@@ -14413,6 +14522,17 @@
     "source": "BleepingComputer",
     "summary": "Malicious VSCode Marketplace extensions hid trojan in fake PNG file A stealthy campaign with 19 extensions on the VSCode Marketplace has been active since February, targeting developers with malware hidden inside dependency folders. [...]",
     "title": "Malicious VSCode Marketplace extensions hid trojan in fake PNG file"
+  },
+  "https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-03T09:04:54+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Man admits to locking thousands of Windows devices in extortion plot A former core infrastructure engineer has pleaded guilty to locking Windows admins out of 254 servers as part of a failed extortion plot targeting his employer, an industrial company headquartered in Somerset Co\u2026",
+    "title": "Man admits to locking thousands of Windows devices in extortion plot"
   },
   "https://www.bleepingcomputer.com/news/security/man-arrested-for-demanding-reward-after-accidental-police-data-leak/": {
     "categories": [
@@ -18879,6 +18999,15 @@
     "summary": "APT 'Bronze Butler' Exploits Zero-Day to Root Japan Orgs A critical security issue in a popular endpoint manager (CVE-2025-61932) allowed Chinese state-sponsored attackers to backdoor Japanese businesses.",
     "title": "APT 'Bronze Butler' Exploits Zero-Day to Root Japan Orgs"
   },
+  "https://www.darkreading.com/application-security/chainguard-factory-automate-hardening-software-supply-chain": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc232543381a9006f/693207a41ab840449642b8fb/factory-robots-assemble-batteries-IM_Imagery-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-03T12:57:28+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Chainguard Unveils Factory 2.0 to Automate Hardening the Software Supply Chain The rebuilt Chainguard platform adds deeper security designed to continuously reconcile open source artifacts across containers, libraries, agent skills, and GitHub Actions.",
+    "title": "Chainguard Unveils Factory 2.0 to Automate Hardening the Software Supply Chain"
+  },
   "https://www.darkreading.com/application-security/checkmarx-kics-code-scanner-widening-supply-chain": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc695e46616cc03ae/69c2f4e89279f2162fe82972/sschain_ImageFlow_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -19308,6 +19437,15 @@
     "source": "darkreading",
     "summary": "Sora 2 Makes Videos So Believable, Reality Checks Are Required Threat actors will continue to abuse deepfake technology to conduct fraudulent activity, so organizations need to implement strong security protocols \u2013 even if it adds to user friction.",
     "title": "Sora 2 Makes Videos So Believable, Reality Checks Are Required"
+  },
+  "https://www.darkreading.com/application-security/source-code-leaks-highlight-lack-supply-chain-oversight": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdceec94ca4ee78d7/69cede0b5553ec3f3ca007ad/AI-powered-software-supply-chain-Summit_Art_Creations-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-03T13:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Claude Source Code Leak Highlights Big Supply Chain Missteps Or, why the software supply chain should be treated as critical infrastructure with guardrails built in at every layer.",
+    "title": "Claude Source Code Leak Highlights Big Supply Chain Missteps"
   },
   "https://www.darkreading.com/application-security/storm-brews-critical-no-click-telegram-flaw": {
     "categories": [],
@@ -21335,6 +21473,15 @@
     "summary": "AI Rising: Do We Know Enough About the Data Populating It? Organizations remain reluctant to address the fact that AI can dangerously expose business operations as well as personal data.",
     "title": "AI Rising: Do We Know Enough About the Data Populating It?"
   },
+  "https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt41107f0839743052/69d0356a4d3fefd8f0031c47/mobile-privacy-aphithana-chitmongkolthong-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-03T21:05:07+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Inconsistent Privacy Labels Don't Tell Users What They Are Getting Data privacy labels are a great idea for mobile apps, but the current versions just aren't good enough.",
+    "title": "Inconsistent Privacy Labels Don't Tell Users What They Are Getting"
+  },
   "https://www.darkreading.com/data-privacy/while-ech-adoption-is-low-risks-remain-for-enterprises-end-users": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcc6a66d8e943cf24/692fdcf7d2834637bd079948/blindfold-HA_Photos-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -21343,6 +21490,15 @@
     "source": "darkreading",
     "summary": "While ECH Adoption Is Low, Risks Remain for Enterprises, End Users Is the new privacy protocol helping malicious actors more than Internet users?",
     "title": "While ECH Adoption Is Low, Risks Remain for Enterprises, End Users"
+  },
+  "https://www.darkreading.com/endpoint-security/apple-patches-darksword-ios-18": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7015711bd72ffc83/69cff44a7535beaa9fb4616c/Apple_progress_bar-JENYA-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-03T17:08:57+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Apple Breaks Precedent, Patches DarkSword for iOS 18 Even organizations with users unwilling or unable to adopt iOS 26 can now protect themselves from a severe mobile OS-cracking tool.",
+    "title": "Apple Breaks Precedent, Patches DarkSword for iOS 18"
   },
   "https://www.darkreading.com/endpoint-security/attackers-abuse-python-cloudflare-deliver-asyncrat": {
     "categories": [],
@@ -21441,6 +21597,15 @@
     "source": "darkreading",
     "summary": "CrowdStrike to Buy SGNL to Expand Identity Security Capabilities The CrowdStrike-SGNL deal underscores how identity security has become a critical component of enterprise cybersecurity as companies add cloud services and deploy AI-driven tools.",
     "title": "CrowdStrike to Buy SGNL to Expand Identity Security Capabilities"
+  },
+  "https://www.darkreading.com/endpoint-security/crowdstrike-falcon-ingest-microsoft-defender-telemetry": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0bdf16aa665784b3/689f7412dc6d053d5644680d/edr_MauriceNorbert_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-03T11:53:15+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "CrowdStrike Next-Gen SIEM Can Now Ingest Microsoft Defender Telemetry Once CrowdStrike's nemesis, Microsoft is now a collaborator. A shared interest in Formula 1 helped thaw the years-long fierce rivalry.",
+    "title": "CrowdStrike Next-Gen SIEM Can Now Ingest Microsoft Defender Telemetry"
   },
   "https://www.darkreading.com/endpoint-security/cylake-offers-ai-native-security-without-relying-on-cloud-services": {
     "categories": [],
@@ -21968,6 +22133,15 @@
     "source": "darkreading",
     "summary": "LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut A newly released study exclusively shared with Dark Reading details the unique circumstances that make up Latin America's labor pool, and why organizations may want to expand their talent search.",
     "title": "LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut"
+  },
+  "https://www.darkreading.com/remote-workforce/skull-vibrations-could-be-xr-headset-authentication": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt673e9c40508ebe1e/69cecafa5c46194cc718a313/Skull_painting_Peter_Horree_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-03T13:30:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Picking Up 'Skull Vibrations'? Could Be XR Headset Authentication &quot;Skull vibration harmonics generated by vital signs&quot; can be used to sign in to VR, AR, and MR headsets, according to emerging research.",
+    "title": "Picking Up 'Skull Vibrations'? Could Be XR Headset Authentication"
   },
   "https://www.darkreading.com/remote-workforce/stanley-toolkit-chrome-undetectable-phishing": {
     "categories": [],
@@ -22680,6 +22854,15 @@
     "source": "darkreading",
     "summary": "Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA A user-friendly PhaaS tool beats standard methods for detecting phishing attacks by live-proxying legitimate login sites.",
     "title": "Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA"
+  },
+  "https://www.darkreading.com/threat-intelligence/teampcp-attacks-hacker-infighting": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt521dd4163ce7b43a/69cfd9e44d3fef6aef031bbc/breaches_hirunlaowisit_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-03T15:11:16+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting As organizations disclose breaches tied to TeamPCP's supply chain attacks, ShinyHunters and Lapsus$ are getting involved, taking credit, and creating a murky situation for enterprises.",
+    "title": "Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting"
   },
   "https://www.darkreading.com/threat-intelligence/threat-hunter-helped-cops-crack-african-cybercrime-syndicate": {
     "categories": [],
