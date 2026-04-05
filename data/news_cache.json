@@ -6647,6 +6647,15 @@
     "summary": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don\u2019t See It Coming) For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what\u2019s next.\nThreat actors now use malware less frequently in fav\u2026",
     "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don\u2019t See It Coming)"
   },
+  "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9axxKrcvcFkL99SIB2AlrcEW2RIZ1Ff8PollH7XYSWrYSOgoPXKlF5rsdgyr9BSWVUa5oP07faI_DvxNyUk_rpuz5i2xuiEdlU-e929rCWpkLjDGRs4EBjzfBWQRJVtrWNtR-EKvWsR-PPO-Yfei5ONMyumlI12R7OHmIrsyzJtB5SJRTCSuKiyJQnTfK/s1600/database.jpg",
+    "published": "2026-04-05T05:07:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different payloads to facilitate Redis and PostgreSQL exp\u2026",
+    "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants"
+  },
   "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOPIq2XjzxLFTE4iwZWuKsLifOBVn0sVZv2vDEl0D3eXsyiW8ePJH7ukb29zq7gb7-7fJy8WjCRC5e-sYoMLXT4ZE-12llaj0H76qjygPmEl7cuGiC4jrLaMdDX5M55YsuYhdtbn8k5gCosH-JwHU3H-b7ho_5Lvg4pjoKf2Lz39lOumTGuxldWK1YQvfJ/s1600/apple-update.jpg",
@@ -6718,6 +6727,15 @@
     "source": "The Hacker News",
     "summary": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK Solana-based decentralized exchange Drift has confirmed that attackers drained about $285 million from the platform during a security incident that took place on April 1,&nbsp;2026.\n\"Earlier today,\u2026",
     "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK"
+  },
+  "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh61_DDvLhdLZ8tHMrmQ8XlQ1vWwnEk-2lmYFnjw_1ZvJ4IUB4G7ffXU8pSd7JDknP0bqyaVVOTb1HJ62ujlQ_zfG3Lc7XMtLKUuZTO6v4jgrdqon90wrix6EaQNKtou3yz7Txf3ni5JOVn-D1-OcHB7e-UDxQI2ifZOBHAeDwFBnwAfanSeFn8EyP8oilj/s1600/fortinet.jpg",
+    "published": "2026-04-05T04:32:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the&nbsp;wild.\nThe&nbsp;vulnerability, tracked&nbsp;as CVE-2026-35616 (CVSS sc\u2026",
+    "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS"
   },
   "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html": {
     "categories": [],
@@ -9879,6 +9897,17 @@
     "summary": "Avast Makes AI-Driven Scam Defense Available for Free Worldwide Avast is rolling out Scam Guardian, a free AI-powered protection layer that analyzes websites, messages, and links to detect rising scam threats. Powered by Gen Threat Labs data, it reveals hidden dangers in code and\u2026",
     "title": "Avast Makes AI-Driven Scam Defense Available for Free Worldwide"
   },
+  "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-04T20:30:42+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Axios npm hack used fake Teams error fix to hijack maintainer account The maintainers of the popular Axios HTTP client have published a detailed post-mortem describing how one of its developers was targeted by a social engineering campaign believed to have been conducted by North\u2026",
+    "title": "Axios npm hack used fake Teams error fix to hijack maintainer account"
+  },
   "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/": {
     "categories": [
       "Security"
@@ -11604,6 +11633,17 @@
     "source": "BleepingComputer",
     "summary": "Denmark blames Russia for destructive cyberattack on water utility Danish intelligence officials blamed Russia for orchestrating cyberattacks against Denmark's critical infrastructure, as part of Moscow's hybrid attacks against Western nations. [...]",
     "title": "Denmark blames Russia for destructive cyberattack on water utility"
+  },
+  "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-04T14:17:38+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Device code phishing attacks surge 37x as new kits spread online Device code phishing attacks that abuse the OAuth 2.0\u00a0Device Authorization Grant flow to hijack accounts have surged more than 37 times this year. [...]",
+    "title": "Device code phishing attacks surge 37x as new kits spread online"
   },
   "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/": {
     "categories": [
@@ -14302,6 +14342,17 @@
     "source": "BleepingComputer",
     "summary": "LinkedIn secretely scans for 6,000+ Chrome extensions, collects data A new report dubbed \"BrowserGate\"\u00a0warns that Microsoft's LinkedIn is using hidden JavaScript scripts on its website to scan visitors' browsers for installed extensions and collect device data. [...]",
     "title": "LinkedIn secretely scans for 6,000+ Chrome extensions, collects data"
+  },
+  "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-03T20:40:22+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data A new report dubbed \"BrowserGate\"\u00a0warns that Microsoft's LinkedIn is using hidden JavaScript scripts on its website to scan visitors' browsers for installed extensions and collect device data. [...]",
+    "title": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data"
   },
   "https://www.bleepingcomputer.com/news/security/logitech-confirms-data-breach-after-clop-extortion-attack/": {
     "categories": [
