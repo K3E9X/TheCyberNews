@@ -6638,6 +6638,15 @@
     "summary": "Why Security Validation Is Becoming Agentic If you run security at any reasonably complex organization, your validation stack probably looks something like this: a BAS tool in one corner. A pentest engagement, or maybe an automated pentesting product, in another. A vulnerability \u2026",
     "title": "Why Security Validation Is Becoming Agentic"
   },
+  "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2eFUAGb2m5vs6mOwArunSX0lzBpR8Ag24yQhUtaYxrcHx2V46YcocY9oei-HH89QSB-HTxXta3bLH70_n6zMCRD949ttVsKlt4WnzSZ0rl1v4Suj3A7xftqjQSEXDq_cfLCIcMuENqoFeD9zBW0qZXr1owIEQEqzSNkaKfHFsGF35-lseSZbc0MGLRRWu/s1600/drift-hack.jpg",
+    "published": "2026-04-05T18:25:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation Drift&nbsp;has revealed that the April 1, 2026, attack that led to&nbsp;the theft of $285&nbsp;million was the culmination of a months-long targeted and meticulously planned social engineering operation\u2026",
+    "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation"
+  },
   "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnuThJU5o7fpNxZwlNpyZFxPX9Y7rDp2TF2zUrPTRMhLEcnv7UQfdVgoAJ5gh8-JpgNvnJOG5dbOABLCmemzmYazgTwPTxScbn9vlwlCouNIuKZvmaeE3mcza5ceAfKBfpkbeAUKcOd9eZoBWXgjEvuDAORSPICahRqIz4g0BkwD84YZwB547OHBLsoZs/s1600/main.jpg",
@@ -6664,6 +6673,15 @@
     "source": "The Hacker News",
     "summary": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit Apple&nbsp;on&nbsp;Wednesday expanded the availability of iOS 18.7.7&nbsp;and iPadOS 18.7.7&nbsp;to a broader range of devices to protect users from the risk posed by a recently disclosed exploit kit known\u2026",
     "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit"
+  },
+  "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsBHK8DX9E30isZVcn1e-a6p8bmNUAki0SmUh1Tkt9dP8L3D4_WcwT64CI5OVuh1brb1Z4pff7onp90K76ktHbs6-H6Kr0rq9Q2f03oW91e3mA5dN5XdLDyWNns5NcfXw7BKFzH28SbpaFo9l8TmMeZ7Mt6o1ePanKeFYGa8V1S9Rez_E30SIAx2yvfuNl/s1600/revil-ransomware.jpg",
+    "published": "2026-04-06T06:59:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identity of the main threat actors associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (R\u2026",
+    "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks"
   },
   "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html": {
     "categories": [],
@@ -13560,6 +13578,17 @@
     "summary": "Hackers exploit newly patched Fortinet auth bypass flaws Hackers are exploiting critical-severity vulnerabilities affecting multiple Fortinet products to get unauthorized access to admin accounts\u00a0and steal system configuration files. [...]",
     "title": "Hackers exploit newly patched Fortinet auth bypass flaws"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-05T14:17:23+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit React2Shell in automated credential theft campaign Hackers are running a large-scale campaign to steal credentials in an automated way after exploiting React2Shell (CVE-2025-55182) in vulnerable Next.js apps. [...]",
+    "title": "Hackers exploit React2Shell in automated credential theft campaign"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-security-testing-apps-to-breach-fortune-500-firms/": {
     "categories": [
       "Security",
@@ -15304,6 +15333,17 @@
     "source": "BleepingComputer",
     "summary": "New font-rendering trick hides malicious commands from AI tools A new font-rendering attack causes AI assistants to miss malicious commands shown on webpages by hiding them in seemingly harmless HTML. [...]",
     "title": "New font-rendering trick hides malicious commands from AI tools"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-05T18:45:17+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New FortiClient EMS flaw exploited in attacks, emergency patch released Fortinet has released an emergency weekend security update for a new critical FortiClient Enterprise Management Server (EMS) vulnerability that is actively exploited in attacks. [...]",
+    "title": "New FortiClient EMS flaw exploited in attacks, emergency patch released"
   },
   "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/": {
     "categories": [
@@ -17744,6 +17784,17 @@
     "source": "BleepingComputer",
     "summary": "TP-Link warns users to patch critical router auth bypass flaw TP-Link has patched several vulnerabilities in its Archer NX router series, including a critical-severity flaw that may allow attackers to bypass authentication and upload new firmware. [...]",
     "title": "TP-Link warns users to patch critical router auth bypass flaw"
+  },
+  "https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-05T19:44:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Traffic violation scams switch to QR codes in new phishing texts Scammers are sending fake \"Notice of Default\" traffic violation text messages impersonating state courts across the U.S., pressuring recipients to scan a QR code that leads to a phishing site demanding a $6.99 payme\u2026",
+    "title": "Traffic violation scams switch to QR codes in new phishing texts"
   },
   "https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/": {
     "categories": [
