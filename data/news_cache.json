@@ -6746,6 +6746,15 @@
     "summary": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error.\n\"No sensitive customer data or\u2026",
     "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms"
   },
+  "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1fiR51KBq7hNIR1D2V9e0jituEJTVutYd8b9v6KR0YdA30xWCSKJo3nfIykSdYSjZNe7gvNj3Wf3HidhZ24n-piDo8LhrE6ctyZrcLYNcJwCSP0KEe7G0Fl_xJm676Dv-4bFEh63Vv_xZ1zb9qOKhfeWFN5IexOHligHBCTHyVLAMDl0aeL2olDxnjfch/s1600/ai-chat.jpg",
+    "published": "2026-04-07T15:15:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access A high-severity security vulnerability has been disclosed in Docker Engine that could permit an attacker to bypass authorization plugins&nbsp;(AuthZ) under specific circumstances.\nThe vulnerability, tr\u2026",
+    "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access"
+  },
   "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh23Q23hk6n_d_f9evdsf7JVcn5OswTUqwd0B8EvWdftPQXN4K1V6nHICk_MvzLf4jUfCCHpUmaZIzECekbKf3PQ2w2gRlY-AphdBRZgyJHq7XQsyIS_vp6iT_fVLoDQ1TFA4DBLT32Q1sTY_WHjGRtzaYMOqMNThcg8JodZ-Aozj2OO21DQLj2agEojjdp/s1600/github.jpg",
@@ -6809,6 +6818,15 @@
     "summary": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers The&nbsp;most active piece of enterprise infrastructure in the company is the developer workstation. That&nbsp;laptop is where credentials are created, tested, cached, copied, and reused across services, b\u2026",
     "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers"
   },
+  "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBiMBUkucAS1NG7NHlk46hGqNyjv5iU5w1Z6HVNXgQywcDfTSOdtQWSqYA5ccSojgRB45ScYHFfyPWqe_9QbOZYo6u6V5qUAcRQIm4CfIDvkRqhs7rtPhmD7yNR4bn_StYbNZm2UWqXfeqXCUeDL1eneK7VyGnHfGbk3EatILzs_fKtRN6VxF8vnKDgQL_/s1600/plc.jpg",
+    "published": "2026-04-08T04:23:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including programmable logic controllers (PLCs),\u2026",
+    "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs"
+  },
   "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgf4g-Zhhi4P6IHkSqUlU3EzCQNKPJ1nV3mWfQAtS6gfGu6H7wuq5OgVXGvF1IM2afayopX3b0zj4bjVDYaO7dBc4rl0A0Y6GND1VkbLdug_ULVW6a6P7iNlhUFGwMsRSDHqbodsc8EeLcg2nXxDPXO0h8RABu_jr9o-5cx8g5GTXxFgDOx9PTRQIFECpL/s1600/iran.jpg",
@@ -6854,6 +6872,15 @@
     "summary": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation \u2014 Patch Released Google on Thursday released security updates for its Chrome web browser to address 21 vulnerabilities, including a zero-day flaw that it said has been exploited in the wild.\nThe high-severity vulnerabili\u2026",
     "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation \u2014 Patch Released"
   },
+  "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD7E4oEicfW1OaHztWEuM4qrsJFnHRPJ41f8R-2VeKUFV3Y59XaBUctumc2R91miQ3dMPnwkEcpPMqFErKmPRJhS3VRceve1GOSGGUsP6WHGIfoQAuVV10JVy312CxGYvmb2xA_eQtuO69bNb-1NzYln9P4xbsFDoPgWG3BEdri4sRRj415XQr1NENZBh0/s1600/grpu.jpg",
+    "published": "2026-04-07T08:38:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips New academic research has identified multiple RowHammer attacks against high-performance graphics processing units (GPUs) that could be exploited to escalate privileges and, in some cases, even take fu\u2026",
+    "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips"
+  },
   "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2s09d3X9qYABLHP5v1u9iyjRN5p28u6xvnL0qkKR1-s1CsqtIDAWeQCFKQ9S4Mde1ueUmzcjNA9SAzWN-lDWwbmTmmlwbbLkyKx-EJc2-bjhKlEsChsp3iZ6watrZ4I8LJdL_p0vatW4NrXntcs6_xdReGEQJMUCgfAFo-ZfCy_jDsxEZgPMx1T9e1e0L/s1600/mobile-wallet-seed.jpg",
@@ -6862,6 +6889,15 @@
     "source": "The Hacker News",
     "summary": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images Cybersecurity researchers&nbsp;have discovered a new version of&nbsp;the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the&nbsp;trojan was discovered targ\u2026",
     "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images"
+  },
+  "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNAquH2CuNdKvNbKqIsmTqg2Rpb5SRn8zxBKdQliREzpq_Byd0ye0aD8IFVa1JUj09QnQVJVnAVET30DX0jRBK1LBXJ-16QC_GoiYDH2ibCfoYcttx3McOurmn9e4cSugeNgEQa-oVqR13I9K1h6ktgggudmT3u88I_iN_ksHQvuS2N0u0uGlUNTW_Tv9l/s1600/compfyui.jpg",
+    "published": "2026-04-07T12:46:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign An active campaign has been observed targeting internet-exposed instances running ComfyUI, a popular stable diffusion platform, to enlist them into a cryptocurrency mining and proxy&nbsp;botnet.\n\"A purp\u2026",
+    "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign"
   },
   "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html": {
     "categories": [],
@@ -6880,6 +6916,24 @@
     "source": "The Hacker News",
     "summary": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners A&nbsp;financially motivated operation&nbsp;codenamed REF1695&nbsp;has been&nbsp;observed leveraging fake installers to deploy remote access trojans (RATs) and cryptocurrency miners since Novemb\u2026",
     "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners"
+  },
+  "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6xcrxyaKNQYXfVN-AHFfiSrJ_8SwW3v7MgKlJNBi-E5WIwT3ZNrNm4fcT0JZKHHLH9fbtMKdYhG_2DBHxkIy7-EydaWvEeeo4LDRPgAJ1K8i-YFeD9a0gPnw92xfN4FU3k7rQUhizsFLL8fiAo2YOw-ql-Ru07KtBUoA__B_fGYW4I6jnnn-OPwxoXnCx/s1600/router.jpg",
+    "published": "2026-04-07T16:48:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign The Russia-linked threat actor known&nbsp;as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to t\u2026",
+    "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign"
+  },
+  "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKmTyBv8aWjZuBbedJ5TZkS6Y66K940b-vB3d1MoHwX2AXWb8xmabo8pN7pcFBicVbmRmK22bzd9nX3XceGzlcmkfej9nF5VJk1srniaJ2F28JEmeFynSREG8A_XMQBSSba4Rb6nn41RCXPT6p5a23xaEoM9Jxb4yvqStcl9j9cofRrotYh2dvxtrM7uc/s1600/out.jpg",
+    "published": "2026-04-07T11:30:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "The Hidden Cost of Recurring Credential Incidents When talking about credential security, the focus usually lands on breach prevention. This&nbsp;makes sense&nbsp;when IBM\u2019s 2025 Cost of a Data Breach&nbsp;Report puts the average cost of a breach at $4.4&nbsp;million. Avoiding ev\u2026",
+    "title": "The Hidden Cost of Recurring Credential Incidents"
   },
   "https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html": {
     "categories": [],
@@ -6907,6 +6961,15 @@
     "source": "The Hacker News",
     "summary": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack The&nbsp;maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering campaign orchestrated by North Korean threat actors tra\u2026",
     "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack"
+  },
+  "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHgJL0SczODx5PAnF85b8b0mRpiOOkIQdOWvhivyXu6H8UeZKH9ZUdaeW5IuU59q2hjMNioQWQ5vk1Km8yinGGc8GA079qvhTtFsp9PV76Kmp-3lpKh2zi3vgd_-6dFcOI6i1YHs7VkJ-p-HvOEuOwkjooBVSvYFOrVqXqNhZShZy3IUeD6BVHVvUIj50/s1600/webinar-cerby.jpg",
+    "published": "2026-04-07T16:29:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk In&nbsp;the rapid evolution of&nbsp;the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security&nbsp;leaders: Identity programs are maturing, yet the risk is actually increasin\u2026",
+    "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk"
   },
   "https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html": {
     "categories": [],
@@ -8673,6 +8736,17 @@
     "summary": "Microsoft removing Defender Application Guard from Office Microsoft plans to remove\u00a0Defender Application Guard from Office by December 2027, starting with the February 2026 release of Office version 2602. [...]",
     "title": "Microsoft removing Defender Application Guard from Office"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-08T07:00:55+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft rolls out fix for broken Windows Start Menu search Microsoft has pushed a server-side fix for a known issue that broke the Windows Start Menu search feature on some Windows 11 23H2 devices. [...]",
+    "title": "Microsoft rolls out fix for broken Windows Start Menu search"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/": {
     "categories": [
       "Microsoft"
@@ -9998,6 +10072,17 @@
     "source": "BleepingComputer",
     "summary": "Australia warns of BadCandy infections on unpatched Cisco devices The Australian government is warning about ongoing cyberattacks against unpatched Cisco IOS XE devices in the country to infect routers with the BadCandy webshell. [...]",
     "title": "Australia warns of BadCandy infections on unpatched Cisco devices"
+  },
+  "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-07T15:51:22+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins An international operation from law enforcement authorities in partnership with private companies has disrupted FrostArmada, an APT28 campaign hijacking local traffic from MikroTik and TP-Link routers to st\u2026",
+    "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins"
   },
   "https://www.bleepingcomputer.com/news/security/avast-makes-ai-driven-scam-defense-available-for-free-worldwide/": {
     "categories": [
@@ -12427,6 +12512,17 @@
     "summary": "Fake VS Code alerts on GitHub spread malware to developers A large-scale campaign is targeting developers on GitHub with fake Visual Studio Code (VS Code) security alerts posted in the Discussions section of various projects, to trick users into downloading malware. [...]",
     "title": "Fake VS Code alerts on GitHub spread malware to developers"
   },
+  "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-07T20:41:52+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "FBI: Americans lost a record $21 billion to cybercrime last year U.S. victims lost nearly $21 billion to cyber-enabled crimes last year, driven primarily by investment scams, business email compromise, tech support fraud, and data breaches,\u00a0the Federal Bureau of Investigation say\u2026",
+    "title": "FBI: Americans lost a record $21 billion to cybercrime last year"
+  },
   "https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/": {
     "categories": [
       "Security",
@@ -13675,6 +13771,17 @@
     "summary": "Hackers exploit critical auth bypass flaw in JobMonster WordPress theme Threat actors are targeting a critical vulnerability in the JobMonster WordPress theme that allows hijacking of administrator accounts under certain conditions. [...]",
     "title": "Hackers exploit critical auth bypass flaw in JobMonster WordPress theme"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-07T22:03:01+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit critical flaw in Ninja Forms WordPress plugin A critical vulnerability in the Ninja Forms File Uploads premium add-on for WordPress allows uploading arbitrary files without authentication, which can lead to remote code execution. [...]",
+    "title": "Hackers exploit critical flaw in Ninja Forms WordPress plugin"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-telnetd-auth-bypass-flaw-to-get-root/": {
     "categories": [
       "Security"
@@ -14868,6 +14975,18 @@
     "source": "BleepingComputer",
     "summary": "Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match Match Group, the owner of multiple popular online dating services, Tinder, Match.com, Meetic, OkCupid, and Hinge, confirmed a cybersecurity incident that compromised user data. [...]",
     "title": "Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match"
+  },
+  "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-04-07T17:02:05+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Max severity Flowise RCE vulnerability now exploited in attacks Hackers are exploiting a maximum-severity vulnerability, tracked as CVE-2025-59528, in the open-source platform Flowise for building custom LLM apps and agentic systems to execute arbitrary code. [...]",
+    "title": "Max severity Flowise RCE vulnerability now exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/": {
     "categories": [
@@ -17398,6 +17517,17 @@
     "summary": "Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack Sneaky2FA, a popular among cybercriminals phishing-as-a-service (PhaaS) kit, has added Browser-in-the-Browser (BitB) capabilities, giving \"customers\" the option to launch highly deceptive attacks. [...]",
     "title": "Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack"
   },
+  "https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-07T19:39:18+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Snowflake customers hit in data theft attacks after SaaS integrator breach Over a dozen companies have suffered data theft attacks after a\u00a0SaaS integration provider was breached and authentication tokens stolen. [...]",
+    "title": "Snowflake customers hit in data theft attacks after SaaS integrator breach"
+  },
   "https://www.bleepingcomputer.com/news/security/solarwinds-warns-of-critical-web-help-desk-rce-auth-bypass-flaws/": {
     "categories": [
       "Security"
@@ -18501,6 +18631,17 @@
     "summary": "US sanctions North Korean bankers linked to cybercrime, IT worker fraud The U.S. Treasury Department imposed sanctions on two North Korean financial institutions and eight individuals involved in laundering cryptocurrency stolen in cybercrime and fraudulent IT worker schemes. [..\u2026",
     "title": "US sanctions North Korean bankers linked to cybercrime, IT worker fraud"
   },
+  "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-07T18:02:26+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "US warns of Iranian hackers targeting critical infrastructure Iranian-linked hackers are targeting Internet-exposed Rockwell/Allen-Bradley programmable logic controllers (PLCs) on the networks of U.S. critical infrastructure organizations. [...]",
+    "title": "US warns of Iranian hackers targeting critical infrastructure"
+  },
   "https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/": {
     "categories": [
       "Security"
@@ -18828,6 +18969,17 @@
     "source": "BleepingComputer",
     "summary": "Why the shift left dream has become a nightmare for security and developers The \"shift left\" approach has increased pressure on developers, as speed demands override security checks in modern CI pipelines. Qualys explains how analyzing 34,000 public container images revealed 7.3%\u2026",
     "title": "Why the shift left dream has become a nightmare for security and developers"
+  },
+  "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-07T14:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Why Your Automated Pentesting Tool Just Hit a Wall Automated pentesting tools deliver strong early results, then quickly plateau. Picus Security explains how the \"PoC cliff\" leaves major attack surfaces untested and creates a dangerous validation gap. [...]",
+    "title": "Why Your Automated Pentesting Tool Just Hit a Wall"
   },
   "https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/": {
     "categories": [
@@ -19491,6 +19643,15 @@
     "source": "darkreading",
     "summary": "Google Looker Bugs Allow Cross-Tenant RCE, Data Exfil Attackers could even have used one vulnerable Lookout user to gain access to other GCP tenants' environments.",
     "title": "Google Looker Bugs Allow Cross-Tenant RCE, Data Exfil"
+  },
+  "https://www.darkreading.com/application-security/grafana-patches-ai-bug-leaked-user-data": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt95fa0225faa25bcb/69d5570d4647646f679c5429/prompt_injection_GK_Images_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-07T19:52:26+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Grafana Patches AI Bug That Could Have Leaked User Data By hiding malicious instructions on an attacker-controlled Web page, AI could ingest orders as benign and return sensitive data to the attacker's server.",
+    "title": "Grafana Patches AI Bug That Could Have Leaked User Data"
   },
   "https://www.darkreading.com/application-security/hardened-containers-eliminate-common-source-vulnerabilities": {
     "categories": [],
@@ -20374,6 +20535,15 @@
     "source": "darkreading",
     "summary": "Latin American Orgs Lack Confidence in Cyber Defenses, Skills Cybersecurity professionals in Latin America are least likely to have faith in their countries' preparedness for cyberattacks on critical infrastructure, the World Economic Forum says.",
     "title": "Latin American Orgs Lack Confidence in Cyber Defenses, Skills"
+  },
+  "https://www.darkreading.com/cyber-risk/lies-damned-lies-cybersecurity-metrics": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2569e353af1be41f/69d47533006e7a7f735aaf62/clipboard-paulaphoto-AdobeStock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-07T14:26:02+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Lies, Damned Lies, and Cybersecurity Metrics A panel of five C-suite leaders discuss how cybersecurity success is measured and why it isn't improving results.",
+    "title": "Lies, Damned Lies, and Cybersecurity Metrics"
   },
   "https://www.darkreading.com/cyber-risk/manufacturing-and-healthcare-share-struggles-with-passwords": {
     "categories": [],
@@ -21511,6 +21681,15 @@
     "summary": "From a Whisper to a Scream: Europe Frets About Overreliance on US Tech Concern is growing across Europe about relying on US cybersecurity companies, and Greenland takeover talk is eroding trust across the EU even further.",
     "title": "From a Whisper to a Scream: Europe Frets About Overreliance on US Tech"
   },
+  "https://www.darkreading.com/cybersecurity-operations/focusing-people-cybersecurity-rsac2026": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt79de1ac137dc7200/69d3f4d558d26eee5e1c3d8d/AI_Human_High_Five_Andriy_Popov_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-07T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Focusing on the People in Cybersecurity at RSAC 2026 Conference AI dominated the RSAC 2026 Conference and showed it's still humans in cybersecurity who matter most.",
+    "title": "Focusing on the People in Cybersecurity at RSAC 2026 Conference"
+  },
   "https://www.darkreading.com/cybersecurity-operations/gen-z-cybersecurity-jury-out-ai-impact": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt903df1c6b19686d9/6925deaff3543b29df29d8ee/genz-Mirko_Vitali-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -21536,6 +21715,15 @@
     "source": "darkreading",
     "summary": "Hand CVE Over to the Private Sector How MITRE has mismanaged the world's vulnerability database for decades and wasted millions along the way.",
     "title": "Hand CVE Over to the Private Sector"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/human-vs-ai-debates-shape-rsac-2026-cybersecurity-trends": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8cc6dfee21157b59/69d021415c46191fe418a614/AI1800_Science_Photo_Library_ALAMY.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-07T14:36:44+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Human vs AI: Debates Shape RSAC 2026 Cybersecurity Trends As AI dominated RSAC 2026, CISOs and industry leaders debated its role in security, from agentic applications to the challenges of scaling human involvement in decision-making.",
+    "title": "Human vs AI: Debates Shape RSAC 2026 Cybersecurity Trends"
   },
   "https://www.darkreading.com/cybersecurity-operations/india-app-mandate-surveillance-concerns": {
     "categories": [],
@@ -21655,6 +21843,15 @@
     "source": "darkreading",
     "summary": "RSAC 2026: AI Dominates, But Community Remains Key to Security As AI took center stage at this year's conference, experts debated automation, oversight and the evolving role of human intelligence in cybersecurity \u2014 despite the US government's notable absence.",
     "title": "RSAC 2026: AI Dominates, But Community Remains Key to Security"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/rsac-2026-how-ai-is-reshaping-cybersecurity-faster-than-ever": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt13b8cd0ffe1e58f9/69d479deaf91601506053f59/earth1800_Buradaki_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-07T14:57:16+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "RSAC 2026: How AI Is Reshaping Cybersecurity Faster Than Ever Dark Reading's Kelly Jackson Higgins shares insights on the past, present, and future of cybersecurity after attending RSAC 2026 Conference.",
+    "title": "RSAC 2026: How AI Is Reshaping Cybersecurity Faster Than Ever"
   },
   "https://www.darkreading.com/cybersecurity-operations/securing-win-what-cybersecurity-learn-from-paddock": {
     "categories": [],
@@ -23177,6 +23374,15 @@
     "source": "darkreading",
     "summary": "Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA A user-friendly PhaaS tool beats standard methods for detecting phishing attacks by live-proxying legitimate login sites.",
     "title": "Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA"
+  },
+  "https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4758c90a86b6e8ad/69d55d246ef500ddf73c9699/medusa_CarloBollo_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-07T20:15:07+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Storm-1175 Deploys Medusa Ransomware at 'High Velocity' Microsoft says the financially motivated cybercrime group has exploited N-day and zero-day vulnerabilities in campaigns predicated on speed.",
+    "title": "Storm-1175 Deploys Medusa Ransomware at 'High Velocity'"
   },
   "https://www.darkreading.com/threat-intelligence/teampcp-attacks-hacker-infighting": {
     "categories": [],
