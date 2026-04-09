@@ -6665,6 +6665,15 @@
     "summary": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different payloads to facilitate Redis and PostgreSQL exp\u2026",
     "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants"
   },
+  "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihvGfSh39Lhl5ird3iuR-T4gkaVejmXgtJ4VwbkLxAqG2hBZWkqQ8LR5k8wfuapt8oUdtifp8Le-uA6Xep8kGe3BRCx5qM1vY9DiMCnMgTFeFK8bc0wBSUR62TjZgPZ9dviGiM8-4-xW1N-ZGSDxIY0uJLFmEKDt1Z9rbttd7Lg_mma6Kt_2qk89vjq9Ed/s1600/claude-mythos.png",
+    "published": "2026-04-08T09:16:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative&nbsp;called Project&nbsp;Glasswing&nbsp;that&nbsp;will use a preview version of its new frontier model, Claude \u2026",
+    "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems"
+  },
   "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOPIq2XjzxLFTE4iwZWuKsLifOBVn0sVZv2vDEl0D3eXsyiW8ePJH7ukb29zq7gb7-7fJy8WjCRC5e-sYoMLXT4ZE-12llaj0H76qjygPmEl7cuGiC4jrLaMdDX5M55YsuYhdtbn8k5gCosH-JwHU3H-b7ho_5Lvg4pjoKf2Lz39lOumTGuxldWK1YQvfJ/s1600/apple-update.jpg",
@@ -6673,6 +6682,15 @@
     "source": "The Hacker News",
     "summary": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit Apple&nbsp;on&nbsp;Wednesday expanded the availability of iOS 18.7.7&nbsp;and iPadOS 18.7.7&nbsp;to a broader range of devices to protect users from the risk posed by a recently disclosed exploit kit known\u2026",
     "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit"
+  },
+  "https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBiilqDko4PDmo2Iu-E-25PRzUJ2LygbHdv1RsdA31AkJBL9QB3AzdxV_4j-jo2Xf9wXwlienf17HO_uJyiue3JOWNfTFdln4gXJcounilzPxOsIXpN5g6imDW3ta0jt4Ck3UYinAmWwHZqfxYhjuaFnOIowTmZbNedv3AmS7Qlze1-tD2gkJBuUxTzSml/s1600/nato.jpg",
+    "published": "2026-04-08T13:50:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies The Russian threat actor known&nbsp;as APT28 (aka Forest Blizzard and Pawn Storm) has been linked to a fresh spear-phishing campaign targeting Ukraine and its allies to deploy a previously undocumented ma\u2026",
+    "title": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies"
   },
   "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html": {
     "categories": [],
@@ -6836,6 +6854,15 @@
     "summary": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations An&nbsp;Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E. amid&nbsp;ongoing conflict in the Middle&nb\u2026",
     "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations"
   },
+  "https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVrpJtAgJfASiMYseJhDzJoT1ly7iXa_e_Y_4TBhGIkVGCJ_ZLDM-tGb1Y9NWcOpOcH-xUZUfDiM0fuvUIabEa_5xSbgGjgL8U4FPE99W-V6-oFRAG1ziEZeiJPYrkSZZrwu0jQDjhdUfKsiSxPgZbyZgF1A-cUOqUK3aJpSOQgeSZWogg1X9r77IANDey/s1600/ddos-for-hire.jpg",
+    "published": "2026-04-08T16:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices Cybersecurity researchers have lifted the curtain on a stealthy botnet that's designed for distributed denial-of-service (DDoS)&nbsp;attacks.\nCalled Masjesu, the botnet has been advertised via Telegram a\u2026",
+    "title": "Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices"
+  },
   "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_2zEf8l08MTElI1sGlJPVVWtscud2RAXdsivOvcby3pO4NUWMBioT3FNaFL7Bw0GeEqnX_WqY10FVqXhVNBTOrl0UMPoyun7AvshwpvfJIdfdJ0yJ1V2mz7ZHQDE9motXuuW6urvTJYu0kLGvpZf10Qx1hNeobD4YV25tJY9nvNoW9Sqd8nSsWK7NWQP0/s1600/php-linux.jpg",
@@ -6862,6 +6889,24 @@
     "source": "The Hacker News",
     "summary": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps Your attack surface no&nbsp;longer lives&nbsp;on one operating system, and neither do the campaigns targeting&nbsp;it. In enterprise environments, attackers move across Windows endpoints, executive MacBooks, Linux i\u2026",
     "title": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps"
+  },
+  "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiJCapdeJ9Q-yAbFZ7EG69FNg_jPvK7YptY2C7TN6txlcPM_bvVrcbqN1bi-vy2IFi8Ai485K-DZblHR8XwZxdch90kWSv48wjvZF7oj0wy0IMd-B7VPuSiUbSFSJKAlErnSUZWjyVOf-Fyy-LqlxLbGLA7rxIkxlgc6_WRyCNH3XWDLb5GtnmjvxFjUrt/s1600/pack.jpg",
+    "published": "2026-04-08T07:47:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust The North Korea-linked persistent campaign known&nbsp;as Contagious&nbsp;Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems.\n\"The threat actor'\u2026",
+    "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust"
+  },
+  "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjO6ntnqBUePhV2XQEQmTFh-IjdPR64u_T9ODhO3RY_BAv_8YohhRCwMg6OO9UKlvJJCd7rs1c391fbNZ59qDsSujaFJuso3h_94xKo2BX2L5Jj-osBqZ3VglM5kbgzt6OJGtkiNx4Am6NbgzrHtUa7fbdnfei8_xeJao4yvlMp3HkCurz9aNJkg9Xv934/s1600/cloud.jpg",
+    "published": "2026-04-08T17:51:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy Cybersecurity researchers have flagged a new variant&nbsp;ofmalware&nbsp;called Chaosthat'scapable of&nbsp;hitting misconfigured cloud deployments, marking an expansion of the botnet's targeting infrastru\u2026",
+    "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy"
   },
   "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html": {
     "categories": [],
@@ -6925,6 +6970,15 @@
     "source": "The Hacker News",
     "summary": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign The Russia-linked threat actor known&nbsp;as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to t\u2026",
     "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign"
+  },
+  "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBk9NZe_ohGdUGAoq15K_dOgD1oLAfVbW296B80LqWpzR3Cal5Zerxl9gJCmrK9g9WROjalAzzvElgqRAm-2WtyxAJLfisSZ7b5S_HwDR4QvJnuO5H3g3W3Qd-_OAG-lcmsjCQ3K0bj5_5BRcY-B8euArXK8_lAvFxJf0h6CyHW0ZfXtCgZPqRA7ShNbU/s1600/orchid.jpg",
+    "published": "2026-04-08T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP) The Fragmented State of Modern Enterprise&nbsp;Identity\nEnterprise IAM is approaching a breaking point. As&nbsp;organizations scale, identity becomes increasingly fragmented across thou\u2026",
+    "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)"
   },
   "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html": {
     "categories": [],
@@ -8870,6 +8924,18 @@
     "summary": "Microsoft stops force-installing the Microsoft 365 Copilot app Microsoft has stopped automatically installing the Microsoft 365 Copilot app on Windows devices that have the Microsoft 365 desktop client apps. [...]",
     "title": "Microsoft stops force-installing the Microsoft 365 Copilot app"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-09T06:46:26+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Microsoft suspends dev accounts for high-profile open source projects Microsoft has suspended developer accounts used to maintain multiple high-profile open-source projects without proper notification and no way to quickly reinstate them, effectively blocking them from publishing\u2026",
+    "title": "Microsoft suspends dev accounts for high-profile open source projects"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/": {
     "categories": [
       "Microsoft"
@@ -9518,6 +9584,18 @@
     "source": "BleepingComputer",
     "summary": "Verizon Wireless outage puts phones in SOS mode without cell service Verizon Wireless is suffering a massive outage in the US, with customers reporting their phones stuck in SOS mode with no cellular service. [...]",
     "title": "Verizon Wireless outage puts phones in SOS mode without cell service"
+  },
+  "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-04-08T17:26:40+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "13-year-old bug in ActiveMQ lets hackers remotely execute commands Security researchers discovered a remote code execution (RCE) vulnerability in Apache ActiveMQ Classic that has gone undetected for 13 years and could be exploited to execute arbitrary commands. [...]",
+    "title": "13-year-old bug in ActiveMQ lets hackers remotely execute commands"
   },
   "https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/": {
     "categories": [
@@ -10676,6 +10754,17 @@
     "summary": "CISA orders feds to patch DarkSword iOS flaws exploited attacks CISA ordered U.S. government agencies to patch three iOS vulnerabilities targeted in cryptocurrency theft and cyberespionage attacks using the DarkSword exploit kit. [...]",
     "title": "CISA orders feds to patch DarkSword iOS flaws exploited attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-08T18:15:27+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday CISA has given\u00a0U.S. government agencies four\u00a0days to secure their systems against a critical-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) that\u00a0has been exploited in attacks since January. [...]",
+    "title": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/": {
     "categories": [
       "Security"
@@ -11582,6 +11671,17 @@
     "source": "BleepingComputer",
     "summary": "Crunchyroll probes breach after hacker claims to steal 6.8M users' data Popular anime streaming platform Crunchyroll\u00a0is investigating a breach after hackers claimed to have stolen personal information for approximately\u00a06.8 million people. [...]",
     "title": "Crunchyroll probes breach after hacker claims to steal 6.8M users' data"
+  },
+  "https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-09T07:44:55+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot Bitcoin Depot, which operates one of the largest Bitcoin ATM networks, says attackers stole $3.665 million worth of Bitcoin from its crypto wallets after breaching its systems last month. [...]",
+    "title": "Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot"
   },
   "https://www.bleepingcomputer.com/news/security/crypto-wallets-received-a-record-158-billion-in-illicit-funds-last-year/": {
     "categories": [
@@ -13416,6 +13516,17 @@
     "summary": "Google links more Chinese hacking groups to React2Shell attacks Over the weekend, \u200bGoogle's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity \"React2Shell\" remote code execution vulnerability. [...]",
     "title": "Google links more Chinese hacking groups to React2Shell attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-08T21:46:27+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google: New UNC6783 hackers steal corporate Zendesk support tickets A threat actor tracked as\u00a0UNC6783 is compromising\u00a0business process outsourcing\u00a0(BPO) providers to gain access to high-value companies across multiple sectors. [...]",
+    "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets"
+  },
   "https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/": {
     "categories": [
       "Security",
@@ -13949,6 +14060,17 @@
     "summary": "Hackers target misconfigured proxies to access paid LLM services Threat actors are systematically hunting for misconfigured proxy servers that could provide access to commercial large language model (LLM) services. [...]",
     "title": "Hackers target misconfigured proxies to access paid LLM services"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-08T22:34:26+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers use pixel-large SVG trick to hide credit card stealer A massive campaign impacting nearly 100 online stores using the Magento e-commerce platform hides credit card-stealing code in a pixel-sized Scalable Vector Graphics (SVG) image. [...]",
+    "title": "Hackers use pixel-large SVG trick to hide credit card stealer"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-use-rmm-tools-to-breach-freighters-and-steal-cargo-shipments/": {
     "categories": [
       "Security"
@@ -14398,6 +14520,17 @@
     "source": "BleepingComputer",
     "summary": "Ireland recalls almost 13,000 passports over missing 'IRL' code Ireland's Department of Foreign Affairs has recalled nearly 13,000 passports after a software update caused a printing defect. The printing error makes the documents non-compliant with international travel standards \u2026",
     "title": "Ireland recalls almost 13,000 passports over missing 'IRL' code"
+  },
+  "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-08T14:00:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Is a $30,000 GPU Good at Password Cracking? A $30,000 AI GPU doesn't outperform consumer GPUs at password cracking. Specops explains why attackers don't need exotic hardware to break weak passwords. [...]",
+    "title": "Is a $30,000 GPU Good at Password Cracking?"
   },
   "https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/": {
     "categories": [
@@ -15728,6 +15861,17 @@
     "source": "BleepingComputer",
     "summary": "New Linux botnet SSHStalker uses old-school IRC for C2 comms A newly documented Linux botnet named SSHStalker is using the IRC (Internet Relay Chat) communication protocol for command-and-control (C2) operations. [...]",
     "title": "New Linux botnet SSHStalker uses old-school IRC for C2 comms"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-08T18:55:43+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New macOS stealer campaign uses Script Editor in ClickFix attack A new campaign delivering the Atomic Stealer malware to macOS users abuses the Script Editor in a variation of the ClickFix attack that tricked users into executing commands in Terminal. [...]",
+    "title": "New macOS stealer campaign uses Script Editor in ClickFix attack"
   },
   "https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/": {
     "categories": [
@@ -19358,6 +19502,15 @@
     "summary": "AI &amp; the Death of Accuracy: What It Means for Zero-Trust AI &quot;model collapse,&quot; where LLMs over time train on more and more AI-generated data and become degraded as a result, can introduce inaccuracies, promulgate malicious activity, and impact PII protections.",
     "title": "AI &amp; the Death of Accuracy: What It Means for Zero-Trust"
   },
+  "https://www.darkreading.com/application-security/ai-led-remediation-crisis-prompts-hackerone-pause-bug-bounties": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf5d2451b79a4ca9d/69d691ec31c96816d0298bdd/hacker_Hlib_Shabashnyi_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-08T19:47:32+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "AI-Led Remediation Crisis Prompts HackerOne to Pause Bug Bounties Discovery used to be the bottleneck for open source bugs, but with automated discovery, remediation's the bottleneck, which bounties don't fund.",
+    "title": "AI-Led Remediation Crisis Prompts HackerOne to Pause Bug Bounties"
+  },
   "https://www.darkreading.com/application-security/ai-powered-dependency-decisions-security-bugs": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte4e3f40909d9ab40/69c43d3477205d7b6cf25910/hallucinations_BakhtiarZein_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -20404,6 +20557,15 @@
     "summary": "Emerging Chiplet Designs Spark Fresh Cybersecurity Challenges As scaled-down circuits with limited functions redefine computing for AI systems and autonomous vehicles, their flexibility demands new approaches to safeguard critical infrastructure.",
     "title": "Emerging Chiplet Designs Spark Fresh Cybersecurity Challenges"
   },
+  "https://www.darkreading.com/cyber-risk/emojis-power-covert-threat-actor-communications": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3ca396442631220c/69d6b8da3590806b7f56a367/emoji_vectorfusionart_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-08T20:21:32+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Threat Actors Get Crafty With Emojis to Escape Detection When \ud83e\udd16 means &quot;bot available,&quot; \ud83e\uddf0 signifies &quot;toolkit,&quot; or \ud83d\udcb0\ud83d\udcb0\ud83d\udcb0 translates to &quot;big ransom,&quot; bad actors can evade filters and keep it all on the down-low.",
+    "title": "Threat Actors Get Crafty With Emojis to Escape Detection"
+  },
   "https://www.darkreading.com/cyber-risk/eu-auto-rules-shift-gears-on-cybersecurity-standards": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0545789d5e2ff1e7/698ce0c84229558aa7937805/car-Henrik5000-iStock_15613460_MEDIUM.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -21044,6 +21206,15 @@
     "source": "darkreading",
     "summary": "Europe Sees Increase in Ransomware, Extortion Attacks European organizations face an escalating cyber threat landscape as attackers leverage geopolitical tensions and AI-enhanced social engineering for attacks.",
     "title": "Europe Sees Increase in Ransomware, Extortion Attacks"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/fraud-mobile-first-latin-america": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb8e829d85e5c398e/69d5706583421899916b4908/brazil-digital-flag-Skorzewiak-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-08T15:45:11+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Fraud Rockets Higher in Mobile-First Latin America Cyber-fraudsters move quickly from compromised devices to account takeover to funds transfer, shifting money before many financial institutions can react.",
+    "title": "Fraud Rockets Higher in Mobile-First Latin America"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/glassworm-returns-vs-code-extensions": {
     "categories": [],
@@ -21690,6 +21861,15 @@
     "summary": "Focusing on the People in Cybersecurity at RSAC 2026 Conference AI dominated the RSAC 2026 Conference and showed it's still humans in cybersecurity who matter most.",
     "title": "Focusing on the People in Cybersecurity at RSAC 2026 Conference"
   },
+  "https://www.darkreading.com/cybersecurity-operations/full-sail-university-ibm-cyber-defense-range-aws-cloud-range": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-08T14:43:49+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Full Sail University to Open IBM Cyber Defense Range Powered by AWS and Cloud Range on Campus",
+    "title": "Full Sail University to Open IBM Cyber Defense Range Powered by AWS and Cloud Range on Campus"
+  },
   "https://www.darkreading.com/cybersecurity-operations/gen-z-cybersecurity-jury-out-ai-impact": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt903df1c6b19686d9/6925deaff3543b29df29d8ee/genz-Mirko_Vitali-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -22172,6 +22352,15 @@
     "summary": "Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy \u2014 Again It's time to phase out the &quot;patch and pray&quot; approach, eliminate needless public interfaces, and enforce authentication controls, one expert says.",
     "title": "Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy \u2014 Again"
   },
+  "https://www.darkreading.com/endpoint-security/niobium-introduces-the-fog": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-08T14:22:33+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Niobium Introduces The Fog",
+    "title": "Niobium Introduces The Fog"
+  },
   "https://www.darkreading.com/endpoint-security/phishing-tool-smart-redirects-bypass-email-security": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98884564c2bf29aa/691469edee009931fb7ff9f1/Phishing_ronstik_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -22390,6 +22579,15 @@
     "source": "darkreading",
     "summary": "Analysts Warn of Cybersecurity Risks in Humanoid Robots Think &quot;Blade Runner,&quot; but the robots can be hacked more easily than your home computer.",
     "title": "Analysts Warn of Cybersecurity Risks in Humanoid Robots"
+  },
+  "https://www.darkreading.com/ics-ot-security/iranian-threat-actors-us-critical-infrastructure-exposed-plcs": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf78624b1d77fea5d/69d630b2a8e6234a48182a2f/iran1800_Hakan_Gider_alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-08T13:46:29+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Iranian Threat Actors Disrupt US Critical Infrastructure Via Exposed PLCs Attackers compromised Internet-facing OT devices and caused file and display manipulation, operational disruption, and financial losses across sectors.",
+    "title": "Iranian Threat Actors Disrupt US Critical Infrastructure Via Exposed PLCs"
   },
   "https://www.darkreading.com/ics-ot-security/operational-technology-security-poses-inherent-risks-for-manufacturers": {
     "categories": [],
@@ -22644,6 +22842,15 @@
     "source": "darkreading",
     "summary": "LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut A newly released study exclusively shared with Dark Reading details the unique circumstances that make up Latin America's labor pool, and why organizations may want to expand their talent search.",
     "title": "LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut"
+  },
+  "https://www.darkreading.com/remote-workforce/pluralsight-launches-secureready-cybersecurity-teams": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-08T14:08:22+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Pluralsight Launches SecureReady to Help Organizations Build Job-Ready Cybersecurity Teams",
+    "title": "Pluralsight Launches SecureReady to Help Organizations Build Job-Ready Cybersecurity Teams"
   },
   "https://www.darkreading.com/remote-workforce/skull-vibrations-could-be-xr-headset-authentication": {
     "categories": [],
@@ -23338,6 +23545,15 @@
     "source": "darkreading",
     "summary": "Researchers Use Poetry to Jailbreak AI Models When prompts were presented in poetic rather than prose form, attack success rates increased from 8% to 43%, on average \u2014 a fivefold increase.",
     "title": "Researchers Use Poetry to Jailbreak AI Models"
+  },
+  "https://www.darkreading.com/threat-intelligence/russia-forest-blizzard-logins-soho-routers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6f8022c4798db6b6/69d6c0b5f017ad2a52b62767/forest_blizzard-Lukas_Jonaitis-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-09T01:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Russia's Forest Blizzard Nabs Rafts of Logins Via SOHO Routers Heard of fileless malware? How about malwareless cyber espionage? Russia's APT28 is spying on global organizations by modifying just one DNS setting in vulnerable routers.",
+    "title": "Russia's Forest Blizzard Nabs Rafts of Logins Via SOHO Routers"
   },
   "https://www.darkreading.com/threat-intelligence/sandworm-wiper-attack-poland-power-grid": {
     "categories": [],
