@@ -6665,6 +6665,15 @@
     "summary": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different payloads to facilitate Redis and PostgreSQL exp\u2026",
     "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants"
   },
+  "https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwKu6NdwE0kgawNywNJK7cGCEdRfzOKwsH9AeIT7zJ49RPq_KJAG3SyjH44SS8Zsd-gAUFDFKnfdpaFH8sAZT9wevB2fS0QVk-gCp8xg7j1XcwGJzv05xpoMN4O-oiEd1v3U3kuqW8cTGk0QlHPPS5GgifHq5DBgrE9R_6GxqxYb1erEN_qvAnUG6VFkx0/s1600/adobe.jpg",
+    "published": "2026-04-09T11:15:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025 Threat actors have been exploiting a previously unknown zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December&nbsp;2025.\nThe finding, detailed by EXPMON's Haife\u2026",
+    "title": "Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025"
+  },
   "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihvGfSh39Lhl5ird3iuR-T4gkaVejmXgtJ4VwbkLxAqG2hBZWkqQ8LR5k8wfuapt8oUdtifp8Le-uA6Xep8kGe3BRCx5qM1vY9DiMCnMgTFeFK8bc0wBSUR62TjZgPZ9dviGiM8-4-xW1N-ZGSDxIY0uJLFmEKDt1Z9rbttd7Lg_mma6Kt_2qk89vjq9Ed/s1600/claude-mythos.png",
@@ -6691,6 +6700,24 @@
     "source": "The Hacker News",
     "summary": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies The Russian threat actor known&nbsp;as APT28 (aka Forest Blizzard and Pawn Storm) has been linked to a fresh spear-phishing campaign targeting Ukraine and its allies to deploy a previously undocumented ma\u2026",
     "title": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies"
+  },
+  "https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPUQqw4JQlrmSih69TSpC28TmE2G1rOMs1k_jrdeQbXFFNV6nPvlVQh9oMIwtOLiVJVUxYZFZ0RDiXmLDOPXpF-pbaStwjml7hxE-OITfsVlk2wA-nKUOpcn9R7FjQe03OInZdN2p8GmkFXAvYBbDeU_IDX1wuQ4iqc46lM6SraDPXhbEcCt-LNL0YTck/s1600/slider.jpg",
+    "published": "2026-04-10T06:28:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers Unknown threat actors have hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla to push a poisoned version containing a\u00a0backdoor.\nThe\u00a0incident impacts Smart Slider 3 \u2026",
+    "title": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers"
+  },
+  "https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlfEPPxKdPdQANFPwRrggWpWL4wPe22B_Hdr5FpqDGHKTwN95xiQVwqqN896q_CkYvn-wrbDTXMl6wZ_aMD0YwEyRAI_9lzSZj_cg9-RhoNXMh-j16cA0n4CIT5y29FkOWFrQoV8oCv5OtZhMlhAKwqcgirImTOXoVzsJY76y6l-EWn86dAJfYNBy1ejW4/s1600/phone-hacking.jpg",
+    "published": "2026-04-09T10:40:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region An&nbsp;apparent hack-for-hire campaign likely orchestrated by a threat actor with suspected ties to the Indian government targeted journalists, activists, and government officials across the Middle East \u2026",
+    "title": "Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region"
   },
   "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html": {
     "categories": [],
@@ -6791,6 +6818,15 @@
     "summary": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK Solana-based decentralized exchange Drift has confirmed that attackers drained about $285 million from the platform during a security incident that took place on April 1,&nbsp;2026.\n\"Earlier today,\u2026",
     "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK"
   },
+  "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigi73Eo-lmEoLh8BcTJmWW5GrmLrm49pUkkl8zyxIg1YTEncbgCaY-wXarkWZuipJhJEubcJx-VEiHOv_NrMtPw1BoEU3Ni8gXNcKcbWX4TqBU8pikOAkRdCl-r_XvLz4oXmQ2IpY25bWzLFkXh_hezhx0jgUYiuRvrYVxhW-6x5J7m84HH_VeRtRzTGbW/s1600/vul-app.jpg",
+    "published": "2026-04-09T17:26:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs Details have emerged about a now-patched security vulnerability in a widely used third-party Android software development kit&nbsp;(SDK) called&nbsp;EngageLab&nbsp;SDK that could have put millions \u2026",
+    "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs"
+  },
   "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCGR6ZfT0_UppVPQsgk7lwTbzfybdDFY-HeJi9F6VE6HuN7-Ja-lpveDnPA-kcS7x8l1oZ0lUqPoEFdRTOMt0Z8H6EeT_NadV_P7bjlh8Je6Q-T5KAlOCzOWt-LyY3jY8RsTlRTUzuXsVwf_gs-_KyXw8G_LcFz2dY-2P9XozQWy2p9PneNGUMctvpIZYM/s1600/flowise.jpg",
@@ -6817,6 +6853,15 @@
     "source": "The Hacker News",
     "summary": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069 Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069.\n\"We have attributed the at\u2026",
     "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069"
+  },
+  "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC-kFnk6uDzN76983rxMJBgJzi5ByxqZ0SM5RAfG1171e3I_lRUCBHIZ0kmMRkxERMiWEO9WRX3D6mkadUuRhw69KYHi4VzPrIa4s4IVilNmFANa2EMbuk1blKF_4ChwqIBuTb4FLj_dqhTDUDsivEnw8OmDL85giaaJTiqATwZArXUq6_3_X7tfd_RLbV/s1600/chrome-cookies.jpg",
+    "published": "2026-04-10T07:58:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows Google has&nbsp;made Device Bound Session Credentials&nbsp;(DBSC) generally available to all Windows users of its Chrome web browser, months after&nbsp;it began&nbsp;testing the security feature in open&nbsp;be\u2026",
+    "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows"
   },
   "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html": {
     "categories": [],
@@ -6989,6 +7034,15 @@
     "summary": "The Hidden Cost of Recurring Credential Incidents When talking about credential security, the focus usually lands on breach prevention. This&nbsp;makes sense&nbsp;when IBM\u2019s 2025 Cost of a Data Breach&nbsp;Report puts the average cost of a breach at $4.4&nbsp;million. Avoiding ev\u2026",
     "title": "The Hidden Cost of Recurring Credential Incidents"
   },
+  "https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO6OQHlRJgIjpCieiOfi48Mexu0Puimw_dz6w0h1spC2ZjcqifD2YPod5wd1AtUhr-e7CtAAoZ0bnRGnCH-BZRz4pDlB5Db2hJ4vFqsq5jc42UI4VTGXkxD8gNX1Ods9PpQZL4lk84RNL6EDSeI4YFCdjBgKSqKGimsqcsjekAAmr8CGYr3a2wPkchNYA/s1600/keeper.jpg",
+    "published": "2026-04-09T11:31:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "The Hidden Security Risks of Shadow AI in Enterprises As&nbsp;AI tools become more accessible, employees are adopting them without formal approval from IT and security teams. While&nbsp;these tools may boost productivity, automate tasks, or fill gaps in existing workflows, they a\u2026",
+    "title": "The Hidden Security Risks of Shadow AI in Enterprises"
+  },
   "https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5yI578d17vaAxuCMW2SLrz3ibI4ibSfdDCfum-B3VZ0Ukyd79Eue2VR8ofUCBpISSXsL8biYdRFyuMm78T6PTU7U1w_6jJK3qV7ohPRSt3NGDTtAkseitLCaEZVHqcVIhFZABPlyAP8KPV-JMlnlq42Flgl7lB2Rs5hkIQYVYtc0Z15Yd0WKaYSu7CLM/s1600/devsecops.jpg",
@@ -6998,6 +7052,15 @@
     "summary": "The State of Trusted Open Source Report In December&nbsp;2025, we shared the first-ever The State of Trusted Open&nbsp;Source report, featuring insights from our product data and customer base on open source consumption across our catalog of container image projects, versions, im\u2026",
     "title": "The State of Trusted Open Source Report"
   },
+  "https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6d4nK1zoWjzSmbdUmGPSycMwGmzcYM2XRrFH_ueobgO_8j7hwRdv8Ct856gg_k29HqAOw1-HGCtPpxyGDcuQIKY53ATLKb8bQCsJR5b_Jf8VqX1igItYBIe4iQazqSRe5fmFrFXS1fCcKdz6enbI6zYngIztjJ_UI262_ynNGJrd1EB_OUV1ZKYVl04-h/s1600/threatsdays-main.jpg",
+    "published": "2026-04-09T12:57:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories Thursday. Another week, another batch of things that probably should've been caught sooner but&nbsp;weren't.\nThis&nbsp;one's got some range \u2014 old vulnerabilities getting new life, a few \"why was th\u2026",
+    "title": "ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories"
+  },
   "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht9hzOUmn8npVxC_AyWUe1DLsv1VkWHox2PmDxZnVuG_XnQt7R5l7CZHlYu9m9BcwAib4L0j0x877sDuCF2shmSH3ef0Me-m0sbKDtu-ZEw5RLqLGNsjGJ0o-b_CuKtFg86fMFb-GKVBud7S8PfpsoL4HCqEZypO1NcWfx6ljXcUhC5O4GIjRbhRcG-fIi/s1600/threatsday.jpg",
@@ -7006,6 +7069,15 @@
     "source": "The Hacker News",
     "summary": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories The&nbsp;latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No&nbsp;corporate fluff or boring lectures here, just a quick and honest \u2026",
     "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories"
+  },
+  "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4smwzOHJUhoy2YQYZQpTIp9u5xk7vywCOtewG6WfLl1S3h1EO25k8GY6WSHovGYwTn4vo9uMFcoNX6XDa0-BC0mXJrTdSHtWGJDP1GIXqGvRnlqnqyPwzxxPFyjLx9yxEn1oeWs4r8fqq5xlS__yUA3nwf0DpZBiUh86FUx71PRBGbAP0gaNFAILqYgbT/s1600/phish.jpg",
+    "published": "2026-04-09T16:23:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns A previously undocumented threat cluster&nbsp;dubbed UAT-10362 has been attributed to spear-phishing campaigns targeting Taiwanese non-governmental organizations (NGOs) and suspected universities \u2026",
+    "title": "UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns"
   },
   "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html": {
     "categories": [],
@@ -12229,6 +12301,17 @@
     "summary": "EU plans cybersecurity overhaul to block foreign high-risk suppliers The European Commission has proposed new cybersecurity legislation mandating the removal of high-risk suppliers to secure telecommunications networks and strengthening defenses against state-backed\u00a0and cybercrim\u2026",
     "title": "EU plans cybersecurity overhaul to block foreign high-risk suppliers"
   },
+  "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-09T10:31:54+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Eurail says December data breach impacts 300,000 individuals Eurail B.V., a European travel operator that provides digital passes covering 33 national railways, says attackers stole the personal information of over 300,000 individuals in a December 2025 data breach. [...]",
+    "title": "Eurail says December data breach impacts 300,000 individuals"
+  },
   "https://www.bleepingcomputer.com/news/security/eurail-says-stolen-traveler-data-now-up-for-sale-on-dark-web/": {
     "categories": [
       "Security"
@@ -13373,6 +13456,17 @@
     "summary": "Google blocked over 1.75 million Play Store app submissions in 2025 Google says that through 2025, it blocked more than 255,000 Android apps from obtaining excessive access to sensitive user data and rejected\u00a0over 1.75 million apps from being published on Google Play due to polic\u2026",
     "title": "Google blocked over 1.75 million Play Store app submissions in 2025"
   },
+  "https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-09T18:33:29+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Google Chrome adds infostealer protection against session cookie theft Google has rolled out Device Bound Session Credentials (DBSC) protection in Chrome 146 for Windows, designed to block info-stealing malware from harvesting session cookies. [...]",
+    "title": "Google Chrome adds infostealer protection against session cookie theft"
+  },
   "https://www.bleepingcomputer.com/news/security/google-chrome-adds-new-security-layer-for-gemini-ai-agentic-browsing/": {
     "categories": [
       "Security",
@@ -13992,6 +14086,17 @@
     "summary": "Hackers exploited Citrix, Cisco ISE flaws in zero-day attacks An advanced threat actor exploited the critical vulnerabilities \"Citrix Bleed 2\" (CVE-2025-5777) in NetScaler ADC and Gateway, and\u00a0CVE-2025-20337 affecting\u00a0Cisco Identity Service Engine (ISE) as zero-days to deploy cus\u2026",
     "title": "Hackers exploited Citrix, Cisco ISE flaws in zero-day attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-09T09:22:35+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploiting Acrobat Reader zero-day flaw since December Attackers have been exploiting a zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December. [...]",
+    "title": "Hackers exploiting Acrobat Reader zero-day flaw since December"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-get-1-047-000-for-76-zero-days-at-pwn2own-automotive-2026/": {
     "categories": [
       "Security"
@@ -14101,6 +14206,18 @@
     "source": "BleepingComputer",
     "summary": "Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts Hackers have stolen the personal and contact information belonging to over 29.8 million SoundCloud user accounts after breaching the audio streaming platform's systems. [...]",
     "title": "Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts"
+  },
+  "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/": {
+    "categories": [
+      "Security",
+      "Healthcare"
+    ],
+    "image": "",
+    "published": "2026-04-09T19:46:44+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Healthcare IT solutions provider ChipSoft hit by ransomware attack Dutch healthcare software vendor ChipSoft has been impacted by a ransomware attack that forced the company to take offline its website and digital services for patients and healthcare providers. [...]",
+    "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack"
   },
   "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/": {
     "categories": [
@@ -15862,6 +15979,17 @@
     "summary": "New Linux botnet SSHStalker uses old-school IRC for C2 comms A newly documented Linux botnet named SSHStalker is using the IRC (Internet Relay Chat) communication protocol for command-and-control (C2) operations. [...]",
     "title": "New Linux botnet SSHStalker uses old-school IRC for C2 comms"
   },
+  "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-09T22:04:31+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New \u2018LucidRook\u2019 malware used in targeted attacks on NGOs, universities A new Lua-based malware, called LucidRook, is being used in spear-phishing campaigns targeting non-governmental organizations and universities in Taiwan. [...]",
+    "title": "New \u2018LucidRook\u2019 malware used in targeted attacks on NGOs, universities"
+  },
   "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/": {
     "categories": [
       "Security"
@@ -16107,6 +16235,17 @@
     "source": "BleepingComputer",
     "summary": "New Veeam vulnerabilities expose backup servers to RCE attacks Veeam released security updates to patch multiple security flaws in its Backup & Replication software, including a critical remote code execution (RCE) vulnerability. [...]",
     "title": "New Veeam vulnerabilities expose backup servers to RCE attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-09T21:37:04+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New VENOM phishing attacks steal senior executives' Microsoft logins Threat actors using a previously undocumented phishing-as-a-service (PhaaS) platform called \"VENOM\" are targeting credentials of C-suite executives across multiple industries. [...]",
+    "title": "New VENOM phishing attacks steal senior executives' Microsoft logins"
   },
   "https://www.bleepingcomputer.com/news/security/new-voidlink-malware-framework-targets-linux-cloud-servers/": {
     "categories": [
@@ -17617,6 +17756,17 @@
     "summary": "Slovakian man pleads guilty to operating darknet marketplace A Slovakian national admitted on Tuesday to helping operate a darknet marketplace that sold narcotics, cybercrime tools and services, fake government IDs, and stolen personal information for more than two years. [...]",
     "title": "Slovakian man pleads guilty to operating darknet marketplace"
   },
+  "https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-09T16:15:26+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Smart Slider updates hijacked to push malicious WordPress, Joomla versions Hackers hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla, and pushed a malicious version with multiple backdoors. [...]",
+    "title": "Smart Slider updates hijacked to push malicious WordPress, Joomla versions"
+  },
   "https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/": {
     "categories": [
       "Security"
@@ -18931,6 +19081,17 @@
     "summary": "Webinar: Aligning cybersecurity purchases with what your SOC team needs Learn how security leaders and SOC teams can work together to close the gap between platform decisions and operational needs. Join Sumo Logic and BleepingComputer on January 29 for a practical webinar on alig\u2026",
     "title": "Webinar: Aligning cybersecurity purchases with what your SOC team needs"
   },
+  "https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-09T12:20:28+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Webinar: From noise to signal - What threat actors are targeting next Threat actors often signal their intentions before launching attacks, from dark web chatter to access-broker listings and credential requests. Join our upcoming webinar with Flare Systems to learn how to turn t\u2026",
+    "title": "Webinar: From noise to signal - What threat actors are targeting next"
+  },
   "https://www.bleepingcomputer.com/news/security/webinar-modern-patch-management-strategies-to-patch-faster-with-less-risk/": {
     "categories": [
       "Security"
@@ -19016,6 +19177,17 @@
     "source": "BleepingComputer",
     "summary": "WhatsApp introduces parent-managed accounts for pre-teens WhatsApp has begun rolling out parent-managed accounts for pre-teens, allowing parents and guardians to decide who can contact them and which groups they can join. [...]",
     "title": "WhatsApp introduces parent-managed accounts for pre-teens"
+  },
+  "https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-09T14:02:12+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "When attackers already have the keys, MFA is just another door to open Stolen credentials turn authentication systems into the attack surface. Token shows how wearable biometric authentication verifies the user\u2014not the session\u2014blocking phishing relays and MFA bypass. [...]",
+    "title": "When attackers already have the keys, MFA is just another door to open"
   },
   "https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/": {
     "categories": [
@@ -21546,6 +21718,15 @@
     "summary": "Are We Training AI Too Late? Ask the Expert: Cybersecurity teams need to expand their field of view to include new, unique threat sources, rather than relying on past, proven threat actors.",
     "title": "Are We Training AI Too Late?"
   },
+  "https://www.darkreading.com/cybersecurity-analytics/ceasefires-slow-cyberattacks-history": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4f984646e283dc63/69d7e0dab4e85cb34394103b/US_Iran_flags-Karen_Hovsepyan-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-09T18:15:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Do Ceasefires Slow Cyberattacks? History Suggests Not The cybersecurity community is waiting with bated breath to see if Iranian hackers will honor a ceasefire that doesn't actually name or directly involve them.",
+    "title": "Do Ceasefires Slow Cyberattacks? History Suggests Not"
+  },
   "https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8497ff5ba464f933/6943172f8d0bea2fbc0e4978/AI_apps_hacker-Matt_Fowler-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -23555,6 +23736,15 @@
     "summary": "Russia's Forest Blizzard Nabs Rafts of Logins Via SOHO Routers Heard of fileless malware? How about malwareless cyber espionage? Russia's APT28 is spying on global organizations by modifying just one DNS setting in vulnerable routers.",
     "title": "Russia's Forest Blizzard Nabs Rafts of Logins Via SOHO Routers"
   },
+  "https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltee215733d1f4849e/69d6b1253032b219f34bebeb/Grizzly_bear_photo-fox_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-09T20:50:37+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Russia's 'Fancy Bear' APT Continues Its Global Onslaught Victims don't need to match the cybercrime group's technical sophistication, experts say. But patching and some form of zero trust are now non-negotiable.",
+    "title": "Russia's 'Fancy Bear' APT Continues Its Global Onslaught"
+  },
   "https://www.darkreading.com/threat-intelligence/sandworm-wiper-attack-poland-power-grid": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5ae0def1b6cb54dc/6977c756d0b4d16cd1090ed5/Power_Pylon_Poland_Pawel_Chrzaszcz_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -23739,6 +23929,15 @@
     "source": "darkreading",
     "summary": "Beauty in Destruction: Exploring Malware's Impact Through Art Artistic initiatives turn cybersecurity into immersive exhibits at the Museum of Malware Art, transforming digital threats into thought-provoking experiences.",
     "title": "Beauty in Destruction: Exploring Malware's Impact Through Art"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c31ced607e735b5/69d4f2975553ecd2bca00f8a/Hammernails_MichaelFlippo_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-09T20:13:34+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "'BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues Under the alias 'Chaotic Eclipse,' a researcher released a PoC exploit for a zero-day flaw that allows for system takeover by a local user, citing an undisclosed beef with Microsoft.",
+    "title": "'BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues"
   },
   "https://www.darkreading.com/vulnerabilities-threats/cheap-hardware-module-amd-intel-memory-encryption": {
     "categories": [],
