@@ -6665,6 +6665,15 @@
     "summary": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different payloads to facilitate Redis and PostgreSQL exp\u2026",
     "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants"
   },
+  "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg1374h3OcQ3MPg1BngGcQC6U8eVWUh3Ye84l6WpQKxC1a8_x1Mpp0K8-0DDfJU0YtVqWoUZcNE-bJ_bsfraWWWfafJoP8pF7jDlcb8L4LqNDYWtbhoaDcSbpcmEwNjDi0hzkie5VVRmqntS8uZe4hrAd4IDcc0CO95Bsj8y1rP7LhfPsCkvQIkOtx-B7D/s1600/adobe-adobe.jpg",
+    "published": "2026-04-12T04:25:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621 Adobe has released emergency updates to fix a critical security flaw in Acrobat Reader that&nbsp;has come under active exploitation in the&nbsp;wild.\nThe vulnerability, assigned the CVE identifier CVE-2026-34621,\u2026",
+    "title": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621"
+  },
   "https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwKu6NdwE0kgawNywNJK7cGCEdRfzOKwsH9AeIT7zJ49RPq_KJAG3SyjH44SS8Zsd-gAUFDFKnfdpaFH8sAZT9wevB2fS0QVk-gCp8xg7j1XcwGJzv05xpoMN4O-oiEd1v3U3kuqW8cTGk0QlHPPS5GgifHq5DBgrE9R_6GxqxYb1erEN_qvAnUG6VFkx0/s1600/adobe.jpg",
@@ -6808,6 +6817,15 @@
     "source": "The Hacker News",
     "summary": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error.\n\"No sensitive customer data or\u2026",
     "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms"
+  },
+  "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCPq2en6ihCNpYdSr5mWkN43O4Rl3tXYz77I2achAfYSy7Emoaj8fNqmFHLOydg6Ai6DwDKBEKD91ywcO9eT2t-rrFxEiThe79Rsa4dap_UcNZSEdWl9NRGeaMqP_vsbWnKf2mMNHQ86cabK4wlspLPWRHMJ7Gj5guX6ynx57RhsDLbJeSDAdPR_BjGFNU/s1600/downloads.jpg",
+    "published": "2026-04-12T05:54:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads Unknown threat actors compromised CPUID (\"cpuid[.]com\"), a website&nbsp;that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to serv\u2026",
+    "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads"
   },
   "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html": {
     "categories": [],
@@ -17062,6 +17080,18 @@
     "source": "BleepingComputer",
     "summary": "Police disrupts Rhadamanthys, VenomRAT, and Elysium malware operations Law enforcement authorities from 9 countries have taken down 1,025 servers used by the Rhadamanthys infolstealer, VenomRAT, and Elysium botnet malware operations in the latest phase of Operation Endgame, an in\u2026",
     "title": "Police disrupts Rhadamanthys, VenomRAT, and Elysium malware operations"
+  },
+  "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-04-11T14:20:40+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Over 20,000 crypto fraud victims identified in international crackdown An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. [...]",
+    "title": "Over 20,000 crypto fraud victims identified in international crackdown"
   },
   "https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/": {
     "categories": [
