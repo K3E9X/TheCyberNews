@@ -7034,6 +7034,15 @@
     "summary": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images Cybersecurity researchers&nbsp;have discovered a new version of&nbsp;the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the&nbsp;trojan was discovered targ\u2026",
     "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images"
   },
+  "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE5gb0KURzHAgdXMKzxbNFW1AJ8G2ezWXrHrLReEmbX6BKaG3-tIjiDVcjk-4nIZ3Kg2_564qiWXVVGcERIi4vaUvjqG-BuENXb7i6P3M2rdOHz-S9DOcKIHZ-pa1odUyUdTI-lLify_9CRXYcZu3hyY2LXeTMp1wMRr7mnu7yQdIIjGrFXCAecG4-XVpS/s1600/openai.jpg",
+    "published": "2026-04-13T06:50:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident OpenAI&nbsp;revealed a GitHub Actions workflow used to sign its macOS apps, which downloaded the malicious Axios library on March 31, but noted that no user data or&nbsp;internal system&nbsp;was comp\u2026",
+    "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident"
+  },
   "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNAquH2CuNdKvNbKqIsmTqg2Rpb5SRn8zxBKdQliREzpq_Byd0ye0aD8IFVa1JUj09QnQVJVnAVET30DX0jRBK1LBXJ-16QC_GoiYDH2ibCfoYcttx3McOurmn9e4cSugeNgEQa-oVqR13I9K1h6ktgggudmT3u88I_iN_ksHQvuS2N0u0uGlUNTW_Tv9l/s1600/compfyui.jpg",
@@ -11758,6 +11767,17 @@
     "source": "BleepingComputer",
     "summary": "Critical Juniper Networks PTX flaw allows full router takeover A critical vulnerability in the Junos OS Evolved network operating system running on PTX\u00a0Series routers from Juniper Networks could allow an unauthenticated attacker to execute code remotely with root privileges. [...\u2026",
     "title": "Critical Juniper Networks PTX flaw allows full router takeover"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-12T14:20:31+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Critical Marimo pre-auth RCE flaw now under active exploitation A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]",
+    "title": "Critical Marimo pre-auth RCE flaw now under active exploitation"
   },
   "https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/": {
     "categories": [
