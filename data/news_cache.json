@@ -6638,6 +6638,15 @@
     "summary": "Why Security Validation Is Becoming Agentic If you run security at any reasonably complex organization, your validation stack probably looks something like this: a BAS tool in one corner. A pentest engagement, or maybe an automated pentesting product, in another. A vulnerability \u2026",
     "title": "Why Security Validation Is Becoming Agentic"
   },
+  "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEOmjr311c0yBDI593joFXQLaRdpm6DY67lbFv83YcYlRHaJkpocwXjDZDsV9F9DM-SavZwCOZ-fg10ncUJyW3ODlfBjqG6aK_ytdBfvXFGLswxeJ69oiZXfhGKdCgVO0Angg_qlYB6oAZYo-JQRKn4toBGWcS7OTDwPV0rkus7eNw-9BllIGJa2nkeKXn/s1600/chrome-telegram.jpg",
+    "published": "2026-04-14T08:35:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure w\u2026",
+    "title": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users"
+  },
   "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2eFUAGb2m5vs6mOwArunSX0lzBpR8Ag24yQhUtaYxrcHx2V46YcocY9oei-HH89QSB-HTxXta3bLH70_n6zMCRD949ttVsKlt4WnzSZ0rl1v4Suj3A7xftqjQSEXDq_cfLCIcMuENqoFeD9zBW0qZXr1owIEQEqzSNkaKfHFsGF35-lseSZbc0MGLRRWu/s1600/drift-hack.jpg",
@@ -6682,6 +6691,24 @@
     "source": "The Hacker News",
     "summary": "Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025 Threat actors have been exploiting a previously unknown zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December&nbsp;2025.\nThe finding, detailed by EXPMON's Haife\u2026",
     "title": "Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025"
+  },
+  "https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiON8Ew8R1EO7t3yoLoTFdM2hQsDW9AtBPPBcNuPup6ZmpGta3VyYlkhiqqRlW5CDWpnU_3IJ-EAbnV6nrfzJ4V3mdWIng75afS2TPvZOs-_MLc0a5lxiLwR5H-EWmi1C0ctYCBZSBNbF9CCGcdm7BrNaWunTp8QvBkmqJwq0Yvde9bQxbhooyIYaXRiebP/s1600/ad-fraud.jpg",
+    "published": "2026-04-14T14:30:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud Cybersecurity researchers have unmasked a novel ad fraud scheme that has been found to leverage search engine poisoning (SEO) techniques and artificial intelligence (AI)-generated content to push\u2026",
+    "title": "AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud"
+  },
+  "https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4H3KkiSOm6TbNn7e0Ceu3-etqqeLci47PtX9T-0WGgdGScHfd2tfFamA6oyOi62wWwKF7KwF_wcqNACSvRVJvH__1YKoP_fP7T5LFdDqX8jxFph0NSaVJjFEVhb0bjNvn5IWayqMwKyRNbp9mmW7f2JLs7I3pTF8yLuhCOHsbnpNVLrEVq6Uq63j8508/s1600/derailed.jpg",
+    "published": "2026-04-14T10:00:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report) OX Security recently analyzed 216 million security findings across 250 organizations over a 90-day period. The&nbsp;primary takeaway: while raw alert volume grew by 52% year-over-year, prioritiz\u2026",
+    "title": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)"
   },
   "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html": {
     "categories": [],
@@ -6908,6 +6935,15 @@
     "summary": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs Cybersecurity researchers have flagged yet another evolution of the&nbsp;ongoing GlassWorm campaign, which employs a new Zig dropper that's designed to stealthily infect all integrated development environments \u2026",
     "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs"
   },
+  "https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjblrgfLU8m4awyQDEqyzwguow-RuCp4UH1k5DBkrUrP87A7tsEQPPaLD_D9M4VXF5mSNrmp1eurx_QW-nVjM1nNnkyEIFyFiry3nxE0Wq3xrT0L06S6B11rEHcWzB7q78RRQySSxwLAVIncgqO5qhtY6b0A_LzYF8wtvH94G_TLQEn8UIivqrJNkH88Nf7/s1600/android-rust.jpg",
+    "published": "2026-04-14T14:56:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security Google has announced the integration of a Rust-based Domain Name System (DNS) parser into the modem firmware as part of its ongoing efforts to beef up the security of Pixel devices and push memory-safe code\u2026",
+    "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security"
+  },
   "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4u0-_Mq5eI-6nWqV9d-E4BTvsdeDTEcK8Bo7pHnANyD6m8b8d5dPcx86sb1P-PjfLce84hgNF8ja8y2tvnYjlmvE4VGzyvAyGqd6TGOxYei3Oz-F_IvVEDxAvamRe4acysr0FqtfWgbLbDhBQxy6ovy2_V47P2d-1qDZig0pcPPnxTCEGfTzKnUXnJEgU/s1600/axios-northkorea.jpg",
@@ -7007,6 +7043,15 @@
     "summary": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files.\nThe activity, beginning in late February 2026, leverag\u2026",
     "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass"
   },
+  "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSTMJQqqJsKQgPpv94bO9xAc_tQCEJXJrZGAEmCuyUghslqHdHDYmuVYqIVLGqMLi_ZuY_zEBoDdGDQRVAX0KyGq9QcuIzQ5LVbNLBnwUwW2R7IBg0gopxAI9ml44zJsKXEoc1ig8zRbVDBNK3B4LZRE0WljzIfwnSMHx8Mv1kWYTK5qnxOB1YYl_WNWMa/s1600/android-malware.jpg",
+    "published": "2026-04-14T10:20:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads A nascent Android remote access trojan&nbsp;called Mirax has been observed actively targeting Spanish-speaking countries, with campaigns reaching more than 220,000 accounts on Facebook, Instagram, \u2026",
+    "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads"
+  },
   "https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixIItKplcozAxhBXqaAcKz33D_p67WELaaBHZDIxGe7-qkKNWIITVvI4a3jSB_A17z89_XvJMprYsmkylYUvuWW4GeMWTWgBCWLWc3i_zPx4XtlW1PJDcbt1doyrUQlE1oeYbSNrmk1XZx-ROkvMyVvaLuryZ8k7MSnBbGEtQLledLStXEcyoapR4wAiA/s1600/cyberattacks.jpg",
@@ -7052,6 +7097,15 @@
     "summary": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips New academic research has identified multiple RowHammer attacks against high-performance graphics processing units (GPUs) that could be exploited to escalate privileges and, in some cases, even take fu\u2026",
     "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips"
   },
+  "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP-RqcuX8QuBEwVkchLNSjyIAqQEuFwy0prqQ1gGqxpBFESQLuCzgGB7-cjYhJrbLhbTk_j8G4NedN06plhhqLd_Rpd01mTh8XcOHjvQ_UuJqfjTROZeh40WlSN_7gzRL4yVKX-Aj0ui2gOxo9l70b3Dy5R6srKjne-gQXIhL7fNAHYZ7rDm6-yWl4-_JD/s1600/php-code.jpg",
+    "published": "2026-04-14T15:57:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "New PHP Composer Flaws Enable Arbitrary Command Execution \u2014 Patches Released Two high-severity security vulnerabilities&nbsp;have been disclosed in Composer, a package&nbsp;manager for&nbsp;PHP, that, if successfully exploited, could result in arbitrary command execution.\nThe vul\u2026",
+    "title": "New PHP Composer Flaws Enable Arbitrary Command Execution \u2014 Patches Released"
+  },
   "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2s09d3X9qYABLHP5v1u9iyjRN5p28u6xvnL0qkKR1-s1CsqtIDAWeQCFKQ9S4Mde1ueUmzcjNA9SAzWN-lDWwbmTmmlwbbLkyKx-EJc2-bjhKlEsChsp3iZ6watrZ4I8LJdL_p0vatW4NrXntcs6_xdReGEQJMUCgfAFo-ZfCy_jDsxEZgPMx1T9e1e0L/s1600/mobile-wallet-seed.jpg",
@@ -7069,6 +7123,15 @@
     "source": "The Hacker News",
     "summary": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware The North Korean hacking group tracked&nbsp;as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which threat actors approached targets on Facebook and ad\u2026",
     "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware"
+  },
+  "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrjpxBjlnOwelWhtbcyO3kBGpQwkfPkbL7RytRsDo26AL5rMz4inD_rjZLSfjy5R6skvnpiOA5M1LoDaAW1bCz4Isy4RMffGJVzgm4kYy5N-V1ijfLhVHefPcneHVGZyXZRjbLZZBHQRe3_QKhKfb5hss3a5hFveU8v2WkKHq-2wUmY_ocysIGGMP8GxdV/s1600/gpt.jpg",
+    "published": "2026-04-15T04:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams OpenAI on Tuesday&nbsp;unveiled GPT-5.4-Cyber, a variant of its latest flagship&nbsp;model, GPT\u20115.4, that's specifically optimized for defensive cybersecurity use cases, days after rival Anthropic unveiled its \u2026",
+    "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams"
   },
   "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html": {
     "categories": [],
@@ -8231,6 +8294,18 @@
     "summary": "Microsoft adds Copilot data controls to all storage locations Microsoft is expanding data loss prevention (DLP) controls to block the Microsoft 365 Copilot AI assistant from processing confidential Word, Excel, and PowerPoint documents, regardless of their location. [...]",
     "title": "Microsoft adds Copilot data controls to all storage locations"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-14T22:23:33+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Microsoft adds Windows protections for malicious Remote Desktop files Microsoft has introduced new Windows protections to defend against phishing attacks that abuse Remote Desktop connection (.rdp) files, adding warnings and disabling risky shared resources by default. [...]",
+    "title": "Microsoft adds Windows protections for malicious Remote Desktop files"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/": {
     "categories": [
       "Microsoft",
@@ -8264,6 +8339,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages Microsoft says an Exchange Online issue that mistakenly quarantined legitimate emails last week was triggered by faulty\u00a0heuristic detection rules designed to block credential phishing campaigns. [...]",
     "title": "Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-14T17:41:13+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days Today is Microsoft's April 2026\u00a0Patch Tuesday with security updates for 167 flaws, including 2 zero-day vulnerabilities. [...]",
+    "title": "Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/": {
     "categories": [
@@ -8979,6 +9065,18 @@
     "summary": "Microsoft releases Windows 10 KB5078885 extended security update Microsoft has released the Windows 10 KB5078885 extended security update to fix the March\u00a02026 Patch Tuesday vulnerabilities, including 2 zero-days and an issue that prevent some devices from shutting down. [...]",
     "title": "Microsoft releases Windows 10 KB5078885 extended security update"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-14T18:09:39+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft releases Windows 10 KB5082200 extended security update Microsoft has released the Windows 10 KB5082200 extended security update to fix the April 2026 Patch Tuesday vulnerabilities, including 2 zero-days. [...]",
+    "title": "Microsoft releases Windows 10 KB5082200 extended security update"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/": {
     "categories": [
       "Microsoft",
@@ -9024,6 +9122,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft removing Defender Application Guard from Office Microsoft plans to remove\u00a0Defender Application Guard from Office by December 2027, starting with the February 2026 release of Office version 2602. [...]",
     "title": "Microsoft removing Defender Application Guard from Office"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-14T15:53:50+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft rolls out fast-track to reinstate Windows hardware dev accounts Microsoft has rolled out a fast-track process to help developers regain access to accounts recently suspended from its Windows Hardware Program, following widespread complaints that they were locked out wit\u2026",
+    "title": "Microsoft rolls out fast-track to reinstate Windows hardware dev accounts"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/": {
     "categories": [
@@ -9613,6 +9722,18 @@
     "summary": "Windows 11 Build 26220.7051 released with \u201cAsk Copilot\u201d feature Windows 11 Build\u00a026220.7051 is now rolling out to testers in the Windows Insider Program, and there are at least three new features, including Ask Copilot in the taskbar. [...]",
     "title": "Windows 11 Build 26220.7051 released with \u201cAsk Copilot\u201d feature"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-04-14T17:46:31+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 cumulative updates KB5083769 & KB5082052 released Microsoft has released Windows 11\u00a0KB5083769\u00a0and\u00a0KB5082052\u00a0cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+    "title": "Windows 11 cumulative updates KB5083769 & KB5082052 released"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-new-cloud-rebuild-point-in-time-restore-tools/": {
     "categories": [
       "Microsoft",
@@ -9897,6 +10018,17 @@
     "source": "BleepingComputer",
     "summary": "5 reasons why attackers are phishing over LinkedIn Attackers are increasingly phishing over LinkedIn to reach executives and bypass email security tools. Push Security explains how real-time browser protection detects and blocks phishing across apps and channels as users load mal\u2026",
     "title": "5 reasons why attackers are phishing over LinkedIn"
+  },
+  "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-14T14:02:12+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "5 Ways Zero Trust Maximizes Identity Security Stolen credentials remain a top breach vector, often leading to unchecked privilege escalation. Specops explains how identity-first Zero Trust limits access, enforces device trust, and blocks lateral movement. [...]",
+    "title": "5 Ways Zero Trust Maximizes Identity Security"
   },
   "https://www.bleepingcomputer.com/news/security/6-okta-security-settings-you-might-have-overlooked/": {
     "categories": [
@@ -11962,6 +12094,18 @@
     "summary": "Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot Bitcoin Depot, which operates one of the largest Bitcoin ATM networks, says attackers stole $3.665 million worth of Bitcoin from its crypto wallets after breaching its systems last month. [...]",
     "title": "Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot"
   },
+  "https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-04-14T21:58:31+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Crypto-exchange Kraken extorted by hackers after insider breach The Kraken cryptocurrency exchange announced that a cybercrime group is trying to extort the company by threatening to release videos\u00a0showing internal systems that host\u00a0client data. [...]",
+    "title": "Crypto-exchange Kraken extorted by hackers after insider breach"
+  },
   "https://www.bleepingcomputer.com/news/security/crypto-wallets-received-a-record-158-billion-in-illicit-funds-last-year/": {
     "categories": [
       "Security"
@@ -12858,6 +13002,18 @@
     "source": "BleepingComputer",
     "summary": "Fake LastPass support email threads try to steal vault passwords Password management software provider LastPass is warning users of a phishing campaign targeting its users with fake unauthorized account access alerts. [...]",
     "title": "Fake LastPass support email threads try to steal vault passwords"
+  },
+  "https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-04-14T16:37:01+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Fake Ledger Live app on Apple\u2019s App Store stole $9.5M in crypto A malicious Ledger Live app for macOS available from Apple's App Store has drained approximately $9.5 million in cryptocurrency from 50 victims in just a few days this month. [...]",
+    "title": "Fake Ledger Live app on Apple\u2019s App Store stole $9.5M in crypto"
   },
   "https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/": {
     "categories": [
@@ -15500,6 +15656,17 @@
     "summary": "Mazda discloses security breach exposing employee and partner data Mazda Motor Corporation (Mazda) announced that information belonging to its employees and business partners had been exposed in a security incident detected last December. [...]",
     "title": "Mazda discloses security breach exposing employee and partner data"
   },
+  "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-14T18:07:07+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "McGraw-Hill confirms data breach following extortion threat Education company McGraw-Hill has confirmed in a statement to BleepingComputer that hackers exploited a Salesforce misconfiguration and accessed its internal data. [...]",
+    "title": "McGraw-Hill confirms data breach following extortion threat"
+  },
   "https://www.bleepingcomputer.com/news/security/media-giant-nikkei-reports-data-breach-impacting-17-000-people/": {
     "categories": [
       "Security"
@@ -16915,6 +17082,17 @@
     "source": "BleepingComputer",
     "summary": "Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass Over 10,000 Internet-exposed Fortinet firewalls are still vulnerable to attacks exploiting a five-year-old two-factor authentication (2FA) bypass vulnerability. [...]",
     "title": "Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass"
+  },
+  "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-14T20:33:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Over 100 Chrome Web Store extensions steal user accounts, data More than 100 malicious extensions in the official Chrome Web Store are attempting to steal Google OAuth2 Bearer tokens, deploy backdoors, and carry out ad fraud. [...]",
+    "title": "Over 100 Chrome Web Store extensions steal user accounts, data"
   },
   "https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/": {
     "categories": [
@@ -20788,6 +20966,15 @@
     "summary": "Marquis v. SonicWall Lawsuit Ups the Breach Blame Game When a company gets breached through a third-party security vendor, who should bear responsibility? For one FinTech company, the answer is the firewall provider.",
     "title": "Marquis v. SonicWall Lawsuit Ups the Breach Blame Game"
   },
+  "https://www.darkreading.com/cloud-security/microsoft-bets-10-billion-to-boost-japan-s-ai-cybersecurity": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf92453227b9ab491/69deb699d8b50e4d46cce021/japan-map-investments-RRice-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-15T00:00:08+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Microsoft Bets $10 Billion to Boost Japan's AI, Cybersecurity The deal aims to accelerate AI adoption, train workers, and develop cybersecurity partnerships \u2014\u00a0the latest move by a hyperscaler to compete for sovereign AI and data centers.",
+    "title": "Microsoft Bets $10 Billion to Boost Japan's AI, Cybersecurity"
+  },
   "https://www.darkreading.com/cloud-security/mongobleed-bug-active-attack-patch": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt62c52dd8a59fad39/695c2505a1a91a41d10f2ec2/memoryleak_Profit_Image_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -20841,6 +21028,15 @@
     "source": "darkreading",
     "summary": "TeamPCP Turns Cloud Infrastructure into Crime Bots The threat actor has been compromising cloud environments at scale with automated worm-like attacks on exposed services and interfaces.",
     "title": "TeamPCP Turns Cloud Infrastructure into Crime Bots"
+  },
+  "https://www.darkreading.com/cloud-security/test-networks-withstand-ddos-attacks-peak-loads": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc0c8d87f3c20fa1c/66169caf7b452bb8cbf7e896/DDoS_Dragon_Claws_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-13T21:48:09+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Why Orgs Need to Test Networks to Withstand DDoS Attacks During Peak Loads Security teams can't test distributed denial-of-service defenses in a vacuum. They need to test during periods of high demand, such as tax filing deadlines.",
+    "title": "Why Orgs Need to Test Networks to Withstand DDoS Attacks During Peak Loads"
   },
   "https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development": {
     "categories": [],
@@ -21469,6 +21665,15 @@
     "source": "darkreading",
     "summary": "2025 Was a Wake-Up Call to Protect Human Decisions, Not Just Systems Cybersecurity must shift from solely protecting systems to safeguarding human decision-making under uncertainty and system failures.",
     "title": "2025 Was a Wake-Up Call to Protect Human Decisions, Not Just Systems"
+  },
+  "https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1de06bcc392cd3d2/69de27d006575b379cbdd89f/Wargames_TCDProdDB_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-14T16:06:14+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "War Game Exercise Demonstrates How Social Media Manipulation Works In an educational game called &quot;Capture the Narrative,&quot; students created bots to sway a fictional election, simulating influence in real-world political scenarios.",
+    "title": "War Game Exercise Demonstrates How Social Media Manipulation Works"
   },
   "https://www.darkreading.com/cyber-risk/wartime-usage-of-compromised-ip-cameras-highlight-their-danger": {
     "categories": [],
@@ -24439,6 +24644,15 @@
     "summary": "Cursor Issue Paves Way for Credential-Stealing Attacks Researchers discovered a security weakness in the AI-powered coding tool that allows malicious MCP server to hijack Cursor's internal browser.",
     "title": "Cursor Issue Paves Way for Credential-Stealing Attacks"
   },
+  "https://www.darkreading.com/vulnerabilities-threats/edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd7ec16a921a2009e/69de4b2fdf457957a7185c1d/edrkiller_ArtemisDiana_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-14T20:20:34+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "EDR-Killer Ecosystem Expansion Requires Stronger BYOVD Defenses Stopping EDR killers, which employ bring-your-own-vulnerable-driver (BYOVD) attack techniques, is difficult, but not impossible.",
+    "title": "EDR-Killer Ecosystem Expansion Requires Stronger BYOVD Defenses"
+  },
   "https://www.darkreading.com/vulnerabilities-threats/exploitation-activity-ramps-react2shell": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta98cce66fcbc6ea9/6937436d2b9f21d52c0b1e3a/cyberattackmap_Wavebreakmedia_Ltd_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -24577,6 +24791,15 @@
     "source": "darkreading",
     "summary": "Patch Now: Oracle's Fusion Middleware Has Critical RCE Flaw Attackers can execute arbitrary code without authentication if Oracle's Identity or Web Services Managers are exposed to the Web.",
     "title": "Patch Now: Oracle's Fusion Middleware Has Critical RCE Flaw"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0c595c01e195b02e/69dea89ff56bbb6d65296357/patch_tomeqs_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-14T21:22:07+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Privilege Elevation Dominates Massive Microsoft Patch Update Elevation-of-privilege bugs accounted for more than half of the 165 vulnerabilities patched, with two zero-days in that mix.",
+    "title": "Privilege Elevation Dominates Massive Microsoft Patch Update"
   },
   "https://www.darkreading.com/vulnerabilities-threats/react2shell-under-attack-china-nexus-groups": {
     "categories": [],
