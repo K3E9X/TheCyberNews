@@ -6728,6 +6728,15 @@
     "summary": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit Apple&nbsp;on&nbsp;Wednesday expanded the availability of iOS 18.7.7&nbsp;and iPadOS 18.7.7&nbsp;to a broader range of devices to protect users from the risk posed by a recently disclosed exploit kit known\u2026",
     "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit"
   },
+  "https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-FBwJYevQ8Ner9ypyp5-H1XIPfa5guhQXC-W4llTZuBI072vjCoxKh9PUexQBZGJIeuZXoBAKboz9xz5Gzd0p1SiT5UME0wd0lTTOS6EIh3nJ6vsAeMzGmT0P38ry2ySiLc-je0e0YAZAPDYmhw3jSfqbExcsQW5nL8syaClAcSfZziU-KPneawQFfo6p/s1600/patches.jpg",
+    "published": "2026-04-15T12:37:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More A number&nbsp;of critical vulnerabilities impacting products from Adobe, Fortinet, Microsoft, and SAP have taken center stage in April's Patch Tuesday&nbsp;releases.\nTopping the list is an S\u2026",
+    "title": "April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More"
+  },
   "https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBiilqDko4PDmo2Iu-E-25PRzUJ2LygbHdv1RsdA31AkJBL9QB3AzdxV_4j-jo2Xf9wXwlienf17HO_uJyiue3JOWNfTFdln4gXJcounilzPxOsIXpN5g6imDW3ta0jt4Ck3UYinAmWwHZqfxYhjuaFnOIowTmZbNedv3AmS7Qlze1-tD2gkJBuUxTzSml/s1600/nato.jpg",
@@ -6862,6 +6871,24 @@
     "source": "The Hacker News",
     "summary": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads Unknown threat actors compromised CPUID (\"cpuid[.]com\"), a website&nbsp;that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to serv\u2026",
     "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads"
+  },
+  "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-efZdYJpyjLdBQDLfJxWi6aiElSTIIzesGLR7SNMM0laIvBdFHioyAfxmOQkhV-bBV5SqCxRRhocp4-Q3EezvtE5Xp2aeNcFrP6d89jhOY2QiCVhhyMCMCVy39cE5YcTvg_7_tvXAEwI4N1g_eRKNzWwYtLH-k80d5he55NN2UK0sNNkbb0l35ix6MOBR/s1600/nui.png",
+    "published": "2026-04-15T12:56:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover A recently disclosed critical security flaw impacting nginx-ui, an open-source, web-based Nginx management tool, has come under active exploitation in the&nbsp;wild.\nThe vulnerability in question\u2026",
+    "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover"
+  },
+  "https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3s5QStAA0bgcCWhxktRnDbuCjGGiFi6NUz1Z9zVK8-4CkZ8FS82Sc5Qg_9-wKK98yThRDobcnyJcD63TIzW4OUTXzNrXTD6PXHoNMBJpgt02mi7K24qVMxfq_8zsG6kBupb8S0DygwxK2F33miTnFivZKSguCqCv82v3mxOAYWnHrcFHF7Y1iTPgV9i6u/s1600/validation-main.jpg",
+    "published": "2026-04-15T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Deterministic + Agentic AI: The Architecture Exposure Validation Requires Few technologies have moved from experimentation to boardroom mandate as quickly as AI. Across&nbsp;industries, leadership teams have embraced its broader potential, and boards, investors, and executives ar\u2026",
+    "title": "Deterministic + Agentic AI: The Architecture Exposure Validation Requires"
   },
   "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html": {
     "categories": [],
@@ -7034,6 +7061,15 @@
     "summary": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers Threat&nbsp;actors are increasingly using HTTP cookies as a control channel for PHP-based web shells on Linux servers and to achieve remote code execution, according to findings from the Micro\u2026",
     "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers"
   },
+  "https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKhAYMS4CZDglUzVBKPpIJJJjC7LSHIE8r8HSYTDvQtfuqIlLk-jorWPPNvMPaiuWSriWM2WP-cyKqr_TRwlOG65EY9ZZWuRYsrzcn05wg3mkQd_-j103HEjHaUryyOF7jWj6IuAM6VwCUloPq_9RMt959E-yG8qF4n1acw3OfY73fWw4p90V0ClaY4hjo/s1600/windows-update.jpg",
+    "published": "2026-04-15T08:40:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities Microsoft on Tuesday released updates to address a&nbsp;record 169 security&nbsp;flaws across its product portfolio, including one vulnerability that&nbsp;has been actively&nbsp;exploited in the&nb\u2026",
+    "title": "Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities"
+  },
   "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq1lOqG2e9eetuSt3ne59NkxH-r0lCjnTmodLlbXt29w5AH_utoClwW1RfvpY5rC7vqb1rVBR4ApELx1ROFvmuMpPpk_9R7tshflL0WwPRuD25vu1gzaFuuldwTzAbcb1m7y7TBsTLr863BQhLHdJGwRUmVzuLayR1gTnkmG_XCraID8EuzUzeeVLtgp7p/s1600/whatsapp-exploit.jpg",
@@ -7069,6 +7105,15 @@
     "source": "The Hacker News",
     "summary": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust The North Korea-linked persistent campaign known&nbsp;as Contagious&nbsp;Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems.\n\"The threat actor'\u2026",
     "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust"
+  },
+  "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSXMJaHSQp1aJ8l7rKKtfILQtDMLWTUVOPwWqizQ-nRzb5JbG1BJOFKTs0NYGVQ0fBFTzLkjaY0bntn7UDnlyy502mDQJzvqFhTJwmYlctN551StWLJf8hnET4i8ZrwWvtzhswLW_2GoSI1zlMVRnI89aVrFU1lbes9p7fpYFjT9V7OxAmbmMW3UR-hv9_/s1600/webhook.jpg",
+    "published": "2026-04-15T17:09:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails Threat actors&nbsp;have been&nbsp;observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophisticated phishing campaigns and deliver malicious payl\u2026",
+    "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails"
   },
   "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html": {
     "categories": [],
@@ -7240,6 +7285,15 @@
     "source": "The Hacker News",
     "summary": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories The&nbsp;latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No&nbsp;corporate fluff or boring lectures here, just a quick and honest \u2026",
     "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories"
+  },
+  "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3uHu3ez1qUhePM8e1rCVaEUwBzhu09tblZcAl6jlOEYHN1Zq2-rm-dyEOArGNUm63UjM-_Qs8XwFKUa46UxOwufTn4BmRlfv1xiwlxkk3XboMQu8d4fHpy5Vb5y_0zcpXw5Alg-V_Ud85gINtfz6pfOZWWcco9Dy0jkeRCPCF-ssY2zJjRge1d3PJf_c/s1600/uk.jpg",
+    "published": "2026-04-16T06:20:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign The Computer Emergencies Response Team of Ukraine (CERT-UA)&nbsp;has disclosed details of a new&nbsp;campaign that has&nbsp;targeted governments and municipal healthcare institutions, mainly clinics \u2026",
+    "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign"
   },
   "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html": {
     "categories": [],
@@ -8351,6 +8405,17 @@
     "summary": "Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days Today is Microsoft's April 2026\u00a0Patch Tuesday with security updates for 167 flaws, including 2 zero-day vulnerabilities. [...]",
     "title": "Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-16T07:37:44+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: April Windows Server 2025 update may fail to install Microsoft is investigating an issue causing this month's KB5082063 security update to fail to install on some Windows Server 2025 systems. [...]",
+    "title": "Microsoft: April Windows Server 2025 update may fail to install"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/": {
     "categories": [
       "Microsoft"
@@ -8596,6 +8661,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Security keys may prompt for PIN after recent updates Microsoft warned users on Tuesday that FIDO2 security keys may prompt them to enter a PIN when signing in after installing Windows updates released since the September 2025 preview update. [...]",
     "title": "Microsoft: Security keys may prompt for PIN after recent updates"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-15T10:24:53+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft fixes bug behind Windows Server 2025 automatic upgrades Microsoft has finally fixed a known issue that was causing systems running Windows Server 2019 and 2022 to \"unexpectedly\" upgrade to Windows Server 2025. [...]",
+    "title": "Microsoft fixes bug behind Windows Server 2025 automatic upgrades"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-false-windows-10-end-of-support-alerts/": {
     "categories": [
@@ -8930,6 +9006,18 @@
     "summary": "Microsoft patches actively exploited Office zero-day vulnerability Microsoft has released emergency security updates to patch a high-severity Office zero-day vulnerability exploited in attacks. [...]",
     "title": "Microsoft patches actively exploited Office zero-day vulnerability"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-15T16:20:21+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest Microsoft has awarded $2.3 million to security researchers after receiving nearly 700 submissions during this year's\u00a0Zero Day Quest hacking contest. [...]",
+    "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-new-cursorwrap-mouse-teleport-tool/": {
     "categories": [
       "Microsoft"
@@ -9233,6 +9321,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft shares workaround for Outlook freezes after Windows update Microsoft shared a temporary workaround for customers experiencing Outlook freezes after installing this month's Windows security updates. [...]",
     "title": "Microsoft shares workaround for Outlook freezes after Windows update"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-15T11:41:35+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: April updates trigger BitLocker key prompts on some servers Microsoft confirmed on Tuesday that some Windows Server 2025 devices will boot into BitLocker recovery after installing the April 2026 KB5082063 Windows security update. [...]",
+    "title": "Microsoft: April updates trigger BitLocker key prompts on some servers"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/": {
     "categories": [
@@ -11023,6 +11122,18 @@
     "summary": "CISA flags VMware Aria Operations RCE flaw as exploited in attacks The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a VMware Aria Operations vulnerability\u00a0tracked as CVE-2026-22719 to its Known Exploited Vulnerabilities catalog, flagging the flaw as expl\u2026",
     "title": "CISA flags VMware Aria Operations RCE flaw as exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-15T14:51:05+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "CISA flags Windows Task Host vulnerability as exploited in attacks CISA warned U.S. government agencies to secure their systems against a Windows Task Host privilege escalation vulnerability that could allow attackers to gain SYSTEM privileges. [...]",
+    "title": "CISA flags Windows Task Host vulnerability as exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/": {
     "categories": [
       "Security"
@@ -12006,6 +12117,17 @@
     "source": "BleepingComputer",
     "summary": "Critical n8n flaws disclosed along with public exploits Multiple critical vulnerabilities in the popular n8n open-source workflow automation platform allow escaping the confines of the environment and taking complete control of the host server. [...]",
     "title": "Critical n8n flaws disclosed along with public exploits"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-15T22:35:09+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Critical Nginx UI auth bypass flaw now actively exploited in the wild A critical vulnerability in Nginx UI with Model Context Protocol (MCP) support is now being exploited in the wild for full server takeover without authentication. [...]",
+    "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild"
   },
   "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/": {
     "categories": [
@@ -16081,6 +16203,17 @@
     "summary": "Nearly 800,000 Telnet servers exposed to remote attacks Internet security watchdog Shadowserver tracks nearly 800,000 IP addresses with Telnet fingerprints amid ongoing attacks exploiting a critical authentication bypass vulnerability in the GNU InetUtils telnetd server. [...]",
     "title": "Nearly 800,000 Telnet servers exposed to remote attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-15T21:57:17+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New AgingFly malware used in attacks on Ukraine govt, hospitals A new malware family named 'AgingFly' has been identified in attacks against local governments and hospitals that steal authentication data from Chromium-based browsers and WhatsApp messenger. [...]",
+    "title": "New AgingFly malware used in attacks on Ukraine govt, hospitals"
+  },
   "https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/": {
     "categories": [
       "Security"
@@ -17829,6 +17962,17 @@
     "summary": "Rhadamanthys infostealer disrupted as cybercriminals lose server access The Rhadamanthys infostealer operation has been disrupted, with numerous \"customers\" of the malware-as-a-service reporting that they no longer have access to their servers. [...]",
     "title": "Rhadamanthys infostealer disrupted as cybercriminals lose server access"
   },
+  "https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-15T14:00:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Rolling Networks: Securing the Transportation Sector Modern trucks are rolling networks packed with sensors, connectivity, and attack surfaces, creating new cyber risks. NMFTA's Cybersecurity Conference brings industry leaders together to tackle emerging threats in transportation\u2026",
+    "title": "Rolling Networks: Securing the Transportation Sector"
+  },
   "https://www.bleepingcomputer.com/news/security/romanian-energy-provider-hit-by-gentlemen-ransomware-attack/": {
     "categories": [
       "Security"
@@ -18185,6 +18329,17 @@
     "source": "BleepingComputer",
     "summary": "ShinyHunters extortion gang claims Odido breach affecting millions The ShinyHunters extortion gang has claimed responsibility for breaching Dutch telecommunications provider Odido and stealing millions of user records from its compromised systems. [...]",
     "title": "ShinyHunters extortion gang claims Odido breach affecting millions"
+  },
+  "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-15T17:59:30+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Signed software abused to deploy antivirus-killing scripts A digitally signed adware tool has deployed payloads running with SYSTEM privileges that disabled antivirus protections on thousands of endpoints, some in the educational, utilities, government, and healthcare sectors. [.\u2026",
+    "title": "Signed software abused to deploy antivirus-killing scripts"
   },
   "https://www.bleepingcomputer.com/news/security/six-for-2026-the-cyber-threats-you-cant-ignore/": {
     "categories": [
@@ -19825,6 +19980,17 @@
     "summary": "WordPress membership plugin bug exploited to create admin accounts Hackers are exploiting a critical vulnerability in the User Registration & Membership plugin, which is installed on more than 60,000 WordPress sites. [...]",
     "title": "WordPress membership plugin bug exploited to create admin accounts"
   },
+  "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-15T20:33:50+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "WordPress plugin suite hacked to push malware to thousands of sites More than 30 WordPress plugins in the EssentialPlugin package have been compromised with malicious code that allows unauthorized access to websites running them. [...]",
+    "title": "WordPress plugin suite hacked to push malware to thousands of sites"
+  },
   "https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/": {
     "categories": [
       "Security"
@@ -20345,6 +20511,15 @@
     "source": "darkreading",
     "summary": "Critical Fortinet FortiWeb WAF Bug Exploited in the Wild The vulnerability could allow an unauthenticated attacker to remotely execute administrative commands.",
     "title": "Critical Fortinet FortiWeb WAF Bug Exploited in the Wild"
+  },
+  "https://www.darkreading.com/application-security/critical-mcp-integration-flaw-nginx-risk": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt446b8eb1b9e96075/69e00259f061614772ab3b7e/mcp_Jack_the_sparow_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-15T21:45:18+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Critical MCP Integration Flaw Puts NGINX at Risk Attackers can abuse the near-maximum severity flaw in nginx-ui to restart, create, modify, and delete NGINX configuration files.",
+    "title": "Critical MCP Integration Flaw Puts NGINX at Risk"
   },
   "https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks": {
     "categories": [],
@@ -20975,6 +21150,15 @@
     "summary": "Microsoft Bets $10 Billion to Boost Japan's AI, Cybersecurity The deal aims to accelerate AI adoption, train workers, and develop cybersecurity partnerships \u2014\u00a0the latest move by a hyperscaler to compete for sovereign AI and data centers.",
     "title": "Microsoft Bets $10 Billion to Boost Japan's AI, Cybersecurity"
   },
+  "https://www.darkreading.com/cloud-security/microsoft-salesforce-patch-ai-agent-data-leak-flaws": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte7dc263e75be56e5/69de87e3a047c9fc38c21430/AI_magnifying_glass_Techa_Tungateja_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-15T12:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Microsoft, Salesforce Patch AI Agent Data Leak Flaws Two recently fixed prompt injections in Salesforce Agentforce and Microsoft Copilot would have enabled an external attacker to leak sensitive data.",
+    "title": "Microsoft, Salesforce Patch AI Agent Data Leak Flaws"
+  },
   "https://www.darkreading.com/cloud-security/mongobleed-bug-active-attack-patch": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt62c52dd8a59fad39/695c2505a1a91a41d10f2ec2/memoryleak_Profit_Image_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -20992,6 +21176,15 @@
     "source": "darkreading",
     "summary": "Native Launches With Security Control Plane for Multicloud The cloud security startup's platform translates and enforces security policies across AWS, Azure, Google Cloud, and Oracle using provider-native controls.",
     "title": "Native Launches With Security Control Plane for Multicloud"
+  },
+  "https://www.darkreading.com/cloud-security/navigating-unique-security-risks-asias-digital-supply-chain": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6b40c5c605abfefc/69dfd2fef061610469ab3b48/digital_supply_chain_map_Aleksey_Funtap_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-15T19:30:47+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Navigating the Unique Security Risks of Asia's Digital Supply Chain Regulatory differences, interconnected digital ecosystems, and the rise of AI have created a complex supply chain Asian organizations must wrangle.",
+    "title": "Navigating the Unique Security Risks of Asia's Digital Supply Chain"
   },
   "https://www.darkreading.com/cloud-security/phishers-exploit-office-365-users-guard-down": {
     "categories": [],
@@ -21108,6 +21301,15 @@
     "source": "darkreading",
     "summary": "Attackers Now Need Just 29 Minutes to Own a Network Credential misuse, AI tools, and security blind spots help attackers move through breached networks faster than ever, CrowdStrike finds.",
     "title": "Attackers Now Need Just 29 Minutes to Own a Network"
+  },
+  "https://www.darkreading.com/cyber-risk/audit-big-tech-ignores-data-collection-requests": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4602d9695ec3e1f1/69655ab9ae1d94027b8f024c/HWP2C7.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-15T14:38:53+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Audit: Big Tech Often Ignores CA Privacy Law Opt-Out Requests Google, Meta, and Microsoft about half the time don't comply with requests to opt out of online tracking per a California law mandate, privacy watchdog finds.",
+    "title": "Audit: Big Tech Often Ignores CA Privacy Law Opt-Out Requests"
   },
   "https://www.darkreading.com/cyber-risk/blame-game-public-cyber-attribution-risks": {
     "categories": [],
@@ -21497,6 +21699,15 @@
     "summary": "PCI Council Says Threats to Payments Systems Are Speeding Up The PCI Security Standards Council experienced a record year in many regards, but its first annual report shows it needs to work even faster to stay ahead of attackers.",
     "title": "PCI Council Says Threats to Payments Systems Are Speeding Up"
   },
+  "https://www.darkreading.com/cyber-risk/preparing-q-day-quantum-risk-management": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3bb6d1a7c39a8cb8/69df9d987f84f1210cd92dd6/quantum_TiratusPhaesuwan_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-15T15:12:01+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Prepping for 'Q-Day': Why Quantum Risk Management Should Start Now Quantum computers are coming and may impact systems in unexpected ways, and it will &quot;take years to be fully quantum-safe, if ever,&quot; cryptography expert warns.",
+    "title": "Prepping for 'Q-Day': Why Quantum Risk Management Should Start Now"
+  },
   "https://www.darkreading.com/cyber-risk/ransomware-gang-full-godfather-cartel": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta8ad0cbff9c121e0/6983ba6c994a669ca58c7084/godfather_Usa-Pyon_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -21717,6 +21928,15 @@
     "source": "darkreading",
     "summary": "Zombie Projects Rise Again to Undermine Security Companies left them for dead, but the remnants of old infrastructure and failed projects continue to haunt businesses' security teams.",
     "title": "Zombie Projects Rise Again to Undermine Security"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7f40f3c081eecf91/69dd9708c01884640b682358/Turkey-Ivan_Tsyrkunovich-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-16T06:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "6-Year Ransomware Campaign Targets Turkish Homes &amp; SMBs While enterprises breaches make more headlines, smaller incidents tend to be under-reported, if at all, allowing campaigns to last longer with less disruption.",
+    "title": "6-Year Ransomware Campaign Targets Turkish Homes &amp; SMBs"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/advanced-security-phishing-tactics": {
     "categories": [],
