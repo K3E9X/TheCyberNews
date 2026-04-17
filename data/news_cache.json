@@ -6719,6 +6719,15 @@
     "summary": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative&nbsp;called Project&nbsp;Glasswing&nbsp;that&nbsp;will use a preview version of its new frontier model, Claude \u2026",
     "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems"
   },
+  "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKAY7CueGuHevAtV544WN7RTKISrobQLFpjfi4kjdzP1I2BA3rnll69dv1kfvHYSCcU5tQISA0OOgcQVibKrl4o0AvtUyM9crfZuSb1XFH03iLtPglZeHn1e6S8urWxf_4CEH9-tCZdT9BBrvXOFygCxjO_AUmUXnzm4d37Q80fPw3lEn6Hb0_LWlP9XM5/s1600/apachemq.jpg",
+    "published": "2026-04-17T03:22:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation A recently disclosed high-severity security flaw in Apache ActiveMQ&nbsp;Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security Agency&nbsp;(CISA).\nTo\u2026",
+    "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation"
+  },
   "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOPIq2XjzxLFTE4iwZWuKsLifOBVn0sVZv2vDEl0D3eXsyiW8ePJH7ukb29zq7gb7-7fJy8WjCRC5e-sYoMLXT4ZE-12llaj0H76qjygPmEl7cuGiC4jrLaMdDX5M55YsuYhdtbn8k5gCosH-JwHU3H-b7ho_5Lvg4pjoKf2Lz39lOumTGuxldWK1YQvfJ/s1600/apple-update.jpg",
@@ -6844,6 +6853,15 @@
     "source": "The Hacker News",
     "summary": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise Cisco&nbsp;has released updates to address a critical security flaw in the Integrated Management Controller (IMC) that, if successfully exploited, could allow an unauthenticated, remote attacker to bypass \u2026",
     "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise"
+  },
+  "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihdjDVphpsoBIBjhimILabg28ZsD4p-xNzJol1uD3SSIRBvkp-juko45B2sjKpQmJi-h2tHZf2yWAvuCOZRs3m3q4w5sj7x-MyXWosuKglLblipF_94T8f8OQ8_peVgqZTrnjxF8dPRLfv63K8zrbQYqh898b31p_2C37UO0DNAuR8cESZeo4XTFlsDs0C/s1600/cisco-flaws.jpg",
+    "published": "2026-04-16T11:27:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution Cisco has announced patches to address four critical security flaws impacting Identity Services and Webex Services that could result in arbitrary code execution and allow an attacker to impersonate\u2026",
+    "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution"
   },
   "https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html": {
     "categories": [],
@@ -6997,6 +7015,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials A&nbsp;large-scale credential harvesting operation&nbsp;has been&nbsp;observed exploiting the React2Shell vulnerability as an initial infection vector to steal database credentials, SSH private keys, Am\u2026",
     "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials"
+  },
+  "https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaSzIRGweO7UJkqOLQTUDsqPy53XtIWCzyLklGJLfFxhneZiFpxg8zJRXukUqEsT4TbdFwUZbvTfwuexfGuiYjcDQ-iZDjqwZ2lDlCIhgopZWevBpdi4rr6GxgXpU6MmFnzdMpq_WGdA9PRfaNw_7eDAOugAV1tccfmREgbXveM1N15G2_L9lFxCq1Pv0/s1600/reflectiz.jpg",
+    "published": "2026-04-16T10:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu A&nbsp;bank approved a Taboola pixel. That&nbsp;pixel quietly redirected logged-in users to a Temu tracking endpoint. This&nbsp;occurred without the bank\u2019s knowledge, without user consent, and without a singl\u2026",
+    "title": "Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu"
   },
   "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html": {
     "categories": [],
@@ -7160,6 +7187,24 @@
     "summary": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images Cybersecurity researchers&nbsp;have discovered a new version of&nbsp;the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the&nbsp;trojan was discovered targ\u2026",
     "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images"
   },
+  "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaSAtFbXFX7aYFcwPPrHEMwEZ4VJp2mJQuYo3B3Q2Zrot1co_ilMUWffYOUUFHFRO6zwHHjlMCMOJcbnc_iF69KLU_1LpMhcfFk5YV8A4cdIchhqR1NQGEvyzpHGidnbvqwq2Tg_Y77VwMCpeSSluD8sPRcusqiraqLMCvUCA-QvUv5nCuh2Ns1U2jxNR1/s1600/powmix.jpg",
+    "published": "2026-04-16T17:52:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumented botnet&nbsp;dubbed PowMix since at least Decembe\u2026",
+    "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic"
+  },
+  "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrjR1nq2z66LZ-KZoSSgEdNs30l3Wv4kqz4R4acFd3CW2tqG0EDILlATrje1-tvZhdjnU9rSRO4cQNmlQGelsfBGGiMl_m9kxotVRlBDFyMISCJIFUPN78Aam2GAYPL0Nljz4aU5XrrWz2QuxBz-cZvY7vr2zSQJNdgrz3IWLldTPG_n_9tJx22A3TBQzZ/s1600/nist-cve.jpg",
+    "published": "2026-04-17T07:14:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVEs) listed in its National Vulnerability Database (NVD), s\u2026",
+    "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions"
+  },
   "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm-HTAVB66ntSv8R4Bgh9szlrPPh6ah0eJGTDheDntj2w9bW9XzWcgs2CAGsN_C8DS7T4M7V8q18_DtgMZu3mJONEewq_oWlpefdtwp6BgudRjw2Z68jXoP8tHCdxSyvZ-xvVuPlh-xpxEeIRHk1v2mq5KqZxS1z316ncG5j2Q9HQe_bJhIJE4XWONvyYL/s1600/telegram.jpg",
@@ -7168,6 +7213,15 @@
     "source": "The Hacker News",
     "summary": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware The North Korean hacking group tracked&nbsp;as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which threat actors approached targets on Facebook and ad\u2026",
     "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware"
+  },
+  "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNoBvtFhZbLfNE2AsVSzuOt5V9YMzAumIA2M9c7QVbp_i-xMwDIgVtDgCIi2bCYgH_PviS8P-Ap1k-8aVmHABqLzNGE9g014MM1gnfJEJPKbKczoCjPoI6PxZ77bNlz2dSlv8XqoVFyZZqQ6SWBue3rpRegb_k62HJkfMl39GHTBIIzZOGrv_iKbxOYV8E/s1600/el.jpg",
+    "published": "2026-04-16T10:20:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks A \"novel\" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remo\u2026",
+    "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks"
   },
   "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html": {
     "categories": [],
@@ -7186,6 +7240,15 @@
     "source": "The Hacker News",
     "summary": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident OpenAI&nbsp;revealed a GitHub Actions workflow used to sign its macOS apps, which downloaded the malicious Axios library on March 31, but noted that no user data or&nbsp;internal system&nbsp;was comp\u2026",
     "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident"
+  },
+  "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgePkLgywRZdW-d26RoQHpyVUy3nKssYfrZuFEdZ-fjRzJHTpESHBPlLvUII_vjjeLVTn4G_TB_oH76mfzh5t4PoKyz_ZhXWBOnCAkssRVXvb_lAMkEdhlK4G9YE6IWvxUUDQ9KDeZSzurWEPKDoQAVozBVjwrRYtSjy6pSbenOhhctqh3NxELjQXeF7H7S/s1600/europol.jpg",
+    "published": "2026-04-17T05:46:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than 7\u2026",
+    "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts"
   },
   "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html": {
     "categories": [],
@@ -7268,6 +7331,15 @@
     "summary": "The State of Trusted Open Source Report In December&nbsp;2025, we shared the first-ever The State of Trusted Open&nbsp;Source report, featuring insights from our product data and customer base on open source consumption across our catalog of container image projects, versions, im\u2026",
     "title": "The State of Trusted Open Source Report"
   },
+  "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzTV_mwPjmV14aBlnHuLOX2yEZR6VGpmadgiPHtNBJV0KVNG_Oj2tnqE1cb3U9RhBXN-Mytte3jKs2n2dQwBhX2dYDETy5es4cGUkbW5bdIaV_hx8i3gWQhdaa7se1_Q8NY9t0q90EjUBNXt56_MxjT4YVV-R8D14jV3LequHu0llA84NnEK3PeU56Q54X/s1600/bull-main.jpg",
+    "published": "2026-04-16T13:05:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: Defender 0-Day,\u00a0SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories You&nbsp;know that feeling when you open your feed on a Thursday morning and it's just... a&nbsp;lot? Yeah. This&nbsp;week delivered. We've got hackers getting creative in ways t\u2026",
+    "title": "ThreatsDay Bulletin: Defender 0-Day,\u00a0SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories"
+  },
   "https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6d4nK1zoWjzSmbdUmGPSycMwGmzcYM2XRrFH_ueobgO_8j7hwRdv8Ct856gg_k29HqAOw1-HGCtPpxyGDcuQIKY53ATLKb8bQCsJR5b_Jf8VqX1igItYBIe4iQazqSRe5fmFrFXS1fCcKdz6enbI6zYngIztjJ_UI262_ynNGJrd1EB_OUV1ZKYVl04-h/s1600/threatsdays-main.jpg",
@@ -7312,6 +7384,15 @@
     "source": "The Hacker News",
     "summary": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack The&nbsp;maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering campaign orchestrated by North Korean threat actors tra\u2026",
     "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack"
+  },
+  "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6vJpO9kksCQDpSksNkqDFNUCbXD70dMGYqI6P9S_XPMY5d8BR8PVdrsVQP1ZJO_-nzL6eQShM3Cap9heQ5kAglsPjfxwIcXPSsf_cfgUVnGQ2XzIWVOuo7JhxMjnHYDN6r9KlQ6LqZJisRZkjatnWChuzUkSlXRa1hFseUPq28PZ5gjGR7L2WzTFdZ3fM/s1600/ghost.jpg",
+    "published": "2026-04-16T11:55:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching.\u2026",
+    "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment"
   },
   "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html": {
     "categories": [],
@@ -8082,6 +8163,18 @@
     "source": "BleepingComputer",
     "summary": "Google confirms Android bug causing volume key issues Google has confirmed a software bug that is preventing volume buttons from working correctly on Android devices with accessibility features enabled. [...]",
     "title": "Google confirms Android bug causing volume key issues"
+  },
+  "https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/": {
+    "categories": [
+      "Google",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-16T15:24:14+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google expands Gemini AI use to fight malicious ads on its platform Google says it is increasingly using its Gemini AI models to detect and block harmful ads on its advertising platforms, as scammers and threat actors continue to evolve their tactics to evade detection. [...]",
+    "title": "Google expands Gemini AI use to fight malicious ads on its platform"
   },
   "https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/": {
     "categories": [
@@ -9604,6 +9697,17 @@
     "summary": "Microsoft updates Windows DLL that triggered security alerts Microsoft has resolved a known issue that was causing security applications to incorrectly flag a core Windows component, the company said in a service alert posted this week. [...]",
     "title": "Microsoft updates Windows DLL that triggered security alerts"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-17T07:59:47+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Some Windows servers enter reboot loops after April patches Microsoft warns that some Windows domain controllers are entering restart loops after installing the April 2026 security updates. [...]",
+    "title": "Microsoft: Some Windows servers enter reboot loops after April patches"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/": {
     "categories": [
       "Microsoft",
@@ -9720,6 +9824,18 @@
     "source": "BleepingComputer",
     "summary": "New KB5085516 emergency update fixes Microsoft account sign-in Microsoft has released an emergency update to address a major issue that breaks sign-ins with Microsoft accounts across multiple Microsoft apps, including Teams and OneDrive. [...]",
     "title": "New KB5085516 emergency update fixes Microsoft account sign-in"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-16T20:19:31+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New Microsoft Defender \u201cRedSun\u201d zero-day PoC grants SYSTEM privileges A researcher known as \"Chaotic Eclipse\" has published a proof-of-concept exploit for a second Microsoft Defender zero-day, dubbed \"RedSun,\" in the past two weeks, protesting how the company works with cybersecu\u2026",
+    "title": "New Microsoft Defender \u201cRedSun\u201d zero-day PoC grants SYSTEM privileges"
   },
   "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-feature-will-let-you-report-suspicious-calls/": {
     "categories": [
@@ -11559,6 +11675,17 @@
     "summary": "Cisco flags more SD-WAN flaws as actively exploited in attacks \u200bCisco has flagged two Catalyst SD-WAN Manager security flaws as actively exploited in the wild, urging administrators to upgrade vulnerable devices. [...]",
     "title": "Cisco flags more SD-WAN flaws as actively exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-16T12:01:42+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Cisco says critical Webex Services flaw requires customer action Cisco has released security updates to patch four critical vulnerabilities, including a fixed improper certificate validation flaw in the company's cloud-based Webex Services platform that requires further customer \u2026",
+    "title": "Cisco says critical Webex Services flaw requires customer action"
+  },
   "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/": {
     "categories": [
       "Security"
@@ -12410,6 +12537,18 @@
     "source": "BleepingComputer",
     "summary": "Ex-data analyst stole company data in $2.5M extortion scheme A North Carolina man was found guilty of extorting a D.C.-based technology company while still being employed as a data analyst contractor. [...]",
     "title": "Ex-data analyst stole company data in $2.5M extortion scheme"
+  },
+  "https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/": {
+    "categories": [
+      "Security",
+      "Education"
+    ],
+    "image": "",
+    "published": "2026-04-16T10:35:09+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Data breach at edtech giant McGraw Hill affects 13.5 million accounts The ShinyHunters extortion group has leaked data from 13.5 million McGraw Hill user accounts, stolen after breaching the company's Salesforce environment earlier this month. [...]",
+    "title": "Data breach at edtech giant McGraw Hill affects 13.5 million accounts"
   },
   "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/": {
     "categories": [
@@ -14516,6 +14655,17 @@
     "summary": "Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks Hackers are exploiting a new, undocumented vulnerability in the implementation of the cryptographic algorithm present in\u00a0Gladinet's CentreStack and Triofox products for secure remote file access and sharing. [\u2026",
     "title": "Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-16T16:58:06+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face Hackers are exploiting a critical\u00a0vulnerability in Marimo reactive Python notebook to deploy a new variant of NKAbuse malware hosted on Hugging Face Spaces. [...]",
+    "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-modular-ds-wordpress-plugin-flaw-for-admin-access/": {
     "categories": [
       "Security"
@@ -15642,6 +15792,17 @@
     "summary": "Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison A 44-year-old man was sentenced to seven years and four months in prison for operating an \"evil twin\" WiFi network to steal the data of unsuspecting travelers at various airports across Australia. [...]",
     "title": "Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison"
   },
+  "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-17T07:10:32+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Man gets 30 months for selling thousands of hacked DraftKings accounts 23-year-old Kamerin Stokes of Memphis, Tennessee,\u00a0was sentenced to 30 months in prison for selling access to tens of thousands of hacked\u00a0DraftKings\u00a0accounts. [...]",
+    "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts"
+  },
   "https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/": {
     "categories": [
       "Security"
@@ -16094,6 +16255,17 @@
     "summary": "MongoDB warns admins to patch severe vulnerability immediately MongoDB has warned IT admins to immediately patch a high-severity memory-read vulnerability that may be exploited by unauthenticated attackers remotely. [...]",
     "title": "MongoDB warns admins to patch severe vulnerability immediately"
   },
+  "https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-16T14:02:12+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Most \"AI SOCs\" Are Just Faster Triage. That's Not Enough. AI-powered SOC tools promise automation, but most only speed up triage instead of reducing real workload. Tines shows how real gains come from end-to-end workflows that execute actions across systems, not just summarize al\u2026",
+    "title": "Most \"AI SOCs\" Are Just Faster Triage. That's Not Enough."
+  },
   "https://www.bleepingcomputer.com/news/security/mozilla-firefox-gets-new-anti-fingerprinting-defenses/": {
     "categories": [
       "Security",
@@ -16235,6 +16407,18 @@
     "source": "BleepingComputer",
     "summary": "New Android malware uses AI to click on hidden browser ads A new family of Android click-fraud trojans leverages TensorFlow machine learning models to automatically detect and interact with specific advertisement elements. [...]",
     "title": "New Android malware uses AI to click on hidden browser ads"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-04-16T14:09:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New ATHR vishing platform uses AI voice agents for automated attacks A new cybercrime platform called ATHR can harvest credentials via fully automated voice phishing attacks that use both human operators and AI agents for the social engineering phase. [...]",
+    "title": "New ATHR vishing platform uses AI voice agents for automated attacks"
   },
   "https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/": {
     "categories": [
@@ -17183,6 +17367,18 @@
     "summary": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow OpenAI is rotating potentially exposed macOS code-signing certificates after a GitHub Actions workflow executed a malicious Axios package during a recent supply chain attack. [...]",
     "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow"
   },
+  "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-04-16T22:26:34+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains The latest wave of \"Operation PowerOFF,\" on April 13, 2026, targeted the distributed denial-of-service (DDoS) ecosystem and its users across 21 countries. [...]",
+    "title": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains"
+  },
   "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/": {
     "categories": [
       "Security"
@@ -17906,6 +18102,18 @@
     "source": "BleepingComputer",
     "summary": "Real-estate finance services giant SitusAMC breach exposes client data SitusAMC, a company that provides back-end services for top banks and lenders, disclosed on Saturday a data breach it had discovered earlier this month that impacted customer data. [...]",
     "title": "Real-estate finance services giant SitusAMC breach exposes client data"
+  },
+  "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-17T06:14:52+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Recently leaked Windows zero-days now exploited in attacks Threat actors are exploiting three recently disclosed Windows security vulnerabilities in attacks aimed at gaining SYSTEM or elevated administrator permissions. [...]",
+    "title": "Recently leaked Windows zero-days now exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/": {
     "categories": [
@@ -19511,6 +19719,17 @@
     "summary": "US disrupts SocksEscort proxy network powered by Linux malware Law enforcement agencies in the U.S. and Europe along with private partners have disrupted the SocksEscort cybercrime proxy network that used only edge devices compromised via the AVRecon malware for Linux. [...]",
     "title": "US disrupts SocksEscort proxy network powered by Linux malware"
   },
+  "https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-16T08:32:13+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "US nationals behind DPRK IT worker 'laptop farm' sent to prison Two U.S. nationals have been sent to prison for helping North Korean remote information technology (IT) workers to pose as U.S. residents and get hired by over 100 companies across the country, including many Fortune\u2026",
+    "title": "US nationals behind DPRK IT worker 'laptop farm' sent to prison"
+  },
   "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/": {
     "categories": [
       "Security"
@@ -20122,6 +20341,17 @@
     "source": "BleepingComputer",
     "summary": "ZeroDayRAT malware grants full access to Android, iOS devices A new commercial mobile spyware platform dubbed ZeroDayRAT is being advertised to cybercriminals on Telegram as a tool that provides full remote control over compromised Android and iOS devices. [...]",
     "title": "ZeroDayRAT malware grants full access to Android, iOS devices"
+  },
+  "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-16T22:04:53+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "ZionSiphon malware designed to sabotage water treatment systems A new malware called ZionSiphon, specifically designed for operational technology, is targeting water treatment and desalination environments to sabotage their operations. [...]",
+    "title": "ZionSiphon malware designed to sabotage water treatment systems"
   },
   "https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/": {
     "categories": [
@@ -20767,6 +20997,15 @@
     "source": "darkreading",
     "summary": "Multiple ChatGPT Security Bugs Allow Rampant Data Theft Attackers can use them to inject arbitrary prompts, exfiltrate personal user information, bypass safety mechanisms, and take other malicious actions.",
     "title": "Multiple ChatGPT Security Bugs Allow Rampant Data Theft"
+  },
+  "https://www.darkreading.com/application-security/north-korea-clickfix-target-macos-users-data": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5cc61f368315b744/69e10ffdc8863fd06c049539/Mac_Mouse_Click_Edwin_Remsberg_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-16T19:42:45+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "North Korea Uses ClickFix to Target macOS Users' Data Sapphire Sleet uses fake job offers and phony Zoom updates to deliver ClickFix attacks that steal credentials and sensitive data from Macs.",
+    "title": "North Korea Uses ClickFix to Target macOS Users' Data"
   },
   "https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments": {
     "categories": [],
@@ -22191,6 +22430,15 @@
     "summary": "Hamas-Linked Hackers Probe Middle Eastern Diplomats Hamas's best hackers have been maturing, building better malware, and spreading their attacks more widely across the region.",
     "title": "Hamas-Linked Hackers Probe Middle Eastern Diplomats"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/harmless-global-adware-av-killer": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcc23cf58a0283b13/69e0fbb3eb41a9b573b1d155/Adware-Artem_Medvediev-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-16T19:07:26+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "'Harmless' Global Adware Transforms Into an AV Killer A benign looking update Dragon Boss pushed out in March 2025 established persistence via scheduled tasks and arranged for future payloads to be excluded from Windows Defender.",
+    "title": "'Harmless' Global Adware Transforms Into an AV Killer"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc8a4286a526b27e8/69d95405a50214ae0ba38e24/hims_ZUMAPressInc._Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -23310,6 +23558,15 @@
     "summary": "Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy \u2014 Again It's time to phase out the &quot;patch and pray&quot; approach, eliminate needless public interfaces, and enforce authentication controls, one expert says.",
     "title": "Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy \u2014 Again"
   },
+  "https://www.darkreading.com/endpoint-security/microsoftoriginal-windows-secure-boot-certificates-expire": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcf80cca68990f44f/67db1175b6f1566998db1a71/laptop_windows_desktop_Wachiwit_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-16T15:16:30+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Microsoft's Original Windows Secure Boot Certificate Is Expiring The Secure Boot refresh is one of the largest coordinated security maintenance efforts across the Windows ecosystem, Microsoft said. Update those PCs soon.",
+    "title": "Microsoft's Original Windows Secure Boot Certificate Is Expiring"
+  },
   "https://www.darkreading.com/endpoint-security/niobium-introduces-the-fog": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=1280&auto=webp&quality=80&disable=upscale",
@@ -23433,6 +23690,15 @@
     "source": "darkreading",
     "summary": "Startup Trends Shaking Up Browsers, SOC Automation, AppSec These startups reimagined browser security, pioneered application security for AI-generated code, and are building consensus on agentic vs. human costs.",
     "title": "Startup Trends Shaking Up Browsers, SOC Automation, AppSec"
+  },
+  "https://www.darkreading.com/endpoint-security/two-factor-authentication-breaks-free-from-the-desktop": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda93213c910e1221/69dfbf29f06161c424ab3b28/R5PNG0.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-16T15:28:15+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Two-Factor Authentication Breaks Free from the Desktop Threat actors know how to bypass security systems outside of traditional IT environments. Implementing 2FA could provide a needed extra security barrier in the physical world.",
+    "title": "Two-Factor Authentication Breaks Free from the Desktop"
   },
   "https://www.darkreading.com/endpoint-security/venom-stealer-maas-commoditizes-clickfix-attacks": {
     "categories": [],
