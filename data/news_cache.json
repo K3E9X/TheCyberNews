@@ -6647,6 +6647,15 @@
     "summary": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure w\u2026",
     "title": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users"
   },
+  "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPcUvJCFRqDmEr1ZDSaUJCAymmKwZOeXdmfPY6Eekp7tLOpqjXLKHilHOHlNyuxmennQE8H5oxuRTaCncC8hsoGYEloD8OrDlR1wpbxGivBBB7KdVX8kiv_pOzC6GQ7LNPKoJGkFklpW0XutuLRPjl3I5cPta1n-BqVyAdO1luW3EUR8jyiZEtVjVTGWUK/s1600/grinex.jpg",
+    "published": "2026-04-18T07:59:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blamed Western intelligence agencies for a $13.74 million\u2026",
+    "title": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims"
+  },
   "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2eFUAGb2m5vs6mOwArunSX0lzBpR8Ag24yQhUtaYxrcHx2V46YcocY9oei-HH89QSB-HTxXta3bLH70_n6zMCRD949ttVsKlt4WnzSZ0rl1v4Suj3A7xftqjQSEXDq_cfLCIcMuENqoFeD9zBW0qZXr1owIEQEqzSNkaKfHFsGF35-lseSZbc0MGLRRWu/s1600/drift-hack.jpg",
@@ -9510,6 +9519,17 @@
     "summary": "Microsoft Teams outage affects users in United States, Europe \u200bMicrosoft is working to resolve an ongoing outage affecting Microsoft Teams users, causing delays and preventing some from accessing the service. [...]",
     "title": "Microsoft Teams outage affects users in United States, Europe"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-18T14:11:21+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Teams right-click paste broken by Edge update bug Microsoft is warning that a recent Microsoft Edge browser update introduced a bug that breaks right-click paste\u00a0in chats in the Microsoft Teams desktop client. [...]",
+    "title": "Microsoft Teams right-click paste broken by Edge update bug"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/": {
     "categories": [
       "Microsoft"
@@ -12194,6 +12214,17 @@
     "source": "BleepingComputer",
     "summary": "Critical Citrix NetScaler memory flaw actively exploited in attacks Hackers are exploiting a critical severity vulnerability, tracked as\u00a0CVE-2026-3055,\u00a0in Citrix\u00a0 NetScaler ADC and NetScaler Gateway appliances to obtain sensitive data. [...]",
     "title": "Critical Citrix NetScaler memory flaw actively exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-18T15:09:44+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Critical flaw in Protobuf library enables JavaScript code execution Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. [...]",
+    "title": "Critical flaw in Protobuf library enables JavaScript code execution"
   },
   "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/": {
     "categories": [
@@ -16380,6 +16411,17 @@
     "source": "BleepingComputer",
     "summary": "NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features NAKIVO Backup & Replication v11.1 expands disaster recovery with real-time replication, enhanced Proxmox VE support, and granular physical backups. The update adds MSP Direct Connect for secure client manage\u2026",
     "title": "NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features"
+  },
+  "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-18T13:45:54+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support NAKIVO Inc. announced the general availability of NAKIVO Backup & Replication v11.2, focused on fast, reliable, and proactive data protection. [...]",
+    "title": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support"
   },
   "https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/": {
     "categories": [
