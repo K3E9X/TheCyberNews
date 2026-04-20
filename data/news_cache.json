@@ -7295,6 +7295,15 @@
     "summary": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools Threat actors associated&nbsp;with Qilin&nbsp;and Warlock ransomware operations&nbsp;have been&nbsp;observed using the bring your own vulnerable driver&nbsp;(BYOVD) technique to silence security tools r\u2026",
     "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools"
   },
+  "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihoHF4qP6hw3msdH8s3stwjZR1a2Aqp6kSB97wFpmQefaNtVM8lc-Eu0Gv3jeMK2qa9aLGjSSZp3cJGNaE3eft6h17HnKqPGlhLbfkVzLqfv3VW-SEDLToW6z8SGiDeSE8jXdHyNqxqG_a4B34PjM3rbiOddEvQlgOFfbow8n6V_qGB-70uEj9fRrNLVOt/s1600/water.jpg",
+    "published": "2026-04-20T07:34:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems.\nThe malware has been \u2026",
+    "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems"
+  },
   "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpKoZinOy6MS9s0nTi1TV12H46KUmgkxu0kGinPE7yyq7Vpo9lmmcz30e5ve0yCk2T0ETCedeV6aXs0iEjI1rOykcXwBPa2a11yb75bjgjad7WKkKgsUAv0lO1tuZ8vVnYZtuiUHKqwM6Z6bxGtheJIhuWW5W6lKjo0FaHZf7ewPO_SFuKAjPKMh_sqDB2/s1600/monero.jpg",
@@ -7420,6 +7429,15 @@
     "source": "The Hacker News",
     "summary": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack The&nbsp;maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering campaign orchestrated by North Korean threat actors tra\u2026",
     "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack"
+  },
+  "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcLAcekric_be3bGt2lBu4NxiCcd3FZap2VzD0r9Z8zGegVjwixsexsGVGVmwvLwpaercKHyq9BFA7WV2a_DApLP7qpjg17hE8bu63FHsBoW1wFV0BJmATkuKIM1YU2bf8v9gRPM_tyw8RNINMSXiwzM5jbxjamO8HYm-VsVxgB0lbyRKr4kNuzzRY-JXq/s1600/breach.jpg",
+    "published": "2026-04-20T03:35:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems.\nThe incident stemmed from the compromise of Conte\u2026",
+    "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials"
   },
   "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html": {
     "categories": [],
@@ -9213,6 +9231,17 @@
     "summary": "Microsoft releases emergency OOB update to fix Outlook freezes Microsoft has released emergency, out-of-band updates on Saturday for Windows 10, Windows 11, and Windows Server to fix an issue that prevented Microsoft Outlook classic from opening when using PSTs stored in cloud st\u2026",
     "title": "Microsoft releases emergency OOB update to fix Outlook freezes"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-20T08:30:56+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft releases emergency updates to fix Windows Server issues Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]",
+    "title": "Microsoft releases emergency updates to fix Windows Server issues"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-kb5068781-the-first-windows-10-extended-security-update/": {
     "categories": [
       "Microsoft",
@@ -10623,6 +10652,18 @@
     "source": "BleepingComputer",
     "summary": "Apache OpenOffice disputes data breach claims by ransomware gang The Apache Software Foundation disputes claims that its OpenOffice project suffered an Akira ransomware attack, after the threat actors claimed to have stolen 23 GB of corporate documents. [...]",
     "title": "Apache OpenOffice disputes data breach claims by ransomware gang"
+  },
+  "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/": {
+    "categories": [
+      "Security",
+      "Apple"
+    ],
+    "image": "",
+    "published": "2026-04-19T16:03:01+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Apple account change alerts abused to send phishing emails Apple account change notifications are being abused to send fake iPhone purchase phishing scams within legitimate emails sent from Apple's servers, increasing legitimacy and potentially allowing them to bypass spam filter\u2026",
+    "title": "Apple account change alerts abused to send phishing emails"
   },
   "https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/": {
     "categories": [
@@ -17196,6 +17237,17 @@
     "summary": "Nissan says thousands of customers exposed in Red Hat breach Nissan Motor Co. Ltd. (Nissan) has confirmed that information of thousands of its customers has been compromised after the\u00a0data breach at Red Hat in September. [...]",
     "title": "Nissan says thousands of customers exposed in Red Hat breach"
   },
+  "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-19T14:17:43+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "NIST to stop rating non-priority flaws due to volume increase The National Institute of Standards and Technology will stop assigning severity scores to lower-priority vulnerabilities due to the growing workload from rising submission volumes. [...]",
+    "title": "NIST to stop rating non-priority flaws due to volume increase"
+  },
   "https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/": {
     "categories": [
       "Security",
@@ -19930,6 +19982,17 @@
     "source": "BleepingComputer",
     "summary": "Veeam warns of critical flaws exposing backup servers to RCE attacks Data protection company Veeam Software has patched multiple flaws in its Backup & Replication solution, including four critical remote code execution (RCE) vulnerabilities. [...]",
     "title": "Veeam warns of critical flaws exposing backup servers to RCE attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-19T17:32:45+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Vercel confirms breach as hackers claim to be selling stolen data Cloud development platform Vercel has disclosed a security incident after threat actors claimed to have breached its systems and are attempting to sell stolen data. [...]",
+    "title": "Vercel confirms breach as hackers claim to be selling stolen data"
   },
   "https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/": {
     "categories": [
