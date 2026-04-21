@@ -6719,6 +6719,15 @@
     "summary": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report) OX Security recently analyzed 216 million security findings across 250 organizations over a 90-day period. The&nbsp;primary takeaway: while raw alert volume grew by 52% year-over-year, prioritiz\u2026",
     "title": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)"
   },
+  "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbUnokdbuoiv9j36ekgZbT7VQVSUJBbB4xzoXJKD8iTTO76tSRyhXGdOk2aZKX-RU_WeGyRzHfAf0zwva_cSY7JL5a7Fhmrtzjd-p-kg6JK75nE-nQiSESaDAHlyTN8be1iUFxp9xCq94-1JwZ16pwYZJkKxIFwqa8vNmfxZl8OCXRWnT0GKWOpYVPgbMb/s1600/mcp.jpg",
+    "published": "2026-04-20T10:42:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain Cybersecurity researchers have discovered a critical \"by design\" weakness in the Model Context Protocol's (MCP) architecture that could pave the way for remote code execution and have a cascading effect o\u2026",
+    "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain"
+  },
   "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihvGfSh39Lhl5ird3iuR-T4gkaVejmXgtJ4VwbkLxAqG2hBZWkqQ8LR5k8wfuapt8oUdtifp8Le-uA6Xep8kGe3BRCx5qM1vY9DiMCnMgTFeFK8bc0wBSUR62TjZgPZ9dviGiM8-4-xW1N-ZGSDxIY0uJLFmEKDt1Z9rbttd7Lg_mma6Kt_2qk89vjq9Ed/s1600/claude-mythos.png",
@@ -6853,6 +6862,15 @@
     "source": "The Hacker News",
     "summary": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on\u00a0Monday added half a dozen security flaws to its Known Exploited Vulnerabilities\u00a0(KEV) catalog, citing evidence of active exploitation.\n\u2026",
     "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software"
+  },
+  "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzjZ6Llk3l-F3OFNRpNKvTziH1GObU6niwTMke4hEeI5bVXCcILs3kb25Dehkk1VCBf8NzEEPMLxElgbqLzAq0I1GuFAsDojdbVw-R6CGW6-qMXPaeiKXzQqn9JUL-VoPCVMx8h7FrOXIovnLwLv7T-O2wLdc4kIDA0bftbBDp9kwoDmqq6iYYlaZF6Qaz/s1600/cisa-kev.jpg",
+    "published": "2026-04-21T06:23:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including three flaws impacting Cisco Catalys\u2026",
+    "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines"
   },
   "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html": {
     "categories": [],
@@ -7322,6 +7340,15 @@
     "summary": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign The Russia-linked threat actor known&nbsp;as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to t\u2026",
     "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign"
   },
+  "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHmSpfy0MbO4mTB5B4TYrJzfBNO0HD2Z194J1U3YlwUQpQsTGompmNqR7_Rx4nbgPXHs3Mel7tBcZDXOVeYDXev1luKnr5VUzbmPornwB-bcciiA_Zvmam5q9lwPK5b9K-my0_a1VBjA-2Pjmb31yWEiyBAl_ipNM5gvJM19yxcT-Q468-8VL8KrfCYHen/s1600/sgll.jpg",
+    "published": "2026-04-20T17:14:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems.\nThe vulnerability, tracked as CVE-2026-5760, ca\u2026",
+    "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files"
+  },
   "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjthzbWdOOZKL2JKvluG78cobCs7bGxvHsfzSMHt4XgX1OO9h-r7W_dlYCCDrCoKo2dAXhh264NTGUrFKBpM8pv0WcePn5gUp1atSJ4-iC4_wr0jmo7nDZ46JYCs8P_5DLs5RcHi81-L7Wiw35cLHNWqCPe50LJ1a3tqfxwfB3S3ufQjYQfUrfRDwMo1BYE/s1600/showdoc.jpg",
@@ -7475,6 +7502,15 @@
     "summary": "\u26a1 Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More Monday&nbsp;is back, and the weekend\u2019s backlog of chaos is officially hitting the fan. We&nbsp;are tracking a critical zero-day that has been quietly living in your PDFs for months, plus some a\u2026",
     "title": "\u26a1 Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More"
   },
+  "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirkQSoHlNZvcdjrevc7r-D8mPj49i3XRimQjk-HtEVDYVX4vKEcW4JLiTblV5oI8MtUib2Q5iFerdt0x4_mGDvMJqsDd2wX6QNQxM25Wnrq-MRYADw1YuJly5yoSTIz_ToqlWsAKA2hLwru4Crx8aSguTETpDl4mjRfrCg0G8Cca5Rk0Am6FCwRCNPIqBy/s1600/recap-april.jpg",
+    "published": "2026-04-20T13:41:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More Monday\u2019s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Brows\u2026",
+    "title": "\u26a1 Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More"
+  },
   "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH1Qe0E88MYHp7xg6ApE5TypZK__02tmUnhvX60svA9npwirnTJbAb-Wl4rvLo3gq3kX1l9JUXDgXZJ0yPGNZlUo8n5DG1-pqONNFQIA2epqNdU7tNGZSJPJCthWLHtnDdO8jWQ5YzwY7TWUn_9SJP5pu0vHX2i3-L0zM5dZscSR4wAUPWAN1fm-3zgOGE/s1600/whatsapp-alert.jpg",
@@ -7483,6 +7519,15 @@
     "source": "The Hacker News",
     "summary": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action Meta-owned messaging platform WhatsApp said it alerted about 200 users who were tricked into installing a bogus version of its iOS app that was infected with&nbsp;spyware.\nAccording to repor\u2026",
     "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action"
+  },
+  "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihbqFqPAZp1E63toW329kiZdn6SI22yIZDqIGwAsO9Q2_Xi8g6qCWwj0dH2A4LupHGVzobsdiP9dcvAoSzXSKkte4q0yLnAN2V5wsntPma9PIiv4SzNQnU3wkFCztV-N8Dn36S_oP9tq3obvAVOUUPegjGguA1SUVYR2ptZigH9ET-5dTVZU966eoLh9A/s1600/tines.jpg",
+    "published": "2026-04-20T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Why Most AI Deployments Stall After the Demo The fastest way to fall in love with an AI tool is to watch the demo.\nEverything moves quickly. Prompts land cleanly. The system produces impressive outputs in seconds. It feels like the beginning of a new era for your team.\nBut most A\u2026",
+    "title": "Why Most AI Deployments Stall After the Demo"
   },
   "https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html": {
     "categories": [],
@@ -8896,6 +8941,17 @@
     "summary": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in \u200bMicrosoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in. [...]",
     "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-20T09:40:20+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft pulls service update causing Teams launch failures Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client. [...]",
+    "title": "Microsoft pulls service update causing Teams launch failures"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-explorer-white-flashes-in-dark-mode/": {
     "categories": [
       "Microsoft"
@@ -9646,6 +9702,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft tests File Explorer preloading for faster performance Microsoft is testing a new optional feature that preloads File Explorer in the background to improve launch times on Windows 11 systems. [...]",
     "title": "Microsoft tests File Explorer preloading for faster performance"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-20T12:04:02+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft tests Windows Explorer speed, performance improvements Microsoft is rolling out multiple File Explorer changes to Windows 11 users in the Insider program, including improvements to launch speed and performance. [...]",
+    "title": "Microsoft tests Windows Explorer speed, performance improvements"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-block-exchange-online-access-for-outdated-mobile-devices/": {
     "categories": [
@@ -11061,6 +11128,18 @@
     "summary": "BreachForums hacking forum database leaked, exposing 324,000 accounts The latest incarnation of the notorious BreachForums hacking forum has suffered a data breach, with its user database table leaked online. [...]",
     "title": "BreachForums hacking forum database leaked, exposing 324,000 accounts"
   },
+  "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-04-20T13:33:42+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "British Scattered Spider hacker pleads guilty to crypto theft charges A British man, believed to be the leader of the Scattered Spider cybercrime collective, has pleaded guilty in the United States to charges of\u00a0wire fraud and aggravated identity theft. [...]",
+    "title": "British Scattered Spider hacker pleads guilty to crypto theft charges"
+  },
   "https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/": {
     "categories": [
       "Security",
@@ -11191,6 +11270,20 @@
     "source": "BleepingComputer",
     "summary": "China-linked hackers exploited Sitecore zero-day for initial access An advanced threat actor tracked as UAT-8837 and believed to be linked to China has been focusing on critical infrastructure systems in North America, gaining access by exploiting both known and zero-day vulnerab\u2026",
     "title": "China-linked hackers exploited Sitecore zero-day for initial access"
+  },
+  "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/": {
+    "categories": [
+      "Security",
+      "Apple",
+      "CryptoCurrency",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-04-20T21:52:54+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "China's Apple App Store infiltrated by crypto-stealing wallet apps A set of 26 malicious apps on Apple App Store impersonate popular wallets, such as Metamask, Coinbase, Trust Wallet, and OneKey, to steal recovery or seed phrases and drain them of cryptocurrency assets. [...]",
+    "title": "China's Apple App Store infiltrated by crypto-stealing wallet apps"
   },
   "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breach-singapores-four-largest-telcos/": {
     "categories": [
@@ -15550,6 +15643,17 @@
     "summary": "Kali Linux 2025.4 released with 3 new tools, desktop updates Kali Linux has released version 2025.4, its final update of the year, introducing three new hacking tools, desktop environment improvements, the preview of Wifipumpkin3 in NetHunter, and enhanced Wayland support. [...]",
     "title": "Kali Linux 2025.4 released with 3 new tools, desktop updates"
   },
+  "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-20T22:23:52+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "KelpDAO suffers $290 million heist tied to Lazarus hackers State-sponsored North Korean hackers are likely behind the $290 million crypto-heist that impacted the KelpDAO DeFi project on Saturday. [...]",
+    "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers"
+  },
   "https://www.bleepingcomputer.com/news/security/kerberoasting-in-2025-how-to-protect-your-service-accounts/": {
     "categories": [
       "Security"
@@ -16297,6 +16401,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft Store Outlook add-in hijacked to steal 4,000 Microsoft accounts The AgreeTo add-in for Outlook has been hijacked and turned into a phishing kit that stole more than 4,000 Microsoft account credentials. [...]",
     "title": "Microsoft Store Outlook add-in hijacked to steal 4,000 Microsoft accounts"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-20T15:11:24+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks. [...]",
+    "title": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks"
   },
   "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/": {
     "categories": [
@@ -18617,6 +18732,17 @@
     "summary": "Sedgwick confirms breach at government contractor subsidiary Claims administration and risk management company Sedgwick has confirmed that its federal contractor subsidiary, Sedgwick Government Solutions, was the victim of a security breach. [...]",
     "title": "Sedgwick confirms breach at government contractor subsidiary"
   },
+  "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-20T18:22:31+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Seiko USA website defaced as hacker claims customer data theft The Seiko USA website was defaced over the weekend, displaying a message from attackers claiming they stole its Shopify customer database and threatening to leak it unless a ransom is paid. [...]",
+    "title": "Seiko USA website defaced as hacker claims customer data theft"
+  },
   "https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/": {
     "categories": [
       "Security"
@@ -19195,6 +19321,17 @@
     "summary": "Texas sues TV makers for taking screenshots of what people watch The Texas Attorney General sued five major television manufacturers, accusing them of illegally collecting their users' data by secretly recording what they watch using Automated Content Recognition (ACR) technology\u2026",
     "title": "Texas sues TV makers for taking screenshots of what people watch"
   },
+  "https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-20T14:01:11+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "The backup myth that is putting businesses at risk Backups protect data, but don't keep your business running during downtime. Datto shows why BCDR is essential to keep operations running during ransomware and outages. [...]",
+    "title": "The backup myth that is putting businesses at risk"
+  },
   "https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/": {
     "categories": [
       "Security"
@@ -19226,6 +19363,17 @@
     "source": "BleepingComputer",
     "summary": "The Double-Edged Sword of Non-Human Identities Leaked non-human identities like API keys and tokens are becoming a major breach driver in cloud environments. Flare shows how exposed machine credentials quietly grant attackers long-term access to enterprise systems. [...]",
     "title": "The Double-Edged Sword of Non-Human Identities"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-20T20:02:37+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "The Gentlemen ransomware now uses SystemBC for bot-powered attacks A SystemBC proxy malware botnet of more than 1,570 hosts, believed to be corporate victims, has been discovered following an investigation into a\u00a0Gentlemen ransomware attack carried out by a gang affiliate. [...]",
+    "title": "The Gentlemen ransomware now uses SystemBC for bot-powered attacks"
   },
   "https://www.bleepingcomputer.com/news/security/the-hidden-risk-in-virtualization-why-hypervisors-are-a-ransomware-magnet/": {
     "categories": [
@@ -21378,6 +21526,15 @@
     "source": "darkreading",
     "summary": "Trump Administration Rescinds Biden-Era SBOM Guidance Federal agencies will no longer be required to solicit software bills of material (SBOMs) from tech vendors, nor attestations that they comply with NIST's Secure Software Development Framework (SSDF). What that means long term\u2026",
     "title": "Trump Administration Rescinds Biden-Era SBOM Guidance"
+  },
+  "https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3396b116c4a5d80b/69e6744aa61d112dbb7caf20/allow_access_keyboard_alon_harel_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-20T21:01:31+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Vercel Employee's AI Tool Access Led to Data Breach Stolen OAuth tokens, which are at the root of these breaches, &quot;are the new attack surface, the new lateral movement,&quot; a researcher noted.",
+    "title": "Vercel Employee's AI Tool Access Led to Data Breach"
   },
   "https://www.darkreading.com/application-security/vibe-coding-innovation-demands-vigilance": {
     "categories": [],
@@ -23915,6 +24072,15 @@
     "summary": "Vibe-Coded 'Sicarii' Ransomware Can't Be Decrypted A new ransomware strain that entered the scene last year has poorly designed code and an odd &quot;Hebrew&quot; identity that might be a false flag.",
     "title": "Vibe-Coded 'Sicarii' Ransomware Can't Be Decrypted"
   },
+  "https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd2f4132144e85dfb/69e291d49ba34f4b11a4782a/WhatsApp-stLegat-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-20T14:33:35+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "WhatsApp Leaks User Metadata to Attackers Strangers can infer limited info about you without knowing or messaging you, which could theoretically aid certain kinds of malicious activity.",
+    "title": "WhatsApp Leaks User Metadata to Attackers"
+  },
   "https://www.darkreading.com/events/black-hat-usa": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt89877e9bb04a9e15/69c6ee0e1eae740fa6bfca88/623600_BHUS26_Web_Ads_One_Liner_300x250.png?width=1280&auto=webp&quality=80&disable=upscale",
@@ -24062,6 +24228,15 @@
     "source": "darkreading",
     "summary": "'Richter Scale' Model Measures Magnitude of OT Cyber Incidents ICS/OT experts have devised a scoring system for rating the severity and effects of cybersecurity events in operational technology environments.",
     "title": "'Richter Scale' Model Measures Magnitude of OT Cyber Incidents"
+  },
+  "https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt36307cc72d4778e2/69dd36cd61216874471aaef1/Industrial_site-Tony_Watson-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-20T21:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Serial-to-IP Devices Hide Thousands of Old and New Bugs The OT devices that translate machine talk into Internet-speak are riddled with vulnerabilities and more frequently targeted for attacks, researchers say.",
+    "title": "Serial-to-IP Devices Hide Thousands of Old and New Bugs"
   },
   "https://www.darkreading.com/ics-ot-security/tire-pressure-sensors-silent-tracking": {
     "categories": [],
