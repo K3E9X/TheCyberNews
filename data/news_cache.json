@@ -6656,6 +6656,15 @@
     "summary": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blamed Western intelligence agencies for a $13.74 million\u2026",
     "title": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims"
   },
+  "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguDEDMst3MIdrJaNrbo9p_7mjaF2nB_5UuQZR2JhNRNPw8h619BhPWYUZ0yYD-ix_jIluuAwjip4ho4huSuYqr4lXcperdn-4_tFKZ6yivKeOuDJd9O-1EDiwIvD1sPwRGL6keOFr5muqqXp2GWdOlpmi9_uQyREP_iiEz0ZoX-W4ACBSxYarYPb4CJTIY/s1600/hardware.jpg",
+    "published": "2026-04-21T15:46:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters Cybersecurity researchers have identified 22 new vulnerabilities in popular models of serial-to-IP converters from Lantronix and Silex that could be exploited to hijack susceptible devices and t\u2026",
+    "title": "22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters"
+  },
   "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2eFUAGb2m5vs6mOwArunSX0lzBpR8Ag24yQhUtaYxrcHx2V46YcocY9oei-HH89QSB-HTxXta3bLH70_n6zMCRD949ttVsKlt4WnzSZ0rl1v4Suj3A7xftqjQSEXDq_cfLCIcMuENqoFeD9zBW0qZXr1owIEQEqzSNkaKfHFsGF35-lseSZbc0MGLRRWu/s1600/drift-hack.jpg",
@@ -6682,6 +6691,15 @@
     "source": "The Hacker News",
     "summary": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different payloads to facilitate Redis and PostgreSQL exp\u2026",
     "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants"
+  },
+  "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZct3ObvKWOQuvm1iZXNZ2nc7pHglILHvCbnLW1HDwUNdkgjuBap_OEBwgsXuxXBkIqmlYLgcccvPt28Knlm3jG5B3MOsXk40-bBUlhVLU3BqjWwSlxuSbiyfwHj-S15tikmwmgH37VhkaM5lMC2sL7bod_uOo0VxatuOekhYxdmkci38SzbsnZHkN-ho/s1600/boosters.jpg",
+    "published": "2026-04-21T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of potential data exfiltration, service disruption, regulatory exposu\u2026",
+    "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time"
   },
   "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html": {
     "categories": [],
@@ -6908,6 +6926,15 @@
     "summary": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error.\n\"No sensitive customer data or\u2026",
     "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms"
   },
+  "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ3NMjiDO5jGFykZtDgbq7FvB0nT8CMXMucn5cumu_V80blg8Wt6cklpQnCeG-EuX6oGvqmQKRJxFlmynTBatMk0zgDDsdurGDcs5rXScEF_jVNV10bEqJSJcj5YsAtLS_Pag8LRPrUZr4w9M-JJldxaYYMxtf3zrGia8QjUq-PtjLk_g4-qkkINXx4uGY/s1600/sandbox.jpg",
+    "published": "2026-04-22T07:16:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape A critical security vulnerability has been disclosed in a Python-based sandbox called Terrarium that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2026-5752, is rated 9.3 \u2026",
+    "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape"
+  },
   "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCPq2en6ihCNpYdSr5mWkN43O4Rl3tXYz77I2achAfYSy7Emoaj8fNqmFHLOydg6Ai6DwDKBEKD91ywcO9eT2t-rrFxEiThe79Rsa4dap_UcNZSEdWl9NRGeaMqP_vsbWnKf2mMNHQ86cabK4wlspLPWRHMJ7Gj5guX6ynx57RhsDLbJeSDAdPR_BjGFNU/s1600/downloads.jpg",
@@ -7033,6 +7060,15 @@
     "source": "The Hacker News",
     "summary": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul Google this week announced a new set of Play policy updates to strengthen user privacy and protect businesses against fraud, even as it revealed it blocked or removed over 8.3 billion ads global\u2026",
     "title": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul"
+  },
+  "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsCaDWCQOL4W8DvgT0eI2Q12HA0ThHQO8TZ-X02vqHH4lZfIeUUZ9yeQAHESn6Oe5AoqLEpTuRL9Gco-SPynh5K0fW8D0KFLEvnHnd48MHKL5OUFnw4lOPsAqBg2N8zlCEnoJMM7ZrtxyVuwhytN3SebEbluda4uN12VG2OVi6fV4SItz_57pdCGe7U0ai/s1600/ide.jpg",
+    "published": "2026-04-21T10:22:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution Cybersecurity researchers have discovered a vulnerability in Google's agentic integrated development environment (IDE), Antigravity, that could be exploited to achieve code execution.\nThe flaw, since pat\u2026",
+    "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution"
   },
   "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html": {
     "categories": [],
@@ -7169,6 +7205,15 @@
     "summary": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps Your attack surface no&nbsp;longer lives&nbsp;on one operating system, and neither do the campaigns targeting&nbsp;it. In enterprise environments, attackers move across Windows endpoints, executive MacBooks, Linux i\u2026",
     "title": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps"
   },
+  "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQHPkb7rlS_ueovJaV3s5KxgSQFfHhuZhvW8R8L9wG8j-trZvnmusj4EGvkOPah_XSqgJDLIiRWozv7RtA3o_1VaHYWnaH77PH2kOg2FYkc60uIc6WTf6frjbUp3IwhtB038_wojAl7G5OxcC4aSy5kLF48ssz_3xqLCD7bDbg6_i-RdY8tLvjxlj4Xc0o/s1600/indian-banks.jpg",
+    "published": "2026-04-22T07:58:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Mustang Panda\u2019s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector.\n\"The backdoor communicates with a dy\u2026",
+    "title": "Mustang Panda\u2019s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles"
+  },
   "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiJCapdeJ9Q-yAbFZ7EG69FNg_jPvK7YptY2C7TN6txlcPM_bvVrcbqN1bi-vy2IFi8Ai485K-DZblHR8XwZxdch90kWSv48wjvZF7oj0wy0IMd-B7VPuSiUbSFSJKAlErnSUZWjyVOf-Fyy-LqlxLbGLA7rxIkxlgc6_WRyCNH3XWDLb5GtnmjvxFjUrt/s1600/pack.jpg",
@@ -7241,6 +7286,15 @@
     "summary": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumented botnet&nbsp;dubbed PowMix since at least Decembe\u2026",
     "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic"
   },
+  "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcErEs-NVQwFX9tnOmYqQrfDjLm6WUB5jr8ltsA6bMOlVwmDwzBb5RbYAidS2jxdCPQ9RJtsgl453b7KbY8z_6tOjs0VIA7vF8LjM2OJqkZW8c1IM6TYwToxxp4dk8O0KiozATn5L4U40n2HK-Nya7tcimt1exRy9ZtYnri0XyMuM55W5AbC_8EAE0oDQC/s1600/android-nfc.jpg",
+    "published": "2026-04-21T12:45:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs Cybersecurity researchers have discovered a new iteration of an Android malware family called&nbsp;NGate&nbsp;that has been found to abuse a legitimate application called&nbsp;HandyPay instead of NFCGat\u2026",
+    "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs"
+  },
   "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrjR1nq2z66LZ-KZoSSgEdNs30l3Wv4kqz4R4acFd3CW2tqG0EDILlATrje1-tvZhdjnU9rSRO4cQNmlQGelsfBGGiMl_m9kxotVRlBDFyMISCJIFUPN78Aam2GAYPL0Nljz4aU5XrrWz2QuxBz-cZvY7vr2zSQJNdgrz3IWLldTPG_n_9tJx22A3TBQzZ/s1600/nist-cve.jpg",
@@ -7249,6 +7303,15 @@
     "source": "The Hacker News",
     "summary": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVEs) listed in its National Vulnerability Database (NVD), s\u2026",
     "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions"
+  },
+  "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin_RithPNlLYdgxg906-M63Q0-Kv83Kl-WNjK8x5OjKiSgcDMaljvqb7XkLPoEeUDEMRdi4Cqh9DH-pv9QP1ViNjUi3q3qn5r_Lig04a3zO9TgkgiQqSLC50mE6q-6hr94bo4UnXnP5QksLGeAgSOemxUOZaXIw9Z2UHpZuinm7pqF9N0xtJNVovfojx0/s1600/door.jpg",
+    "published": "2026-04-21T11:30:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks The cybersecurity industry has spent the last several years chasing sophisticated threats like zero-days, supply chain compromises, and AI-generated exploits. However, the most reliable entry \u2026",
+    "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks"
   },
   "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html": {
     "categories": [],
@@ -7313,6 +7376,15 @@
     "summary": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools Threat actors associated&nbsp;with Qilin&nbsp;and Warlock ransomware operations&nbsp;have been&nbsp;observed using the bring your own vulnerable driver&nbsp;(BYOVD) technique to silence security tools r\u2026",
     "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools"
   },
+  "https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhau3OWhO8rBZT2xz8xcZ90Y8tYMmkZCI81G0GGeUkEHBQi4HzltJJJkzdQr6YS-4R8kZKSAf6Dc9YT6ifgHjmdQSpBvRgJbkEvzIW1dy57LQHQBJkc0YXS3zdYy6TTH8rklsIUGX32R0nk3hBrcYt804nqjBOND_ighh-SHyHHHBt-sJhfOszExZfVmwW8/s1600/ransomware-hacker.jpg",
+    "published": "2026-04-21T14:31:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023 A third individual who was employed as a ransomware negotiator has pleaded guilty to conducting ransomware attacks against U.S. companies in 2023.\nAngelo Martino, 41, of Land O'Lakes, Florida, teamed up with t\u2026",
+    "title": "Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023"
+  },
   "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihoHF4qP6hw3msdH8s3stwjZR1a2Aqp6kSB97wFpmQefaNtVM8lc-Eu0Gv3jeMK2qa9aLGjSSZp3cJGNaE3eft6h17HnKqPGlhLbfkVzLqfv3VW-SEDLToW6z8SGiDeSE8jXdHyNqxqG_a4B34PjM3rbiOddEvQlgOFfbow8n6V_qGB-70uEj9fRrNLVOt/s1600/water.jpg",
@@ -7366,6 +7438,15 @@
     "source": "The Hacker News",
     "summary": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP) The Fragmented State of Modern Enterprise&nbsp;Identity\nEnterprise IAM is approaching a breaking point. As&nbsp;organizations scale, identity becomes increasingly fragmented across thou\u2026",
     "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)"
+  },
+  "https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilP_Mn9bBsagBDSKxEcqQsy6typf-qNaLt59kGWS1jLvc22Z9AC8lY93_TZaBAUN3bx7PHgaGX8xfPIIipQgGZd5DViTIHxpnAS2mJj4X9EfkFWwlwPznOEgqu38CmzzUa4y4jUh6x0RBMkCG7AwRwLU6PhLNbbnOO1bq5sJxGVIy0GZije7IuCYZNuS4C/s1600/botnet.jpg",
+    "published": "2026-04-21T18:18:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation Threat actors associated with The Gentlemen ransomware\u2011as\u2011a\u2011service (RaaS) operation have been observed attempting to deploy a known proxy malware called SystemBC.\nAccording to new research published \u2026",
+    "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation"
   },
   "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html": {
     "categories": [],
@@ -9287,6 +9368,18 @@
     "summary": "Microsoft releases emergency OOB update to fix Outlook freezes Microsoft has released emergency, out-of-band updates on Saturday for Windows 10, Windows 11, and Windows Server to fix an issue that prevented Microsoft Outlook classic from opening when using PSTs stored in cloud st\u2026",
     "title": "Microsoft releases emergency OOB update to fix Outlook freezes"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-22T08:08:16+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft releases emergency patches for critical ASP.NET flaw Microsoft has released out-of-band (OOB) security updates to patch a critical ASP.NET Core privilege escalation vulnerability. [...]",
+    "title": "Microsoft releases emergency patches for critical ASP.NET flaw"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/": {
     "categories": [
       "Microsoft"
@@ -10443,6 +10536,17 @@
     "summary": "ACF plugin bug gives hackers admin on 50,000 WordPress sites A critical-severity vulnerability in the Advanced Custom Fields: Extended (ACF Extended) plugin for WordPress can be exploited remotely by unauthenticated attackers to obtain administrative permissions. [...]",
     "title": "ACF plugin bug gives hackers admin on 50,000 WordPress sites"
   },
+  "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-21T11:17:51+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers Nonprofit security organization Shadowserver found that over 6,400 Apache ActiveMQ servers exposed online are vulnerable to ongoing attacks exploiting a high-severity code injection vulnerability. [...]",
+    "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers"
+  },
   "https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/": {
     "categories": [
       "Security"
@@ -11418,6 +11522,17 @@
     "source": "BleepingComputer",
     "summary": "CISA flags critical Microsoft SCCM flaw as exploited in attacks CISA ordered federal agencies on Thursday to secure their systems against a critical Microsoft Configuration Manager vulnerability patched in October 2024 and now exploited in attacks. [...]",
     "title": "CISA flags critical Microsoft SCCM flaw as exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-21T12:30:50+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA flags new SD-WAN flaw as actively exploited in attacks \u200bCISA has given U.S. government agencies four days to secure their systems against another\u00a0Catalyst SD-WAN Manager vulnerability it flagged as actively\u00a0exploited in attacks. [...]",
+    "title": "CISA flags new SD-WAN flaw as actively exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/": {
     "categories": [
@@ -13861,6 +13976,17 @@
     "summary": "Former Coinbase support agent arrested for helping hackers A former Coinbase customer service agent was arrested in India for helping hackers earlier this year\u00a0steal sensitive customer information from a company database. [...]",
     "title": "Former Coinbase support agent arrested for helping hackers"
   },
+  "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-21T10:12:21+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Former ransomware negotiator pleads guilty to BlackCat attacks 41-year-old Angelo Martino, a former employee of cybersecurity incident response company DigitalMint, has pleaded guilty to targeting U.S. companies in BlackCat (ALPHV) ransomware attacks in 2023. [...]",
+    "title": "Former ransomware negotiator pleads guilty to BlackCat attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/": {
     "categories": [
       "Security"
@@ -14045,6 +14171,18 @@
     "source": "BleepingComputer",
     "summary": "French Football Federation discloses data breach after cyberattack The French Football Federation (FFF) disclosed a data breach on Friday after attackers used a compromised account to gain access to administrative management software used by football clubs. [...]",
     "title": "French Football Federation discloses data breach after cyberattack"
+  },
+  "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/": {
+    "categories": [
+      "Security",
+      "Government"
+    ],
+    "image": "",
+    "published": "2026-04-21T21:46:04+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "French govt agency confirms breach as hacker offers to sell data France Titres, the government agency in France\u00a0for issuing and managince administrative documents\u00a0has disclosed a data breach after a threat actor claimed the attack and stealing citizen data. [...]",
+    "title": "French govt agency confirms breach as hacker offers to sell data"
   },
   "https://www.bleepingcomputer.com/news/security/from-cipher-to-fear-the-psychology-behind-modern-ransomware-extortion/": {
     "categories": [
@@ -16973,6 +17111,17 @@
     "summary": "New Linux botnet SSHStalker uses old-school IRC for C2 comms A newly documented Linux botnet named SSHStalker is using the IRC (Internet Relay Chat) communication protocol for command-and-control (C2) operations. [...]",
     "title": "New Linux botnet SSHStalker uses old-school IRC for C2 comms"
   },
+  "https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-21T18:38:40+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New Lotus data wiper used against Venezuelan energy, utility firms A previously undocumented data-wiping malware dubbed Lotus was used last year in targeted attacks against energy and utilities organizations in Venezuela. [...]",
+    "title": "New Lotus data wiper used against Venezuelan energy, utility firms"
+  },
   "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/": {
     "categories": [
       "Security"
@@ -17295,6 +17444,18 @@
     "source": "BleepingComputer",
     "summary": "Newsletter platform Substack notifies users of data breach Newsletter platform Substack is notifying users of a data breach after attackers stole their email addresses and phone numbers in October 2025. [...]",
     "title": "Newsletter platform Substack notifies users of data breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/": {
+    "categories": [
+      "Security",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-04-21T09:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "NGate Android malware uses HandyPay NFC app to steal card data A new variant of the NGate malware that steals NFC payment data is targeting Android users by hiding in a trojanized version of HandyPay, a legitimate mobile payments processing tool. [...]",
+    "title": "NGate Android malware uses HandyPay NFC app to steal card data"
   },
   "https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/": {
     "categories": [
@@ -17659,6 +17820,18 @@
     "source": "BleepingComputer",
     "summary": "Oracle pushes emergency fix for critical Identity Manager RCE flaw Oracle has released an out-of-band security update to fix a critical unauthenticated remote code execution vulnerability in Identity Manager and Web Services Manager tracked as CVE-2026-21992. [...]",
     "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw"
+  },
+  "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-22T06:53:02+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks Over 1,300 Microsoft SharePoint servers exposed online remain unpatched against a spoofing vulnerability that was exploited as a zero-day and is still being abused in ongoing attacks. [...]",
+    "title": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks"
   },
   "https://www.bleepingcomputer.com/news/security/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys/": {
     "categories": [
@@ -19131,6 +19304,17 @@
     "summary": "Stolen Rockstar Games analytics data leaked by extortion gang Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site. [...]",
     "title": "Stolen Rockstar Games analytics data leaked by extortion gang"
   },
+  "https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-21T14:02:12+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction Fraud prevention and user experience don't have to be a tradeoff. IPQS shows how combining identity, device, and network signals stops fraud without adding friction. [...]",
+    "title": "Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction"
+  },
   "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/": {
     "categories": [
       "Security"
@@ -19732,6 +19916,17 @@
     "source": "BleepingComputer",
     "summary": "UK govt. warns about ongoing Russian hacktivist group attacks The U.K. government is warning of continued malicious activity from Russian-aligned hacktivist groups targeting critical infrastructure and local government organizations in the country in disruptive denial-of-service \u2026",
     "title": "UK govt. warns about ongoing Russian hacktivist group attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-21T13:49:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "UK probes Telegram, teen chat sites over CSAM sharing concerns Ofcom, the United Kingdom's independent communications regulator, has launched an investigation into Telegram based on evidence suggesting it's being used to share child sexual abuse material (CSAM). [...]",
+    "title": "UK probes Telegram, teen chat sites over CSAM sharing concerns"
   },
   "https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/": {
     "categories": [
@@ -22610,6 +22805,15 @@
     "summary": "With Friends Like These: China Spies on Russian IT Orgs State-linked hackers stayed under the radar by using a variety of commercial cloud services for command-and-control communications.",
     "title": "With Friends Like These: China Spies on Russian IT Orgs"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-indian-banks-korean-policy": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbcf944fb9a38a8ce/69e680b5c3e9c2d5dd27d590/China_India_Korea-Wirestock_Inc.-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-21T12:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Chinese APT Targets Indian Banks, Korean Policy Circles China is spying on India's financial sector, for some reason, and it's not putting much effort into it, judging by some stale TTPs.",
+    "title": "Chinese APT Targets Indian Banks, Korean Policy Circles"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta35e927d03abf966/697bc88ec469bc6d5a03a84f/chinaapts_DragosCondrea_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -22730,6 +22934,15 @@
     "source": "darkreading",
     "summary": "Europe Sees Increase in Ransomware, Extortion Attacks European organizations face an escalating cyber threat landscape as attackers leverage geopolitical tensions and AI-enhanced social engineering for attacks.",
     "title": "Europe Sees Increase in Ransomware, Extortion Attacks"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4525b1bf0b3427d5/69e7b7f7df45795969187014/defender_aileenchik_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-21T19:12:40+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Exploits Turn Windows Defender into Attacker Tool Three proof-of-concept exploits are being used in active attacks against Microsoft's built-in security platform; two are unpatched.",
+    "title": "Exploits Turn Windows Defender into Attacker Tool"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/fraud-mobile-first-latin-america": {
     "categories": [],
@@ -22992,6 +23205,15 @@
     "source": "darkreading",
     "summary": "Storm-0249 Abuses EDR Processes in Stealthy Attacks The initial access broker has been weaponizing endpoint detection and response (EDR) platforms and Windows utilities in recent high-precision attacks.",
     "title": "Storm-0249 Abuses EDR Processes in Stealthy Attacks"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/surge-bomgar-rmm-exploitation-demonstrates-supply-chain-risk": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt45973c33b8514dc7/69e6020c564106783a09ab08/sharks_swimming_around_computer_artpartner-images.com_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-21T15:29:17+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Surge in Bomgar RMM Exploitation Demonstrates Supply Chain Risk The critical remote code execution flaw (CVE-2026-1731) in the remote monitoring and management tool can be exploited to spread ransomware and compromise supply chains.",
+    "title": "Surge in Bomgar RMM Exploitation Demonstrates Supply Chain Risk"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/the-ransomware-holiday-bind-burnout-or-be-vulnerable": {
     "categories": [],
@@ -24342,6 +24564,15 @@
     "summary": "Your Next Breach Will Look Like Business as Usual These are the fundamental detection model shifts cybersecurity teams need to make to keep up with the rising number of credential-based attacks.",
     "title": "Your Next Breach Will Look Like Business as Usual"
   },
+  "https://www.darkreading.com/insider-threats/ransomware-negotiator-pleads-guilty-blackcat-scheme": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta6fb987cb0bb58ed/69e7dd3f2efc0b3c473984ab/insider_threat_Cagkan_Sayin_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-21T21:12:43+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Ransomware Negotiator Pleads Guilty to BlackCat Scheme A cautionary tale illustrates why the person negotiating should never be involved with any part of the ransom payment process, experts noted.",
+    "title": "Ransomware Negotiator Pleads Guilty to BlackCat Scheme"
+  },
   "https://www.darkreading.com/iot/connected-compromised-iot-devices-turn-threats": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt669ef184329c0497/6997501c6123c80008ffdffc/2D362CN.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -25599,6 +25830,15 @@
     "source": "darkreading",
     "summary": "Fortinet Woes Continue With Another WAF Zero-Day Flaw A second zero-day vulnerability in its web application firewall (WAF) line has come under attack, raising more questions about the vendor's disclosure practices.",
     "title": "Fortinet Woes Continue With Another WAF Zero-Day Flaw"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/google-fixes-critical-rce-flaw-ai-based-antigravity-tool": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt603689f53740e77f/69e758abcb63e88a3d9bab05/AI(1800)_NicoElNino_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-21T15:00:50+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Google Fixes Critical RCE Flaw in AI-Based Antigravity Tool The prompt injection vulnerability in the agentic AI product for filesystem operations was a sanitization issue that allowed for sandbox escape and arbitrary code execution.",
+    "title": "Google Fixes Critical RCE Flaw in AI-Based Antigravity Tool"
   },
   "https://www.darkreading.com/vulnerabilities-threats/kimsuky-httptroy-backdoor-south-korea-users": {
     "categories": [],
