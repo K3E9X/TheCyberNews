@@ -6773,6 +6773,15 @@
     "summary": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit Apple&nbsp;on&nbsp;Wednesday expanded the availability of iOS 18.7.7&nbsp;and iPadOS 18.7.7&nbsp;to a broader range of devices to protect users from the risk posed by a recently disclosed exploit kit known\u2026",
     "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit"
   },
+  "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8iikjICH9h-OY06K3jZBcEcwtWEuusLcRgwG1T5SvE39V2ZfqSe7Z7N3NFXzfxgYicI_yo8bvme9f4RYazoU-5dUmoTKJMgdmW38AuWgFEWKNBTxgqQJAgpwZUOS926Ue1qCGUW7ou2wStgU-vRsle4Ky8pcp2I2mT_Sm3eyUw__JZaO-BrBZ80z3Zhvx/s1600/apple-signal.jpg",
+    "published": "2026-04-23T08:06:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Apple Patches iOS Flaw That Stored Deleted Signal Notifications in FBI Forensic Case Apple has rolled out a software fix for iOS and iPadOS to address a Notification Services flaw that stored notifications marked for deletion on the device.\nThe vulnerability, tracked as CVE-2026-\u2026",
+    "title": "Apple Patches iOS Flaw That Stored Deleted Signal Notifications in FBI Forensic Case"
+  },
   "https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-FBwJYevQ8Ner9ypyp5-H1XIPfa5guhQXC-W4llTZuBI072vjCoxKh9PUexQBZGJIeuZXoBAKboz9xz5Gzd0p1SiT5UME0wd0lTTOS6EIh3nJ6vsAeMzGmT0P38ry2ySiLc-je0e0YAZAPDYmhw3jSfqbExcsQW5nL8syaClAcSfZziU-KPneawQFfo6p/s1600/patches.jpg",
@@ -7088,6 +7097,15 @@
     "summary": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials A&nbsp;large-scale credential harvesting operation&nbsp;has been&nbsp;observed exploiting the React2Shell vulnerability as an initial infection vector to steal database credentials, SSH private keys, Am\u2026",
     "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials"
   },
+  "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiptXaD_Im0Bee0znCFTtBnOBEGGfeP-lS85crmRfAsd5-sMOsHstg9jATLVQOSJF2tiQQ6qkQ2ZWK98foU4WIQU_tHja8H882jF-_oiA5UGh-iG0-ByeaGfBbjDGid-FkfsNfKQUljfBsgejRsHBiBeX1DXRbjf1ohM1uhZiKdsjpBaH_0lYylOWSA9itt/s1600/linux.jpg",
+    "published": "2026-04-22T15:28:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API The threat actor known as Harvester has been attributed to a new Linux version of its GoGra backdoor deployed as part of attacks likely targeting entities in South Asia.\n\"The malware uses the legitimat\u2026",
+    "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API"
+  },
   "https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaSzIRGweO7UJkqOLQTUDsqPy53XtIWCzyLklGJLfFxhneZiFpxg8zJRXukUqEsT4TbdFwUZbvTfwuexfGuiYjcDQ-iZDjqwZ2lDlCIhgopZWevBpdi4rr6GxgXpU6MmFnzdMpq_WGdA9PRfaNw_7eDAOugAV1tccfmREgbXveM1N15G2_L9lFxCq1Pv0/s1600/reflectiz.jpg",
@@ -7133,6 +7151,24 @@
     "summary": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025 Banks and financial institutions in Latin American countries like Brazil and Mexico have continued to be the target of a malware family called JanelaRAT.\nA modified version of BX RAT, JanelaRAT i\u2026",
     "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025"
   },
+  "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhANfDCr_4asg41Zj98h_tyRYig7XZGWHyCgPXHcVUvax_31CDUNrmrUp9rBFZK0u0Ai97i5pUlapu4ePRoBQAzvxt-KX3u80dTOjzyPPOOGzuCUmBZgaczzHisujoEXmfO08HtxqTbkAYBRI7JdBKffmATJHHM4uDe2RDsPyC11CkgenulBnQ7ZhyH8m-t/s1600/wiper-malware.jpg",
+    "published": "2026-04-22T10:55:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack Cybersecurity researchers have discovered a previously undocumented data wiper that has been used in attacks targeting Venezuela at the end of last year and the start of 2026.\nDubbed Lotus Wiper, the nove\u2026",
+    "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack"
+  },
+  "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimocxAyADkuC5qBKZquZhHtUaDSArR1yrr0eRW7dQ_qo4yJpHxj2VYF0qQBxxYfhwOv5g3PJ6raoVwGHrns8DiRFppR_OPFhc2NUoVxlMc0W3fwVyR8J0daGZ_a8IOSuqL1kXJmY6Sj1bvqJ7OwkZfJQB2Cha4WldeRwCcAopoTllcER15ca3eFwsibt6i/s1600/kics.jpg",
+    "published": "2026-04-22T17:55:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain Cybersecurity researchers have warned of malicious images pushed to the official \"checkmarx/kics\" Docker Hub repository.\nIn an alert published today, software supply chain security company Socket revea\u2026",
+    "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain"
+  },
   "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLOQ2mcgefzP_nej8R2XYY5eLnbFWle2koFcBGH6gyLGu10rBVnI3f3oHUmafvlbNJFc8N50ghG-0d_MP-oLzJcZpObdY8MU67qbCc36iWMApPM0Z6QfMrklCirpFSnyXZeMyHIdD4NyfixepzOZ72qiadKBmUvdkNuzPs-QbZnuSUMBaxA0sWYmTT63v-/s1600/marimo.jpg",
@@ -7168,6 +7204,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities Microsoft on Tuesday released updates to address a&nbsp;record 169 security&nbsp;flaws across its product portfolio, including one vulnerability that&nbsp;has been actively&nbsp;exploited in the&nb\u2026",
     "title": "Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities"
+  },
+  "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYMuDYXH3vQ6ycJCKfikptBR0jdQdnf-s36gDb0LYx3gvMwQOQLrt072KY5GZ0T2GRhyphenhyphenrfIg5qcCqjE0J_PtKQ1P409j_veWwKYoGsGssQcTotxI2-Dl8akDSyPif_j4LgFL3kWI6pvWKX5QBjsnIZIHdFzlAIRgxspuS4W0Ywe-Z63zmIyL7X39CG_3Ng/s1600/dotnet.jpg",
+    "published": "2026-04-22T09:29:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges.\nThe vulnerability, tracked as CVE-2026-40372, carrie\u2026",
+    "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug"
   },
   "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html": {
     "categories": [],
@@ -7412,6 +7457,15 @@
     "summary": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign The Russia-linked threat actor known&nbsp;as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to t\u2026",
     "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign"
   },
+  "https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIdq7inTckksldfLXx5JPM1spcmvj-W0C5jvCNGSfvUlWfhmFERkPhE9WNRTkTib4uZFsKKn2lBvxnhsZbEaOnGKI4pkSKu8kpyBn7VEsY3BbVN5ZklAoliWNZC-b526mJbr5xiYxKwRFXB8pnV2K-H5ww5mG3_1GrWjgvrsnqJ2EJu1gZJ15-D29njRY9/s1600/npm.jpg",
+    "published": "2026-04-22T17:33:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens Cybersecurity researchers have flagged a fresh set of packages that have been compromised by bad actors to deliver a self-propagating worm that spreads through stolen developer npm tokens.\nThe suppl\u2026",
+    "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens"
+  },
   "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHmSpfy0MbO4mTB5B4TYrJzfBNO0HD2Z194J1U3YlwUQpQsTGompmNqR7_Rx4nbgPXHs3Mel7tBcZDXOVeYDXev1luKnr5VUzbmPornwB-bcciiA_Zvmam5q9lwPK5b9K-my0_a1VBjA-2Pjmb31yWEiyBAl_ipNM5gvJM19yxcT-Q468-8VL8KrfCYHen/s1600/sgll.jpg",
@@ -7510,6 +7564,15 @@
     "source": "The Hacker News",
     "summary": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched Huntress is warning that threat actors are exploiting three recently disclosed security flaws in Microsoft Defender to gain elevated privileges in compromised systems.\nThe activity involves&nbsp;the exploi\u2026",
     "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched"
+  },
+  "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeaSL6v6uahfzJpHJb0ATKZ7cbexnfYIayT74IyU1S-7f3T-4gfnWowlobm5RH4ZYrsIdeNq_OOHGxp2LbU-aELaO9RbYa15MfKN38-ZQPGhrgH0PYCsVIucG95SSw-WCzzo9eUhITn4A3txsa8H59XhTcAaOObC0r-Es_7i0RH8aDo_qhZ45MfaOTVF2t/s1600/reco.png",
+    "published": "2026-04-22T10:41:36+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Toxic Combinations: When Cross-App Permissions Stack into Risk On January 31, 2026, researchers disclosed that Moltbook, a social network built for AI agents, had left its database wide open, exposing 35,000 email addresses and 1.5 million agent API tokens across 770,000 active a\u2026",
+    "title": "Toxic Combinations: When Cross-App Permissions Stack into Risk"
   },
   "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html": {
     "categories": [],
@@ -9054,6 +9117,17 @@
     "summary": "Microsoft fixes Windows Task Manager bug affecting performance Microsoft has resolved a known issue preventing users from quitting the Windows 11 Task Manager after installing the optional Windows 11 KB5067036 update. [...]",
     "title": "Microsoft fixes Windows Task Manager bug affecting performance"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-22T10:15:09+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft traces Universal Print issues to Graph API code change Microsoft says that an ongoing Universal Print sharing issue\u00a0that prevents users from creating some printer shares\u00a0is due to a Microsoft Graph API code change. [...]",
+    "title": "Microsoft traces Universal Print issues to Graph API code change"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/": {
     "categories": [
       "Microsoft"
@@ -9685,6 +9759,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft suspends dev accounts for high-profile open source projects Microsoft has suspended developer accounts used to maintain multiple high-profile open-source projects without proper notification and no way to quickly reinstate them, effectively blocking them from publishing\u2026",
     "title": "Microsoft suspends dev accounts for high-profile open source projects"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-22T12:24:38+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Teams to get efficiency mode on PCs with limited resources Microsoft is preparing to roll out a new Efficiency Mode for Microsoft Teams for systems with limited CPU and memory resources to improve app responsiveness. [...]",
+    "title": "Microsoft Teams to get efficiency mode on PCs with limited resources"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/": {
     "categories": [
@@ -10859,6 +10944,18 @@
     "source": "BleepingComputer",
     "summary": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks Apple has now made it possible for more iPhones still running iOS 18 to receive security updates that protect against the actively exploited DarkSword exploit kit. [...]",
     "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/": {
+    "categories": [
+      "Security",
+      "Apple"
+    ],
+    "image": "",
+    "published": "2026-04-22T20:58:58+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Apple fixes bug that let the FBI recover deleted Signal messages Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device. [...]",
+    "title": "Apple fixes bug that let the FBI recover deleted Signal messages"
   },
   "https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/": {
     "categories": [
@@ -15603,6 +15700,17 @@
     "summary": "Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops In cybercrime markets, trust isn't assumed, it's verified. Flare reveals how underground guides teach actors to evaluate carding shops based on data quality, reputation, and survivability. [...]",
     "title": "Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops"
   },
+  "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-22T14:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process Fraud operations now operate like call centers, complete with hiring, training, and performance tracking. Flare reveals how cybercriminals manage \"Caller-as-a-Service\" operations like a professional sales tea\u2026",
+    "title": "Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process"
+  },
   "https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/": {
     "categories": [
       "Security"
@@ -15856,6 +15964,17 @@
     "source": "BleepingComputer",
     "summary": "Kraken ransomware benchmarks systems for optimal encryption choice The Kraken ransomware, which targets Windows, Linux/VMware ESXi systems, is testing machines to check how fast it can encrypt data without overloading them. [...]",
     "title": "Kraken ransomware benchmarks systems for optimal encryption choice"
+  },
+  "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-22T18:52:29+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Kyber ransomware gang toys with post-quantum encryption on Windows A new Kyber ransomware operation is targeting Windows systems and VMware ESXi endpoints in recent attacks, with one variant implementing Kyber1024 post-quantum encryption. [...]",
+    "title": "Kyber ransomware gang toys with post-quantum encryption on Windows"
   },
   "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/": {
     "categories": [
@@ -17033,6 +17152,18 @@
     "summary": "New GoBruteforcer attack wave targets crypto, blockchain projects A new wave of GoBruteforcer botnet malware attacks is targeting\u00a0databases of cryptocurrency and blockchain projects\u00a0on exposed servers believed to be configured using AI-generated examples. [...]",
     "title": "New GoBruteforcer attack wave targets crypto, blockchain projects"
   },
+  "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/": {
+    "categories": [
+      "Security",
+      "Linux"
+    ],
+    "image": "",
+    "published": "2026-04-22T10:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New GoGra malware for Linux uses Microsoft Graph API for comms A Linux variant of the GoGra backdoor uses legitimate Microsoft infrastructure, relying on an Outlook inbox for stealthy payload delivery. [...]",
+    "title": "New GoGra malware for Linux uses Microsoft Graph API for comms"
+  },
   "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/": {
     "categories": [
       "Security",
@@ -17178,6 +17309,29 @@
     "source": "BleepingComputer",
     "summary": "New 'Massiv' Android banking malware poses as an IPTV app A newly identified Android banking trojan named Massiv has been under active distribution across south Europe, disguised as an IPTV app. [...]",
     "title": "New 'Massiv' Android banking malware poses as an IPTV app"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/": {
+    "categories": [
+      "Security",
+      "Hardware"
+    ],
+    "image": "",
+    "published": "2026-04-22T20:04:46+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New Mirai campaign exploits RCE flaw in EoL D-Link routers A new Mirai-based malware campaign is actively exploiting CVE-2025-29635, a high-severity command-injection vulnerability affecting D-Link DIR-823X routers, to enlist devices into the botnet. [...]",
+    "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-22T12:57:42+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New npm supply-chain attack self-spreads to steal auth tokens A new supply chain attack targeting the Node Package Manager (npm) ecosystem is stealing developer credentials and attempting to spread through packages published from compromised accounts. [...]",
+    "title": "New npm supply-chain attack self-spreads to steal auth tokens"
   },
   "https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/": {
     "categories": [
@@ -19188,6 +19342,17 @@
     "source": "BleepingComputer",
     "summary": "Spain arrests teen who stole 64 million personal data records The National Police in Spain have arrested a suspected 19-year-old hacker in Barcelona, for allegedly stealing and attempting to sell 64 million records obtained from breaches at nine companies. [...]",
     "title": "Spain arrests teen who stole 64 million personal data records"
+  },
+  "https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-22T15:06:34+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Spain dismantles major $4.7M manga piracy platform, arrests four The Spanish police have dismantled the largest Spanish-language manga piracy platform, operating since 2014, with millions of monthly users from around the globe. [...]",
+    "title": "Spain dismantles major $4.7M manga piracy platform, arrests four"
   },
   "https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/": {
     "categories": [
@@ -22910,6 +23075,15 @@
     "summary": "Digital Fraud at Industrial Scale: 2025 Wasn't Great Advanced fraud attacks surged 180% in 2025 as cyber scammers used generative AI to churn out flawless IDs, deepfakes, and autonomous bots at levels never before seen.",
     "title": "Digital Fraud at Industrial Scale: 2025 Wasn't Great"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/dprk-fake-job-scams-self-propagate-contagious-interview": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3fce2e5014a4ecec/694ad7a0ec1580176ac05f87/DPRK_Square_Ian_Cowe_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-22T14:48:05+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "DPRK Fake Job Scams Self-Propagate in 'Contagious Interview' A compromised developer's repository serves as a worm-like infection vector to spread remote access Trojans (RATs) and other malware.",
+    "title": "DPRK Fake Job Scams Self-Propagate in 'Contagious Interview'"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/dprks-flexibleferret-tightens-macos-grip": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt353fea2ebea1c9c5/6926193510892224896b7f77/ferret_Couperfield_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -25053,6 +25227,15 @@
     "source": "darkreading",
     "summary": "Flaw in Hacktivist Ransomware Lets Victims Decrypt Own Files A new version of VolkLocker, wielded by the pro-Russia RaaS group CyberVolk, has some key enhancements but one fatal flaw.",
     "title": "Flaw in Hacktivist Ransomware Lets Victims Decrypt Own Files"
+  },
+  "https://www.darkreading.com/threat-intelligence/gentlemen-rapidly-rise-ransomware": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9dfe08179358f99d/69e92147a425f3fc877c3bd4/Gentlemen_Sign_David_Morphew_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-22T20:51:55+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "'The Gentlemen' Rapidly Rises to Ransomware Prominence Not nearly as polite as the name suggests, the ransomware gang has impressed researchers with its speed in scaling up operations \u2014 and its sophistication.",
+    "title": "'The Gentlemen' Rapidly Rises to Ransomware Prominence"
   },
   "https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers": {
     "categories": [],
