@@ -6818,6 +6818,15 @@
     "summary": "Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region An&nbsp;apparent hack-for-hire campaign likely orchestrated by a threat actor with suspected ties to the Indian government targeted journalists, activists, and government officials across the Middle East \u2026",
     "title": "Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region"
   },
+  "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3GuK50sJwMRH4ad8bcUVRSBm1Wk0X5Gj1dSalza49wWxFY9g3_E32271zOeqx6vsqrWY2SWAVnnXTKiJZvKbhxynk018zLTIlZpBNhFA_QVi6kzn7vATBe419m222ZMUcTToaSn19L4DgElrI9luwUv2EJk0efy5TLDIqIUyGcOnTvVU2KKZw9AMsMipz/s1600/bitwarden.jpg",
+    "published": "2026-04-23T13:42:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from JFrog and Socket.\n\"The affected package version appears to be @bitwa\u2026",
+    "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign"
+  },
   "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsBHK8DX9E30isZVcn1e-a6p8bmNUAki0SmUh1Tkt9dP8L3D4_WcwT64CI5OVuh1brb1Z4pff7onp90K76ktHbs6-H6Kr0rq9Q2f03oW91e3mA5dN5XdLDyWNns5NcfXw7BKFzH28SbpaFo9l8TmMeZ7Mt6o1ePanKeFYGa8V1S9Rez_E30SIAx2yvfuNl/s1600/revil-ransomware.jpg",
@@ -6862,6 +6871,15 @@
     "source": "The Hacker News",
     "summary": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administration t\u2026",
     "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails"
+  },
+  "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcPZEHQ2ePgeeD1JO3nqkHDxu5XWd53XZ8GsPxgX5Gl3vY-isf7bdT1_8ZGbMGOwic5gJKYXp0G5rIiSacQvidnb3_voREgqsyanhwo0uQs1HLNXACrsV2tLmHXlxA4FizErdbwb5o35MEDIrZKMkDsAAzIVPt0g6pTMbsZSN7SIwTEozmgX7MO26XxapY/s1600/chinese-hacking.jpg",
+    "published": "2026-04-23T09:04:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors Mongolian governmental institutions have emerged as the target of a previously undocumented China-aligned advanced persistent threat (APT) group tracked as GopherWhisper.\n\"The group wields a wide\u2026",
+    "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors"
   },
   "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html": {
     "categories": [],
@@ -7151,6 +7169,15 @@
     "summary": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025 Banks and financial institutions in Latin American countries like Brazil and Mexico have continued to be the target of a malware family called JanelaRAT.\nA modified version of BX RAT, JanelaRAT i\u2026",
     "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025"
   },
+  "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjQrFbHBSUJCgc3WB8IsBaYhvbOnk7jwkU3MRHO7YVAFZBBwi7LE2OZzC_oddjsfbh_YwW7czfQ0FzCpHyztt-N8po5TkqZqsOhm_LpW4dxmzaDtGkud-vho2R409maf5r_QBAPjGUpfFShbENQ-qIpwaQ0eNmBgD7U-Pgu4uFgSzGRxt6O7kKLAg_PyVg/s1600/lmdeploy.png",
+    "published": "2026-04-24T07:24:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving LLMs, has come under active exploitation in the wild less than 13 hours after its public disclosure.\nThe \u2026",
+    "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure"
+  },
   "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhANfDCr_4asg41Zj98h_tyRYig7XZGWHyCgPXHcVUvax_31CDUNrmrUp9rBFZK0u0Ai97i5pUlapu4ePRoBQAzvxt-KX3u80dTOjzyPPOOGzuCUmBZgaczzHisujoEXmfO08HtxqTbkAYBRI7JdBKffmATJHHM4uDe2RDsPyC11CkgenulBnQ7ZhyH8m-t/s1600/wiper-malware.jpg",
@@ -7412,6 +7439,15 @@
     "summary": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign An active campaign has been observed targeting internet-exposed instances running ComfyUI, a popular stable diffusion platform, to enlist them into a cryptocurrency mining and proxy&nbsp;botnet.\n\"A purp\u2026",
     "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign"
   },
+  "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkzSPo6TkrJjcTvsuM1O71fiiZ7gnKw4PqqtKu_TeAaZNr5qAEfsfVvoZv64F7EFULRIv8SKePHZehY_0g9AqyqlnMdTPF-OLf1S9RwmB-edOgYKEg1Llw-6m87CQBglHxbK3oS0Brnwc9_x_oi56XGuxe1V9vN0KfoY9cUmU4mplEHeqQxO-5byx79YY/s1600/picus-main.jpg",
+    "published": "2026-04-23T11:30:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them? Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the company \u2026",
+    "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?"
+  },
   "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtrUKOrJ2Y_pSYHNcKDjbrBsZa2igYlNorTwmH31JNSjdA7VP84kXj23nmkk7DTqlrCUsfCjNo6xt-niyZeKeCR7VtBzMWW9eNUKzU0WGnpmw2yYjHBdboP2uF2UA8CCsdclyeDlRJcU7DEOD8OrFthlhQX-OkgePmyT__ZDQA4IXgRYbnNtp21MoleCTU/s1600/lock-ransomware.jpg",
@@ -7538,6 +7574,15 @@
     "summary": "ThreatsDay Bulletin: Defender 0-Day,\u00a0SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories You&nbsp;know that feeling when you open your feed on a Thursday morning and it's just... a&nbsp;lot? Yeah. This&nbsp;week delivered. We've got hackers getting creative in ways t\u2026",
     "title": "ThreatsDay Bulletin: Defender 0-Day,\u00a0SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories"
   },
+  "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCPlFIV8w3UXOQRe4cwOn8C-x6WYxvZnNAOHSUnzIg8TFswCnJNoyTFJTdzAbl_a6JNCzhbAk4yGQbhI_cjF-FATAAmJJJiLjo2cZgbMQpfhYnrH6MFv6TVEqC3sblGQPViYTDE0o3alqO3YsIzatrw7NwlTkv1g6NkiVegSWKuRuQcajEyNdAUEaTamQ-/s1600/threatsday.jpg",
+    "published": "2026-04-23T13:17:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes. Same bugs. Same mistakes.\nThe supply cha\u2026",
+    "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories"
+  },
   "https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6d4nK1zoWjzSmbdUmGPSycMwGmzcYM2XRrFH_ueobgO_8j7hwRdv8Ct856gg_k29HqAOw1-HGCtPpxyGDcuQIKY53ATLKb8bQCsJR5b_Jf8VqX1igItYBIe4iQazqSRe5fmFrFXS1fCcKdz6enbI6zYngIztjJ_UI262_ynNGJrd1EB_OUV1ZKYVl04-h/s1600/threatsdays-main.jpg",
@@ -7601,6 +7646,15 @@
     "summary": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack The&nbsp;maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering campaign orchestrated by North Korean threat actors tra\u2026",
     "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack"
   },
+  "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHoBLtF5qmS63UuZJdrs4DtwoJRc6V3OK_4vUjCp-mHUs99AlJkzxcQgZH-tD0dFneYJHfBEumdGw42jcqcYHYiqmNHBtHZVB7m83pxPakcbupcdcRmDzg2fedK4doHPUwOfGoqY2a44VUwgK1g8cyZSgpMmpzcbWuBrzxvdalA9bkt8_26WkdIfZy6qqa/s1600/helpdesk.jpg",
+    "published": "2026-04-23T18:16:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts.\n\"As wi\u2026",
+    "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware"
+  },
   "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcLAcekric_be3bGt2lBu4NxiCcd3FZap2VzD0r9Z8zGegVjwixsexsGVGVmwvLwpaercKHyq9BFA7WV2a_DApLP7qpjg17hE8bu63FHsBoW1wFV0BJmATkuKIM1YU2bf8v9gRPM_tyw8RNINMSXiwzM5jbxjamO8HYm-VsVxgB0lbyRKr4kNuzzRY-JXq/s1600/breach.jpg",
@@ -7609,6 +7663,15 @@
     "source": "The Hacker News",
     "summary": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems.\nThe incident stemmed from the compromise of Conte\u2026",
     "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials"
+  },
+  "https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzwM3USZlfhbZvEZWWJp8Qa4g-UzetuH1vkGUsyr3Ju00B8gC8z791k1Gv-WZ_pMB1VQtX1xLFj-ETJg33razqLHCpoOzMcbb65ucw8jruZ_ltVmaO4bky9WmoFSXfgquEn8HVbLx_I02h0BDOXPBn61_jdnRYKSleCpfUR8G4pkEpsn592IvR3D3qgt0X/s1600/vercel-breach.jpg",
+    "published": "2026-04-23T08:40:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Vercel Finds More Compromised Accounts in Context.ai-Linked Breach Vercel on Wednesday revealed that it has identified an additional set of customer accounts that were compromised as part of a security incident that enabled unauthorized access to its internal systems.\nThe company\u2026",
+    "title": "Vercel Finds More Compromised Accounts in Context.ai-Linked Breach"
   },
   "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html": {
     "categories": [],
@@ -7627,6 +7690,15 @@
     "source": "The Hacker News",
     "summary": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk In&nbsp;the rapid evolution of&nbsp;the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security&nbsp;leaders: Identity programs are maturing, yet the risk is actually increasin\u2026",
     "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk"
+  },
+  "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirgCFjBm7wVU1Nve1GwsT-mX4Fm9C2OB25FN0xsgQxB5H1y0XN-I4TrfFH3f47uWBie1-yNBz_K2tuml0FOagCnaxI5xQvqoVbpzOUU6bCoaBZLohQWPSWF4r2YSEXIQKt3FRdoSXjvAk8OTmysTV4uoPD87y-3Boh7UzcJoUFIQxkmB576KIDMtU0YHDx/s1600/miggo-webinar.jpg",
+    "published": "2026-04-23T12:03:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly.\nWell, that world is already here.\nThanks to AI, attackers are now launching automated, large-sca\u2026",
+    "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed"
   },
   "https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html": {
     "categories": [],
@@ -9703,6 +9775,17 @@
     "summary": "Microsoft shares workaround for Outlook freezes after Windows update Microsoft shared a temporary workaround for customers experiencing Outlook freezes after installing this month's Windows security updates. [...]",
     "title": "Microsoft shares workaround for Outlook freezes after Windows update"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-23T13:18:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Some Teams users can\u2019t join meetings after Edge update Microsoft confirmed that a recent Microsoft Edge browser update introduced a bug that prevents Windows users from joining Teams meetings. [...]",
+    "title": "Microsoft: Some Teams users can\u2019t join meetings after Edge update"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/": {
     "categories": [
       "Microsoft"
@@ -11294,6 +11377,17 @@
     "summary": "Bitwarden adds support for passkey login on Windows 11 Bitwarden announced support for logging into Windows 11 devices using passkeys stored in the manager's vault, enabling\u00a0phishing-resistant authentication. [...]",
     "title": "Bitwarden adds support for passkey login on Windows 11"
   },
+  "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-23T19:21:01+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Bitwarden CLI npm package compromised to steal developer credentials The Bitwarden CLI was briefly compromised after attackers uploaded a malicious @bitwarden/cli package to npm containing a credential-stealing payload capable of spreading to other projects. [...]",
+    "title": "Bitwarden CLI npm package compromised to steal developer credentials"
+  },
   "https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/": {
     "categories": [
       "Security",
@@ -11817,6 +11911,18 @@
     "source": "BleepingComputer",
     "summary": "CISA orders feds to patch max-severity Cisco flaw by Sunday The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity vulnerability, CVE-2026-20131, in Cisco Secure Firewall Management Center (FMC) by Sunday,\u00a0March 22. [.\u2026",
     "title": "CISA orders feds to patch max-severity Cisco flaw by Sunday"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-23T11:05:57+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA orders feds to patch BlueHammer flaw exploited as zero-day CISA has ordered U.S. federal agencies to patch a Microsoft Defender privilege escalation flaw (dubbed BlueHammer) that has been exploited in zero-day attacks. [...]",
+    "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/": {
     "categories": [
@@ -12419,6 +12525,17 @@
     "source": "BleepingComputer",
     "summary": "Coruna iOS exploit framework linked to Triangulation attacks The Coruna exploit kit is an evolution of the framework used in the Operation Triangulation espionage campaign, which in 2023 targeted iPhones via zero-click iMessage exploits. [...]",
     "title": "Coruna iOS exploit framework linked to Triangulation attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-23T14:16:21+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Cosmetics giant Rituals discloses data breach affecting customers Dutch cosmetics giant Rituals disclosed a data breach after attackers stole the personal information of an undisclosed number of customers from its \"My Rituals\" membership database. [...]",
+    "title": "Cosmetics giant Rituals discloses data breach affecting customers"
   },
   "https://www.bleepingcomputer.com/news/security/coupang-breach-affecting-337-million-users-raises-data-protection-questions/": {
     "categories": [
@@ -15094,6 +15211,17 @@
     "summary": "Hackers exploit critical telnetd auth bypass flaw to get root A coordinated campaign has been observed targeting a recently disclosed\u00a0critical-severity vulnerability that has been present in the\u00a0GNU InetUtils telnetd server for 11 years. [...]",
     "title": "Hackers exploit critical telnetd auth bypass flaw to get root"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-23T21:33:45+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit file upload bug in Breeze Cache WordPress plugin Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]",
+    "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-gladinet-centrestack-cryptographic-flaw-in-rce-attacks/": {
     "categories": [
       "Security"
@@ -16971,6 +17099,17 @@
     "summary": "New Booking.com data breach forces reservation PIN resets Booking.com has confirmed via a statement to BleepingComputer that it has detected unauthorized access to its systems that has exposed sensitive reservation and user data. [...]",
     "title": "New Booking.com data breach forces reservation PIN resets"
   },
+  "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-23T16:05:12+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New Checkmarx supply-chain breach affects KICS analysis tool Hackers have compromised Docker images, VSCode and Open VSX extensions for the Checkmarx KICS analysis tool to harvest sensitive data from developer environments. [...]",
+    "title": "New Checkmarx supply-chain breach affects KICS analysis tool"
+  },
   "https://www.bleepingcomputer.com/news/security/new-china-linked-hackers-breach-telcos-using-edge-device-exploits/": {
     "categories": [
       "Security"
@@ -17163,6 +17302,17 @@
     "source": "BleepingComputer",
     "summary": "New GoGra malware for Linux uses Microsoft Graph API for comms A Linux variant of the GoGra backdoor uses legitimate Microsoft infrastructure, relying on an Outlook inbox for stealthy payload delivery. [...]",
     "title": "New GoGra malware for Linux uses Microsoft Graph API for comms"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-23T12:06:18+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New GopherWhisper APT group abuses Outlook, Slack, Discord for comms A previously undocumented state-backed threat actor named GopherWhisper is using a Go-based custom toolkit and legitimate services like Microsoft 365 Outlook, Slack, and Discord in attacks against government ent\u2026",
+    "title": "New GopherWhisper APT group abuses Outlook, Slack, Discord for comms"
   },
   "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/": {
     "categories": [
@@ -18723,6 +18873,17 @@
     "summary": "Recently leaked Windows zero-days now exploited in attacks Threat actors are exploiting three recently disclosed Windows security vulnerabilities in attacks aimed at gaining SYSTEM or elevated administrator permissions. [...]",
     "title": "Recently leaked Windows zero-days now exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-23T14:10:20+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Regular Password Resets Aren\u2019t as Safe as You Think Password resets are one of the easiest ways for attackers to bypass security controls. Specops Software shows how helpdesk social engineering turns a seemingly legitimate reset request into full account compromise. [...]",
+    "title": "Regular Password Resets Aren\u2019t as Safe as You Think"
+  },
   "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/": {
     "categories": [
       "Security",
@@ -19918,6 +20079,17 @@
     "summary": "Trend Micro warns of critical Apex One code execution flaws Trend Micro has patched two critical Apex One vulnerabilities\u00a0that allow attackers to gain remote code execution (RCE) on vulnerable\u00a0Windows systems. [...]",
     "title": "Trend Micro warns of critical Apex One code execution flaws"
   },
+  "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-23T18:59:39+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Trigona ransomware attacks use custom exfiltration tool to steal data Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently. [...]",
+    "title": "Trigona ransomware attacks use custom exfiltration tool to steal data"
+  },
   "https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/": {
     "categories": [
       "Security"
@@ -20103,6 +20275,17 @@
     "source": "BleepingComputer",
     "summary": "UK sanctions Xinbi marketplace linked to Asian scam centers The United Kingdom's Foreign, Commonwealth and Development Office (FCDO) has sanctioned\u00a0Xinbi, a\u00a0Chinese-language cryptocurrency-based online marketplace that sells stolen data and\u00a0satellite internet equipment to scam ne\u2026",
     "title": "UK sanctions Xinbi marketplace linked to Asian scam centers"
+  },
+  "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-23T12:28:39+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "UK warns of Chinese hackers using proxy networks to evade detection The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices to evade det\u2026",
+    "title": "UK warns of Chinese hackers using proxy networks to evade detection"
   },
   "https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/": {
     "categories": [
@@ -22264,6 +22447,15 @@
     "summary": "Blame Game: Why Public Cyber Attribution Carries Risks Publicly accusing an entity of a cyberattack could have negative consequences that organizations should consider before taking the plunge.",
     "title": "Blame Game: Why Public Cyber Attribution Carries Risks"
   },
+  "https://www.darkreading.com/cyber-risk/china-hackers-industrializing-botnets": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt015e58f9d5bdd548/69ea8696be3c0328a992e3db/china_GagoDesign_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-23T20:52:24+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "China-Backed Hackers Are Industrializing Botnets China's state-backed groups are now using covert networks of compromised devices to execute attacks in a low-cost, low-risk, and deniable way.",
+    "title": "China-Backed Hackers Are Industrializing Botnets"
+  },
   "https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt70c2ac1b79b49742/697283ecb23c6f9776d4c9bb/Yutong-Cynthia_Lee-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -22866,6 +23058,15 @@
     "summary": "With Government's Role Uncertain, Businesses Unite to Combat Fraud Major industry leaders agree to share information and collaborate to boost defenses in the wake of distressing online scams.",
     "title": "With Government's Role Uncertain, Businesses Unite to Combat Fraud"
   },
+  "https://www.darkreading.com/cyber-risk/zealot-shows-ai-execute-full-cloud-attacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc3681a58fc1b6aef/69e936be6b27ed085e8c5508/aicyber_DigitalPen_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-23T10:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "'Zealot' Shows What AI's Capable of in Staged Cloud Attack The proof of concept revealed AI-based attacks unfold too fast for human defenders to respond, and that AI evinced more autonomous behavior than expected.",
+    "title": "'Zealot' Shows What AI's Capable of in Staged Cloud Attack"
+  },
   "https://www.darkreading.com/cyber-risk/zombie-projects-rise-again-undermine-security": {
     "categories": [],
     "published": "2025-10-30T23:36:51+00:00",
@@ -22969,6 +23170,15 @@
     "source": "darkreading",
     "summary": "With Friends Like These: China Spies on Russian IT Orgs State-linked hackers stayed under the radar by using a variety of commercial cloud services for command-and-control communications.",
     "title": "With Friends Like These: China Spies on Russian IT Orgs"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt17fc2cec7ba9f5b3/69e90f257417a71b03305c14/Beijing_Ulaanbaatar-Trevor_Mogg-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-24T01:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia The threat actor gave itself plenty of options to support command and control, tapping Microsoft Outlook, Slack, Discord, and file.io for online espionage.",
+    "title": "Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-indian-banks-korean-policy": {
     "categories": [],
@@ -24969,6 +25179,15 @@
     "summary": "600+ FortiGate Devices Hacked by AI-Armed Amateur A Russian-speaking hacker used generative AI to compromise the FortiGate firewalls, targeting credentials and backups for possible follow-on ransomware attacks.",
     "title": "600+ FortiGate Devices Hacked by AI-Armed Amateur"
   },
+  "https://www.darkreading.com/threat-intelligence/african-organizations-see-easing-of-cyberattacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt041f5fc64dbe4d6f/679016b514bc5279608b2db9/Ground_Picture-Africa-cyber-identity-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-23T07:01:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Africa Relinquishes Cyberattack Lead to Latin America \u2014 For Now The volume of cyberattacks targeting Africa declined in the past year, with weekly attacks down 22%, as attackers seemingly shifted their focus to other regions.",
+    "title": "Africa Relinquishes Cyberattack Lead to Latin America \u2014 For Now"
+  },
   "https://www.darkreading.com/threat-intelligence/akira-raas-nutanix-vms-critical-orgs": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt45b4f2f2f8b69096/6917943f43e227caace3ecf6/Akira_film-Pictorial_Press_Ltd-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -25691,6 +25910,15 @@
     "summary": "Dark Reading Confidential: This Threat Hunter Helped Cops Bust Up An African Cybercrime Syndicate Dark Reading Confidential Episode 15: Interpol relied on Will Thomas and team to help break up a sprawling cybercrime ring, leading to the arrest of 574 suspects, the recovery of mor\u2026",
     "title": "Dark Reading Confidential: This Threat Hunter Helped Cops Bust Up An African Cybercrime Syndicate"
   },
+  "https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf6b44cf37bbcf09b/69ea75dbb14e60a8c0fb9e7b/tropical1800_Marc_Anderson_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-24T01:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets The Chinese state-sponsored cyber threat is known for moving fast and trying odd attack vectors; now it's branching out in tools, victimology, and TTPs.",
+    "title": "Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets"
+  },
   "https://www.darkreading.com/threat-intelligence/tycoon-2fa-europol-vendors-bust-phishing-platform": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7163a88b2f20f5ed/69a9ee069650c6c1a0c029bf/phishing_MartynVickery_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -25812,6 +26040,15 @@
     "source": "darkreading",
     "summary": "Automotive Cybersecurity Threats Grow in Era of Connected, Autonomous Vehicles More than a decade since the 2015 Jeep hack, the cybersecurity of vehicles remains of the utmost importance.",
     "title": "Automotive Cybersecurity Threats Grow in Era of Connected, Autonomous Vehicles"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/bad-memories-haunt-ai-agents": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0abdbe2d875193af/69de52650bc850de57243ab8/digital-brain-Billion_Photos-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-23T14:30:31+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Bad Memories Still Haunt AI Agents Cisco found and fixed a significant vulnerability in the way Anthropic handles memories, but experts warn that mishandled memory files will continue threaten AI systems.",
+    "title": "Bad Memories Still Haunt AI Agents"
   },
   "https://www.darkreading.com/vulnerabilities-threats/beauty-in-destruction-exploring-malware-impact-through-art": {
     "categories": [],
