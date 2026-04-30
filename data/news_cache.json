@@ -7043,6 +7043,15 @@
     "summary": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads Unknown threat actors compromised CPUID (\"cpuid[.]com\"), a website&nbsp;that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to serv\u2026",
     "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads"
   },
+  "https://thehackernews.com/2026/04/critical-cpanel-authentication.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ54sVYryCG3V_ZjHJwzuKBteLhpf8FnX131rudu9bvgYGDupWYtJHLYxGPjVON072t-CWz4hyQmxQmwIW6ZZzTXsiJhcfRHPBj1ag1H0PeFGB4KkZIAsyhR0bT_DQqCj2uf_a5Yza7VbeBd3xRIvf4VUZ8UBRM2iEY10bk3me9zotLNcLExjSMaoY3y4l/s1600/cpanel.jpg",
+    "published": "2026-04-29T09:37:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical cPanel Authentication Vulnerability Identified \u2014 Update Your Server Immediately cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software.\nThe proble\u2026",
+    "title": "Critical cPanel Authentication Vulnerability Identified \u2014 Update Your Server Immediately"
+  },
   "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_yhcF_ELr7WEtcfHJTj6KXaci5hMzJMQzWlKpRwmiUDUDlRiLn5kZFpj4JkLxrqw0JBajNTAmlAxzIkQytW333ZnGJBKeGY-rBsLLrCPqATNkq3TvcBRbi61oogxsv5Z1a2REm5g7cpgfqKq_fnr2B1O1tPHDckGGiBA7YZY0Jcl7nWIzqaDYFGqEm3nZ/s1600/lerobots.jpg",
@@ -7186,6 +7195,15 @@
     "source": "The Hacker News",
     "summary": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul Google this week announced a new set of Play policy updates to strengthen user privacy and protect businesses against fraud, even as it revealed it blocked or removed over 8.3 billion ads global\u2026",
     "title": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul"
+  },
+  "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoqSVEXaseT8C79cbC1Wjec2TiF4nMK72XiCPL3WBxqwNy9iUk5CSEqSXgwJFRug0zXq5foMAXzMYCSIP0nEnr-CxCeYFgjmVcOfPtK4nocQaGDzIFecL9SScOScUhVAgGkff6wO5ks-sqWA_KCEZnfrQhfViSGai-g0MOd2IHOYX_N03JvwIipkQ1gso7/s1600/gemini-cursor.jpg",
+    "published": "2026-04-30T07:07:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have allo\u2026",
+    "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution"
   },
   "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html": {
     "categories": [],
@@ -7493,6 +7511,15 @@
     "summary": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images Cybersecurity researchers&nbsp;have discovered a new version of&nbsp;the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the&nbsp;trojan was discovered targ\u2026",
     "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images"
   },
+  "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoAi4Ild7Dz2KtvraUPjGBgNHYScbOo2DzPh9iUn8IirHe8VYws7uF0A4wf2803kNMgLzCWg0oOZwXcdzRUx5-sbBPiABEN05-RtXTa2vMqOSa52E4FPELQba8QcIQBPXl6hOHuyN7cHldbTMMvxnA4UhxDk1Huh2W85I0EJeWdscqF5NdwRLjbtOXn7Zj/s1600/korean-hackers.jpg",
+    "published": "2026-04-29T14:43:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs Cybersecurity researchers have discovered malicious code in an npm package after a malicious package as a dependency to the project by Anthropic's Claude Opus large language model (LLM).\nThe package in qu\u2026",
+    "title": "New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs"
+  },
   "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaSAtFbXFX7aYFcwPPrHEMwEZ4VJp2mJQuYo3B3Q2Zrot1co_ilMUWffYOUUFHFRO6zwHHjlMCMOJcbnc_iF69KLU_1LpMhcfFk5YV8A4cdIchhqR1NQGEvyzpHGidnbvqwq2Tg_Y77VwMCpeSSluD8sPRcusqiraqLMCvUCA-QvUv5nCuh2Ns1U2jxNR1/s1600/powmix.jpg",
@@ -7672,6 +7699,15 @@
     "source": "The Hacker News",
     "summary": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign The Russia-linked threat actor known&nbsp;as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to t\u2026",
     "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign"
+  },
+  "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7ILiV-4oJHtNRt3-K52GIsgOaNUuN9owB5ky-Mk8FvRE3QmcqDg33oV3sCrzjgWEyIUfwTtn110bcMYVU3Lp61ArknIlPAcmMvbgJJ5-WheKYivyblon2tp79ux9pJmnYNv_ShhIAA5of3Wx7QzQRZs2mNuSQs6lLG23LKMVonvElcNMy6MXp6yVZO73F/s1600/sap-npm-hacks.jpg",
+    "published": "2026-04-29T16:26:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware.\nAccording to reports from Aikido Security\u2026",
+    "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack"
   },
   "https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html": {
     "categories": [],
@@ -7880,6 +7916,15 @@
     "summary": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching.\u2026",
     "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment"
   },
+  "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8vcicU2DANrmyA4GRttWV5sb4GPYdppuZax9v279s90O_uXz10MvgxpTyOR9s-tZoccR96ph-c7hZOwXORyLBYdWEsn3zCkrT_ivf6ZVApdMY6TL6jarUO4rNjR9nfc7XPTnmc6ttcKs_9aGOsOK4RoEnliEqVYrcOtL_d7Zys-51KZosLtWtlsOX4mo/s1600/thn.jpg",
+    "published": "2026-04-29T12:02:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain.\nWe aren't just talking ab\u2026",
+    "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks"
+  },
   "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHgJL0SczODx5PAnF85b8b0mRpiOOkIQdOWvhivyXu6H8UeZKH9ZUdaeW5IuU59q2hjMNioQWQ5vk1Km8yinGGc8GA079qvhTtFsp9PV76Kmp-3lpKh2zi3vgd_-6dFcOI6i1YHs7VkJ-p-HvOEuOwkjooBVSvYFOrVqXqNhZShZy3IUeD6BVHVvUIj50/s1600/webinar-cerby.jpg",
@@ -7933,6 +7978,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More Monday\u2019s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Brows\u2026",
     "title": "\u26a1 Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More"
+  },
+  "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEher9s_mKSWufl-S-lAJfV_7PalFTxuPLyiublEI1g0S4mOPLkr21X8SDIXB8fo-hbUXOf07J8lXp7esCsDNp3d5lJ33kZam2mnpQWQ5jG1S56U5WyfuB12Igvk2bFrUHxlDu7z4NVom_3yHR21GMcQHCoF6MEg8oXdkm4iJcygaRtcBwoTh0Sd7umE0cph/s1600/xmcyber.jpg",
+    "published": "2026-04-29T11:30:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong) Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green. Then someone in a leadership meeting asks: \u2026",
+    "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)"
   },
   "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html": {
     "categories": [],
@@ -12320,6 +12374,18 @@
     "summary": "CISA orders feds to patch Samsung zero-day used in spyware attacks CISA ordered U.S. federal agencies today to patch a critical Samsung vulnerability that has been exploited in zero-day attacks to deploy LandFall spyware on devices running WhatsApp. [...]",
     "title": "CISA orders feds to patch Samsung zero-day used in spyware attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-29T10:29:31+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA orders feds to patch Windows flaw exploited as zero-day The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their Windows systems against a vulnerability exploited in zero-day attacks. [...]",
+    "title": "CISA orders feds to patch Windows flaw exploited as zero-day"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/": {
     "categories": [
       "Security"
@@ -12976,6 +13042,17 @@
     "source": "BleepingComputer",
     "summary": "Cox Enterprises discloses Oracle E-Business Suite data breach Cox Enterprises is notifying impacted individuals of a data breach that exposed their personal data to hackers who breached\u00a0the company network after exploiting a zero-day flaw in Oracle E-Business Suite. [...]",
     "title": "Cox Enterprises discloses Oracle E-Business Suite data breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-29T15:51:44+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "cPanel, WHM emergency update fixes critical auth bypass bug A critical vulnerability affecting all but the latest versions of cPanel and the WebHost Manager (WHM) dashboard could be exploited to obtain access to the control panel without authentication. [...]",
+    "title": "cPanel, WHM emergency update fixes critical auth bypass bug"
   },
   "https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/": {
     "categories": [
@@ -13974,6 +14051,18 @@
     "summary": "European Gym giant Basic-Fit data breach affects 1 million members Dutch fitness giant Basic-Fit announced that hackers breached its systems and gained access to information belonging to a million of its customers. [...]",
     "title": "European Gym giant Basic-Fit data breach affects 1 million members"
   },
+  "https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-04-29T14:27:36+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "European police dismantles \u20ac50 million crypto investment fraud ring Austrian and Albanian authorities dismantled a criminal ring accused of running a large-scale cryptocurrency investment fraud operation that caused estimated losses of over \u20ac50 million ($58.5 million) to victims \u2026",
+    "title": "European police dismantles \u20ac50 million crypto investment fraud ring"
+  },
   "https://www.bleepingcomputer.com/news/security/european-police-dismantles-600-million-crypto-investment-fraud-ring/": {
     "categories": [
       "Security"
@@ -14966,6 +15055,17 @@
     "summary": "GitHub adds AI-powered bug detection to expand security coverage GitHub is adopting AI-based scanning for its Code Security tool to expand vulnerability detections beyond the\u00a0CodeQL static analysis\u00a0and cover\u00a0more languages and frameworks. [...]",
     "title": "GitHub adds AI-powered bug detection to expand security coverage"
   },
+  "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-29T12:41:17+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "GitHub fixes RCE flaw that gave access to millions of private repos In early March, GitHub patched a critical remote code execution vulnerability (CVE-2026-3854)\u00a0that could have allowed\u00a0attackers to access millions of private repositories. [...]",
+    "title": "GitHub fixes RCE flaw that gave access to millions of private repos"
+  },
   "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-high-severity-2fa-bypass-denial-of-service-flaws/": {
     "categories": [
       "Security"
@@ -15542,6 +15642,18 @@
     "summary": "Hackers are exploiting ArrayOS AG VPN flaw to plant webshells Threat actors have been exploiting a command injection vulnerability in Array AG Series VPN devices to plant webshells and create rogue users. [...]",
     "title": "Hackers are exploiting ArrayOS AG VPN flaw to plant webshells"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/": {
+    "categories": [
+      "Security",
+      "Gaming"
+    ],
+    "image": "",
+    "published": "2026-04-29T18:32:15+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Hackers arrested for hijacking and selling 610,000 Roblox accounts The Ukrainian police have arrested three individuals who hacked more than 610,000 Roblox gaming accounts and sold them for a profit of $225,000. [...]",
+    "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/": {
     "categories": [
       "Security"
@@ -15717,6 +15829,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers exploit newly patched Fortinet auth bypass flaws Hackers are exploiting critical-severity vulnerabilities affecting multiple Fortinet products to get unauthorized access to admin accounts\u00a0and steal system configuration files. [...]",
     "title": "Hackers exploit newly patched Fortinet auth bypass flaws"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-29T20:50:35+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers. [...]",
+    "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/": {
     "categories": [
@@ -16588,6 +16711,17 @@
     "source": "BleepingComputer",
     "summary": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks The LeakNet ransomware gang is now using the ClickFix technique for initial access into corporate environments\u00a0and deploys a malware loader based on the open-source Deno runtime for JavaScript and TypeScript. [...\u2026",
     "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-29T13:05:14+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Learning from the Vercel breach: Shadow AI & OAuth sprawl A single third-party OAuth integration can become a direct path into your environment. Push explains how the Vercel breach shows a compromised OAuth app can lead to widespread impact across downstream customers. [...]",
+    "title": "Learning from the Vercel breach: Shadow AI & OAuth sprawl"
   },
   "https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/": {
     "categories": [
@@ -18538,6 +18672,17 @@
     "summary": "\u2018We got hacked\u2019 emails threaten to leak University of Pennsylvania data The University of Pennsylvania suffered a cybersecurity incident on Friday, where students and alumni received a series of offensive emails from various University email addresses, claiming that data was stol\u2026",
     "title": "\u2018We got hacked\u2019 emails threaten to leak University of Pennsylvania data"
   },
+  "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-29T22:43:44+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Official SAP npm packages compromised to steal credentials Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems. [...]",
+    "title": "Official SAP npm packages compromised to steal credentials"
+  },
   "https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/": {
     "categories": [
       "Security"
@@ -19124,6 +19269,17 @@
     "source": "BleepingComputer",
     "summary": "Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens The TeamPCP hacking group continues its supply-chain rampage, now compromising the massively popular \"LiteLLM\" Python package on PyPI and claiming to have stolen data from hundreds of thousands of devices d\u2026",
     "title": "Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens"
+  },
+  "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-29T22:13:15+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Popular WordPress redirect plugin hid dormant backdoor for years The Quick Page/Post Redirect plugin, installed on more than 70,000 WordPress sites, had\u00a0a backdoor added five years ago that allows injecting arbitrary code into users' sites. [...]",
+    "title": "Popular WordPress redirect plugin hid dormant backdoor for years"
   },
   "https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/": {
     "categories": [
@@ -22570,6 +22726,15 @@
     "summary": "Real-Time Banking Trojan Strikes Brazil's Pix Users The latest banking Trojan campaign to hit Brazil combines classic malware with a real-time human operator, waiting for the perfect moment to strike.",
     "title": "Real-Time Banking Trojan Strikes Brazil's Pix Users"
   },
+  "https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0f7f3cdef8476589/69f258736bebffd429af87fc/Android_Code_Klaus_Ohlenschlaeger_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-29T20:08:17+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Reverse Engineering With AI Unearths High-Severity GitHub Bug Wiz used an AI reverse-engineering tool to pinpoint a vulnerability that previously would have been too costly and time-consuming to undertake.",
+    "title": "Reverse Engineering With AI Unearths High-Severity GitHub Bug"
+  },
   "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9011155be84ee1fe/6909f3169c7f6ffee41aca98/Install-B_Christopher-Alamy.jpeg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -23134,6 +23299,15 @@
     "summary": "Cities Hosting Major Events Need More Focus on Wireless, Drone Defense Major events like the FIFA World Cup need to look beyond traditional physical and cyber security to active and passive wireless threats, say experts.",
     "title": "Cities Hosting Major Events Need More Focus on Wireless, Drone Defense"
   },
+  "https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12df424bcfca2d2e/69f25c31d96b17efbb20a411/Claude_Mythos-GK_Images-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-30T00:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Claude Mythos Fears Startle Japan's Financial Services Sector Global financial institutions are panicked over Anthropic's new superhacker AI model. Cyber experts aren't quite as worried.",
+    "title": "Claude Mythos Fears Startle Japan's Financial Services Sector"
+  },
   "https://www.darkreading.com/cyber-risk/cloudflare-blames-outage-internal-error": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte9f1aac150228a24/691dafdec761fbbec783c05a/cloudflare1800_ZUMA_Press_Inc._alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -23397,6 +23571,15 @@
     "source": "darkreading",
     "summary": "Lies, Damned Lies, and Cybersecurity Metrics A panel of five C-suite leaders discuss how cybersecurity success is measured and why it isn't improving results.",
     "title": "Lies, Damned Lies, and Cybersecurity Metrics"
+  },
+  "https://www.darkreading.com/cyber-risk/lotus-wiper-attack-targeted-venezuelan-energy-firms-utilities": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt27befbbaecad74c3/69f124563c5d47a2fe8e421d/pdsva-oil-tanks-venezuela-JBula_62-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-29T13:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Lotus Wiper Attack Targets Venezuelan Energy Firms, Utilities An analysis of the destructive malware reveals sophisticated living-off-the-land (LotL) techniques and detailed strategies for the widespread deletion of data.",
+    "title": "Lotus Wiper Attack Targets Venezuelan Energy Firms, Utilities"
   },
   "https://www.darkreading.com/cyber-risk/manufacturing-and-healthcare-share-struggles-with-passwords": {
     "categories": [],
@@ -26642,6 +26825,15 @@
     "summary": "Tycoon 2FA Phishers Scatter, Adopt Device Code Phishing In embracing device code phishing, attackers trick victims into handing over account access by using a service's legitimate new-device login flow.",
     "title": "Tycoon 2FA Phishers Scatter, Adopt Device Code Phishing"
   },
+  "https://www.darkreading.com/threat-intelligence/vect-ransomware-wiper-design-error": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6fda08080bd8b295/69f1eb99a29efb1cce4e393d/AI-agent-delete-data-vittaya_pinpan-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-29T15:23:53+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Vect 2.0 Ransomware Acts as Wiper, Thanks to Design Error The emerging ransomware has been deployed against victims of the TeamPCP supply chain attacks, but organizations should think twice before paying for a decryptor.",
+    "title": "Vect 2.0 Ransomware Acts as Wiper, Thanks to Design Error"
+  },
   "https://www.darkreading.com/threat-intelligence/voidlink-linux-malware-ai": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1880c47c131e8c5/6970bd763974e86f534678e3/AI(1800)_NicoElNino_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
@@ -26710,6 +26902,15 @@
     "source": "darkreading",
     "summary": "An 18-Year-Old Codebase Left Smart Buildings Wide Open Researcher Gjoko Krstic\u2019s &quot;Project Brainfog&quot; exposed hundreds of zero-day vulnerabilities in building-automation systems still running hospitals, schools, and offices worldwide.",
     "title": "An 18-Year-Old Codebase Left Smart Buildings Wide Open"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7ca89dcf72fee586/69f255bfcd45aa3d1af505f0/ehr_pandpstock001_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-29T19:32:42+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "AI Finds 38 Security Flaws in Electronic Health Record Platform Flaws in OpenEMR's platform \u2014 used by more than 100,000 healthcare providers \u2014 enabled database compromise, remote code execution, and data theft.",
+    "title": "AI Finds 38 Security Flaws in Electronic Health Record Platform"
   },
   "https://www.darkreading.com/vulnerabilities-threats/android-malware-mutes-alerts-drains-crypto-wallets": {
     "categories": [],
