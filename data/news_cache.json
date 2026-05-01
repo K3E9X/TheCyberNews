@@ -7115,6 +7115,15 @@
     "summary": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs Details have emerged about a now-patched security vulnerability in a widely used third-party Android software development kit&nbsp;(SDK) called&nbsp;EngageLab&nbsp;SDK that could have put millions \u2026",
     "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs"
   },
+  "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8d19xBfapc_ToA1XOK4xdQ815tfHldoYH0Cy7zsTwOoWlFNQDdubeXMv4Udo6DaFXWJK3lG4meqdmtLAuaCMfa7R1KM_EfiGE5cZItYx6NdnqjB-R_6neMFv5iIG6SjUDkRUUiZg_j7oOaueXGZb4M-K7EmJM3MCjSvgxfok9gTFNd9Qwdf-AKu_DsP4/s1600/github-2.jpg",
+    "published": "2026-04-30T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades Intro\nA sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional accounts of ente\u2026",
+    "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades"
+  },
   "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-cI0h0qDxREUkTFlIqeT_9-QNxJHPv6SqDQXpMs00i8A26QWukWlxtk1iwdZvnar80HiymWGDY9148_CiWIdL2xj-t9xC9KDM-8WdGALuTRxhdZqDcaZf2MG9adEpZLkLqsaA2uMP-3e_E0Ru-A5JSv0_dvEjAAniYpsdS71SCxFVlmB1NhkL20oangQz/s1600/sim-card.jpg",
@@ -7493,6 +7502,15 @@
     "summary": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips New academic research has identified multiple RowHammer attacks against high-performance graphics processing units (GPUs) that could be exploited to escalate privileges and, in some cases, even take fu\u2026",
     "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips"
   },
+  "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYpnBkrLNj-dAKcwAbvRIvfXg8YDXoO3yfrl3vvXBOBwo2zga2asWZ0at4FLcLbiqQ1N7BsYA2szKbuqeVLBkrD80tMqYguBbqvrhEude6Fe9ayQpNs-meP8h4-f6ReWVeIU0zYp31XU7K-Kgxm5OKdI77HPQWgTx41al_WH3gYkMjEoROl6zvXF8HPRf5/s1600/root.jpg",
+    "published": "2026-04-30T09:24:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root.\nThe high-severity vulnerability tracked as \u2026",
+    "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions"
+  },
   "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP-RqcuX8QuBEwVkchLNSjyIAqQEuFwy0prqQ1gGqxpBFESQLuCzgGB7-cjYhJrbLhbTk_j8G4NedN06plhhqLd_Rpd01mTh8XcOHjvQ_UuJqfjTROZeh40WlSN_7gzRL4yVKX-Aj0ui2gOxo9l70b3Dy5R6srKjne-gQXIhL7fNAHYZ7rDm6-yWl4-_JD/s1600/php-code.jpg",
@@ -7501,6 +7519,15 @@
     "source": "The Hacker News",
     "summary": "New PHP Composer Flaws Enable Arbitrary Command Execution \u2014 Patches Released Two high-severity security vulnerabilities&nbsp;have been disclosed in Composer, a package&nbsp;manager for&nbsp;PHP, that, if successfully exploited, could result in arbitrary command execution.\nThe vul\u2026",
     "title": "New PHP Composer Flaws Enable Arbitrary Command Execution \u2014 Patches Released"
+  },
+  "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnv1KtLLlZSnm9a16bN-o_szrBiAIN_QljTfe09K4RzFxSqhFADtuXmRzOPZ_Poazif-VadFAnRnboCWX5yZtc5JntGopn5Fy6T1X2BexXelFOxYtEA7qULoTCkAMwEybLf42JJ_yGjSPf_T-tjYvbqxscVgZ6OyL65yKcTjC0KQL48pgYLZUmLjxfBBhd/s1600/malware-data.jpg",
+    "published": "2026-04-30T12:36:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range o\u2026",
+    "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials"
   },
   "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html": {
     "categories": [],
@@ -7627,6 +7654,15 @@
     "source": "The Hacker News",
     "summary": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them? Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the company \u2026",
     "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?"
+  },
+  "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7hiQfVCFzoPBzfr5xqJ06qMjzv-zw_qiUcDTgyEM8RbEVk3PDztg9U5Vlkgvz6j7nX8ODtXwnTCC2wB78lupEmRjcxJTz74GJGSslsMQM-e5b8vG0W2gLFnbEzYAPKw05ZelkaNfy50VyLJeb-3EhwiGKfIP9qHNRpNG4MnFUnTBBOJ95vRJb-RbcFVxX/s1600/python.png",
+    "published": "2026-04-30T16:31:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft.\nAccording \u2026",
+    "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials"
   },
   "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html": {
     "categories": [],
@@ -7816,6 +7852,15 @@
     "source": "The Hacker News",
     "summary": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories The&nbsp;latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No&nbsp;corporate fluff or boring lectures here, just a quick and honest \u2026",
     "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories"
+  },
+  "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwfqxUhPz38fAoq0CZr2tW8KqGW-Cr0zJloN9kS_80QO2e7yyah4N-nMKNxoSllB2tpyjKO25s2f8eFJNd2bBo50XRAVatMKnnk8ZAbRbz6kfQUhVUoD5vutOmFpYzojybY8aJZhA6KGL3sawNEyaqjlW63hAeEwrTsj8lnpou-4mThnzwCzO442aue-R0/s1600/threats.jpg",
+    "published": "2026-04-30T13:55:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that \u2026",
+    "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories"
   },
   "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html": {
     "categories": [],
@@ -8958,6 +9003,17 @@
     "source": "BleepingComputer",
     "summary": "Kali Linux 2026.1 released with 8 new tools, new BackTrack mode Kali Linux 2026.1, the first release of the year, is now available for download, featuring 8 new tools, a theme refresh, and a new BackTrack mode for Kali-Undercover. [...]",
     "title": "Kali Linux 2026.1 released with 8 new tools, new BackTrack mode"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-04-30T15:23:03+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "April KB5083769 Windows 11 update causes backup software failures The April 2026 KB5083769 security update breaks third-party backup applications from multiple vendors on systems running Windows 11 24H2 and 25H2. [...]",
+    "title": "April KB5083769 Windows 11 update causes backup software failures"
   },
   "https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/": {
     "categories": [
@@ -13141,6 +13197,17 @@
     "summary": "Critical Citrix NetScaler memory flaw actively exploited in attacks Hackers are exploiting a critical severity vulnerability, tracked as\u00a0CVE-2026-3055,\u00a0in Citrix\u00a0 NetScaler ADC and NetScaler Gateway appliances to obtain sensitive data. [...]",
     "title": "Critical Citrix NetScaler memory flaw actively exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-30T11:40:31+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February. [...]",
+    "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available"
+  },
   "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/": {
     "categories": [
       "Security"
@@ -14413,6 +14480,17 @@
     "source": "BleepingComputer",
     "summary": "FBI investigates breach of surveillance and wiretap systems The U.S. Federal Bureau of Investigation (FBI) confirmed on Thursday that it's investigating a breach that affected systems used to manage surveillance and wiretap warrants. [...]",
     "title": "FBI investigates breach of surveillance and wiretap systems"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-30T16:32:18+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "FBI links cybercriminals to sharp surge in cargo theft attacks The U.S. Federal Bureau of Investigation (FBI) warned the transportation and logistics industry of a sharp rise in cyber-enabled cargo theft, with estimated losses in the United States and Canada reaching nearly $725 \u2026",
+    "title": "FBI links cybercriminals to sharp surge in cargo theft attacks"
   },
   "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/": {
     "categories": [
@@ -17741,6 +17819,18 @@
     "summary": "New \u2018BlackSanta\u2019 EDR killer spotted targeting HR departments For more than a year, a Russian-speaking threat actor targeted\u00a0human resource (HR) departments with malware that delivers a new EDR killer named BlackSanta. [...]",
     "title": "New \u2018BlackSanta\u2019 EDR killer spotted targeting HR departments"
   },
+  "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-04-30T18:58:50+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New Bluekit phishing service includes an AI assistant, 40 templates A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign drafts. [...]",
+    "title": "New Bluekit phishing service includes an AI assistant, 40 templates"
+  },
   "https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/": {
     "categories": [
       "Security"
@@ -18044,6 +18134,18 @@
     "source": "BleepingComputer",
     "summary": "New Linux botnet SSHStalker uses old-school IRC for C2 comms A newly documented Linux botnet named SSHStalker is using the IRC (Internet Relay Chat) communication protocol for command-and-control (C2) operations. [...]",
     "title": "New Linux botnet SSHStalker uses old-school IRC for C2 comms"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/": {
+    "categories": [
+      "Security",
+      "Linux"
+    ],
+    "image": "",
+    "published": "2026-04-30T13:54:47+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New Linux \u2018Copy Fail\u2019 flaw gives hackers root on major distros An exploit has been published for a local privilege escalation vulnerability dubbed \"Copy Fail\" that impacts Linux kernels released since 2017, allowing an unprivileged local attacker to gain root permissions. [...]",
+    "title": "New Linux \u2018Copy Fail\u2019 flaw gives hackers root on major distros"
   },
   "https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/": {
     "categories": [
@@ -19150,6 +19252,18 @@
     "summary": "Europol-led crackdown on The Com hackers leads to 30 arrests A yearlong Europol-coordinated operation dubbed \"Project Compass\" has led to 30 arrests and 179 suspects being tied to \"The Com,\" an online cybercrime collective that targets children and teenagers. [...]",
     "title": "Europol-led crackdown on The Com hackers leads to 30 arrests"
   },
+  "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-04-30T11:21:02+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Police dismantles 9 crypto scam centers, arrests 276 suspects A joint international operation involving U.S. and Chinese authorities arrested at least 276 suspects and shut down nine cryptocurrency investment fraud centers. [...]",
+    "title": "Police dismantles 9 crypto scam centers, arrests 276 suspects"
+  },
   "https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/": {
     "categories": [
       "Security"
@@ -19669,6 +19783,17 @@
     "source": "BleepingComputer",
     "summary": "Romanian energy provider hit by Gentlemen ransomware attack A ransomware attack hit Oltenia Energy Complex (Complexul Energetic Oltenia), Romania's largest coal-based energy producer, on the second day of Christmas, taking down its IT infrastructure. [...]",
     "title": "Romanian energy provider hit by Gentlemen ransomware attack"
+  },
+  "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-30T17:45:12+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Romanian leader of online swatting ring gets 4 years in prison A Romanian national who led an online swatting ring that targeted more than 75 public officials, multiple journalists, and four religious institutions was sentenced to 4 years in federal prison. [...]",
+    "title": "Romanian leader of online swatting ring gets 4 years in prison"
   },
   "https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/": {
     "categories": [
@@ -21307,6 +21432,17 @@
     "summary": "US nationals behind DPRK IT worker 'laptop farm' sent to prison Two U.S. nationals have been sent to prison for helping North Korean remote information technology (IT) workers to pose as U.S. residents and get hired by over 100 companies across the country, including many Fortune\u2026",
     "title": "US nationals behind DPRK IT worker 'laptop farm' sent to prison"
   },
+  "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-01T07:47:11+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "US ransomware negotiators get 4 years in prison over BlackCat attacks Two former employees of cybersecurity incident response companies Sygnia and DigitalMint were sentenced to four years in prison each for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
+    "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/": {
     "categories": [
       "Security"
@@ -21625,6 +21761,17 @@
     "source": "BleepingComputer",
     "summary": "What an AI-Written Honeypot Taught Us About Trusting Machines AI-generated code can introduce subtle security flaws when teams over-trust automated output. Intruder shows how an AI-written honeypot introduced hidden vulnerabilities that were exploited in attacks. [...]",
     "title": "What an AI-Written Honeypot Taught Us About Trusting Machines"
+  },
+  "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-04-30T14:02:12+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "What Happens in the First 24 Hours After a New Asset Goes Live When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise in under 24 hours. [...]",
+    "title": "What Happens in the First 24 Hours After a New Asset Goes Live"
   },
   "https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/": {
     "categories": [
@@ -23119,6 +23266,15 @@
     "source": "darkreading",
     "summary": "TeamPCP Turns Cloud Infrastructure into Crime Bots The threat actor has been compromising cloud environments at scale with automated worm-like attacks on exposed services and interfaces.",
     "title": "TeamPCP Turns Cloud Infrastructure into Crime Bots"
+  },
+  "https://www.darkreading.com/cloud-security/teampcp-sap-packages-mini-shai-hulud": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt66addf126723d9f7/69f3b58b50f92923bac9ec22/sandworms_Nature_Picture_Library_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-30T21:01:18+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "TeamPCP Hits SAP Packages With 'Mini Shai-Hulud' Attack Several npm packages for SAP's cloud application development ecosystem have been compromised as TeamPCP's supply chain attacks broaden.",
+    "title": "TeamPCP Hits SAP Packages With 'Mini Shai-Hulud' Attack"
   },
   "https://www.darkreading.com/cloud-security/test-networks-withstand-ddos-attacks-peak-loads": {
     "categories": [],
@@ -24722,6 +24878,15 @@
     "summary": "Extra Extra! Announcing DR Global Latin America Dark Reading has something new hitting the newsstand: a content section purpose-built for Latin American readers, featuring news, analysis, features, and multimedia.",
     "title": "Extra Extra! Announcing DR Global Latin America"
   },
+  "https://www.darkreading.com/cybersecurity-operations/anthropic-mythos-cyber-what-comes-next": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6a494b89bd82b96f/69f3c069574eeb457137e4e8/claude1800_Ascannio_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-30T19:09:21+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Anthropic's Mythos Has Landed: Here's What Comes Next for Cyber In this latest installment of the Reporters' Notebook video series, we discuss how the new AI model threatens to completely upend cybersecurity, and what industry leaders are telling the press.",
+    "title": "Anthropic's Mythos Has Landed: Here's What Comes Next for Cyber"
+  },
   "https://www.darkreading.com/cybersecurity-operations/blunders-level-up-security-programs": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6ac910152ed10683/654e39aef2b339040ac3fde5/make-mistake-Antonio-Guillem-Fern%25C3%25A1ndez-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -25791,6 +25956,15 @@
     "source": "darkreading",
     "summary": "More Attackers Are Logging In, Not Breaking In Credential theft soared in the second half of 2025, thanks in part to the industrialization of infostealer malware and AI-enabled social engineering.",
     "title": "More Attackers Are Logging In, Not Breaking In"
+  },
+  "https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12893d714d366c26/69f2527b65fda7fdccea718b/ORBR_photos_01.JPG?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-30T13:45:58+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Oracle Red Bull Racing Team Revs Up Automation to Boost Security While drivers race to shave off seconds on the track, the team's IT and engineering staff are speeding up how they deliver security.",
+    "title": "Oracle Red Bull Racing Team Revs Up Automation to Boost Security"
   },
   "https://www.darkreading.com/identity-access-management-security/specterops-launches-bloodhound-scentry": {
     "categories": [],
@@ -26902,6 +27076,15 @@
     "source": "darkreading",
     "summary": "An 18-Year-Old Codebase Left Smart Buildings Wide Open Researcher Gjoko Krstic\u2019s &quot;Project Brainfog&quot; exposed hundreds of zero-day vulnerabilities in building-automation systems still running hospitals, schools, and offices worldwide.",
     "title": "An 18-Year-Old Codebase Left Smart Buildings Wide Open"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7fa0185a79d14223/69f3a155cd45aa40c4f50b2e/Penguin_sign-Gareth_McCormack-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-04-30T20:41:18+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug The proof-of-concept exploit code runs only 10 lines long, but luckily, a patch is already available.",
+    "title": "Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug"
   },
   "https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr": {
     "categories": [],
