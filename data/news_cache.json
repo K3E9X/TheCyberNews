@@ -8096,6 +8096,15 @@
     "summary": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists Cybersecurity researchers have disclosed details of a new China-aligned espionage campaign targeting government and defense sectors across South, East, and Southeast Asia, along with one Europea\u2026",
     "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists"
   },
+  "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibNApjovicg4aFV0VPiue9cUMmH_D-GkLlWwgXunP_-fUi8cRWaNM6Kl2TV99eBRKKVdXNq-0iQ2EJLotLO_TAvIA3xW-mE-tS5BDHSKrUmTgGuGEbAp4ek6uFJk4yRTsgJu6LStR3BqJkIm4fyXgZiBKxNGI0YBLiiAneTRvem-Ydh3gbIVsz8O0VBUQy/s1600/linux-root.jpg",
+    "published": "2026-05-03T06:26:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog,\u2026",
+    "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV"
+  },
   "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4FSyjacFNJX32YMLQvN6jUeVwGJfoAHPLMIhtU6aNS6hrkIUokynaWWzqxOjr1JsP0lIooaL0ppYM-iQ_rEH2ruoqMw1UAb_bq4FNjI16P6P7CpTaYSkJtp-TpCFKOce9ODtmzskcTZnuWFLYyUdfA0UeHqmRVVNB1P6Mw28a5Yuc7T1kgEx4Pcyxbcsr/s1600/vishing.jpg",
@@ -13109,6 +13118,17 @@
     "summary": "ConsentFix debrief: Insights from the new OAuth phishing attack ConsentFix is an OAuth phishing technique abusing browser-based authorization flows to hijack Microsoft accounts. Push Security shares new insights from continued tracking, community research, and evolving attacker t\u2026",
     "title": "ConsentFix debrief: Insights from the new OAuth phishing attack"
   },
+  "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-02T14:32:25+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "ConsentFix v3 attacks target Azure with automated OAuth abuse A new attack type, dubbed ConsentFix v3, has been circulating on hacker forums, building on the previous technique by adding automation and scaling potential. [...]",
+    "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse"
+  },
   "https://www.bleepingcomputer.com/news/security/continuous-purple-teaming-turning-red-blue-rivalry-into-real-defense/": {
     "categories": [
       "Security"
@@ -13503,6 +13523,17 @@
     "source": "BleepingComputer",
     "summary": "Critical WhisperPair flaw lets hackers track, eavesdrop via Bluetooth audio devices A critical vulnerability in Google's Fast Pair protocol can allow attackers to hijack Bluetooth audio accessories like wireless headphones and earbuds,\u00a0track users, and eavesdrop on their conversa\u2026",
     "title": "Critical WhisperPair flaw lets hackers track, eavesdrop via Bluetooth audio devices"
+  },
+  "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-02T21:54:00+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks. [...]",
+    "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks"
   },
   "https://www.bleepingcomputer.com/news/security/crowdstrike-catches-insider-feeding-information-to-hackers/": {
     "categories": [
@@ -23213,6 +23244,15 @@
     "summary": "AI Agents 'Swarm,' Security Complexity Follows Suit As AI deployments scale and start to include packs of agents autonomously working in concert, organizations face a naturally amplified attack surface.",
     "title": "AI Agents 'Swarm,' Security Complexity Follows Suit"
   },
+  "https://www.darkreading.com/cloud-security/ais-so-smart-keep-deleting-production-databases": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf39bbd62b1f2473/69f3a68381ac09c28dfa5350/binary_match_Brain_light_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-01T14:39:55+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "If AI's So Smart, Why Does It Keep Deleting Production Databases? The issue isn't artificial intelligence, but rather an industry adding AI agent integrations into production environments before proper security testing.",
+    "title": "If AI's So Smart, Why Does It Keep Deleting Production Databases?"
+  },
   "https://www.darkreading.com/cloud-security/apt41-zero-detection-backdoor-harvest-cloud-credentials": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2e8cc931a1c1d4d4/69dcc2c014d9c34775418603/chinaiptheft_Pixels_Hunter_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -24873,6 +24913,15 @@
     "summary": "Do Ceasefires Slow Cyberattacks? History Suggests Not The cybersecurity community is waiting with bated breath to see if Iranian hackers will honor a ceasefire that doesn't actually name or directly involve them.",
     "title": "Do Ceasefires Slow Cyberattacks? History Suggests Not"
   },
+  "https://www.darkreading.com/cybersecurity-analytics/crypto-stolen-2026-north-korea": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte54957ba444b76ce/69f4f5e31d1c5178ebec2907/DPRK_USD-Lightboxx-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-01T20:34:27+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "76% of All Crypto Stolen in 2026 Is Now in North Korea North Korean threat actors are pulling off historic cryptocurrency heists on a yearly, sometimes weekly basis now. AI might be helping them.",
+    "title": "76% of All Crypto Stolen in 2026 Is Now in North Korea"
+  },
   "https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8497ff5ba464f933/6943172f8d0bea2fbc0e4978/AI_apps_hacker-Matt_Fowler-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -24951,6 +25000,15 @@
     "source": "darkreading",
     "summary": "With AI Reshaping Entry-Level Cyber, What Happens to the Security Talent Pipeline? Automation is rewriting early-career cybersecurity work, raising urgent questions about how the next generation of security professionals will gain real-world expertise.",
     "title": "With AI Reshaping Entry-Level Cyber, What Happens to the Security Talent Pipeline?"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/20-years-cyber-dark-reading-milestone-special-coverage": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfa15fad832804f71/69f25b673c5d474c908e45aa/KJHCol_DR20.jpeg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-01T12:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "20 Years in Cyber: Dark Reading Marks Milestone With Month of Special Coverage On this day in 2006, Dark Reading went live. We have a celebration planned that spans our two decades of covering the industry, and you, dear readers, are invited.",
+    "title": "20 Years in Cyber: Dark Reading Marks Milestone With Month of Special Coverage"
   },
   "https://www.darkreading.com/cybersecurity-operations/afripol-focuses-regional-cyber-challenges-deepening-cooperation": {
     "categories": [],
@@ -25308,6 +25366,15 @@
     "source": "darkreading",
     "summary": "Bridging the Skills Gap: How Military Veterans Are Strengthening Cybersecurity From intelligence analysts to surface warfare officers, military veterans of all backgrounds are successfully pivoting to cybersecurity careers and strengthening the industry's defense capabilities.",
     "title": "Bridging the Skills Gap: How Military Veterans Are Strengthening Cybersecurity"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/name-that-toon-mark-security-progress": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdbf0428151d81445/69f49269d987a6e491ac5a94/name-toon-may2026.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-01T12:00:55+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Name That Toon: Mark of (Security) Progress Feeling creative? Have something to say about the last 20 years of cybersecurity? Our editors will award the best cybersecurity-related caption with a $20 gift card.",
+    "title": "Name That Toon: Mark of (Security) Progress"
   },
   "https://www.darkreading.com/cybersecurity-operations/national-data-laws-cyber-risks-large-orgs": {
     "categories": [],
