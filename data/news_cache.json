@@ -8114,6 +8114,15 @@
     "summary": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks Cybersecurity researchers are warning of two cybercrime groups that are carrying out \"rapid, high-impact attacks\" operating almost within the confines of SaaS environments, while leaving minimal traces \u2026",
     "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks"
   },
+  "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVrpguh4mhS2wkIhYWPYbS2Nsjl1RPI5gpXYCZwdMyJtKk9uRU1yDIxTq7itnRWazzARvSlJ9oZTsKvGyWqOMjGyOPQ0YX6nNgUuJ9R2dD0X3Mv9Bjc0HvY3TeZHVQfLhXZd-w88FMBV71qJCVedcKQhL0Wd8YH7Jzwbasus9GF6LLzaRGG0tOFxP5TwmS/s1600/SCAMS.jpg",
+    "published": "2026-05-04T05:59:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M A coordinated international operation involving U.S. and Chinese authorities has arrested at least 276 suspects and shut down nine scam centers used for cryptocurrency investment fraud schemes targeting Ameri\u2026",
+    "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M"
+  },
   "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNz4euGufhcyWdY8TkRfdXBUj2XXZlzQWEb1QyI7otpos158ctsC236sEm2NAZ20sUZv4AOqrGCSTbjGsOOkMwhQv53ZjyrVXf9SVUsMfhvhQ4LzGL87j44f0kMkXRzBAoWeHDz8hywx4gbW_trN1mFk-xCCZatTf0zNsude7k-3WE9kIY_pPgza53qsdc/s1600/buffer.jpg",
@@ -16698,6 +16707,18 @@
     "summary": "Instagram denies breach amid claims of 17 million account data leak Instagram says it fixed a bug that allowed threat actors to mass-request password reset emails, amid claims that data from more than 17 million Instagram accounts was scraped and leaked online. [...]",
     "title": "Instagram denies breach amid claims of 17 million account data leak"
   },
+  "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/": {
+    "categories": [
+      "Security",
+      "Education"
+    ],
+    "image": "",
+    "published": "2026-05-03T22:16:27+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Instructure confirms data breach, ShinyHunters claims attack Educational tech giant Instructure has confirmed that data was stolen in a cyberattack, with the ShinyHunters extortion gang claiming responsibility. [...]",
+    "title": "Instructure confirms data breach, ShinyHunters claims attack"
+  },
   "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/": {
     "categories": [
       "Security"
@@ -17539,6 +17560,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft Azure Monitor alerts abused for callback phishing attacks Microsoft Azure Monitor alerts are being abused to send callback phishing emails that impersonate warnings from the Microsoft Security Team about unauthorized charges on your account. [...]",
     "title": "Microsoft Azure Monitor alerts abused for callback phishing attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-05-03T18:11:25+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, and in some cases,\u00a0removing\u00a0certificates from Wind\u2026",
+    "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha"
   },
   "https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/": {
     "categories": [
@@ -20781,6 +20814,17 @@
     "source": "BleepingComputer",
     "summary": "Telegram channels expose rapid weaponization of SmarterMail flaws Underground Telegram channels shared SmarterMail exploit PoCs and stolen admin credentials within days of disclosure. Flare explains how monitoring these communities reveals rapid weaponization of CVE-2026-24423 an\u2026",
     "title": "Telegram channels expose rapid weaponization of SmarterMail flaws"
+  },
+  "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-03T14:11:21+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Telegram Mini Apps abused for crypto scams, Android malware delivery Cybersecurity researchers have uncovered a large-scale fraud operation that uses Telegram's Mini App feature to run crypto scams, impersonate well-known brands, and distribute Android malware. [...]",
+    "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery"
   },
   "https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/": {
     "categories": [
