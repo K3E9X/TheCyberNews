@@ -8105,6 +8105,15 @@
     "summary": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists Cybersecurity researchers have disclosed details of a new China-aligned espionage campaign targeting government and defense sectors across South, East, and Southeast Asia, along with one Europea\u2026",
     "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists"
   },
+  "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcz8_PjYKknoot4F_PnjDZ7F1HhyphenhyphenIATFohYVF1OQYLSUFwiOPknnFF3ShgQKtKtfOEUbwUcfB-xhQAbi3dBsUvKki_ooKqYmQR3KfzcC1U443sR89JlLu5oPDJcEz9GXfEo5GwtMNj8s7HGg5-qsaR0sqqkSOUBsNFcqrz9NPDPyU6lQNl2RRtADTFzK0f/s1600/chinese-hackers-2.jpg",
+    "published": "2026-05-05T14:19:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions A sophisticated China-nexus advanced persistent threat (APT) group has been attributed to attacks targeting government entities in South America since at least late 2024 and government agencies in s\u2026",
+    "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions"
+  },
   "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibNApjovicg4aFV0VPiue9cUMmH_D-GkLlWwgXunP_-fUi8cRWaNM6Kl2TV99eBRKKVdXNq-0iQ2EJLotLO_TAvIA3xW-mE-tS5BDHSKrUmTgGuGEbAp4ek6uFJk4yRTsgJu6LStR3BqJkIm4fyXgZiBKxNGI0YBLiiAneTRvem-Ydh3gbIVsz8O0VBUQy/s1600/linux-root.jpg",
@@ -8113,6 +8122,15 @@
     "source": "The Hacker News",
     "summary": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog,\u2026",
     "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV"
+  },
+  "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL7seGapCGfnl8pFznQajU2KsVPCE19qbtPTJb2sqpOuurkEKNI8ZwUui6QhYmDJODr1F5L7hrpfGBQfsCOT8oC2k_gbjmRPIFWpVZLpJzcdd9nb-UJyNNg4L9LTtEto1sSo3Fn1cIgWxgsH4Xs0GlRJgEt65_Eut7FRv7aQrkqYdJXiE9zDunU2spQOVP/s1600/apache.jpg",
+    "published": "2026-05-05T16:19:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE The Apache Software Foundation (ASF) has released security updates to address several security vulnerabilities in the HTTP Server, including a severe vulnerability that could potentially lead to remote cod\u2026",
+    "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE"
   },
   "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html": {
     "categories": [],
@@ -8132,6 +8150,15 @@
     "summary": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks Cybersecurity researchers are warning of two cybercrime groups that are carrying out \"rapid, high-impact attacks\" operating almost within the confines of SaaS environments, while leaving minimal traces \u2026",
     "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks"
   },
+  "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghQDcWhFHnIEeEngbqyPFjkweCMgT7FoZRRZV0WYRuHg1cHip2O0lw2ahMc7jhJnzOCqqrLhzpM9w-O3eLpVdiCvI4C3-RD6XwqTkDxWdhzkS-W2BsbLy_SFwnjykdvvhuhjGnwPkFpOSJiapeWULhqx9er8hDH0sCCtoK51OrH4nSYqc_oAZwILcOi1A2/s1600/daemon.jpg",
+    "published": "2026-05-05T16:07:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware A newly identified supply chain attack targeting DAEMON Tools software has compromised its installers to serve a malicious payload, according to findings from Kaspersky.\n\"These installers are distribute\u2026",
+    "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware"
+  },
   "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVrpguh4mhS2wkIhYWPYbS2Nsjl1RPI5gpXYCZwdMyJtKk9uRU1yDIxTq7itnRWazzARvSlJ9oZTsKvGyWqOMjGyOPQ0YX6nNgUuJ9R2dD0X3Mv9Bjc0HvY3TeZHVQfLhXZd-w88FMBV71qJCVedcKQhL0Wd8YH7Jzwbasus9GF6LLzaRGG0tOFxP5TwmS/s1600/SCAMS.jpg",
@@ -8141,6 +8168,15 @@
     "summary": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M A coordinated international operation involving U.S. and Chinese authorities has arrested at least 276 suspects and shut down nine scam centers used for cryptocurrency investment fraud schemes targeting Ameri\u2026",
     "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M"
   },
+  "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6SZcQRIb_0i7jqHu2mcl7Ep1hX2C3rwLWwJmBwPHTPE2PvaP9KOHcMkvGAWxLeBFWxmfpW6IXwJqIsxHJvs2nIDc2ASwRwuXNlWFZRtatpMoksz5BRKmCVNSs4BxsrFX0_CGqlHZv_6VNWx6u1wD8dydja_fvpnRLezr_CBLyX-Lj6a2i4wRKxZnGFRen/s1600/phph.jpg",
+    "published": "2026-05-05T11:56:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks Threat actors are actively exploiting a critical security flaw impacting an open-source content management system (CMS) known as MetInfo, according to new findings from VulnCheck.\nThe vulnerability in question\u2026",
+    "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks"
+  },
   "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAfU-GpnCdjg1P2f40nj2Y7eLLpsjWNa1TnSlNm3m9F7VkOryT5etD2BouMGxbfatdzukMzeCPXsDagasXWNbcwUPJNkDY-sBox3DkrA0bTYjAEOk4JV8OySSD1_Ni2DgEnoWih83X65e9K1foEaEUetNxoyXFJnGx4Np8VQWrZSnxo2UMmR0Y68L-qf0y/s1600/ms-hook.jpg",
@@ -8149,6 +8185,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-con\u2026",
     "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries"
+  },
+  "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF11tAg5Rdf8st9TeSlgPkW_Rn1I3Xi4Xl6wJjNMThFLB0oYYl2kKURYxYxgtnEphAJkeHzRxVrm8LX_7i8RDXgdLQhq4HM5ecZCrv3biRciuLM2JufgdxHqJR3eNTcTsIBWJBAz1Nv8Gac1fhW0vZ8Kgb7RFOC7_9zkL7Uy_SCrFOKps1scenY4c_LPSH/s1600/paloalto.jpg",
+    "published": "2026-05-06T06:14:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution Palo Alto Networks has released an advisory warning that a critical buffer overflow vulnerability in its PAN-OS software has been exploited in the wild.\nThe vulnerability, tracked as CVE-2026-0300, has \u2026",
+    "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution"
   },
   "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html": {
     "categories": [],
@@ -8177,6 +8222,15 @@
     "summary": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass.\nMOVEit Automation (formerly Central) i\u2026",
     "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass"
   },
+  "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-UMvuxvPI2rmCsc57tI37aod9slTjeUUo0b7InSRMTwGg3UGwzu04cKgA6DE92m455noFtcxdsXfhhDlsc2CTWg8Un_DXBCEduVeDluA81mLc7YtMGBwiuVRjSmzCVXZ2jgrbb7CKnCpVZDJJLjjW5Wj6nrjpJ6B_eV7LeaK0TLGcP_wYm1P8hUjQAnsF/s1600/gear.jpg",
+    "published": "2026-05-05T09:07:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called B\u2026",
+    "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows"
+  },
   "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjfw7HlDQIzbgA8xy1bk-sUkn-TVS85DGaL4vQkuTNYu3SGabQGuPKBD7C1qkCcpxwEFfdW6I9DJoSnmMmbkAu24SN1R_B2HNYwi-niSiST1LJqwMQ7tspMjxMyHXJtZUxGZbb2Hb1k-_2ywcG5hWFhOKQubJsYXiq8hyphenhyphenFfLyVewIet_ZcdTmNZEc9-Fum/s1600/godd.png",
@@ -8185,6 +8239,15 @@
     "source": "The Hacker News",
     "summary": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia The China-based cybercrime group known as Silver Fox has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor.\nThe activity involved using phishin\u2026",
     "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia"
+  },
+  "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMhaEkMCxALglRWDFwTHVYgZ0KrRmAuzdwfh0zbL5Ml163rakQSv8yRVQ8yTQ4xIAtcwdqvGyVXeZXgXGNYKoyStckJv2xzjH3f1O7oICND5cWbnIBGYkSVJbpDRYHH9XqNfFQNk1qWIVwd43UuJv2vozhpndzCMS789h026IKgX1t7pgp01AtI6i9wKE/s1600/material.jpg",
+    "published": "2026-05-05T11:58:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "The Back Door Attackers Know About \u2014 and Most Security Teams Still Haven\u2019t Closed Every AI tool, workflow automation, and productivity app your employees connected to Google or Microsoft this year left something behind: a persistent OAuth token with no expiration date, no automat\u2026",
+    "title": "The Back Door Attackers Know About \u2014 and Most Security Teams Still Haven\u2019t Closed"
   },
   "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html": {
     "categories": [],
@@ -8212,6 +8275,15 @@
     "source": "The Hacker News",
     "summary": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks\u2026",
     "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks"
+  },
+  "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJcSH4TD_VT_40WBni-IecCy9etWtsaPKvEXzvqJrDVNl0rTIg_XXWSygEBXAIP7y4saSzakCzASpQL6vtRnHRHULD71drQ3gr-y9PpzOeeQ4JzkDGorQe26Iy7zCRp0tyc_h8EYpJYEMkYjlophh6fnhGnb0ZnRqmier4jB4nMXO2A_4j2duMoSQGKbo/s1600/intruder.jpg",
+    "published": "2026-05-05T10:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving f\u2026",
+    "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is"
   },
   "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html": {
     "categories": [],
@@ -13168,6 +13240,18 @@
     "summary": "Cloudflare misconfiguration behind recent BGP route leak Cloudflare has shared more details about a recent\u00a025-minute Border Gateway Protocol (BGP)\u00a0route leak affecting IPv6 traffic, which caused measurable congestion, packet loss, and approximately 12 Gbps of dropped traffic. [..\u2026",
     "title": "Cloudflare misconfiguration behind recent BGP route leak"
   },
+  "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/": {
+    "categories": [
+      "Security",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-05-05T10:03:52+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone Link connection to steal sensitive codes from mobile devices. [...\u2026",
+    "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs"
+  },
   "https://www.bleepingcomputer.com/news/security/code-beautifiers-expose-credentials-from-banks-govt-tech-orgs/": {
     "categories": [
       "Security"
@@ -13846,6 +13930,17 @@
     "source": "BleepingComputer",
     "summary": "D-Link warns of new RCE flaws in end-of-life DIR-878 routers D-Link is warning of three remotely exploitable command execution vulnerabilities\u00a0that affect all models and hardware revisions of its DIR-878\u00a0router, which has reached end-of-service but is still\u00a0available in several m\u2026",
     "title": "D-Link warns of new RCE flaws in end-of-life DIR-878 routers"
+  },
+  "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-05T19:21:18+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor Hackers trojanized installers for the DAEMON Tools software and since April 8, delivered a backdoor to thousands of systems that downloaded the product from the official website. [...]",
+    "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor"
   },
   "https://www.bleepingcomputer.com/news/security/danabot-malware-is-back-to-infecting-windows-after-6-month-break/": {
     "categories": [
@@ -15339,6 +15434,17 @@
     "summary": "FTC settlement requires Illuminate to delete unnecessary student data The Federal Trade Commission (FTC) is proposing that education technology provider Illuminate Education to delete unnecessary student data and improve its security to settle allegations related to an incident i\u2026",
     "title": "FTC settlement requires Illuminate to delete unnecessary student data"
   },
+  "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-05T14:39:53+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "FTC to ban data broker Kochava from selling Americans\u2019 location data The FTC will ban data\u00a0broker Kochava and its subsidiary, Collective Data Solutions (CDS), from selling location data without consumers' explicit consent to settle charges alleging that it sold\u00a0precise geolocatio\u2026",
+    "title": "FTC to ban data broker Kochava from selling Americans\u2019 location data"
+  },
   "https://www.bleepingcomputer.com/news/security/fugitive-behind-73m-pig-butchering-scheme-gets-20-years-in-prison/": {
     "categories": [
       "Security"
@@ -15739,6 +15845,18 @@
     "source": "BleepingComputer",
     "summary": "Google: New UNC6783 hackers steal corporate Zendesk support tickets A threat actor tracked as\u00a0UNC6783 is compromising\u00a0business process outsourcing\u00a0(BPO) providers to gain access to high-value companies across multiple sectors. [...]",
     "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/": {
+    "categories": [
+      "Security",
+      "Google"
+    ],
+    "image": "",
+    "published": "2026-05-05T11:24:48+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Google now offers up to $1.5 million for some Android exploits Google overhauls its Android and Chrome vulnerability rewards programs, offering bounties of up to $1.5 million for the most difficult exploits while scaling back payouts for flaws that artificial intelligence (AI) ha\u2026",
+    "title": "Google now offers up to $1.5 million for some Android exploits"
   },
   "https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/": {
     "categories": [
@@ -16836,6 +16954,17 @@
     "summary": "Instructure confirms data breach, ShinyHunters claims attack Educational tech giant Instructure has confirmed that data was stolen in a cyberattack, with the ShinyHunters extortion gang claiming responsibility. [...]",
     "title": "Instructure confirms data breach, ShinyHunters claims attack"
   },
+  "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-05T21:20:23+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Instructure hacker claims data theft from 8,800 schools, universities The hacker behind a breach at education technology giant Instructure claims to have stolen 280 million data records for students and staff from 8,809\u00a0colleges, school districts, and online education platforms. \u2026",
+    "title": "Instructure hacker claims data theft from 8,800 schools, universities"
+  },
   "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/": {
     "categories": [
       "Security"
@@ -17002,6 +17131,17 @@
     "source": "BleepingComputer",
     "summary": "Kali Linux 2025.4 released with 3 new tools, desktop updates Kali Linux has released version 2025.4, its final update of the year, introducing three new hacking tools, desktop environment improvements, the preview of Wifipumpkin3 in NetHunter, and enhanced Wayland support. [...]",
     "title": "Kali Linux 2025.4 released with 3 new tools, desktop updates"
+  },
+  "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-05T10:13:17+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Karakurt extortion gang \u2018cold case\u2019 negotiator gets 8.5 years in prison A Latvian national extradited to the United States was sentenced to 8.5 years in prison for his \"cold case\" negotiator role in the Russian Karakurt ransomware group. [...]",
+    "title": "Karakurt extortion gang \u2018cold case\u2019 negotiator gets 8.5 years in prison"
   },
   "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/": {
     "categories": [
@@ -18726,6 +18866,18 @@
     "summary": "New Spiderman phishing service targets dozens of European banks A new phishing kit called Spiderman\u00a0is being used to target\u00a0customers of dozens of European banks and cryptocurrency holders with\u00a0pixel-perfect cloned sites\u00a0impersonating brands and organizations. [...]",
     "title": "New Spiderman phishing service targets dozens of European banks"
   },
+  "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/": {
+    "categories": [
+      "Security",
+      "Linux"
+    ],
+    "image": "",
+    "published": "2026-05-05T22:01:39+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New stealthy Quasar Linux malware targets software developers A previously undocumented Linux implant named Quasar Linux (QLNX) is targeting developers' systems with a mix of rootkit, backdoor, and credential-stealing capabilities. [...]",
+    "title": "New stealthy Quasar Linux malware targets software developers"
+  },
   "https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/": {
     "categories": [
       "Security"
@@ -19358,6 +19510,17 @@
     "source": "BleepingComputer",
     "summary": "Paint maker giant AkzoNobel confirms cyberattack on U.S. site The multinational Dutch paint company AkzoNobel has confirmed to BleepingComputer that hackers breached the network of one of its U.S. sites. [...]",
     "title": "Paint maker giant AkzoNobel confirms cyberattack on U.S. site"
+  },
+  "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-06T09:18:16+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks Palo Alto Networks warned customers today that a critical-severity unpatched vulnerability in the PAN-OS User-ID Authentication Portal is being exploited in attacks. [...]",
+    "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/": {
     "categories": [
@@ -20052,6 +20215,17 @@
     "source": "BleepingComputer",
     "summary": "Researcher reveals evidence of private Instagram profiles leaking photos A researcher has released detailed evidence showing some Instagram private accounts exposed photo links to unauthenticated visitors. The issue was later fixed, but Meta closed the report as not applicable an\u2026",
     "title": "Researcher reveals evidence of private Instagram profiles leaking photos"
+  },
+  "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-04T20:03:28+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Researchers report Amazon SES abused in phishing to evade detection Cybersecurity firm Kaspersky reports that the Amazon Simple Email Service (SES) is being increasingly abused\u00a0to send convincing phishing emails that can bypass standard security filters and render reputation-base\u2026",
+    "title": "Researchers report Amazon SES abused in phishing to evade detection"
   },
   "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/": {
     "categories": [
@@ -20843,6 +21017,18 @@
     "summary": "Stryker attack wiped tens of thousands of devices, no malware needed Last week's cyberattack on medical technology giant Stryker was limited to its internal Microsoft environment and remotely wiped tens of thousands of employee devices. [...]",
     "title": "Stryker attack wiped tens of thousands of devices, no malware needed"
   },
+  "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-05-05T17:34:09+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Student hacked Taiwan high-speed rail to trigger emergency brakes A 23-year-old university student in Taiwan was arrested for interfering with the TETRA communication system used by the country's high-speed railway network (THSR). [...]",
+    "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes"
+  },
   "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/": {
     "categories": [
       "Security"
@@ -21075,6 +21261,17 @@
     "source": "BleepingComputer",
     "summary": "The Double-Edged Sword of Non-Human Identities Leaked non-human identities like API keys and tokens are becoming a major breach driver in cloud environments. Flare shows how exposed machine credentials quietly grant attackers long-term access to enterprise systems. [...]",
     "title": "The Double-Edged Sword of Non-Human Identities"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-05T14:00:10+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss Critical vulnerabilities can exist in open source software your scanners don't check. HeroDevs reveals how EOL software creates blind spots in CVE feeds and SCA tools, and how you can receive a free end-of-life scan for you\u2026",
+    "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss"
   },
   "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/": {
     "categories": [
@@ -21952,6 +22149,17 @@
     "source": "BleepingComputer",
     "summary": "Video service Vimeo confirms Anodot breach exposed user data Vimeo has disclosed that data belonging to some of its customers and users has been accessed without authorization following the recent breach at the Anodot data anomaly detection company. [...]",
     "title": "Video service Vimeo confirms Anodot breach exposed user data"
+  },
+  "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-05T13:03:46+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Vimeo data breach exposes personal information of 119,000 people The ShinyHunters extortion gang stole personal information belonging to over 119,000 people after hacking the Vimeo online video platform in April, according to data breach notification service Have I Been Pwned. [.\u2026",
+    "title": "Vimeo data breach exposes personal information of 119,000 people"
   },
   "https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/": {
     "categories": [
@@ -24176,6 +24384,15 @@
     "summary": "Researchers: Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads Tracking pixels let social media companies spy on their users even after they click over to advertiser sites, gleaning credit card info, geolocations, and more, according to an analysis.",
     "title": "Researchers: Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads"
   },
+  "https://www.darkreading.com/cyber-risk/microsoft-edge-passwords-enterprise-risk": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0e4c889f98a082d1/69f9c4de2b93d911f8c512dd/Passwords-1800_designer491_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-05T14:57:51+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Microsoft Edge Stores Passwords in Process Memory, Posing Enterprise Risk A proof-of-concept exploit (PoC) shows how someone with admin privileges can exploit the issue to steal passwords, and thus use them to engage in further malicious activity.",
+    "title": "Microsoft Edge Stores Passwords in Process Memory, Posing Enterprise Risk"
+  },
   "https://www.darkreading.com/cyber-risk/microsoft-exchange-under-imminent-threat-act-now": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf4d5cbfc04379237/682b51084166a56bc7b1e108/Hook_email_phishing_Mohd_Izzuan_Roslan_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -24245,6 +24462,15 @@
     "source": "darkreading",
     "summary": "PCI Council Says Threats to Payments Systems Are Speeding Up The PCI Security Standards Council experienced a record year in many regards, but its first annual report shows it needs to work even faster to stay ahead of attackers.",
     "title": "PCI Council Says Threats to Payments Systems Are Speeding Up"
+  },
+  "https://www.darkreading.com/cyber-risk/physical-cargo-theft-cybercriminals": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1a20a00c4a995c76/69f91543b4185b753bc41213/cargo-trucks-with-containers-Siwakorn1933-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-04T21:38:06+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Physical Cargo Theft Gets a Boost From Cybercriminals Cargo theft is no longer about small groups of criminals operating on the ground, but transnational cybercriminal syndicates using access to supply chain systems to reroute goods.",
+    "title": "Physical Cargo Theft Gets a Boost From Cybercriminals"
   },
   "https://www.darkreading.com/cyber-risk/preparing-q-day-quantum-risk-management": {
     "categories": [],
@@ -24828,6 +25054,15 @@
     "summary": "Hims Breach Exposes the Most Sensitive Kinds of PHI Threat actors breached the telehealth brand, and now they may know who's bald, overweight, and impotent. What could they do with that information?",
     "title": "Hims Breach Exposes the Most Sensitive Kinds of PHI"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/how-story-usb-penetration-test-went-viral": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-05T11:56:15+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "How the Story of a USB Penetration Test Went Viral Two decades ago, pen tester Steve Stasiukonis caused a sensation by sprinkling rigged thumb drives around a credit union parking lot and following what curious employees did next. This episode looks back at the history-making eve\u2026",
+    "title": "How the Story of a USB Penetration Test Went Viral"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/iran-spies-expats-syrians-israelis": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta2424b0fd6048839/6983ac2c3bd30e51c6651003/Iran_keyboard-Per_Bengston-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -24880,6 +25115,15 @@
     "source": "darkreading",
     "summary": "Malicious Next.js Repos Target Developers Via Fake Job Interviews Linked to North Korean fake job-recruitment campaigns, the poisoned repositories are aimed at establishing persistent access to infected machines.",
     "title": "Malicious Next.js Repos Target Developers Via Fake Job Interviews"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyber-battle-field-broadens-uae": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30c725b0c4078c25/69fa57448135d03599216199/UAE-Cyber-Security-Council-Arnold_O_A_Pinto-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-06T05:30:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Middle East Cyber Battle Field Broadens \u2014 Especially in UAE As the war with Iran continues, breach attempts targeting the United Arab Emirates tripled in a few weeks \u2014 many targeting critical infrastructure.",
+    "title": "Middle East Cyber Battle Field Broadens \u2014 Especially in UAE"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/nation-state-actor-ai-malware-assembly-line": {
     "categories": [],
@@ -25081,6 +25325,15 @@
     "source": "darkreading",
     "summary": "Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate The company's 8-K filing notes &quot;unauthorized access&quot; and that it's activated business continuity plans and taken some systems offline.",
     "title": "Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/trellix-source-code-breach-supply-chain-threats": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0ce2aa588d0574d6/69fa4ff52a5a217abee03ef2/trellix_frantic_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-05T20:40:11+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Trellix Source Code Breach Highlights Growing Supply Chain Threats Info is scant, but such breaches can reveal where a security product's controls are located and how detections are designed, giving attackers a leg up.",
+    "title": "Trellix Source Code Breach Highlights Growing Supply Chain Threats"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/unc6384-european-diplomat-windows": {
     "categories": [],
