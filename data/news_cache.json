@@ -8096,6 +8096,15 @@
     "summary": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign A newly discovered Vietnamese-linked operation has been observed using a Google AppSheet as a \"phishing relay\" to distribute phishing emails with an aim to compromise Facebook accounts.\nThe activity has been co\u2026",
     "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign"
   },
+  "https://thehackernews.com/2026/05/android-apps-get-public-verification.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3jZdmrzsI_G2u8N5XuvPgzGCHzkTGTIPHZg7O6QMeciCwLNFKkNmxL0c6lZkA06Z0lN2JEpama8zVQuSL-nLLFOqhFyU6AVuYug-he692ziNQNCWxxJKE7YHB28bVu0owc6CiMS19lRL9sOc6yg6GSs9XmjB1PW26cLqISDSFwiE2eXHjQyAhk9T9gOTe/s1600/android-app.jpg",
+    "published": "2026-05-06T09:13:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks Google has announced expanded Binary Transparency for Android as a way to safeguard the ecosystem from supply chain attacks.\n\"This new public ledger ensures the Google apps on your device are exactly what \u2026",
+    "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks"
+  },
   "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD3mr1fHyy1yT3u6ebxE9skoiCRtBYdZnkvdputmKF0XgZW5BKeQKkvnYswwusYFG4tvzVeWOqP3wgGtqLA7Ds9I-PYlasFVkOmaClo8IIpRGtdvuFZuKzDgvktukM1YXbTDbBAZUfk1mtWx8lHFF8N_YZXRl0ncSWtGGkzXDkm5gWMovjixeiyh6w_64W/s1600/chinese-hackers.jpg",
@@ -8186,6 +8195,24 @@
     "summary": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-con\u2026",
     "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries"
   },
+  "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHPb4dDONnDMbu5rdNKex39FCs_4elspTEwE3dJbDsEBn1OdHrNS_0oI2V2mKCG4PjUGsBy5T4ZCec8kSdK2hTXkaq3fIIDX5XLBKfU9X4dNamC0zGfgcZ5dxPy1PNGKtAIye5IpODYmyzgMYBSRfyUcAnLhOBsHSitLujoCQABiz9b2KfYnzUhPN8rqPK/s1600/botnet-malware.jpg",
+    "published": "2026-05-06T20:21:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network c\u2026",
+    "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks"
+  },
+  "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjE6bniWklmqJDwZMxQ07Yrb1XNwfkmJE8SGUazlNaXgn1tcbJkvCSjtbo31oAqPZwb9U9KQ-uDMPmQbxwzthxG9J2j65qOUZAph7AAMJOeXYKbcU8jYwIIyjc_i7YnSrOKQ3jPtHAuCs_vdlyWe6O3ViLRYgza2usaIoYA2GgWxKpGGl6u05IZG_QZmP_/s1600/teams-hacker.jpg",
+    "published": "2026-05-06T13:00:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack The Iranian state-sponsored hacking group known as MuddyWater (aka Mango Sandstorm, Seedworm, and Static Kitten) has been attributed to a ransomware attack in what has been described as a \"false \u2026",
+    "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack"
+  },
   "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF11tAg5Rdf8st9TeSlgPkW_Rn1I3Xi4Xl6wJjNMThFLB0oYYl2kKURYxYxgtnEphAJkeHzRxVrm8LX_7i8RDXgdLQhq4HM5ecZCrv3biRciuLM2JufgdxHqJR3eNTcTsIBWJBAz1Nv8Gac1fhW0vZ8Kgb7RFOC7_9zkL7Uy_SCrFOKps1scenY4c_LPSH/s1600/paloalto.jpg",
@@ -8222,6 +8249,15 @@
     "summary": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass.\nMOVEit Automation (formerly Central) i\u2026",
     "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass"
   },
+  "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGun7lMQJXWH3IQiR3ml3RMzAbb1QJcWEtgqDrKTjPbvBhTsDPaCWmI1vTAnevTVPx0lg4xvPkOcpx_86_Znxdgpj-hynQXGEHqf94dvYwOy5VqqnqBWEWrJ3MEkQcLVBVt00Y8pUqVWj4W-hYYepmDmtX9PRQh87qZC7XbJCwdEaLsBY-vTsbkS0yqikd/s1600/pypi.jpg",
+    "published": "2026-05-07T09:20:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux Cybersecurity researchers have discovered three packages on the Python Package Index (PyPI) repository that are designed to stealthily deliver a previously unknown malware family called&nbsp;ZiChatBot on \u2026",
+    "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux"
+  },
   "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-UMvuxvPI2rmCsc57tI37aod9slTjeUUo0b7InSRMTwGg3UGwzu04cKgA6DE92m455noFtcxdsXfhhDlsc2CTWg8Un_DXBCEduVeDluA81mLc7YtMGBwiuVRjSmzCVXZ2jgrbb7CKnCpVZDJJLjjW5Wj6nrjpJ6B_eV7LeaK0TLGcP_wYm1P8hUjQAnsF/s1600/gear.jpg",
@@ -8248,6 +8284,15 @@
     "source": "The Hacker News",
     "summary": "The Back Door Attackers Know About \u2014 and Most Security Teams Still Haven\u2019t Closed Every AI tool, workflow automation, and productivity app your employees connected to Google or Microsoft this year left something behind: a persistent OAuth token with no expiration date, no automat\u2026",
     "title": "The Back Door Attackers Know About \u2014 and Most Security Teams Still Haven\u2019t Closed"
+  },
+  "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Yg33sY2y1VE4mkNb135928ke63sPOMciQgxVLYK0vXlJfSbZPCF0Q2b6URj-uZG0YOarE7-_WKyEc2OTstYRdmcdOagHSWstqHftoc-rv7vWrKepoENsBmKnR7P9jqH6MK9z-oa3RpOks3HGTqafjHUrPp2t-Xny6btfsAMIBcPWPBXq0hZv2-7XrkE/s1600/the-hacker-news-cybersecurity-stars-awards-2026.jpg.jpg",
+    "published": "2026-05-06T12:03:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' \u2014 Submissions Now Open For nearly 20 years, we at The Hacker News have mostly told scary stories about cyberspace \u2014 big hacks, broken systems, and new threats.\nBut behind every headline, there\u2019s a quieter, better story.\nI\u2026",
+    "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' \u2014 Submissions Now Open"
   },
   "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html": {
     "categories": [],
@@ -8276,6 +8321,15 @@
     "summary": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks\u2026",
     "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks"
   },
+  "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGJE3Tcr425AIfztOUrdhPUiEkVY8bMrHMmO-5FZ2N3cLaW9ErdLJJS3KwjzYNvLAIcVT7xpSw8wswiDIPenyZa_ki3ZrOHJFY-cXKHPu0EGnfCGXxkEAlvE6tLogT8T_lRolQ-qI-GFqlgwqpbLD1HfmDo4HkJbV9XNDh9rcGbM3Nc8ruu5I_47DBmzsy/s1600/vm2.jpg",
+    "published": "2026-05-07T04:15:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on suscepti\u2026",
+    "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution"
+  },
   "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJcSH4TD_VT_40WBni-IecCy9etWtsaPKvEXzvqJrDVNl0rTIg_XXWSygEBXAIP7y4saSzakCzASpQL6vtRnHRHULD71drQ3gr-y9PpzOeeQ4JzkDGorQe26Iy7zCRp0tyc_h8EYpJYEMkYjlophh6fnhGnb0ZnRqmier4jB4nMXO2A_4j2duMoSQGKbo/s1600/intruder.jpg",
@@ -8302,6 +8356,24 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More This week, the shadows moved faster than the patches.\nWhile most teams were still triaging last month\u2019s alerts, attackers had already turned control panels into kill switches, kernels into \u2026",
     "title": "\u26a1 Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More"
+  },
+  "https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGxYFVfOUbXRWanB_1qyRHBYCgWirEtqd3EO06BrIjnLqrTEOoTnXclKQsujA4YCVfI8Q5IWuriVAlckls65vvV2Am5PCEB1s_HHoFxpA779oT1qbnNB0Q8dqLU3GGbwINtDDmp8Ge3bdxQJWab3toekaGDgi1FFJ73uNysl8wEnXfgk6W88b1qSJcu2gX/s1600/link-to-windows.jpg",
+    "published": "2026-05-06T08:34:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs Cybersecurity researchers have disclosed details of an intrusion that involved the use of a CloudZ remote access tool (RAT) and a previous undocumented plugin dubbed Pheno with the aim of facilitating creden\u2026",
+    "title": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs"
+  },
+  "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb87wroQ6p8nQAYNIPc9sSFlIxMecj9qcrm9KPOaAt0-DTof7kW6e6FCc1dmoBFrtyFcZQOhyphenhyphenupMl7E3GAv-6C-5OM3U3NkEo7fKnYw-SWnwzI-yDfsY4J5kM8jgqfIqoSxHp4GJpdjK9kosjlzftCwYxSsva4jnhPHH92FT5rppUXnxCnINf05kPSzb5G/s1600/Orchid.gif",
+    "published": "2026-05-06T10:57:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing? Analysts recently confirmed what identity security teams have quietly feared: AI agents are being deployed faster than enterprises can govern them. In their inaugural Market Guide for Guardian Agents\u2026",
+    "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/": {
     "categories": [
@@ -13723,6 +13795,17 @@
     "summary": "Critical SolarWinds Serv-U flaws offer root access to servers SolarWinds has patched four critical Serv-U remote code execution vulnerabilities that could grant attackers root access to unpatched servers. [...]",
     "title": "Critical SolarWinds Serv-U flaws offer root access to servers"
   },
+  "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-06T18:38:38+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Critical vm2 sandbox bug lets attackers execute code on hosts A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]",
+    "title": "Critical vm2 sandbox bug lets attackers execute code on hosts"
+  },
   "https://www.bleepingcomputer.com/news/security/critical-whisperpair-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/": {
     "categories": [
       "Security"
@@ -13930,6 +14013,17 @@
     "source": "BleepingComputer",
     "summary": "D-Link warns of new RCE flaws in end-of-life DIR-878 routers D-Link is warning of three remotely exploitable command execution vulnerabilities\u00a0that affect all models and hardware revisions of its DIR-878\u00a0router, which has reached end-of-service but is still\u00a0available in several m\u2026",
     "title": "D-Link warns of new RCE flaws in end-of-life DIR-878 routers"
+  },
+  "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-06T16:43:30+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "DAEMON Tools devs confirm breach, release malware-free version Disc Soft Limited, the maker of DAEMON Tools Lite, confirmed that the software had been trojanized in a supply chain attack and released a new, malware-free version. [...]",
+    "title": "DAEMON Tools devs confirm breach, release malware-free version"
   },
   "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/": {
     "categories": [
@@ -16105,6 +16199,17 @@
     "summary": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses Threat actors are abusing the special-use \".arpa\" domain and IPv6 reverse DNS in phishing campaigns that more easily evade domain reputation checks and email security gateways. [...]",
     "title": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-06T21:36:06+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers abuse Google ads for GoDaddy ManageWP login phishing A phishing campaign delivered through Google sponsored search results is targeting credentials for ManageWP, GoDaddy's platform for managing fleets of WordPress websites. [...]",
+    "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-abuse-triofox-antivirus-feature-to-deploy-remote-access-tools/": {
     "categories": [
       "Security"
@@ -18104,6 +18209,17 @@
     "summary": "Mozilla Firefox gets new anti-fingerprinting defenses Mozilla announced a major privacy upgrade in Firefox 145 that reduces even more the number of users vulnerable to digital fingerprinting. [...]",
     "title": "Mozilla Firefox gets new anti-fingerprinting defenses"
   },
+  "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-06T13:02:52+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "MuddyWater hackers use Chaos ransomware as a decoy in attacks The MuddyWater Iranian hackers disguised their operations as a Chaos ransomware attack, relying on \u00a0Microsoft Teams social engineering to gain access and establish persistence. [...]",
+    "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/multi-threat-android-malware-sturnus-steals-signal-whatsapp-messages/": {
     "categories": [
       "Security",
@@ -18337,6 +18453,17 @@
     "source": "BleepingComputer",
     "summary": "New China-linked hackers breach telcos using edge device exploits A sophisticated threat actor that uses Linux-based malware to target telecommunications providers has recently broadened its operations to include organizations in Southeastern Europe. [...]",
     "title": "New China-linked hackers breach telcos using edge device exploits"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-06T18:06:21+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New Cisco DoS flaw requires manual reboot to revive devices Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting targeted systems for recovery. [...]",
+    "title": "New Cisco DoS flaw requires manual reboot to revive devices"
   },
   "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/": {
     "categories": [
@@ -22349,6 +22476,17 @@
     "summary": "Webinar: Why MSPs must rethink security and backup strategies Security breaches don't just test your defenses\u2014they test your recovery. Join Kaseya in our upcoming webinar to learn how MSPs strengthen resilience with SaaS backups and BCDR to stay operational after attacks. [...]",
     "title": "Webinar: Why MSPs must rethink security and backup strategies"
   },
+  "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-06T12:56:32+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Webinar: Why network incidents escalate and how to fix response gaps Most network incidents don't escalate due to a lack of alerts; they escalate when response breaks down. This webinar explores how to fix gaps in triage, enrichment, and coordination. [...]",
+    "title": "Webinar: Why network incidents escalate and how to fix response gaps"
+  },
   "https://www.bleepingcomputer.com/news/security/webrat-malware-spread-via-fake-vulnerability-exploits-on-github/": {
     "categories": [
       "Security"
@@ -22521,6 +22659,17 @@
     "source": "BleepingComputer",
     "summary": "Why password controls still matter in cybersecurity Passwords still matter \u2014 and weak policies leave the door wide open. Specops Software explains how longer passphrases, smarter banned-password lists, and adaptive rotation strategies can strengthen security without frustrating u\u2026",
     "title": "Why password controls still matter in cybersecurity"
+  },
+  "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-06T14:04:14+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Why ransomware attacks succeed even when backups exist Backups don't fail because they're missing, they fail because attackers destroy them first. Acronis explains how ransomware targets backup systems before encryption, leaving no path to recovery. [...]",
+    "title": "Why ransomware attacks succeed even when backups exist"
   },
   "https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/": {
     "categories": [
@@ -24490,6 +24639,15 @@
     "summary": "Ransomware Gang Goes Full 'Godfather' With Cartel Since its launch in 2023, DragonForce has pushed a cartel model, emphasizing cooperation and coordination among ransomware gangs.",
     "title": "Ransomware Gang Goes Full 'Godfather' With Cartel"
   },
+  "https://www.darkreading.com/cyber-risk/research-hub-bridges-cybersecurity-gap-organizations": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb801b23c75c6d479/69ef84ca571da63ad9514579/2XMCPR9.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-05T20:00:49+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Research Hub Bridges Cybersecurity Gap for Under-Resourced Organizations The UC Berkeley Center for Long-Term Cybersecurity (CLTC) offers tools and support to schools, local governments, and non-profits as they defend themselves against a growing volume of cyberattacks.",
+    "title": "Research Hub Bridges Cybersecurity Gap for Under-Resourced Organizations"
+  },
   "https://www.darkreading.com/cyber-risk/rsac-eu-leads-us-officials-sidelined": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb35ee8873789c8f7/69c449c675d6b1b7bb6bf41e/US_and_EU_Dragon_Claws_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -24772,6 +24930,15 @@
     "source": "darkreading",
     "summary": "Attackers Hide Infostealer in Copyright Infringement Notices A phishing campaign targeting healthcare, government, hospitality, and education sectors in various countries uses several evasion techniques to avoid detection.",
     "title": "Attackers Hide Infostealer in Copyright Infringement Notices"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/attacks-abuse-windows-phone-link-texts-bypass-2fa": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1e09d5a76fa90123/69fb1b614f86c9e600c8fbcf/smartphone_warning_Mohd_Izzuan_Roslan_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-06T10:30:27+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Attacks Abuse Windows Phone Link to Steal Texts &amp; Bypass 2FA In hard-to-detect attacks, hackers are dropping the CloudZ RAT and a fresh plug-in, Pheno, to hijack the Windows-based bridge between PCs and smartphones.",
+    "title": "Attacks Abuse Windows Phone Link to Steal Texts &amp; Bypass 2FA"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/automated-credential-harvesting-campaign-react2shell": {
     "categories": [],
@@ -25062,6 +25229,15 @@
     "source": "darkreading",
     "summary": "How the Story of a USB Penetration Test Went Viral Two decades ago, pen tester Steve Stasiukonis caused a sensation by sprinkling rigged thumb drives around a credit union parking lot and following what curious employees did next. This episode looks back at the history-making eve\u2026",
     "title": "How the Story of a USB Penetration Test Went Viral"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/instructure-breach-exposes-schools-vendor-dependence": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc313eec07f19bb91/69fb990fce7a03313d4341a4/Instructure_Timon_Schneider_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-06T21:02:57+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Instructure Breach Exposes Schools' Vendor Dependence ShinyHunters' attack on Instructure, which owns the widely used Canvas learning management system (LMS), carries big questions about the trust educational institutions put into their vendors.",
+    "title": "Instructure Breach Exposes Schools' Vendor Dependence"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/iran-spies-expats-syrians-israelis": {
     "categories": [],
@@ -26441,6 +26617,15 @@
     "summary": "WhatsApp Leaks User Metadata to Attackers Strangers can infer limited info about you without knowing or messaging you, which could theoretically aid certain kinds of malicious activity.",
     "title": "WhatsApp Leaks User Metadata to Attackers"
   },
+  "https://www.darkreading.com/endpoint-security/yet-another-way-bypass-google-chromes-encryption-protection": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0b9267d0fd783b29/69fba7aa14132e45944be6c4/cookies_izzuanroslan_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-06T21:19:11+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Yet Another Way to Bypass Google Chrome's Encryption Protection Authors of the VoidStealer Trojan uncovered a way to get around Google's App-Bound Encryption (ABE), opening the door to infostealers.",
+    "title": "Yet Another Way to Bypass Google Chrome's Encryption Protection"
+  },
   "https://www.darkreading.com/events/black-hat-usa": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt89877e9bb04a9e15/69c6ee0e1eae740fa6bfca88/623600_BHUS26_Web_Ads_One_Liner_300x250.png?width=1280&auto=webp&quality=80&disable=upscale",
@@ -27682,6 +27867,15 @@
     "summary": "Storm-1175 Deploys Medusa Ransomware at 'High Velocity' Microsoft says the financially motivated cybercrime group has exploited N-day and zero-day vulnerabilities in campaigns predicated on speed.",
     "title": "Storm-1175 Deploys Medusa Ransomware at 'High Velocity'"
   },
+  "https://www.darkreading.com/threat-intelligence/stuxnet-chatgpt-20-news-events-cyber": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9677f673333f2cf1/69fa1c7e14132e49be4be3e1/20-Ink_Drop-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-06T12:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "From Stuxnet to ChatGPT: 20 News Events That Shaped Cyber As part of its 20th anniversary celebration, Dark Reading looks back on 20 of the biggest newsmaking events from the past two decades that influenced the risk landscape for today's cybersecurity teams.",
+    "title": "From Stuxnet to ChatGPT: 20 News Events That Shaped Cyber"
+  },
   "https://www.darkreading.com/threat-intelligence/teampcp-attacks-hacker-infighting": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt521dd4163ce7b43a/69cfd9e44d3fef6aef031bbc/breaches_hirunlaowisit_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -28198,6 +28392,15 @@
     "source": "darkreading",
     "summary": "RondoDox Botnet Expands Scope With React2Shell Exploitation Recent attacks are targeting Next.js servers and pose a significant threat of cryptomining, botnet payloads, and other malicious activity to IoT networks and enterprises.",
     "title": "RondoDox Botnet Expands Scope With React2Shell Exploitation"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/security-leadership-makes-breaks-penetration-tests": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c43a304b72dbf9f/69f4fa5efd88b890dc44f905/pentest_dizain_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-05T18:36:34+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Why Security Leadership Makes or Breaks a Pen Test Well-run security drills go beyond checking audit boxes to identifying and addressing trouble spots. Effective leaders ensure proper scope, access, and follow-through, but it's not easy.",
+    "title": "Why Security Leadership Makes or Breaks a Pen Test"
   },
   "https://www.darkreading.com/vulnerabilities-threats/semantic-chaining-jailbreak-gemini-nano-banana-grok-4": {
     "categories": [],
