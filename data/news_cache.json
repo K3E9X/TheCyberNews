@@ -8168,6 +8168,15 @@
     "summary": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware A newly identified supply chain attack targeting DAEMON Tools software has compromised its installers to serve a malicious payload, according to findings from Kaspersky.\n\"These installers are distribute\u2026",
     "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware"
   },
+  "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdEBtnOnAfYEV-De3NPPeeTCPWK_gSqYM7OZ0ioRJl84OvS49Fp-GJucJfc-ADDOhyTe11dUoYbkIlA1gYW5b8E6KxYIG71gNa0pU4tmqiEyfmxAEyI1A3n2ZOzfePdcm5WdqHVnFlrSwzgNlOmWKMUOHTqUjS_qUhHBEI9CpMJ_OZrUgn-yaHjTDaXJ0/s1600/main.jpg",
+    "published": "2026-05-07T10:54:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Day Zero Readiness: The Operational Gaps That Break Incident Response Having an incident response retainer, or even a pre-approved external incident response firm, is not the same as being ready for an incident. A retainer means someone will answer the phone. Operational readines\u2026",
+    "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response"
+  },
   "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVrpguh4mhS2wkIhYWPYbS2Nsjl1RPI5gpXYCZwdMyJtKk9uRU1yDIxTq7itnRWazzARvSlJ9oZTsKvGyWqOMjGyOPQ0YX6nNgUuJ9R2dD0X3Mv9Bjc0HvY3TeZHVQfLhXZd-w88FMBV71qJCVedcKQhL0Wd8YH7Jzwbasus9GF6LLzaRGG0tOFxP5TwmS/s1600/SCAMS.jpg",
@@ -8176,6 +8185,24 @@
     "source": "The Hacker News",
     "summary": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M A coordinated international operation involving U.S. and Chinese authorities has arrested at least 276 suspects and shut down nine scam centers used for cryptocurrency investment fraud schemes targeting Ameri\u2026",
     "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M"
+  },
+  "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-v9Rdn-UppGqdbm0oFYXNg6myRCPn8r-d4BXVN0e2r2hqrYbGPUwOKafMbwKlojjbck4C8Ez6dxZ7WcLF45PNphvCo1K4OGhXl0u9fWanVMbO62iZoWMQJrplTa6VaXfI2rhQL40PoDK0ZNh2jqDJGBc9LylbIE92LWSNEIkVUhSpkGyAfV7g-DVZlU1/s1600/ivanti.jpg",
+    "published": "2026-05-07T17:55:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild.\nThe high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2)\u2026",
+    "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access"
+  },
+  "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnVSDBWt4hKZ-DOrZqHWPVH0JxrpcUeup9hpMpoH5Ny8bpuJ6Lviv58aH0aK2S2IJvAugaYRhM8P9wUW3tbVCu2kFMQbG5F16kI3PvS6gmR2Px8qOxcat-tK-UHV9oSDsAv9MHjvrduyndsqhicJxX1GroDTBo8it4ANI2wKIUVauhdxbgrNBQHhdgq2SW/s1600/linux.gif",
+    "published": "2026-05-08T05:12:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel.\nDubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026\u2026",
+    "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions"
   },
   "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html": {
     "categories": [],
@@ -8213,6 +8240,15 @@
     "summary": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack The Iranian state-sponsored hacking group known as MuddyWater (aka Mango Sandstorm, Seedworm, and Static Kitten) has been attributed to a ransomware attack in what has been described as a \"false \u2026",
     "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack"
   },
+  "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_1BMhUux9JB2X26ToAMnW32GttimEIwRX1fG4_LrlZjedjkjzps_Ad-eiSX-2LlJ1FFIw3g1kvH1kKrgwETmSgTk8wal5a7AJQNIY2IH3317GaUYEj-_3tko2hxjKBc1ms0WQ7UjHHTst0aKtjFz1jOPasyD8x5U_GQW4KdhKxDPHhlmYVOY9TM6vLy_/s1600/zz-webinar.jpg",
+    "published": "2026-05-07T13:50:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches The hardest part of cybersecurity isn't the technology, it\u2019s the people.\nEvery major breach you\u2019ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zer\u2026",
+    "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches"
+  },
   "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF11tAg5Rdf8st9TeSlgPkW_Rn1I3Xi4Xl6wJjNMThFLB0oYYl2kKURYxYxgtnEphAJkeHzRxVrm8LX_7i8RDXgdLQhq4HM5ecZCrv3biRciuLM2JufgdxHqJR3eNTcTsIBWJBAz1Nv8Gac1fhW0vZ8Kgb7RFOC7_9zkL7Uy_SCrFOKps1scenY4c_LPSH/s1600/paloalto.jpg",
@@ -8221,6 +8257,24 @@
     "source": "The Hacker News",
     "summary": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution Palo Alto Networks has released an advisory warning that a critical buffer overflow vulnerability in its PAN-OS software has been exploited in the wild.\nThe vulnerability, tracked as CVE-2026-0300, has \u2026",
     "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution"
+  },
+  "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA-FbTXMB7fJu_4ZxIlvKU2wHShSiMZaCQBah-p33256FjWEUsO0kd4s-LXOT_YQoS39Mj5f7nhj-ERtNF2EPNU9WG91ZWJXpl4cwYFoWz8npaMpVWzAhYjVVB-JnPyoycvPmik7Y5IsihIDXp7_mHvh4DYUz9vqkkVRYgylDqKeezcDEwqRJNs4F_2scA/s1600/paloalto-rce.jpg",
+    "published": "2026-05-07T13:34:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026.\nThe vulnerability in question is CVE-2026\u2026",
+    "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage"
+  },
+  "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2N74T5rZvfRcHqUhwtyI3hbxAAQnB-RQQqpiGSIJqdplaQaZcjvqLR80d3pIjwJyGtAO5V0Ji6_3w4V4Ww901x4aSGY_Id3lzqXNdGUMbprz80zXoKzHVoIBqyhVBU_LvIMyJHV5MHaMWvZuWgREFmqG4jOdBLpW4gBtgKCrnfRS4mIXemDQ9U_fRERQf/s1600/clouds.jpg",
+    "published": "2026-05-07T17:45:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the env\u2026",
+    "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems"
   },
   "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html": {
     "categories": [],
@@ -8293,6 +8347,15 @@
     "source": "The Hacker News",
     "summary": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' \u2014 Submissions Now Open For nearly 20 years, we at The Hacker News have mostly told scary stories about cyberspace \u2014 big hacks, broken systems, and new threats.\nBut behind every headline, there\u2019s a quieter, better story.\nI\u2026",
     "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' \u2014 Submissions Now Open"
+  },
+  "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYNaH2vOiD-OgAVnO0nGCSr8j4nnvHD2n7RieJD2mDMlPev_fKoBafjhvob13LV4pOFhgMuZd6ex8zyQnCM1AyVfl6fuRG9Max2F76Ku9rWbieBvF0AtGlQd0nXlIwHDKvq5H4BJn3hGCRfE86fHs5SL05RywOADNDC9J5lG9DF8goavgxWzAh7a7isNMB/s1600/threatsday-1.jpg",
+    "published": "2026-05-07T11:33:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories Bad week.\nTurns out the easiest way to get hacked in 2026 is still the same old garbage: shady packages, fake apps, forgotten DNS junk, scam ads, and stolen logins getting dumped in\u2026",
+    "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories"
   },
   "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html": {
     "categories": [],
@@ -11755,6 +11818,17 @@
     "summary": "American utility firm Itron discloses breach of internal IT network Itron, Inc. has disclosed, via an 8-K filing with the U.S. Securities and Exchange Commission (SEC), a cybersecurity incident in which an unauthorized third party accessed certain internal systems. [...]",
     "title": "American utility firm Itron discloses breach of internal IT network"
   },
+  "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-07T13:45:48+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Americans sentenced for running 'laptop farms' for North Korea Two U.S. nationals were sentenced to 18 months in prison each for operating so-called laptop farms that helped North Korean IT workers fraudulently obtain remote employment at nearly 70 American companies. [...]",
+    "title": "Americans sentenced for running 'laptop farms' for North Korea"
+  },
   "https://www.bleepingcomputer.com/news/security/amos-infostealer-targets-macos-through-a-popular-ai-app/": {
     "categories": [
       "Security"
@@ -12021,6 +12095,17 @@
     "source": "BleepingComputer",
     "summary": "Australia warns of BadCandy infections on unpatched Cisco devices The Australian government is warning about ongoing cyberattacks against unpatched Cisco IOS XE devices in the country to infect routers with the BadCandy webshell. [...]",
     "title": "Australia warns of BadCandy infections on unpatched Cisco devices"
+  },
+  "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-07T18:00:59+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Australia warns of ClickFix attacks pushing Vidar Stealer malware The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute \u00a0the Vidar Stealer info-stealing malware. [...]",
+    "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware"
   },
   "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/": {
     "categories": [
@@ -12339,6 +12424,17 @@
     "source": "BleepingComputer",
     "summary": "Canadian retail giant Loblaw notifies customers of data breach Still, out of an abundance of caution, Loblaw says it has automatically logged out all customers from their accounts. Account holders who need to access the company's digital services will have to log in again. [...]",
     "title": "Canadian retail giant Loblaw notifies customers of data breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-07T22:36:54+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Canvas login portals hacked in mass ShinyHunters extortion campaign The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and universities. [...\u2026",
+    "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign"
   },
   "https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/": {
     "categories": [
@@ -13872,6 +13968,18 @@
     "summary": "Crypto-exchange Kraken extorted by hackers after insider breach The Kraken cryptocurrency exchange announced that a cybercrime group is trying to extort the company by threatening to release videos\u00a0showing internal systems that host\u00a0client data. [...]",
     "title": "Crypto-exchange Kraken extorted by hackers after insider breach"
   },
+  "https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-05-07T12:11:53+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Crypto gang member gets 6.5 years for role in $230 million heist A 20-year-old California man was sentenced to 78 months in prison for serving as a home invader and money launderer in a criminal ring that stole over $250 million in cryptocurrency. [...]",
+    "title": "Crypto gang member gets 6.5 years for role in $230 million heist"
+  },
   "https://www.bleepingcomputer.com/news/security/crypto-wallets-received-a-record-158-billion-in-illicit-funds-last-year/": {
     "categories": [
       "Security"
@@ -14769,6 +14877,18 @@
     "source": "BleepingComputer",
     "summary": "Fake Calendly invites spoof top brands to hijack ad manager accounts An ongoing phishing campaign impersonates popular brands, such as Unilever, Disney, MasterCard, LVMH, and Uber, in Calendly-themed lures to steal Google Workspace and Facebook business account credentials. [...]",
     "title": "Fake Calendly invites spoof top brands to hijack ad manager accounts"
+  },
+  "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-05-07T10:02:35+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Fake Claude AI website delivers new 'Beagle' Windows malware A fake version for the Claude AI website offers a malicious Claude-Pro Relay download that pushes a previously\u00a0undocumented backdoor for Windows\u00a0named Beagle. [...]",
+    "title": "Fake Claude AI website delivers new 'Beagle' Windows malware"
   },
   "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/": {
     "categories": [
@@ -17160,6 +17280,17 @@
     "summary": "Ivanti warns of critical Endpoint Manager code execution flaw American IT software company Ivanti warned customers today to patch a newly disclosed vulnerability in its Endpoint Manager (EPM) solution that could allow attackers to execute code remotely. [...]",
     "title": "Ivanti warns of critical Endpoint Manager code execution flaw"
   },
+  "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-07T15:20:51+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Ivanti warns of new EPMM flaw exploited in zero-day attacks Ivanti warned customers today to patch a high-severity remote code execution vulnerability in Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
+    "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/": {
     "categories": [
       "Security"
@@ -18748,6 +18879,18 @@
     "summary": "New Linux \u2018Copy Fail\u2019 flaw gives hackers root on major distros An exploit has been published for a local privilege escalation vulnerability dubbed \"Copy Fail\" that impacts Linux kernels released since 2017, allowing an unprivileged local attacker to gain root permissions. [...]",
     "title": "New Linux \u2018Copy Fail\u2019 flaw gives hackers root on major distros"
   },
+  "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/": {
+    "categories": [
+      "Security",
+      "Linux"
+    ],
+    "image": "",
+    "published": "2026-05-08T07:45:24+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New Linux 'Dirty Frag' zero-day gives root on all major distros A new Linux zero-day vulnerability, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
+    "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros"
+  },
   "https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/": {
     "categories": [
       "Security"
@@ -18861,6 +19004,18 @@
     "source": "BleepingComputer",
     "summary": "New password spraying attacks target Cisco, PAN VPN gateways An automated campaign is targeting multiple VPN platforms, with credential-based attacks being observed on\u00a0Palo Alto Networks GlobalProtect and Cisco SSL VPN. [...]",
     "title": "New password spraying attacks target Cisco, PAN VPN gateways"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/": {
+    "categories": [
+      "Security",
+      "Cloud"
+    ],
+    "image": "",
+    "published": "2026-05-07T18:35:50+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New PCPJack worm steals credentials, cleans TeamPCP infections A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
+    "title": "New PCPJack worm steals credentials, cleans TeamPCP infections"
   },
   "https://www.bleepingcomputer.com/news/security/new-pdfsider-windows-malware-deployed-on-fortune-100-firms-network/": {
     "categories": [
@@ -19004,6 +19159,17 @@
     "source": "BleepingComputer",
     "summary": "New stealthy Quasar Linux malware targets software developers A previously undocumented Linux implant named Quasar Linux (QLNX) is targeting developers' systems with a mix of rootkit, backdoor, and credential-stealing capabilities. [...]",
     "title": "New stealthy Quasar Linux malware targets software developers"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-07T22:06:52+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New TCLBanker malware self-spreads over WhatsApp and Outlook A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]",
+    "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook"
   },
   "https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/": {
     "categories": [
@@ -19659,6 +19825,17 @@
     "source": "BleepingComputer",
     "summary": "Palo Alto Networks warns of DoS bug letting hackers disable firewalls Palo Alto Networks patched a high-severity vulnerability that could allow unauthenticated attackers to disable firewall protections in denial-of-service (DoS) attacks. [...]",
     "title": "Palo Alto Networks warns of DoS bug letting hackers disable firewalls"
+  },
+  "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-07T10:57:59+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Palo Alto Networks firewall zero-day exploited for nearly a month Palo Alto Networks warned customers that suspected state-sponsored hackers have been exploiting a critical-severity PAN-OS firewall zero-day vulnerability for nearly a month. [...]",
+    "title": "Palo Alto Networks firewall zero-day exploited for nearly a month"
   },
   "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/": {
     "categories": [
@@ -21378,6 +21555,17 @@
     "summary": "The Black Friday 2025 Cybersecurity, IT, VPN, & Antivirus Deals Black Friday 2025 is almost here, and early deals are already live across security software, online courses, system administration tools, antivirus products, and VPN services. These discounts are limited-time offers \u2026",
     "title": "The Black Friday 2025 Cybersecurity, IT, VPN, & Antivirus Deals"
   },
+  "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-07T14:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls Your security controls aren't failing, they're missing where most of today's work actually happens. Keep Aware shows how browser activity like copy/paste and AI prompts bypass traditional protections. [...]",
+    "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls"
+  },
   "https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/": {
     "categories": [
       "Security"
@@ -22464,6 +22652,17 @@
     "source": "BleepingComputer",
     "summary": "Webinar: Spotting cyberattacks before they begin On Thursday, April 30 at 2:00 PM ET, BleepingComputer will host a live webinar with threat intelligence company Flare and threat intelligence researcher Tammy Harper, exploring how security teams can identify early warning signs of\u2026",
     "title": "Webinar: Spotting cyberattacks before they begin"
+  },
+  "https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-07T12:00:08+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Webinar: Why modern attacks require both security and recovery Modern attacks don't stop at initial compromise. This webinar explores why security and recovery must work together to reduce downtime and improve resilience. [...]",
+    "title": "Webinar: Why modern attacks require both security and recovery"
   },
   "https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/": {
     "categories": [
@@ -23757,6 +23956,15 @@
     "summary": "Trump Administration Rescinds Biden-Era SBOM Guidance Federal agencies will no longer be required to solicit software bills of material (SBOMs) from tech vendors, nor attestations that they comply with NIST's Secure Software Development Framework (SSDF). What that means long term\u2026",
     "title": "Trump Administration Rescinds Biden-Era SBOM Guidance"
   },
+  "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3ca377db822451a1/69fa57f81032fe21f456f521/claude_Samuel_Boivin_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-07T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "'TrustFall' Convention Exposes Claude Code Execution Risk Malicious repositories can trigger code execution in Claude Code, Cursor CLI, Gemini CLI, and CoPilot CLI with minimal or no user interaction, thanks to skimpy warning dialogs.",
+    "title": "'TrustFall' Convention Exposes Claude Code Execution Risk"
+  },
   "https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3396b116c4a5d80b/69e6744aa61d112dbb7caf20/allow_access_keyboard_alon_harel_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -24044,6 +24252,15 @@
     "source": "darkreading",
     "summary": "TeamPCP Turns Cloud Infrastructure into Crime Bots The threat actor has been compromising cloud environments at scale with automated worm-like attacks on exposed services and interfaces.",
     "title": "TeamPCP Turns Cloud Infrastructure into Crime Bots"
+  },
+  "https://www.darkreading.com/cloud-security/teampcp-malware-pcpjack-steals-cloud-secrets": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d42ab7db3a9305d/69fced373a447bc0eea0e5a0/Outlaw_duel-North_Wind_Picture_Archives-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-07T20:43:30+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "After Replacing TeamPCP Malware, 'PCPJack' Steals Cloud Secrets PCPJack makes innovative use of parquet files for stealthy, pre-validated target discovery as it canvasses multiple cloud environments.",
+    "title": "After Replacing TeamPCP Malware, 'PCPJack' Steals Cloud Secrets"
   },
   "https://www.darkreading.com/cloud-security/teampcp-sap-packages-mini-shai-hulud": {
     "categories": [],
@@ -25798,6 +26015,15 @@
     "summary": "Can a Global, Decentralized System Save CVE Data? As vulnerabilities in the Common Vulnerabilities and Exposures ecosystem pile up, one Black Hat Europe presenter hopes for a global, distributed alternative.",
     "title": "Can a Global, Decentralized System Save CVE Data?"
   },
+  "https://www.darkreading.com/cybersecurity-operations/cisa-new-leader-tom-parker": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd78672b4ab1bba5b/69fbad02074d2d799822412b/CISA_Timon_Schneider_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-07T19:07:17+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Has CISA Finally Found Its New Leader in Tom Parker? Dark Reading investigates rumors that Tom Parker, a board room &quot;operator&quot; and longtime cyber exec, could be next in line to take over CISA.",
+    "title": "Has CISA Finally Found Its New Leader in Tom Parker?"
+  },
   "https://www.darkreading.com/cybersecurity-operations/cisa-publishes-security-guidance-ai-ot": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9e75fc81b0e5f130/6931e3ffd6582cd18d49a60b/OT_environment_ElenaBs_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -26791,6 +27017,15 @@
     "source": "darkreading",
     "summary": "Vehicle Tire Pressure Sensors Enable Silent Tracking Like many other features and systems in modern cars, tire pressure sensors leak sensitive data that can be abused by threat actors.",
     "title": "Vehicle Tire Pressure Sensors Enable Silent Tracking"
+  },
+  "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98fa61979c1de1b0/69fb95aa4f86c99808c8fc96/Faucet-Steven_Liveoak-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-07T13:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "World's First AI-Driven Cyberattack Couldn't Breach OT Systems The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.",
+    "title": "World's First AI-Driven Cyberattack Couldn't Breach OT Systems"
   },
   "https://www.darkreading.com/identity-access-management-security/delinea-strongdm-acquisition-highlights-changing-role-pam": {
     "categories": [],
