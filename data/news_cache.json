@@ -8132,6 +8132,15 @@
     "summary": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog,\u2026",
     "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV"
   },
+  "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8HLwOMzo20kbZmflPvJJmY7su6wWOWgDLV-dJNx-k76m5ivbwVoCkFrnsLXkyO4PHAyLSkPXinjK71SDmWabyOcTlKb3juZgkXTzOVuMvZk6-LUFMhoJ-UGFvv0qEby7QmYcjTWn1m1L19VTKeB7CdmKvpvIP5ifniLO92ARSLjtf8rcXIbm8AFMZei-M/s1600/cpanel-3.jpg",
+    "published": "2026-05-09T07:16:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "cPanel, WHM Release Fixes for Three New Vulnerabilities \u2014 Patch Now cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service.\nThe list of vulner\u2026",
+    "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities \u2014 Patch Now"
+  },
   "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL7seGapCGfnl8pFznQajU2KsVPCE19qbtPTJb2sqpOuurkEKNI8ZwUui6QhYmDJODr1F5L7hrpfGBQfsCOT8oC2k_gbjmRPIFWpVZLpJzcdd9nb-UJyNNg4L9LTtEto1sSo3Fn1cIgWxgsH4Xs0GlRJgEt65_Eut7FRv7aQrkqYdJXiE9zDunU2spQOVP/s1600/apache.jpg",
@@ -8176,6 +8185,15 @@
     "source": "The Hacker News",
     "summary": "Day Zero Readiness: The Operational Gaps That Break Incident Response Having an incident response retainer, or even a pre-approved external incident response firm, is not the same as being ready for an incident. A retainer means someone will answer the phone. Operational readines\u2026",
     "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response"
+  },
+  "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMXgW6K0BZvt0-jhZ_smX3Uy-nsd9wb9g7Gs7d3G7uH-HIlEcNhEt9xpaKD_62iJol_LK5Expt-6qCuvIf7llqtQclB64I9zZm_i8CIC0lMJiIz8nx6r4C-Nj4cUgd3cQEtu3_lGFa7wcmR6q9otQhCLoB1Mbnmn7NgH6-djLs_ScqanZFNC-EVOwYyO7/s1600/android-calls.jpg",
+    "published": "2026-05-08T15:08:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to tri\u2026",
+    "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads"
   },
   "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html": {
     "categories": [],
@@ -8240,6 +8258,15 @@
     "summary": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack The Iranian state-sponsored hacking group known as MuddyWater (aka Mango Sandstorm, Seedworm, and Static Kitten) has been attributed to a ransomware attack in what has been described as a \"false \u2026",
     "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack"
   },
+  "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixNgyNI9ObZi3Il87CVXhEWyWgcK-O1IKhQKRs7NPrNVqTMBZRw7AZpmbk5RdsPxNPmO9IyXaq6QzYBN691HBgfE8HpwnyJuE4-vaCAwHPpb6UfeSRcrMI-GRjcX53cELs31s7ps6YkGx5bAAB67w4m9GQ7ZVWjSdnaPOFczjHlsS3967ZvBh-4ZvTBWEJ/s1600/linux-pam.jpg",
+    "published": "2026-05-08T08:41:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called \"darkworm.\"\nThe backdoor\u2026",
+    "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials"
+  },
   "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_1BMhUux9JB2X26ToAMnW32GttimEIwRX1fG4_LrlZjedjkjzps_Ad-eiSX-2LlJ1FFIw3g1kvH1kKrgwETmSgTk8wal5a7AJQNIY2IH3317GaUYEj-_3tko2hxjKBc1ms0WQ7UjHHTst0aKtjFz1jOPasyD8x5U_GQW4KdhKxDPHhlmYVOY9TM6vLy_/s1600/zz-webinar.jpg",
@@ -8248,6 +8275,15 @@
     "source": "The Hacker News",
     "summary": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches The hardest part of cybersecurity isn't the technology, it\u2019s the people.\nEvery major breach you\u2019ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zer\u2026",
     "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches"
+  },
+  "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUaPw5V89Ez9z5x8eFLFOhwPphGqXDQVGfd2sI-pX9Q1XTcpYlWEhFiZ6o12fzAyvtCFDQ0zs4AFlHl4HJNnjWH8hUXM9r_-oBl7YMEnU1F41Ho7DL23NJbgG4M3eoqF6CTZWqFtFcw0gOB8QfkCPW1_xQ-HwmvWr3GMzEeRFbC8SLgG5LsdnopTAHDOs/s1600/ai-soc.jpg",
+    "published": "2026-05-08T10:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report investigatin\u2026",
+    "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk"
   },
   "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html": {
     "categories": [],
@@ -8312,6 +8348,15 @@
     "summary": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux Cybersecurity researchers have discovered three packages on the Python Package Index (PyPI) repository that are designed to stealthily deliver a previously unknown malware family called&nbsp;ZiChatBot on \u2026",
     "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux"
   },
+  "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiholjenZRIykmReErkRiguk5xd9RV4BIEEPM0nT-o3LvMvDkCTLpd3G0NpqDGEFHp-f6QyvGRMip6CBhGlllYVlp9wS3XBVoV6xW47CDka7Ig8S_aotcuNlmAv3SYgS4hJzxjLp2nrV4SzqlTXnQLG_w68Cq0Bf5hiOoV6CaN9QZliRDa-StzsvIkJAdSF/s1600/kube.jpg",
+    "published": "2026-05-08T11:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise func\u2026",
+    "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise"
+  },
   "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-UMvuxvPI2rmCsc57tI37aod9slTjeUUo0b7InSRMTwGg3UGwzu04cKgA6DE92m455noFtcxdsXfhhDlsc2CTWg8Un_DXBCEduVeDluA81mLc7YtMGBwiuVRjSmzCVXZ2jgrbb7CKnCpVZDJJLjjW5Wj6nrjpJ6B_eV7LeaK0TLGcP_wYm1P8hUjQAnsF/s1600/gear.jpg",
@@ -8329,6 +8374,15 @@
     "source": "The Hacker News",
     "summary": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia The China-based cybercrime group known as Silver Fox has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor.\nThe activity involved using phishin\u2026",
     "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia"
+  },
+  "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWchpptUYeW4vXSUXfGq-uMzB1mr_dzsvX8XIWssIKzaWa4_eYbaLwec5Zos3xCoD0s8-LDcGI7Vj8DjFq6RtUY68HP21YudHYdsFS2xdyzQE7OPyuTlqyO2X9uwlSCRuVl9tAUwq0mvGuXlYkxjdmC7ynyAcIDpbejkR45ucf_L3VCDupSZMteOby7BUp/s1600/banking.jpg",
+    "published": "2026-05-08T18:12:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms.\nThe activity is being\u2026",
+    "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms"
   },
   "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html": {
     "categories": [],
@@ -12727,6 +12781,17 @@
     "summary": "CISA flags Wing FTP Server flaw as actively exploited in attacks CISA warned U.S. government agencies to secure their Wing FTP Server instances against an actively exploited vulnerability that may be chained in remote code execution attacks. [...]",
     "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-08T12:16:32+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day CISA has given\u00a0U.S. federal agencies four\u00a0days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
+    "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-gives-govt-agencies-7-days-to-patch-new-fortinet-flaw/": {
     "categories": [
       "Security"
@@ -15383,6 +15448,17 @@
     "source": "BleepingComputer",
     "summary": "Former Coinbase support agent arrested for helping hackers A former Coinbase customer service agent was arrested in India for helping hackers earlier this year\u00a0steal sensitive customer information from a company database. [...]",
     "title": "Former Coinbase support agent arrested for helping hackers"
+  },
+  "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-08T08:45:04+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Former govt contractor convicted for wiping dozens of federal databases A 34-year-old Virginia man was found guilty of conspiring to destroy dozens of government databases after getting fired from his job as a federal contractor. [...]",
+    "title": "Former govt contractor convicted for wiping dozens of federal databases"
   },
   "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/": {
     "categories": [
@@ -19511,6 +19587,19 @@
     "summary": "'NoVoice' Android malware on Google Play infected 2.3 million devices A new Android malware named NoVoice was found on Google Play, hidden in more than 50 apps that were downloaded at least 2.3 million times. [...]",
     "title": "'NoVoice' Android malware on Google Play infected 2.3 million devices"
   },
+  "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/": {
+    "categories": [
+      "Security",
+      "Cloud",
+      "Gaming"
+    ],
+    "image": "",
+    "published": "2026-05-08T16:18:31+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "NVIDIA confirms GeForce NOW data breach affecting Armenian users NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
+    "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users"
+  },
   "https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/": {
     "categories": [
       "Security",
@@ -21804,6 +21893,17 @@
     "summary": "Trellix discloses data breach after source code repository hack Cybersecurity firm Trellix disclosed a data breach after attackers gained access to \"a portion\" of its source code repository. [...]",
     "title": "Trellix discloses data breach after source code repository hack"
   },
+  "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-08T13:23:23+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Trellix source code breach claimed by RansomHouse hackers The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of images as proof of the intrusion. [...]",
+    "title": "Trellix source code breach claimed by RansomHouse hackers"
+  },
   "https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/": {
     "categories": [
       "Security"
@@ -22839,6 +22939,17 @@
     "summary": "Why Active Directory password resets are surging in hybrid work Hybrid work has driven a surge in Active Directory password resets, turning minor lockouts into major productivity drains. Specops shows why remote access, cached credentials, and security policies are fueling the sp\u2026",
     "title": "Why Active Directory password resets are surging in hybrid work"
   },
+  "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-08T14:02:12+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Why More Analysts Won\u2019t Solve Your SOC\u2019s Alert Problem Attackers move faster than overwhelmed SOC teams can realistically investigate alerts. Prophet Security breaks down how AI can help analysts investigate alerts faster and focus on real threats. [...]",
+    "title": "Why More Analysts Won\u2019t Solve Your SOC\u2019s Alert Problem"
+  },
   "https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/": {
     "categories": [
       "Security"
@@ -23031,6 +23142,17 @@
     "source": "BleepingComputer",
     "summary": "Your MFA Is Costing You Millions. It Doesn't Have To. Passwords and app-based MFA add hidden costs through lost productivity, frequent resets, and risk of phishing and social engineering attacks. Token explains how wireless biometric, passwordless authentication eliminates creden\u2026",
     "title": "Your MFA Is Costing You Millions. It Doesn't Have To."
+  },
+  "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-08T10:42:22+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Zara data breach exposed personal information of 197,000 people Hackers who gained access to the databases of Spanish fast-fashion retailer Zara stole data belonging to more than 197,000 customers, according to data breach notification service Have I Been Pwned. [...]",
+    "title": "Zara data breach exposed personal information of 197,000 people"
   },
   "https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/": {
     "categories": [
@@ -25647,6 +25769,15 @@
     "source": "darkreading",
     "summary": "ShinyHunters Expands Scope of SaaS Extortion Attacks Following its attacks on Salesforce instances last year, members of the cybercrime group have broadened their targeting and gotten more aggressive with extortion tactics.",
     "title": "ShinyHunters Expands Scope of SaaS Extortion Attacks"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7bbbe83a6784235d/69fe32ca50b7f73288ba7eeb/Instructure-Kristoffer_Tripplaar-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-08T20:08:06+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "ShinyHunters Claims Second Attack Against Instructure The edtech company is struggling to wrest control from its hackers. PII belonging to hundreds of millions of people is on the line.",
+    "title": "ShinyHunters Claims Second Attack Against Instructure"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/singapore-major-telcos-fend-chinese-hackers": {
     "categories": [],
