@@ -15078,6 +15078,18 @@
     "summary": "Fake \u2018One Battle After Another\u2019 torrent hides malware in subtitles A fake torrent for Leonardo DiCaprio's 'One Battle After Another' hides malicious PowerShell malware loaders inside subtitle files that ultimately infect devices with the Agent Tesla RAT malware. [...]",
     "title": "Fake \u2018One Battle After Another\u2019 torrent hides malware in subtitles"
   },
+  "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-05-09T14:26:03+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Fake OpenAI repository on Hugging Face pushes infostealer malware A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]",
+    "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware"
+  },
   "https://www.bleepingcomputer.com/news/security/fake-solidity-vscode-extension-on-open-vsx-backdoors-developers/": {
     "categories": [
       "Security"
@@ -17420,6 +17432,17 @@
     "source": "BleepingComputer",
     "summary": "Japanese tech giant Advantest hit by ransomware attack Advantest Corporation disclosed that its corporate network has been targeted in a ransomware attack that may have affected customer or employee data. [...]",
     "title": "Japanese tech giant Advantest hit by ransomware attack"
+  },
+  "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-09T19:27:58+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "JDownloader site hacked to replace installers with Python RAT malware The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying\u00a0a Python-based remote ac\u2026",
+    "title": "JDownloader site hacked to replace installers with Python RAT malware"
   },
   "https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/": {
     "categories": [
