@@ -8195,6 +8195,15 @@
     "summary": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to tri\u2026",
     "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads"
   },
+  "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPtLFShq_XoM9Nzsl5kmSsF2UGsm6VhRoLNodcqRCdq45zqy4ekFVtamokNzEFifQknD502Wc0uFTBUdvLsBsYn4QAeVHSWLmhF2ROBMXutev8T6JjCGrrarzLhkSTUHLBq-nEWrF0WTb2epkX_3Ba5a6Gv_21R7PPQ_zCjhk7OU702Y10tJkcJiYG52D4/s1600/hugging-face-malware.jpg",
+    "published": "2026-05-11T07:05:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windo\u2026",
+    "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads"
+  },
   "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVrpguh4mhS2wkIhYWPYbS2Nsjl1RPI5gpXYCZwdMyJtKk9uRU1yDIxTq7itnRWazzARvSlJ9oZTsKvGyWqOMjGyOPQ0YX6nNgUuJ9R2dD0X3Mv9Bjc0HvY3TeZHVQfLhXZd-w88FMBV71qJCVedcKQhL0Wd8YH7Jzwbasus9GF6LLzaRGG0tOFxP5TwmS/s1600/SCAMS.jpg",
@@ -8266,6 +8275,15 @@
     "source": "The Hacker News",
     "summary": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called \"darkworm.\"\nThe backdoor\u2026",
     "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials"
+  },
+  "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92eUjjTTMJPizvUJGwq7Ych7nrXHwGRNt3hS9yjNGRJk5d3pdIKjeZhQDVuFp0DnKjP4qoieGWFjswm7nHDLBaxWC3DxFIfLfRjMSEXd0Ta04vcTrbCpS9PEXebUUbMBxBt0VOb-PKVk-7Cq0FjuMXl4VtKneb5a3ujCo872goPN22GBFFhReJtWsQJLK/s1600/oll.jpg",
+    "published": "2026-05-10T12:41:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory.\nThe ou\u2026",
+    "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak"
   },
   "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html": {
     "categories": [],
@@ -16407,6 +16425,17 @@
     "summary": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses Threat actors are abusing the special-use \".arpa\" domain and IPv6 reverse DNS in phishing campaigns that more easily evade domain reputation checks and email security gateways. [...]",
     "title": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-10T17:52:15+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers abuse Google ads, Claude.ai chats to push Mac malware Attackers are abusing Google Ads and legitimate Claude.ai shared chats in an active malvertising campaign. Users searching for \"Claude mac download\" may come across sponsored search results that list claude.ai as the t\u2026",
+    "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/": {
     "categories": [
       "Security"
@@ -20210,6 +20239,17 @@
     "summary": "Over 20,000 crypto fraud victims identified in international crackdown An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. [...]",
     "title": "Over 20,000 crypto fraud victims identified in international crackdown"
   },
+  "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-10T14:16:47+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Police shut down reboot of Crimenetwork marketplace, arrest admin German authorities have shut down a relaunch version of the criminal marketplace 'Crimenetwork' that generated more than 3.6 million euros, and arrested its operator. [...]",
+    "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin"
+  },
   "https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/": {
     "categories": [
       "Security"
@@ -21948,6 +21988,17 @@
     "source": "BleepingComputer",
     "summary": "Trend Micro warns of critical Apex One code execution flaws Trend Micro has patched two critical Apex One vulnerabilities\u00a0that allow attackers to gain remote code execution (RCE) on vulnerable\u00a0Windows systems. [...]",
     "title": "Trend Micro warns of critical Apex One code execution flaws"
+  },
+  "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-11T09:03:02+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "TrickMo Android banker adopts TON blockchain for covert comms A new variant of the TrickMo Android banking malware, delivered in campaigns targeting users across Europe, introduces new commands and uses The Open Network (TON) for stealthy command-and-control communications. [...]",
+    "title": "TrickMo Android banker adopts TON blockchain for covert comms"
   },
   "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/": {
     "categories": [
