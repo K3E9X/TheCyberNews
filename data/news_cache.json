@@ -8132,6 +8132,15 @@
     "summary": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog,\u2026",
     "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV"
   },
+  "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgInpdPoL0Kf1i9D6daAAGB1QPCR3E0d_ArELz-ks1Y6cJ_low0jdZYqamKMKMxC12OC-XMwUrDIWdh_xK_d7zLLQfH-rDl0-Vi_VSsFswAuJL0mEtQg-FW66c_1it8d59p2An-T3_oQJ_Q_yHLiX0PHtEq2OdLcGXwxniVKGJGLusWdjJfP7M-H9ADm8cK/s1600/cpcp.jpg",
+    "published": "2026-05-11T17:54:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments.\nThe attack exp\u2026",
+    "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor"
+  },
   "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8HLwOMzo20kbZmflPvJJmY7su6wWOWgDLV-dJNx-k76m5ivbwVoCkFrnsLXkyO4PHAyLSkPXinjK71SDmWabyOcTlKb3juZgkXTzOVuMvZk6-LUFMhoJ-UGFvv0qEby7QmYcjTWn1m1L19VTKeB7CdmKvpvIP5ifniLO92ARSLjtf8rcXIbm8AFMZei-M/s1600/cpanel-3.jpg",
@@ -8213,6 +8222,33 @@
     "summary": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M A coordinated international operation involving U.S. and Chinese authorities has arrested at least 276 suspects and shut down nine scam centers used for cryptocurrency investment fraud schemes targeting Ameri\u2026",
     "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M"
   },
+  "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF329-zAoI4gwIW3h3gRYiDJjcRSyWPM4DLHFQwNNGfLTVaROqIfQZ0QB1FwWGmvMGuyNAF9Q6QBYcwLsqMsCka5Lqu82CzUbrBULnUDQwtY_4z6KiOEKSETes6as77XfUCaJVBUOCovZz8jajp6vBp9AAjHiS7BEviANEH0FxmzZwdrTapD3R-gPQWKJ1/s1600/ai-hacker.jpg",
+    "published": "2026-05-11T15:45:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time th\u2026",
+    "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation"
+  },
+  "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_FVhPeK2Y77CmHxc0azDelzWwpgSb4m8GZPLeJlsr2QvCZU5ChGQK37bJ_2XsGQRaNszalreV1iNyYDzeLt1I8iqafNTvFCPFQ0czKwX3Q6Q23TqdavunyJJsy6X8vxG_jSz__X5BnFZc4AIIqr-kd0XiNcYgx3UnYaahiViFKAywuQ98a7bbtCPnwgo/s1600/ransom-breach.jpg",
+    "published": "2026-05-12T07:37:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak American educational technology company Instructure, the parent company of Canvas, said it reached an \"agreement\" with a decentralized cybercrime extortion group after it breached its network and th\u2026",
+    "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak"
+  },
+  "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8hWB1CFFk1cxzc9VF7NI2QB-oCzrDMhxoIeajumiDRPkGyEt1wzhH3A3awM8uAZlRb2OXf33nd2O4Ug_IwHlCRNED92zQwFnDvyi9ypYQgQ8gRLCzkA6pHfJ2rfKfl-mTo5ha7KH2Jnwp9S6qIYx_6H4DnUSvVGM6k-yZfPQtKkO0pcGdhC4yVwI8-NEk/s1600/e2ee-rcs.jpg",
+    "published": "2026-05-12T05:18:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android Apple on Monday officially released iOS 26.5 with support for end-to-end encryption (E2EE) to Rich Communication Services (RCS) in beta as part of a \"cross-industry effort\" to replace traditiona\u2026",
+    "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android"
+  },
   "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-v9Rdn-UppGqdbm0oFYXNg6myRCPn8r-d4BXVN0e2r2hqrYbGPUwOKafMbwKlojjbck4C8Ez6dxZ7WcLF45PNphvCo1K4OGhXl0u9fWanVMbO62iZoWMQJrplTa6VaXfI2rhQL40PoDK0ZNh2jqDJGBc9LylbIE92LWSNEIkVUhSpkGyAfV7g-DVZlU1/s1600/ivanti.jpg",
@@ -8248,6 +8284,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-con\u2026",
     "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries"
+  },
+  "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXIhs2kZt0YGdDcd-Io67mq1GIN_iI_71LYhuin4qqmlgUgCuZ3fGUvglg_5nh5DK8kfPP8RHki86yMyqh4rTE27PGgPBh4RQjkh91-QGoB8cav5NUsYAwcV3ZJ7aEf-uEoH3pLGQ2eWuCh8lZSWAlTIa2U5I6eeB3HZmYMn4q-YoV7Ytmkpr1tN0lC2rG/s1600/mistral.jpg",
+    "published": "2026-05-12T08:50:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages TeamPCP, the threat actor behind the recent&nbsp;supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guard\u2026",
+    "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages"
   },
   "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html": {
     "categories": [],
@@ -8302,6 +8347,15 @@
     "source": "The Hacker News",
     "summary": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report investigatin\u2026",
     "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk"
+  },
+  "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLWuBkkGzJLNmcxzqkKdh6dI6X-juFjpMWr-k6VGVTL6G1XZUH1sna06RS5PQY0e4A1VpUjvR-dpWMCx0yQJBdjFyjnoyOek-ysMpU7cgWBkUHChyADdRozT1XHNIvUhU_ibCkggQaGESD7St4aCfyx4SWOfLjUSuoeWiJQmmb1EkimfKA27g_tVHdV-G-/s1600/openai-daybreak.jpg",
+    "published": "2026-05-12T06:55:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and pa\u2026",
+    "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation"
   },
   "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html": {
     "categories": [],
@@ -8402,6 +8456,15 @@
     "summary": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms.\nThe activity is being\u2026",
     "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms"
   },
+  "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq0A3_8O89uC968dpFnFxE4v3J4fpr5nEqC-2QiSJ_rtZlgPocPYIaowCvCMeONhcrFiaoSdBVeNsuTa2ipAZZ3HBMUDcfO8DZ06pughteYJItHhMLeBr_jnfLL-5WX6xBE_EjIfPDGjCYyDCa6aImjimPNl7FtM1evdnTUVEk54x9pczRaFlmEZy1Cv8B/s1600/Jenkins.jpg",
+    "published": "2026-05-11T18:30:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack Checkmarx has confirmed that a modified version of the Jenkins AST plugin was published to the Jenkins Marketplace.\n\"If you are using Checkmarx Jenkins AST plugin, you need to ensure that you ar\u2026",
+    "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack"
+  },
   "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMhaEkMCxALglRWDFwTHVYgZ0KrRmAuzdwfh0zbL5Ml163rakQSv8yRVQ8yTQ4xIAtcwdqvGyVXeZXgXGNYKoyStckJv2xzjH3f1O7oICND5cWbnIBGYkSVJbpDRYHH9XqNfFQNk1qWIVwd43UuJv2vozhpndzCMS789h026IKgX1t7pgp01AtI6i9wKE/s1600/material.jpg",
@@ -8492,6 +8555,15 @@
     "summary": "\u26a1 Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More This week, the shadows moved faster than the patches.\nWhile most teams were still triaging last month\u2019s alerts, attackers had already turned control panels into kill switches, kernels into \u2026",
     "title": "\u26a1 Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More"
   },
+  "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD4a3gzeAEAv4Bs5FqWbHG1cRyNqIOjygeSxxpNoChwyyMUWlbZHzkG0n8ysGpoAYuKqklfMtTKRct0OeYktaKLhdXpRH5pKH94tVaMX7iPeNDf7vZjFky3myBkFPJPl1xIdsWDlIYP30IeR7IZGhQZ5p82yHRdRO1OGkpAtTWgZcQSG3zXqh9tLbSSrgP/s1600/cyber-recap.jpg",
+    "published": "2026-05-11T12:36:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More Rough Monday.\nSomebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should\u2019ve died years ago \u2026",
+    "title": "\u26a1 Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More"
+  },
   "https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGxYFVfOUbXRWanB_1qyRHBYCgWirEtqd3EO06BrIjnLqrTEOoTnXclKQsujA4YCVfI8Q5IWuriVAlckls65vvV2Am5PCEB1s_HHoFxpA779oT1qbnNB0Q8dqLU3GGbwINtDDmp8Ge3bdxQJWab3toekaGDgi1FFJ73uNysl8wEnXfgk6W88b1qSJcu2gX/s1600/link-to-windows.jpg",
@@ -8509,6 +8581,15 @@
     "source": "The Hacker News",
     "summary": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing? Analysts recently confirmed what identity security teams have quietly feared: AI agents are being deployed faster than enterprises can govern them. In their inaugural Market Guide for Guardian Agents\u2026",
     "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?"
+  },
+  "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0dlupn761jekig7BbPagwo6DtccMFQV8oESHiCBIs04DdhvoVtfwhe7OVEh8VvyFpa-VFo9GKWL8tx2ZKTSn3qA7iAFCvTfoevjyPFYNb3eAmpp4pkWk3mcQd_AulszHJoxUa6z_k_Nr_KB9Ny_hoZWy1VVA-U9BV2nPvESGGqPE5r4_AbNlid_BK-M8/s1600/picus.jpg",
+    "published": "2026-05-11T11:30:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Your Purple Team Isn't Purple \u2014 It's Just Red and Blue in the Same Room Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a c\u2026",
+    "title": "Your Purple Team Isn't Purple \u2014 It's Just Red and Blue in the Same Room"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/": {
     "categories": [
@@ -9390,6 +9471,18 @@
     "source": "BleepingComputer",
     "summary": "EU court adviser says banks must immediately refund phishing victims Athanasios Rantos, the Advocate General of the Court of Justice of the EU (CJEU), has issued a formal opinion suggesting that banks must immediately refund account holders affected by unauthorized transactions, \u2026",
     "title": "EU court adviser says banks must immediately refund phishing victims"
+  },
+  "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/": {
+    "categories": [
+      "Legal",
+      "Government"
+    ],
+    "image": "",
+    "published": "2026-05-11T22:40:34+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "GM agrees to $12.75M California settlement over sale of drivers\u2019 data California Attorney General Rob Bonta announced a proposed $12.75 million settlement agreement with General Motors (GM) over allegations that the company violated the California Consumer Privacy Act (CCPA). [..\u2026",
+    "title": "GM agrees to $12.75M California settlement over sale of drivers\u2019 data"
   },
   "https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/": {
     "categories": [
@@ -16144,6 +16237,18 @@
     "summary": "Google fixes two Android zero days exploited in attacks, 107 flaws Google has released the December 2025 Android security bulletin, addressing 107 vulnerabilities, including two flaws actively exploited in targeted attacks. [...]",
     "title": "Google fixes two Android zero days exploited in attacks, 107 flaws"
   },
+  "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-05-11T13:02:30+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Google: Hackers used AI to develop zero-day exploit for web admin tool Researchers at Google Threat Intelligence Group (GTIG) say\u00a0that a zero-day exploit targeting a popular open-source web administration tool was likely generated using AI. [...]",
+    "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool"
+  },
   "https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/": {
     "categories": [
       "Security"
@@ -17296,6 +17401,17 @@
     "summary": "Instructure confirms data breach, ShinyHunters claims attack Educational tech giant Instructure has confirmed that data was stolen in a cyberattack, with the ShinyHunters extortion gang claiming responsibility. [...]",
     "title": "Instructure confirms data breach, ShinyHunters claims attack"
   },
+  "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-11T15:26:26+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Instructure confirms hackers used Canvas flaw to deface portals Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message. [...]",
+    "title": "Instructure confirms hackers used Canvas flaw to deface portals"
+  },
   "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/": {
     "categories": [
       "Security"
@@ -17306,6 +17422,17 @@
     "source": "BleepingComputer",
     "summary": "Instructure hacker claims data theft from 8,800 schools, universities The hacker behind a breach at education technology giant Instructure claims to have stolen 280 million data records for students and staff from 8,809\u00a0colleges, school districts, and online education platforms. \u2026",
     "title": "Instructure hacker claims data theft from 8,800 schools, universities"
+  },
+  "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-12T09:23:56+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Instructure reaches 'agreement' with ShinyHunters to stop data leak Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters extortion group to prevent the data stolen in a recent breach from\u2026",
+    "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak"
   },
   "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/": {
     "categories": [
@@ -18860,6 +18987,17 @@
     "summary": "New FortiClient EMS flaw exploited in attacks, emergency patch released Fortinet has released an emergency weekend security update for a new critical FortiClient Enterprise Management Server (EMS) vulnerability that is actively exploited in attacks. [...]",
     "title": "New FortiClient EMS flaw exploited in attacks, emergency patch released"
   },
+  "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-11T22:02:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "New GhostLock tool abuses Windows API to block file access A security researcher\u00a0has released a proof-of-concept tool named GhostLock that demonstrates\u00a0how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on SMB network shares. [..\u2026",
+    "title": "New GhostLock tool abuses Windows API to block file access"
+  },
   "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/": {
     "categories": [
       "Security"
@@ -19693,6 +19831,17 @@
     "source": "BleepingComputer",
     "summary": "\u2018We got hacked\u2019 emails threaten to leak University of Pennsylvania data The University of Pennsylvania suffered a cybersecurity incident on Friday, where students and alumni received a series of offensive emails from various University email addresses, claiming that data was stol\u2026",
     "title": "\u2018We got hacked\u2019 emails threaten to leak University of Pennsylvania data"
+  },
+  "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-11T22:03:06+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Official CheckMarx Jenkins package compromised with infostealer Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace. [...]",
+    "title": "Official CheckMarx Jenkins package compromised with infostealer"
   },
   "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/": {
     "categories": [
@@ -22827,6 +22976,17 @@
     "summary": "Webinar: Spotting cyberattacks before they begin On Thursday, April 30 at 2:00 PM ET, BleepingComputer will host a live webinar with threat intelligence company Flare and threat intelligence researcher Tammy Harper, exploring how security teams can identify early warning signs of\u2026",
     "title": "Webinar: Spotting cyberattacks before they begin"
   },
+  "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-11T12:30:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Webinar this week: Prevention alone is not enough against modern attacks This upcoming webinar explores how organizations need to combine security, backups, and recovery planning to reduce the impact of modern cyberattacks. [...]",
+    "title": "Webinar this week: Prevention alone is not enough against modern attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/": {
     "categories": [
       "Security"
@@ -23012,6 +23172,17 @@
     "source": "BleepingComputer",
     "summary": "Why Active Directory password resets are surging in hybrid work Hybrid work has driven a surge in Active Directory password resets, turning minor lockouts into major productivity drains. Specops shows why remote access, cached credentials, and security policies are fueling the sp\u2026",
     "title": "Why Active Directory password resets are surging in hybrid work"
+  },
+  "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-11T13:53:56+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Why Changing Passwords Doesn\u2019t End an Active Directory Breach Resetting a password doesn't always remove attackers from Active Directory. Specops Software explains how cached credentials and Kerberos tickets can keep attackers authenticated after a reset. [...]",
+    "title": "Why Changing Passwords Doesn\u2019t End an Active Directory Breach"
   },
   "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/": {
     "categories": [
@@ -24331,6 +24502,15 @@
     "source": "darkreading",
     "summary": "Google Gemini Flaw Turns Calendar Invites Into Attack Vector The indirect prompt injection vulnerability allows an attacker to weaponize invites to circumvent Google's privacy controls and access private data.",
     "title": "Google Gemini Flaw Turns Calendar Invites Into Attack Vector"
+  },
+  "https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta6129261e6e03886/69fe1d8aac518193326b56b8/AI_orchestration_NicoElNino_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-11T13:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Hackers Use AI for Exploit Development, Attack Automation Cyber adversaries have long used AI, but now attackers are using large language models to develop exploits and orchestrate complex attacks.",
+    "title": "Hackers Use AI for Exploit Development, Attack Automation"
   },
   "https://www.darkreading.com/cloud-security/heres-cloud-security-holds-year-ahead": {
     "categories": [],
@@ -25888,6 +26068,15 @@
     "summary": "Surge in Bomgar RMM Exploitation Demonstrates Supply Chain Risk The critical remote code execution flaw (CVE-2026-1731) in the remote monitoring and management tool can be exploited to spread ransomware and compromise supply chains.",
     "title": "Surge in Bomgar RMM Exploitation Demonstrates Supply Chain Risk"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/tech-cant-stop-these-threats-people-can": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc92afe17dbd34016/6a022fb240d9cd336435418d/cyber_eye_Lightfield_Studios_Inc_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-11T19:50:20+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Tech Can't Stop These Threats \u2014 Your People Can Security controls can do only so much. Here are four attacks where your employees are usually your first, and only, line of cyber defense.",
+    "title": "Tech Can't Stop These Threats \u2014 Your People Can"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/the-ransomware-holiday-bind-burnout-or-be-vulnerable": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt461cc484d5296000/693045618fc4b475001bbdad/3D71JKD.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -26851,6 +27040,15 @@
     "source": "darkreading",
     "summary": "Is the FCC's Router Ban the Wrong Fix? The agency put foreign-made consumer routers on its list of prohibited communications devices, but the ban could create more problems down the road.",
     "title": "Is the FCC's Router Ban the Wrong Fix?"
+  },
+  "https://www.darkreading.com/endpoint-security/fcc-softens-foreign-router-ban": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc4f403067dc54e94/6a02390040d9cd7e103541a1/router_Casezy_idea_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-11T21:15:48+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "FCC Softens Ban on Foreign-Made Routers The Federal Communications Commission eased some restrictions and pushed back deadlines for foreign router manufacturers, but the ban is still in place.",
+    "title": "FCC Softens Ban on Foreign-Made Routers"
   },
   "https://www.darkreading.com/endpoint-security/forgotten-endpoint-security-risks-dormant-devices": {
     "categories": [],
@@ -28621,6 +28819,24 @@
     "source": "darkreading",
     "summary": "Cursor Issue Paves Way for Credential-Stealing Attacks Researchers discovered a security weakness in the AI-powered coding tool that allows malicious MCP server to hijack Cursor's internal browser.",
     "title": "Cursor Issue Paves Way for Credential-Stealing Attacks"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/cyber-espionage-group-aviation-firms-steal-map-data": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcdb68c050b92d44f/69fe24d5757b4d3f64b57d8a/drone-mapping-system-DC_Studio-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-11T12:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Cyber Espionage Group Targets Aviation Firms to Steal Map Data The campaign quietly compromises aerospace and drone operators to exfiltrate GIS files, terrain models, and GPS data and gain a clear picture of adversaries' world view.",
+    "title": "Cyber Espionage Group Targets Aviation Firms to Steal Map Data"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/dirty-frag-exploit-blow-up-enterprise-linux-distros": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6294394cb13e6ebe/6a01bfb65f98bb6fdefc0215/bombs-Valeriy_Kachaev-Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-11T15:05:45+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "'Dirty Frag' Exploit Poised to Blow Up on Enterprise Linux Distros The privilege escalation vulnerability, which is similar to other Linux flaws like Copy Fail and Dirty Pipe, may already be under limited exploitation.",
+    "title": "'Dirty Frag' Exploit Poised to Blow Up on Enterprise Linux Distros"
   },
   "https://www.darkreading.com/vulnerabilities-threats/edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses": {
     "categories": [],
