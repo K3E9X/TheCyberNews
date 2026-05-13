@@ -8096,6 +8096,15 @@
     "summary": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign A newly discovered Vietnamese-linked operation has been observed using a Google AppSheet as a \"phishing relay\" to distribute phishing emails with an aim to compromise Facebook accounts.\nThe activity has been co\u2026",
     "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign"
   },
+  "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBNoTD0wrxHsoNUfZVLT2ImOUNC-2Md_wih6gTim-zbqkCzgGfXbtvlDgDMWeczo9RzINqu7qqk_3XK0KHSdbpLMPbR9xg_pLpjtoxugUt3B5-G9pL9wBCMI80Rx-Aw9eNxH-XXE2XpQHDtqaGDeXe3P4mGDvPgmDiqom8B2Xdfz7irCpOZVvhP9jsqudo/s1600/adnroid-Intrusion-Logging.jpg",
+    "published": "2026-05-13T06:55:42+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks.\nIntrusion Logging, available as part of Advanced Protecti\u2026",
+    "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics"
+  },
   "https://thehackernews.com/2026/05/android-apps-get-public-verification.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3jZdmrzsI_G2u8N5XuvPgzGCHzkTGTIPHZg7O6QMeciCwLNFKkNmxL0c6lZkA06Z0lN2JEpama8zVQuSL-nLLFOqhFyU6AVuYug-he692ziNQNCWxxJKE7YHB28bVu0owc6CiMS19lRL9sOc6yg6GSs9XmjB1PW26cLqISDSFwiE2eXHjQyAhk9T9gOTe/s1600/android-app.jpg",
@@ -8213,6 +8222,15 @@
     "summary": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windo\u2026",
     "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads"
   },
+  "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZpbB_p88zZf6q_DhwCbgnYn2okFYqa7pwIPmknojvkOC3heteNMp3C6bzD_6WKChB4yVK0wLyoJ_-DebN0c229j-twjPyMAC-qkfGs1tjlaEoNg30fpEDh9DIByfz_h4nKhalTC_Su-FP0AYxywL_x85ILq1t-QFPtuMa_-KbLKlfsX15kvGpPCs1OZpw/s1600/rubygemss.jpg",
+    "published": "2026-05-13T08:08:54+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channe\u2026",
+    "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data"
+  },
   "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVrpguh4mhS2wkIhYWPYbS2Nsjl1RPI5gpXYCZwdMyJtKk9uRU1yDIxTq7itnRWazzARvSlJ9oZTsKvGyWqOMjGyOPQ0YX6nNgUuJ9R2dD0X3Mv9Bjc0HvY3TeZHVQfLhXZd-w88FMBV71qJCVedcKQhL0Wd8YH7Jzwbasus9GF6LLzaRGG0tOFxP5TwmS/s1600/SCAMS.jpg",
@@ -8312,6 +8330,15 @@
     "summary": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack The Iranian state-sponsored hacking group known as MuddyWater (aka Mango Sandstorm, Seedworm, and Static Kitten) has been attributed to a ransomware attack in what has been described as a \"false \u2026",
     "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack"
   },
+  "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrSn3emm_NbwXDi3elR0wo5ErHhg-gPT4-u4zk7MHZg4u0ruMmj2_KGgPF8fz06Riv6Gu5NXMN3eBP8H5bVf6dmvOz-lvb-qrvhLlssLUzl97ZVmIWoIOmMPOGrupv864dt0d4V_dxgaaxYYNuy2z9rbZMWIOcjlwZaiifq4-ktRqlEBCJ6a_m3MFiwq65/s1600/exim.jpg",
+    "published": "2026-05-12T16:44:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution.\nExim is an open-source Mail Trans\u2026",
+    "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution"
+  },
   "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixNgyNI9ObZi3Il87CVXhEWyWgcK-O1IKhQKRs7NPrNVqTMBZRw7AZpmbk5RdsPxNPmO9IyXaq6QzYBN691HBgfE8HpwnyJuE4-vaCAwHPpb6UfeSRcrMI-GRjcX53cELs31s7ps6YkGx5bAAB67w4m9GQ7ZVWjSdnaPOFczjHlsS3967ZvBh-4ZvTBWEJ/s1600/linux-pam.jpg",
@@ -8320,6 +8347,15 @@
     "source": "The Hacker News",
     "summary": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called \"darkworm.\"\nThe backdoor\u2026",
     "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials"
+  },
+  "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbBy7H5qvorFUmJqREACqqxVC0ogVq88dP8wLyKyUPF9fCowpUSkb7foEsEPDALt0ccCpcJc6PXCJjFmQo0oX3furU-cYPULBa0-pjpiLGV04JD6kr4G0VIrvFoJo54WmgjU1YocsquA15N3hxDmwt4i82QpYdil7F4fI0SMFVv9YCkbqqGKjIi-dEmcIx/s1600/tricks.jpg",
+    "published": "2026-05-12T12:50:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2).\nThe new variant, observed by ThreatFabric between \u2026",
+    "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots"
   },
   "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html": {
     "categories": [],
@@ -8428,6 +8464,15 @@
     "source": "The Hacker News",
     "summary": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise func\u2026",
     "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise"
+  },
+  "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggIbYm86Vn45Nd86Hd5IEqHufRIS5Ud3spGUy5JWHy-My-NBVocyj-aR7E3gBKibPnrWd5DRYnDfmbaHUMuaYcNn_paUIDN11VLySLNUsXwFwVIALsNo419985zWvtepK7NVp9J4W3d7uHGWkQFgqI6zY_9Y5LWe5hsTLk-c9ZMKQ4TDlUMcMh8-_vhdIH/s1600/rubygems.jpg",
+    "published": "2026-05-12T14:47:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\"\n\"We're dealing with a\u2026",
+    "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded"
   },
   "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html": {
     "categories": [],
@@ -8546,6 +8591,15 @@
     "summary": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API A critical security vulnerability in Weaver (Fanwei) E-cology, an enterprise office automation (OA) and collaboration platform, has come under active exploitation in the wild.\nThe vulnerability (CVE-2026-226\u2026",
     "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API"
   },
+  "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA12ieHY1fiDaLvgyhGriQgzyEXJlSwwkQvcJXqP10JFEOcbwVa_EZD9H26tzLJovmlGHDHLL37-0H4y3ePSn5qDwRu6-X6I2StjAFHkiZ4_mgZOnjiKHdg2KId0sJ5OuxxWGeL7ULdNA3X_PTGcdv8_QJ4KS9RCtN-Oe3nLiOLWFwbDB46beV8jRaKG4/s1600/Radiant-webinar.jpg",
+    "published": "2026-05-12T11:58:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help Why do the Riskiest SOC Alerts Go Unanswered?\nSecurity operations teams are drowning in alerts. But the real problem isn't always alert volume; it's the blind spots. The most dangerous alerts \u2026",
+    "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help"
+  },
   "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_j3mVDqxMVjGlF1qpGV3nSUfIhHsxGDl7Nt6QQFwRUA-qOtj22zKVcE7B7UTCcjLdUrsjLPB5N7TiX8Hzjx8Hq8LPy_GdAfcO_AqMwDDWRyQ6dWdeXzFOQa1KYm8rUUDCgwCbR9kN7OCheQyc0Ijz2MuXGkY6bsqHwlBtV34Q6xH2VAPRDUjFFThKk46X/s1600/CYBERRECAP.jpg",
@@ -8563,6 +8617,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More Rough Monday.\nSomebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should\u2019ve died years ago \u2026",
     "title": "\u26a1 Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More"
+  },
+  "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzo1TUnQJpFnJbrO50dvjG14LDr2L6gKHsIIr5P73rSCgksrt2B9eVmRGKxPVvJ1qVMF63ka4So6vj5ln9T1nBIt2MV2DcH_dnYyQp1RREL4nbtnPghY7q5SAwZCwv0bN1ZV58DyTZSLw3UN00nP7uUcX_3ZqFQmAjufAvNRFshC5AJCuMdHb2n9kzC3w/s1600/ai-agents.jpg",
+    "published": "2026-05-12T10:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Why Agentic AI Is Security's Next Blind Spot Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions \u2014 most likely without meaningful involvement from the security team. The industry conve\u2026",
+    "title": "Why Agentic AI Is Security's Next Blind Spot"
   },
   "https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html": {
     "categories": [],
@@ -10211,6 +10274,18 @@
     "summary": "Microsoft March 2026 Patch Tuesday fixes 2 zero-days, 79 flaws Today is Microsoft's March 2026\u00a0Patch Tuesday with security updates for 79 flaws, including 2\u00a0publicly disclosed zero-day vulnerabilities. [...]",
     "title": "Microsoft March 2026 Patch Tuesday fixes 2 zero-days, 79 flaws"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-12T18:08:06+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days Today is Microsoft's May 2026\u00a0Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed this month. [...]",
+    "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-soon-allow-it-admins-to-uninstall-copilot-on-managed-devices/": {
     "categories": [
       "Microsoft"
@@ -10537,6 +10612,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft releases Windows 10 KB5082200 extended security update Microsoft has released the Windows 10 KB5082200 extended security update to fix the April 2026 Patch Tuesday vulnerabilities, including 2 zero-days. [...]",
     "title": "Microsoft releases Windows 10 KB5082200 extended security update"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-12T18:58:34+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft releases Windows 10 KB5087544 extended security update Microsoft has released the Windows 10 KB5087544 extended security update to fix the May\u00a02026 Patch Tuesday vulnerabilities and resolve an issue with the new Remote Desktop warnings. [...]",
+    "title": "Microsoft releases Windows 10 KB5087544 extended security update"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/": {
     "categories": [
@@ -11468,6 +11555,18 @@
     "summary": "Windows 11 KB5083631 update released with 34 changes and fixes Microsoft has released the KB5083631 optional cumulative update for Windows 11, which includes 34 changes, such as a new Xbox mode for Windows PCs, enhanced security and performance for batch files, and performance im\u2026",
     "title": "Windows 11 KB5083631 update released with 34 changes and fixes"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-05-12T18:09:12+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 KB5089549 & KB5087420 cumulative updates released Microsoft has released Windows 11 KB5089549 and KB5087420 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+    "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/": {
     "categories": [
       "Microsoft",
@@ -12015,6 +12114,18 @@
     "source": "BleepingComputer",
     "summary": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security Analysis of 1 billion CISA KEV remediation records reveal a breaking point for human-scale security. Qualys shows most critical flaws are exploited before defenders can patch them. [...]",
     "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security"
+  },
+  "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/": {
+    "categories": [
+      "Security",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-05-12T17:00:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Android 17 to expand banking scam call and privacy protections Android 17, expected to roll out next month, will introduce several security and privacy features focused on device theft, threat detection, and banking scam calls. [...]",
+    "title": "Android 17 to expand banking scam call and privacy protections"
   },
   "https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/": {
     "categories": [
@@ -15658,6 +15769,17 @@
     "source": "BleepingComputer",
     "summary": "Fortinet warns of critical FortiCloud SSO login auth bypass flaws Fortinet has released security updates to address two critical vulnerabilities in FortiOS, FortiWeb, FortiProxy, and FortiSwitchManager that could allow attackers to bypass FortiCloud SSO authentication. [...]",
     "title": "Fortinet warns of critical FortiCloud SSO login auth bypass flaws"
+  },
+  "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-12T18:23:09+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code. [...]",
+    "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator"
   },
   "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-fortiweb-zero-day-exploited-in-attacks/": {
     "categories": [
@@ -21115,6 +21237,17 @@
     "summary": "Sandworm hackers use data wipers to disrupt Ukraine's grain sector Russian state-backed hacker group Sandworm has deployed multiple data-wiping malware families in attacks targeting Ukraine's\u00a0education, government, and the grain sector, the country's main revenue source. [...]",
     "title": "Sandworm hackers use data wipers to disrupt Ukraine's grain sector"
   },
+  "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-12T11:04:55+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA SAP has released the May 2026 security updates addressing 15 vulnerabilities across multiple products, including two critical flaws in the Commerce Cloud enterprise-grade e-commerce platform and the S/4HANA ERP suit\u2026",
+    "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA"
+  },
   "https://www.bleepingcomputer.com/news/security/sap-fixes-hardcoded-credentials-flaw-in-sql-anywhere-monitor/": {
     "categories": [
       "Security"
@@ -21234,6 +21367,17 @@
     "summary": "Shai-Hulud 2.0 NPM malware attack exposed up to 400,000 dev secrets The second Shai-Hulud\u00a0attack last week exposed around 400,000 raw secrets after infecting hundreds of packages in the NPM (Node Package Manager) registry and publishing stolen data in 30,000 GitHub repositories. \u2026",
     "title": "Shai-Hulud 2.0 NPM malware attack exposed up to 400,000 dev secrets"
   },
+  "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-12T11:29:36+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages Hundreds of packages across npm and PyPI\u00a0have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers. [...]",
+    "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages"
+  },
   "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/": {
     "categories": [
       "Security"
@@ -21277,6 +21421,17 @@
     "summary": "ShinyHunters extortion gang claims Odido breach affecting millions The ShinyHunters extortion gang has claimed responsibility for breaching Dutch telecommunications provider Odido and stealing millions of user records from its compromised systems. [...]",
     "title": "ShinyHunters extortion gang claims Odido breach affecting millions"
   },
+  "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-12T19:40:31+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Signal adds security warnings for social engineering, phishing attacks Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud. [...]",
+    "title": "Signal adds security warnings for social engineering, phishing attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/": {
     "categories": [
       "Security"
@@ -21298,6 +21453,17 @@
     "source": "BleepingComputer",
     "summary": "Six for 2026: The cyber threats you can\u2019t ignore Cybersecurity threats in 2026 are accelerating, driven by AI, automation, and more effective social engineering. Corelight outlines six emerging attack trends and explains how network visibility can help defenders respond faster. [\u2026",
     "title": "Six for 2026: The cyber threats you can\u2019t ignore"
+  },
+  "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-12T17:07:01+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "\u0160koda warns of customer data breach after online shop hack \u0160koda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers. [...]",
+    "title": "\u0160koda warns of customer data breach after online shop hack"
   },
   "https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/": {
     "categories": [
@@ -22313,6 +22479,18 @@
     "summary": "UK fines Reddit $19 million for using children\u2019s data unlawfully The UK Information Commissioner's Office (ICO) has fined Reddit \u00a314.47 million (over $19.5 million) for collecting and using the personal information of children under 13 without adequate safeguards. [...]",
     "title": "UK fines Reddit $19 million for using children\u2019s data unlawfully"
   },
+  "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-05-12T20:17:19+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "UK fines water supplier $1.3M for exposing data of 664k customers The Information Commissioner's Office has fined South Staffordshire Water Plc and parent company South Staffordshire Plc \u00a3963,900 ($1.3 million) over a cyberattack that exposed the personal data of 663,887 customer\u2026",
+    "title": "UK fines water supplier $1.3M for exposing data of 664k customers"
+  },
   "https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/": {
     "categories": [
       "Security"
@@ -22646,6 +22824,17 @@
     "summary": "US disrupts SocksEscort proxy network powered by Linux malware Law enforcement agencies in the U.S. and Europe along with private partners have disrupted the SocksEscort cybercrime proxy network that used only edge devices compromised via the AVRecon malware for Linux. [...]",
     "title": "US disrupts SocksEscort proxy network powered by Linux malware"
   },
+  "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-12T23:09:55+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "US govt seeks Instructure testimony on massive Canvas cyberattack The U.S. House Committee on Homeland Security is calling on Instructure executives to testify about two cyberattacks by the ShinyHunters extortion group that targeted the company's Canvas platform, allowing threat \u2026",
+    "title": "US govt seeks Instructure testimony on massive Canvas cyberattack"
+  },
   "https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/": {
     "categories": [
       "Security"
@@ -22932,6 +23121,17 @@
     "source": "BleepingComputer",
     "summary": "Webinar: Aligning cybersecurity purchases with what your SOC team needs Learn how security leaders and SOC teams can work together to close the gap between platform decisions and operational needs. Join Sumo Logic and BleepingComputer on January 29 for a practical webinar on alig\u2026",
     "title": "Webinar: Aligning cybersecurity purchases with what your SOC team needs"
+  },
+  "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-12T19:46:04+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Webinar: Fixing the gaps in network incident response IT teams often struggle to quickly coordinate responses across disparate systems during network incidents. This upcoming webinar explores how automation and AI-assisted workflows can reduce response times and help prevent outa\u2026",
+    "title": "Webinar: Fixing the gaps in network incident response"
   },
   "https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/": {
     "categories": [
@@ -24174,6 +24374,15 @@
     "summary": "OWASP Highlights Supply Chain Risks in New Top 10 List Security misconfiguration jumped to second place while injection vulnerabilities dropped, as organizations improve defenses against traditional coding flaws.",
     "title": "OWASP Highlights Supply Chain Risks in New Top 10 List"
   },
+  "https://www.darkreading.com/application-security/patch-tuesday-microsoft-zero-day-sight": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta3704ee375f0b629/6a038cf3ee64ff5eb73bf289/swbug_Andrii_Yalanskyi_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-12T21:03:04+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "It's Patch Tuesday for Microsoft and Not a Zero-Day In Sight It's the first time in two years with no zero-days. But with 137 flaws to patch, including nine critical ones, admins still have plenty of work to do.",
+    "title": "It's Patch Tuesday for Microsoft and Not a Zero-Day In Sight"
+  },
   "https://www.darkreading.com/application-security/phishing-campaign-zeroes-lastpass-customers": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb023f7da7de72138/69712e852a97c4ee565f6b2b/bank_vault_DecaStock_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -24368,6 +24577,15 @@
     "summary": "Warlock Gang Breaches SmarterTools Via SmarterMail Bugs The ransomware group breached SmarterTools through a vulnerability in the company's own SmarterMail product.",
     "title": "Warlock Gang Breaches SmarterTools Via SmarterMail Bugs"
   },
+  "https://www.darkreading.com/application-security/worm-redux-fresh-mini-shai-hulud-infections-bite-supply-chain": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98af205e9fd3397b/6a030d8e8affd2e99d18dd19/sandworms_FlixPix_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-12T11:07:43+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Worm Redux: Fresh Mini Shai-Hulud Infections Bite Supply Chain Hundreds of npm packages infected by the self-propagating, credential-stealing worm from TeamPCP are related to the open source TanStack ecosystem.",
+    "title": "Worm Redux: Fresh Mini Shai-Hulud Infections Bite Supply Chain"
+  },
   "https://www.darkreading.com/application-security/xygeni-github-action-compromised-via-tag-poison": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltca84dfe5b302bfeb/69b1c687e135793785e83b40/Lock_unlock_graphic_Pattara_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -24520,6 +24738,15 @@
     "source": "darkreading",
     "summary": "Here's What Cloud Security's Future Holds for the Year Ahead Here are the top cloud security trends I'm seeing in my crystal ball for the New Year \u2014 particularly arming us for AI adoption.",
     "title": "Here's What Cloud Security's Future Holds for the Year Ahead"
+  },
+  "https://www.darkreading.com/cloud-security/hugging-face-packages-weaponized-single-file-tweak": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte4a392e468c2fede/6a02399dd02601ddfa8e5443/Hugging_Face_Sidney_Van_den_Boogaard_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-12T14:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Hugging Face Packages Weaponized With a Single File Tweak A tokenizer library file present in Hugging Face AI models can be manipulated to hijack the model's outputs and exfiltrate data.",
+    "title": "Hugging Face Packages Weaponized With a Single File Tweak"
   },
   "https://www.darkreading.com/cloud-security/installfix-attacks-fake-claude-code": {
     "categories": [],
@@ -26277,6 +26504,15 @@
     "source": "darkreading",
     "summary": "With AI Reshaping Entry-Level Cyber, What Happens to the Security Talent Pipeline? Automation is rewriting early-career cybersecurity work, raising urgent questions about how the next generation of security professionals will gain real-world expertise.",
     "title": "With AI Reshaping Entry-Level Cyber, What Happens to the Security Talent Pipeline?"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/20-leaders-ciso-era-2-decades-change": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt75b70c94d4929df4/69fe0f027b0753efdf549e04/architect-Artur_Marciniec-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-12T12:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "20 Leaders Who Built the CISO Era: 2 Decades of Change As part of Dark Reading's 20th anniversary special coverage, we profile the CISOs, founders, researchers, criminals, and policymakers who rewrote the enterprise risk playbook.",
+    "title": "20 Leaders Who Built the CISO Era: 2 Decades of Change"
   },
   "https://www.darkreading.com/cybersecurity-operations/20-years-cyber-dark-reading-milestone-special-coverage": {
     "categories": [],
