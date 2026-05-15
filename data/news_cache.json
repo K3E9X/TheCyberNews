@@ -8159,6 +8159,24 @@
     "summary": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog,\u2026",
     "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV"
   },
+  "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4XG5z00sF3uL0ZbhtZNiergQ9QVaZJydwP1pXEdPh2o29mwvTS2nPKRbxHftwnEJ1pvxMQS9TQknWqbovk-vW7BRPHUSsBhN4yL2iOwJnlmK7lzCdW9tJbKtKLbnfSZSWgfGlWQ6HO807gjR6dP61VylH1zxWtvfo3c7ui8aBecSjVz5miCG0jHoa8rUA/s1600/cisa-exploit.png",
+    "published": "2026-05-15T05:28:03+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catal\u2026",
+    "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits"
+  },
+  "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9rok1ToP_K0gWug0GnICltZkvx6bMRyhHfTJG1AcSfrGpM_fOVc61O3Fpyen_IW-wpb4s6Hl3qZcU5nEs77SMWSpKNDR4rrlY2syVVSNEBrpHx8RkWmYaN9MZORNICc8LNhuNjXqqhxmy7JN-y389oyQnAAFoBMJC1NoQSQFaOZ2MnrpKQRfv_eYXIoWI/s1600/cisco-exploit.jpg",
+    "published": "2026-05-14T17:45:20+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks.\nThe vulnerability, tracked as\u2026",
+    "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access"
+  },
   "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgInpdPoL0Kf1i9D6daAAGB1QPCR3E0d_ArELz-ks1Y6cJ_low0jdZYqamKMKMxC12OC-XMwUrDIWdh_xK_d7zLLQfH-rDl0-Vi_VSsFswAuJL0mEtQg-FW66c_1it8d59p2An-T3_oQJ_Q_yHLiX0PHtEq2OdLcGXwxniVKGJGLusWdjJfP7M-H9ADm8cK/s1600/cpcp.jpg",
@@ -8249,6 +8267,15 @@
     "summary": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channe\u2026",
     "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data"
   },
+  "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEld5BcqD9rYWVjx7o_XlV5pN_9djvilow0iIYP-LlFEzGReX8fTPZ0gKi9zMGVLTT8qddHu5FyBMaZpQroEzYFpsoPWf96hD7JeTdqsROemmavXW2pDxNwc9kjvpJdhahmXA5Ng88tN1lyO5rqzC3K6JNwPFPWBo7OzSsaiQIN8JJsXvMrGhewMfzpouF/s1600/uk.jpg",
+    "published": "2026-05-14T14:00:37+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine.\nActive since at least 2016, Ghostwriter has bee\u2026",
+    "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike"
+  },
   "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVrpguh4mhS2wkIhYWPYbS2Nsjl1RPI5gpXYCZwdMyJtKk9uRU1yDIxTq7itnRWazzARvSlJ9oZTsKvGyWqOMjGyOPQ0YX6nNgUuJ9R2dD0X3Mv9Bjc0HvY3TeZHVQfLhXZd-w88FMBV71qJCVedcKQhL0Wd8YH7Jzwbasus9GF6LLzaRGG0tOFxP5TwmS/s1600/SCAMS.jpg",
@@ -8266,6 +8293,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time th\u2026",
     "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation"
+  },
+  "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi45HPlwBwWVoL1fRSEGy7bjtz4Z05lAO8NWxLqPrzQ93c3j5aaj_CaK5gCrJC6aYP0ePV36n27rw33vJv5mUXf3mtdOEItJjHrSkzckVGAdTU2UMp8s-HAVjNUE7jVDeTH0UikGxNZWeB6J3qVNguP2iO5V5-qUgW3g_IqxZ9cMEZy0tS0iEsl8MnSjB0/s1600/keeper.jpg",
+    "published": "2026-05-14T11:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "How AI Hallucinations Are Creating Real Security Risks AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn\u2019t have\u2026",
+    "title": "How AI Hallucinations Are Creating Real Security Risks"
   },
   "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html": {
     "categories": [],
@@ -8420,6 +8456,15 @@
     "summary": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory.\nThe ou\u2026",
     "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak"
   },
+  "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirN79ZRjEd5wnVbOTlJJsWjQ54cwSj2bM5NDzBSgAFO8f_9LrlIwQRI0ZogQX42iejmhgc1n2YcA91pFrVqtqNKKyAIXblcQ1Yx9LTs1TeNDbNN6JMUBXCKDK1W0IwnwvYl1dhQmcyTPHwakckKT_Kc9fAUDAJRj94g2pENrjy4UyTCCniOXI2rO-q66PC/s1600/Microsoft-Exchange.png",
+    "published": "2026-05-15T06:19:04+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2026-4\u2026",
+    "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email"
+  },
   "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_1BMhUux9JB2X26ToAMnW32GttimEIwRX1fG4_LrlZjedjkjzps_Ad-eiSX-2LlJ1FFIw3g1kvH1kKrgwETmSgTk8wal5a7AJQNIY2IH3317GaUYEj-_3tko2hxjKBc1ms0WQ7UjHHTst0aKtjFz1jOPasyD8x5U_GQW4KdhKxDPHhlmYVOY9TM6vLy_/s1600/zz-webinar.jpg",
@@ -8492,6 +8537,15 @@
     "summary": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH p\u2026",
     "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft"
   },
+  "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2IaSkdVZD_wyJJT-sODoazviDXhw3MGkn5XHYocnTL1YfLJpgJ-1wNaAm0Rk0phyrIv8vS73SNNkPSmlxRkK9ySAQGnn_tCP9JcVKyqee6lxjlYEp0cs2C_R9cDtgCEXwsjWtx1XnafF5r_fAuDDAvg0CRMOgJk8ZMwSjRsw1Js90uR-97t-rh5yU12Oj/s1600/praison.jpg",
+    "published": "2026-05-14T11:40:14+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of public disclosure.\nTh\u2026",
+    "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure"
+  },
   "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTvgdRkcdOwctclhM5XBvKXGGFrqpNsd7pJsR6Qk9QfhVd52KaiNWtY6kbWYbxzweFJDx5-sXo5UmIGJZ2yKbiSqntFDcYS7aDV_hUlAuNtcFzIPf_MDdqWq9eeyzZwJXx9__K5ynAXHc-7kJ6i66ifjuGrFqfLdn4-yDTvmL1oSZ-kVX2V9eoTq-xdiKa/s1600/moveit.jpg",
@@ -8546,6 +8600,15 @@
     "summary": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia The China-based cybercrime group known as Silver Fox has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor.\nThe activity involved using phishin\u2026",
     "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia"
   },
+  "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTj2m9-HHmDEDzKIsalsJ_HJcwcUsIFajvcpTLP9QMyqS9F_JroTH7lXeOGZFuO6j6F-RzbIo1kBIQ0udSFQGzjN2hxO8ZfyFeHM5557BPI1sjiJ7cEMJJE62t11e07Wt1CsmAntpLHSM0XbnQDvVYNBfNdAOsob9kN6G6-mQjKX68fEE1nzy_Bn4TvxyK/s1600/node.jpg",
+    "published": "2026-05-14T17:22:43+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets Cybersecurity researchers are sounding the alarm about what has been described as \"malicious activity\" in newly published versions of node-ipc.\nAccording to Socket and StepSecurity, three different versions\u2026",
+    "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets"
+  },
   "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWchpptUYeW4vXSUXfGq-uMzB1mr_dzsvX8XIWssIKzaWa4_eYbaLwec5Zos3xCoD0s8-LDcGI7Vj8DjFq6RtUY68HP21YudHYdsFS2xdyzQE7OPyuTlqyO2X9uwlSCRuVl9tAUwq0mvGuXlYkxjdmC7ynyAcIDpbejkR45ucf_L3VCDupSZMteOby7BUp/s1600/banking.jpg",
@@ -8590,6 +8653,15 @@
     "source": "The Hacker News",
     "summary": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories Bad week.\nTurns out the easiest way to get hacked in 2026 is still the same old garbage: shady packages, fake apps, forgotten DNS junk, scam ads, and stolen logins getting dumped in\u2026",
     "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories"
+  },
+  "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjImYNT-qC7frGzEXeok3KDX_JNMKote6V1FVXIpkAoSEER2z1YyT8dpFq5RtRhBQ0cweEPbBIuioDWFf5rw_Mf-0V6rXR2ZrMh2ISDa7X7NlV9zIGsoLSAnyd_86eVkrR4wU24yxbuCYaAmyGFwlF77YCjvgU3n43P-yFT-pzjsmQ35Oaut1klg62bs_-i/s1600/threatsday-2.jpg",
+    "published": "2026-05-14T16:07:46+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories Everything is still on fire.\nThis week feels dumb in the worst way \u2014 bad links, weak checks, fake help desks, shady forum posts, and people turning supply chain attacks into some cursed little\u2026",
+    "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories"
   },
   "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html": {
     "categories": [],
@@ -8698,6 +8770,15 @@
     "source": "The Hacker News",
     "summary": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs Cybersecurity researchers have disclosed details of an intrusion that involved the use of a CloudZ remote access tool (RAT) and a previous undocumented plugin dubbed Pheno with the aim of facilitating creden\u2026",
     "title": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs"
+  },
+  "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXt7ooDl2PwJY4nazAKdW9rmILsmosve2FZaO9usxTk_rkksEEvsLgY-uc_MErXvjvusuWjN7PWRM9KaRXB1OkL75gio7tcqpMsPZxaFNE9XDpYmARH3Dw_gGgddwWXHSt5VUJ-lb56F9bCVzTYghEo7qELWVv8K_W8V1BrWgssgqWkzPJxW6I31i_GyYf/s1600/windowss.jpg",
+    "published": "2026-05-14T09:25:50+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows \u2026",
+    "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation"
   },
   "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html": {
     "categories": [],
@@ -11266,6 +11347,18 @@
     "summary": "Microsoft updates Windows DLL that triggered security alerts Microsoft has resolved a known issue that was causing security applications to incorrectly flag a core Windows component, the company said in a service alert posted this week. [...]",
     "title": "Microsoft updates Windows DLL that triggered security alerts"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-15T09:40:42+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft warns of Exchange zero-day flaw exploited in attacks On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outloo\u2026",
+    "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/": {
     "categories": [
       "Microsoft"
@@ -11781,6 +11874,19 @@
     "source": "BleepingComputer",
     "summary": "15-year-old detained over French govt agency data breach French authorities have detained a 15-year-old suspected of selling data stolen in a cyberattack on France Titres (ANTS), the country's agency for issuing and managing administrative documents. [...]",
     "title": "15-year-old detained over French govt agency data breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence",
+      "Healthcare"
+    ],
+    "image": "",
+    "published": "2026-05-14T15:43:41+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "18-year-old NGINX vulnerability allows DoS, potential RCE An 18-year-old flaw in the NGINX open-source web server, discovered using an autonomous scanning system, can be exploited for denial of service and, under certain conditions, remote code execution. [...]",
+    "title": "18-year-old NGINX vulnerability allows DoS, potential RCE"
   },
   "https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/": {
     "categories": [
@@ -13640,6 +13746,17 @@
     "summary": "Cisco warns of max severity Secure FMC flaws giving root access Cisco has released security updates to patch two maximum-severity vulnerabilities in its Secure Firewall Management Center (FMC) software. [...]",
     "title": "Cisco warns of max severity Secure FMC flaws giving root access"
   },
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-14T20:09:56+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks Cisco is warning that a critical Catalyst SD-WAN Controller authentication bypass flaw, tracked as CVE-2026-20182, was actively exploited in zero-day attacks that allowed attackers to gain administrative privil\u2026",
+    "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/": {
     "categories": [
       "Security"
@@ -14431,6 +14548,17 @@
     "source": "BleepingComputer",
     "summary": "Curl ending bug bounty program after flood of AI slop reports The developer of the popular curl command-line utility and library announced that the project will end its HackerOne security bug bounty program at the end of this month, after being overwhelmed by low-quality AI-gener\u2026",
     "title": "Curl ending bug bounty program after flood of AI slop reports"
+  },
+  "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-14T15:21:32+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight Cargo theft now starts with phishing emails and stolen credentials, not hijackings, to reroute and steal freight from supply chains. NMFTA outlines how cyber-enabled cargo crime is changing transportati\u2026",
+    "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight"
   },
   "https://www.bleepingcomputer.com/news/security/cyber-theory-vs-practice-are-you-navigating-with-faulty-instruments/": {
     "categories": [
@@ -16928,6 +17056,17 @@
     "summary": "Hackers exploit 29 zero-days on second day of Pwn2Own Automotive Hackers collect $439,250 after exploiting 29 zero-day vulnerabilities on the second day of Pwn2Own Automotive 2026. [...]",
     "title": "Hackers exploit 29 zero-days on second day of Pwn2Own Automotive"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-14T21:07:17+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin Hackers are leveraging a critical authentication bypass vulnerability in the WordPress plugin Burst Statistics to obtain admin-level access to websites. [...]",
+    "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-flaw-in-jobmonster-wordpress-theme/": {
     "categories": [
       "Security"
@@ -17919,6 +18058,17 @@
     "source": "BleepingComputer",
     "summary": "Kimwolf Android botnet abuses residential proxies to infect internal devices The Kimwolf botnet, an Android variant of the Aisuru malware, has grown to more than two million hosts, most of them infected by exploiting vulnerabilities in residential proxy networks to target devices\u2026",
     "title": "Kimwolf Android botnet abuses residential proxies to infect internal devices"
+  },
+  "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-14T12:12:40+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "KongTuke hackers now use Microsoft Teams for corporate breaches Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks. [...]",
+    "title": "KongTuke hackers now use Microsoft Teams for corporate breaches"
   },
   "https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/": {
     "categories": [
@@ -20206,6 +20356,18 @@
     "summary": "Open VSX rotates access tokens used in supply-chain malware attack The Open VSX registry rotated access tokens after they were accidentally leaked by developers in public repositories and allowed threat actors to publish malicious extensions in an attempted supply-chain attack. [\u2026",
     "title": "Open VSX rotates access tokens used in supply-chain malware attack"
   },
+  "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/": {
+    "categories": [
+      "Security",
+      "Education"
+    ],
+    "image": "",
+    "published": "2026-05-14T19:07:24+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "OpenAI confirms security breach in TanStack supply chain attack OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its application\u2026",
+    "title": "OpenAI confirms security breach in TanStack supply chain attack"
+  },
   "https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/": {
     "categories": [
       "Security"
@@ -22057,6 +22219,17 @@
     "summary": "TeamPCP deploys Iran-targeted wiper in Kubernetes attacks The TeamPCP hacking group is targeting Kubernetes clusters with a malicious script that wipes all machines when it detects systems configured for Iran. [...]",
     "title": "TeamPCP deploys Iran-targeted wiper in Kubernetes attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-14T22:50:36+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "TeamPCP hackers advertise Mistral AI code repos for sale The TeamPCP hacker group is threatening to leak source code from the Mistral AI project unless a buyer is found for the data. [...]",
+    "title": "TeamPCP hackers advertise Mistral AI code repos for sale"
+  },
   "https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/": {
     "categories": [
       "Security"
@@ -23659,6 +23832,20 @@
     "summary": "Wikipedia hit by self-propagating JavaScript worm that vandalized pages The Wikimedia Foundation suffered a security incident today after a self-propagating JavaScript worm began vandalizing pages and modifying user scripts across multiple wikis. [...]",
     "title": "Wikipedia hit by self-propagating JavaScript worm that vandalized pages"
   },
+  "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/": {
+    "categories": [
+      "Security",
+      "Linux",
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-05-14T18:53:50+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026 On the first day of Pwn2Own Berlin 2026, security researchers collected $523,000 in cash awards after exploiting 24 unique zero-days. [...]",
+    "title": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026"
+  },
   "https://www.bleepingcomputer.com/news/security/windows-11-now-supports-3rd-party-apps-for-native-passkey-management/": {
     "categories": [
       "Security"
@@ -23889,6 +24076,17 @@
     "source": "BleepingComputer",
     "summary": "Zyxel warns of critical RCE flaw affecting over a dozen routers Taiwan networking provider Zyxel has released security updates to address a critical vulnerability affecting over a dozen router models that can allow unauthenticated attackers to gain remote command execution on unp\u2026",
     "title": "Zyxel warns of critical RCE flaw affecting over a dozen routers"
+  },
+  "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/": {
+    "categories": [
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-05-14T10:03:39+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Dell confirms its SupportAssist software causes Windows BSOD crashes Dell confirmed that its SupportAssist software is causing blue-screen crashes on some Windows systems following a wave of user reports about random reboots affecting Dell devices since Friday. [...]",
+    "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes"
   },
   "https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/": {
     "categories": [
@@ -25705,6 +25903,15 @@
     "summary": "At RSAC, the EU Leads While US Officials Are Sidelined While US government sits out this year, EU officials are on the ground in San Francisco leading the conversations on today's top cybersecurity challenges.",
     "title": "At RSAC, the EU Leads While US Officials Are Sidelined"
   },
+  "https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfcc8475497281343/67e40db954e011810a508de7/threat_intelligence_(1800)_Futuristic_overlay_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-14T20:57:27+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "SecurityScorecard Snags Driftnet to Level Up Threat Intelligence The acquisition looks to boost visibility into third-party ecosystems, which are becoming a bigger concern as vectors for supply chain attacks.",
+    "title": "SecurityScorecard Snags Driftnet to Level Up Threat Intelligence"
+  },
   "https://www.darkreading.com/cyber-risk/sednit-resurfaces-with-sophisticated-new-toolkit": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb0a1e321e37fc6dc/69b069c04f248870f18bc58b/russiancyber_DC_Studio_shuttersstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -26207,6 +26414,15 @@
     "summary": "Exploits Turn Windows Defender into Attacker Tool Three proof-of-concept exploits are being used in active attacks against Microsoft's built-in security platform; two are unpatched.",
     "title": "Exploits Turn Windows Defender into Attacker Tool"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/foxconn-attack-manufacturing-cyber-crisis": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2bde2506b3de4da9/6a04dd5c239afae6399403b6/foxconn_ada_Images_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-14T12:00:00+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Foxconn Attack Highlights Manufacturing's Cyber Crisis A Nitrogen ransomware attack on Foxconn's North American facilities is one of 600 hits on manufacturers this year, as gangs increasingly target the sector for its low tolerance for downtime.",
+    "title": "Foxconn Attack Highlights Manufacturing's Cyber Crisis"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/fraud-mobile-first-latin-america": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb8e829d85e5c398e/69d5706583421899916b4908/brazil-digital-flag-Skorzewiak-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -26215,6 +26431,15 @@
     "source": "darkreading",
     "summary": "Fraud Rockets Higher in Mobile-First Latin America Cyber-fraudsters move quickly from compromised devices to account takeover to funds transfer, shifting money before many financial institutions can react.",
     "title": "Fraud Rockets Higher in Mobile-First Latin America"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf983cc244eaa1c16/6a04800d239afae8d4940268/Frost_Piotr_Malczyk_AlamyStockPhoto.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-14T16:59:25+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "'FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine Attackers uniquely fingerprint victims before delivering spear-phishing payloads aimed at espionage, in the latest campaign from the Belarussian nation-state threat group.",
+    "title": "'FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/glasswing-secured-code-stack-on-you": {
     "categories": [],
@@ -26785,6 +27010,15 @@
     "source": "darkreading",
     "summary": "AI App Spending Report: Where Are the Security Tools? An analysis of startup firms' spending on AI applications finds the top categories to be productivity and content-generation. Security? Not so much.",
     "title": "AI App Spending Report: Where Are the Security Tools?"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8d0adcdfb0592b29/6a023182733969819914d590/venturecapital_AlekseyFuntap_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-14T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI Drives Cybersecurity Investments, Widening 'Valley of Death' In a role reversal, investment dollars in security startups exceeded the value of mergers and acquisitions in 1Q26 by more than $1 billion, a rare occurrence.",
+    "title": "AI Drives Cybersecurity Investments, Widening 'Valley of Death'"
   },
   "https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox": {
     "categories": [],
@@ -27893,6 +28127,15 @@
     "source": "darkreading",
     "summary": "Serial-to-IP Devices Hide Thousands of Old and New Bugs The OT devices that translate machine talk into Internet-speak are riddled with vulnerabilities and more frequently targeted for attacks, researchers say.",
     "title": "Serial-to-IP Devices Hide Thousands of Old and New Bugs"
+  },
+  "https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltba3a137dbf767ae6/6a061f2f41bd583c0c8882d7/taiwan-bullet-trains-eric1207cvb-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-15T01:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems A Taiwanese student experimenting with software-defined radio technology shut down three bullet trains for nearly an hour, leading to an anti-terrorism response.",
+    "title": "Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems"
   },
   "https://www.darkreading.com/ics-ot-security/tire-pressure-sensors-silent-tracking": {
     "categories": [],
@@ -29434,6 +29677,15 @@
     "source": "darkreading",
     "summary": "Kimsuky Debuts HTTPTroy Backdoor Against South Korea Users The well-known North Korean threat group continues to improve the obfuscation and anti-analysis features of its attack toolchain.",
     "title": "Kimsuky Debuts HTTPTroy Backdoor Against South Korea Users"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt413a34f746df538e/6a0626f76111611c85c510d8/Cisco-MTP-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-14T20:25:31+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Maximum Severity Cisco SD-WAN Bug Exploited in the Wild This is the second time this year a threat actor has leveraged a CVSS 10.0 vulnerability in Cisco's network control system.",
+    "title": "Maximum Severity Cisco SD-WAN Bug Exploited in the Wild"
   },
   "https://www.darkreading.com/vulnerabilities-threats/maximum-severity-hpe-oneview-flaw-exploited": {
     "categories": [],
