@@ -8258,6 +8258,15 @@
     "summary": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windo\u2026",
     "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads"
   },
+  "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz_tK9S8jS_n5CK694-FLGjQP5_Mmpg7z9ZRiBayWsJLsuFRIm-8j1hTlhH90779FvnvhpiFKeGP9CzI5RCPsxQEnOzAIQsPzUsAJhUWtNm9iwf9C1W9DbDmqoQ_jjHhM7huYDV210OB9o1L9NPoJ0IL6R9Xc-V4JQ91Kn-b47_2ravRJ6-qlZOVrqsuAz/s1600/openclaw.png",
+    "published": "2026-05-15T13:35:04+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence.\n\n\n  The vulnerabilities, collectively\u2026",
+    "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence"
+  },
   "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZpbB_p88zZf6q_DhwCbgnYn2okFYqa7pwIPmknojvkOC3heteNMp3C6bzD_6WKChB4yVK0wLyoJ_-DebN0c229j-twjPyMAC-qkfGs1tjlaEoNg30fpEDh9DIByfz_h4nKhalTC_Su-FP0AYxywL_x85ILq1t-QFPtuMa_-KbLKlfsX15kvGpPCs1OZpw/s1600/rubygemss.jpg",
@@ -8609,6 +8618,15 @@
     "summary": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets Cybersecurity researchers are sounding the alarm about what has been described as \"malicious activity\" in newly published versions of node-ipc.\nAccording to Socket and StepSecurity, three different versions\u2026",
     "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets"
   },
+  "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1l4Vq20M4553fkDfGbO9VqLV9Au-6EefivLp8HT2W5QxJvgWf1mr6pg5xsbC5j3FCJzOOCJv_CImY1LjjFYIN_25ajki1iS_EVPvTyeVY7bC3ogcQFzHmE1Xyaz3cRXneilC0rWcb8dLbUapLI_jZ-uBaUkku48absoxM6TG16jS3xxtw9lhhtCvJmemK/s1600/chatgpt.jpg",
+    "published": "2026-05-15T10:54:44+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production sy\u2026",
+    "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates"
+  },
   "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWchpptUYeW4vXSUXfGq-uMzB1mr_dzsvX8XIWssIKzaWa4_eYbaLwec5Zos3xCoD0s8-LDcGI7Vj8DjFq6RtUY68HP21YudHYdsFS2xdyzQE7OPyuTlqyO2X9uwlSCRuVl9tAUwq0mvGuXlYkxjdmC7ynyAcIDpbejkR45ucf_L3VCDupSZMteOby7BUp/s1600/banking.jpg",
@@ -8681,6 +8699,15 @@
     "summary": "Trellix Confirms Source Code Breach With Unauthorized Repository Access Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a \"portion\" of its source code.\nIt said it \"recently identified\" the compromise of its source code rep\u2026",
     "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access"
   },
+  "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8BT1AOScncZQM_A-0WBdCzTDAHGHSey48_Mywhij-TJupCdzP3s3o-MIImRtMZcoV2OqX3RjRV4COpVqkB1mrH3d_zjwvSTwCEXOq_2m80HgDo-xwAZ1KpR1h8eN9dAHGcKN_PpcE0cBsnv67FcthDycHLBJMYs8NkPszWNiQqdbhyL0YIlwVJn4NtgaR/s1600/code.jpg",
+    "published": "2026-05-15T17:10:25+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access The Russian state-sponsored hacking group known as\n  \n    Turla\n  \n  has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access t\u2026",
+    "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access"
+  },
   "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxhvaGpPe8ES3q62CqgJTkgm4Raiy6ugjF7dOgRUC4Sd6SsspaPB7tzYYK8lmeUi__TGffqjUeumdmUnA34ZmWJKLDG-TGoZXbyaFAaGR_49JYN9GxVGFQ13allcDdinlnrqtOUeRW6M3wdgvPyRYT_TzmYLpjYPGjYi43laVhtbrPjXs3P7dmN_DQ1Lnd/s1600/ransomware-install.jpg",
@@ -8752,6 +8779,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More Rough Monday.\nSomebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should\u2019ve died years ago \u2026",
     "title": "\u26a1 Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More"
+  },
+  "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcSUDrpIZyFrHqIlIGnXfIShsEamRNviaM6TguPwmQI9KkhrIXOQbQ0WVKiOkcBGkFqKTKZmK16zPChmlcCbZHIkX3K_C0sjnyXYJjpZuJXO3OiIhUe7Ez8jCNiTxh0FGYS2-RR6HKsl9pWJVgc_uXAtHXj0hgU-mLSsOh-QHft6A92KtgWPQhk1OVPA/s1600/Attack-Surface.jpg",
+    "published": "2026-05-15T11:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface In Your Biggest Security Risk Isn't Malware \u2014 It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It look\u2026",
+    "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface"
   },
   "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html": {
     "categories": [],
@@ -10052,6 +10088,18 @@
     "summary": "Microsoft Edge gets scareware sensor for faster scam detection Microsoft is introducing a new scareware sensor for the Microsoft Edge web browser, which helps detect scam pages more quickly and ensures that Defender SmartScreen blocks them faster. [...]",
     "title": "Microsoft Edge gets scareware sensor for faster scam detection"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-15T14:49:39+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft backpedals: Edge to stop loading passwords into memory Microsoft is updating the Edge web browser to ensure it no longer loads saved passwords into process memory in clear text at startup after previously stating it was \"by design.\" [...]",
+    "title": "Microsoft backpedals: Edge to stop loading passwords into memory"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-emergency-windows-10-update-fixes-esu-enrollment-bug/": {
     "categories": [
       "Microsoft"
@@ -11196,6 +11244,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft tests modern Windows Run, says it's faster than legacy dialog Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build. [...]",
     "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-05-15T12:29:48+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft to automatically roll back faulty Windows drivers Microsoft is introducing a new capability that will allow it to remotely roll back problematic Windows drivers delivered through Windows Update. [...]",
+    "title": "Microsoft to automatically roll back faulty Windows drivers"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-block-exchange-online-access-for-outdated-mobile-devices/": {
     "categories": [
@@ -12609,6 +12668,17 @@
     "source": "BleepingComputer",
     "summary": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins An international operation from law enforcement authorities in partnership with private companies has disrupted FrostArmada, an APT28 campaign hijacking local traffic from MikroTik and TP-Link routers to st\u2026",
     "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins"
+  },
+  "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-15T15:56:56+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Avada Builder WordPress plugin flaws allow site credential theft Two vulnerabilities in the Avada Builder plugin for WordPress, with an estimated one million active installations, allow hackers to read arbitrary files and extract sensitive information from the database. [...]",
+    "title": "Avada Builder WordPress plugin flaws allow site credential theft"
   },
   "https://www.bleepingcomputer.com/news/security/avast-makes-ai-driven-scam-defense-available-for-free-worldwide/": {
     "categories": [
@@ -16240,6 +16310,17 @@
     "summary": "Fugitive behind $73M 'pig butchering' scheme gets 20 years in prison A dual Chinese and St. Kitts and Nevis national was sentenced to 20 years in prison in absentia for his role in an international cryptocurrency investment scheme (also known as pig butchering or romance baiting)\u2026",
     "title": "Fugitive behind $73M 'pig butchering' scheme gets 20 years in prison"
   },
+  "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-15T19:30:33+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Funnel Builder WordPress plugin bug exploited to steal credit cards A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
+    "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards"
+  },
   "https://www.bleepingcomputer.com/news/security/gemini-ai-assistant-tricked-into-leaking-google-calendar-data/": {
     "categories": [
       "Security",
@@ -17759,6 +17840,17 @@
     "source": "BleepingComputer",
     "summary": "Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process Fraud operations now operate like call centers, complete with hiring, training, and performance tracking. Flare reveals how cybercriminals manage \"Caller-as-a-Service\" operations like a professional sales tea\u2026",
     "title": "Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process"
+  },
+  "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-15T14:02:12+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution Stolen browser sessions and authentication tokens are becoming more valuable than stolen passwords. Flare explains how the REMUS infostealer evolved around session theft and operational scalability. [...]",
+    "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution"
   },
   "https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/": {
     "categories": [
@@ -20926,6 +21018,17 @@
     "summary": "Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens The TeamPCP hacking group continues its supply-chain rampage, now compromising the massively popular \"LiteLLM\" Python package on PyPI and claiming to have stolen data from hundreds of thousands of devices d\u2026",
     "title": "Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens"
   },
+  "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-15T17:10:42+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Popular node-ipc npm package compromised to steal credentials Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new supply chain attack targeting npm. [...]",
+    "title": "Popular node-ipc npm package compromised to steal credentials"
+  },
   "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/": {
     "categories": [
       "Security"
@@ -21074,6 +21177,19 @@
     "source": "BleepingComputer",
     "summary": "Public GitLab repositories exposed more than 17,000 secrets After scanning all 5.6 million public repositories on GitLab Cloud, a security engineer discovered more than 17,000 exposed secrets across over 2,800\u00a0unique domains. [...]",
     "title": "Public GitLab repositories exposed more than 17,000 secrets"
+  },
+  "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/": {
+    "categories": [
+      "Security",
+      "Linux",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-05-15T17:47:25+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own \u200bDuring the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in multiple products, including Windows 11, Microsoft Exchange, and Red \u2026",
+    "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own"
   },
   "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/": {
     "categories": [
@@ -25371,6 +25487,15 @@
     "summary": "AI Agents Are Going Rogue: Here's How to Rein Them In Human-centered identity frameworks are incorrectly being applied to AI agents, creating the potential for catastrophe at machine speed, Poghosyan argues.",
     "title": "AI Agents Are Going Rogue: Here's How to Rein Them In"
   },
+  "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted41bae888a74bd1/6a0780b73c21f620148b9b52/cyberattack_fear_Yuri_Arcurs_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-18T13:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "The Boring Stuff is Dangerous Now AI agents capable of discovering and exploiting obscure vulnerabilities are emerging alongside developers producing vast amounts of potentially flawed AI-generated code, forcing defenders to adapt accordingly.",
+    "title": "The Boring Stuff is Dangerous Now"
+  },
   "https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6da71c7236b44e30/694ae29f19b0239070b0480f/AI_brain_sleepyellow_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -26328,6 +26453,15 @@
     "summary": "CodeRED Emergency Alert Platform Shut Down Following Cyberattack The Inc ransomware gang took responsibility for the attack earlier this month and claimed it stole sensitive subscriber data.",
     "title": "CodeRED Emergency Alert Platform Shut Down Following Cyberattack"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9f102c416e36970/6a062de47896f162656ad15c/canvas_pictoKraft_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-14T20:19:20+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Congress Puts Heat on Instructure After Canvas Outage The House Committee on Homeland Security sent a letter about the Canvas cyberattack, the same day that the edtech company said it reached an &quot;agreement&quot; with the ShinyHunters cybercriminals.",
+    "title": "Congress Puts Heat on Instructure After Canvas Outage"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/coyote-maverick-banking-trojans-brazil": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4b2ab9804a12c93f/6914f8d7468f86847f81b5ac/coyote_Ron_Niebrugge_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -26353,6 +26487,15 @@
     "source": "darkreading",
     "summary": "Critical Fortinet Flaws Under Active Attack Attackers targeted admin accounts, and once authenticated, exported device configurations including hashed credentials and other sensitive information.",
     "title": "Critical Fortinet Flaws Under Active Attack"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c991c2f510526e0/6a060dc5384002716e815d4f/typewriter_and_mobile_phone_mauritius_images_GmbH_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-15T12:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Cyber Pioneers Ponder Past as Prologue Robert &quot;RSnake&quot; Hansen, Katie Moussouris, Rich Mogull, Richard Stiennon, and Bruce Schneier reflect on how their favorite columns penned for Dark Reading over the past 20 years have stood the test of time.",
+    "title": "Cyber Pioneers Ponder Past as Prologue"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/ddosia-powers-volunteer-driven-hacktivist-attacks": {
     "categories": [],
