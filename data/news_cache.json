@@ -8267,6 +8267,15 @@
     "summary": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence.\n\n\n  The vulnerabilities, collectively\u2026",
     "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence"
   },
+  "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYS8AhChFEeH6IwT4x1eB5VAeGfriF4VVcwINAxXVIGyap3g0CKx0R2BdI4s99cE3Q5JHr-KUVHqdhAFNfQIrCTJ6p-vq7u5naMTwb-WFjgis4vBdR29M94wAT-Dqh46zsbo4heSJOVdFRxXzR3SgHt2ZoTPPBEbB3cu4azACiFFl7jcIGNxw1d_U7eVU9/s1600/funnel.png",
+    "published": "2026-05-16T15:20:48+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming A critical security vulnerability impacting the\n  Funnel Builder\n  plugin for WordPress has come under active exploitation in the wild to\n  inject malicious JavaScript code\n  into WooCommerce chec\u2026",
+    "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming"
+  },
   "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZpbB_p88zZf6q_DhwCbgnYn2okFYqa7pwIPmknojvkOC3heteNMp3C6bzD_6WKChB4yVK0wLyoJ_-DebN0c229j-twjPyMAC-qkfGs1tjlaEoNg30fpEDh9DIByfz_h4nKhalTC_Su-FP0AYxywL_x85ILq1t-QFPtuMa_-KbLKlfsX15kvGpPCs1OZpw/s1600/rubygemss.jpg",
@@ -8293,6 +8302,15 @@
     "source": "The Hacker News",
     "summary": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M A coordinated international operation involving U.S. and Chinese authorities has arrested at least 276 suspects and shut down nine scam centers used for cryptocurrency investment fraud schemes targeting Ameri\u2026",
     "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M"
+  },
+  "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNcCJY0s2GwOwFeSuqVz941pWrGK3theum-FBFyYO97JnK22OamMheCtr9yEEFfHMvurI7UBgl72blFK6Hm9u358g1V9HbZOk5vocuYMvgjfYLmf2XPNsSG1IiFxlbLvnRaotutjUB5I7sVLVTf1HTozz9FoeVxA3DJOn9wAOolL-HwmATDLlAD-Mgs-tO/s1600/grafana.jpg",
+    "published": "2026-05-17T07:13:33+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase.\n\n\n  \"Our investigation has determined\u2026",
+    "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt"
   },
   "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html": {
     "categories": [],
@@ -18863,6 +18881,17 @@
     "summary": "Microsoft links Medusa ransomware affiliate to zero-day attacks Microsoft says that Storm-1175, a China-based financially motivated cybercriminal group known for deploying Medusa ransomware payloads, has been deploying n-day and zero-day exploits in high-velocity attacks. [...]",
     "title": "Microsoft links Medusa ransomware affiliate to zero-day attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-16T20:55:44+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Microsoft rejects critical Azure vulnerability report, no CVE issued A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE. Microsoft disputes the claim, telling BleepingComputer the behavi\u2026",
+    "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued"
+  },
   "https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-hardware-accelerated-bitlocker-in-windows-11/": {
     "categories": [
       "Security",
@@ -21605,6 +21634,17 @@
     "source": "BleepingComputer",
     "summary": "Russian hackers exploit recently patched Microsoft Office bug in attacks Ukraine's Computer Emergency Response Team (CERT) says that Russian hackers are exploiting CVE-2026-21509, a recently patched vulnerability in\u00a0multiple versions of Microsoft Office. [...]",
     "title": "Russian hackers exploit recently patched Microsoft Office bug in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-16T14:15:37+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Russian hackers turn Kazuar backdoor into modular P2P botnet The Russian hacker group Secret Blizzard has developed its long-running Kazuar backdoor into a modular peer-to-peer (P2P) botnet designed for long-term persistence, stealth, and data collection. [...]",
+    "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet"
   },
   "https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/": {
     "categories": [
