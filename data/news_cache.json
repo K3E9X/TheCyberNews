@@ -8258,6 +8258,15 @@
     "summary": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windo\u2026",
     "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads"
   },
+  "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbN7WbW1cUkMzMJl0HPvRrQQUc5MQEE3Pvrc735aG7RGwpguum4POxa4yeQjyYIyiAYBDj_Zl6Ud8esex0AnQSG2J6TVWat57BLALA4WTi3gr5mfrLC2AHloSuvzx6fg9bTxZUvO-aA5VwHjyqbYecAWm2DnM9SRyt0M1GaqYzlBBKdgUR8BXV3xIDVnVN/s1600/npm-hacking.jpg",
+    "published": "2026-05-18T08:57:26+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP.\nThe list of identified pa\u2026",
+    "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware"
+  },
   "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz_tK9S8jS_n5CK694-FLGjQP5_Mmpg7z9ZRiBayWsJLsuFRIm-8j1hTlhH90779FvnvhpiFKeGP9CzI5RCPsxQEnOzAIQsPzUsAJhUWtNm9iwf9C1W9DbDmqoQ_jjHhM7huYDV210OB9o1L9NPoJ0IL6R9Xc-V4JQ91Kn-b47_2ravRJ6-qlZOVrqsuAz/s1600/openclaw.png",
@@ -8411,6 +8420,15 @@
     "summary": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages TeamPCP, the threat actor behind the recent&nbsp;supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guard\u2026",
     "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages"
   },
+  "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvmx8dRRiQKx4cT0aT1-zTuzdjfThwxmlbzb2ikeeqIXUXGdcJhRrq4BykcdBB572URpoAHQhSTSyahR3M7TyvOsLSCekQGCUFM8sTcdsxkrpRFrT41wF8EqKA5LjzYHpzUtro2136Iy55cKQ_wixFUSsFDnilkUNCvrDvJbHBKK3k_IelHt9lOmbW01_u/s1600/windows-exploits.jpg",
+    "published": "2026-05-18T08:57:34+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day\u2026",
+    "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems"
+  },
   "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHPb4dDONnDMbu5rdNKex39FCs_4elspTEwE3dJbDsEBn1OdHrNS_0oI2V2mKCG4PjUGsBy5T4ZCec8kSdK2hTXkaq3fIIDX5XLBKfU9X4dNamC0zGfgcZ5dxPy1PNGKtAIye5IpODYmyzgMYBSRfyUcAnLhOBsHSitLujoCQABiz9b2KfYnzUhPN8rqPK/s1600/botnet-malware.jpg",
@@ -8473,6 +8491,15 @@
     "source": "The Hacker News",
     "summary": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2).\nThe new variant, observed by ThreatFabric between \u2026",
     "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots"
+  },
+  "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdFtAiSRukEdQXVvEzXdQKy0O9SY7RCuqFLuAEIBe4rECuQuUS76qEXnxPuEcKIIFUysRNOGdBW2Mf2n1sh1W35aU0nCksWiW7v-20p1K7RhdPPDnxKh7kt_OmQaPrmtYPJ3larEwWr9iHeQMoRtlW767YpsXBFP5-5CQ2jTJUB_jWaMmt_29uLJvaGZE_/s1600/nginx.jpg",
+    "published": "2026-05-17T11:57:53+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck.\nThe vulnerability, tra\u2026",
+    "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE"
   },
   "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html": {
     "categories": [],
@@ -8572,6 +8599,15 @@
     "source": "The Hacker News",
     "summary": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of public disclosure.\nTh\u2026",
     "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure"
+  },
+  "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis3jEEpg3n_4z5YYUwDaXETZ4KJGxCqjzrZMHUmpgvOCC7pxoSs6Rn9klL5REej9UUJJxIrOstlQDWjbTeAOUhJ7wFSoTvpLkOVx3hb5fKerxA6NkeNMDQ7bt4F-kLwEPXWZPCsVa_wXaonk9mb9CKTF4cVDToquGN57Xzw1VmszeNoEKVEvtcHMSnTCOi/s1600/fast16-stuxnet.jpg",
+    "published": "2026-05-18T06:46:37+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations.\nAccording to Broadcom-owned Symantec and Carbon Black t\u2026",
+    "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations"
   },
   "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html": {
     "categories": [],
@@ -10025,6 +10061,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft confirms April Windows updates cause backup failures Microsoft has confirmed that\u00a0the April 2026 security updates are causing\u00a0failures in third-party backup applications using the psmounterex.sys driver. [...]",
     "title": "Microsoft confirms April Windows updates cause backup failures"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-18T08:33:14+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft confirms Windows 11 security update install issues Microsoft has confirmed that the May 2026 Windows 11 security update (KB5089549) fails to install on some systems and triggers 0x800f0922 errors. [...]",
+    "title": "Microsoft confirms Windows 11 security update install issues"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/": {
     "categories": [
@@ -11609,6 +11657,18 @@
     "source": "BleepingComputer",
     "summary": "New Windows 11 emergency update fixes preview update install issues Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installation issues. [...]",
     "title": "New Windows 11 emergency update fixes preview update install issues"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-17T22:30:08+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows syste\u2026",
+    "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released"
   },
   "https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/": {
     "categories": [
@@ -15414,6 +15474,18 @@
     "summary": "Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker The former head of Trenchant, a specialized U.S. defense contractor unit, was sentenced Tuesday to more than seven years in federal prison for stealing and selling zero-day exploits to a Russian broker whose \u2026",
     "title": "Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker"
   },
+  "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/": {
+    "categories": [
+      "Security",
+      "Linux"
+    ],
+    "image": "",
+    "published": "2026-05-18T07:18:33+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Exploit available for new DirtyDecrypt Linux root escalation flaw A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers to gain root access on some Linux systems. [...]",
+    "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw"
+  },
   "https://www.bleepingcomputer.com/news/security/exploit-code-public-for-critical-fortisiem-command-injection-flaw/": {
     "categories": [
       "Security"
@@ -17143,6 +17215,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers drain $3.9M from Unleash Protocol after multisig hijack The decentralized intellectual property platform Unleash Protocol has lost around $3.9 million\u00a0worth of cryptocurrency after someone executed an unauthorized contract upgrade that allowed asset withdrawals. [...]",
     "title": "Hackers drain $3.9M from Unleash Protocol after multisig hijack"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-18T05:33:20+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026 The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws. [...]",
+    "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/": {
     "categories": [
@@ -22897,6 +22980,17 @@
     "source": "BleepingComputer",
     "summary": "TV streaming piracy service with 26M yearly visits shut down Photocall, a TV piracy streaming platform with over 26 million users annually, has ceased operations following a joint investigation by the Alliance for Creativity and Entertainment (ACE) and DAZN. [...]",
     "title": "TV streaming piracy service with 26M yearly visits shut down"
+  },
+  "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-17T14:43:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
+    "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing"
   },
   "https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/": {
     "categories": [
@@ -29633,6 +29727,15 @@
     "source": "darkreading",
     "summary": "'BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues Under the alias 'Chaotic Eclipse,' a researcher released a PoC exploit for a zero-day flaw that allows for system takeover by a local user, citing an undisclosed beef with Microsoft.",
     "title": "'BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbca6faddbee78c86/6a073d95eb9f4a233d786122/Lee_Jay-myung_Xinhua_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-18T01:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Can Laws Stop Deepfakes? South Korea Aims to Find Out South Korea's local elections next month will be a test bed for how effective regulations might be to stymie the flow of deepfakes.",
+    "title": "Can Laws Stop Deepfakes? South Korea Aims to Find Out"
   },
   "https://www.darkreading.com/vulnerabilities-threats/cheap-hardware-module-amd-intel-memory-encryption": {
     "categories": [],
