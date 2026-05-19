@@ -8177,6 +8177,15 @@
     "summary": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks.\nThe vulnerability, tracked as\u2026",
     "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access"
   },
+  "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi61imbY3-QbM_mT_6WAxBXaFeZ3eXwprN147ox_bMvVqh9NrS69IwqwwL4qu2z1eRA8NfrWwyJi9bIDuREGEVZ-LdBMCGTSxdul92ZApPGrzwqOcr3b6YBKC19N97sk75izvamQxOqBzokKhF-__uaEuw74ZbKQLxKxMQWgRXSCR3FE6ULeHGxbiIhuEso/s1600/nconsole.jpg",
+    "published": "2026-05-19T07:49:23+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace.\n\nThe extension in question is \u2026",
+    "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer"
+  },
   "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgInpdPoL0Kf1i9D6daAAGB1QPCR3E0d_ArELz-ks1Y6cJ_low0jdZYqamKMKMxC12OC-XMwUrDIWdh_xK_d7zLLQfH-rDl0-Vi_VSsFswAuJL0mEtQg-FW66c_1it8d59p2An-T3_oQJ_Q_yHLiX0PHtEq2OdLcGXwxniVKGJGLusWdjJfP7M-H9ADm8cK/s1600/cpcp.jpg",
@@ -8239,6 +8248,15 @@
     "source": "The Hacker News",
     "summary": "Day Zero Readiness: The Operational Gaps That Break Incident Response Having an incident response retainer, or even a pre-approved external incident response firm, is not the same as being ready for an incident. A retainer means someone will answer the phone. Operational readines\u2026",
     "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response"
+  },
+  "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjylLL25uQ3uU6RshKkTv9isR22Y_6_b4uJJ4koE1MqtmGs4IWdz88_aH8up_7WDxghA7-GeMbm6gpoKUXRw99Cm1ljO03H8bdcv91vvO_ch313e_JAwtYH-CewZJF2WkNrYWtcp-acMiPTvSs5aan7v2DLpEjVSBuEarfJ-eCLEHCL2WK9zjxOho_gj3k/s1600/git.gif",
+    "published": "2026-05-18T11:23:41+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Developer Workstations Are Now Part of the Software Supply Chain Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, an\u2026",
+    "title": "Developer Workstations Are Now Part of the Software Supply Chain"
   },
   "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html": {
     "categories": [],
@@ -8303,6 +8321,15 @@
     "summary": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine.\nActive since at least 2016, Ghostwriter has bee\u2026",
     "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike"
   },
+  "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc7jpVO6HhBuEBTjkwmNjYhKlFmhhmytOqNZHYuGP-dNWrf3AoyE68yoKj77elddOX4Ps2x9jSuwhi5sE-QjK_oEjLXgQW9e6EHx6W0G7qTqYTM3fZh1AQTyrgm2o-PFBeD9ryHnC6fDmK5MYKUzBjU_pJibTilnm1d99WSQkJux6PXXRydkYW5d15Ada-/s1600/step.jpg",
+    "published": "2026-05-19T05:28:06+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentia\u2026",
+    "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials"
+  },
   "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVrpguh4mhS2wkIhYWPYbS2Nsjl1RPI5gpXYCZwdMyJtKk9uRU1yDIxTq7itnRWazzARvSlJ9oZTsKvGyWqOMjGyOPQ0YX6nNgUuJ9R2dD0X3Mv9Bjc0HvY3TeZHVQfLhXZd-w88FMBV71qJCVedcKQhL0Wd8YH7Jzwbasus9GF6LLzaRGG0tOFxP5TwmS/s1600/SCAMS.jpg",
@@ -8339,6 +8366,15 @@
     "summary": "How AI Hallucinations Are Creating Real Security Risks AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn\u2019t have\u2026",
     "title": "How AI Hallucinations Are Creating Real Security Risks"
   },
+  "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu4cbMji6f7O37Q6sBOEkOEXWMs7Eg4ixA0RdW8AiO6cIPai9yYqLTvVVkUH9ApXP8XycVeezSCvDMXhldVsCiaA-_kr5SwWJ4EjTfkyX0RdUacOUF3plBO9C6PHCLsUGM-L-ZthpQA7mhdPmH4nLgPPQIVBWK9BZUNQf7V17Y_5jVVvZ0FNaiOsG7mvs/s1600/anyrun-main.jpg",
+    "published": "2026-05-18T13:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "How to Reduce Phishing Exposure Before It Turns into Business Disruption What happens when a phishing email looks clean enough to pass through security, but dangerous enough to expose the business after one click? That is the gap many SOCs still struggle with: the attacks that le\u2026",
+    "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption"
+  },
   "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_FVhPeK2Y77CmHxc0azDelzWwpgSb4m8GZPLeJlsr2QvCZU5ChGQK37bJ_2XsGQRaNszalreV1iNyYDzeLt1I8iqafNTvFCPFQ0czKwX3Q6Q23TqdavunyJJsy6X8vxG_jSz__X5BnFZc4AIIqr-kd0XiNcYgx3UnYaahiViFKAywuQ98a7bbtCPnwgo/s1600/ransom-breach.jpg",
@@ -8347,6 +8383,15 @@
     "source": "The Hacker News",
     "summary": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak American educational technology company Instructure, the parent company of Canvas, said it reached an \"agreement\" with a decentralized cybercrime extortion group after it breached its network and th\u2026",
     "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak"
+  },
+  "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivxxVYex3z2F03m6RYOR72whyegN5TEzzNxZO3tTOSHNTQ4tqCeD-H-F0c3K8dInMfh1EwPQP0jtoHEA4agDOYN2sF7qxGMHnuhsWges5me7ESa8_ycNj0vHf1TeeTgqetA1yOQ5Gi6a7jsV5khO3PVNcbkrBRCTMRNRb_qPLwBUdlvZJUCDvGjtmSVuod/s1600/hackers.png",
+    "published": "2026-05-18T17:21:18+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests INTERPOL has coordinated a first-of-its-kind cybercrime crackdown across the Middle East and North Africa (MENA) that led to 201 arrests and the identification of an additional 382 suspects.\nThe initiative\u2026",
+    "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests"
   },
   "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html": {
     "categories": [],
@@ -8365,6 +8410,15 @@
     "source": "The Hacker News",
     "summary": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild.\nThe high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2)\u2026",
     "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access"
+  },
+  "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2iqd3uRuOdLaM83LyZC9GOeOLeP9BnBVQQQzF7LZUeBTXfGo6e6b9c7PSC0Tkt_vhN_FUFUiDwnLXXNmzpIubE5bI0rA7dRaDhuiV35uiNTcMab7o8E_1ehn3CzUUsfno-6fYECbYzGNS1dyNof1ihn-hf4QYjLn7ZD53y_byQigukme9w-LAeBKDWXAg/s1600/patches.jpg",
+    "published": "2026-05-18T10:54:05+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code.\nToppi\u2026",
+    "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws"
   },
   "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html": {
     "categories": [],
@@ -8410,6 +8464,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some custome\u2026",
     "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday"
+  },
+  "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpyJDg_FqUDfeOeVX8IyhBHj9HqwkGZ-hV7b998CMLiBK2uPpmuQEN1cv1xYXJzRiznN6u_oXjA0lAGWgrkUH9EqaqfOFyW85ZQiz_Cr2YrHl1uxUHqEztt_iWG1LtRfNMpYTIqhS8vKTUOdZiNAf_r_g0r7LzqsvjmCmsr7_lv9jmXvHs5s76BEQCMnql/s1600/npm-malware.jpg",
+    "published": "2026-05-19T04:54:17+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account Cybersecurity researchers have discovered a fresh software supply chain attack campaign that has compromised various npm packages associated with the @antv ecosystem as part of the ongoing Mini \u2026",
+    "title": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account"
   },
   "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html": {
     "categories": [],
@@ -8654,6 +8717,15 @@
     "summary": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called B\u2026",
     "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows"
   },
+  "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiortK4EUp9FwJsfVYW-j20LfpbM5qMNelk5-T8BbZ7dEcmBLXnqhWW9loE8GD6aexZv3h-xHEgn_N7ECjV8KXdcGwNxsbhCPP07COzt9c8BhMaVTF4OaSnKD2b98mJjsU1d57OXj2FQtOhKyeo6oPcT0-rrOi-_dKf1iielQQnhsprZ43tHyYFbiYhgFK8/s1600/email-hacking.jpg",
+    "published": "2026-05-19T09:23:15+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access Critical security vulnerabilities have been disclosed in SEPPMail Secure E-Mail Gateway, an enterprise-grade email security solution, that could be exploited to achieve remote code execution and ena\u2026",
+    "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access"
+  },
   "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjfw7HlDQIzbgA8xy1bk-sUkn-TVS85DGaL4vQkuTNYu3SGabQGuPKBD7C1qkCcpxwEFfdW6I9DJoSnmMmbkAu24SN1R_B2HNYwi-niSiST1LJqwMQ7tspMjxMyHXJtZUxGZbb2Hb1k-_2ywcG5hWFhOKQubJsYXiq8hyphenhyphenFfLyVewIet_ZcdTmNZEc9-Fum/s1600/godd.png",
@@ -8824,6 +8896,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More This week, the shadows moved faster than the patches.\nWhile most teams were still triaging last month\u2019s alerts, attackers had already turned control panels into kill switches, kernels into \u2026",
     "title": "\u26a1 Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More"
+  },
+  "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFzN7ITW3vwaWKn1m-BGZGI1JicT1T8d5v4LZbTvOTe7m1Xj4pk1pFECjAOvxey4XzXg7vGiU5Xzifs4qkzr9cbg2iPboHfPAHHBmi3O8OIAArhJlbr52gwKMkdqrIuIK77Pq8EzCTQM1hV5MsLuTbV4GXbXzr7miv0jA6o0Bn35RgBjc2cnd6qPq2-0Di/s1600/recapss.jpg",
+    "published": "2026-05-18T13:50:17+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More Monday opens with a trust problem. A mail server flaw is under active use. A network control system was targeted. Trusted packages were poisoned. A fake model page pushed a stealer. Then came the famil\u2026",
+    "title": "\u26a1 Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More"
   },
   "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html": {
     "categories": [],
@@ -11748,6 +11829,17 @@
     "summary": "Windows 11 cumulative updates KB5083769 & KB5082052 released Microsoft has released Windows 11\u00a0KB5083769\u00a0and\u00a0KB5082052\u00a0cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
     "title": "Windows 11 cumulative updates KB5083769 & KB5082052 released"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-05-18T11:14:28+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft testing adjustable taskbar, Start menu in Windows 11 Microsoft has finally brought back the resizable taskbar and Start menu to Windows 11 in the latest preview version rolling out to Insiders in the Experimental channel. [...]",
+    "title": "Microsoft testing adjustable taskbar, Start menu in Windows 11"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-new-cloud-rebuild-point-in-time-restore-tools/": {
     "categories": [
       "Microsoft",
@@ -12090,6 +12182,17 @@
     "source": "BleepingComputer",
     "summary": "5 reasons why attackers are phishing over LinkedIn Attackers are increasingly phishing over LinkedIn to reach executives and bypass email security tools. Push Security explains how real-time browser protection detects and blocks phishing across apps and channels as users load mal\u2026",
     "title": "5 reasons why attackers are phishing over LinkedIn"
+  },
+  "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-18T18:45:35+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees Many employees already use shadow AI tools at work without security review. Adaptive Security breaks down how teams can build practical AI governance without adding friction for employees. [...]",
+    "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees"
   },
   "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/": {
     "categories": [
@@ -16928,6 +17031,17 @@
     "summary": "Gootloader now uses 1,000-part ZIP archives for stealthy delivery The Gootloader malware, typically used for initial access, is now using a malformed ZIP archive designed to evade detection by concatenating up to 1,000 archives. [...]",
     "title": "Gootloader now uses 1,000-part ZIP archives for stealthy delivery"
   },
+  "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-18T13:46:26+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Grafana says stolen GitHub token let hackers steal codebase Grafana Labs disclosed that hackers have downloaded its source code after breaching its GitHub environment using a stolen access token. [...]",
+    "title": "Grafana says stolen GitHub token let hackers steal codebase"
+  },
   "https://www.bleepingcomputer.com/news/security/grafana-warns-of-max-severity-admin-spoofing-vulnerability/": {
     "categories": [
       "Security"
@@ -18032,6 +18146,18 @@
     "summary": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds An Interpol-coordinated initiative called Operation Sentinel led to the arrest of 574 individuals and the recovery of $3 million linked to business email compromise, extortion, and ransomware incidents. [...]",
     "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds"
   },
+  "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-05-18T22:15:30+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "INTERPOL \u2018Operation Ramz\u2019 seizes 53 malware, phishing servers More than 200 individuals were arrested for cybercrime activities during INTERPOL's Operation Ramz, which focused on the Middle East and North Africa. [...]",
+    "title": "INTERPOL \u2018Operation Ramz\u2019 seizes 53 malware, phishing servers"
+  },
   "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/": {
     "categories": [
       "Security"
@@ -18317,6 +18443,17 @@
     "source": "BleepingComputer",
     "summary": "Kyber ransomware gang toys with post-quantum encryption on Windows A new Kyber ransomware operation is targeting Windows systems and VMware ESXi endpoints in recent attacks, with one variant implementing Kyber1024 post-quantum encryption. [...]",
     "title": "Kyber ransomware gang toys with post-quantum encryption on Windows"
+  },
+  "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-18T17:28:02+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Leaked Shai-Hulud malware fuels new npm infostealer campaign The Shai-Hulud malware leaked last week is now used in new attacks on the Node Package Manager (npm) index, as infected packages emerged over the weekend. [...]",
+    "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign"
   },
   "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/": {
     "categories": [
@@ -21978,6 +22115,18 @@
     "summary": "ShinyHunters extortion gang claims Odido breach affecting millions The ShinyHunters extortion gang has claimed responsibility for breaching Dutch telecommunications provider Odido and stealing millions of user records from its compromised systems. [...]",
     "title": "ShinyHunters extortion gang claims Odido breach affecting millions"
   },
+  "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-05-18T21:42:20+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "SHub macOS infostealer variant spoofs Apple security updates A new variant of the 'SHub' macOS infostealer uses AppleScript to show a fake security update message and installs a backdoor. [...]",
+    "title": "SHub macOS infostealer variant spoofs Apple security updates"
+  },
   "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/": {
     "categories": [
       "Security"
@@ -24679,6 +24828,15 @@
     "summary": "Claude Code Security Shows Promise, Not Perfection Claude Code's introduction rippled across the stock market, but researchers and analysts say its impact was overstated, as they peel back the layers.",
     "title": "Claude Code Security Shows Promise, Not Perfection"
   },
+  "https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf136884c4aa5baab/6a0b76008388efee0d946879/openclaw_jackpress_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-18T21:24:59+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "'Claw Chain' Vulnerabilities Threaten OpenClaw Deployments The now patched vulnerabilities in the rapidly growing AI agent framework allow attackers to steal credentials, escalate privileges, and maintain persistence.",
+    "title": "'Claw Chain' Vulnerabilities Threaten OpenClaw Deployments"
+  },
   "https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt66a3edad22848133/694d5c1009ef5206f0578793/techtrend-llm-code-secure.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -25127,6 +25285,15 @@
     "source": "darkreading",
     "summary": "Shai-hulud: The Hidden Cost of Supply Chain Attacks Recent supply chain attacks involving self-propagating worms have spread far, but the damage and long-term impact is hard to quantify.",
     "title": "Shai-hulud: The Hidden Cost of Supply Chain Attacks"
+  },
+  "https://www.darkreading.com/application-security/shai-hulud-worm-clones-spread-code-release": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4a4214dc2b88ddc4/6a0b5b14fe7bf093eb769187/sandworms_FlixPix_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-18T19:53:05+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Shai-Hulud Worm Clones Spread After Code Release The release of Shai-Hulud source code spells trouble for software developers as researchers worry the self-replicating worm could scale.",
+    "title": "Shai-Hulud Worm Clones Spread After Code Release"
   },
   "https://www.darkreading.com/application-security/sora-2-makes-videos-so-believable-reality-checks-are-required": {
     "categories": [],
@@ -25674,6 +25841,15 @@
     "source": "darkreading",
     "summary": "Blame Game: Why Public Cyber Attribution Carries Risks Publicly accusing an entity of a cyberattack could have negative consequences that organizations should consider before taking the plunge.",
     "title": "Blame Game: Why Public Cyber Attribution Carries Risks"
+  },
+  "https://www.darkreading.com/cyber-risk/broken-dreams-2-decades-cyber-fails": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bb440d26c1c8c62/6a077adfeb51442934d177c1/decay-DBURKE-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-18T12:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Boulevard of Broken Dreams: 2 Decades of Cyber Fails From the MGM and Caesars fiasco and MOVEit's patch nightmare to epic business blunders and the jaded reality of living in a post-breach world, Dark Reading looks back at the mistakes, miscalculations, systemic failures, and cri\u2026",
+    "title": "Boulevard of Broken Dreams: 2 Decades of Cyber Fails"
   },
   "https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk": {
     "categories": [],
@@ -26717,6 +26893,15 @@
     "source": "darkreading",
     "summary": "'FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine Attackers uniquely fingerprint victims before delivering spear-phishing payloads aimed at espionage, in the latest campaign from the Belarussian nation-state threat group.",
     "title": "'FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/fuel-tank-breaches-expand-scope-irans-cyber-offensive": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7f692ec12934e4c2/6a0af74e239afa81b3940d8e/iran1800_Hakan_Gider_alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-18T15:41:55+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Fuel Tank Breaches Expand Scope of Iran's Cyber Offensive Security experts have long warned that insecure automatic tank gauge (ATG) systems exposed on the Internet can be tampered with by threat actors.",
+    "title": "Fuel Tank Breaches Expand Scope of Iran's Cyber Offensive"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/glasswing-secured-code-stack-on-you": {
     "categories": [],
@@ -29981,6 +30166,15 @@
     "source": "darkreading",
     "summary": "Maximum Severity HPE OneView Flaw Exploited in the Wild Exploitation of CVE-2025-37164 can enable remote code execution on HPE's IT infrastructure management platform, leading to devastating consequences.",
     "title": "Maximum Severity HPE OneView Flaw Exploited in the Wild"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8a4b55f47bd9ed66/6a0b619572bcb61757c995eb/exchange_Piotr_Swat_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-18T21:43:51+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Microsoft Exchange Zero-Day Under Attack, No Patch Available CVE-2026-42897 stems from a cross-site scripting (XSS) vulnerability and can allow an attacker to compromise Outlook Web Access (OWA) mailboxes.",
+    "title": "Microsoft Exchange Zero-Day Under Attack, No Patch Available"
   },
   "https://www.darkreading.com/vulnerabilities-threats/microsoft-fixes-6-actively-exploited-zero-days": {
     "categories": [],
