@@ -8258,6 +8258,24 @@
     "summary": "Developer Workstations Are Now Part of the Software Supply Chain Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, an\u2026",
     "title": "Developer Workstations Are Now Part of the Software Supply Chain"
   },
+  "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgecVdZ_vIxfMWdiQkn7dC_SCueSRLBHaU01aHrtW1lUsx3_5gwbM6fG5NyV-VUhnDxvolk_tzMNWgINg06cwjKL1xIeDIFMiFH56IUO_zwZwJqiLnMp-VJcIWFjhulk1AHnlZ_ETgH3vg6Q6SHS4Ae-teRmaLDY4XZhONjoz4MeKvQLyzJ_YdckL8lk3fe/s1600/linux-poc.jpg",
+    "published": "2026-05-19T14:56:26+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability Proof-of-concept (PoC) exploit code has now been released for a recently patched security flaw in the Linux kernel that could allow for local privilege escalation (LPE).\nDubbed DirtyDecrypt (aka DirtyCBC)\u2026",
+    "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability"
+  },
+  "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdm6ntsTvJJXoF1Bvx2Qm11faosxt-w7g0VzPCnsORnDN-q79t1wnbzqTFxbkRw5DF1DjhdDUgZ1H_0O4h35tZcEvlsM7dEUkbPyvaQdkEhhyGhpF90Bug4O1aai-0dXi1DdnnOpH2SmC8GoQD0TAd742-StQ4Pva_IVXNUcRpy9V96B7dwBnOc41xScyj/s1600/drupal-update.jpg",
+    "published": "2026-05-19T10:44:45+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare Drupal has issued an alert stating that it intends to release a \"core security release\" for all supported branches on May 20, 2026, from 5-9 p.m. UTC.\n\n\"The Drupal Security Team urges you to reserve t\u2026",
+    "title": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare"
+  },
   "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMXgW6K0BZvt0-jhZ_smX3Uy-nsd9wb9g7Gs7d3G7uH-HIlEcNhEt9xpaKD_62iJol_LK5Expt-6qCuvIf7llqtQclB64I9zZm_i8CIC0lMJiIz8nx6r4C-Nj4cUgd3cQEtu3_lGFa7wcmR6q9otQhCLoB1Mbnmn7NgH6-djLs_ScqanZFNC-EVOwYyO7/s1600/android-calls.jpg",
@@ -8330,6 +8348,15 @@
     "summary": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentia\u2026",
     "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials"
   },
+  "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoDiyeJZY33dxAsa8qElLYXNILLDT4NhloINZiuzcx3La2JvDK_d54kM8qsx_obt8vQ3FpTJr2ZVoMYiEcqHN0sbt-1A_MHlS7mSavlbDiEDg42HN1d4wCffs7ytuZhDvmMjuej5oljVIqIuRezyZCLmafRclN3wNBKcboV-19F0VMMBkVsQZckV5UaiiH/s1600/github.jpg",
+    "published": "2026-05-20T04:01:15+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "GitHub Breached \u2014 Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organiza\u2026",
+    "title": "GitHub Breached \u2014 Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos"
+  },
   "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVrpguh4mhS2wkIhYWPYbS2Nsjl1RPI5gpXYCZwdMyJtKk9uRU1yDIxTq7itnRWazzARvSlJ9oZTsKvGyWqOMjGyOPQ0YX6nNgUuJ9R2dD0X3Mv9Bjc0HvY3TeZHVQfLhXZd-w88FMBV71qJCVedcKQhL0Wd8YH7Jzwbasus9GF6LLzaRGG0tOFxP5TwmS/s1600/SCAMS.jpg",
@@ -8338,6 +8365,15 @@
     "source": "The Hacker News",
     "summary": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M A coordinated international operation involving U.S. and Chinese authorities has arrested at least 276 suspects and shut down nine scam centers used for cryptocurrency investment fraud schemes targeting Ameri\u2026",
     "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M"
+  },
+  "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1N3gjAFZQ-1hptUuKwQmHMjlZwIMDn6H6mKc9UuDELAKWl_3Kow6EcD72IkWpBf8ZB2Db8wrZW86zVxKaEgQZ7_sVrWoDokD1LoLPUqhhCw2lLDl9ODqq2ZkfBrK6SUTrbROBuFNXN16HPtMWtS9EMIFsO3yQsISWCK0JrlwiUWineb9sxIq-un41smHG/s1600/grafana-breach.jpg",
+    "published": "2026-05-20T05:12:06+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised.\n\nIt said the scope of the incident is limited to the Gra\u2026",
+    "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack"
   },
   "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html": {
     "categories": [],
@@ -8455,6 +8491,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws Microsoft on Tuesday released patches for 138 security vulnerabilities spanning its product portfolio, although none of them have been listed as publicly known or under active attack.\nOf the 138 flaws, 30\u2026",
     "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws"
+  },
+  "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DmW5nAG63-9iR2RmnP7i3GVJ9EBtLznscnnjROZ-DWRALYo0zsPNjUm2J6khkqSDJiX5Gmwb8sxPh4jHRcsJWFhKSdxZzz4D2f5bOahbfcnmQrUdvhyphenhyphenNVrE-LFMUhhf6rvSyxG2CoVhEFxbZSpEc0y52PM-qxwn02cDP3K3hEzf1nqcRNZEG1wOTjAiQ/s1600/bitlocker-exploit.png",
+    "published": "2026-05-20T08:28:26+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week.\n\nThe zero-day flaw, now tracked as CVE-2026-45585, carrie\u2026",
+    "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit"
   },
   "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html": {
     "categories": [],
@@ -8789,6 +8834,15 @@
     "summary": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' \u2014 Submissions Now Open For nearly 20 years, we at The Hacker News have mostly told scary stories about cyberspace \u2014 big hacks, broken systems, and new threats.\nBut behind every headline, there\u2019s a quieter, better story.\nI\u2026",
     "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' \u2014 Submissions Now Open"
   },
+  "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLnnvBvl0Gs5pfpUcrlJ_Ni62CyGs5UpoGCmpUAjReyBpExj5FzhuxSwuUcfQiyxDqeeoy6jSAHq4tA2KUnO5CRfbpfd_jN1ndeXgC0MiG0TrAfAyW67eybZeHMY-t6_kICQdPPKqK-1n9Ngkrj7UJrZZa1KQWqN9WjaTaDuHA_t6RW9Stul6tb82OS_4/s1600/reco1.jpg",
+    "published": "2026-05-19T11:30:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "The New Phishing Click: How OAuth Consent Bypasses MFA In February 2026, a phishing-as-a-service (PhaaS) platform called EvilTokens went live. Within five weeks, it had compromised more than 340 Microsoft 365 organizations across five countries.&nbsp;\n\nThe targets of the platform\u2026",
+    "title": "The New Phishing Click: How OAuth Consent Bypasses MFA"
+  },
   "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYNaH2vOiD-OgAVnO0nGCSr8j4nnvHD2n7RieJD2mDMlPev_fKoBafjhvob13LV4pOFhgMuZd6ex8zyQnCM1AyVfl6fuRG9Max2F76Ku9rWbieBvF0AtGlQd0nXlIwHDKvq5H4BJn3hGCRfE86fHs5SL05RywOADNDC9J5lG9DF8goavgxWzAh7a7isNMB/s1600/threatsday-1.jpg",
@@ -8815,6 +8869,15 @@
     "source": "The Hacker News",
     "summary": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue The managed security services market is projected to grow from $38.31 billion in 2025 to $69.16 billion by 2030[1], with cybersecurity being the fastest-growing sector[2]. Despite this opportunity, many MSPs leave reven\u2026",
     "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue"
+  },
+  "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4-ldAXS8Yw3BhdSS9xeJFNzwDm-mrNDxHr28zcknAKH8knTU_WleHEhmJ-vgNokgVbm9y8vRH18v9Oxz6F7twmnBoJfIQ2fVeuhEErRAF31F9MES02sZMhYG-i7F9Ty-C-yD64U4cmgq3CD7nuEnD9OZpxWCTKAPCXfIDKycUeZEfJIBBagPPW72JgWZO/s1600/android-ad-fraud.jpg",
+    "published": "2026-05-19T16:38:12+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps Cybersecurity researchers have disclosed details of a new ad fraud and malvertising operation dubbed Trapdoor targeting Android device users.\n\nThe activity, per HUMAN's Satori Threat Intelligence a\u2026",
+    "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps"
   },
   "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html": {
     "categories": [],
@@ -10076,6 +10139,18 @@
     "summary": "Microsoft asks admins to reach out for Windows IIS failures fix Microsoft has asked\u00a0businesses to reach out for advice on how to temporarily\u00a0mitigate a Message Queuing (MSMQ)\u00a0issue causing\u00a0enterprise apps and Internet Information Services (IIS) sites to fail. [...]",
     "title": "Microsoft asks admins to reach out for Windows IIS failures fix"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/": {
+    "categories": [
+      "Microsoft",
+      "Apple"
+    ],
+    "image": "",
+    "published": "2026-05-19T16:10:47+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft blames macOS update for undismissible Teams location prompts Microsoft has confirmed user reports that the Teams team collaboration app is displaying non-dismissible location prompts on some macOS systems. [...]",
+    "title": "Microsoft blames macOS update for undismissible Teams location prompts"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-bounty-program-now-includes-any-flaw-impacting-its-services/": {
     "categories": [
       "Microsoft"
@@ -10154,6 +10229,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft confirms Windows 11 security update install issues Microsoft has confirmed that the May 2026 Windows 11 security update (KB5089549) fails to install on some systems and triggers 0x800f0922 errors. [...]",
     "title": "Microsoft confirms Windows 11 security update install issues"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-19T11:22:15+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft confirms patching issues in restricted Windows networks Microsoft says customers in restricted network environments may encounter Windows Update failures after installing the January 2026 optional non-security preview updates. [...]",
+    "title": "Microsoft confirms patching issues in restricted Windows networks"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/": {
     "categories": [
@@ -10807,6 +10894,18 @@
     "summary": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest Microsoft has awarded $2.3 million to security researchers after receiving nearly 700 submissions during this year's\u00a0Zero Day Quest hacking contest. [...]",
     "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-05-19T16:22:30+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft plans to improve Windows 11 driver quality in 2026 Microsoft plans to raise the quality bar of Windows 11 drivers, as drivers \"sit at the heart of every Windows experience\" and connect the OS to the \"silicon, components, and peripherals.\" [...]",
+    "title": "Microsoft plans to improve Windows 11 driver quality in 2026"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-new-cursorwrap-mouse-teleport-tool/": {
     "categories": [
       "Microsoft"
@@ -11168,6 +11267,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs Microsoft has shared guidance to fix C:&#092; drive access issues and app failures on some Samsung laptops running Windows 11, versions 25H2 and 24H2. [...]",
     "title": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-20T07:31:15+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft shares mitigation for YellowKey Windows zero-day Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. [...]",
+    "title": "Microsoft shares mitigation for YellowKey Windows zero-day"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-outlook-freezes-after-windows-update/": {
     "categories": [
@@ -12215,6 +12326,17 @@
     "source": "BleepingComputer",
     "summary": "6 Okta security settings you might have overlooked Okta misconfigurations can quietly weaken identity security as SaaS environments evolve. Nudge Security shows six Okta security settings teams often overlook and how to fix them. [...]",
     "title": "6 Okta security settings you might have overlooked"
+  },
+  "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-19T14:16:41+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "7-Eleven confirms data breach claimed by the ShinyHunters gang Convenience store chain giant 7-Eleven confirmed that its systems were breached in a cyberattack claimed by the ShinyHunters extortion group last month. [...]",
+    "title": "7-Eleven confirms data breach claimed by the ShinyHunters gang"
   },
   "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/": {
     "categories": [
@@ -14590,6 +14712,17 @@
     "summary": "Critical Marimo pre-auth RCE flaw now under active exploitation A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]",
     "title": "Critical Marimo pre-auth RCE flaw now under active exploitation"
   },
+  "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-19T14:00:10+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation Microsoft's total vulnerability count stayed steady in 2025, but critical flaws surged year over year. BeyondTrust breaks down why attackers are increasingly focused on privilege escalation and identity abuse\u2026",
+    "title": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation"
+  },
   "https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/": {
     "categories": [
       "Security"
@@ -14865,6 +14998,17 @@
     "summary": "Cybercrime Goes SaaS: Renting Tools, Access, and Infrastructure Cybercrime has fully shifted to a subscription model, with phishing kits, Telegram OTP bots, infostealer logs, and even RATs now rented like SaaS tools. Varonis explains how this \"crime-as-a-service\" economy lowers t\u2026",
     "title": "Cybercrime Goes SaaS: Renting Tools, Access, and Infrastructure"
   },
+  "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-19T21:47:31+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Cybercrime service disrupted for abusing Microsoft platform to sign malware Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudulent code-signing certificates used by ransomware gang\u2026",
+    "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware"
+  },
   "https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/": {
     "categories": [
       "Security"
@@ -15081,6 +15225,17 @@
     "source": "BleepingComputer",
     "summary": "Die Linke German political party confirms data stolen by Qilin ransomware The Qilin ransomware group has claimed responsibility for an attack against Die Linke ('The Left'), forcing an IT systems outage at the political party, and threatening sensitive data leak. [...]",
     "title": "Die Linke German political party confirms data stolen by Qilin ransomware"
+  },
+  "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-19T20:37:45+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Discord rolls out end-to-end encryption on voice, video calls Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE). [...]",
+    "title": "Discord rolls out end-to-end encryption on voice, video calls"
   },
   "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/": {
     "categories": [
@@ -15856,6 +16011,18 @@
     "summary": "FBI: Americans lost a record $21 billion to cybercrime last year U.S. victims lost nearly $21 billion to cyber-enabled crimes last year, driven primarily by investment scams, business email compromise, tech support fraud, and data breaches,\u00a0the Federal Bureau of Investigation say\u2026",
     "title": "FBI: Americans lost a record $21 billion to cybercrime last year"
   },
+  "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-05-19T19:45:39+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025 The FBI says Americans have lost over $388 million last year to scams using cryptocurrency kiosks, also known as crypto ATMs or Bitcoin ATMs. [...]",
+    "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025"
+  },
   "https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/": {
     "categories": [
       "Security",
@@ -16596,6 +16763,17 @@
     "summary": "GitHub adds AI-powered bug detection to expand security coverage GitHub is adopting AI-based scanning for its Code Security tool to expand vulnerability detections beyond the\u00a0CodeQL static analysis\u00a0and cover\u00a0more languages and frameworks. [...]",
     "title": "GitHub adds AI-powered bug detection to expand security coverage"
   },
+  "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-20T08:14:08+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "GitHub confirms breach of 3,800 repos via malicious VSCode extension GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
+    "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension"
+  },
   "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/": {
     "categories": [
       "Security"
@@ -16606,6 +16784,17 @@
     "source": "BleepingComputer",
     "summary": "GitHub fixes RCE flaw that gave access to millions of private repos In early March, GitHub patched a critical remote code execution vulnerability (CVE-2026-3854)\u00a0that could have allowed\u00a0attackers to access millions of private repositories. [...]",
     "title": "GitHub fixes RCE flaw that gave access to millions of private repos"
+  },
+  "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-20T05:08:42+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "GitHub investigates internal repositories breach claimed by TeamPCP GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories containing private code. [...]",
+    "title": "GitHub investigates internal repositories breach claimed by TeamPCP"
   },
   "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-high-severity-2fa-bypass-denial-of-service-flaws/": {
     "categories": [
@@ -18878,6 +19067,17 @@
     "summary": "Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match Match Group, the owner of multiple popular online dating services, Tinder, Match.com, Meetic, OkCupid, and Hinge, confirmed a cybersecurity incident that compromised user data. [...]",
     "title": "Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match"
   },
+  "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-19T22:25:49+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Max-severity flaw in ChromaDB for AI apps allows server hijacking A max-severity vulnerability in the latest Python FastAPI version of the ChromaDB project allows unauthenticated attackers to run arbitrary code on exposed servers. [...]",
+    "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking"
+  },
   "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/": {
     "categories": [
       "Security",
@@ -19158,6 +19358,19 @@
     "source": "BleepingComputer",
     "summary": "Microsoft disrupts massive RedVDS cybercrime virtual desktop service Microsoft announced on Wednesday that it disrupted RedVDS, a massive cybercrime platform linked to at least $40 million in reported losses in the United States alone since March 2025. [...]",
     "title": "Microsoft disrupts massive RedVDS cybercrime virtual desktop service"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/": {
+    "categories": [
+      "Security",
+      "Cloud",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-05-19T19:35:32+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Self-Service Password Reset abused in Azure data theft attacks A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features. [...]",
+    "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks"
   },
   "https://www.bleepingcomputer.com/news/security/microsoft-sesameop-malware-abuses-openai-assistants-api-in-attacks/": {
     "categories": [
@@ -20161,6 +20374,17 @@
     "source": "BleepingComputer",
     "summary": "New ShadowV2 botnet malware used AWS outage as a test opportunity A new Mirai-based botnet malware named 'ShadowV2' has been observed targeting IoT devices from D-Link, TP-Link, and other vendors with exploits for known vulnerabilities. [...]",
     "title": "New ShadowV2 botnet malware used AWS outage as a test opportunity"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-19T14:30:22+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New Shai-Hulud malware wave compromises 600 npm packages Threat actors earlier today published more than 600 malicious packages to the Node Package Manager (npm) index as part of a new Shai-Hulud supply-chain campaign. [...]",
+    "title": "New Shai-Hulud malware wave compromises 600 npm packages"
   },
   "https://www.bleepingcomputer.com/news/security/new-sonicwall-sonicos-flaw-allows-hackers-to-crash-firewalls/": {
     "categories": [
@@ -23915,6 +24139,17 @@
     "summary": "Webinar: Spotting cyberattacks before they begin On Thursday, April 30 at 2:00 PM ET, BleepingComputer will host a live webinar with threat intelligence company Flare and threat intelligence researcher Tammy Harper, exploring how security teams can identify early warning signs of\u2026",
     "title": "Webinar: Spotting cyberattacks before they begin"
   },
+  "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-19T12:14:22+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Webinar: The hidden bottlenecks in network incident response IT teams are increasingly overwhelmed by alerts from disconnected systems, forcing responders to manually coordinate investigations during network incidents. This webinar explores how automation and AI-assisted workflow\u2026",
+    "title": "Webinar: The hidden bottlenecks in network incident response"
+  },
   "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/": {
     "categories": [
       "Security"
@@ -27314,6 +27549,15 @@
     "summary": "The Case for Why Better Breach Transparency Matters It's become a standard practice for organizations to disclose the bare minimum about a data breach, or worse \u2014 not disclose the incident at all.",
     "title": "The Case for Why Better Breach Transparency Matters"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/windows-zero-day-barrage-continues-after-patch-tuesday": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt94e5c85a811ff21b/6a0cc864ccb12f62a67122e5/zeroday_JLStock_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-19T21:06:54+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Windows Zero-Day Barrage Continues After Patch Tuesday YellowKey, GreenPlasma, and MiniPlasma add to the growing list of vulnerabilities a security researcher disclosed over the past six weeks.",
+    "title": "Windows Zero-Day Barrage Continues After Patch Tuesday"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/worldeaks-extortion-group-stole-1.4tb-nike-data": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt80a2a5d78b60fadf/6978b324a48f64012e026e5c/Nike_KenWolter_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
@@ -27403,6 +27647,15 @@
     "source": "darkreading",
     "summary": "Vulnerabilities Surge, But Messy Reporting Blurs Picture MITRE loses its lead as the top reporter of vulnerabilities, while new organizations pump out CVEs and reported bugs in WordPress plug-ins surge.",
     "title": "Vulnerabilities Surge, But Messy Reporting Blurs Picture"
+  },
+  "https://www.darkreading.com/cybersecurity-analytics/what-make-ai-bom-real": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt82d57f92a103d9df/6a0d147edc31f80b8cc3c3a0/robot-Pluto-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-19T22:17:55+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "What Will Make AI BOMs Real? A brief overview of the forces at play that will get more organizations on board with creating and consuming AI bill of materials (BOMs).",
+    "title": "What Will Make AI BOMs Real?"
   },
   "https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts": {
     "categories": [],
@@ -27577,6 +27830,15 @@
     "source": "darkreading",
     "summary": "Can a Global, Decentralized System Save CVE Data? As vulnerabilities in the Common Vulnerabilities and Exposures ecosystem pile up, one Black Hat Europe presenter hopes for a global, distributed alternative.",
     "title": "Can a Global, Decentralized System Save CVE Data?"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt188d6215ae555513/6a0cb49ac7403d88c6336bf7/github_PJ_McDonnell_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-19T19:49:53+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "CISA Exposes Secrets, Credentials in 'Private' Repo The agency's GitHub repository, publicly available since November 2025, was ironically named &quot;Private-CISA.&quot;",
+    "title": "CISA Exposes Secrets, Credentials in 'Private' Repo"
   },
   "https://www.darkreading.com/cybersecurity-operations/cisa-new-leader-tom-parker": {
     "categories": [],
@@ -27790,6 +28052,15 @@
     "summary": "India Rolls Back App Mandate Amid Surveillance Concerns Remember when Apple put that U2 album in everyone's music libraries? India wanted to do that to all of its citizens, but with a cybersecurity app. It wasn't a good idea.",
     "title": "India Rolls Back App Mandate Amid Surveillance Concerns"
   },
+  "https://www.darkreading.com/cybersecurity-operations/interpol-operation-ramz-cross-region-middle-east": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0be6af563749ef53/6a0cb6c6fc6d781d0eb34f55/rams-at-luxor-in-Egypt-Yuliia24-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-20T07:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Interpol's 'Operation Ramz' Pioneers Cross-Region Collabs in Middle East While the numbers are modest, the crackdown on cybercrime involved 13 countries in the MENA region, the largest law enforcement collaboration to date.",
+    "title": "Interpol's 'Operation Ramz' Pioneers Cross-Region Collabs in Middle East"
+  },
   "https://www.darkreading.com/cybersecurity-operations/iran-cyber-objectives": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb6c6ecba55de63d0/691f48818c5f3bcf3104019d/US_Iran_image_concept_Zoonar_GmbH_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -27813,6 +28084,15 @@
     "source": "darkreading",
     "summary": "Kenya Kicks Off 'Code Nation' With a Nod to Cybersecurity The African country aims to train 1 million workers in tech skills in the short term, with a focus on software engineering, cybersecurity, and data science.",
     "title": "Kenya Kicks Off 'Code Nation' With a Nod to Cybersecurity"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/looking-back-looking-forward-bouillabaisse-cyber-evolution": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltff02a5783ecdf09b/6a0c6774e492c85df1966d2d/stew-Zoonar_GmbH-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-19T13:28:43+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Looking Back, Looking Forward: Digesting a Dynamic Bouillabaisse of Cyber Evolution Dark Reading editors reflect on two decades of dramatic change \u2014 from perimeter defense to assume-breach strategies \u2014 and warn that while AI, cloud, and COVID-19 have transformed the threat landsc\u2026",
+    "title": "Looking Back, Looking Forward: Digesting a Dynamic Bouillabaisse of Cyber Evolution"
   },
   "https://www.darkreading.com/cybersecurity-operations/microsoft-bundle-security-copilot-m365-enterprise-license": {
     "categories": [],
@@ -28432,6 +28712,15 @@
     "source": "darkreading",
     "summary": "Yet Another Way to Bypass Google Chrome's Encryption Protection Authors of the VoidStealer Trojan uncovered a way to get around Google's App-Bound Encryption (ABE), opening the door to infostealers.",
     "title": "Yet Another Way to Bypass Google Chrome's Encryption Protection"
+  },
+  "https://www.darkreading.com/events/anatomy-of-a-data-breach-what-to-do-if-it-happens-to-you": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt947fd68cd895a80d/6a060e70239afa534b9406ac/DR_Anatomy_of_a_Data_Breach_Virtual_Event_2026.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-06-18T15:00:00+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "[Virtual Event] Anatomy of a Data Breach: What to Do if it Happens to You",
+    "title": "[Virtual Event] Anatomy of a Data Breach: What to Do if it Happens to You"
   },
   "https://www.darkreading.com/events/black-hat-usa": {
     "categories": [],
@@ -29692,6 +29981,15 @@
     "summary": "Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA A user-friendly PhaaS tool beats standard methods for detecting phishing attacks by live-proxying legitimate login sites.",
     "title": "Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA"
   },
+  "https://www.darkreading.com/threat-intelligence/stealer-spoofs-google-microsoft-apple-backdoors-macos": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt92862d21865d67ee/6a0c49b0d929ba87161f7f33/macOS_AfricaStudio_AlamyStockPhoto.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-19T19:49:40+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Stealer Spoofs Google, Microsoft &amp; Apple, Then Backdoors macOS The SHub Reaper stealer, which hides behind fake WeChat and Miro installers, marks a shift from ClickFix social engineering to Apple script-based execution.",
+    "title": "Stealer Spoofs Google, Microsoft &amp; Apple, Then Backdoors macOS"
+  },
   "https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4758c90a86b6e8ad/69d55d246ef500ddf73c9699/medusa_CarloBollo_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -29763,6 +30061,15 @@
     "source": "darkreading",
     "summary": "Vect 2.0 Ransomware Acts as Wiper, Thanks to Design Error The emerging ransomware has been deployed against victims of the TeamPCP supply chain attacks, but organizations should think twice before paying for a decryptor.",
     "title": "Vect 2.0 Ransomware Acts as Wiper, Thanks to Design Error"
+  },
+  "https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdf277665f3314cb9/6a0cc97e3c21f6422d8ba496/risk_blocks_Cagkan_Sayin_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-19T21:55:35+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut Verizon's &quot;2026 Data Breach Investigations Report&quot; (&quot;DBIR&quot;) finds that exploits are now involved in 31% of initial access for breaches, while patching lags too far behind the bad guys.",
+    "title": "Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut"
   },
   "https://www.darkreading.com/threat-intelligence/voidlink-linux-malware-ai": {
     "categories": [],
