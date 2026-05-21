@@ -8105,6 +8105,24 @@
     "summary": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign A newly discovered Vietnamese-linked operation has been observed using a Google AppSheet as a \"phishing relay\" to distribute phishing emails with an aim to compromise Facebook accounts.\nThe activity has been co\u2026",
     "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign"
   },
+  "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCjgJwva2lZrAwxHWPZFiphHAhxBdWRyU4gUiAZIStkUP4JU6yej3Z1xVhUtrhaIYVu4IL5KpvOomBDHU_aLtvgHV-R9_41nUSrngG0BGBlCv2pByfkVZNKxmwA3Nf6NR7pi6XgwdUjkwFw27lm_vNR_w2Cr1An46yOM8kfIEphrSCq2aRcaKNNj9D-PiN/s1600/linux-exploit.gif",
+    "published": "2026-05-21T07:35:53+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years.\n\nThe vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case\u2026",
+    "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros"
+  },
+  "https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjYQaF0euKIc86WLed9RLojSVHUNrnpx7_OeZHvmaPtnFPmL3WrhC-DU-7asOtrYx8fBGP-UCdxI1QljVgaT_wYA6uIye4yHpzpk-uSQb934K7NDSPn-jFJR63cEeUZ8SsDevlcvX-O62_-C8HZeVreeg2aB5stt6z9kluLUvIUgXAGVpAMccDc19lrsmK/s1600/agentai.gif",
+    "published": "2026-05-20T11:58:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Agent AI is Coming. Are You Ready? New Industry Data Just Released Suggests Not.\n\nOn May 19th, 2026, Orchid Security released the results of our Identity Gap: Snapshot 2026. Among the findings, \"identity dark matter\" (the unseen, unmanaged elements of identity) now overshadows th\u2026",
+    "title": "Agent AI is Coming. Are You Ready?"
+  },
   "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBNoTD0wrxHsoNUfZVLT2ImOUNC-2Md_wih6gTim-zbqkCzgGfXbtvlDgDMWeczo9RzINqu7qqk_3XK0KHSdbpLMPbR9xg_pLpjtoxugUt3B5-G9pL9wBCMI80Rx-Aw9eNxH-XXE2XpQHDtqaGDeXe3P4mGDvPgmDiqom8B2Xdfz7irCpOZVvhP9jsqudo/s1600/adnroid-Intrusion-Logging.jpg",
@@ -8348,6 +8366,15 @@
     "summary": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentia\u2026",
     "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials"
   },
+  "https://thehackernews.com/2026/05/github-internal-repositories-breached.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ64wgVqZTQx208NgY0sBvUUQcR5mb-G4ENkfw4PEX9KlJJxEI_uUKQvPG0rReXB4chZ3wXrvNSR1QsrK525DDHkzY9X3nQYduh36qKTyC-k4EfixFeOU7YR1mRIw8ZJL-oYN8k_wwBid2GU8NYJtCqEFLOSzomuu-Xx7yA3Djim0nq79RyoZJs6HGga_H/s1600/github-hacked.jpg",
+    "published": "2026-05-21T04:27:01+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Vis\u2026",
+    "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension"
+  },
   "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoDiyeJZY33dxAsa8qElLYXNILLDT4NhloINZiuzcx3La2JvDK_d54kM8qsx_obt8vQ3FpTJr2ZVoMYiEcqHN0sbt-1A_MHlS7mSavlbDiEDg42HN1d4wCffs7ytuZhDvmMjuej5oljVIqIuRezyZCLmafRclN3wNBKcboV-19F0VMMBkVsQZckV5UaiiH/s1600/github.jpg",
@@ -8392,6 +8419,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time th\u2026",
     "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation"
+  },
+  "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyhKX1WKEWbBPd4sElCP9BB26eorxZX1Lo25Mcu-A5bfBUuWT63SQ-Hyycv1YPSlvVeZPfLSEbb8mQnuPvf0KEDm8mYTtCLoYZuMG6A8maidLefE12_3Plum0keZ-mbAS4dGN-x7Oj0NWOmoeqp6_PEK0fqpnZwz8ZFV-NhyFl78WS4Nck76yAbfgWRpK7/s1600/drupal-flaw.jpg",
+    "published": "2026-05-21T03:44:11+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information \u2026",
+    "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks"
   },
   "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html": {
     "categories": [],
@@ -8483,6 +8519,15 @@
     "summary": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-con\u2026",
     "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries"
   },
+  "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheh8SBZDUM83ug6w9EopUahk6CPc27TOD5qpmZWVC8hDMYM-8wdgTLXt1KHv_66Q061_5gm3crZszZf-UvSWWZKb6Aax7BxJ5gzPEyfQTp9JPEcNUmLZnEBD3YuFHoqCU4stvSdSVON7hFJq4ZYb4Rdq1vyOK0VUURDjUpCcEP9_SN5xkQckqwaFS_-dQz/s1600/mss.jpg",
+    "published": "2026-05-20T17:06:54+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents.\n\nRAMPART, short for Risk Asses\u2026",
+    "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development"
+  },
   "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk3m3CoTiKH2QVXSFAOVKKnTl-Ybt1FDE4M7BGK_ujskSYNQ8pOlcvZfyNv8CW2EJIVdMQaORcCE0H-_ufTvD6hR-LOOZ64GZPS_9bH7YrE4i0r4LrGCn7vXmG0GjpFk8aNlRR_4_GjrM-jhXBS1NzIbYiRydcmiNSXIV2eUczvgjGmp34_gNz3M5kt-Jf/s1600/windows-patch-update.jpg",
@@ -8500,6 +8545,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week.\n\nThe zero-day flaw, now tracked as CVE-2026-45585, carrie\u2026",
     "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit"
+  },
+  "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiypJnCUStqk0SRgnT6bFPLXM9F10uUBgEZgGScKH8lNthkNnD4zP2-CBNIvo2eukKJzGKOs7RFjIq1KmR-pIGFT3pFS1wgz8ySDW7O9OaMkAHXSaZvHSP_Y2JxqGgkdbCLXcn-VZOYwirKa9gU7FqEZXDafHhgxupVx6cuJam1wsnjq3qjz7q36GlvirT/s1600/windows-ransomware.jpg",
+    "published": "2026-05-20T14:36:44+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and other attacks,\u2026",
+    "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks"
   },
   "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html": {
     "categories": [],
@@ -8906,6 +8960,15 @@
     "summary": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks\u2026",
     "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks"
   },
+  "https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLWPxY_gRwc5keQNREyoTXSadlwpCLyUdAq4v1fQA5_lA2tJ0Ia6xOk-FaLuNHwJjV_xaF7M0xzPvqHk4e7aym6R7J2aaGCGm7Bnv8OXh7GScZ-G7ic5pdEgK-0E0_y_yLz16V2A2GL5uTmU7tRPUyoDl5LfzTzQnuMlI1QV7SEhRC9Cli7zci_no9pyk/s1600/ref.jpg",
+    "published": "2026-05-20T10:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem AI-generated lookalike domains are now embedded inside the third-party scripts running on your web properties. Here's why your current stack can't see them, and what detection actually requires.\nDownload the C\u2026",
+    "title": "Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem"
+  },
   "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGJE3Tcr425AIfztOUrdhPUiEkVY8bMrHMmO-5FZ2N3cLaW9ErdLJJS3KwjzYNvLAIcVT7xpSw8wswiDIPenyZa_ki3ZrOHJFY-cXKHPu0EGnfCGXxkEAlvE6tLogT8T_lRolQ-qI-GFqlgwqpbLD1HfmDo4HkJbV9XNDh9rcGbM3Nc8ruu5I_47DBmzsy/s1600/vm2.jpg",
@@ -8950,6 +9013,15 @@
     "source": "The Hacker News",
     "summary": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data\u2014and how to break it. Register for the Strategic Briefing Here.\n\u2026",
     "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud"
+  },
+  "https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4cD52DtnzH5FM8ZMrW9KyPrD1ysrJURSmqalrw9f6siP8XxYqClsqV6ofHpM8ir7gBnmmvehj5HB1k0aSHdPmLtKKwtLLvjSi4ELa9eMq12maW7p56a2yBdl7xzdfv6893fvQxLIH0kKGYKnzYM_7-3XysWIGsSNiEYXBjmiWFqe0Pe8uq-TkWlQjjv4/s1600/cyberattack-paki.jpg",
+    "published": "2026-05-20T12:51:43+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API Cybersecurity researchers have flagged fresh activity from a China-aligned threat actor known as Webworm in 2025, deploying custom backdoors that employ Discord and Microsoft Graph API for command-an\u2026",
+    "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API"
   },
   "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html": {
     "categories": [],
@@ -9957,6 +10029,18 @@
     "source": "BleepingComputer",
     "summary": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites A Spanish court has granted precautionary measures against NordVPN and ProtonVPN, ordering the two popular VPN providers to block 16 websites that facilitate piracy of football matches. [...]",
     "title": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites"
+  },
+  "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/": {
+    "categories": [
+      "Linux",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-20T10:52:31+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Exploit released for new PinTheft Arch Linux root escalation flaw PinTheft, a recently patched Linux privilege escalation vulnerability, now has a publicly available proof-of-concept (PoC) exploit that allows local attackers to gain root privileges on Arch Linux systems. [...]",
+    "title": "Exploit released for new PinTheft Arch Linux root escalation flaw"
   },
   "https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/": {
     "categories": [
@@ -15339,6 +15423,17 @@
     "summary": "Drift loses $280 million North Korean hackers seize Security Council powers The Drift Protocol lost at least $280 million after a threat actor took control of its Security Council administrative powers in a planned, sophisticated operation. [...]",
     "title": "Drift loses $280 million North Korean hackers seize Security Council powers"
   },
+  "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-20T12:52:29+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Drupal critical update to fix bug with high exploitation risk Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]",
+    "title": "Drupal critical update to fix bug with high exploitation risk"
+  },
   "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/": {
     "categories": [
       "Security"
@@ -16796,6 +16891,17 @@
     "summary": "GitHub investigates internal repositories breach claimed by TeamPCP GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories containing private code. [...]",
     "title": "GitHub investigates internal repositories breach claimed by TeamPCP"
   },
+  "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-21T06:54:01+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "GitHub links repo breach to TanStack npm supply-chain attack GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack. [...]",
+    "title": "GitHub links repo breach to TanStack npm supply-chain attack"
+  },
   "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-high-severity-2fa-bypass-denial-of-service-flaws/": {
     "categories": [
       "Security"
@@ -17220,6 +17326,17 @@
     "summary": "Gootloader now uses 1,000-part ZIP archives for stealthy delivery The Gootloader malware, typically used for initial access, is now using a malformed ZIP archive designed to evade detection by concatenating up to 1,000 archives. [...]",
     "title": "Gootloader now uses 1,000-part ZIP archives for stealthy delivery"
   },
+  "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-20T15:46:37+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Grafana breach caused by missed token rotation after TanStack attack The Grafana data breach was caused by a single GitHub workflow token that slipped through the rotation process following the TanStack npm supply-chain attack last week. [...]",
+    "title": "Grafana breach caused by missed token rotation after TanStack attack"
+  },
   "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/": {
     "categories": [
       "Security"
@@ -17462,6 +17579,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers breach SmarterTools network using flaw in its own software SmarterTools confirmed last week that the Warlock ransomware gang breached its network after compromising an email system, but did not impact business applications or account data. [...]",
     "title": "Hackers breach SmarterTools network using flaw in its own software"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-20T21:19:17+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Hackers bypass SonicWall VPN MFA due to incomplete patching Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]",
+    "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-can-bypass-npms-shai-hulud-defenses-via-git-dependencies/": {
     "categories": [
@@ -18099,6 +18227,17 @@
     "source": "BleepingComputer",
     "summary": "ID verification laws are fueling the next wave of breaches ID laws are forcing companies to store massive amounts of sensitive data, turning compliance into a security risk. Acronis explains how integrated backup and cybersecurity platforms help MSPs reduce complexity and close t\u2026",
     "title": "ID verification laws are fueling the next wave of breaches"
+  },
+  "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-20T14:02:12+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load Identity checks alone can't stop attackers using stolen session tokens and compromised devices. Specops Software outlines why Zero Trust strategies increasingly depend on continuous device verification. [...]",
+    "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load"
   },
   "https://www.bleepingcomputer.com/news/security/identity-first-ai-security-why-cisos-must-add-intent-to-the-equation/": {
     "categories": [
@@ -19439,6 +19578,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft Teams to warn of suspicious traffic with external domains Microsoft is working on a new Teams security feature that will analyze suspicious traffic with external domains to help IT administrators tackle potential security threats. [...]",
     "title": "Microsoft Teams to warn of suspicious traffic with external domains"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-05-21T07:49:48+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft warns of new Defender zero-days exploited in attacks On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks. [...]",
+    "title": "Microsoft warns of new Defender zero-days exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/microsoft-windows-powershell-now-warns-when-running-invoke-webrequest-scripts/": {
     "categories": [
@@ -23498,6 +23649,17 @@
     "summary": "UK warns of Iranian cyberattack risks amid Middle-East conflict The United Kingdom's National Cyber Security Centre (NCSC) alerted British organizations to a heightened risk of Iranian cyberattacks amid the ongoing conflict in the Middle East. [...]",
     "title": "UK warns of Iranian cyberattack risks amid Middle-East conflict"
   },
+  "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-20T21:36:24+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an online stor\u2026",
+    "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts"
+  },
   "https://www.bleepingcomputer.com/news/security/ukraines-army-targeted-in-new-charity-themed-malware-campaign/": {
     "categories": [
       "Security"
@@ -25205,6 +25367,15 @@
     "source": "darkreading",
     "summary": "Fresh Wave of GlassWorm VS Code Extensions Slices Through Supply Chain Attackers continue to scale a campaign to seed Open VSX with seemingly benign VS Code extensions that spread self-propagating malware.",
     "title": "Fresh Wave of GlassWorm VS Code Extensions Slices Through Supply Chain"
+  },
+  "https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt14b264d36a8b1972/6a0e0edae87cf56bc17d8b98/GitHub_Octocat_logo_Sundry_Photography_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-20T20:51:32+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "GitHub Confirms Breach, 4K Internal Repos Stolen Open source software giant GitHub confirmed a data breach this week involving the theft of thousands of repos. One threat actor \u2014 TeamPCP \u2014 took credit.",
+    "title": "GitHub Confirms Breach, 4K Internal Repos Stolen"
   },
   "https://www.darkreading.com/application-security/github-openclaw-deployer-repo-delivers-trojan": {
     "categories": [],
@@ -27333,6 +27504,15 @@
     "summary": "Police Disrupt 'Cryptomixer,' Seize Millions in Crypto Multiple European law enforcement agencies recently disrupted Cryptomixer, a service allegedly used by cybercriminals to launder ill-gotten gains from ransomware and other cyber activities.",
     "title": "Police Disrupt 'Cryptomixer,' Seize Millions in Crypto"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/processes-and-culture-top-reasons-behind-data-breaches": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt15c2853fa69a58ba/673f45b5df958859a25544ab/Breach_(1800)_Brain_light_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-20T17:42:30+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Processes and Culture Top Reasons Behind Data Breaches Government leaders revealed that, in spite of state laws meant to improve cyber hygiene, an analysis of incidents showed issues persist and visibility falls short.",
+    "title": "Processes and Culture Top Reasons Behind Data Breaches"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hospitals-tv-irl": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4cc61b366a76eedf/69a1c8d9936f127f7fc1c3b6/The_Pitt-Album-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -27593,6 +27773,15 @@
     "source": "darkreading",
     "summary": "76% of All Crypto Stolen in 2026 Is Now in North Korea North Korean threat actors are pulling off historic cryptocurrency heists on a yearly, sometimes weekly basis now. AI might be helping them.",
     "title": "76% of All Crypto Stolen in 2026 Is Now in North Korea"
+  },
+  "https://www.darkreading.com/cybersecurity-analytics/cyber-pros-ai": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2c0354b9fcf6985f/6a0e106f7896f1466e6adf8e/Star_Wars-John_Bingham-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-20T20:52:25+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Cyber Pros Can't Decide If AI Is a Good or a Bad Thing There is nothing cybersecurity professionals are more excited about, and nothing they fear more, than AI.",
+    "title": "Cyber Pros Can't Decide If AI Is a Good or a Bad Thing"
   },
   "https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms": {
     "categories": [],
@@ -28748,6 +28937,15 @@
     "summary": "GISEC GLOBAL 2026 \u2013 The Middle East &amp; Africa\u2019s Largest Cybersecurity Event",
     "title": "GISEC GLOBAL 2026 \u2013 The Middle East &amp; Africa\u2019s Largest Cybersecurity Event"
   },
+  "https://www.darkreading.com/events/infosecurity-europe": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta212ce7bfdb601e7/6a0dbacd3c21f6a4c08ba686/Infosecurity_Europe_2026.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-06-02T13:30:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Infosecurity Europe",
+    "title": "Infosecurity Europe"
+  },
   "https://www.darkreading.com/events/rsac-2026-conference": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf2acea5fe4550663/6967de4d65f053216c30865e/RSAC_2026.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -28860,6 +29058,15 @@
     "source": "darkreading",
     "summary": "Empty Attestations: OT Lacks the Tools for Cryptographic Readiness OT asset owners are being asked by regulators to attest to their post-quantum cryptographic readiness without the appropriate tooling, resulting in paperwork dressed up to look like genuine security.",
     "title": "Empty Attestations: OT Lacks the Tools for Cryptographic Readiness"
+  },
+  "https://www.darkreading.com/ics-ot-security/patch-now-critical-flaw-ot-robot-os": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7b8562594e40786d/6a0d83f54c91d13579cb3c25/robot-safety-cage-gen_A-AdobeStock.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-20T16:12:08+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Patch Now: Critical Flaw in OT Robot OS Gives Attackers Control An unauthenticated attacker can exploit the command injection vulnerability to gain remote access to robotic systems, causing significant disruption to the environment.",
+    "title": "Patch Now: Critical Flaw in OT Robot OS Gives Attackers Control"
   },
   "https://www.darkreading.com/ics-ot-security/richter-scale-model-measures-cyber-incidents": {
     "categories": [],
@@ -29036,6 +29243,15 @@
     "source": "darkreading",
     "summary": "When the Cloud Rains on Everyone's IoT Parade What happens to all of those always-connected devices when the cloud goes down? Disruptions to sleep, school, and smart homes, just to name a few issues.",
     "title": "When the Cloud Rains on Everyone's IoT Parade"
+  },
+  "https://www.darkreading.com/mobile-security/fake-android-apps-carrier-billing-fraud": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3de65670685255f7/6a0e1b5c27e92be2fabee02d/android_Stockinq_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-20T20:35:35+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Fake Android Apps Commit Carrier Billing Fraud for Premium Svcs. The disguised apps use WebView automation, JavaScript injection, and OTP interception to avoid detection and complete fraudulent subscriptions.",
+    "title": "Fake Android Apps Commit Carrier Billing Fraud for Premium Svcs."
   },
   "https://www.darkreading.com/mobile-security/landfall-malware-targeted-samsung-galaxy-users": {
     "categories": [],
