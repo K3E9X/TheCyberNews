@@ -8186,6 +8186,15 @@
     "summary": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catal\u2026",
     "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits"
   },
+  "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04a_rowIzNPvHHvDTUE34d3bZlOhBeQXtC0UdXyjlf988G4zVE89QKWqSWASKd2LD0T8O2XhkDVgG7UGFIxlpvQWHPx-o_X7vfMK5fH4uSDg3eSUDAaWKtgresEyD9JpINkxtdELWn-qiv6usoLgwSlYNi89xJeVBwYYsCF2y-KKNz0x04KS0PeDPL57J/s1600/cisa-kev-flaws.jpg",
+    "published": "2026-05-22T05:47:33+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, cit\u2026",
+    "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV"
+  },
   "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9rok1ToP_K0gWug0GnICltZkvx6bMRyhHfTJG1AcSfrGpM_fOVc61O3Fpyen_IW-wpb4s6Hl3qZcU5nEs77SMWSpKNDR4rrlY2syVVSNEBrpHx8RkWmYaN9MZORNICc8LNhuNjXqqhxmy7JN-y389oyQnAAFoBMJC1NoQSQFaOZ2MnrpKQRfv_eYXIoWI/s1600/cisco-exploit.jpg",
@@ -8194,6 +8203,15 @@
     "source": "The Hacker News",
     "summary": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks.\nThe vulnerability, tracked as\u2026",
     "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access"
+  },
+  "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLweJvl8B70zomibdr4U6WvYgbmZn4gKKOG9F7xDPXzgeENKK0kg2kgK1yvZDS7AJFkY9De2rG2EQzCLvN1FmjrXXDIm-CkmU88QcexbMkr60gKVKexF-d1qtGHusrr6_j5yrtMv31PSUEygioHJikBsifQ0VHW18IU7lu_oItTzQXugwHPLoO_DYNdnYx/s1600/cisco-workload.jpg",
+    "published": "2026-05-22T05:36:18+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data.\n\nTracked as CVE-2026-20223 (CVSS s\u2026",
+    "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access"
   },
   "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html": {
     "categories": [],
@@ -8492,6 +8510,15 @@
     "summary": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code.\nToppi\u2026",
     "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws"
   },
+  "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5VYMnsK-UMv3L8TZp1KhZ4PQti0VtUXkbDREtK-R9Hbtj6bdYrPRwwn8VItL49asZcHEMSOFJyfV25Da96CerBXrPRnHZHncrTuo7Mj7dxEkNGNR4jZZs19Y2pep2dl7KZ0IK1CkexVOQhr14e5MIP5oe5vglQ2StuxG6xv2ataqy8jvD9T1fXLToZHc5/s1600/ddos-canada.jpg",
+    "published": "2026-05-22T08:50:18+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf.\n\nIn tandem, Ja\u2026",
+    "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks"
+  },
   "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnVSDBWt4hKZ-DOrZqHWPVH0JxrpcUeup9hpMpoH5Ny8bpuJ6Lviv58aH0aK2S2IJvAugaYRhM8P9wUW3tbVCu2kFMQbG5F16kI3PvS6gmR2Px8qOxcat-tK-UHV9oSDsAv9MHjvrduyndsqhicJxX1GroDTBo8it4ANI2wKIUVauhdxbgrNBQHhdgq2SW/s1600/linux.gif",
@@ -8554,6 +8581,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and other attacks,\u2026",
     "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks"
+  },
+  "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxp-fCwFOYcXoyRTmhjpwfvFCjfE36YoU8z-7es2XrOajnfSfpttiB9KMfwqCNbwzHQ85kILhlUwo4DeQFWXFq29J8p_oVAIe-gKCCegmTid4YW_22sK6CQO_TwELXa7Z-RZmvDvHx7N3Vg7y-xm78iSGjzCg2AU3FnHo1Hp7v80JJkBruCc05JVvVwnx/s1600/windows-defender.jpg",
+    "published": "2026-05-21T10:55:57+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild.\n\nThe former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring\u2026",
+    "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities"
   },
   "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html": {
     "categories": [],
@@ -8825,6 +8861,15 @@
     "summary": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access Critical security vulnerabilities have been disclosed in SEPPMail Secure E-Mail Gateway, an enterprise-grade email security solution, that could be exploited to achieve remote code execution and ena\u2026",
     "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access"
   },
+  "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYTZEcd3s0q7NssZnOYvAFrMtE1fTJQtdNoUDwBZKG1DkQWYL4uY6gExiUwuNcMnZG-J8dM8iTJIm6nD2Bv80qI2xMubYmnGScqUNQfeI6kF49vFkU0wKpi7iaVvbl1MX1zPleKP2iOShCd9u4S-EpLA-cBKf5lNlW7OXLu0NmiUlw35Qr0GzXmpylPcXz/s1600/telecom-linux.jpg",
+    "published": "2026-05-21T14:17:09+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor Cybersecurity researchers have disclosed details of a new Linux malware dubbed Showboat that has been put to use in a campaign targeting a telecommunications provider in the Middle East since at least mid-\u2026",
+    "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor"
+  },
   "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjfw7HlDQIzbgA8xy1bk-sUkn-TVS85DGaL4vQkuTNYu3SGabQGuPKBD7C1qkCcpxwEFfdW6I9DJoSnmMmbkAu24SN1R_B2HNYwi-niSiST1LJqwMQ7tspMjxMyHXJtZUxGZbb2Hb1k-_2ywcG5hWFhOKQubJsYXiq8hyphenhyphenFfLyVewIet_ZcdTmNZEc9-Fum/s1600/godd.png",
@@ -8905,6 +8950,15 @@
     "source": "The Hacker News",
     "summary": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories Bad week.\nTurns out the easiest way to get hacked in 2026 is still the same old garbage: shady packages, fake apps, forgotten DNS junk, scam ads, and stolen logins getting dumped in\u2026",
     "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories"
+  },
+  "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifIiAs3r9mSWAyNYngQby6QllKy0gx1dGJB4MNtgMjRQLUIkp7-fr851xuTEe6-izLAtNHux1PgdVBiWmEQctN2QM1bzV_CP0bcR7_ReqHg-lXrDa-EqUsZAUgC8da72h6tdbZU6H8nWMzAfZEItMY49Big4dpxtSHr5r7sgm7W01mhA31E274dUfWBHMi/s1600/tday.png",
+    "published": "2026-05-21T11:52:14+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories This week starts small.\n\nA token leaks. A bad package slips in. A login trick works. An old tool shows up again. At first, it feels like the usual mess. Then you see the pattern: attack\u2026",
+    "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories"
   },
   "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html": {
     "categories": [],
@@ -9059,6 +9113,15 @@
     "summary": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface In Your Biggest Security Risk Isn't Malware \u2014 It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It look\u2026",
     "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface"
   },
+  "https://thehackernews.com/2026/05/when-identity-is-attack-path.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv9W2lSuCdHjvqeLUN5WtqUOgCwe2FAyP1Y_z4oUr1LgM1MdOE5A83gkzSOfGjIosfdlfB4SuLbeVbydeuParENW4MH2aWYuWqnB-DeOd7gC3RJnp7wFucmuinh9kiMBI99337kQYcBrlIX-WH3u204eu7FTy5b_gpkXC6ZHupWD3P60yFk4-2DUrTuuc/s1600/xmxm.jpg",
+    "published": "2026-05-21T10:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "When Identity is the Attack Path Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one misconfigured anything or violated a policy. Yet t\u2026",
+    "title": "When Identity is the Attack Path"
+  },
   "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzo1TUnQJpFnJbrO50dvjG14LDr2L6gKHsIIr5P73rSCgksrt2B9eVmRGKxPVvJ1qVMF63ka4So6vj5ln9T1nBIt2MV2DcH_dnYyQp1RREL4nbtnPghY7q5SAwZCwv0bN1ZV58DyTZSLw3UN00nP7uUcX_3ZqFQmAjufAvNRFshC5AJCuMdHb2n9kzC3w/s1600/ai-agents.jpg",
@@ -9103,6 +9166,18 @@
     "source": "The Hacker News",
     "summary": "Your Purple Team Isn't Purple \u2014 It's Just Red and Blue in the Same Room Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a c\u2026",
     "title": "Your Purple Team Isn't Purple \u2014 It's Just Red and Blue in the Same Room"
+  },
+  "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/": {
+    "categories": [
+      "Apple",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-21T15:11:08+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Apple blocked over $11 billion in App Store fraud in 6 years Apple revealed that it blocked over $11 billion in fraudulent App Store transactions over the last six years, more than $2.2 billion in potentially fraudulent App Store transactions in 2025 alone. [...]",
+    "title": "Apple blocked over $11 billion in App Store fraud in 6 years"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/": {
     "categories": [
@@ -9950,6 +10025,18 @@
     "source": "BleepingComputer",
     "summary": "Google will finally allow you to change your @gmail.com address Google will finally allow you to change your @gmail address or create a new alias, according to a new support document. [...]",
     "title": "Google will finally allow you to change your @gmail.com address"
+  },
+  "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/": {
+    "categories": [
+      "Hardware",
+      "Linux"
+    ],
+    "image": "",
+    "published": "2026-05-21T11:00:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Flipper One project needs community help to build open Linux platform Flipper Devices, the maker of the Flipper Zero pentesting tool, is asking the community to help build Flipper One, an open Linux platform for connected devices. [...]",
+    "title": "Flipper One project needs community help to build open Linux platform"
   },
   "https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/": {
     "categories": [
@@ -13531,6 +13618,17 @@
     "summary": "Chinese hackers exploiting Dell zero-day flaw since mid-2024 A suspected Chinese state-backed hacking group has been quietly exploiting a critical Dell security flaw in zero-day attacks that started in mid-2024. [...]",
     "title": "Chinese hackers exploiting Dell zero-day flaw since mid-2024"
   },
+  "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-21T14:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Chinese hackers target telcos with new Linux, Windows malware A Chinese cyber-espionage campaign has been targeting telecommunications providers with newly discovered Linux and Windows malware dubbed Showboat and JFMBackdoor, respectively. [...]",
+    "title": "Chinese hackers target telcos with new Linux, Windows malware"
+  },
   "https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/": {
     "categories": [
       "Security"
@@ -14147,6 +14245,17 @@
     "source": "BleepingComputer",
     "summary": "Cisco flags more SD-WAN flaws as actively exploited in attacks \u200bCisco has flagged two Catalyst SD-WAN Manager security flaws as actively exploited in the wild, urging administrators to upgrade vulnerable devices. [...]",
     "title": "Cisco flags more SD-WAN flaws as actively exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-21T13:58:33+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Max severity Cisco Secure Workload flaw gives Site Admin privileges Cisco has released security updates to address a maximum-severity vulnerability in Secure Workload that allows attackers to gain Site Admin privileges. [...]",
+    "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges"
   },
   "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/": {
     "categories": [
@@ -16998,6 +17107,17 @@
     "summary": "Going the Extra Mile: Travel Rewards Turn into Underground Currency. Stolen airline miles are converted into flights and hotel stays, then resold as discounted travel. Flare shows how cybercriminals and underground markets treat loyalty accounts like tradable currency. [...]",
     "title": "Going the Extra Mile: Travel Rewards Turn into Underground Currency."
   },
+  "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-21T18:13:50+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Google accidentally exposed details of unfixed Chromium flaw Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the device. [...]",
+    "title": "Google accidentally exposed details of unfixed Chromium flaw"
+  },
   "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/": {
     "categories": [
       "Security",
@@ -18339,6 +18459,17 @@
     "source": "BleepingComputer",
     "summary": "Initial access hackers switch to Tsundere Bot for ransomware attacks A prolific initial access broker tracked as\u00a0TA584 has been observed using the Tsundere Bot alongside XWorm remote access trojan\u00a0to gain network access that could lead to ransomware attacks. [...]",
     "title": "Initial access hackers switch to Tsundere Bot for ransomware attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-21T14:00:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet Modern crypto drainers don't hack wallets. They trick users into approving malicious transactions.  Flare explores how the Lucifer DaaS platform scales wallet theft through phishing and automation. [...]",
+    "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet"
   },
   "https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/": {
     "categories": [
@@ -21544,6 +21675,19 @@
     "summary": "Over 20,000 crypto fraud victims identified in international crackdown An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. [...]",
     "title": "Over 20,000 crypto fraud victims identified in international crackdown"
   },
+  "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/": {
+    "categories": [
+      "Security",
+      "Legal",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-05-21T13:09:51+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Police seize \u201cFirst VPN\u201d service used in ransomware, data theft attacks A virtual private network service called 'First VPN,' used in ransomware and data theft attacks, has been taken offline in a joint international law enforcement operation. [...]",
+    "title": "Police seize \u201cFirst VPN\u201d service used in ransomware, data theft attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/": {
     "categories": [
       "Security"
@@ -23836,6 +23980,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers exploit unpatched Gogs zero-day to breach 700 servers An unpatched zero-day vulnerability in Gogs, a popular self-hosted Git service, has enabled attackers to gain remote code execution on\u00a0Internet-facing instances and\u00a0compromise hundreds of servers. [...]",
     "title": "Hackers exploit unpatched Gogs zero-day to breach 700 servers"
+  },
+  "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-22T09:01:20+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "US and Canada arrest and charge suspected Kimwolf botnet admin U.S. and Canadian authorities arrested and charged a Canadian man with operating the KimWolf distributed denial-of-service (DDoS) botnet, which infected nearly two million devices worldwide. [...]",
+    "title": "US and Canada arrest and charge suspected Kimwolf botnet admin"
   },
   "https://www.bleepingcomputer.com/news/security/us-announces-new-strike-force-targeting-chinese-crypto-scammers/": {
     "categories": [
@@ -26355,6 +26510,15 @@
     "summary": "'Contagious Interview' Attack Now Delivers Backdoor Via VS Code Once trust is granted to the repository's author, a malicious app executes arbitrary commands on the victim's system with no other user interaction.",
     "title": "'Contagious Interview' Attack Now Delivers Backdoor Via VS Code"
   },
+  "https://www.darkreading.com/cyber-risk/content-delivery-exploit-websites-brand-hijacking": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta4e69c10af67b9ac/6a0b28b90c15634015ba260b/Landmine-hernandez_jose_maria-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-21T13:05:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Content Delivery Exploit Opens Websites to Brand Hijacking The Underminr domain-fronting attack allows threat actors to modify Web requests and leverage trusted websites to cloak malicious activity.",
+    "title": "Content Delivery Exploit Opens Websites to Brand Hijacking"
+  },
   "https://www.darkreading.com/cyber-risk/cto-new-year-resolutions-for-a-more-secure-2026": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt97a141212ba04f79/6957c64d6eb3d1b0a75e8357/sparklers-resolutions-free-photos-pixabay.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -26529,6 +26693,15 @@
     "source": "darkreading",
     "summary": "How Can CISOs Respond to Ransomware Getting More Violent? Ransomware defense requires focusing on business resilience. This means patching issues promptly, improving user education, and deploying multifactor authentication.",
     "title": "How Can CISOs Respond to Ransomware Getting More Violent?"
+  },
+  "https://www.darkreading.com/cyber-risk/how-cisos-should-prep-for-agentic-ready-ai-boms": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc910f7f1381f9cc0/6a0c51d37e010876184b0788/robot-book-KittipongJirasukhanont-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-21T21:11:40+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "How CISOs Should Prep for Agentic-Ready AI BOMs Finding ways to document both component and execution attributes for AI bill of materials (AI BOM).",
+    "title": "How CISOs Should Prep for Agentic-Ready AI BOMs"
   },
   "https://www.darkreading.com/cyber-risk/how-cyber-insurance-mga-shape-cyber-risk-policy": {
     "categories": [],
@@ -28581,6 +28754,15 @@
     "summary": "ChatGPT's Memory Feature Supercharges Prompt Injection The &quot;ZombieAgent&quot; exploit makes use of ChatGPT's long-term memory and advanced capabilities.",
     "title": "ChatGPT's Memory Feature Supercharges Prompt Injection"
   },
+  "https://www.darkreading.com/endpoint-security/chinas-webworm-discord-microsoft-graphs": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9bbd9e9f246990ad/6a0f5eeab6882cd3afc7c328/Discord_app_iPhone_True_Images_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-22T07:01:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "China's Webworm Uses Discord, Microsoft Graphs to Hack EU Govts. The advanced persistent threat group also relied on SOCKS proxies like SoftEther VPN, tunneling tools that act as a middleman between victim and attacker.",
+    "title": "China's Webworm Uses Discord, Microsoft Graphs to Hack EU Govts."
+  },
   "https://www.darkreading.com/endpoint-security/chinese-apt-routers-hijack-software-updates": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c2272ac0964d1a8/691f71f3294e2502ff8a7325/Plush_daemon-Michal_Boubin-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -29130,6 +29312,15 @@
     "summary": "Enterprises Aren't Confident They Can Secure Non-Human Identities (NHIs) More than half of organizations surveyed aren't sure they can secure non-human identities (NHIs), underscoring the lag between the rollout of these identities and the tools to protect them.",
     "title": "Enterprises Aren't Confident They Can Secure Non-Human Identities (NHIs)"
   },
+  "https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltefc0db2ad802a547/6a0f5ac8f89ee59a84380e8a/apis_Sandwish_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-21T20:07:47+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Google API Keys Remain Active After Deletion A security researcher discovered the API keys can still be used for 23 minutes after deletion, even though the cloud provider claims deletion is immediate.",
+    "title": "Google API Keys Remain Active After Deletion"
+  },
   "https://www.darkreading.com/identity-access-management-security/hackers-weaponize-remote-tools-hijack-cargo-freight": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt62927dddef1dabcd/6908fd90af0e62449ed483b0/Hands_in_box_HA_Photos_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -29190,6 +29381,15 @@
     "source": "darkreading",
     "summary": "Oracle Red Bull Racing Team Revs Up Automation to Boost Security While drivers race to shave off seconds on the track, the team's IT and engineering staff are speeding up how they deliver security.",
     "title": "Oracle Red Bull Racing Team Revs Up Automation to Boost Security"
+  },
+  "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd00712c4fd23579b/6a0e0281107a585c56c6d09e/AI_ID_card_Edgars_Sermulis_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-21T15:43:37+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI Agents Are Shifting Identity Security Budget Dynamics AI agent projects are proliferating throughout the enterprise, and those AI agent identities require management, security, and governance. New Omdia research shows the AI agent identity budget dynamics are very different th\u2026",
+    "title": "AI Agents Are Shifting Identity Security Budget Dynamics"
   },
   "https://www.darkreading.com/identity-access-management-security/specterops-launches-bloodhound-scentry": {
     "categories": [],
@@ -29581,6 +29781,15 @@
     "source": "darkreading",
     "summary": "China Upgrades the Backdoor It Uses to Spy on Telcos Globally Chinese APT Red Menshen's super-advanced BPFdoor malware defeats traditional cybersecurity protections. All telcos can do, really, is try hunting it down.",
     "title": "China Upgrades the Backdoor It Uses to Spy on Telcos Globally"
+  },
+  "https://www.darkreading.com/threat-intelligence/chinese-apts-linux-backdoor-telco-attacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4ed651e9b0fd01c3/6a0c7dba3c21f60b728ba42d/Showboat-Mark_Summerfield-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-21T14:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Chinese APTs Share Linux Backdoor in Central Asia Telco Attacks &quot;Showboat&quot; doesn't show off, but clearly it doesn't need to, as it's long helped China spy on small market communications providers.",
+    "title": "Chinese APTs Share Linux Backdoor in Central Asia Telco Attacks"
   },
   "https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors": {
     "categories": [],
