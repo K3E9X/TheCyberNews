@@ -8303,6 +8303,15 @@
     "summary": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability Proof-of-concept (PoC) exploit code has now been released for a recently patched security flaw in the Linux kernel that could allow for local privilege escalation (LPE).\nDubbed DirtyDecrypt (aka DirtyCBC)\u2026",
     "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability"
   },
+  "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKqQ4Uk8lGWwF7f6lrmP6dRHkEmQTJsqFs8xvJ5256xUcHTeWMNVMkPguALNqLPpJWneU9XWIEzi4jSUVTiS2In1QMSl7NEjNDB99yHlGeCjw4OAQ3Lx8jhE5l9RUGMmth_ecUC1GcgierrFk8XKREHXC73mQn3w3jFcqjvJL1UZpPJPP62Uv-IpfBafRI/s1600/cisa-drupal.jpg",
+    "published": "2026-05-23T07:23:48+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence o\u2026",
+    "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV"
+  },
   "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdm6ntsTvJJXoF1Bvx2Qm11faosxt-w7g0VzPCnsORnDN-q79t1wnbzqTFxbkRw5DF1DjhdDUgZ1H_0O4h35tZcEvlsM7dEUkbPyvaQdkEhhyGhpF90Bug4O1aai-0dXi1DdnnOpH2SmC8GoQD0TAd742-StQ4Pva_IVXNUcRpy9V96B7dwBnOc41xScyj/s1600/drupal-update.jpg",
@@ -8329,6 +8338,15 @@
     "source": "The Hacker News",
     "summary": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windo\u2026",
     "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads"
+  },
+  "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8yN-yeHodasj_piRqdUbE1MGyOfiyAzo-x6KZ_V9oilxP_v_kFNoyLVU7oNmG05F5g49pLeMY_jgJtU0mFk9ft_0qi4oLFgTxm0KWBncWw9lq0lVJFdkzshBzjul-2ODkaGNoLbgFUqKXbwKJJiF8nm0E6u7q6hnK_Vzb07XT-iygxE6Ct3bxW7A6s6f8/s1600/firstvpn.jpg",
+    "published": "2026-05-22T17:35:02+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, sc\u2026",
+    "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups"
   },
   "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html": {
     "categories": [],
@@ -8365,6 +8383,15 @@
     "source": "The Hacker News",
     "summary": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channe\u2026",
     "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data"
+  },
+  "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNDmjcnVzVIqFFB-CQU7L6G8XVTifkZGmIMcPrui1EoffwwvtPXCrjKhRtIfxYsfPb5OUON4KQ1MVRosbP1BgCeFpqIIWRbgv34naUxEUTzyGRsPB6fY2gJJa5AXgT085SLFuc8ykNinXhnnpQzGAT2Kw1YwNe05vxSxlb6EVTu8_CoDws3QwR_SCk7dXm/s1600/ukuk.jpg",
+    "published": "2026-05-22T16:20:32+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organi\u2026",
+    "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware"
   },
   "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html": {
     "categories": [],
@@ -8527,6 +8554,33 @@
     "source": "The Hacker News",
     "summary": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel.\nDubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026\u2026",
     "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions"
+  },
+  "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM0W1UqsbcZ-8IV_n8ov3V24MQ74VaKe3auGFWNunDUfubEBeKEGREuFjC9-i7H_fLfSwFQQ5wqe8bhVWvAUVC_8U5AQg1c1Qbe-M7bSjuWCwcjTRrc2Du7L0Tm-NKO7ErhPUTR7YS6b1vkpmbYS1VaClWUGOvGe4cxv-jHkQFZMXbSDLfBiF7FFwd7Nfe/s1600/lightspeed.png",
+    "published": "2026-05-23T07:35:13+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild.\n\nThe flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an inst\u2026",
+    "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root"
+  },
+  "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUdjbDFZeTbwpdUFibGsmuDSgX_NHbFfTYroqcGYEGB6yvuKR3eUBSHo9XaphMTYmXC3cqmICDOGUjlsBrwwyJOxzkj1Cdh2xZcYxLz1WpHrV9QmloScYivp7jfyynDTiB51MTpsgGffJ9bZgYJeV3VhY6OA32tot8mC08F-g6KpU47zR513SkVqk-hIim/s1600/driver.jpg",
+    "published": "2026-05-22T11:38:12+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective 1 Introduction\n\nThis article provides a technical analysis of how many Windows kernel mode drivers can be interacted with from user mode without the hardware they were developed for. This work was moti\u2026",
+    "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective"
+  },
+  "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC_sjVeLejyyBZJ0DWW2y9-Z2Jvmrzz9h-5XEIKPFTcJvDj49Jlt-z1FNbSp51K9XcQ8FqC9MBDFPPPdZuzRfjqtYvKNaqT0Qzd61oCHVhNq59IcAVcWV3LvDmKCsX5pHn4nU3LclQPEozMp3XsgYZnVHCZEj89AGkWJpqL1EjCjiqMLnvggZLsgb08MYp/s1600/github-worm.jpg",
+    "published": "2026-05-22T11:55:24+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window.\n\n\"Using throwawa\u2026",
+    "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows"
   },
   "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html": {
     "categories": [],
@@ -15532,6 +15586,17 @@
     "summary": "Drift loses $280 million North Korean hackers seize Security Council powers The Drift Protocol lost at least $280 million after a threat actor took control of its Security Council administrative powers in a planned, sophisticated operation. [...]",
     "title": "Drift loses $280 million North Korean hackers seize Security Council powers"
   },
+  "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-22T13:14:40+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Drupal: Critical SQL injection flaw now targeted in attacks Drupal is warning that hackers are attempting to exploit a \"highly critical\" SQL injection vulnerability announced earlier this week. [...]",
+    "title": "Drupal: Critical SQL injection flaw now targeted in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/": {
     "categories": [
       "Security"
@@ -16587,6 +16652,17 @@
     "source": "BleepingComputer",
     "summary": "Former ransomware negotiator pleads guilty to BlackCat attacks 41-year-old Angelo Martino, a former employee of cybersecurity incident response company DigitalMint, has pleaded guilty to targeting U.S. companies in BlackCat (ALPHV) ransomware attacks in 2023. [...]",
     "title": "Former ransomware negotiator pleads guilty to BlackCat attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-22T15:32:18+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Former US execs plead guilty to aiding tech support scammers Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized individuals worldwide. [...]",
+    "title": "Former US execs plead guilty to aiding tech support scammers"
   },
   "https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/": {
     "categories": [
@@ -19954,6 +20030,18 @@
     "source": "BleepingComputer",
     "summary": "Nearly 800,000 Telnet servers exposed to remote attacks Internet security watchdog Shadowserver tracks nearly 800,000 IP addresses with Telnet fingerprints amid ongoing attacks exploiting a critical authentication bypass vulnerability in the GNU InetUtils telnetd server. [...]",
     "title": "Nearly 800,000 Telnet servers exposed to remote attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-05-22T17:24:52+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation campaigns. [\u2026",
+    "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks"
   },
   "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/": {
     "categories": [
@@ -23529,6 +23617,17 @@
     "summary": "Trend Micro warns of critical Apex Central RCE vulnerability Japanese cybersecurity software firm Trend Micro has patched a critical security flaw in Apex Central (on-premise) that could allow attackers to execute arbitrary code with SYSTEM privileges. [...]",
     "title": "Trend Micro warns of critical Apex Central RCE vulnerability"
   },
+  "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-22T13:39:19+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Trend Micro warns of Apex One zero-day exploited in the wild Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
+    "title": "Trend Micro warns of Apex One zero-day exploited in the wild"
+  },
   "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/": {
     "categories": [
       "Security"
@@ -23670,6 +23769,17 @@
     "source": "BleepingComputer",
     "summary": "Tycoon2FA phishing platform returns after recent police disruption The Tycoon2FA phishing-as-a-service (PhaaS) platform that Europol and partners disrupted on March 4 has already returned to previously observed activity levels. [...]",
     "title": "Tycoon2FA phishing platform returns after recent police disruption"
+  },
+  "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-22T12:00:42+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Ubiquiti patches three max severity UniFi OS vulnerabilities Ubiquiti has released security updates to patch three maximum severity vulnerabilities in UniFi OS that can be exploited by remote attackers without privileges. [...]",
+    "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities"
   },
   "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/": {
     "categories": [
@@ -24696,6 +24806,17 @@
     "source": "BleepingComputer",
     "summary": "Why Changing Passwords Doesn\u2019t End an Active Directory Breach Resetting a password doesn't always remove attackers from Active Directory. Specops Software explains how cached credentials and Kerberos tickets can keep attackers authenticated after a reset. [...]",
     "title": "Why Changing Passwords Doesn\u2019t End an Active Directory Breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-22T13:09:18+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Why Chargebacks are Just One Piece of the Fraud Puzzle Fraud losses don't stop at chargebacks. False declines, account takeovers, and abuse also damage revenue and trust. IPQS breaks down why fraud teams need broader visibility into risk and customer impact. [...]",
+    "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle"
   },
   "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/": {
     "categories": [
@@ -27076,6 +27197,15 @@
     "source": "darkreading",
     "summary": "Venezuelan Oil Company Downplays Alleged US Cyberattack But media reports described the attack as causing major disruption to PDVSA, the state-owned oil and natural gas company.",
     "title": "Venezuelan Oil Company Downplays Alleged US Cyberattack"
+  },
+  "https://www.darkreading.com/cyber-risk/verizon-dbir-healthcare-fends-off-increased-social-engineering-attacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt239496a9d5a17a58/6a105fcb611161e1e7c5239b/patterns-healthcare-2026dbir.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-22T13:17:25+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Verizon DBIR: Healthcare Fends Off Increased Social Engineering Attacks Ransomware and vendor breaches persist. The &quot;2026 Data Breach Investigations Report&quot; (DBIR) highlights how evolving social engineering tactics make the sector more vulnerable.",
+    "title": "Verizon DBIR: Healthcare Fends Off Increased Social Engineering Attacks"
   },
   "https://www.darkreading.com/cyber-risk/wake-up-call-to-protect-human-decisions-not-just-systems": {
     "categories": [],
@@ -29505,6 +29635,15 @@
     "source": "darkreading",
     "summary": "'Most Severe AI Vulnerability to Date' Hits ServiceNow ServiceNow tacked agentic AI onto a largely unguarded legacy chatbot, exposing customers' data and connected systems.",
     "title": "'Most Severe AI Vulnerability to Date' Hits ServiceNow"
+  },
+  "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf459c9ff5d345e58/686d20d8a502a804ecf992c7/browser-security-Robert_Avgustin-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-22T15:43:50+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers When Akamai announced its LayerX acquisition, the company joined a growing list of vendors adding secure enterprise browsers to their product portfolios.",
+    "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers"
   },
   "https://www.darkreading.com/remote-workforce/amazon-fends-off-dprk-it-job-scammers": {
     "categories": [],
