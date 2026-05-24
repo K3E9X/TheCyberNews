@@ -8213,6 +8213,15 @@
     "summary": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data.\n\nTracked as CVE-2026-20223 (CVSS s\u2026",
     "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access"
   },
+  "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOPcHXcMRS-BJNvy9aeoCz5H2Mmdh6mO6Kl3kM-l216B-3Wc0Iy5wayPkxJ79KtkHx2CGBwDVPMMeuB9E3jQlPXsa-vKqALoAuTwmEwsbH5sK0xs9xb_XWgk4uaGazYAcswrLxdX0QL74k7e85WXfL03rHFQStuxqpJFsJBcAQLOvNXSuX2YNBAScQStvj/s1600/claude-mythos-flaws.jpg",
+    "published": "2026-05-23T11:55:35+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world\u2026",
+    "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software"
+  },
   "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi61imbY3-QbM_mT_6WAxBXaFeZ3eXwprN147ox_bMvVqh9NrS69IwqwwL4qu2z1eRA8NfrWwyJi9bIDuREGEVZ-LdBMCGTSxdul92ZApPGrzwqOcr3b6YBKC19N97sk75izvamQxOqBzokKhF-__uaEuw74ZbKQLxKxMQWgRXSCR3FE6ULeHGxbiIhuEso/s1600/nconsole.jpg",
@@ -8546,6 +8555,15 @@
     "summary": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf.\n\nIn tandem, Ja\u2026",
     "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks"
   },
+  "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkqwlAgmL-HrE2pSx8xqfY4-AyYZ59wK4x5AWtnCXSHRoBO1wcYTpWw42Fe6VRoAT77e914MSqZW56fKX95IueHTCrk10XNn2Yxh7CU8iCdX5lzFowGeVkolW-4E3po81w9pFMsaLR_r85abtUv3bwvQMa6pP1BAiSj4DrmapTiYr1twfV61tvGdWJRgs8/s1600/lang-hack.jpg",
+    "published": "2026-05-23T09:51:13+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to  Laravel-Lang to deliver a comprehensive credential-stealin\u2026",
+    "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer"
+  },
   "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnVSDBWt4hKZ-DOrZqHWPVH0JxrpcUeup9hpMpoH5Ny8bpuJ6Lviv58aH0aK2S2IJvAugaYRhM8P9wUW3tbVCu2kFMQbG5F16kI3PvS6gmR2Px8qOxcat-tK-UHV9oSDsAv9MHjvrduyndsqhicJxX1GroDTBo8it4ANI2wKIUVauhdxbgrNBQHhdgq2SW/s1600/linux.gif",
@@ -8753,6 +8771,15 @@
     "summary": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck.\nThe vulnerability, tra\u2026",
     "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE"
   },
+  "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4rnMZgOYbsYr65UN9AZ3oFzcAwqXSYqgRfjUGpeaQeyP-0OAaqJ9aceXPAiujRKwyGQMa_4ShcSvtOWPb9T3qpqF2LATAw2U4iA7IkU9ok0alDbzN_WYJeaZ1SrF0-vyRrEHGedMEcCeP2otYYqplHmqEBda1R_MePbWgEpt-b-GB_RhxJLDC1pJFV0S0/s1600/npm-security.png",
+    "published": "2026-05-23T16:35:10+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming p\u2026",
+    "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks"
+  },
   "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92eUjjTTMJPizvUJGwq7Ych7nrXHwGRNt3hS9yjNGRJk5d3pdIKjeZhQDVuFp0DnKjP4qoieGWFjswm7nHDLBaxWC3DxFIfLfRjMSEXd0Ta04vcTrbCpS9PEXebUUbMBxBt0VOb-PKVk-7Cq0FjuMXl4VtKneb5a3ujCo872goPN22GBFFhReJtWsQJLK/s1600/oll.jpg",
@@ -8797,6 +8824,15 @@
     "source": "The Hacker News",
     "summary": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and pa\u2026",
     "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation"
+  },
+  "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5LyRYJIkEVUSrrBV-_qvrXIKC-B4h0JAxyV4IalzuiEzXi6KeCnZNTUWIIld3oeC5kDx85xppqYm9tG_UB3_Sss9WqH2bYsOVxkB3PhjUk_cQrdyvr6JKsYgn35_sESYYsLC_OuKN9_2korX__RfHwkecLX_BGk7aajnm3sfNqbpV4Pl55B1fpSBpbOA/s1600/packagist.jpg",
+    "published": "2026-05-23T16:07:51+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL.\n\n\"Although th\u2026",
+    "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware"
   },
   "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html": {
     "categories": [],
@@ -10148,6 +10184,17 @@
     "source": "BleepingComputer",
     "summary": "FTC: Instacart to refund $60M over deceptive subscription tactics Grocery delivery service Instacart will refund $60 million to settle FTC claims that it misled customers with false advertising and unlawfully enrolled them in paid subscriptions. [...]",
     "title": "FTC: Instacart to refund $60M over deceptive subscription tactics"
+  },
+  "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/": {
+    "categories": [
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-05-23T14:23:44+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, including Netflix, Disney+, and Spotify. [...]",
+    "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes"
   },
   "https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/": {
     "categories": [
@@ -18978,6 +19025,17 @@
     "source": "BleepingComputer",
     "summary": "Kyber ransomware gang toys with post-quantum encryption on Windows A new Kyber ransomware operation is targeting Windows systems and VMware ESXi endpoints in recent attacks, with one variant implementing Kyber1024 post-quantum encryption. [...]",
     "title": "Kyber ransomware gang toys with post-quantum encryption on Windows"
+  },
+  "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-23T20:48:23+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Laravel Lang packages hijacked to deploy credential-stealing malware A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute mali\u2026",
+    "title": "Laravel Lang packages hijacked to deploy credential-stealing malware"
   },
   "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/": {
     "categories": [
