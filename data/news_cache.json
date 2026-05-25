@@ -8564,6 +8564,15 @@
     "summary": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to  Laravel-Lang to deliver a comprehensive credential-stealin\u2026",
     "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer"
   },
+  "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinuOeS1qVC0UHhPnJ0jlSdfScsZDRtkI6VU366iePjKdNTqLiqHcqjRcGL-sNBdUkShUH71YDDVwavzXM1cIu2UU9zE8VYgbJYsRUQeWRZAO75JC2vQHYs4saWOM3rQZKFPqNvlL8ASBocRiZXdO1jLgqLuCCeLHX0bAA1EQEhiBAq3i3Os97qHt_xF5ub/s1600/crypto-firms.jpg",
+    "published": "2026-05-25T09:32:54+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms Cybersecurity researchers have shed light on a cross-platform malware called RemotePE that has been put to use by the North Korea-linked Lazarus Group in attacks targeting financial and cryptocurrency org\u2026",
+    "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms"
+  },
   "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnVSDBWt4hKZ-DOrZqHWPVH0JxrpcUeup9hpMpoH5Ny8bpuJ6Lviv58aH0aK2S2IJvAugaYRhM8P9wUW3tbVCu2kFMQbG5F16kI3PvS6gmR2Px8qOxcat-tK-UHV9oSDsAv9MHjvrduyndsqhicJxX1GroDTBo8it4ANI2wKIUVauhdxbgrNBQHhdgq2SW/s1600/linux.gif",
@@ -9076,6 +9085,15 @@
     "source": "The Hacker News",
     "summary": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps Cybersecurity researchers have disclosed details of a new ad fraud and malvertising operation dubbed Trapdoor targeting Android device users.\n\nThe activity, per HUMAN's Satori Threat Intelligence a\u2026",
     "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps"
+  },
+  "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOb58wXNPgRDazHcSLTObawPnMVsCDUEAoFclGVn3CC8qe6Pr_0-Gce-SxCO7FJ5HzU23WE_soU5iTc0zvLL0zzbXPcO8MqVgHIIAKXJo4ExcujDPV9yiIdN1X1jV63ACBN66_ktTeQ0FVmYsCTJC3tpyxpUBrvxLh_xqF-mKOZy8uaqz3QKyf6XpJHC4z/s1600/npm-python-rust.jpg",
+    "published": "2026-05-25T05:59:13+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware.\n\nThe campaign, codenamed TrapDoor,\u2026",
+    "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO"
   },
   "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html": {
     "categories": [],
@@ -17053,6 +17071,17 @@
     "source": "BleepingComputer",
     "summary": "Ghanain man pleads guilty to role in $100 million fraud ring A Ghanaian national pleaded guilty to his role in a massive fraud ring that stole over $100 million from victims across the United States through business email compromise attacks and romance scams. [...]",
     "title": "Ghanain man pleads guilty to role in $100 million fraud ring"
+  },
+  "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-24T14:12:32+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows. [...]",
+    "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign"
   },
   "https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/": {
     "categories": [
