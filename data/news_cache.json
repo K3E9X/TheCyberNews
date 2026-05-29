@@ -8303,6 +8303,15 @@
     "summary": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks A previously unknown threat actor has been observed targeting government and military entities in Southeast Asia, alongside a smaller cluster of managed service providers (MSPs) and hosting providers i\u2026",
     "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks"
   },
+  "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaqRd_3DDSSASg_YzvuUEqv3elhvFWSjk56bXPoqJeNIWVo-K0giuJ3TNEXV-aYpnuVfOv00_VM428vIFVaMiuZzfL0dQdQvz0_xMNFq4CtrppgTZu5dupV0asq1wZjPW3FoMgUnyGMR_RgBpWT2oTnJFuhaldo3Cd3eNP-MOlDNhP9Uu2KDRiDpYHdoeq/s1600/exploit-meta.jpg",
+    "published": "2026-05-28T17:24:44+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions.\n\nT\u2026",
+    "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code"
+  },
   "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4FSyjacFNJX32YMLQvN6jUeVwGJfoAHPLMIhtU6aNS6hrkIUokynaWWzqxOjr1JsP0lIooaL0ppYM-iQ_rEH2ruoqMw1UAb_bq4FNjI16P6P7CpTaYSkJtp-TpCFKOce9ODtmzskcTZnuWFLYyUdfA0UeHqmRVVNB1P6Mw28a5Yuc7T1kgEx4Pcyxbcsr/s1600/vishing.jpg",
@@ -8636,6 +8645,15 @@
     "summary": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware A new campaign orchestrated by a previously undocumented threat actor has targeted cryptocurrency organizations with an aim to facilitate digital asset theft using recruitment-themed social enginee\u2026",
     "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware"
   },
+  "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJfUl1K-os1XyLN-SBt6PgMia_jFG03ArRa3H0FI2hsiUqNa3lqSWY2NJcvOhY33TArSKJxeookUpkATdERUpEwKw-IUi6iv9ZVuUq4c1A99mLwgQB4ibCxBx4MBR1XXmM98zH7v-QWDO7bhh1AONQ8Op0htvwHhuivwI1Cch9rgLPO-zSGCjjQbvXdDte/s1600/north-korea.png",
+    "published": "2026-05-29T05:57:41+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels The North Korean state-sponsored threat actor known as Kimsuky (aka Velvet Chollima) has been attributed to a fresh set of cyber attacks targeting South Korean military and corporate entities through Marc\u2026",
+    "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels"
+  },
   "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5VYMnsK-UMv3L8TZp1KhZ4PQti0VtUXkbDREtK-R9Hbtj6bdYrPRwwn8VItL49asZcHEMSOFJyfV25Da96CerBXrPRnHZHncrTuo7Mj7dxEkNGNR4jZZs19Y2pep2dl7KZ0IK1CkexVOQhr14e5MIP5oe5vglQ2StuxG6xv2ataqy8jvD9T1fXLToZHc5/s1600/ddos-canada.jpg",
@@ -8708,6 +8726,15 @@
     "summary": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub Cybersecurity researchers have discovered a new malicious package on the npm registry that comes with information stealing capabilities.\n\nAccording to OX Security, the package, named \"mouse5212-super-forma\u2026",
     "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub"
   },
+  "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUbmZyAOVZRXrWddG8PMuXbVyex9s5HPD2cH8rDjYP6EHuVadkyj72NdN9PreAnGX9iOCVGxWI2YmSLu818VmdLGEcPkb60qPIUgBYh5oBHsA4KKYufsHbFGhAQDD7SjpZU0In0TPiHN4TxCR4THBwmKa4Bus98vBgx5mO3QTQRpTM5RERk8bFWi4psF7d/s1600/sdk.jpg",
+    "published": "2026-05-29T09:11:25+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets Cybersecurity researchers have discovered a malicious NuGet package that masquerades as a C# software development kit for Sicoob, one of Brazil's largest cooperative financial systems, to sipho\u2026",
+    "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets"
+  },
   "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC_sjVeLejyyBZJ0DWW2y9-Z2Jvmrzz9h-5XEIKPFTcJvDj49Jlt-z1FNbSp51K9XcQ8FqC9MBDFPPPdZuzRfjqtYvKNaqT0Qzd61oCHVhNq59IcAVcWV3LvDmKCsX5pHn4nU3LclQPEozMp3XsgYZnVHCZEj89AGkWJpqL1EjCjiqMLnvggZLsgb08MYp/s1600/github-worm.jpg",
@@ -8779,6 +8806,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week.\n\nThe zero-day flaw, now tracked as CVE-2026-45585, carrie\u2026",
     "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit"
+  },
+  "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIMDR_KVt17sFMXeEhMvDYHLwBX_Aix1bz3y0izMs7PsVIuGSQhOLX_khN3Ckl_eRm9OEMAlVmBxPHhQvCGDJB5wXJ2rtOT8uQAiWCWCZwc7dvOfbWyuZ0BpNFAKohIpLUq9KR76XvZ3eT0TpltWDHUWQY-nUJzJflA1y5l7q_UXsjVtAMPhwVAULZZScp/s1600/github-ms.png",
+    "published": "2026-05-28T13:53:52+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better unde\u2026",
+    "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal"
   },
   "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html": {
     "categories": [],
@@ -8878,6 +8914,15 @@
     "source": "The Hacker News",
     "summary": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back Every single day, hackers are finding new ways to crash websites and steal data.\n\nBut right now, something has changed. Hackers are no longer working alone. They are now using powerful Artificial Intelligence \u2026",
     "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back"
+  },
+  "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXxB1vzDMiskZRwzcQojV8rDdalRXWpzXieLES5nUD0bXfnbXrUwsV00RsMmRFdd-Zd3up_9wAGsvfzTDmWi4MLp70XlajlgakXsuCfdWmOe0uQuy0yIwxC4-fevqlb0Rs3AR_eqInGT1scQfa5oiGqY-TRmswOwkY4Zg2ikCYxlsBF2FQTEGA216b_NF8/s1600/apples.jpg",
+    "published": "2026-05-28T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\" State of AI Usage Report 2026 (full report here) by LayerX Security reveals the extent of the enterprise AI visibility gap and why most organizations still don't understand whe\u2026",
+    "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\""
   },
   "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html": {
     "categories": [],
@@ -9194,6 +9239,24 @@
     "summary": "The New Phishing Click: How OAuth Consent Bypasses MFA In February 2026, a phishing-as-a-service (PhaaS) platform called EvilTokens went live. Within five weeks, it had compromised more than 340 Microsoft 365 organizations across five countries.&nbsp;\n\nThe targets of the platform\u2026",
     "title": "The New Phishing Click: How OAuth Consent Bypasses MFA"
   },
+  "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLo8Mb8UwcN2lkMlnUi-l3a8DXNNL2_dW0VcATt8d34xxXX-kQN8HMolrIuw8ty0WZmpURI7hyphenhyphenDrvCAiKAarvJU1__tzxaKMxX3U4ZJbuwydE2zGoyFmutxDtid410NLBq_wi7fv_QFMdmkHGqRPwVcLY8xfeJ1PSb46o0RpCA4ubLLl8_LlLg-Id7ceU8/s1600/fort.jpg",
+    "published": "2026-05-28T15:26:04+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware.\n\n\"The campaign\u2026",
+    "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer"
+  },
+  "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBnLTRREuP8t8AoMRlakMDVRNoOYCA18IuBTWxA_nms12GdQaSfaU1kgpLSrgUvFFH1goJ_-NOIerDAnZxlD86Oafg_b6QdecLrT4UJdb3_qfmgtxdjrhF8GioeuEZbyZBTVL4cXUcpWqZujpLoI4zBm9y7XvFUjYR5cjF0GmmU_TXlmX0W7zsxlcvV9mW/s1600/tbb.jpg",
+    "published": "2026-05-28T13:33:16+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social\u2026",
+    "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More"
+  },
   "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYNaH2vOiD-OgAVnO0nGCSr8j4nnvHD2n7RieJD2mDMlPev_fKoBafjhvob13LV4pOFhgMuZd6ex8zyQnCM1AyVfl6fuRG9Max2F76Ku9rWbieBvF0AtGlQd0nXlIwHDKvq5H4BJn3hGCRfE86fHs5SL05RywOADNDC9J5lG9DF8goavgxWzAh7a7isNMB/s1600/threatsday-1.jpg",
@@ -9508,6 +9571,18 @@
     "source": "BleepingComputer",
     "summary": "Anthropic confirms Claude is down in a worldwide outage Claude appears to be having a major outage right now, with elevated errors reported across all platforms. [...]",
     "title": "Anthropic confirms Claude is down in a worldwide outage"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-05-29T00:21:03+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Anthropic confirms Claude Mythos-class models will roll out to the public Anthropic has confirmed that it plans to bring Mythos-class models to the general public after delaying the rollout due to security risks to public and private software. [...]",
+    "title": "Anthropic confirms Claude Mythos-class models will roll out to the public"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/": {
     "categories": [
@@ -13744,6 +13819,18 @@
     "summary": "Broken VECT 2.0 ransomware acts as a data wiper for large files Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger files rather than encrypt them. [...]",
     "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files"
   },
+  "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/": {
+    "categories": [
+      "Security",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-05-28T21:10:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "BTMOB Android malware service generates custom phishing payloads An Android remote access trojan named BTMOB is offered to cybercriminals with a builder interface for generating malware payloads tailored to phishing lures. [...]",
+    "title": "BTMOB Android malware service generates custom phishing payloads"
+  },
   "https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/": {
     "categories": [
       "Security",
@@ -13888,6 +13975,17 @@
     "source": "BleepingComputer",
     "summary": "Chainlit AI framework bugs let hackers breach cloud environments Two high-severity vulnerabilities in Chainlit, a popular open-source framework for building conversational AI applications, allow reading any file on the server and leak sensitive information. [...]",
     "title": "Chainlit AI framework bugs let hackers breach cloud environments"
+  },
+  "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-29T08:29:40+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Charter Communications data breach affects 4.9 million accounts The ShinyHunters extortion gang stole personal information from 4.9 million accounts after hacking the U.S. telecom giant Charter Communications in early April, according to data breach notification service Have I Be\u2026",
+    "title": "Charter Communications data breach affects 4.9 million accounts"
   },
   "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/": {
     "categories": [
@@ -16809,6 +16907,17 @@
     "summary": "FBI warns against using Chinese mobile apps due to privacy risks The U.S. Federal Bureau of Investigation (FBI) warned Americans against using foreign-developed mobile applications, particularly those created by Chinese developers. [...]",
     "title": "FBI warns against using Chinese mobile apps due to privacy risks"
   },
+  "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-28T19:08:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "FBI warns of fake FIFA websites running World Cup fraud schemes The FBI is warning of fake websites impersonating FIFA ahead of the 2026 World Cup, to steal personal and financial information, sell fake tickets and hospitality packages, and push other fraud related to the event. \u2026",
+    "title": "FBI warns of fake FIFA websites running World Cup fraud schemes"
+  },
   "https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/": {
     "categories": [
       "Security"
@@ -17970,6 +18079,18 @@
     "summary": "GreyNoise launches free scanner to check if you're part of a botnet GreyNoise Labs has launched a free tool called GreyNoise IP Check that lets users check if their IP address has been observed in malicious scanning operations, like botnet and residential proxy\u00a0networks. [...]",
     "title": "GreyNoise launches free scanner to check if you're part of a botnet"
   },
+  "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-05-28T22:24:49+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks A likely Russian threat cluster tracked as GreyVibe has been targeting Ukrainian entities with AI-generated lures and a rich set of custom malware tools. [...]",
+    "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks"
+  },
   "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/": {
     "categories": [
       "Security",
@@ -18323,6 +18444,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers exploit file upload bug in Breeze Cache WordPress plugin Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]",
     "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-28T17:25:43+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit FortiClient EMS flaw to push infostealer malware Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ. [...]",
+    "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-gladinet-centrestack-cryptographic-flaw-in-rce-attacks/": {
     "categories": [
@@ -18698,6 +18830,17 @@
     "source": "BleepingComputer",
     "summary": "How infostealers turn stolen credentials into real identities Infostealer dumps increasingly tie stolen credentials to real identities, linking usernames, cookies, and behavior across personal and enterprise accounts. Specops explains how analyzing 90,000 dumps shows reuse fuels \u2026",
     "title": "How infostealers turn stolen credentials into real identities"
+  },
+  "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-28T14:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "How SIEM helps MSPs reduce noise and stop threats faster MSPs don't lack security data. They struggle to separate real threats from alert noise. Kaseya explains how SIEM helps MSPs improve visibility, reduce fatigue, and respond faster. [...]",
+    "title": "How SIEM helps MSPs reduce noise and stop threats faster"
   },
   "https://www.bleepingcomputer.com/news/security/how-strong-password-policies-secure-ot-systems-against-cyber-threats/": {
     "categories": [
@@ -20834,6 +20977,17 @@
     "summary": "New GoGra malware for Linux uses Microsoft Graph API for comms A Linux variant of the GoGra backdoor uses legitimate Microsoft infrastructure, relying on an Outlook inbox for stealthy payload delivery. [...]",
     "title": "New GoGra malware for Linux uses Microsoft Graph API for comms"
   },
+  "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-28T14:25:43+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New Gogs zero-day flaw lets hackers get remote code execution An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances. [...]",
+    "title": "New Gogs zero-day flaw lets hackers get remote code execution"
+  },
   "https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/": {
     "categories": [
       "Security"
@@ -22747,6 +22901,17 @@
     "summary": "Romanian energy provider hit by Gentlemen ransomware attack A ransomware attack hit Oltenia Energy Complex (Complexul Energetic Oltenia), Romania's largest coal-based energy producer, on the second day of Christmas, taking down its IT infrastructure. [...]",
     "title": "Romanian energy provider hit by Gentlemen ransomware attack"
   },
+  "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-28T12:43:29+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Romanian gets 5 years in prison for hacking Oregon govt network A Romanian national was sentenced this week to 56 months in federal prison for breaking into an Oregon state government computer network and fr cyberattacks targeting dozens of other U.S. victims. [...]",
+    "title": "Romanian gets 5 years in prison for hacking Oregon govt network"
+  },
   "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/": {
     "categories": [
       "Security"
@@ -24595,6 +24760,17 @@
     "summary": "US charges another ransomware negotiator linked to BlackCat attacks The U.S. Department of Justice charged another former DigitalMint employee for his involvement in an insider scheme in which ransomware negotiators secretly partnered with the BlackCat (ALPHV) ransomware operatio\u2026",
     "title": "US charges another ransomware negotiator linked to BlackCat attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-29T10:11:44+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "US charges Google security engineer with Polymarket insider trading A Google security engineer was charged with insider trading after winning $1.2 million using confidential company data to place bets on the cryptocurrency-based Polymarket decentralized prediction market. [...]",
+    "title": "US charges Google security engineer with Polymarket insider trading"
+  },
   "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/": {
     "categories": [
       "Security"
@@ -25091,6 +25267,17 @@
     "source": "BleepingComputer",
     "summary": "Webinar: Why network incidents escalate and how to fix response gaps Most network incidents don't escalate due to a lack of alerts; they escalate when response breaks down. This webinar explores how to fix gaps in triage, enrichment, and coordination. [...]",
     "title": "Webinar: Why network incidents escalate and how to fix response gaps"
+  },
+  "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-28T12:20:28+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Webinar: Why network incidents take too long to resolve Many organizations can detect network issues quickly, but investigations and coordination often slow incident resolution. This webinar explores how automation and AI-assisted workflows can help IT teams reduce delays and imp\u2026",
+    "title": "Webinar: Why network incidents take too long to resolve"
   },
   "https://www.bleepingcomputer.com/news/security/webrat-malware-spread-via-fake-vulnerability-exploits-on-github/": {
     "categories": [
@@ -25747,6 +25934,15 @@
     "source": "darkreading",
     "summary": "Adobe Patches Actively Exploited Zero-Day That Lingered for Months An attacker has been using maliciously crafted PDF files to exploit a zero-day in Adobe Acrobat and Reader for at least four months.",
     "title": "Adobe Patches Actively Exploited Zero-Day That Lingered for Months"
+  },
+  "https://www.darkreading.com/application-security/agentic-ai-risky": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0dbefeb02aa6a89d/6a184e146efe0009ef849df5/Black_box-Rawf8-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-28T15:36:25+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Agentic AI Isn't Risky; the Way Orgs Deploy It Is AI agents aren't black boxes \u2014 they're models interacting with software tools. The risk lies in their overlap.",
+    "title": "Agentic AI Isn't Risky; the Way Orgs Deploy It Is"
   },
   "https://www.darkreading.com/application-security/ai-agents-ignore-security-policies": {
     "categories": [],
@@ -27197,6 +27393,15 @@
     "summary": "Dark Patterns Undermine Security, One Click at a Time People trust organizations to do the right thing, but some websites and apps have user interfaces that ultimately lead to inadequate security for users.",
     "title": "Dark Patterns Undermine Security, One Click at a Time"
   },
+  "https://www.darkreading.com/cyber-risk/dutch-raid-russian-bulletproof-host": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt75939e9e57fa1b91/6a1777b27e488fa22d7404ec/bulletproof_Viktollio_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-28T19:04:37+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Dutch Raid Fails to Dent Russian Bulletproof Host Dutch law enforcement seized 800 servers and arrested two operators of THE.Hosting but left the hosting provider's core IP address space intact.",
+    "title": "Dutch Raid Fails to Dent Russian Bulletproof Host"
+  },
   "https://www.darkreading.com/cyber-risk/emerging-chiplet-designs-spark-fresh-cybersecurity-challenges": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcff4659d9279972e/6998587d80f60800089483dc/Chip_silkwayrain_iStock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -27241,6 +27446,15 @@
     "source": "darkreading",
     "summary": "Why a 'Near Miss' Database Is Key to Improving Information Sharing Organizations disclose attack details, though information may be limited, following a breach, but what if they did the same with close calls?",
     "title": "Why a 'Near Miss' Database Is Key to Improving Information Sharing"
+  },
+  "https://www.darkreading.com/cyber-risk/focus-cyber-insurance-quantifying-risk-reshape-security": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf9514fbeb5a1fa18/6a168d897e488f337374002f/insuranceload-Bordeianu_Andrei-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-28T12:29:58+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Focus on Cyber Insurance: How Quantifying Risk Is Reshaping Security In this latest installment of the Reporters' Notebook video series, we discuss how cyber insurance is forcing organizations to quantify risk, what's covered (and what's not), and why this could be the best thing\u2026",
+    "title": "Focus on Cyber Insurance: How Quantifying Risk Is Reshaping Security"
   },
   "https://www.darkreading.com/cyber-risk/gcve-raises-concerns-fragmentation-vulnerability-database": {
     "categories": [],
@@ -27861,6 +28075,15 @@
     "source": "darkreading",
     "summary": "BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures The North Korean group is using stolen victim videos, AI-generated avatars, and fake Zoom calls to scale malware attacks against cryptocurrency executives.",
     "title": "BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/btmob-rat-brazil-latam-maas-model": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt50056046e2acf85d/6a1805a808b87d2f6a04c317/androidmalware_rafapress_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-28T09:06:11+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "BTMOB RAT Spreads Across Brazil, LatAm via MaaS Model An advanced remote access Trojan is propagating online. Notably, it's delivered via an operator licensing model and features a no-code malware-development interface.",
+    "title": "BTMOB RAT Spreads Across Brazil, LatAm via MaaS Model"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm": {
     "categories": [],
@@ -29763,6 +29986,15 @@
     "source": "darkreading",
     "summary": "Black Hat USA",
     "title": "Black Hat USA"
+  },
+  "https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt638feb7893167b94/6a186a557f1d278d580dc037/Remove_InformationWeek_Logo_from_Header_(1).png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-06-26T11:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Name That Toon Contest",
+    "title": "Name That Toon Contest"
   },
   "https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026": {
     "categories": [],
