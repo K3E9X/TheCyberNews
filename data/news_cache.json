@@ -8168,6 +8168,15 @@
     "summary": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks Google has announced expanded Binary Transparency for Android as a way to safeguard the ecosystem from supply chain attacks.\n\"This new public ledger ensures the Google apps on your device are exactly what \u2026",
     "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks"
   },
+  "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi20dgnD8cZh6NCcPM9Xa3fzLgNygU4O6AmBUmN1w6KwsDMJ8_jkpZPk77r8phf3MX-cXOlVxke-ypIuj2xh3AB3dy1HSuIa4YYFlgH8Odm1jCRVESBGqxgiDoRbQEG4L_QrKOoH8TSvLLKZxnBfPEemz4kaqWto4t_3cZCmWW44NX-Q1aWakBWVDhAza7T/s1600/marimo.png",
+    "published": "2026-05-29T14:39:56+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessib\u2026",
+    "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit"
+  },
   "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOfGXVOYqF2EcrcnYIDCnTYdmWpV-uaZ5nV0_0ukZ8uCk19wFFOax_VvgwO8LtlIkVo8pvcSSBs8Afc66yo2PbiMDjq4UDqnytAqP-Nq8CqTOfEtqwuWRmjbUpRYzqaAXFnRiXozR34fXAPE8O6Gcix6f08Sped3oVUXcjIOTE04N8IInA0qVeG0Sc6LzB/s1600/energy-cyberattack.jpg",
@@ -8185,6 +8194,15 @@
     "source": "The Hacker News",
     "summary": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of\u2026",
     "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks"
+  },
+  "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikkk-MbHPjc5UpAORUC9pUfe-LntIu7A2tsg3EBFPXh3b6WXoiv8HtxvSakdqICfwN1YGSY452zIdjuyafscYfbf7yKnzbE_SxWxmPeX9uBLkTWY7aNyzLK903ts83ThlQGKOPYKNCW6UHg2c7ia4O7cVIwV5p24c-POfHYTJak6tRmL03rbjOWxCfpPYb/s1600/chatgpt-phishing.jpg",
+    "published": "2026-05-29T18:07:12+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger pr\u2026",
+    "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface"
   },
   "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html": {
     "categories": [],
@@ -8951,6 +8969,15 @@
     "summary": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called \"darkworm.\"\nThe backdoor\u2026",
     "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials"
   },
+  "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzJ8u1-LKZwf1FFeVF2K2D2pupLFnsW_zsTumbLXt6eRSNY5NYPuBVxyacqbH-WZRBmTpGmnB0pulEcGex16O8u6812DC7RjtV5fBtVmRG55MdKOdmX2B5m1AtcgfZLCGnH_wNVxrdpfvRR70-MjsT7fzuS8wasEGhnDKmavU02xE6HjMg6FLpv3dvSFi7/s1600/russia-ai-cyberattacks.jpg",
+    "published": "2026-05-29T11:31:59+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025.\n\nGREYVIBE, per WithSecur\u2026",
+    "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks"
+  },
   "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbBy7H5qvorFUmJqREACqqxVC0ogVq88dP8wLyKyUPF9fCowpUSkb7foEsEPDALt0ccCpcJc6PXCJjFmQo0oX3furU-cYPULBa0-pjpiLGV04JD6kr4G0VIrvFoJo54WmgjU1YocsquA15N3hxDmwt4i82QpYdil7F4fI0SMFVv9YCkbqqGKjIi-dEmcIx/s1600/tricks.jpg",
@@ -9040,6 +9067,15 @@
     "source": "The Hacker News",
     "summary": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution Palo Alto Networks has released an advisory warning that a critical buffer overflow vulnerability in its PAN-OS software has been exploited in the wild.\nThe vulnerability, tracked as CVE-2026-0300, has \u2026",
     "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution"
+  },
+  "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkaW0i4ALAlpWQ_cOjfhoqUlNgMlZysJA6ay0qPViGI_KxEEG-Hh0KdtWLqBXDH42ZBGSONs0ZJuzOqdRF7vbx6Xa9J8HlP60lY45JHy0ivdRQs0exe4wZT2lI3TW4oDO-XXPVz2pek2M3izLqT3ONwq2iuHPN31ZZvK3jl0zIDq_h5XF1CTRk7fUPzjEQ/s1600/panos.jpg",
+    "published": "2026-05-30T06:41:26+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild.\n\nThe vulnerability, tracke\u2026",
+    "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation"
   },
   "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html": {
     "categories": [],
@@ -9436,6 +9472,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More Rough Monday.\nSomebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should\u2019ve died years ago \u2026",
     "title": "\u26a1 Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More"
+  },
+  "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9_WTd_LhWXwvu2jTcVVVgE_IpLISA8vfn0awG8fVwVv_vxx1LvLU7XOxFCtSLMbiP6JKPQfFMdpA7cRJy0Phlu-RWtKH8m57ZMUwRI-tz0C-cAiASKIFS2Fytms6DnCCEif9l-CYN0drhFUEbrt71isM3LmzuA8Guqmhn6iiRqrTROcX-9tniNTQsglc/s1600/red.jpg",
+    "published": "2026-05-29T10:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production systems, and pu\u2026",
+    "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks"
   },
   "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html": {
     "categories": [],
@@ -13843,6 +13888,18 @@
     "summary": "Bubble AI app builder abused to steal Microsoft account credentials Threat actors are evading phishing detection in campaigns targeting Microsoft accounts by abusing the no-code app-building platform Bubble to generate and host malicious web apps. [...]",
     "title": "Bubble AI app builder abused to steal Microsoft account credentials"
   },
+  "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-05-29T18:08:47+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "California AG sues 23andMe over 2023 breach exposing health data California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrome Holding Co., over the company's failure to protect sensitive customer genetic and personal information. [...]",
+    "title": "California AG sues 23andMe over 2023 breach exposing health data"
+  },
   "https://www.bleepingcomputer.com/news/security/california-man-admits-to-laundering-crypto-stolen-in-230m-heist/": {
     "categories": [
       "Security"
@@ -13997,6 +14054,17 @@
     "source": "BleepingComputer",
     "summary": "Charter confirms data breach after ShinyHunters extortion threat U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
     "title": "Charter confirms data breach after ShinyHunters extortion threat"
+  },
+  "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-29T18:21:36+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "ChatGPT share links abused to host fake outage pages to deliver malware Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
+    "title": "ChatGPT share links abused to host fake outage pages to deliver malware"
   },
   "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/": {
     "categories": [
@@ -16056,6 +16124,18 @@
     "summary": "Dutch Finance Ministry takes treasury banking portal offline after breach The Dutch Ministry of Finance took some of its systems offline, including the digital portal for treasury banking, while investigating a cyberattack detected two weeks ago. [...]",
     "title": "Dutch Finance Ministry takes treasury banking portal offline after breach"
   },
+  "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-05-29T14:26:36+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Dutch govt disrupts malware botnet with 17 million infected devices Dutch authorities have taken offline a massive botnet of 17 million devices and seized more than 200 servers at a local provider that supported the operation. [...]",
+    "title": "Dutch govt disrupts malware botnet with 17 million infected devices"
+  },
   "https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-signal-whatsapp-account-hijacking-attacks/": {
     "categories": [
       "Security"
@@ -17353,6 +17433,17 @@
     "summary": "French govt agency confirms breach as hacker offers to sell data France Titres, the government agency in France\u00a0for issuing and managince administrative documents\u00a0has disclosed a data breach after a threat actor claimed the attack and stealing citizen data. [...]",
     "title": "French govt agency confirms breach as hacker offers to sell data"
   },
+  "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-29T14:32:02+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market DDoS attacks are increasingly being sold like subscription services, complete with pricing tiers, support, and reseller programs. Flare explores how the DDoS-as-a-Service market has evolved from sca\u2026",
+    "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market"
+  },
   "https://www.bleepingcomputer.com/news/security/from-cipher-to-fear-the-psychology-behind-modern-ransomware-extortion/": {
     "categories": [
       "Security"
@@ -17756,6 +17847,17 @@
     "source": "BleepingComputer",
     "summary": "Google Chrome adds new security layer for Gemini AI agentic browsing Google Chrome is introducing a new security architecture designed to protect upcoming agentic AI browsing features powered by Gemini. [...]",
     "title": "Google Chrome adds new security layer for Gemini AI agentic browsing"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-29T12:08:08+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google Chrome adds session cookie theft protection for all users Google says the Chrome Device Bound Session Credentials (DBSC) security feature is now generally available and is rolling out to all users to prevent account takeovers. [...]",
+    "title": "Google Chrome adds session cookie theft protection for all users"
   },
   "https://www.bleepingcomputer.com/news/security/google-chrome-shifts-to-two-week-release-cycle-for-increased-stability/": {
     "categories": [
@@ -19913,6 +20015,17 @@
     "source": "BleepingComputer",
     "summary": "Man pleads guilty to hacking nearly 600 women\u2019s Snapchat accounts An Illinois man pleaded guilty to hacking nearly 600 women's Snapchat accounts to steal nude photos that he kept, sold, or traded online, including accounts he compromised at the request of a former university trac\u2026",
     "title": "Man pleads guilty to hacking nearly 600 women\u2019s Snapchat accounts"
+  },
+  "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-29T11:07:07+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Man sent to prison for selling data of 7 millions elderly Americans A North Carolina man was sentenced to more than 10 years in prison for selling the personal information of over 7 million elderly Americans to Jamaican scammers. [...]",
+    "title": "Man sent to prison for selling data of 7 millions elderly Americans"
   },
   "https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/": {
     "categories": [
@@ -27001,6 +27114,15 @@
     "summary": "Critical 'MongoBleed' Bug Under Active Attack, Patch Now A memory leak security vulnerability allows unauthenticated attackers to extract passwords and tokens from MongoDB servers.",
     "title": "Critical 'MongoBleed' Bug Under Active Attack, Patch Now"
   },
+  "https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcecddc9a9b77560b/6a19f878719ad34f2440c903/dr20-toon-may26-final.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-29T20:22:04+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Name That Toon: Mark of (Cybersecurity) Progress As part of Dark Reading's 20th anniversary package, we asked readers for a cybersecurity-related caption that captures their thoughts about the industry's last two decades.",
+    "title": "Name That Toon: Mark of (Cybersecurity) Progress"
+  },
   "https://www.darkreading.com/cloud-security/native-launches-security-control-plane-multicloud": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d9cfad3cb569366/6852ccdd054857546446b424/cloudsecurity_PeachayaTanomsup_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -27464,6 +27586,15 @@
     "source": "darkreading",
     "summary": "Europe's GCVE Raises Concerns Over Fragmentation in Vulnerability Databases GCVE would enhance global collaboration, flexibility, and efficiency in tracking security flaws. Duplicate entries and a decentralization policy may create more chaos for defenders.",
     "title": "Europe's GCVE Raises Concerns Over Fragmentation in Vulnerability Databases"
+  },
+  "https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd919de1e6eb08bb9/6a18cae74c25b5264e1e240f/Terminator-Over_There_Pics-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-28T23:05:23+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "As Global Powers Explore Humanoid Robots, Cyber-Risk Looms The future of cybersecurity is germinating, as nation states vie for dominance in the embodied AI market and its supply chain.",
+    "title": "As Global Powers Explore Humanoid Robots, Cyber-Risk Looms"
   },
   "https://www.darkreading.com/cyber-risk/googles-vertex-ai-over-privilege-problem": {
     "categories": [],
@@ -29025,6 +29156,15 @@
     "source": "darkreading",
     "summary": "Anthropic's Mythos Has Landed: Here's What Comes Next for Cyber In this latest installment of the Reporters' Notebook video series, we discuss how the new AI model threatens to completely upend cybersecurity, and what industry leaders are telling the press.",
     "title": "Anthropic's Mythos Has Landed: Here's What Comes Next for Cyber"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9e3fbe8c75eb597/6a19745b69143b73c43502c5/Blue_globe_Asia_Jimmie_Tolliver_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-29T14:35:33+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Asia's Cyber Insurance Market Shows Signs of Life The cyber insurance industry has made relatively weak inroads into Asia due to a a variety of factors, but that could be changing.",
+    "title": "Asia's Cyber Insurance Market Shows Signs of Life"
   },
   "https://www.darkreading.com/cybersecurity-operations/blunders-level-up-security-programs": {
     "categories": [],
@@ -31363,6 +31503,15 @@
     "summary": "Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting As organizations disclose breaches tied to TeamPCP's supply chain attacks, ShinyHunters and Lapsus$ are getting involved, taking credit, and creating a murky situation for enterprises.",
     "title": "Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting"
   },
+  "https://www.darkreading.com/threat-intelligence/the-com-cyberattacks-violence-sexploitation": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdf36383b6981cdfc/6a189af651a3babba50e026a/Hooded_crowd-John_Williams_RF-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-29T12:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "'The Com' Cyberattacks Support Violence &amp; Sexploitation Your organization's security failures have consequences for everyone else too, since this neo-Nazi-infested criminal gang uses its cyber winnings to support more violent and widespread crimes.",
+    "title": "'The Com' Cyberattacks Support Violence &amp; Sexploitation"
+  },
   "https://www.darkreading.com/threat-intelligence/threat-hunter-helped-cops-crack-african-cybercrime-syndicate": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -31626,6 +31775,15 @@
     "source": "darkreading",
     "summary": "ClickFix Style Attack Uses Grok, ChatGPT for Malware Delivery A new twist on the social engineering tactic is making waves, combining SEO poisoning and legitimate AI domains to install malware on victims' computers.",
     "title": "ClickFix Style Attack Uses Grok, ChatGPT for Malware Delivery"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/complex-cloud-integrations-small-errors-compromises": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33ea1925a9f97ba7/6a18a8b047696a7d03d6ca07/rube-goldberg-machine-complexity-T_N_Sursock-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-05-29T13:00:01+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "With Complex Cloud Integrations, Small Errors Lead to Major Compromises Researchers discover an exploit chain combining over-permissioned roles, secrets discovery, and non-human identities that could have compromised a popular automation service.",
+    "title": "With Complex Cloud Integrations, Small Errors Lead to Major Compromises"
   },
   "https://www.darkreading.com/vulnerabilities-threats/critical-flaw-langflow-ai-platform-under-attack": {
     "categories": [],
