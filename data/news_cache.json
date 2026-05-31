@@ -20862,6 +20862,18 @@
     "summary": "New China-linked hackers breach telcos using edge device exploits A sophisticated threat actor that uses Linux-based malware to target telecommunications providers has recently broadened its operations to include organizations in Southeastern Europe. [...]",
     "title": "New China-linked hackers breach telcos using edge device exploits"
   },
+  "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/": {
+    "categories": [
+      "Security",
+      "Linux"
+    ],
+    "image": "",
+    "published": "2026-05-30T14:16:08+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New CIFSwitch Linux flaw gives root on multiple distributions A newly discovered local privilege escalation vulnerability dubbed 'CIFSwitch' in the Linux kernel could allow attackers to forge CIFS authentication key descriptions, abuse the kernel's key request mechanism, and gain\u2026",
+    "title": "New CIFSwitch Linux flaw gives root on multiple distributions"
+  },
   "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/": {
     "categories": [
       "Security"
@@ -22173,6 +22185,17 @@
     "source": "BleepingComputer",
     "summary": "Paint maker giant AkzoNobel confirms cyberattack on U.S. site The multinational Dutch paint company AkzoNobel has confirmed to BleepingComputer that hackers breached the network of one of its U.S. sites. [...]",
     "title": "Paint maker giant AkzoNobel confirms cyberattack on U.S. site"
+  },
+  "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-30T18:02:51+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]",
+    "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/": {
     "categories": [
