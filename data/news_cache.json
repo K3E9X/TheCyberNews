@@ -8393,6 +8393,15 @@
     "summary": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare Drupal has issued an alert stating that it intends to release a \"core security release\" for all supported branches on May 20, 2026, from 5-9 p.m. UTC.\n\n\"The Drupal Security Team urges you to reserve t\u2026",
     "title": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare"
   },
+  "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU44Ejz__EFKfpIrEypTxhK3KW7XV3oiEIJEWAC-_PyhbhUvOZzmv3SCAmiuGZdFNdzYIDR2GLwOAhX9nIaAoOD4iFXucpEpB4Ym2vMAqvayyi1JkYyqj2uEYAXPGbXe5dzYNw5a__5KnXvrnJsEVtwnJJs6v_zBlfl3sKo0J83QwylgCL1A2Vck1HktJ8/s1600/botnet.png",
+    "published": "2026-05-31T12:22:12+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious attacks.\n\nThe bot netw\u2026",
+    "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices"
+  },
   "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMXgW6K0BZvt0-jhZ_smX3Uy-nsd9wb9g7Gs7d3G7uH-HIlEcNhEt9xpaKD_62iJol_LK5Expt-6qCuvIf7llqtQclB64I9zZm_i8CIC0lMJiIz8nx6r4C-Nj4cUgd3cQEtu3_lGFa7wcmR6q9otQhCLoB1Mbnmn7NgH6-djLs_ScqanZFNC-EVOwYyO7/s1600/android-calls.jpg",
@@ -9545,6 +9554,33 @@
     "summary": "Your Purple Team Isn't Purple \u2014 It's Just Red and Blue in the Same Room Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a c\u2026",
     "title": "Your Purple Team Isn't Purple \u2014 It's Just Red and Blue in the Same Room"
   },
+  "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR5AZVDVlhPdPOYO4FsyfLsBmtohzgdjmh688BLU6VRpwi-MaKq4XYgE5-ygnQtcUDMKcR8R4-f9IrfiSFpCodN01gveAWlDpu4Jg4AI9DMKQG50zMr5M1QhqjVAjyuYJQ-vF849bn3jkkDJuBRahpyUwAz8libDqBIwh08wgQNsfmchLwqRUqiYKRDkMT/s1600/wordpress-2.jpg",
+    "published": "2026-06-01T08:45:29+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create malicious administrator account\u2026",
+    "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts"
+  },
+  "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4veBAmEJHF2nXN_nIgXeWxVSxlTDBc6uWiLwVCYNUqGMF9ZtPre3zF_CXmGnAxX2rbqfwgm_Au0tXvYwv1oTGim1STiGCeVOyMXglUTd-3LeJEN3q718Fdlck9mbQ6aUUYP0NM9S7bakZ4_XF5HHYH-cz2QmKBlge6xNMxbbEjDjZQ4wd1maPKnjgKrsu/s1600/codex.png",
+    "published": "2026-06-01T09:31:15+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI.\n\nThe tool, nam\u2026",
+    "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack"
+  },
+  "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOvm8XaHJ9FBjwjKyTkm_2pt81tT-4sHdK9UDWm7_hCk4rA95U0peF3Zi7kO_fmJioaGKKloqru4yC-AwrSOdZ17v7m8K2K-t4lyYOGfC66J8r3cSi_v09IPRAfknHSeRBv13kjrk6XBzqpCvKS6ujugm4cR6Xrt1LK40bC091c0k_SgptQnGYIznwWwQ/s1600/cynomi.jpg",
+    "published": "2026-06-01T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools Three years ago, the practical question for an MSP building a cybersecurity practice was which \"vCISO platform\" to buy. The term was good shorthand for the work at the time: assessments, advisory, reporting, may\u2026",
+    "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools"
+  },
   "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/": {
     "categories": [
       "Apple",
@@ -10576,6 +10612,18 @@
     "summary": "Critical Microsoft SharePoint flaw now exploited in attacks A critical Microsoft SharePoint vulnerability patched in January is now being exploited in attacks, the Cybersecurity and Infrastructure Security Agency (CISA) warned. [...]",
     "title": "Critical Microsoft SharePoint flaw now exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-01T12:30:27+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Critical Windows Netlogon RCE flaw now exploited in attacks The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vulnerability in attacks\u2026",
+    "title": "Critical Windows Netlogon RCE flaw now exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/": {
     "categories": [
       "Microsoft",
@@ -10813,6 +10861,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft confirms Windows 11 security update install issues Microsoft has confirmed that the May 2026 Windows 11 security update (KB5089549) fails to install on some systems and triggers 0x800f0922 errors. [...]",
     "title": "Microsoft confirms Windows 11 security update install issues"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-outage-affecting-mfa-my-sign-ins-platform/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-06-01T11:40:16+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft confirms outage affecting MFA, My Sign-Ins platform Microsoft is working to address an ongoing incident preventing customers from setting up multi-factor authentication (MFA) or accessing the My Sign-Ins platform. [...]",
+    "title": "Microsoft confirms outage affecting MFA, My Sign-Ins platform"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/": {
     "categories": [
@@ -11116,6 +11175,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft fixes bug that blocked Google Chrome from launching Microsoft has fixed a known issue causing its Family Safety parental control service to block Windows users from launching Google Chrome and other web browsers. [...]",
     "title": "Microsoft fixes bug that blocked Google Chrome from launching"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-01T10:59:43+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft fixes KB5089549 Windows security update install issues Microsoft has resolved a known issue causing installation failures and 0x800f0922 errors when deploying the May 2026 Windows 11 security update (KB5089549). [...]",
+    "title": "Microsoft fixes KB5089549 Windows security update install issues"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/": {
     "categories": [
@@ -25349,6 +25420,17 @@
     "summary": "Webinar this week: Prevention alone is not enough against modern attacks This upcoming webinar explores how organizations need to combine security, backups, and recovery planning to reduce the impact of modern cyberattacks. [...]",
     "title": "Webinar this week: Prevention alone is not enough against modern attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-01T12:01:09+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Webinar tomorrow: From alert to resolution in network incident response Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automation and AI-assisted workflows can help IT teams accelerate\u2026",
+    "title": "Webinar tomorrow: From alert to resolution in network incident response"
+  },
   "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/": {
     "categories": [
       "Security"
@@ -25766,6 +25848,17 @@
     "source": "BleepingComputer",
     "summary": "WordPress plugin with 900k installs vulnerable to critical RCE flaw A critical vulnerability in the WPvivid Backup & Migration plugin for WordPress, installed on more than 900,000 websites,\u00a0can be exploited to achieve remote code execution by uploading arbitrary files without aut\u2026",
     "title": "WordPress plugin with 900k installs vulnerable to critical RCE flaw"
+  },
+  "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-05-31T14:06:42+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "WP Maps Pro bug exploited to create admin accounts on WordPress sites Hackers are targeting WordPress websites running a vulnerable version of the WP Maps Pro plugin, which allows creating rogue administrator accounts without authentication. [...]",
+    "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites"
   },
   "https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/": {
     "categories": [
