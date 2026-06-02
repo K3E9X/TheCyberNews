@@ -9554,6 +9554,15 @@
     "summary": "Your Purple Team Isn't Purple \u2014 It's Just Red and Blue in the Same Room Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a c\u2026",
     "title": "Your Purple Team Isn't Purple \u2014 It's Just Red and Blue in the Same Room"
   },
+  "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUhiw46hdnhoY05E-0EyhOX5AxQrqJeNM0WDEWiYHAi5pPt4kIFPbvqGZhyAK4NxlAF7KJKxPfWlbGLbZUJJD9PgGmazvyhzaSgBXokM_6eYQfWXQ1HDv2heSDTnps4EGhjKqwCbuQOl0d9QN25tmn85xLujp-htCwLhhywI4A6BKJxkOOKb9FSu02AMjX/s1600/china.jpg",
+    "published": "2026-06-01T11:54:24+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent.\n\nAccording to Seqrite\u2026",
+    "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan"
+  },
   "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR5AZVDVlhPdPOYO4FsyfLsBmtohzgdjmh688BLU6VRpwi-MaKq4XYgE5-ygnQtcUDMKcR8R4-f9IrfiSFpCodN01gveAWlDpu4Jg4AI9DMKQG50zMr5M1QhqjVAjyuYJQ-vF849bn3jkkDJuBRahpyUwAz8libDqBIwh08wgQNsfmchLwqRUqiYKRDkMT/s1600/wordpress-2.jpg",
@@ -9562,6 +9571,33 @@
     "source": "The Hacker News",
     "summary": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create malicious administrator account\u2026",
     "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts"
+  },
+  "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMY3oQNaqfV2_sMYMZJ_EbUA90VD_t0w342aOV-tTDXEui63NgSB0SPYPhGVW9e5i8ZcEk7P5uudw6PJOi5od9rdsq9GzG0npc8FiqXuQ33r-zg81AMHW53prz_ovs2YbKrjaNfOOAp1tpmjhE3ADsjVymKPDGf4TyikPb1z18MOWk2YH-BteUQ6EUqYFI/s1600/dashlane.png",
+    "published": "2026-06-02T03:55:25+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded Password manager Dashlane has disclosed that \"fewer than\" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unkno\u2026",
+    "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded"
+  },
+  "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdciYseLWNtSuIlPrhxjKI4HId3_-g3E9nr2PmvF-sdPELDdug8zPHASf-hJwZKEUXi9n0pjN08mhpoe-BB_wi241-xBwfKPT8YeJdo41fnHHC9phaZR4TrLiGfTXS8X2SKdlKJMMcwbTuh0LYSbdsHJtNgTfVD5AZU9Y6XzCTqdTg8Vy8qSAVXq254AM/s1600/alert.png",
+    "published": "2026-06-02T10:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "How Leading Organizations Are Turning EDR Into Operational Resilience Most organizations now recognize that endpoint protection alone is no longer sufficient.\n\nThat's why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent years. Organizations unde\u2026",
+    "title": "How Leading Organizations Are Turning EDR Into Operational Resilience"
+  },
+  "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOyc2NTiIl0XKOTZBsFh1bTPqNpVXfDhASWkCsYz17d-nbiWVKlxCzoq3WthMD8kMomrRPPOYLM-XRmSdtXNKAxtk1QLtmZH47y2RExMGohBaBDPkpFp2PteUgaA16VcCs7tK-ImqCiLnpqyLg8Pwp6cWE5d9QT2_v0-QBduT7ovYrs7WSZ9t1MnQJ4EuO/s1600/redhat.png",
+    "published": "2026-06-01T17:40:28+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a s\u2026",
+    "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm"
   },
   "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html": {
     "categories": [],
@@ -9572,6 +9608,15 @@
     "summary": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI.\n\nThe tool, nam\u2026",
     "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack"
   },
+  "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiilTEadDjLrLdKByKVP6n_zfNSbhTTutHu-9BbbIDTBotobmqmIOI7fDdGGHZQQB7wTo00L66NAKZBA3iRBLQpSf_NgH9hKe9Xd-WUoijt7y-CUbdZore_qSZpTmuBhExaAxeXn39EPCVPYugMnJ85c15e161ttOMRmbSAv7NcbUlYrqDV4NnbzHZvw0A5/s1600/paki.gif",
+    "published": "2026-06-02T09:05:40+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan's Ministry of Finance with an open-source remot\u2026",
+    "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT"
+  },
   "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOvm8XaHJ9FBjwjKyTkm_2pt81tT-4sHdK9UDWm7_hCk4rA95U0peF3Zi7kO_fmJioaGKKloqru4yC-AwrSOdZ17v7m8K2K-t4lyYOGfC66J8r3cSi_v09IPRAfknHSeRBv13kjrk6XBzqpCvKS6ujugm4cR6Xrt1LK40bC091c0k_SgptQnGYIznwWwQ/s1600/cynomi.jpg",
@@ -9580,6 +9625,15 @@
     "source": "The Hacker News",
     "summary": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools Three years ago, the practical question for an MSP building a cybersecurity practice was which \"vCISO platform\" to buy. The term was good shorthand for the work at the time: assessments, advisory, reporting, may\u2026",
     "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools"
+  },
+  "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV-leTG-MQremNN5Ju342L6LQMn36xeD4jiS4YWT7EdYluHOtFDqIN8y3bQuV-A0D0wtsO5sRpG3Bpy5xdHhMs_sO_w3WoiiJzCd7o-7Hxw736ERxQs4WDd71EQEBIHLzT_UNFMwCDvC8Nij-gDNpMhsRnpsqoDHkuxUWLUEZSSTfDc4aXpx2qlpsaqlgH/s1600/cyberrecap.png",
+    "published": "2026-06-01T13:59:54+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More Monday hit like a cron job with anger issues.\n\nA busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual bonu\u2026",
+    "title": "\u26a1 Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/": {
     "categories": [
@@ -11188,6 +11242,17 @@
     "summary": "Microsoft fixes KB5089549 Windows security update install issues Microsoft has resolved a known issue causing installation failures and 0x800f0922 errors when deploying the May 2026 Windows 11 security update (KB5089549). [...]",
     "title": "Microsoft fixes KB5089549 Windows security update install issues"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-06-01T11:40:16+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft fixes outage affecting MFA setup, MySignIn service Microsoft is working to address an ongoing incident preventing customers from setting up multi-factor authentication (MFA) or accessing the My Sign-Ins platform. [...]",
+    "title": "Microsoft fixes outage affecting MFA setup, MySignIn service"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/": {
     "categories": [
       "Microsoft"
@@ -11299,6 +11364,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft investigates Copilot outage affecting users in Europe Microsoft is working to mitigate an ongoing incident that has been blocking users in Europe from accessing the company's\u00a0AI-powered Copilot digital assistant. [...]",
     "title": "Microsoft investigates Copilot outage affecting users in Europe"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-06-01T14:36:46+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft investigates Office Apps, Teams file access issues Microsoft says an ongoing incident is preventing users of its Teams collaboration platform and Office for the web cloud-based productivity suite from opening files. [...]",
+    "title": "Microsoft investigates Office Apps, Teams file access issues"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/": {
     "categories": [
@@ -15917,6 +15993,17 @@
     "summary": "Dartmouth College confirms data breach after Clop extortion attack \u200bDartmouth College has disclosed a data breach after the Clop extortion gang leaked data allegedly stolen from the school's Oracle E-Business Suite servers on its dark web leak site. [...]",
     "title": "Dartmouth College confirms data breach after Clop extortion attack"
   },
+  "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-01T18:17:13+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Dashlane password manager users locked out by brute force attacks Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]",
+    "title": "Dashlane password manager users locked out by brute force attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/": {
     "categories": [
       "Security"
@@ -18036,6 +18123,18 @@
     "summary": "Google fixes new Chrome zero-day flaw exploited in attacks Google has released an emergency security update to fix the seventh Chrome zero-day vulnerability exploited in attacks this year. [...]",
     "title": "Google fixes new Chrome zero-day flaw exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/": {
+    "categories": [
+      "Security",
+      "Google"
+    ],
+    "image": "",
+    "published": "2026-06-02T11:10:15+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Google fixes one actively exploited Android zero-day, 124 flaws Google has released the June 2026 Android security patches to address 124 vulnerabilities, including one zero-day flaw exploited in targeted attacks. [...]",
+    "title": "Google fixes one actively exploited Android zero-day, 124 flaws"
+  },
   "https://www.bleepingcomputer.com/news/security/google-fixes-two-android-zero-days-exploited-in-attacks-107-flaws/": {
     "categories": [
       "Security",
@@ -18772,6 +18871,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation A malicious campaign is actively targeting\u00a0exposed LLM (Large Language Model) service endpoints to commercialize unauthorized access to\u00a0AI infrastructure. [...]",
     "title": "Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-01T22:14:19+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks A threat actor tracked as DriveSurge has been operating large-scale malware distribution campaigns using ClickFix and FakeUpdates techniques on compromised sites. [...]",
+    "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/": {
     "categories": [
@@ -22888,6 +22998,17 @@
     "summary": "QuickLens Chrome extension steals crypto, shows ClickFix attack A Chrome extension named \"QuickLens - Search Screen with Google Lens\" has been removed from the Chrome Web Store after it was compromised to push malware and attempt\u00a0to steal crypto from\u00a0thousands of users. [...]",
     "title": "QuickLens Chrome extension steals crypto, shows ClickFix attack"
   },
+  "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-01T14:00:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Race Against Time: Why Faster Vulnerability Alerts Matter Attackers are exploiting vulnerabilities faster than many organizations can identify and patch them. SecAlerts explains why faster vulnerability alerts can help reduce exposure and improve response times. [...]",
+    "title": "Race Against Time: Why Faster Vulnerability Alerts Matter"
+  },
   "https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/": {
     "categories": [
       "Security"
@@ -22997,6 +23118,17 @@
     "source": "BleepingComputer",
     "summary": "Recently leaked Windows zero-days now exploited in attacks Threat actors are exploiting three recently disclosed Windows security vulnerabilities in attacks aimed at gaining SYSTEM or elevated administrator permissions. [...]",
     "title": "Recently leaked Windows zero-days now exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-01T21:38:29+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Red Hat npm packages compromised to steal developer credentials More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dubbed \"Miasma.\" [.\u2026",
+    "title": "Red Hat npm packages compromised to steal developer credentials"
   },
   "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/": {
     "categories": [
@@ -23740,6 +23872,17 @@
     "source": "BleepingComputer",
     "summary": "Spain arrests 34 suspects linked to Black Axe cyber crime Authorities in Spain have arrested 34 individuals allegedly part of a criminal network involved in cyber fraud and believed to be connected to the Black Axe group responsible for illicit activities across Europe. [...]",
     "title": "Spain arrests 34 suspects linked to Black Axe cyber crime"
+  },
+  "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-01T21:28:41+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Spain arrests doxer leaking sensitive data of govt employees The Spanish National Police has arrested an individual for leaking sensitive information related to members of various key state organizations, including the National Cybersecurity Institute (INCIBE). [...]",
+    "title": "Spain arrests doxer leaking sensitive data of govt employees"
   },
   "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/": {
     "categories": [
@@ -25816,6 +25959,18 @@
     "summary": "WinRAR path traversal flaw still exploited by numerous hackers Multiple threat actors, both state-sponsored and financially motivated, are exploiting the\u00a0CVE-2025-8088\u00a0high-severity vulnerability in WinRAR\u00a0for initial access and to deliver various malicious payloads. [...]",
     "title": "WinRAR path traversal flaw still exploited by numerous hackers"
   },
+  "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/": {
+    "categories": [
+      "Security",
+      "Healthcare"
+    ],
+    "image": "",
+    "published": "2026-06-01T17:04:16+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "WordPress malware campaign hides payloads in Steam profiles Nearly 2,000 WordPress websites were infected with malware that relies on Steam Community profile comments to hide command-and-control (C2) data. [...]",
+    "title": "WordPress malware campaign hides payloads in Steam profiles"
+  },
   "https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/": {
     "categories": [
       "Security"
@@ -26696,6 +26851,15 @@
     "summary": "Microsoft Under Pressure to Bolster Defenses for BYOVD Attacks Threat actors are exploiting security gaps to weaponize Windows drivers and terminate security processes in targeted networks, and there may be no easy fixes in sight.",
     "title": "Microsoft Under Pressure to Bolster Defenses for BYOVD Attacks"
   },
+  "https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt110b7f1326599f0b/6a1dd3554d48bfcf20ade268/RMmicrosoft-DrewAngerer-Getty-675949746.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-06-01T18:52:26+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Microsoft's Zero-Day Legal Threats Spark Backlash After a disgruntled security researcher published several zero-day exploits in recent weeks, Microsoft seemingly indicated criminal charges were in order.",
+    "title": "Microsoft's Zero-Day Legal Threats Spark Backlash"
+  },
   "https://www.darkreading.com/application-security/microsofts-starts-2026-bang-zero-day": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6833c684448e3f88/6966b519bd9f335bad16f39a/upate_Datenschutz-Stockfoto_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -27408,6 +27572,15 @@
     "source": "darkreading",
     "summary": "AI Phishing Is No. 1 With a Bullet for Cyberattackers In the past six months, companies have seen a significant influx of AI-powered phishing, as cyberattackers progress from small campaigns to 1-to-1 personalized attacks.",
     "title": "AI Phishing Is No. 1 With a Bullet for Cyberattackers"
+  },
+  "https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt301abc846275d0a4/6a1de7c8479f3e4dd25cf448/enisa_ricochet64_shuttrstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-06-01T21:07:48+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Anthropic to Open Mythos AI to EU's ENISA The European security agency's entry to Project Glasswing is the result of &quot;strong bilateral cooperation&quot; between the European Commission and Anthropic.",
+    "title": "Anthropic to Open Mythos AI to EU's ENISA"
   },
   "https://www.darkreading.com/cyber-risk/atm-jackpotting-attacks-surged-2025": {
     "categories": [],
@@ -31474,6 +31647,15 @@
     "source": "darkreading",
     "summary": "Packer-as-a-Service Shanya Hides Ransomware, Kills EDR Shanya is the latest in an emerging field of packing malware, selling obfuscation functionality in order to help ransomware actors reach their target.",
     "title": "Packer-as-a-Service Shanya Hides Ransomware, Kills EDR"
+  },
+  "https://www.darkreading.com/threat-intelligence/patch-palo-alto-auth-bypass-bug-exploit": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt225868f85dab8e5a/6a1d6cdb688dd44956baf7b6/Vulnerability_(1800)_Sergey_Tarasov_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-06-01T14:35:51+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Patch Now: Another Palo Alto Auth Bypass Bug Under Active Exploit Exploiting the PAN-OS GlobalProtect VPN vulnerability requires certain conditions, but adversaries have done so in two attack waves that started in mid-May.",
+    "title": "Patch Now: Another Palo Alto Auth Bypass Bug Under Active Exploit"
   },
   "https://www.darkreading.com/threat-intelligence/poland-energy-attack-wind-solar-infrastructure": {
     "categories": [],
