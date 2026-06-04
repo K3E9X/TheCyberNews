@@ -9563,6 +9563,24 @@
     "summary": "AI-Driven Exploitation is Destroying Vulnerability Management. Here\u2019s How to Handle It. AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the histo\u2026",
     "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here\u2019s How to Handle It."
   },
+  "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTV6zPqD9KC3Rc5Mz9c8XENLiJntboDT6LIoD3L2FXlTUVC3rsWZ_3YLfe_jmhhyphenhyphenjb5RCwkTsdoyypD9VXxYgj_2GYaAupNMlOyZkycm94qr7XiarmBCpYQdZDN_Gwq6KrOmomzx1dmbz4hpUkw4OZparqEbydJneNKaWQI0fcP5tctpKxsZ7kFP5FCv0/s1600/redis-db.png",
+    "published": "2026-06-03T13:47:09+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479) Redis has  patched  a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built\u2026",
+    "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)"
+  },
+  "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzZPASJ7ymlBpeDWq_d-byWp58FpBR6tdX6QfLJFFoGRHK9xB5mTbx0guIcMFKFYV87inRtJyM-cKJXI0Td5fVtpC1ITBFmp2myS2wBynVSF3rZP2jZWH6uR-_14ZEalErJASiKWVDJ_TD551AC0pN5A3Mu8y-Z1zW5mKvFMOmdLzrdWnhYCif0FR1lOE/s1600/hd.jpg",
+    "published": "2026-06-03T14:56:46+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning that race. You d\u2026",
+    "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore"
+  },
   "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUhiw46hdnhoY05E-0EyhOX5AxQrqJeNM0WDEWiYHAi5pPt4kIFPbvqGZhyAK4NxlAF7KJKxPfWlbGLbZUJJD9PgGmazvyhzaSgBXokM_6eYQfWXQ1HDv2heSDTnps4EGhjKqwCbuQOl0d9QN25tmn85xLujp-htCwLhhywI4A6BKJxkOOKb9FSu02AMjX/s1600/china.jpg",
@@ -9571,6 +9589,15 @@
     "source": "The Hacker News",
     "summary": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent.\n\nAccording to Seqrite\u2026",
     "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan"
+  },
+  "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8P5o_wfJsxsTaxY4OONIm2y5N5x9heoFeLchfLU13YA36tGQGJtu00tOCQSKhCTBFobAAWfhXLtNGMu8ZCG7ozeLVggi1tnQVRK_1mJHd6eq1YSb5AlRZq5eDp3rGDL2Uli_b3aBPMBsLfMJ5QEm_XW1MF43_dcCf64rSbVrhsUakhaOAn5-GOmuLiq0s/s1600/mag.jpg",
+    "published": "2026-06-04T07:19:33+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting Mirasvit Cache Warmer, a popular Magento full-page cache extension, to its Known Exploited Vulnerabilit\u2026",
+    "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog"
   },
   "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html": {
     "categories": [],
@@ -9590,6 +9617,24 @@
     "summary": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded Password manager Dashlane has disclosed that \"fewer than\" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unkno\u2026",
     "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded"
   },
+  "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTf5wAHnoXtVauiln2MwlVvLc4LxcL8SBTLuW648LfFhUd8QyuOUfjmg0Hd91QlksmWF2u-PQhxHDTDmseMIG64V4Fo2I2lXXGO1o0BncbL_UTeBrGztErg66yXAm0trYlWxqGbE-sKb5VjXjqeyNiCMkxbdcxwX1BDRGexhP-b0s3dZl0lNRpY9u6nsTQ/s1600/police-crypto.jpg",
+    "published": "2026-06-04T06:06:25+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and cryptocurre\u2026",
+    "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets"
+  },
+  "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM7j9PG_c741so0RmX7eIB48xO-ndyZSF0pIU5j2anTqxJNj8A3XVstoIjq3iMnuQxhgyhl3LKP5laenFIj7IT0V8SOJ0lK7-Ywdsr5yBioNKF60SegkvR3SkfaSkPqZxN3rak0J-sZbvjxGDozCupAP3wraZjk0XU6-ZA590Q42cPaHXrdg7PJFGk1Ss/s1600/site.jpg",
+    "published": "2026-06-04T09:51:28+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS Cybersecurity researchers have flagged a large-scale operation that impersonates open-source and freeware projects to funnel unsuspecting users through a Traffic Distribution System (TDS) and de\u2026",
+    "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS"
+  },
   "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIWYqVAlf5o0isz1fGZ_KcAkqIAroOtFMRAvlOMseZrj7e5iLaZ47_92-zoFzN4rtQHJpmGHjMaOShanlb01qhHO5-_EFXskV2RdVtxShkQDFzCBGrgec2P-6IAFxMqRBkkbnLFyjl0n4ZkPbQBkEMl0OQqlj3CgThRwQ6Z6tQaYPbp1YhZy4wcxdmi5dy/s1600/russian-malware.jpg",
@@ -9599,6 +9644,15 @@
     "summary": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation.\n\nPer Se\u2026",
     "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine"
   },
+  "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpQ6QXxFH4zkfeHGdcm1WXVcNXMpyJm-1dlZLbFCdp6rKDRhuwICzYaKaR-rCpn61qod6A1F98PZejZbmYuxaUXPJLXQffoaniCkqgyqR1-p7gClpj4PYibjzIDHk8_Vw4ag00EYPCM3Nz1G0Hvzuf6wBV-HzDFoSiYDEEdjPU45Bk_rIlGk9dJ_MMVuue/s1600/ad-malware.jpg",
+    "published": "2026-06-03T16:29:16+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT Cybersecurity researchers have flagged a new malspam campaign that makes use of Google's DoubleClick domain as a way to evade detection and ultimately deliver a remote access trojan (RAT) named DesckVB RAT.\n\u2026",
+    "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT"
+  },
   "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu6SfsDfrb_dr_5DP0MiwOMy86maTi3XyrtkQLw-sHAGlBZbhZ0uEfRkamwFqXGT4qNmVIqg6LQtaaRVLr_oGnxvKHiSuCU0Qts79fzGzWbeySgkpak_Cci73EHSyvr1qC1EqiciaI86XW4KtODuln9vUkYHvoH1p3bh_FTzW6scXui1REmWDv84cTxhoX/s1600/android.jpg",
@@ -9607,6 +9661,15 @@
     "source": "The Hacker News",
     "summary": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that has com\u2026",
     "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited"
+  },
+  "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpg8pBdHkENT_CKClsSR7f4Rb7BQpM27ynGrkRdJg-bbUfI2NIHQ_rFmkOVHjK8RggTD-XMvVdGGI_qrYyIx-Ml1sfwbRkbjaNo8Fz40cWg8wFWK8h5-f-FaB58HryMM5AYlUHI2uO7x12VFvAB6N3w1gobWmzGgp8xXqHfWMERFh7hVS9lBHxfdu71Xs/s1600/stock-emails.jpg",
+    "published": "2026-06-04T09:33:57+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months Unknown attackers spent at least five months inside the Outlook mailbox of a senior executive at a major global stock exchange, copying the inbox out in small, repeated batches and routing it through Dr\u2026",
+    "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months"
   },
   "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html": {
     "categories": [],
@@ -9626,6 +9689,15 @@
     "summary": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a s\u2026",
     "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm"
   },
+  "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_pEYWDRVadGL0WYM3iSY6jqFgBez8snXgoyeyAzcXNmxiytv-FgiKoBJX3aPivuYhSJjXp4o_zO1dQSIPUfduaAlB-rvSti7pFhdDZSrAa-ennBdfdVpe1Xo0dMxKATB8te61pyJAf60x5CP6OJzjzmtpFIg_qHQqA7VP-rUnEpaT37Z0qBOmbZ52BfM/s1600/ms-android.jpg",
+    "published": "2026-06-03T14:56:35+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag A development flag left switched on in production builds of several Microsoft 365 Android apps disabled the check that limits account-token sharing to trusted Microsoft apps.\n\nAny other app on the\u2026",
+    "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag"
+  },
   "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP07q0cgsa0a9VyTU6oPpxqvoZ5Gg2spx-ClmUIzn9LjYzDfuKNxnLXNuXMexiMB8GjKewhk7CnAL5HXgpCL_wq5eaU8VK2mTxxcKJHAZ9eLBskg516sBn4SV5XHWOuZIozDzBD_0MUCAMcVpGyqOEWITNKi2mQFxFLl9gqg_3UxPlwmXCkRfm2JERftyN/s1600/http2.gif",
@@ -9634,6 +9706,15 @@
     "source": "The Hacker News",
     "summary": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora.\n\nThe\u2026",
     "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare"
+  },
+  "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeHvqmNHvAhdxgoBLbfFWsFBMdvH5SbJovunxx8AYHRkq7HOQ2l6I_ZaJGi_PF5WHKOlHEQHK4HyPBhmzOpYNhPS4HJSna2uLVlEwUV9i2j5YuRqGOLUqgKIrhx2ndFm1OSME7usiLk_ohtIBYyR5Xpq5Pzc2eHAjCK0OA_89JwPNxVrrBVDbTDRVbRG6e/s1600/github.jpg",
+    "published": "2026-06-03T12:58:22+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token.\n\n\"Just by clicking a link, it's possible for an \u2026",
+    "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens"
   },
   "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html": {
     "categories": [],
@@ -9661,6 +9742,15 @@
     "source": "The Hacker News",
     "summary": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan's Ministry of Finance with an open-source remot\u2026",
     "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT"
+  },
+  "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuT21gubKVL2cAsQrEiju_yAE3Pxe1IPxsl9RlGfhMEeis2IuQglnZjwTme6xM1_IJNymXFY1kZsouMGecR2lQnzvMDXyjnY1Y7CT1Dz_xf0pRVkwJEJG9o1EfOlPMfgfZ0MO6eyKGKJDwRHrEsw2-Cai9QO3pfrryeSENy5kH4C_pdjDgsXVOO80TPy8/s1600/orchid.jpg",
+    "published": "2026-06-03T11:58:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP) The Fragmented State of Modern Enterprise Identity\n\nEnterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of \u2026",
+    "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)"
   },
   "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html": {
     "categories": [],
@@ -9697,6 +9787,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More Monday hit like a cron job with anger issues.\n\nA busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual bonu\u2026",
     "title": "\u26a1 Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More"
+  },
+  "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCJpW9I-QTgQOkP7AV3rwUtEOEs96ek2ySR06Go-xq5AThZV84qY3mDN1Dkh0oQ-94jZHc7zB21ax9ljU0dW2LtsSW5p7xuuX9ARsvoIZQTGaMSkESGxTjl-PgTy8hrnsI8ucVZpENLEuMa9QzoUYVmfp4aug4OnEZq3XeL3ZELNZVELSegpS398l8vKg/s1600/gemini-prompt.jpg",
+    "published": "2026-06-03T19:11:15+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android A single poisoned notification from WhatsApp, Slack, SMS, Signal, Instagram, or Messenger could have hijacked Google Gemini's voice assistant on Android and made it open a victim's connected windows, fake a messa\u2026",
+    "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/": {
     "categories": [
@@ -14434,6 +14533,17 @@
     "summary": "Chinese hackers target telcos with new Linux, Windows malware A Chinese cyber-espionage campaign has been targeting telecommunications providers with newly discovered Linux and Windows malware dubbed Showboat and JFMBackdoor, respectively. [...]",
     "title": "Chinese hackers target telcos with new Linux, Windows malware"
   },
+  "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-03T21:45:27+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Chinese hackers use new Atlas RAT malware in European cyberattacks A Chinese-speaking cybercrime group has expanded its targeting to the European space, deploying previously undocumented malware and the Atlas backdoor. [...]",
+    "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks"
+  },
   "https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/": {
     "categories": [
       "Security"
@@ -14943,6 +15053,17 @@
     "summary": "CISA warns feds to fully patch actively exploited Cisco flaws CISA warned federal agencies to fully patch two actively exploited vulnerabilities in Cisco Adaptive Security Appliances (ASA) and Firepower devices. [...]",
     "title": "CISA warns feds to fully patch actively exploited Cisco flaws"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-03T15:36:16+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "CISA warns of active attacks exploiting Android, Linux bugs The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting vulnerabilities in the Linux kernel and Android operating system. [...]",
+    "title": "CISA warns of active attacks exploiting Android, Linux bugs"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-akira-ransomware-linux-encryptor-targeting-nutanix-vms/": {
     "categories": [
       "Security"
@@ -14987,6 +15108,17 @@
     "source": "BleepingComputer",
     "summary": "CISA warns of critical CentOS Web Panel bug exploited in attacks The U.S. Cybersecurity & Infrastructure Security Agency (CISA) is warning that threat actors are exploiting a\u00a0critical remote command execution flaw in CentOS Web Panel (CWP). [...]",
     "title": "CISA warns of critical CentOS Web Panel bug exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-03T20:21:56+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "CISA warns of cyberattacks targeting fuel tank monitoring systems CISA, the FBI, the NSA, the Department of Energy, and other US government partners are warning that hackers are targeting internet-exposed automatic tank gauge (ATG) systems used to monitor fuel and liquid storage \u2026",
+    "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/": {
     "categories": [
@@ -21484,6 +21616,17 @@
     "summary": "New GPUBreach attack enables system takeover via GPU rowhammer A new attack, dubbed GPUBreach, can induce Rowhammer bit-flips on GPU GDDR6 memories to escalate privileges and lead to a full system compromise. [...]",
     "title": "New GPUBreach attack enables system takeover via GPU rowhammer"
   },
+  "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-03T19:08:19+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute A new denial-of-service (DoS) attack dubbed HTTP/2 Bomb can be launched from a single machine to take down web servers within seconds. [...]",
+    "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute"
+  },
   "https://www.bleepingcomputer.com/news/security/new-indonesianfoods-worm-floods-npm-with-100-000-packages/": {
     "categories": [
       "Security"
@@ -24640,6 +24783,19 @@
     "summary": "The Tycoon 2FA Phishing Platform and the Collapse of Legacy MFA Tycoon 2FA enables turnkey real-time MFA relays behind 64,000+ attacks this year, proving legacy MFA collapses the moment a phishing kit targets it. Learn from Token Ring how biometric, phishing-proof FIDO2 hardware \u2026",
     "title": "The Tycoon 2FA Phishing Platform and the Collapse of Legacy MFA"
   },
+  "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-06-03T20:31:22+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facilitating payments related to terrorist activities. [...]",
+    "title": "U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors"
+  },
   "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/": {
     "categories": [
       "Security"
@@ -25864,6 +26020,17 @@
     "summary": "West Pharmaceutical says hackers stole data, encrypted systems West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption. [...]",
     "title": "West Pharmaceutical says hackers stole data, encrypted systems"
   },
+  "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-03T14:02:12+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "What 345 Days of Untested Exposure Looks Like at a Bank A two-week penetration test can leave roughly 345 days of real-world exposure unvalidated. Sprocket Security explores why continuous testing is becoming critical as attack surfaces constantly change. [...]",
+    "title": "What 345 Days of Untested Exposure Looks Like at a Bank"
+  },
   "https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/": {
     "categories": [
       "Security"
@@ -26772,6 +26939,15 @@
     "summary": "As More Coders Adopt AI Agents, Security Pitfalls Lurk in 2026 Developers are leaning more heavily on AI for code generation, but in 2026, the development pipeline and security need to be prioritized.",
     "title": "As More Coders Adopt AI Agents, Security Pitfalls Lurk in 2026"
   },
+  "https://www.darkreading.com/application-security/coding-gaffe-exposes-microsoft-365-accounts-takeover": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta6d9216f2cd41b4b/6a2015f94a4fc7d0bb15144e/Authentication_Zoonar_GmbH_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-06-03T19:00:41+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Coding Gaffe Exposes Microsoft 365 Accounts to Widespread Takeover A disabled security setting meant to protect authentication across Android versions of key apps like Word, PowerPoint, and Excel paved the way for attackers to steal logins and data.",
+    "title": "Coding Gaffe Exposes Microsoft 365 Accounts to Widespread Takeover"
+  },
   "https://www.darkreading.com/application-security/contagious-interview-malicious-npm-package-factory": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltea35cc90b7aee467/692ee5ba143b2af1a4d16b71/northkorea_DD_Images_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -27001,6 +27177,15 @@
     "source": "darkreading",
     "summary": "LINE Messaging Bugs Open Asian Users to Cyber Espionage In a potential gift to geopolitical adversaries, the encrypted messaging app uses a leaky custom protocol that allows message replays, impersonation attacks, and sensitive information exposure from chats.",
     "title": "LINE Messaging Bugs Open Asian Users to Cyber Espionage"
+  },
+  "https://www.darkreading.com/application-security/malicious-notifications-could-trick-google-gemini-users": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b11efb4c67c9e8c/6a1f2620668c359305c948cc/AIappsphone-Nazar_Rybak-getty-2198117815.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-06-03T12:01:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Malicious Notifications Could Trick Google Gemini Users A prompt injection flaw in Google Gemini's voice assistant let attackers hide malicious commands in notifications, enabling social engineering and more.",
+    "title": "Malicious Notifications Could Trick Google Gemini Users"
   },
   "https://www.darkreading.com/application-security/malicious-npm-packages-adspect-cloaking-crypto-scam": {
     "categories": [],
@@ -27964,6 +28149,15 @@
     "source": "darkreading",
     "summary": "CTO New Year Resolutions for a More Secure 2026 From securing MCPs and supply chain defenses to formal AI and quantum governance, experts share their wish lists for cyber safety in 2026.",
     "title": "CTO New Year Resolutions for a More Secure 2026"
+  },
+  "https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltccb00eced4dc6fb5/6a204f532928e1ceac7b3c4c/cyberinsurance-Poca_Wander_Stock-getty-1470986827.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-06-03T19:10:58+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Cyber Insurance Rates Are Dropping, but Exclusions Widen Cyber insurance coverage is slowly changing, and some policies may not provide coverage for social engineering attacks like ClickFix.",
+    "title": "Cyber Insurance Rates Are Dropping, but Exclusions Widen"
   },
   "https://www.darkreading.com/cyber-risk/cyberattackers-dont-care-about-good-causes": {
     "categories": [],
@@ -29160,6 +29354,15 @@
     "summary": "Nation-State Actor Embraces AI Malware Assembly Line Pakistan's APT36 threat group has begun using vibe-coding to churn out mediocre malware, but at a scale that could overwhelm defenses.",
     "title": "Nation-State Actor Embraces AI Malware Assembly Line"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/nation-state-cyber-activity-latin-america": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaa97395bb0805f7f/6a1f49d4c6f2ac73df1ebf16/old-globe-showing-south-america-jhonny_marcell_oportus-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-06-03T19:52:32+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Tropical Blend: Cyber &amp; Politics Ramp Up Across Latin America China-linked espionage groups have attacked at least a dozen nations in the region, gathering information on maritime shipping, oil production, and other geopolitical interests.",
+    "title": "Tropical Blend: Cyber &amp; Politics Ramp Up Across Latin America"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/new-c2-implant-snappyclient-targets-crypto-wallets": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0372e765e2f60601/69bb0ab9e800678b63dc8ddb/remoteaccess_Khanthachai_C_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -29185,6 +29388,15 @@
     "source": "darkreading",
     "summary": "Operation DoppelBrand: Weaponizing Fortune 500 Brands The GS7 cyberthreat group targets US financial institutions with near-perfect imitations of corporate portals to steal credentials and gain remote access.",
     "title": "Operation DoppelBrand: Weaponizing Fortune 500 Brands"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb991e5256c40bcd1/6a205634289788f8c51207a1/Pakistan_Afghanistan-Oleksii_Liskonih-Getty.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-06-04T04:01:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Pakistan Spies on Afghan Finance Ministry With Xeno RAT Despite broadly connected digital infrastructure, standard fare TTPs are enough to cause trouble for Afghanistan's porous cybersecurity.",
+    "title": "Pakistan Spies on Afghan Finance Ministry With Xeno RAT"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/phishers-pose-palo-alto-networks-recruiters-job-scam": {
     "categories": [],
@@ -30307,6 +30519,15 @@
     "source": "darkreading",
     "summary": "Attackers Abuse Python, Cloudflare to Deliver AsyncRAT The phishing campaign shows how attackers continue to weaponize legitimate cloud services and open source tools to evade detection and gain trust.",
     "title": "Attackers Abuse Python, Cloudflare to Deliver AsyncRAT"
+  },
+  "https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt016007dbff30c0e1/6a2085be38e0c7c4b455ca45/Sophos_offices-Sundry_Photography-getty-1200830219.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-06-03T21:34:07+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Attackers Use AI to Automate EDR Evasion Testing Python scripts were used to test malware against endpoint detection and response agents from Sophos, CrowdStrike, and Windows Defender.",
+    "title": "Attackers Use AI to Automate EDR Evasion Testing"
   },
   "https://www.darkreading.com/endpoint-security/booz-allen-announces-general-availability-vellox-reverser": {
     "categories": [],
