@@ -9824,6 +9824,15 @@
     "summary": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag A development flag left switched on in production builds of several Microsoft 365 Android apps disabled the check that limits account-token sharing to trusted Microsoft apps.\n\nAny other app on the\u2026",
     "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag"
   },
+  "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBOQJLNqTRWigWAgPKNCKXr8hOgMZD4ZNb3lNzGbrvSj87BzK_VzrbaqMPVOo1wmCsILPHO2s5cdfu1I2nUOhNibPpzsOHko3qWQwCVXXVdi8yaqYjMJGBD6Fzz-eBmgJ1-Vy0E02L_X1xsT3neUlTTsn9s8e2ODQVYXNErvOz9VrHEIdJNfGhsASUV0ag/s1600/chatgpt-lockdown.jpg",
+    "published": "2026-06-06T13:36:57+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks.\n\nThe feature is primarily designed \u2026",
+    "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration"
+  },
   "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP07q0cgsa0a9VyTU6oPpxqvoZ5Gg2spx-ClmUIzn9LjYzDfuKNxnLXNuXMexiMB8GjKewhk7CnAL5HXgpCL_wq5eaU8VK2mTxxcKJHAZ9eLBskg516sBn4SV5XHWOuZIozDzBD_0MUCAMcVpGyqOEWITNKi2mQFxFLl9gqg_3UxPlwmXCkRfm2JERftyN/s1600/http2.gif",
@@ -16003,6 +16012,17 @@
     "source": "BleepingComputer",
     "summary": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February. [...]",
     "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-06T14:09:26+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Critical Everest Forms Pro flaw exploited to take over WordPress sites Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a WordPress website. [...]",
+    "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites"
   },
   "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/": {
     "categories": [
