@@ -9932,6 +9932,15 @@
     "summary": "ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories It got stupid again.\n\nThe internet still feels held together with tape. Bad plugins, old bugs, fake tools, trusted apps doing shady things. Same mess, new wrapper. And now\u2026",
     "title": "ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories"
   },
+  "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoUzV1qMNLxMhQ6z22gKy4A5VPPrLn4b1nlfLaMyR6dBM6ostnGD8O3jiaPdM_diQNx24uX-TbI6iiX0Yw4m7msT6_3_UFz_g-g1fQGh3J55fzWzRyKTel4uIp05eBMvxwaQWvNv-VM0_p9jkclDuIyq0Ztu8r4gHIKN1xNSoGYV8Lj31kb_mCcZcBeXrB/s1600/vishing.jpg",
+    "published": "2026-06-08T07:39:28+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign Cybersecurity researchers have disclosed details of a financially motivated data theft extortion campaign that has targeted dozens of organizations across professional, legal, and financial service\u2026",
+    "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign"
+  },
   "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Y4FY1kH_mrU4oH2X7TPrnmPdf9Ib4UZ4Xgud4Qgjie69on9qP9D1OU8i3ol3THTISUTy8OBJzPXzbUTyHwx1xF8cWuYvb9r-_7r_g-gFXyW62phdyaEAd41PI5cfduXxd084XQdwhxQ40Ti5n7SvkhIbZRktqP8G9bhufjlrxzxHYWpFTAXAfSSWstwc/s1600/NTLM.jpg",
@@ -9940,6 +9949,24 @@
     "source": "The Hacker News",
     "summary": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker.\n\nLike in the case of CVE-2026-33829, which impacted the W\u2026",
     "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes"
+  },
+  "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhni0Ay24Jcfz-LCxqQ8xD9rJais13OOnt5cfz9XtZY-4LzlGgyVY9S2Cu7V0Uo9JMjIxfyTMk8oOeaPHcIkkYnw4RMiLgYFuiS2CyHd9JAihJsC7SQ-wtm8K545YuACojNwKRfsYBXLWe8s3u1evEVjyGLI2WM9KwAYyWur_XrpPfQRF8s4CzXP8c_OU01/s1600/chinese.jpg",
+    "published": "2026-06-08T10:27:32+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances A China-nexus cyber espionage group has been observed deploying a BSD variant of a known backdoor called BRICKSTORM, as well as two other malware families codenamed PLENET (aka GRIMBOLT) and AGENTPSD to target Li\u2026",
+    "title": "VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances"
+  },
+  "https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPMxcu3ZcBpbZRC5rw9BlnoZMoXgrA-dRRquG6F6PSZZUc0JNzGHbl6c50yqTxs60QyQ5ut5ZC2qP9Csk_mR1Aqi48DO0wwDbUZ6zei45FNO2UgXaU0pOf8gWk8iAT81Ee1XJGrYyFgjYJqCeGTlnYeq-U8Nh4i5cxskA5n3eWyaQqMQPmyMAAR30bDKf2/s1600/ms-delay.jpg",
+    "published": "2026-06-08T06:08:44+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks Microsoft has announced that Visual Studio Code (VS Code) will apply a two-hour delay before extensions for the integrated development environment (IDE) are updated automatically to a newer version in a\u2026",
+    "title": "VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks"
   },
   "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html": {
     "categories": [],
@@ -11022,6 +11049,19 @@
     "source": "BleepingComputer",
     "summary": "Critical Windows Netlogon RCE flaw now exploited in attacks The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vulnerability in attacks\u2026",
     "title": "Critical Windows Netlogon RCE flaw now exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/": {
+    "categories": [
+      "Microsoft",
+      "Artificial Intelligence",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-06-07T23:20:02+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal Microsoft has created an open-source fork of Windows Terminal called \"Intelligent Terminal,\" and it allows you to use AI directly inside Terminal without interfering with the regular session. [...]",
+    "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal"
   },
   "https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/": {
     "categories": [
@@ -14436,6 +14476,17 @@
     "source": "BleepingComputer",
     "summary": "Bubble AI app builder abused to steal Microsoft account credentials Threat actors are evading phishing detection in campaigns targeting Microsoft accounts by abusing the no-code app-building platform Bubble to generate and host malicious web apps. [...]",
     "title": "Bubble AI app builder abused to steal Microsoft account credentials"
+  },
+  "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-07T14:17:46+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware A new variant of the Gafgyt botnet called C0XMO is targeting DD-WRT router firmware and can move to other device types with various CPU architectures. [...]",
+    "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware"
   },
   "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/": {
     "categories": [
@@ -21024,6 +21075,17 @@
     "summary": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools Meta is introducing new anti-scam protections across its platforms, deploying systems and user-facing warnings to protect users against scammers. [...]",
     "title": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools"
   },
+  "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-08T06:00:27+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Over 20,000 Instagram accounts stolen in Meta AI support hack Meta has revealed that 20,225 Instagram users had their accounts hijacked in a recent incident where attackers\u00a0used Meta's AI-powered support system to reset passwords. [...]",
+    "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack"
+  },
   "https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/": {
     "categories": [
       "Security"
@@ -22983,6 +23045,17 @@
     "summary": "ownCloud urges users to enable MFA after credential theft reports File-sharing platform ownCloud warned users today to enable multi-factor authentication (MFA) to block attackers using compromised credentials from stealing their data. [...]",
     "title": "ownCloud urges users to enable MFA after credential theft reports"
   },
+  "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-08T11:14:41+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Oxford University discloses data breach after careers platform hack The University of Oxford disclosed a new data breach last week after being informed by its third-party provider, Group GTI, that its CareerConnect career services platform had been compromised. [...]",
+    "title": "Oxford University discloses data breach after careers platform hack"
+  },
   "https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/": {
     "categories": [
       "Security"
@@ -24368,6 +24441,17 @@
     "source": "BleepingComputer",
     "summary": "Signed software abused to deploy antivirus-killing scripts A digitally signed adware tool has deployed payloads running with SYSTEM privileges that disabled antivirus protections on thousands of endpoints, some in the educational, utilities, government, and healthcare sectors. [.\u2026",
     "title": "Signed software abused to deploy antivirus-killing scripts"
+  },
+  "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-07T14:09:19+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Silent Ransom Group targets law firms with fake IT support calls The Silent Ransom Group extortion gang is actively targeting U.S. law firms and professional services organizations in social engineering attacks that often lead to data theft within hours of initial contact, accord\u2026",
+    "title": "Silent Ransom Group targets law firms with fake IT support calls"
   },
   "https://www.bleepingcomputer.com/news/security/six-for-2026-the-cyber-threats-you-cant-ignore/": {
     "categories": [
