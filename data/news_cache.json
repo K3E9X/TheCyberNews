@@ -9581,6 +9581,15 @@
     "summary": "AI-Driven Exploitation is Destroying Vulnerability Management. Here\u2019s How to Handle It. AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the histo\u2026",
     "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here\u2019s How to Handle It."
   },
+  "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWmg0GCTB3fe3Y57Wr_PMrbYUetN1SDu243ddq7AdKP-gwIbOdVDhXhuWtapmSuA6gDYWwk8ydavt33ZAoWzHmG4Imu4dqiiPaksZKDYK5AEX1XBPr2iz2JflFZoH4uy0_I35Gm6zpJo9wyGttsjdtDwLM_00VOg9qVka3vYjk62LAD3HGSbnE7ov9TMU/s1600/ai-threats.jpg",
+    "published": "2026-06-08T13:19:13+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload Phishing has always been a numbers game. AI has turned it into a volume machine.\n\nAttackers can now create convincing emails, fake login pages, and tailored lures in minutes. Every polished message adds\u2026",
+    "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload"
+  },
   "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimTj2SdhVr1jj9e2RqrAOW9dIsBmuMZJsqWGt6weL0DOfhwYQF_6Hp5B-sYt6ZZEGQB_YPTOW6Xb2x5JygleEwCp8FQFmKDBIfQlCP1QVLGuVGPboCcbXy8LB0oUDSwA-3w6Vqc9QQFiRAaQKqQ2m2EdPopVIWcp7RHtdXbrd9ucWSfEG4D3h2bu1d9dN3/s1600/android-war.png",
@@ -9670,6 +9679,15 @@
     "source": "The Hacker News",
     "summary": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories A security researcher found a flaw in Anthropic's Claude Code GitHub Action that let an attacker take over vulnerable public repositories running it, with nothing more than a single opened GitHub issue. Be\u2026",
     "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories"
+  },
+  "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYhQjzMpxYhylqWwtRqt0p7upc-fSMohRLJs5lRSXUg51_lrzt63JYz0K9zo2V7Rl9yCOMpQk6YFBfTdE1CuSuFYGA3odGeHu3mIV-LY_JHWyIx7g32NPOx1tuSZ-ZIMasTT5S-43DoYHEpCTykl4E4TfyXw89HksiOppUEMp5ganCT27SF0xu7noBUQ5i/s1600/checkpoint.jpg",
+    "published": "2026-06-08T14:17:39+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key exchange protocol.\n\n\u2026",
+    "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups"
   },
   "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html": {
     "categories": [],
@@ -9797,6 +9815,24 @@
     "summary": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and \u2026",
     "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks"
   },
+  "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGMn_z7P9hbHMRzYk9OL9_kLaqTo4GucKa1of13sGhpNvKkSBDrhZSrcG53FJsPKJguHNThZK130Ku7Fjz6i1eFXP4Hx__9KoHxiv0gBT1LAomQr0exe44OnZkJjyIhv2X5hIA-rZAiu1AFLSUXAJSjb6DhF3DqQGx-XBkup8rwwonKFLCeWbNHrS3r2rm/s1600/lite.png",
+    "published": "2026-06-09T06:26:14+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity flaw impacting BerriAI LiteLLM to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence o\u2026",
+    "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE"
+  },
+  "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi00ODwGXyrxQobZ30bAt_HwwRgLni-5_Dc77J-cG8lFCYonl0IGGu3s-tgpNHst6AZOwL1guVsSL02yuQN_4C1SiEBU9jRyBh5rIgPTSRvNkCO0m29zZidWMKb4ymvRZYl6SCD-sXatYAnebdLgtVxiFFHAEJGO6RhlbuGT9iRJbuPuzprB9NthxiuLBXh/s1600/whatsapp.jpg",
+    "published": "2026-06-08T17:08:44+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order Meta on Monday said it detected and blocked spear-phishing attempts linked to Israeli spyware vendor NSO Group.\n\nIn addition, the tech giant said it's filing a federal court contempt order against the comp\u2026",
+    "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order"
+  },
   "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOyc2NTiIl0XKOTZBsFh1bTPqNpVXfDhASWkCsYz17d-nbiWVKlxCzoq3WthMD8kMomrRPPOYLM-XRmSdtXNKAxtk1QLtmZH47y2RExMGohBaBDPkpFp2PteUgaA16VcCs7tK-ImqCiLnpqyLg8Pwp6cWE5d9QT2_v0-QBduT7ovYrs7WSZ9t1MnQJ4EuO/s1600/redhat.png",
@@ -9850,6 +9886,15 @@
     "source": "The Hacker News",
     "summary": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 (where \"OP\" stands for \"opponent\") that has been observed&nbsp;targeting Microsoft Internet Infor\u2026",
     "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework"
+  },
+  "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA8UsvPZqRGiHkumM_jxIGyax3NmK9lBR-XAaVK3Stujz8_bExONh9gAroIEXnLQo9KaXb2MpyZsqb2kcfaUxNJJtFhiSpCZjHDzOtgt-sZczb2rx2eRi-rqMiqFtfs0lq6iqJd74J3aoFRN-azg51ZhnQq84Ve1y_-AMXudSuiePM0mi1UHwTh0MHtIE/s1600/linux.jpg",
+    "published": "2026-06-08T20:17:39+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container.\n\nThe flaw, CVE-2026\u2026",
+    "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public"
   },
   "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html": {
     "categories": [],
@@ -9914,6 +9959,15 @@
     "summary": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP) The Fragmented State of Modern Enterprise Identity\n\nEnterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of \u2026",
     "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)"
   },
+  "https://thehackernews.com/2026/06/the-hardest-fork.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRnMnAqwiH7Dgv_dmF2bugYLlu8uMyFQkl7DseYkwwzl5MzUP-KeplSbGg_aNt_OqIDtT5rLyDO_Ea96Hf_uti0eKVIseQTxtS7zt-WQksEp8c4V50Hdq0kWqWjvyOVMHVlbMo1gagsSGu4lmdhlm1NSLQLp9QZVohv74jIWehnGY-l_PAPYzUvtITBMs/s1600/fork.jpg",
+    "published": "2026-06-08T11:53:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "The Hardest Fork Mythos is real. I know a big chunk of the industry thinks it's a marketing stunt, and I get why. I get it. But I've seen the findings, and they're bad. These aren't \"whoops, this line right here is wrong, and that's RCE.\" They're novel combinations of a few dozen\u2026",
+    "title": "The Hardest Fork"
+  },
   "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOvm8XaHJ9FBjwjKyTkm_2pt81tT-4sHdK9UDWm7_hCk4rA95U0peF3Zi7kO_fmJioaGKKloqru4yC-AwrSOdZ17v7m8K2K-t4lyYOGfC66J8r3cSi_v09IPRAfknHSeRBv13kjrk6XBzqpCvKS6ujugm4cR6Xrt1LK40bC091c0k_SgptQnGYIznwWwQ/s1600/cynomi.jpg",
@@ -9977,6 +10031,15 @@
     "summary": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems.\n\nThe Minecraft-focused malware\u2026",
     "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content"
   },
+  "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwpRME_50jfgFZwHR0bIcYNE3-253LUHG3foA4Xd2IPQ0LCvXI4-_cLxJ-m8erh3Zof0ZY0pMOculHNwlSGAiUnwaL2H2DoXC9aKTehIh_R4vI66aZTzo00jj-hWlZ1lXtuDbDBWROGfTI4tH8G8Mb8cOlqBJLtG2l6bQS62hZlKlEt5qcLaEwsO_RhO4k/s1600/cybersecurity-recap.jpg",
+    "published": "2026-06-08T13:18:57+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More Monday again. The weekend was meant to be quiet. It wasn't. Last week had poisoned packages, a broken AI helper, and a worm tearing through repos. The ugly part: basic tricks still worked.\n\nA chatbot \u2026",
+    "title": "\u26a1 Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More"
+  },
   "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV-leTG-MQremNN5Ju342L6LQMn36xeD4jiS4YWT7EdYluHOtFDqIN8y3bQuV-A0D0wtsO5sRpG3Bpy5xdHhMs_sO_w3WoiiJzCd7o-7Hxw736ERxQs4WDd71EQEBIHLzT_UNFMwCDvC8Nij-gDNpMhsRnpsqoDHkuxUWLUEZSSTfDc4aXpx2qlpsaqlgH/s1600/cyberrecap.png",
@@ -10030,6 +10093,18 @@
     "source": "BleepingComputer",
     "summary": "Apple patches older iPhones and iPads against Coruna exploits \u200bApple has released security updates to patch older iPhones and iPads against a set of vulnerabilities targeted in cyberespionage and crypto-theft attacks using the Coruna exploit kit. [...]",
     "title": "Apple patches older iPhones and iPads against Coruna exploits"
+  },
+  "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/": {
+    "categories": [
+      "Apple",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-08T21:03:40+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New Apple feature automatically changes your compromised passwords At WWDC 26, Apple announced an Apple Intelligence-powered feature that can automatically fix weak and compromised passwords. This works in Safari, and it's rolling out with iOS 27. [...]",
+    "title": "New Apple feature automatically changes your compromised passwords"
   },
   "https://www.bleepingcomputer.com/news/apple/new-apple-privacy-feature-limits-location-tracking-on-iphones-ipads/": {
     "categories": [
@@ -14666,6 +14741,17 @@
     "summary": "ChatGPT share links abused to host fake outage pages to deliver malware Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
     "title": "ChatGPT share links abused to host fake outage pages to deliver malware"
   },
+  "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-08T13:05:16+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Check Point links VPN zero-day attacks to Qilin ransomware gang Israeli cybersecurity company Check Point has released security updates to patch a critical flaw affecting Remote Access VPN and Mobile Access deployments, which was exploited in zero-day attacks. [...]",
+    "title": "Check Point links VPN zero-day attacks to Qilin ransomware gang"
+  },
   "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/": {
     "categories": [
       "Security"
@@ -15084,6 +15170,17 @@
     "source": "BleepingComputer",
     "summary": "CISA gives feds 3 days to patch actively exploited BeyondTrust flaw CISA ordered U.S. government agencies on Friday\u00a0to secure their BeyondTrust Remote Support instances against an actively exploited vulnerability within three days. [...]",
     "title": "CISA gives feds 3 days to patch actively exploited BeyondTrust flaw"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-09T08:18:39+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day attacks by Qilin ransomware affil\u2026",
+    "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/": {
     "categories": [
@@ -16250,6 +16347,17 @@
     "source": "BleepingComputer",
     "summary": "Critical SolarWinds Serv-U flaws offer root access to servers SolarWinds has patched four critical Serv-U remote code execution vulnerabilities that could grant attackers root access to unpatched servers. [...]",
     "title": "Critical SolarWinds Serv-U flaws offer root access to servers"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-08T15:51:19+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Critical UniFi OS bug lets hackers gain root without authentication Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authentication. [...]",
+    "title": "Critical UniFi OS bug lets hackers gain root without authentication"
   },
   "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/": {
     "categories": [
@@ -18510,6 +18618,17 @@
     "summary": "GlobalProtect VPN portals probed with 2.3 million scan sessions A major spike in malicious scanning against Palo Alto Networks GlobalProtect portals has been detected, starting on November 14, 2025. [...]",
     "title": "GlobalProtect VPN portals probed with 2.3 million scan sessions"
   },
+  "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-08T16:18:40+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Gogs patches critical zero-day enabling remote code execution Gogs has patched a critical security zero-day flaw that can allow attackers to compromise Internet-facing instances and access any repositories (including private ones). [...]",
+    "title": "Gogs patches critical zero-day enabling remote code execution"
+  },
   "https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/": {
     "categories": [
       "Security"
@@ -18803,6 +18922,18 @@
     "source": "BleepingComputer",
     "summary": "Android gets patches for Qualcomm zero-day exploited in attacks Google has released security updates to patch 129 Android security vulnerabilities, including an actively exploited zero-day flaw in a Qualcomm display component. [...]",
     "title": "Android gets patches for Qualcomm zero-day exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/": {
+    "categories": [
+      "Security",
+      "Google"
+    ],
+    "image": "",
+    "published": "2026-06-09T06:56:27+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Google patches new Chrome zero-day flaw exploited in the wild Google has released emergency updates to patch another Chrome zero-day vulnerability that has been exploited in the wild, the fifth such flaw patched since the start of the year. [...]",
+    "title": "Google patches new Chrome zero-day flaw exploited in the wild"
   },
   "https://www.bleepingcomputer.com/news/security/google-patches-first-chrome-zero-day-exploited-in-attacks-this-year/": {
     "categories": [
@@ -22320,6 +22451,17 @@
     "summary": "New ShadowV2 botnet malware used AWS outage as a test opportunity A new Mirai-based botnet malware named 'ShadowV2' has been observed targeting IoT devices from D-Link, TP-Link, and other vendors with exploits for known vulnerabilities. [...]",
     "title": "New ShadowV2 botnet malware used AWS outage as a test opportunity"
   },
+  "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-08T20:41:35+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud\u00a0supply-chain attack that delivered malware designed to steal developer secrets. [...]",
+    "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages"
+  },
   "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/": {
     "categories": [
       "Security"
@@ -22498,6 +22640,18 @@
     "source": "BleepingComputer",
     "summary": "Newsletter platform Substack notifies users of data breach Newsletter platform Substack is notifying users of a data breach after attackers stole their email addresses and phone numbers in October 2025. [...]",
     "title": "Newsletter platform Substack notifies users of data breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/": {
+    "categories": [
+      "Security",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-06-08T22:11:58+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "NFCShare Android malware spreads via fake banking app updates on GitHub New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
+    "title": "NFCShare Android malware spreads via fake banking app updates on GitHub"
   },
   "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/": {
     "categories": [
@@ -23863,6 +24017,17 @@
     "summary": "Red Hat npm packages compromised to steal developer credentials More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dubbed \"Miasma.\" [.\u2026",
     "title": "Red Hat npm packages compromised to steal developer credentials"
   },
+  "https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-08T14:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Reducing security operations complexity with Wazuh Cloud Security teams are increasingly overwhelmed by alert fatigue, infrastructure maintenance, and complex hybrid environments. This article explores how Wazuh Cloud helps simplify SIEM/XDR operations through managed infrastruct\u2026",
+    "title": "Reducing security operations complexity with Wazuh Cloud"
+  },
   "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/": {
     "categories": [
       "Security"
@@ -24551,6 +24716,17 @@
     "source": "BleepingComputer",
     "summary": "Snowflake customers hit in data theft attacks after SaaS integrator breach Over a dozen companies have suffered data theft attacks after a\u00a0SaaS integration provider was breached and authentication tokens stolen. [...]",
     "title": "Snowflake customers hit in data theft attacks after SaaS integrator breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-08T21:55:46+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "SoFi confirms third-party data breach at Hong Kong subsidiary SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information. [...]",
+    "title": "SoFi confirms third-party data breach at Hong Kong subsidiary"
   },
   "https://www.bleepingcomputer.com/news/security/solarwinds-warns-of-critical-web-help-desk-rce-auth-bypass-flaws/": {
     "categories": [
@@ -26551,6 +26727,18 @@
     "summary": "WhatsApp introduces parent-managed accounts for pre-teens WhatsApp has begun rolling out parent-managed accounts for pre-teens, allowing parents and guardians to decide who can contact them and which groups they can join. [...]",
     "title": "WhatsApp introduces parent-managed accounts for pre-teens"
   },
+  "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-06-08T18:40:53+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "WhatsApp says it disrupted new NSO spyware phishing attacks WhatsApp has detected and stopped spear-phishing campaigns allegedly conducted by the NSO Group after investigating user reports of social engineering attacks. [...]",
+    "title": "WhatsApp says it disrupted new NSO spyware phishing attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/": {
     "categories": [
       "Security"
@@ -27600,6 +27788,15 @@
     "source": "darkreading",
     "summary": "Grafana Patches AI Bug That Could Have Leaked User Data By hiding malicious instructions on an attacker-controlled Web page, AI could ingest orders as benign and return sensitive data to the attacker's server.",
     "title": "Grafana Patches AI Bug That Could Have Leaked User Data"
+  },
+  "https://www.darkreading.com/application-security/hades-campaign-pypi-shai-hulud": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56977f533b95c270/6a26ea099f6a67dda8a1f32c/hades-rudall30-Getty-1188397160.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-06-08T16:13:41+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "'Hades' Campaign Against PyPI Puts New Spin on Shai-Hulud The latest attacks, which hit 37 PyPI wheels and 19 code packages, show a continued evolution of the persistent software supply chain threat.",
+    "title": "'Hades' Campaign Against PyPI Puts New Spin on Shai-Hulud"
   },
   "https://www.darkreading.com/application-security/hardened-containers-eliminate-common-source-vulnerabilities": {
     "categories": [],
@@ -29757,6 +29954,15 @@
     "summary": "Instructure Breach Exposes Schools' Vendor Dependence ShinyHunters' attack on Instructure, which owns the widely used Canvas learning management system (LMS), carries big questions about the trust educational institutions put into their vendors.",
     "title": "Instructure Breach Exposes Schools' Vendor Dependence"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/iran-signed-ceasefire-hackers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6e87d864551194fb/6a26ff5f6414327c23cf402f/Iran_Flag_Digital_traffic_analyzer_Getty_Images.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-06-08T19:07:48+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Iran Signed a Ceasefire \u2014 Its Hackers Didn't An extension of the Geneva Conventions could impose restrictions on cyberwarfare under ceasefire conditions and close a major loophole in international conflict.",
+    "title": "Iran Signed a Ceasefire \u2014 Its Hackers Didn't"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/iran-spies-expats-syrians-israelis": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta2424b0fd6048839/6983ac2c3bd30e51c6651003/Iran_keyboard-Per_Bengston-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -30011,6 +30217,15 @@
     "source": "darkreading",
     "summary": "ShinyHunters Claims Second Attack Against Instructure The edtech company is struggling to wrest control from its hackers. PII belonging to hundreds of millions of people is on the line.",
     "title": "ShinyHunters Claims Second Attack Against Instructure"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/silent-ransom-us-law-firms-extortion-attacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt559ee8a9968e803d/6a271ee7c15726d93fd4c2b9/extortion_Koldunov_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-06-08T20:59:52+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Silent Ransom Group Hits US Law Firms in Escalating Extortion Attacks The financially motivated group is combining vishing, IT impersonation, and in-person office intrusions to steal data and extort victims.",
+    "title": "Silent Ransom Group Hits US Law Firms in Escalating Extortion Attacks"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/singapore-major-telcos-fend-chinese-hackers": {
     "categories": [],
@@ -33045,6 +33260,15 @@
     "source": "darkreading",
     "summary": "Cheap Hardware Module Bypasses AMD, Intel Memory Encryption Researchers built an inexpensive device that circumvents chipmakers' confidential computing protections and reveals weaknesses in scalable memory encryption.",
     "title": "Cheap Hardware Module Bypasses AMD, Intel Memory Encryption"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/check-point-vpn-flaw-exploited-early-may": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt75cb080a97fbfd24/6a271a9d80dcb50a4faaddac/secure_web_page-courtneyk-getty-2162167863.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2026-06-08T20:28:35+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Check Point VPN Flaw Exploited Since Early May A newly discovered, critical zero-day vulnerability is under attack; a Qilin ransomware affiliate has been blamed for at least one incident.",
+    "title": "Check Point VPN Flaw Exploited Since Early May"
   },
   "https://www.darkreading.com/vulnerabilities-threats/cisco-48-firewall-vulnerabilities-2-critical": {
     "categories": [],
