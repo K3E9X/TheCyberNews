@@ -9635,6 +9635,15 @@
     "summary": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent.\n\nAccording to Seqrite\u2026",
     "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan"
   },
+  "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQC0_BYMuNpY7re4OHHsytEfC6fW3KsonxN6e2X0Dj03fJoMazI6EZnvPj_hOUZ99yJLq6RrH3ZSCsfDWOB6AgDJVk_1LY5TzgSpP7QFKcI_grjRI7Pm9QGputoI0LM4LH8ZCOAVb_PnzXAs_bMP6n_3u__fPEmxEKVUv5ZZjG5vOJT_fmhvAy551gjCmi/s1600/bot.png",
+    "published": "2026-06-10T16:08:42+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance Cybersecurity researchers have warned of a \"resurgence and expansion\" of JDY, a covert network associated with China-nexus state-sponsored threat actors.\n\n\"The JDY botnet comprises over 1,500 SOHO [small o\u2026",
+    "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance"
+  },
   "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq_JkP80d1IA8rz-SoYEBmuGqK_K7OpGrqiki4vB1ShMW5mFBVSMvl8H5MnYylZMl3AWeqdAmp19oZIL_7amYErNxBGiUAJqrOqGO0zjHH2jxCKCNdiGH_nqjHlksD9dlu4QGCq9KzMRfnWAi7YnPQQ86pnCypNupFDn_h-hSJdfhWT0Y4s01w6Cw-s6Od/s1600/phishing-hook.jpg",
@@ -9661,6 +9670,15 @@
     "source": "The Hacker News",
     "summary": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U  multi-protocol file server software to its Known Exploited Vulnerabilities \u2026",
     "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog"
+  },
+  "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyS_5xYGR8v-Lv2x6gLklggySrwxfhnOTIwaLNXWT0xCUHcG8742JNest-ScZPBIUEqChp4KxYPdOnrWOJUJ-Dcv1VYYBOGY6eMYgwOw5tIxBxD2RPbFM-xR05SpacfiwmIKeL6jAFpw8PScLXjV_gR9ZNRqQ8HmsOBAbom73N_i3JRkAsf-dZVoBpGVlI/s1600/cisaa.jpg",
+    "published": "2026-06-10T14:44:29+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploita\u2026",
+    "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation"
   },
   "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html": {
     "categories": [],
@@ -9779,6 +9797,15 @@
     "summary": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation.\n\nPer Se\u2026",
     "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine"
   },
+  "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_yyoUTLr71Ug2Ge0R7qFSnlGjB3TzlrQ-2NDR5jpPSBjivUSxhxRV1eCg5E6Af15RbJLZpqg9Ohp9ZW9YC9D2oc3VcHrNYQetavvvarn-Pn1P4VWnMw2C-hXbFgplFW9O8pe-zSP9ABGkkR-LM8hhu370dXMgeV-TGQT2p9N7hd7Friim3UkdK5FfyHHp/s1600/npm-github.jpg",
+    "published": "2026-06-11T06:23:03+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks GitHub has announced what it said are \"breaking changes\" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats.\n\nThe changes aim to combat a\u2026",
+    "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks"
+  },
   "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpQ6QXxFH4zkfeHGdcm1WXVcNXMpyJm-1dlZLbFCdp6rKDRhuwICzYaKaR-rCpn61qod6A1F98PZejZbmYuxaUXPJLXQffoaniCkqgyqR1-p7gClpj4PYibjzIDHk8_Vw4ag00EYPCM3Nz1G0Hvzuf6wBV-HzDFoSiYDEEdjPU45Bk_rIlGk9dJ_MMVuue/s1600/ad-malware.jpg",
@@ -9832,6 +9859,15 @@
     "source": "The Hacker News",
     "summary": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and \u2026",
     "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks"
+  },
+  "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs2l0GUUy91D4hHU067eYWpRzvSJGcfOkHce2jcVXZGWI9sld0hgaomhoKTc3dYEXEbz05oZQ5mFzo34eXp-wNJ2j_ofUjXjR7ZR5obszwH7bCRRmah9Q9HY3RSDrwrAf8QD162ca7nvxTRELWzcVW8AbbVMpXJfHXtaYEiSxXAw49VpCG8ep33SbGeLSF/s1600/ivanti.jpg",
+    "published": "2026-06-10T15:10:59+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities Fortinet, Ivanti, and SAP have released security updates to address multiple critical security vulnerabilities that could result in arbitrary code execution and information disclosure.\n\nThe security f\u2026",
+    "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities"
   },
   "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html": {
     "categories": [],
@@ -9940,6 +9976,15 @@
     "source": "The Hacker News",
     "summary": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 (where \"OP\" stands for \"opponent\") that has been observed&nbsp;targeting Microsoft Internet Infor\u2026",
     "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework"
+  },
+  "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2WExeCWTOdaaW7iQfV9dxGz0_rzPShImjBUQfoeRsJeTLg09lrGsSEgA2k05q-weIqQaQ_VVP25lTObup7E0xtcnxj3AtK1HHkNIAkI_hykxraL74qXTPwCRlRCdTB3S5QJO-e2j5zPGxgvCBg9SyRFl9QD2gwVtOqgg3eNF7_ZXGI9JgFSE4LGPjwoS3/s1600/cyberattacks.jpg",
+    "published": "2026-06-11T09:45:58+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER.\n\nThe campaigns inv\u2026",
+    "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack"
   },
   "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html": {
     "categories": [],
@@ -10075,6 +10120,15 @@
     "source": "The Hacker News",
     "summary": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign Cybersecurity researchers have disclosed details of a financially motivated data theft extortion campaign that has targeted dozens of organizations across professional, legal, and financial service\u2026",
     "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign"
+  },
+  "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidDfz-Q5s2ON-nc6gW-4Lgw1yMocr3YiLP82vXcoWHcs6-_ICHWHZsciCnM2aU4kBZ2yyCJ622deCwKAXZdOFVyIoG41JC7SHyXIG6soj-RrFySsKHp2N51PpbGb7LxJWXvqOXE6GTap75h_QIjH78l0Ys__M_4EtgxMgymWgCS1vfdmWmwgpkW1TIq61I/s1600/lang.png",
+    "published": "2026-06-10T15:00:59+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE A high-severity unpatched security flaw in Langflow, an open-source low-code platform to build artificial intelligence (AI) applications, has come under active exploitation in the wild, according to findings \u2026",
+    "title": "Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE"
   },
   "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html": {
     "categories": [],
@@ -11767,6 +11821,17 @@
     "summary": "Microsoft: Security keys may prompt for PIN after recent updates Microsoft warned users on Tuesday that FIDO2 security keys may prompt them to enter a PIN when signing in after installing Windows updates released since the September 2025 preview update. [...]",
     "title": "Microsoft: Security keys may prompt for PIN after recent updates"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-06-11T08:44:22+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft fixes BitLocker recovery bug on Windows Server 2025 Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security update. [...]",
+    "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/": {
     "categories": [
       "Microsoft",
@@ -12262,6 +12327,18 @@
     "summary": "Microsoft patches actively exploited Office zero-day vulnerability Microsoft has released emergency security updates to patch a high-severity Office zero-day vulnerability exploited in attacks. [...]",
     "title": "Microsoft patches actively exploited Office zero-day vulnerability"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-10T13:44:19+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft patches Exchange Server zero-day exploited in attacks Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site scripting (XSS) attacks targeting Outlook Web Access users. [...]",
+    "title": "Microsoft patches Exchange Server zero-day exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/": {
     "categories": [
       "Microsoft",
@@ -12705,6 +12782,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Some Teams users can\u2019t join meetings after Edge update Microsoft confirmed that a recent Microsoft Edge browser update introduced a bug that prevents Windows users from joining Teams meetings. [...]",
     "title": "Microsoft: Some Teams users can\u2019t join meetings after Edge update"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-06-10T11:33:32+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Some Windows PCs fail to install latest monthly updates Microsoft warned customers on Tuesday that they may have issues installing the latest monthly updates on some Windows devices that were upgraded to Windows 11 24H2 or 25H2. [...]",
+    "title": "Microsoft: Some Windows PCs fail to install latest monthly updates"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/": {
     "categories": [
@@ -14972,6 +15060,17 @@
     "source": "BleepingComputer",
     "summary": "China-linked hackers exploited Sitecore zero-day for initial access An advanced threat actor tracked as UAT-8837 and believed to be linked to China has been focusing on critical infrastructure systems in North America, gaining access by exploiting both known and zero-day vulnerab\u2026",
     "title": "China-linked hackers exploited Sitecore zero-day for initial access"
+  },
+  "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-10T15:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "China-linked JDY botnet expands targeting of U.S. military networks The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]",
+    "title": "China-linked JDY botnet expands targeting of U.S. military networks"
   },
   "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/": {
     "categories": [
@@ -18658,6 +18757,17 @@
     "summary": "GitHub adds AI-powered bug detection to expand security coverage GitHub is adopting AI-based scanning for its Code Security tool to expand vulnerability detections beyond the\u00a0CodeQL static analysis\u00a0and cover\u00a0more languages and frameworks. [...]",
     "title": "GitHub adds AI-powered bug detection to expand security coverage"
   },
+  "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-10T19:41:44+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "GitHub announces npm security changes to tackle supply-chain attacks GitHub has announced that npm v12, expected next month, will introduce several security-focused changes aimed at blocking supply-chain attacks abusing behaviors triggered by the 'npm install' command. [...]",
+    "title": "GitHub announces npm security changes to tackle supply-chain attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/": {
     "categories": [
       "Security"
@@ -21266,6 +21376,17 @@
     "summary": "Max severity Flowise RCE vulnerability now exploited in attacks Hackers are exploiting a maximum-severity vulnerability, tracked as CVE-2025-59528, in the open-source platform Flowise for building custom LLM apps and agentic systems to execute arbitrary code. [...]",
     "title": "Max severity Flowise RCE vulnerability now exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-11T06:20:22+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Max severity Ivanti Sentry vulnerability now exploited in attacks Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-exposed secure mobile gateways. [...]",
+    "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/": {
     "categories": [
       "Security"
@@ -23070,6 +23191,17 @@
     "summary": "Notepad++ update feature hijacked by Chinese state hackers for months Chinese state-sponsored threat actors were likely behind the hijacking of Notepad++ update traffic last year that lasted for almost half a year, the developer states in an official announcement\u00a0today. [...]",
     "title": "Notepad++ update feature hijacked by Chinese state hackers for months"
   },
+  "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-11T07:27:53+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Nottingham University data breach affects over 450,000 students The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
+    "title": "Nottingham University data breach affects over 450,000 students"
+  },
   "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/": {
     "categories": [
       "Security",
@@ -23289,6 +23421,17 @@
     "source": "BleepingComputer",
     "summary": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains The latest wave of \"Operation PowerOFF,\" on April 13, 2026, targeted the distributed denial-of-service (DDoS) ecosystem and its users across 21 countries. [...]",
     "title": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains"
+  },
+  "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-10T18:31:57+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks Oracle PeopleSoft servers are being targeted in ongoing data theft attacks by the ShinyHunters extortion gang, which claims to have stolen data from over 100 organizations. [...]",
+    "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks"
   },
   "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/": {
     "categories": [
@@ -23554,6 +23697,18 @@
     "source": "BleepingComputer",
     "summary": "Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps Threat actors are abusing Pastebin comments to distribute a new ClickFix-style attack that tricks cryptocurrency users into executing malicious JavaScript in their browser, allowing attackers to hijack Bitco\u2026",
     "title": "Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps"
+  },
+  "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-06-10T21:23:44+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Path traversal flaw in AI dev platform Langflow exploited in attacks Attackers are actively exploiting CVE-2026-5027, a high-severity path traversal vulnerability in the AI development platform Langflow, to write arbitrary files on exposed servers. [...]",
+    "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/": {
     "categories": [
@@ -25456,6 +25611,17 @@
     "summary": "Texas sues TV makers for taking screenshots of what people watch The Texas Attorney General sued five major television manufacturers, accusing them of illegally collecting their users' data by secretly recording what they watch using Automated Content Recognition (ACR) technology\u2026",
     "title": "Texas sues TV makers for taking screenshots of what people watch"
   },
+  "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-10T14:05:15+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "The 5 Best Practices for Secure Identity Verification Attackers are increasingly bypassing weak authentication through phishing, MFA fatigue, and service desk social engineering. Specops Software breaks down five best practices for stronger identity verification and access securi\u2026",
+    "title": "The 5 Best Practices for Secure Identity Verification"
+  },
   "https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/": {
     "categories": [
       "Security"
@@ -25552,6 +25718,17 @@
     "source": "BleepingComputer",
     "summary": "The hidden risks in your DevOps stack data\u2014and how to address them DevOps repos on GitHub, GitLab, Bitbucket, and Azure DevOps face risks from weak access controls, misconfigurations, outages, and accidental deletions. GitProtect provides automated, immutable backups and fast rec\u2026",
     "title": "The hidden risks in your DevOps stack data\u2014and how to address them"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-10T20:27:08+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "The \u2018Miasma\u2019 worm source code briefly leaked on GitHub The Miasma credential-stealing attack framework, which has recently targeted open-source ecosystems through supply-chain attacks, was briefly open-sourced on GitHub. [...]",
+    "title": "The \u2018Miasma\u2019 worm source code briefly leaked on GitHub"
   },
   "https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/": {
     "categories": [
@@ -28900,6 +29077,15 @@
     "summary": "AI Phishing Is No. 1 With a Bullet for Cyberattackers In the past six months, companies have seen a significant influx of AI-powered phishing, as cyberattackers progress from small campaigns to 1-to-1 personalized attacks.",
     "title": "AI Phishing Is No. 1 With a Bullet for Cyberattackers"
   },
+  "https://www.darkreading.com/cyber-risk/ai-risk-worries-insurers-businesses-alike": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6e0ea1e027e86d13/668c59f3ea2a358fd7724488/insurance(1800)_MUNGKHOOD_STUDIO_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-10T19:34:43+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI Risk Worries Insurers and Businesses Alike As companies adopt AI, many insurance firms are explicitly excluding AI risks, while others are forging ahead to create the right framework. What risks can firms reasonably manage?",
+    "title": "AI Risk Worries Insurers and Businesses Alike"
+  },
   "https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt301abc846275d0a4/6a1de7c8479f3e4dd25cf448/enisa_ricochet64_shuttrstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -29007,6 +29193,15 @@
     "source": "darkreading",
     "summary": "260K+ Chrome Users Duped by Fake AI Browser Extensions 30 copycat apps tricked users, and Google itself, into thinking they're legitimate AI tools.",
     "title": "260K+ Chrome Users Duped by Fake AI Browser Extensions"
+  },
+  "https://www.darkreading.com/cyber-risk/cisa-rewrites-federal-patching-requirements-ai-threat-era": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf078d399b77e8beb/6a29cba95f1b730af79d399f/usecyber_DC_Studio_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-10T21:17:12+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "CISA Rewrites Federal Patching Requirements for AI Threat Era The new directive gives federal agencies three days to fix the most dangerous flaws, while less severe issues can be deferred.",
+    "title": "CISA Rewrites Federal Patching Requirements for AI Threat Era"
   },
   "https://www.darkreading.com/cyber-risk/ciso-playbook-defending-data-assets-against-ai-scraping": {
     "categories": [],
@@ -29929,6 +30124,15 @@
     "source": "darkreading",
     "summary": "Chinese APTs Hacking Asian Orgs With High-End Malware Advanced persistent threat (APT) groups have deployed new cyber weapons against a variety of targets, highlighting the increasing threats to the region.",
     "title": "Chinese APTs Hacking Asian Orgs With High-End Malware"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/chinese-korean-threat-groups-asia-pacific-success": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf9a31e03506d8e24/682cf11744afb6bd8a3b90a5/asia-night-lights-kmls-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-11T00:01:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Chinese, N. Korean Threat Groups Build on Asia-Pacific Success North Korea's gross domestic product (GDP) has grown, in part because of the cybercrime gains of groups linked to the nation, which target business and financial firms.",
+    "title": "Chinese, N. Korean Threat Groups Build on Asia-Pacific Success"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/chinese-police-chatgpt-smear-japan-pm-takaichi": {
     "categories": [],
@@ -33520,6 +33724,15 @@
     "summary": "'BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues Under the alias 'Chaotic Eclipse,' a researcher released a PoC exploit for a zero-day flaw that allows for system takeover by a local user, citing an undisclosed beef with Microsoft.",
     "title": "'BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues"
   },
+  "https://www.darkreading.com/vulnerabilities-threats/bug-bounty-research-triggers-servicenow-security-alert": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt290942caaad1a625/6a29bb178ad5d7051c4e33ad/ServiceNow_Office-JHVEPhoto-Getty-2198127643.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-10T20:07:53+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Bug Bounty Research Triggers ServiceNow Security Alert Bug bounty research inadvertently led organizations to believe they were being breached through their ServiceNow instances.",
+    "title": "Bug Bounty Research Triggers ServiceNow Security Alert"
+  },
   "https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbca6faddbee78c86/6a073d95eb9f4a233d786122/Lee_Jay-myung_Xinhua_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -33853,6 +34066,15 @@
     "source": "darkreading",
     "summary": "New Security Tools Target Growing macOS Threats A public dataset and platform-agnostic analysis tool aim to help organizations in the fight against Apple-targeted malware, which researchers say has lacked proper attention.",
     "title": "New Security Tools Target Growing macOS Threats"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-microsoft-exploit-rogueplanet": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd9f04666615ec204/6a2945035f1b736c589d3726/zeroday_Profit_Image_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-10T16:31:02+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Nightmare-Eclipse Drops Yet Another Microsoft Exploit, RoguePlanet The disgruntled researcher released yet another PoC for a Windows Defender bug that allows for system takeover, showing no signs of abandoning their ongoing feud with Microsoft.",
+    "title": "Nightmare-Eclipse Drops Yet Another Microsoft Exploit, RoguePlanet"
   },
   "https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities": {
     "categories": [],
