@@ -9563,6 +9563,15 @@
     "summary": "Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It Over the past several weeks, the cybersecurity community has been reminded how quickly frontier and agentic AI in defense networks can challenge our assumptions. When Anthropic's Claude Mythos \u2026",
     "title": "Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It"
   },
+  "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-B-d2AZdbTGExalcZiBwa9fNa999-EQ1GrAeytHP6tpnC3WmKL4IcKV5voUs-MRq5WGVwwf2NFPyJxdJUPlgzBL8huaGFqRbXgR_qPOSh-5Ef2oZz8E2H38ZMjVipV7XyXpefY2PgDlWomgJ4RW6YJ4Z3tYMGRQh2z8xwpvOa9_LQWHT706ZCvKpaBxP/s1600/Agentjacking.jpg",
+    "published": "2026-06-12T12:04:33+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines.\n\nCalled Agentjackin\u2026",
+    "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code"
+  },
   "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyg1vRQART17ZjJXANnrQ8Vtn7h_tM5IihGJ4LnxbGTDFL1QSvR_lEDmVm7bsO84br04_oM-RM9ZgX-6b5yVQnEOTwKgk3KzImrhPBrI91GIYmQ-n09hq3vjF3tPVnNqVhHbV22BIxXg9zhGg4b2s4kATPjtnqGWldHRw29GexKQbEcX6HxG46vPfvo26l/s1600/chrome-update.jpg",
@@ -9643,6 +9652,15 @@
     "source": "The Hacker News",
     "summary": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent.\n\nAccording to Seqrite\u2026",
     "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan"
+  },
+  "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxJqmKAQv_I_7JkmQwoIVSx2BkRPUEb9TTNOd2RkNqTg3tcLyZszN8KiXfUUeIBSPSoxjzMAn2inE6TL791l5B_CbQaHqG708c2tgN-kSUmz_fTuewdcrWHS8u-xdWKIr6fEhx2W7_JDszsJ1oXO9v47JxU81490QKz0ZRL2OOFoljevoD8f6OMozfMZU/s1600/linux-backdoor.jpg",
+    "published": "2026-06-12T18:17:55+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself.\n\nSygnia, which tracks the group as \u2026",
+    "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade"
   },
   "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html": {
     "categories": [],
@@ -9850,6 +9868,15 @@
     "source": "The Hacker News",
     "summary": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that has com\u2026",
     "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited"
+  },
+  "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2VG_lHXgOeahfKoUs6hQ7fOmh-dK1ZGloqzAWilTU73LKJF5mBDqw4OSpU8ViE0NEI1iW4cNS5vyz4TpqoJ_aGjHYt4-qJXfmZP2a3mi8GILe4OeP7qSFKeqDWrbHyoMmf49EtaDTylhnpLvem5LCwqX2e8MRSR5rQC5cNv9qH-H_ySeUT5uYHWRLGa5P/s1600/gemini-phishing.jpg",
+    "published": "2026-06-12T18:59:32+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans\u2026",
+    "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing"
   },
   "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html": {
     "categories": [],
@@ -10094,6 +10121,15 @@
     "summary": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) Catalog, base\u2026",
     "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation"
   },
+  "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoaB3XILLCN-oMr8vicgye6mcqKGYsgqgxPAGunmwASyrP3c7XgAxJTV8tsVPuRSmJ8ia7SZdS8hyphenhyphenb6moPI2QiwkdKoI2E_zchlBfqx1KnfFpb3yKHQQY6qCWyKmkSK_12texqsHTxtYnv8kMMpzJ-SEFxR7Ougz0axLPVr5zDAWQiZY8pEtUUL8L4hmri/s1600/arch-hack.jpg",
+    "published": "2026-06-12T19:33:25+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them.\n\nThe malware is \u2026",
+    "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit"
+  },
   "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiilTEadDjLrLdKByKVP6n_zfNSbhTTutHu-9BbbIDTBotobmqmIOI7fDdGGHZQQB7wTo00L66NAKZBA3iRBLQpSf_NgH9hKe9Xd-WUoijt7y-CUbdZore_qSZpTmuBhExaAxeXn39EPCVPYugMnJ85c15e161ttOMRmbSAv7NcbUlYrqDV4NnbzHZvw0A5/s1600/paki.gif",
@@ -10120,6 +10156,15 @@
     "source": "The Hacker News",
     "summary": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models University of Toronto researchers have built and tested a proof-of-concept AI-driven computer worm that uses a locally hosted open-weight large language model to reason its way through \u2026",
     "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models"
+  },
+  "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2WauAS1qxBj0Oziu-jmgn34YGvKsu9xISK-gtccFv-0WkcX6EC6e-ge9UF2PCZINf9RW5cN40GWijtbnZOvADSJKZ4ErYKX_Iqoo9AO9nk3E0548I07_5PNz6vWA13UMKwU1jGjXCQJLBFyXj_RPEgiVvCuEZZyijeNBxgaiIB1itadpRaDzzoyR_DcA/s1600/mdr.jpg",
+    "published": "2026-06-12T11:00:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Rethinking MDR as Attackers and Defenders Embrace AI For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed someone else to handle the alert queue. MDR\u2026",
+    "title": "Rethinking MDR as Attackers and Defenders Embrace AI"
   },
   "https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html": {
     "categories": [],
@@ -10228,6 +10273,15 @@
     "source": "The Hacker News",
     "summary": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker.\n\nLike in the case of CVE-2026-33829, which impacted the W\u2026",
     "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes"
+  },
+  "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitE4uRkPKzQw_uUTSEzPgbuTByOaSNQeEHcANQCdYOtD8HJxqjIy9e0TIkkYeMN5QQghbvb1Nc4RJdwpGUD4ttQ8FqBpDAIMBe5Biw4zXIF-iYgl-vZPCGL1b5VNZpajQ8_cCPj7jx0DFABYuXLpyHYUSOe3jBKPsSej0y7TxrIHZwG_4m56TrDdTS9Ap1/s1600/Anthropic-claude.jpg",
+    "published": "2026-06-13T05:42:50+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend\u2026",
+    "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals"
   },
   "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html": {
     "categories": [],
@@ -12112,6 +12166,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft fixes Windows Task Manager bug affecting performance Microsoft has resolved a known issue preventing users from quitting the Windows 11 Task Manager after installing the optional Windows 11 KB5067036 update. [...]",
     "title": "Microsoft fixes Windows Task Manager bug affecting performance"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-06-12T11:44:58+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft fixes Windows update failures linked to WUSA installer Microsoft has fixed a known issue that caused Windows updates released since May 2025 to fail when installed via the Windows Update Standalone Installer (WUSA) from a network share. [...]",
+    "title": "Microsoft fixes Windows update failures linked to WUSA installer"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/": {
     "categories": [
@@ -17447,6 +17512,17 @@
     "summary": "Dutch police seizes 250 servers used by \u201cbulletproof hosting\u201d service The police in the Netherlands have seized around 250 physical servers powering a bulletproof hosting service in the country used exclusively by cybercriminals for providing complete anonymity. [...]",
     "title": "Dutch police seizes 250 servers used by \u201cbulletproof hosting\u201d service"
   },
+  "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-12T14:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain risk. [...]",
+    "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web"
+  },
   "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/": {
     "categories": [
       "Security"
@@ -21200,6 +21276,17 @@
     "summary": "Maine breach portal abused to publish fake data breach disclosures In an unusual misinformation campaign, fraudulent data breach disclosures were submitted to Maine's official breach portal and publicly posted before their legitimacy could be verified, prompting companies to deny\u2026",
     "title": "Maine breach portal abused to publish fake data breach disclosures"
   },
+  "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-12T19:33:32+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Maine disables data breach notification portal after fake disclosures Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]",
+    "title": "Maine disables data breach notification portal after fake disclosures"
+  },
   "https://www.bleepingcomputer.com/news/security/maintaining-enterprise-it-hygiene-using-wazuh-siem-xdr/": {
     "categories": [
       "Security"
@@ -23705,6 +23792,17 @@
     "summary": "Over 25,000 FortiCloud SSO devices exposed to remote attacks Internet security watchdog Shadowserver has found over 25,000 Fortinet devices exposed online with FortiCloud SSO enabled, amid ongoing attacks targeting a critical authentication bypass vulnerability. [...]",
     "title": "Over 25,000 FortiCloud SSO devices exposed to remote attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-12T17:03:55+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Over 400 Arch Linux packages compromised to push rootkit, infostealer More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
+    "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer"
+  },
   "https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/": {
     "categories": [
       "Security"
@@ -23968,6 +24066,17 @@
     "source": "BleepingComputer",
     "summary": "Phobos ransomware admin pleads guilty to wire fraud conspiracy A Russian national pleaded guilty to a wire fraud conspiracy charge related to his role in administering the Phobos ransomware operation, which breached hundreds of victims worldwide. [...]",
     "title": "Phobos ransomware admin pleads guilty to wire fraud conspiracy"
+  },
+  "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-12T18:19:34+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "phpBB forum fixes auth bypass bug lurking for a decade A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
+    "title": "phpBB forum fixes auth bypass bug lurking for a decade"
   },
   "https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/": {
     "categories": [
@@ -26495,6 +26604,17 @@
     "source": "BleepingComputer",
     "summary": "Ukrainian man pleads guilty to running AI-powered fake ID site A Ukrainian man has pleaded guilty to operating OnlyFake, an AI-powered website that generated and sold more than 10,000 photos of fake identification documents to customers worldwide. [...]",
     "title": "Ukrainian man pleads guilty to running AI-powered fake ID site"
+  },
+  "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-12T17:54:28+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Ukrainian national pleads guilty to role in Conti ransomware operation A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]",
+    "title": "Ukrainian national pleads guilty to role in Conti ransomware operation"
   },
   "https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/": {
     "categories": [
@@ -34008,6 +34128,15 @@
     "summary": "'CitrixBleed 2' Wreaks Havoc as Zero-Day Bug The same APT hammered critical bugs in Citrix NetScaler (CVE-2025-5777) and the Cisco Identity Service Engine (CVE-2025-20337) in a sign of growing adversary interest in identity and access management systems.",
     "title": "'CitrixBleed 2' Wreaks Havoc as Zero-Day Bug"
   },
+  "https://www.darkreading.com/vulnerabilities-threats/claude-fable-5-doesnt-change-mythos-security-story": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte968bc333f7d9aab/6a2b0449b2248a454686bdf2/Tortoise_and_Hare-Walter_B._McKenzie-Getty-200291947-001.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-12T13:01:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Claude Fable 5 Doesn't Change the Mythos Security Story Stay cool: Mythos 5 is an upgrade over Mythos Preview while Fable 5 is Mythos &quot;made safe for general use,&quot; Anthropic explained.",
+    "title": "Claude Fable 5 Doesn't Change the Mythos Security Story"
+  },
   "https://www.darkreading.com/vulnerabilities-threats/claudy-day-trio-flaws-claude-users-data-theft": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10cc6694988697dc/69ba96a3a9cab62c8e5b1dba/claude_RalfLiebhold_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -34395,6 +34524,15 @@
     "source": "darkreading",
     "summary": "'Semantic Chaining' Jailbreak Dupes Gemini Nano Banana, Grok 4 If an attacker splits a malicious prompt into discrete chunks, some large language models (LLMs) will get lost in the details and miss the true intent.",
     "title": "'Semantic Chaining' Jailbreak Dupes Gemini Nano Banana, Grok 4"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt31e3255d2f669774/6a2c5022812b3c9f6a8ed16c/Oracle-mtcurado-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-12T20:26:32+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed A major bug in Oracle's ERP software disproportionately affected American universities, and hackers have capitalized by stealing gobs of data.",
+    "title": "ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed"
   },
   "https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps": {
     "categories": [],
