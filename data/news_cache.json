@@ -9752,6 +9752,15 @@
     "summary": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key exchange protocol.\n\n\u2026",
     "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups"
   },
+  "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7NRzSRKbGdsTj1TIWcks4nX5u6n1U2vl5hxJ8KKFZ-JCAKlMQPXQNHA1i0otd63wcKJoZbeEc3oVa9o4uYNTRkRyZaJsJVGV7JUmlqjY5mQkrOXFQJXmUT1kOIZPU6CRdlwx6X7lyi7Iffz7gUIC-nYc2N1dzmiuo2hyphenhyphenPURZ3nKdQcsbLACKidjOeTbRh/s1600/splunk.jpg",
+    "published": "2026-06-13T13:23:03+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution.\n\nThe vul\u2026",
+    "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication"
+  },
   "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR5AZVDVlhPdPOYO4FsyfLsBmtohzgdjmh688BLU6VRpwi-MaKq4XYgE5-ygnQtcUDMKcR8R4-f9IrfiSFpCodN01gveAWlDpu4Jg4AI9DMKQG50zMr5M1QhqjVAjyuYJQ-vF849bn3jkkDJuBRahpyUwAz8libDqBIwh08wgQNsfmchLwqRUqiYKRDkMT/s1600/wordpress-2.jpg",
@@ -15298,6 +15307,17 @@
     "summary": "Chinese hackers exploiting Dell zero-day flaw since mid-2024 A suspected Chinese state-backed hacking group has been quietly exploiting a critical Dell security flaw in zero-day attacks that started in mid-2024. [...]",
     "title": "Chinese hackers exploiting Dell zero-day flaw since mid-2024"
   },
+  "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-13T14:06:42+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Chinese hackers hijack auth flow, spy on isolated network for a decade Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the administrative activity. [...]",
+    "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade"
+  },
   "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/": {
     "categories": [
       "Security"
@@ -17861,6 +17881,17 @@
     "source": "BleepingComputer",
     "summary": "Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker The former head of Trenchant, a specialized U.S. defense contractor unit, was sentenced Tuesday to more than seven years in federal prison for stealing and selling zero-day exploits to a Russian broker whose \u2026",
     "title": "Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker"
+  },
+  "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-13T20:53:13+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Ex-school district employee jailed for hacks on former employer A former \u00a0IT employee at an Iowa school district was sentenced to 21 months in prison after conducting a prolonged cyberattack against the former employer that disrupted classroom operations, deleted accounts, and ca\u2026",
+    "title": "Ex-school district employee jailed for hacks on former employer"
   },
   "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/": {
     "categories": [
@@ -26881,6 +26912,17 @@
     "source": "BleepingComputer",
     "summary": "US disrupts SocksEscort proxy network powered by Linux malware Law enforcement agencies in the U.S. and Europe along with private partners have disrupted the SocksEscort cybercrime proxy network that used only edge devices compromised via the AVRecon malware for Linux. [...]",
     "title": "US disrupts SocksEscort proxy network powered by Linux malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-13T10:01:32+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos The US government has ordered Anthropic to block all foreign nationals from accessing Fable 5 and Mythos 5, forcing the company to suspend both models worldwide. Anthropic is complying but disputes the basis,\u2026",
+    "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos"
   },
   "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/": {
     "categories": [
