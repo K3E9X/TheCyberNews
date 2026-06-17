@@ -9554,6 +9554,15 @@
     "summary": "Your Purple Team Isn't Purple \u2014 It's Just Red and Blue in the Same Room Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a c\u2026",
     "title": "Your Purple Team Isn't Purple \u2014 It's Just Red and Blue in the Same Room"
   },
+  "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKLWn0zHFuJ8rkb2bqILIyAGxt_-VJ13Ytmv1TRWtGJkI6Rva5Oag5LdLasE2rmenokuRvoEI2wH0Ayfe_P4_5q1Qc5FQ2MrQgUHrgD9wY6DTlYugAtj8CP7Fh0OPjKkU5LbeRKWvPEh0Ol0CmLTe4QVayeZiNlVFvU7MO5tWl-b8Lbn80hKd45q9Z1yOd/s1600/npms.jpg",
+    "published": "2026-06-17T07:38:24+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "144 Mastra npm Packages Compromised via Hijacked Contributor Account As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been comprom\u2026",
+    "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account"
+  },
   "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXEEp49DrIDRyHxMpdUoO-A9TL3T6P-7mUwImILVRSRl940D39uZbouVIhM1j8ZVEpxfTskTrLB5qrDDQ07yp7TFGTXSBhQqlwNLyN49sCW38MZds5YQP_c1lhrkl0aizSaU0ZpBpf9NS3WGD9k5BZhh52ZDuyrtxSwUrXgkjRnWMAgLq3FT6dLG0sCAfh/s1600/chrome-traffic.jpg",
@@ -9761,6 +9770,15 @@
     "summary": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw impacting LiteSpeed cPanel Plugin to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civ\u2026",
     "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation"
   },
+  "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisS71RYEu_1Sts3eqAt878RoohdLgeUzyTbRQgFqUYQcwBxzKB1ug6AvOBRXqZvWcChuLVj6KFbIt7nO9RX66ZJZyMEIADvIXe-fdNDrQIYXGtcMt3StDzbK4lF9ZLpF9pqCR1cGEa4lLkFFRVqIyD5w0JqwhVgr-C9ga7pZ6IQWpFmbsojcsGePBnzsGW/s1600/joomla.jpg",
+    "published": "2026-06-17T05:50:46+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilit\u2026",
+    "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution"
+  },
   "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYckKvOFV_Xz1o-nUKCcjlMQmOxdFC6FMzIjMnE4GSPPJ9kQxDLqOmK9WhofViemB5grKkMJDV_KPnQAuLci5RtV3sCOei2Fzk31qOdIk3Jeroj_6NVxoa0VX0Bw5nwwzffBp4o3hoDysRntjOxTR7akhfDV_1ZIpmcQKFMsxdvb00KYypSv7daJTqYHXb/s1600/cisco-exploit.jpg",
@@ -9796,6 +9814,15 @@
     "source": "The Hacker News",
     "summary": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories A security researcher found a flaw in Anthropic's Claude Code GitHub Action that let an attacker take over vulnerable public repositories running it, with nothing more than a single opened GitHub issue. Be\u2026",
     "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories"
+  },
+  "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilHq1gG2gCazQF6_B9H-W3ck6nmgu3L4IPuzaMg9RMEAbpHyVqfYmFOquQ9_ldT1kG2r1kYUqt-WlpWWvD3DA4vNH6S-lv6fbsDbSCkB55NP3TtRJA4l5lLCMzosdM1OJiDOatfx4zG284ftwuE9ahYlGfcIpnAy1PkVSfWloFY0zD9Cbh3CkHhNQHgqwF/s1600/clickfix-attacks.jpg",
+    "published": "2026-06-16T17:41:28+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and Potemkin, per independent reports from Morphisec\u2026",
+    "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures"
   },
   "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html": {
     "categories": [],
@@ -9950,6 +9977,15 @@
     "summary": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans\u2026",
     "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing"
   },
+  "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpiAGZTnvo43enaVYkna4ZSp217mwwW5kW8kZOhaSiLAxicjvHQY-3d8rdLN47bsRvxUIj6R0h_Ttr8NcIJrgz6k_mbcx94KLuPD29KdhFcYQsrV8htgg_iDYMV9aXbr21kv6BdYTzLNOOqQLpsCfpDC4XxDPnu77uVQ3oCYbIUfIpUKdmqx-rZZWj6P0/s1600/Google-Vertex-AI.jpg",
+    "published": "2026-06-16T19:05:41+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infras\u2026",
+    "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting"
+  },
   "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgKOwHRwFSrcOI7vBYVGbebtc3DwR3w7SYc9l7FUXp1yXc_N2MbNNlEXtfRjVneU4wz2YB8PqC_k54o_6ZpB2oKZKhVBlK7IC-CGU05B5GgE7qS26MBxKIWLZTC2rNhVf2vufJcwh7RK4zuH-twWCcd_eZtNm25Pmn-pQyOXcB7N_C9918yOP7C1K4KrNz/s1600/wordpress.jpg",
@@ -10030,6 +10066,15 @@
     "source": "The Hacker News",
     "summary": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed\n\nLiteLLM is a wide\u2026",
     "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers"
+  },
+  "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2aRb82ydrk_lAXr6Yy-GmrPfQSaIuCNYTtB8dFm02DZWhJVj3bmjB3WLhWDUtiFmrGC3lHdeLfA2NtC6oHKJDAdW7ot4f3HQDyLw2Ep3q49BnOkuBWOPP2OuN1I1HNFknxPyQNpEZEnEt-8KhV2nx_HcaEiBm8Rdh7blevc3I1GjuBMLL1xOpJThFuJpE/s1600/hi.jpg",
+    "published": "2026-06-17T09:38:46+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial in\u2026",
+    "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats"
   },
   "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html": {
     "categories": [],
@@ -10138,6 +10183,15 @@
     "source": "The Hacker News",
     "summary": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora.\n\nThe\u2026",
     "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare"
+  },
+  "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF_U2JZgjmQGUfV3q90DEMUgqHK2kqloGQR5lBYn_8UUC2DUIFpJPpCnETlOUh1IldJXcWdr9YZ5hA3yUtZETvviRousyQt7En5mNSjwoJiD_gJ9_kjS7L8ujw_y6CN3NeygZWa-sXCEG1zo5PBmuB5CkSP-EYxBWsUEtUq4iYJ3AYXHVM_TscyngMwPU/s1600/android-banking-trojan.jpg",
+    "published": "2026-06-16T13:10:17+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds Security researchers at&nbsp;Zimperium's zLabs&nbsp;have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands.\n\nTogether, th\u2026",
+    "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds"
   },
   "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html": {
     "categories": [],
@@ -10372,6 +10426,15 @@
     "source": "The Hacker News",
     "summary": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools Three years ago, the practical question for an MSP building a cybersecurity practice was which \"vCISO platform\" to buy. The term was good shorthand for the work at the time: assessments, advisory, reporting, may\u2026",
     "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools"
+  },
+  "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM2DfFAWIuQ6v6hyh32CXcT_wKU72aTUxixyWIcnjW04ydv40r8RtVXjDrxKJzksW6zzqYciPMxgYAwcDGRz8kahhZVZXoi0FySWg5o8LpWo_KkHdX4wRX4Qgk6ONxHqyb7_cF5TN5qQp-9B4hOQpB3WljI8sDbHMlOh6n2jyTjV30kxC-ccJVJHu4bTs/s1600/INTRUDER.jpg",
+    "published": "2026-06-17T10:30:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "The Top 10 Attack Surface Exposures in 2026 Breaches don't always start with a zero-day. An exposed admin panel can get brute-forced, or credentials reused from a previous attack. But when a vulnerability does drop \u2014 like MongoBleed earlier this year, which let attackers pull cre\u2026",
+    "title": "The Top 10 Attack Surface Exposures in 2026"
   },
   "https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html": {
     "categories": [],
@@ -13594,6 +13657,18 @@
     "summary": "Microsoft: Windows updates make password login option invisible Microsoft warned users that Windows 11 updates released since August may cause the password sign-in option to disappear from the lock screen options, even though the button remains functional. [...]",
     "title": "Microsoft: Windows updates make password login option invisible"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-17T08:32:29+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft working on Defender patch for RoguePlanet zero-day Microsoft confirmed that it's working on a security patch for a Defender zero-day vulnerability named \"RoguePlanet,\" disclosed one week ago. [...]",
+    "title": "Microsoft working on Defender patch for RoguePlanet zero-day"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/": {
     "categories": [
       "Microsoft",
@@ -15869,6 +15944,17 @@
     "source": "BleepingComputer",
     "summary": "CISA orders feds to patch max-severity Cisco flaw by Sunday The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity vulnerability, CVE-2026-20131, in Cisco Secure Firewall Management Center (FMC) by Sunday,\u00a0March 22. [.\u2026",
     "title": "CISA orders feds to patch max-severity Cisco flaw by Sunday"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-17T10:09:24+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA orders feds to patch max severity Joomla plugin flaw by Friday The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity flaw in the Widget Factory Joomla Content Editor (JCE) plugin that is being actively explo\u2026",
+    "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/": {
     "categories": [
@@ -19122,6 +19208,17 @@
     "summary": "FTC to ban data broker Kochava from selling Americans\u2019 location data The FTC will ban data\u00a0broker Kochava and its subsidiary, Collective Data Solutions (CDS), from selling location data without consumers' explicit consent to settle charges alleging that it sold\u00a0precise geolocatio\u2026",
     "title": "FTC to ban data broker Kochava from selling Americans\u2019 location data"
   },
+  "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-16T13:42:19+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "FTC warns of record $3.5 billion losses to imposter scams in 2025 The U.S. Federal Trade Commission (FTC) warned that Americans lost $3.5 billion to imposter scams in 2025, with reported losses nearly tripling since 2020. [...]",
+    "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025"
+  },
   "https://www.bleepingcomputer.com/news/security/fugitive-behind-73m-pig-butchering-scheme-gets-20-years-in-prison/": {
     "categories": [
       "Security"
@@ -19211,6 +19308,17 @@
     "source": "BleepingComputer",
     "summary": "GhostPoster attacks hide malicious JavaScript in Firefox addon logos A new campaign dubbed 'GhostPoster' is hiding JavaScript code in the image logo of malicious Firefox extensions counting more than\u00a050,000 downloads, to monitor browser activity and plant a backdoor. [...]",
     "title": "GhostPoster attacks hide malicious JavaScript in Firefox addon logos"
+  },
+  "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-16T14:17:27+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware GhostTree uses recursive NTFS junctions to generate vast numbers of valid Windows file paths. Varonis explains how the technique could cause Microsoft Defender folder scans to never complete, leaving malware unde\u2026",
+    "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware"
   },
   "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/": {
     "categories": [
@@ -21345,6 +21453,17 @@
     "summary": "KnowledgeDeliver flaw exploited as a zero-day to install web shells Hackers exploited a critical zero-day vulnerability in a server running the KnowledgeDeliver learning management system (LMS) to deploy the Godzilla web shell. [...]",
     "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells"
   },
+  "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-17T07:07:56+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Kodak confirms data breach claimed by ShinyHunters extortion gang Kodak has confirmed that it's working with external cybersecurity experts to investigate a security breach after hackers gained access to some of the company's data. [...]",
+    "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang"
+  },
   "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/": {
     "categories": [
       "Security"
@@ -21665,6 +21784,17 @@
     "source": "BleepingComputer",
     "summary": "Malicious GhostPoster browser extensions found with 840,000 installs Another set of 17 malicious extensions linked to the GhostPoster campaign has\u00a0been discovered in Chrome, Firefox, and Edge stores, where they accumulated a total of\u00a0840,000 installations. [...]",
     "title": "Malicious GhostPoster browser extensions found with 840,000 installs"
+  },
+  "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-16T21:54:50+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Malicious JetBrains Marketplace plugins steal AI API keys from developers At least 15 malicious plugins found on the JetBrains Marketplace were designed to steal AI API keys from developers. [...]",
+    "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers"
   },
   "https://www.bleepingcomputer.com/news/security/malicious-llms-empower-inexperienced-hackers-with-advanced-tools/": {
     "categories": [
@@ -23279,6 +23409,18 @@
     "source": "BleepingComputer",
     "summary": "New RoadK1ll WebSocket implant used to pivot on breached networks A newly identified malicious implant named RoadK1ll is enabling threat actors to quietly move from a compromised host to other systems on the network. [...]",
     "title": "New RoadK1ll WebSocket implant used to pivot on breached networks"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/": {
+    "categories": [
+      "Security",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-06-16T20:04:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New Rokarolla Android malware targets 217 banking, crypto apps A new Android banking trojan named Rokarolla is targeting 217 banking and cryptocurrency applications using an extensive set of 137 commands. [...]",
+    "title": "New Rokarolla Android malware targets 217 banking, crypto apps"
   },
   "https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/": {
     "categories": [
@@ -25969,6 +26111,17 @@
     "summary": "StealC hackers hacked as researchers hijack malware control panels A cross-site scripting (XSS) flaw in the web-based control panel used by operators of the StealC info-stealing malware allowed researchers to observe active sessions and gather intelligence on the attackers' hardw\u2026",
     "title": "StealC hackers hacked as researchers hijack malware control panels"
   },
+  "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-16T18:27:55+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Steam Workshop abused to spread malware via Wallpaper Engine app Threat actors are abusing Steam Workshop, Valve's community hub for downloading game-related content, to push various malware hidden in wallpaper packages. [...]",
+    "title": "Steam Workshop abused to spread malware via Wallpaper Engine app"
+  },
   "https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/": {
     "categories": [
       "Security",
@@ -26850,6 +27003,17 @@
     "source": "BleepingComputer",
     "summary": "UK sanctions Xinbi marketplace linked to Asian scam centers The United Kingdom's Foreign, Commonwealth and Development Office (FCDO) has sanctioned\u00a0Xinbi, a\u00a0Chinese-language cryptocurrency-based online marketplace that sells stolen data and\u00a0satellite internet equipment to scam ne\u2026",
     "title": "UK sanctions Xinbi marketplace linked to Asian scam centers"
+  },
+  "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-16T14:38:49+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "UK to require ID or face scan before you can make social media accounts Opening a new social media account in the UK will soon mean proving you're over 16 with an ID upload or a facial age scan, under a government ban on under-16s taking effect in spring 2027. Security experts wa\u2026",
+    "title": "UK to require ID or face scan before you can make social media accounts"
   },
   "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/": {
     "categories": [
@@ -30564,6 +30728,15 @@
     "summary": "TransUnion's Real Networks Deal Focuses on Robocall Blocking The acquisition allows the credit reporting agency to add SMS spam and scam prevention to its robocall blocking capabilities.",
     "title": "TransUnion's Real Networks Deal Focuses on Robocall Blocking"
   },
+  "https://www.darkreading.com/cyber-risk/uk-social-media-ban-privacy-experts-worried": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt383eb6c33af28ca3/6a31c223a9a64d0008e86652/social-media-ban-UK-Samuel_Boivin-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-17T08:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "UK Social Media Ban for Minors Has Privacy Experts Worried The UK will ban adolescents under 16 years old from user-to-user social-media platforms, despite age-verification issues and privacy concerns.",
+    "title": "UK Social Media Ban for Minors Has Privacy Experts Worried"
+  },
   "https://www.darkreading.com/cyber-risk/us-busts-myanmar-ring-targeting-us-citizens-financial-fraud": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt798fb98cb0e72278/69eba133172e119ab194fef8/SE_Asia-slegers_hans-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -31040,6 +31213,15 @@
     "summary": "Exposed Fuel Tank Gauges Under Attack in the US Threat actors are taking advantage of Internet-exposed tank gauges by breaching gas stations, opening the door to disruption.",
     "title": "Exposed Fuel Tank Gauges Under Attack in the US"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/fileless-phantom-stealer-targets-browser-credentials": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltadd77c0d4b04586d/6a31b475a17ff4000802a374/browser_Wirestock_Creators_shutterstpck.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-16T22:26:34+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Fileless Phantom Stealer Targets Browser Credentials In addition to executing entirely in memory, the malware's infection chain incorporates other anti-analysis techniques designed to frustrate detection.",
+    "title": "Fileless Phantom Stealer Targets Browser Credentials"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/foxconn-attack-manufacturing-cyber-crisis": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2bde2506b3de4da9/6a04dd5c239afae6399403b6/foxconn_ada_Images_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -31226,6 +31408,15 @@
     "source": "darkreading",
     "summary": "Lazarus Group Picks a New Poison: Medusa Ransomware The North Korean threat group also leveraged Comebacker backdoor, Blindingcan RAT, and info stealer Infohook in its recent attacks.",
     "title": "Lazarus Group Picks a New Poison: Medusa Ransomware"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/lorem-ipsum-malware-clickfix-delivery": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfe24b349ccd004b9/6a30716a4159275a05cb9773/loremipsum_M_rehan330_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-16T15:10:48+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "'Lorem Ipsum' Malware Pivots to ClickFix Delivery New analysis shows the campaign, which uses compromised WordPress sites, may be linked to the ransomware and data extortion group Vice Society.",
+    "title": "'Lorem Ipsum' Malware Pivots to ClickFix Delivery"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/malicious-nextjs-repos-developers-fake-job-interviews": {
     "categories": [],
@@ -32704,6 +32895,15 @@
     "source": "darkreading",
     "summary": "Swipe, Plug-in, Pwned: Researchers Find New Ways to Hack Vehicles Security researchers exploited dozens of vulnerabilities in vehicle infotainment systems and EV chargers during the latest Pwn2Own contest at Automotive World 2026.",
     "title": "Swipe, Plug-in, Pwned: Researchers Find New Ways to Hack Vehicles"
+  },
+  "https://www.darkreading.com/endpoint-security/rokarolla-android-trojan": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte944aecde0e52350/6a31316af04b690008856967/androidmalware_rafapress_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-16T17:32:32+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Rokarolla Android Trojan Levels Up to Full Device Control, Persistence The emerging malware, spread via fake TikTok and Chrome downloads, demonstrates an evolution by combining banking fraud with extensive device surveillance and remote control.",
+    "title": "Rokarolla Android Trojan Levels Up to Full Device Control, Persistence"
   },
   "https://www.darkreading.com/endpoint-security/russian-apt-attacking-critical-orgs-around-world": {
     "categories": [],
@@ -34207,6 +34407,15 @@
     "summary": "SideWinder Espionage Campaign Expands Across Southeast Asia The suspected India-linked threat group targets governments, telecom, and critical infrastructure using spear-phishing, old vulnerabilities, and rapidly rotating infrastructure to maintain persistent access.",
     "title": "SideWinder Espionage Campaign Expands Across Southeast Asia"
   },
+  "https://www.darkreading.com/threat-intelligence/sprysocks-windows-variant-kernel-drivers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfe5e902d31634190/6a317c8da9a64d0008e8660f/backdoor-BeeBright-Getty-823310866.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-16T20:11:48+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "SprySOCKS Windows Variant Abuses Kernel Drivers to Evade Detection FishMonger, a China-nexus threat group, has deployed an undocumented version of the Linux backdoor against government targets in Honduras, Taiwan, Thailand, and Pakistan.",
+    "title": "SprySOCKS Windows Variant Abuses Kernel Drivers to Evade Detection"
+  },
   "https://www.darkreading.com/threat-intelligence/starkiller-phishing-kit-mfa": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8211663e9a463914/69976fdf6245840008fd226f/Star_cannon-Photobyt-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -34930,6 +35139,15 @@
     "source": "darkreading",
     "summary": "Russian Attackers Weaponize WinRAR Flaw Against Ukrainian Orgs Two separate campaigns target CVE-2025-8088, fixed last July, to conduct data theft and cyberespionage against military and government targets in Ukraine.",
     "title": "Russian Attackers Weaponize WinRAR Flaw Against Ukrainian Orgs"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/security-community-slams-us-ban-on-exporting-mythos-fable": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9052366ce100fbde/6a319e7db95bcb00087d45a5/containers_and_fence-takenobu-getty-503860814.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-16T22:00:06+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Security Community Slams US Ban on Exporting Mythos, Fable An open letter signed by dozens of security experts asked the government to reverse export restrictions on Anthropic's Claude Fable 5 and Mythos 5 models.",
+    "title": "Security Community Slams US Ban on Exporting Mythos, Fable"
   },
   "https://www.darkreading.com/vulnerabilities-threats/security-leadership-makes-breaks-penetration-tests": {
     "categories": [],
