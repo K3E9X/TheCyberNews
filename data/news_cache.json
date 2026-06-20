@@ -9671,6 +9671,15 @@
     "summary": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week Bad actors are exploiting multiple security vulnerabilities in Fortinet FortiSandbox, according to threat intelligence firm Defused Cyber.\n\nIn a post shared on X, the company said it has observed exploitat\u2026",
     "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week"
   },
+  "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3wJOg5Y5vAn_dM0DcIB6SwV2B34iO0H-moeyuWLJ_DF1KgEEZMBGtKPDXYk0pL4wclWbnSmOB74sqReSZoGI2_SwUSzKSscUxEdvuJFx_sCIfU7UplU2k5s4UA0cOVAZT_s80PDTek6OGfrsnE8f6QxrQU58rBqPiuk_J__Yja3YNzZLzd-6s8Ji1PBhc/s1600/agent.jpg",
+    "published": "2026-06-19T15:30:47+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution Microsoft researchers have detailed an exploit chain, named&nbsp;AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution.\n\nSteer the agent to load an attacker's web page,\u2026",
+    "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution"
+  },
   "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTV6zPqD9KC3Rc5Mz9c8XENLiJntboDT6LIoD3L2FXlTUVC3rsWZ_3YLfe_jmhhyphenhyphenjb5RCwkTsdoyypD9VXxYgj_2GYaAupNMlOyZkycm94qr7XiarmBCpYQdZDN_Gwq6KrOmomzx1dmbz4hpUkw4OZparqEbydJneNKaWQI0fcP5tctpKxsZ7kFP5FCv0/s1600/redis-db.png",
@@ -9787,6 +9796,15 @@
     "source": "The Hacker News",
     "summary": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw impacting LiteSpeed cPanel Plugin to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civ\u2026",
     "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation"
+  },
+  "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0NmhjowFYAIQws_hl2u1bMpkeyma6TUk8UumS90AdqbBjW_NJ5h97i1yV9uJ_GT6zT8A9jaruiGkhqvn0jb4LuaHDDbGtjZbB7tQQibuQmH4WTDeAI898xZnyDuUQOAvzPHooO7C2S2PQFPIvkmwZ8LTLO4xLUP5ygQVuZI3E0quggcAEvtOqKzx4zKdw/s1600/cisa-fortinet.jpg",
+    "published": "2026-06-19T14:00:21+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday urged Fortinet customers with FortiGate appliances to take steps to secure against ongoing malicious activity aimed at thousands \u2026",
+    "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices"
   },
   "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html": {
     "categories": [],
@@ -9968,6 +9986,15 @@
     "summary": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads Cybersecurity researchers have shed light on a macOS malvertising campaign codenamed Operation FlutterBridge that spreads a new backdoor called FlutterShell.\n\nAccording to Palo Alto Networks Unit 42, the \u2026",
     "title": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads"
   },
+  "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6R48ZeaNtIzMVc6atNjuxbNYFUfiFCJ_cE1qE_85yGOOavsX0ijvQGdv9QZ2-4Lky8mTOPhrNIydUvLS2DtGkkFXYJFRTT99Vbb03s3Rtk9pTariHdQ2on2RGxiAsMQnySj7AJfxUtBxO1aJTupjkQvDvt5jp1klznY9_WHckqm64F-BbCtCR2UoJ968/s1600/tines-main.jpg",
+    "published": "2026-06-19T10:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data loss prevention r\u2026",
+    "title": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control"
+  },
   "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKr3KoscB_oGLqU5_JV16DIaB7jXY1ko8PiJDTuwrxbHcZV2DYJpfkx8lqwNbscwTSTVQUMwd8vBf-nI13mQE7vzzmUzwKF3BF6q7s5Lnq7kG7CovDsKaHYlvKpEXo2cvNk4mA27BdJSI6buZLqtVCKhYQ31GOaozmEHQecUa9Zdt-jwFJIZ0OCvlF27_p/s1600/smart-tv.jpg",
@@ -9976,6 +10003,15 @@
     "source": "The Hacker News",
     "summary": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI A researcher has reverse-engineered the iOS SDK that Bright Data embeds in consumer apps and documented how it turns devices, including always-on smart TVs, into exit nodes that relay web-scraping traffic fo\u2026",
     "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI"
+  },
+  "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaBfyINQL8sJZiLP4VnJgWMBOmH-8zY01vQ3E7OWZM9sdPvFQzOrFgaEpJOcRqODwrKDMXjt1HiKZmYYKF4pr22BBcbVBqx31coqBTKsgsf43CPEoW430X177toxpnfpVBTogjlrBMOrsLJgpERpCliEP4h5_2gyu3h2Dy_hJwiV6AI3nbKyp5NvNVgzQ/s1600/filigran-main.png",
+    "published": "2026-06-19T11:58:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management Introduction\n\nThe average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. But often, these tools are working in siloes, generatin\u2026",
+    "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management"
   },
   "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html": {
     "categories": [],
@@ -10346,6 +10382,15 @@
     "summary": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI.\n\nThe tool, nam\u2026",
     "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack"
   },
+  "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1-D7cu6ZQpoZXfPa_eYHuQijjkt6mJRjmoIS9eSnCGPPgyXNz-AChti_zkCGmlefTdBm5bvbyxXbrJVbpVJIneqvDmIMR8t7gXEyBn2JJFrZLW-hTbo_e8UHBFuh9tfki-QyVk2g5_XqbbSX52HYTNSpNzJng8lMfZiIHT3pMQBTjTeZwSqx2khJt2uAk/s1600/endgame.jpg",
+    "published": "2026-06-19T15:07:54+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites Dutch law enforcement authorities, along with counterparts from  Canada  , Germany, and the U.S., have disrupted malicious infrastructure associated with  SocGholish  and cleaned up nearly 15,000 infecte\u2026",
+    "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites"
+  },
   "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyTRAA7jrm-wO7d39ZhI2e75GnwqNE6t-CKpScXYfVikGGVRC4fYajbw5kn3aHqZc9rmbdjIqft5nwFLWAxCikfEMsfpt_h6dxGczVBeqAuujhbo01DpypfOJMqGqS0ohY7U1_L084pUvBxX8riiXrWssrwn76k7mMR-yR_3FMQV5fDjxIpRg-BPebCG_J/s1600/oracle.jpg",
@@ -10490,6 +10535,15 @@
     "summary": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive Security teams have never had more IP data at their disposal. Every day, analysts ingest enrichment feeds, geolocation data, reputation scores, telemetry, and threat intelligence from a growing e\u2026",
     "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive"
   },
+  "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjNWtaK_WkFnKnaLTIwg043i_I6YVi5XuZGVzh30SGeK-iutwr6t2Ed3S6Qk0V9uykYueDD5WETtQ4sW1QwG4jldPXW_IM2woF1Dk1PXcNxbwv6sgoprJ6m8pmogRc0vblucj3nf6Tox_ptxOX9bib6iO4bV4SXVVFoVzUGw0C8cSiJEvq3nDgUZ36G9xp/s1600/edr-killer.jpg",
+    "published": "2026-06-19T18:33:07+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing\u2026",
+    "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes"
+  },
   "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT390XWb8ahl36RgVGzdXiIpEJ43hxHfayY1i2C_rBLbVyu5A2Q-uOFptUFJL33Ehedvbx97RiUV2NivTy-FxxFCNiIKekiqeljYrI3kThk9Sko4wQlFniMDjIfNqgiP-BaN3JYFjAbo2EfP7EBuEDe_p00RtrAmdUl_lsbgzQgV-M7CM_u3Vi7AtqgbSS/s1600/ransomware.jpg",
@@ -10579,6 +10633,15 @@
     "source": "The Hacker News",
     "summary": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign Cybersecurity researchers have disclosed details of a financially motivated data theft extortion campaign that has targeted dozens of organizations across professional, legal, and financial service\u2026",
     "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign"
+  },
+  "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIM725Ni41-PBwM_6zXNdsydP1eZO7oSsWIlAqpwdOu9dOcZM6ZI1iaqwSsL3yZKT4lbFRM-eZVq3ARKDbLRnid1pJ0Us3XX135nD0tV71gb1lnADzig_vE9c6CAiJdlJ-Wco11InBKUyGX9V5nRFn9qZxuxeJKCzsCV4tQTfFIgU3F05Wnp2VfsxyTPs/s1600/apple-chip.jpg",
+    "published": "2026-06-19T18:37:41+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain Security researchers at&nbsp;Paradigm Shift&nbsp;have published a working exploit, dubbed&nbsp;usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips.\n\nThat \u2026",
+    "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain"
   },
   "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html": {
     "categories": [],
@@ -12095,6 +12158,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft confirms patching issues in restricted Windows networks Microsoft says customers in restricted network environments may encounter Windows Update failures after installing the January 2026 optional non-security preview updates. [...]",
     "title": "Microsoft confirms patching issues in restricted Windows networks"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-06-19T11:32:34+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: June 2026 Windows updates break Recycle Bin prompts Microsoft has confirmed a confusing Windows bug that causes different filenames to appear in the confirmation dialog when deleting a file from the Recycle Bin. [...]",
+    "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/": {
     "categories": [
@@ -18354,6 +18428,17 @@
     "summary": "Police busts credit card fraud rings with 4.3 million victims International authorities have dismantled three massive credit card fraud and money laundering networks, linked to losses exceeding \u20ac300 million ($344 million) and affecting over 4.3 million cardholders across 193 coun\u2026",
     "title": "Police busts credit card fraud rings with 4.3 million victims"
   },
+  "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-19T13:10:19+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security breaks down why AI agents are becoming a new identity an\u2026",
+    "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way"
+  },
   "https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/": {
     "categories": [
       "Security"
@@ -20609,6 +20694,17 @@
     "summary": "Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks Hackers are exploiting a new, undocumented vulnerability in the implementation of the cryptographic algorithm present in\u00a0Gladinet's CentreStack and Triofox products for secure remote file access and sharing. [\u2026",
     "title": "Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-19T20:25:02+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
+    "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/": {
     "categories": [
       "Security"
@@ -21704,6 +21800,17 @@
     "source": "BleepingComputer",
     "summary": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign. [...]",
     "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-19T22:31:04+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Klue OAuth breach victim list grows as Icarus hackers claim attack Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extor\u2026",
+    "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack"
   },
   "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/": {
     "categories": [
@@ -26698,6 +26805,17 @@
     "summary": "Texas court blocks Samsung from tracking TV viewing, then vacates order The State of Texas obtained a short-lived, temporary restraining order (TRO) against Samsung that prohibited\u00a0the South Korean company from collecting audio and visual data about what Texas consumers are watch\u2026",
     "title": "Texas court blocks Samsung from tracking TV viewing, then vacates order"
   },
+  "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-19T16:12:41+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Texas govt data breach exposes over 3 million driver\u2019s licenses The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
+    "title": "Texas govt data breach exposes over 3 million driver\u2019s licenses"
+  },
   "https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/": {
     "categories": [
       "Security"
@@ -28075,6 +28193,17 @@
     "source": "BleepingComputer",
     "summary": "Webinar: From phishing to fallout \u2014 Why MSPs must rethink both security and recovery Cyberattacks are evolving faster than many MSP and corporate defenses can keep up, with phishing driving much of today's cybercrime. Join our upcoming webinar to learn how to combine security and\u2026",
     "title": "Webinar: From phishing to fallout \u2014 Why MSPs must rethink both security and recovery"
+  },
+  "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-19T12:12:20+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Webinar: How attackers bypass MFA and how defenders can respond Modern phishing attacks, including Device Code phishing, can undermine MFA protections and grant attackers access to corporate accounts without stealing passwords. This webinar explores how behavioral AI can help sec\u2026",
+    "title": "Webinar: How attackers bypass MFA and how defenders can respond"
   },
   "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/": {
     "categories": [
