@@ -10076,6 +10076,15 @@
     "summary": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites Threat actors are actively exploiting a critical security flaw in Everest Forms Pro, a WordPress plugin with about 4,000 active installations, to execute arbitrary code, leading to a complete site\u2026",
     "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites"
   },
+  "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1kN23KhnFjdjHcR0i-iySK1Zv-kkApPs6yBq11670ubXx0NiAbgDMoYSfwQNyq9asso5AG9KcPRXEL4LU8-BmcsC0Q_1YIYDfY89hIFd_hSNJ2yZJRAO5l6JaQbpItuI8cpwIvNDBOqNfc-0d1DMv_DOh04J5_2EvpEcxCtoQUziipbjfNod-tzdH1__/s1600/1000082862.jpg",
+    "published": "2026-06-20T09:56:04+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites.\n\nThe vulnerability, tracked as CVE-2026-4020 (CVSS score: 5.3), i\u2026",
+    "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys"
+  },
   "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpg8pBdHkENT_CKClsSR7f4Rb7BQpM27ynGrkRdJg-bbUfI2NIHQ_rFmkOVHjK8RggTD-XMvVdGGI_qrYyIx-Ml1sfwbRkbjaNo8Fz40cWg8wFWK8h5-f-FaB58HryMM5AYlUHI2uO7x12VFvAB6N3w1gobWmzGgp8xXqHfWMERFh7hVS9lBHxfdu71Xs/s1600/stock-emails.jpg",
@@ -22645,6 +22654,17 @@
     "summary": "Microsoft: Hackers abusing AI at every stage of cyberattacks Microsoft says threat actors are increasingly using artificial intelligence in their operations to accelerate attacks, scale malicious activity, and lower technical barriers across all aspects of a cyberattack. [...]",
     "title": "Microsoft: Hackers abusing AI at every stage of cyberattacks"
   },
+  "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-20T14:09:19+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft links Mastra AI supply chain attack to North Korean hackers Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]",
+    "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers"
+  },
   "https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/": {
     "categories": [
       "Security",
@@ -23768,6 +23788,17 @@
     "source": "BleepingComputer",
     "summary": "New \u2018PolyShell\u2019 flaw allows unauthenticated RCE on Magento e-stores A newly disclosed vulnerability dubbed 'PolyShell' affects all Magento Open Source and Adobe Commerce stable version 2 installations, allowing unauthenticated code execution and account takeover. [...]",
     "title": "New \u2018PolyShell\u2019 flaw allows unauthenticated RCE on Magento e-stores"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-20T15:23:46+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New Prinz Eugen ransomware prioritizes recent files for encryption A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
+    "title": "New Prinz Eugen ransomware prioritizes recent files for encryption"
   },
   "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/": {
     "categories": [
@@ -33082,6 +33113,15 @@
     "source": "darkreading",
     "summary": "Stranger Things Meets Cybersecurity: Lessons from the Hive Mind Events and concepts from the Stranger Things television series illustrate how enterprises can defend their networks and stay &quot;right side up.&quot;",
     "title": "Stranger Things Meets Cybersecurity: Lessons from the Hive Mind"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/stressors-ai-changes-cybersecurity-teams": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt368fb61be2c4bf64/6a34273238f14f38f45b132a/sliced-pie-Pixel-Shot-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-19T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Stressors, AI Forcing Changes to Cybersecurity Teams As threats proliferate and AI complicates cybersecurity, CISOs say the job is getting harder, but more companies still want cybersecurity expertise, if even on a part-time basis.",
+    "title": "Stressors, AI Forcing Changes to Cybersecurity Teams"
   },
   "https://www.darkreading.com/cybersecurity-operations/stryker-outage-disaster-recovery-wake-up-call": {
     "categories": [],
