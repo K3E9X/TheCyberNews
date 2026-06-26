@@ -9797,6 +9797,15 @@
     "summary": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email.\n\nThe way in w\u2026",
     "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails"
   },
+  "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqtdBDQ0Y38i0JZmDwU6XKiZ1R6HJ0KHe59012E0krnPubG5pJgiTg6IUg4fHEzoW5jm7QyEk8fXOL9swj7FlpXdMcjyn0ltziMhQJD2pYPtzjXimsntV8DFg-c1erOgWkLl8du8eBvJYlukTCDDycp5jSmWNfwmv5WwGKlJRJvZt1GvUZZl24dP2HVDkn/s1600/adblocker.jpg",
+    "published": "2026-06-25T14:12:52+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code.\n\nAccording to Island, the extension, named Adblock for YouTube\u2026",
+    "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability"
+  },
   "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy9c53f3p1HHGx7jqu0BsfiQG9IExXm0FN2TErZuX0bEb-QuwP4-_1WCoEBEWu976cmqjbnjTJl04uxbLJIP3P0pzSXNqjLNOz_gbfLMilYwJswWq-lMAPWJ1FxaZB_jmcsJaBFO4E5oXd3cdhDPlnDc2TblqooNQ9Btxfak9W8cXEhyphenhyphenXzjEfSluORQ1Ty/s1600/chrome-zero-day.jpg",
@@ -10157,6 +10166,15 @@
     "summary": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to run ma\u2026",
     "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns"
   },
+  "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9SthtlfUvEkaX0iZanYdYTAOV5hgm44yCwHu_3GCaoa11rO-GkO9oc0_qN9JGw2n86dsEsN_sdaYt2ra_4I_dQ57ja0kiUeYtkg1eY8ZJtu45oKtN-TqWLdKudnJPFQQFGPReCfu1xcfHGgfqgtLe8zyFlEoMnO2AwnsEsosf9LCZS9gJHq58Q8OcPlWP/s1600/STOCKSTAY.jpg",
+    "published": "2026-06-26T07:15:46+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks The Russian state-sponsored threat actor known as Turla has been attributed to a previously undocumented .NET backdoor called STOCKSTAY that has been deployed against government and military organizat\u2026",
+    "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks"
+  },
   "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpQ6QXxFH4zkfeHGdcm1WXVcNXMpyJm-1dlZLbFCdp6rKDRhuwICzYaKaR-rCpn61qod6A1F98PZejZbmYuxaUXPJLXQffoaniCkqgyqR1-p7gClpj4PYibjzIDHk8_Vw4ag00EYPCM3Nz1G0Hvzuf6wBV-HzDFoSiYDEEdjPU45Bk_rIlGk9dJ_MMVuue/s1600/ad-malware.jpg",
@@ -10427,6 +10445,15 @@
     "summary": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues Microsoft on Monday confirmed that it temporarily removed some GitHub repositories in response to a recent security incident that led to 73 of its open-source projects being compromised to inject\u2026",
     "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues"
   },
+  "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWYWOSDRBtv65eOzqdHSuOxXN7BWyBo1EAltLLUTTKGt68GYJ67zn9ixdKIQjTPCgE3P1o09UzrwXzvbopRZIhjN0LxYAZR06WaXOd116NQutGo1zLaceeob3nkuIHCeP6ZhlVp1yVOfc7dt-YZKFhEJJiPF8H5P03bc1ny0E3mi7jbIhqh7wqodC_zKE/s1600/hotel-photo-zip.jpg",
+    "published": "2026-06-26T09:27:12+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig in\u2026",
+    "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant"
+  },
   "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6r68iB-MZv_eNGG3y0evEVbk7WXNkMzcKno1phHiSyOwfKd0G7bv8VCCrxQgmZOutmZdP1Nz-Xr1mxxUIx_rV8imT0-Ifk0e0FL525Z2v0C94GWgeo-wUpTk39rDdilNC_K20uqw0JipHlT7XmyTHn786UIAe_z3H2VXT1cYNAIEbKSwn2qYc_9MXzpbi/s1600/openclaw-hacks.jpg",
@@ -10444,6 +10471,15 @@
     "source": "The Hacker News",
     "summary": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks.\n\nThe feature is primarily designed \u2026",
     "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration"
+  },
+  "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbTrOy7FP80AfVcwyuiLtJx1T9YECQ6fxHaelQKUn3MNwSV9P3tiVq4_-pOB-gmU3lF9GpWnc5ebVSAbp0MZMZpHHZkdpTK_HX40hfg3KbusQS5bD0kRYjYVyRzffkUpWBsblvGULiZnnOj6e0NF-dg49It3Wn8p9WqD2TNEz0ruG1XrnqCckAXqsDAOTn/s1600/ai-full-disk.jpg",
+    "published": "2026-06-25T09:23:03+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools \u2026",
+    "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis"
   },
   "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html": {
     "categories": [],
@@ -10670,6 +10706,15 @@
     "summary": "Rethinking MDR as Attackers and Defenders Embrace AI For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed someone else to handle the alert queue. MDR\u2026",
     "title": "Rethinking MDR as Attackers and Defenders Embrace AI"
   },
+  "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBSVw_gpnELsdqj1fhZXQ6Jm-ycv8RsT1-Q7vfNeyj0_Sd-keBXqrAA9w7Vz8qt0tKM3yXkVPknx8FtRKBGBShrelNUIlZbkoUDdDz4MEeWbStRxJt5ggHFA2LFTv5Lc2g-1VC9L7-HGtWY_8VZMTInbZrXa0UY_oZsu2GUeFDH8VsHnUekF4m64OET3U/s1600/iphone-hack.jpg",
+    "published": "2026-06-26T08:49:35+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff Russian authorities used Cellebrite's UFED forensic tools to break into the iPhone of detained opposition activist Andrey Pivovarov in June 2021, three months after Cellebrite said it would stop selling \u2026",
+    "title": "Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff"
+  },
   "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI7q_DYP5ExkNSDd8Y10rOfYtTIs6sNXxdE6X55nsvKVllZZ14U9mqUY23nzGGPhXx515NVPMI5Btp4MM5qUx0V1lKDvURtKBICbblPPYuN1VSCN12-J0RmpBKCSM0veZc_9hNt1TnD9PdkNTQi8x337E9cPmLn7uyHOPw0_HshcbxKqVnmgOAjJHOOw6g/s1600/salesforce.jpg",
@@ -10751,6 +10796,15 @@
     "summary": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive Security teams have never had more IP data at their disposal. Every day, analysts ingest enrichment feeds, geolocation data, reputation scores, telemetry, and threat intelligence from a growing e\u2026",
     "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive"
   },
+  "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGC4Kd3HcSGw5TQ1GQNwgQST4imnVTlHZ4yW1dDr_kwUksDH1MHmlPUMzW8LhePZZTM1HszkIQwL8Ggm-cxlXRRMbUdcXbXfQ57FUfzbN4yj1OimJJxQy0XokmSC-lVr4XyFM5b3LqVQ8hMDIqr34xQXHpD0q8FnuR50Rdg19jXFC9xKKtn3Yap5BQhZg/s1600/corelight.jpg",
+    "published": "2026-06-25T11:17:31+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR Despite the abundance of telemetry at analysts\u2019 disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have? How do we know \u2026",
+    "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR"
+  },
   "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjNWtaK_WkFnKnaLTIwg043i_I6YVi5XuZGVzh30SGeK-iutwr6t2Ed3S6Qk0V9uykYueDD5WETtQ4sW1QwG4jldPXW_IM2woF1Dk1PXcNxbwv6sgoprJ6m8pmogRc0vblucj3nf6Tox_ptxOX9bib6iO4bV4SXVVFoVzUGw0C8cSiJEvq3nDgUZ36G9xp/s1600/edr-killer.jpg",
@@ -10831,6 +10885,15 @@
     "source": "The Hacker News",
     "summary": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories The internet did not break this week. It got used exactly as designed, which is worse.\n\nSearches were siphoned through shady browser add-ons. AI chat links turned into malware del\u2026",
     "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories"
+  },
+  "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO1f6pZmhVaPQd2FjrrAG-IbL0vMk7zHVZ6BqjzkzJS8qd7HlAtIJ-7chRUbqR7tZHPNqdZFbm0QL9O03mkW7YsOh0pVwW1_ogikaoxNX8dFd5-ZB4SwB7-tfpWmp9Hr22DJL6tzZgTdeFnCU4VwaZXSY_htGs2_xlaB8n0EOedrfe7wHuI30GXTF6Pofc/s1600/threatsday-june.jpg",
+    "published": "2026-06-25T12:24:43+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories It\u2019s dumb out there again.\n\nThis week has the usual smell of prod on fire and nobody wanting to admit who left the door open \u2014 old creds still working, trusted apps doing sketchy crap, br\u2026",
+    "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories"
   },
   "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html": {
     "categories": [],
@@ -11098,6 +11161,18 @@
     "source": "BleepingComputer",
     "summary": "Anthropic confirms Claude Mythos-class models will roll out to the public Anthropic has confirmed that it plans to bring Mythos-class models to the general public after delaying the rollout due to security risks to public and private software. [...]",
     "title": "Anthropic confirms Claude Mythos-class models will roll out to the public"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-06-25T22:53:32+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Anthropic is testing desktop-like Claude Cowork for mobile Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage\u00a0long-running Claude tasks from your phone. [...]",
+    "title": "Anthropic is testing desktop-like Claude Cowork for mobile"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/": {
     "categories": [
@@ -13271,6 +13346,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft pulls KB5079391 Windows update over install issues Microsoft has pulled a buggy Windows 11 non-security preview update to investigate a known issue that triggers 0x80073712 errors during installation. [...]",
     "title": "Microsoft pulls KB5079391 Windows update over install issues"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-25T18:29:20+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft quietly extends free Windows 10 ESU support to October 2027 Microsoft has quietly extended its free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devices to continue receiving security updates until October 12,\u2026",
+    "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/": {
     "categories": [
@@ -15715,6 +15802,17 @@
     "source": "BleepingComputer",
     "summary": "Black Basta boss makes it onto Interpol's 'Red Notice' list The identity of the\u00a0Black Basta ransomware gang leader has been confirmed by law enforcement in Ukraine and Germany, and the individual has been added to the wanted list of Europol and Interpol. [...]",
     "title": "Black Basta boss makes it onto Interpol's 'Red Notice' list"
+  },
+  "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-25T15:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Bluekit phishing kit adopts browser-in-the-middle for login theft The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week and by adding browser-in-the-middle capabilities for improved data theft. [...]",
+    "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft"
   },
   "https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/": {
     "categories": [
@@ -24067,6 +24165,17 @@
     "summary": "New macOS ClickFix attack silently mounts DMGs to push infostealer A new macOS ClickFix campaign is using Terminal commands to silently download, mount, and launch info-stealing malware from malicious disk image (DMG) files. [...]",
     "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer"
   },
+  "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-25T16:23:19+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New macOS malware embeds fake errors to confuse AI analysis tools A newly discovered\u00a0macOS malware dubbed \"Gaslight\" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]",
+    "title": "New macOS malware embeds fake errors to confuse AI analysis tools"
+  },
   "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/": {
     "categories": [
       "Security"
@@ -25029,6 +25138,18 @@
     "summary": "Oracle pushes emergency fix for critical Identity Manager RCE flaw Oracle has released an out-of-band security update to fix a critical unauthenticated remote code execution vulnerability in Identity Manager and Web Services Manager tracked as CVE-2026-21992. [...]",
     "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw"
   },
+  "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/": {
+    "categories": [
+      "Security",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-06-25T19:45:48+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Order-tracking app Shop abused to push callback phishing attacks Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access so\u2026",
+    "title": "Order-tracking app Shop abused to push callback phishing attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/": {
     "categories": [
       "Security",
@@ -25415,6 +25536,17 @@
     "summary": "Piecing Together the Puzzle: A Qilin Ransomware Investigation Huntress analysts reconstructed a Qilin ransomware attack from a single endpoint, using limited logs to reveal rogue ScreenConnect access, failed infostealer attempts, and the ransomware execution path. The investigati\u2026",
     "title": "Piecing Together the Puzzle: A Qilin Ransomware Investigation"
   },
+  "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-25T15:36:56+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "PirloTV sports piracy network disrupted as 44 domains seized A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains. [...]",
+    "title": "PirloTV sports piracy network disrupted as 44 domains seized"
+  },
   "https://www.bleepingcomputer.com/news/security/plushdaemon-hackers-hijack-software-updates-in-supply-chain-attacks/": {
     "categories": [
       "Security"
@@ -25446,6 +25578,18 @@
     "source": "BleepingComputer",
     "summary": "Poland arrests Ukrainians utilizing 'advanced' hacking equipment The police in Poland arrested three\u00a0Ukrainian nationals for allegedly attempting to damage IT systems in the country using hacking equipment and for obtaining\u00a0\"computer data of particular importance to national defe\u2026",
     "title": "Poland arrests Ukrainians utilizing 'advanced' hacking equipment"
+  },
+  "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-06-25T22:37:42+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Poland busts SIM-swapping gang tied to millions in crypto theft Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email accounts to carry out SIM-swapping attacks. [...]",
+    "title": "Poland busts SIM-swapping gang tied to millions in crypto theft"
   },
   "https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/": {
     "categories": [
@@ -27439,6 +27583,17 @@
     "summary": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public exploit even e\u2026",
     "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You"
   },
+  "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-25T14:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "The Four Elevations of Effective Fraud Prevention Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems. IPQS explains the four elevations of fraud prevention and why broader visibility improves fraud detection. [...]",
+    "title": "The Four Elevations of Effective Fraud Prevention"
+  },
   "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/": {
     "categories": [
       "Security"
@@ -28816,6 +28971,17 @@
     "source": "BleepingComputer",
     "summary": "Webinar: Too many tools are slowing network incident response IT teams often need to jump between monitoring dashboards, infrastructure tools, ticketing systems, and communication platforms during network incidents. This webinar explores how automation and AI-assisted workflows c\u2026",
     "title": "Webinar: Too many tools are slowing network incident response"
+  },
+  "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-25T12:12:20+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Webinar: Why account takeovers remain one of the hardest threats to stop Account takeover attacks continue to challenge security teams because attackers often operate through legitimate accounts and trusted services. This webinar explores how behavioral AI can help organizations \u2026",
+    "title": "Webinar: Why account takeovers remain one of the hardest threats to stop"
   },
   "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/": {
     "categories": [
@@ -32294,6 +32460,15 @@
     "summary": "DriveSurge Hijacks Thousands of Sites for ClickFix, FakeUpdate Attacks A sneaky, wide-scale IAB operation uses a malicious traffic distribution system (TDS) to redirect visitors of trusted websites to ones that deliver malware.",
     "title": "DriveSurge Hijacks Thousands of Sites for ClickFix, FakeUpdate Attacks"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/edtech-attackers-shift-schools-software-suppliers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf3f5c478af04e8e/64f15f8a4aa0fc4337f57a56/school_data_.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-25T20:34:14+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "EdTech Attackers Shift From Schools to Their Software Suppliers Educational institutions, the edtech companies they rely on, and, more concerningly, the challenges they pose for schools are the focus of the latest Reporters' Notebook video series.",
+    "title": "EdTech Attackers Shift From Schools to Their Software Suppliers"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/europe-increase-ransomware-extortion": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5bad5a96bf971dd6/690a6bbdde23c9a41f7926f4/europecyber1800_mauritius_images_GmbH_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -32533,6 +32708,15 @@
     "source": "darkreading",
     "summary": "Lazarus Group Picks a New Poison: Medusa Ransomware The North Korean threat group also leveraged Comebacker backdoor, Blindingcan RAT, and info stealer Infohook in its recent attacks.",
     "title": "Lazarus Group Picks a New Poison: Medusa Ransomware"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/less-than-24-hours-attackers-weaponize-cisco-cucm-flaw": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfdd5607b561f0591/6a3d9511d5c6b885ac175e9e/cisco_Sergiy_Palamarchuk_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-25T21:54:34+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "In Less Than 24 Hours, Attackers Weaponize Cisco CUCM Flaw The flaw enables server-side request forgery (SSRF) and escalates privileges to root, impacting Cisco Unified CM and Unified CM SME deployments.",
+    "title": "In Less Than 24 Hours, Attackers Weaponize Cisco CUCM Flaw"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/lorem-ipsum-malware-clickfix-delivery": {
     "categories": [],
@@ -35532,6 +35716,15 @@
     "summary": "Poland Energy Survives Attack on Wind, Solar Infrastructure Russia-aligned groups are probable culprits behind the wiper attacks against renewable energy farms, a manufacturer, and a heating and power plant.",
     "title": "Poland Energy Survives Attack on Wind, Solar Infrastructure"
   },
+  "https://www.darkreading.com/threat-intelligence/police-collusion-crackdown-asian-scam-centers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt721fdc64be81c12c/6a3c4c65fdbe062a481b8a46/scam-compound-T01c-SEZ-Amnesty_International.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-25T19:07:41+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Local Police Collusion Hampers Crackdown on Asian Scam Centers With tens of billions of dollars flowing into regional economies from cybercrime, scam centers continue to flourish, despite international and law-enforcement efforts.",
+    "title": "Local Police Collusion Hampers Crackdown on Asian Scam Centers"
+  },
   "https://www.darkreading.com/threat-intelligence/qualcomm-zero-day-exploited-targeted-android-attacks": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0b4a36393b1f0b11/69a734e6d3d3bb081d500dbb/Android_robot_Google_Kristoffer_Tripplaar_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -35567,6 +35760,15 @@
     "source": "darkreading",
     "summary": "Researchers Use Poetry to Jailbreak AI Models When prompts were presented in poetic rather than prose form, attack success rates increased from 8% to 43%, on average \u2014 a fivefold increase.",
     "title": "Researchers Use Poetry to Jailbreak AI Models"
+  },
+  "https://www.darkreading.com/threat-intelligence/russia-apt-gamaredon-arsenal-defense": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd750a2c59eb07ea7/6a3d78c6918bcf634cc30013/Russia_Ukraine-Gwengoat-Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-25T21:12:01+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Russian APT 'Gamaredon' Upgrades Its Arsenal, Requiring New Defenses The FSB state-sponsored operation has gotten a lot better at loading its malware and hiding its servers.",
+    "title": "Russian APT 'Gamaredon' Upgrades Its Arsenal, Requiring New Defenses"
   },
   "https://www.darkreading.com/threat-intelligence/russia-forest-blizzard-logins-soho-routers": {
     "categories": [],
