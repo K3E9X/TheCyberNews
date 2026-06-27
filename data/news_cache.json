@@ -9662,6 +9662,15 @@
     "summary": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered A coordinated law enforcement operation, in partnership with private sector companies, including Bitdefender, Bitsight, ESET, and Microsoft, has resulted in the takedown of criminal infrastructure power\u2026",
     "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered"
   },
+  "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig3gygt20RdznayWN2yru6wSgNt8CSdr16F8I-naxtPn837cr6v0uV0bXdhz36P1XYrpnjmzDXTAtH0wa43Me8rqD2hvET-xQP0ndoX-ddXsypZCjSSNJUqmfl69g96R6yMiUqgXE_NGAL8bl2z6lYutrgKiY74tNIafz_xRsNsJQSB9s_9lSHiybX2kQ/s1600/aws.jpg",
+    "published": "2026-06-26T13:53:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazo\u2026",
+    "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs"
+  },
   "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimTj2SdhVr1jj9e2RqrAOW9dIsBmuMZJsqWGt6weL0DOfhwYQF_6Hp5B-sYt6ZZEGQB_YPTOW6Xb2x5JygleEwCp8FQFmKDBIfQlCP1QVLGuVGPboCcbXy8LB0oUDSwA-3w6Vqc9QQFiRAaQKqQ2m2EdPopVIWcp7RHtdXbrd9ucWSfEG4D3h2bu1d9dN3/s1600/android-war.png",
@@ -9797,6 +9806,15 @@
     "summary": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email.\n\nThe way in w\u2026",
     "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails"
   },
+  "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHsYcZgd4WIkN0k-b4_j7JxBgi0R0dzj0jSwSWVgItyIy88VoZK5z8BAiwjmYnou7YLrNuckCgQvnHXV2KYHoNS8WRZbjU1MP5HqvLKkIakvRVuJio7oZeUbi1XsgQVmJ-cDKKWeOzgGouUAzUtJrFRu8CtPQJG-eXCy7aSOx_fyCvGK2tRl12tBbPG7YC/s1600/tinyrct.jpg",
+    "published": "2026-06-26T16:21:25+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Sout\u2026",
+    "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign"
+  },
   "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqtdBDQ0Y38i0JZmDwU6XKiZ1R6HJ0KHe59012E0krnPubG5pJgiTg6IUg4fHEzoW5jm7QyEk8fXOL9swj7FlpXdMcjyn0ltziMhQJD2pYPtzjXimsntV8DFg-c1erOgWkLl8du8eBvJYlukTCDDycp5jSmWNfwmv5WwGKlJRJvZt1GvUZZl24dP2HVDkn/s1600/adblocker.jpg",
@@ -9841,6 +9859,15 @@
     "source": "The Hacker News",
     "summary": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting Mirasvit Cache Warmer, a popular Magento full-page cache extension, to its Known Exploited Vulnerabilit\u2026",
     "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog"
+  },
+  "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGOpsiL9b-uwhocEgzazTFR251KJL6pnZAVCmzty7Nx0uR-vZ9r2-WP95IrRaKJtFoUxmBFbqrkt31Yn2MTmD0bZAaPFTlmDfHxRURuWSsRzeTWHmyZF93QR94AOrSkbLnBYEQtVGJxI5VlRinwq8cLnEVCmGWk6wCnL1zpW_LbbZ-3-yTSdAmZ-0tqO6/s1600/ptc.jpg",
+    "published": "2026-06-26T12:31:56+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Dat\u2026",
+    "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue"
   },
   "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html": {
     "categories": [],
@@ -10085,6 +10112,15 @@
     "summary": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS Cybersecurity researchers have flagged a large-scale operation that impersonates open-source and freeware projects to funnel unsuspecting users through a Traffic Distribution System (TDS) and de\u2026",
     "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS"
   },
+  "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjt2-y25_EiB31BmVQQpt9ne8mH9iPOJpYJmItVSIKGexUBmKRwzNSvDYzbVyRm9xxR6H0rE880CTv3QTblUdJgkRh2EoXqYGJ9wwOq-cOktE6iIvI0fZdeuxf8gTmdEpStuzq5CywuWYEjb32JqfwIznRc6YtDK_V5dFH1bcx2EoqvQ1Koieo4g7QDKA/s1600/signal-phishing.jpg",
+    "published": "2026-06-26T19:38:29+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys The FBI and CISA have updated&nbsp;their March warning&nbsp;about Russian intelligence phishing Signal accounts, and the operators have added a step: they now coax targets into handing over their Signal Bac\u2026",
+    "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys"
+  },
   "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMkj_adwzUUFP7yWyIFVKIKKQGDjqfvPuxKoR4mrrJ_SX3EACoJ3toLV3ZkYmePeA-nKWWfVC-90aOa5yjepuVYNy2lc820-onK23EJN4JU9G9e6QR471FTzPvByhyI7-bkGntT7hLxGXyTqSi7TpLMGqhfiKTQz01jN461HvEGxYY075LsqsB_tqEprcN/s1600/fifa-2026-scams.jpg",
@@ -10219,6 +10255,15 @@
     "source": "The Hacker News",
     "summary": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infras\u2026",
     "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting"
+  },
+  "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiySQAlgg9_uk-lgoIhvKGoXnx274-L4HUyTdvRdDTEabD2GvfR6LY81pn8p-Vo1mSdb_ycPyUyilvhlpWRYRlb9nulwVW1MCIkZABPd-KelEYK9NAqh_tefhmTmPeDkU9D7LQqW1Yfk0rAMbK1S9-q2CVCDgDk3uu5AQOT_hcnkYKRsD169PeWiwqTq4g/s1600/guardian-agents.jpg",
+    "published": "2026-06-26T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Guardian Agents: The Next Layer of Identity Governance AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to govern human access wasn'\u2026",
+    "title": "Guardian Agents: The Next Layer of Identity Governance"
   },
   "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html": {
     "categories": [],
@@ -10373,6 +10418,15 @@
     "summary": "Meta to Use Off-Site Business Data for Feed and AI Personalization Meta on Tuesday announced that it will use information shared by other businesses to personalize users' feed and responses from its artificial intelligence (AI) chatbot, expanding its scope beyond targeted ads.\n\n\"\u2026",
     "title": "Meta to Use Off-Site Business Data for Feed and AI Personalization"
   },
+  "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhatZ2Vkvxd086INLXiuhbRJrli5Ao9hoNajbVq-Xr0HVAS70cCzhRBfM78KEusnBPI1sXyAK5tYrKt55U5mTIXCQDAmBzY2e860qtXo4YAlvAnVWHDV3DddKUML1q1g71h97Ke1i-714gv5SaVW9lmaFNtRda5XP1kc20urtc-HzlX5JXwkQv0g_-1VwC3/s1600/Miasma.jpg",
+    "published": "2026-06-26T11:05:45+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, ev\u2026",
+    "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack"
+  },
   "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOyc2NTiIl0XKOTZBsFh1bTPqNpVXfDhASWkCsYz17d-nbiWVKlxCzoq3WthMD8kMomrRPPOYLM-XRmSdtXNKAxtk1QLtmZH47y2RExMGohBaBDPkpFp2PteUgaA16VcCs7tK-ImqCiLnpqyLg8Pwp6cWE5d9QT2_v0-QBduT7ovYrs7WSZ9t1MnQJ4EuO/s1600/redhat.png",
@@ -10472,6 +10526,15 @@
     "summary": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks.\n\nThe feature is primarily designed \u2026",
     "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration"
   },
+  "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidrcFiZh5KSQ9sYpF7Fafoy8kYny6olyD5WlY_oaAdYt0krMeOL8eNiTItqYmEmJ55wueKdZJlhIKMun7kwQR8AbbFPKTw0Nv-qJbPiaKA1n2J1rUHBV3YuRmdJHQpOTlsKctFMXoO8ogpgHC8rXls3FGamF7p7K1gxc-7dmU2va58Es1c40FV8AZFR-w/s1600/dirtyclone.jpg",
+    "published": "2026-06-26T11:51:35+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family.&nbsp;JFrog Security Research published a working exploit walkthrough&nbsp;for the flaw on June 25, the first public demons\u2026",
+    "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets"
+  },
   "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbTrOy7FP80AfVcwyuiLtJx1T9YECQ6fxHaelQKUn3MNwSV9P3tiVq4_-pOB-gmU3lF9GpWnc5ebVSAbp0MZMZpHHZkdpTK_HX40hfg3KbusQS5bD0kRYjYVyRzffkUpWBsblvGULiZnnOj6e0NF-dg49It3Wn8p9WqD2TNEz0ruG1XrnqCckAXqsDAOTn/s1600/ai-full-disk.jpg",
@@ -10499,6 +10562,15 @@
     "summary": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora.\n\nThe\u2026",
     "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare"
   },
+  "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBWN46D03nuGH8FWFxZD7Ax6T3Wvmf5bt3WrqjghU6ZJU65L6pfoPjt2fVw4-dGXfyEx8fkygfYUftIDlMpPaRcegTEH6eL58nSyiFvbbg5A0GxtFTIhwQUIj16DF-vIqiH2B6jnC7C3DebkJja3v6ayIjOF-eY5DoDL9qef319S3m4ny2lnodtc1WeE59/s1600/linux-cow.jpg",
+    "published": "2026-06-26T13:57:55+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems.\n\nCVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-edi\u2026",
+    "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries"
+  },
   "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC1-4l_iOC19z96Q7C7O_dZSKwEvMnMLhHyb7kpt2rpOzQmn3gKpz6_BaZmSpzgvyhTJf8BBQmBTx0Nvymxk1vfO5O5bE0nNGbYPHAcb5F8ZF_WjTyQe4AXSK71q6fESS9i5Rdpcfzt6ULab7eo21OZKRCYlqwU7G97mF4-AeVVANlT4YIbigdYxUJkwfy/s1600/clickattack.jpg",
@@ -10525,6 +10597,15 @@
     "source": "The Hacker News",
     "summary": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds Security researchers at&nbsp;Zimperium's zLabs&nbsp;have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands.\n\nTogether, th\u2026",
     "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds"
+  },
+  "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsnAZNjHSEX7UtabbKNVn68uohH8pK5LKuU2CgckZTJowWHxYmEjx9ROquO9tFsThy-3_759_ko2TQEX4Wm3PI1Y-opfzyeAzW8Tni0-gz2YMtPMln9XQRzcKq1mviZSTW7MNShxVRhbuUXBSuNGTNStlwj_NCfFsyrptpXvkLNt5CUfARwENz0IshNDma/s1600/shark.jpg",
+    "published": "2026-06-26T18:17:46+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised host\u2026",
+    "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks"
   },
   "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html": {
     "categories": [],
@@ -16736,6 +16817,17 @@
     "summary": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks Over 10,000 Zimbra Collaboration Suite (ZCS) instances exposed online are vulnerable to ongoing attacks exploiting a cross-site scripting (XSS) security flaw. [...]",
     "title": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-26T19:43:06+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...\u2026",
+    "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/": {
     "categories": [
       "Security"
@@ -18055,6 +18147,17 @@
     "summary": "Cybercrime service disrupted for abusing Microsoft platform to sign malware Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudulent code-signing certificates used by ransomware gang\u2026",
     "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware"
   },
+  "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-26T17:49:07+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Cybersecurity firms targeted by fraudulent OpenAI organization invites Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information \u2026",
+    "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites"
+  },
   "https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/": {
     "categories": [
       "Security"
@@ -19317,6 +19420,17 @@
     "source": "BleepingComputer",
     "summary": "FBI: Over $20 million stolen in surge of ATM malware attacks in 2025 The FBI warned that Americans lost more than $20 million last year amid a massive surge in ATM \"jackpotting\" attacks, in which criminals use malware to force cash machines to dispense money. [...]",
     "title": "FBI: Over $20 million stolen in surge of ATM malware attacks in 2025"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-26T22:06:17+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "FBI: Russian hackers now target Signal backup recovery keys The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access victims' historical messag\u2026",
+    "title": "FBI: Russian hackers now target Signal backup recovery keys"
   },
   "https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/": {
     "categories": [
@@ -25760,6 +25874,18 @@
     "summary": "Police takes down Cryptomixer cryptocurrency mixing service Law enforcement officers from Switzerland and Germany have taken down the Cryptomixer cryptocurrency-mixing service, believed to have helped cybercriminals launder over \u20ac1.3 billion in Bitcoin\u00a0since its launch in 2016. [\u2026",
     "title": "Police takes down Cryptomixer cryptocurrency mixing service"
   },
+  "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-06-26T18:04:12+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Polymarket customers lose $3 million in supply-chain attack Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [...]",
+    "title": "Polymarket customers lose $3 million in supply-chain attack"
+  },
   "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/": {
     "categories": [
       "Security"
@@ -29566,6 +29692,17 @@
     "summary": "You Got Phished? Of Course! You're Human... Phishing succeeds not because users are careless, but because attackers exploit human timing, context, and emotion. Flare shows how modern phishing has become industrialized, scalable, and increasingly hard to spot. [...]",
     "title": "You Got Phished? Of Course! You're Human..."
   },
+  "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-26T14:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Your First GRC Agent: A Red Teamer's Walkthrough AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and opens remediation tasks. [...]",
+    "title": "Your First GRC Agent: A Red Teamer's Walkthrough"
+  },
   "https://www.bleepingcomputer.com/news/security/your-mfa-is-costing-you-millions-it-doesnt-have-to/": {
     "categories": [
       "Security"
@@ -30345,6 +30482,15 @@
     "summary": "Infamous Shai-hulud Worm Resurfaces From the Depths This campaign introduces a new variant that executes malicious code during preinstall, significantly increasing potential exposure in build and runtime environments, researchers said.",
     "title": "Infamous Shai-hulud Worm Resurfaces From the Depths"
   },
+  "https://www.darkreading.com/application-security/initiative-tackles-security-end-of-life-open-source": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb28e347d4c1f6e89/678529a3a527d254da4ed749/open_source_(1800)_Wavebreakmedia_Ltd_FUS1407_Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-26T16:32:30+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "New Initiative Tackles Security for End-of-Life Open Source Software The Open Source Sustainability Initiative's goal is to help enterprises manage and secure aging open source projects while maintaining regulatory compliance.",
+    "title": "New Initiative Tackles Security for End-of-Life Open Source Software"
+  },
   "https://www.darkreading.com/application-security/lessons-ai-hacking-model-every-layer-risky": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1aaa12dc01a8cc8a/69977e2049e8a40008936853/AI-security-error-unlocked-Summit_Art_Creations-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -30598,6 +30744,15 @@
     "source": "darkreading",
     "summary": "RMM Abuse Explodes as Hackers Ditch Malware Remote monitoring and management (RMM) software offers hackers multiple benefits, including stealth, persistence, and operational efficiency.",
     "title": "RMM Abuse Explodes as Hackers Ditch Malware"
+  },
+  "https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt702a5bf42e4e4366/64f171e1523617b5bc948dac/office-workshop-Dzianis_Apolka-Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-25T22:42:36+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Robinhood Cuts Access Approval Time to Support High-Velocity Development The fintech company's engineering-first application security team reengineered the process for granting system access, making it easier and more secure for developers working on their projects. Here are the \u2026",
+    "title": "Robinhood Cuts Access Approval Time to Support High-Velocity Development"
   },
   "https://www.darkreading.com/application-security/rust-code-delivers-better-security-streamlines-devops": {
     "categories": [],
@@ -33326,6 +33481,15 @@
     "summary": "AI Drives Cybersecurity Investments, Widening 'Valley of Death' In a role reversal, investment dollars in security startups exceeded the value of mergers and acquisitions in 1Q26 by more than $1 billion, a rare occurrence.",
     "title": "AI Drives Cybersecurity Investments, Widening 'Valley of Death'"
   },
+  "https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9cecfe428e15238b/6a3ea2dc74904e0996378e9c/collection-of-interlocking-gears-Asmaulna-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-26T19:11:02+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI Decline? Confidence in Autonomous Penetration Testing Falls Companies are still experimenting with automated AI systems to find security weaknesses, but fewer are relying on the technology.",
+    "title": "AI Decline? Confidence in Autonomous Penetration Testing Falls"
+  },
   "https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6398ac65343c7da6/69c145156f53d231e401fdf2/contest-Juergen-Hasenkopf-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -33369,6 +33533,15 @@
     "source": "darkreading",
     "summary": "AI System Reduces Attack Reconstruction Time From Weeks to Hours Pacific Northwest National Labs' expert cybersecurity system, ALOHA, can recreate attacks and test them against organizations' infrastructure to bolster defense.",
     "title": "AI System Reduces Attack Reconstruction Time From Weeks to Hours"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/ai-wont-wipe-out-entry-level-cybersecurity-jobs": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta84710e2a296fb51/6a3d8492c8bfcb045af470b0/Graduates_Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-26T16:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI Won't Wipe-Out Entry-Level Cybersecurity Jobs Instead of eliminating jobs for early-career cyber pros, AI is creating new opportunities for candidates with strong human decision-making skills.",
+    "title": "AI Won't Wipe-Out Entry-Level Cybersecurity Jobs"
   },
   "https://www.darkreading.com/cybersecurity-operations/announcing-dr-global-latin-america": {
     "categories": [],
@@ -33721,6 +33894,15 @@
     "summary": "Looking Back, Looking Forward: Digesting a Dynamic Bouillabaisse of Cyber Evolution Dark Reading editors reflect on two decades of dramatic change \u2014 from perimeter defense to assume-breach strategies \u2014 and warn that while AI, cloud, and COVID-19 have transformed the threat landsc\u2026",
     "title": "Looking Back, Looking Forward: Digesting a Dynamic Bouillabaisse of Cyber Evolution"
   },
+  "https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3f96ce16a435deca/6a3d55be62f12d27e415ed3c/quantum_computer-Peter_Hansen-getty-2214879776.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-26T13:30:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex Getting accurate visibility into IT and OT systems will be compounded by multivendor environments, misaligned update life cycles, and interoperability gaps.",
+    "title": "Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex"
+  },
   "https://www.darkreading.com/cybersecurity-operations/microsoft-bundle-security-copilot-m365-enterprise-license": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt42df7ca896592a2e/6751ee3d47226cf59b96d81d/SOC_(1800)_Dragos_Condrea_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -33939,6 +34121,15 @@
     "source": "darkreading",
     "summary": "Why Stryker's Outage Is a Disaster Recovery Wake-Up Call The Iranian cyberattack on Stryker is the kind of stress test that business continuity and disaster recovery programs often do not plan for.",
     "title": "Why Stryker's Outage Is a Disaster Recovery Wake-Up Call"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb0a7aff0c7827ded/6a3c70cdfc46ad1f4754589e/kitten_hanging_on_rope_oksun70_Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-26T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up It might be taking a bit longer than usual to respond to your submissions \u2014 here's why.",
+    "title": "Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up"
   },
   "https://www.darkreading.com/cybersecurity-operations/the-ciso-coo-partnership-protecting-operational-excellence": {
     "categories": [],
@@ -34640,6 +34831,15 @@
     "source": "darkreading",
     "summary": "World's First AI-Driven Cyberattack Couldn't Breach OT Systems The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.",
     "title": "World's First AI-Driven Cyberattack Couldn't Breach OT Systems"
+  },
+  "https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf5ae2981cb5cbc98/67a6074e7dd6537daef9a0fa/robot-army-laurent-davoust-alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-26T17:31:04+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions Cisco joins a growing list of security platform providers that are betting that securing the agentic workforce means turning identity into the primary control plane.",
+    "title": "Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions"
   },
   "https://www.darkreading.com/identity-access-management-security/delinea-strongdm-acquisition-highlights-changing-role-pam": {
     "categories": [],
