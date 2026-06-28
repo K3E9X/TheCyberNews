@@ -10688,6 +10688,15 @@
     "summary": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws OpenAI on Monday said it's releasing an improved version of its GPT\u20115.5\u2011Cyber model to trusted defenders as part of the Daybreak initiative&nbsp;the artificial intelligence (AI) company announced la\u2026",
     "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws"
   },
+  "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiweorWxmIvPG8uskOe44fLur9F5OJvqVdFLV1ejFqQozXruk70nzMhRaY58n4BuMhW1sbsdSvhTrlSxM8U5SLwPdaeRWNi4eQMUjEsFgmGV-37gTdnqk1NXLT4Ixadu4sq_pm0l_HVzuGHaIgcDnV_y092aZ1gCKkZ6lh2bp24PUBUfgsCSgvjlZiKRLMH/s1600/gpt.jpg",
+    "published": "2026-06-27T12:19:37+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to a small number of companies as part of an ongoing engagement with the U.S. government.\n\nWhile\u2026",
+    "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards"
+  },
   "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1-D7cu6ZQpoZXfPa_eYHuQijjkt6mJRjmoIS9eSnCGPPgyXNz-AChti_zkCGmlefTdBm5bvbyxXbrJVbpVJIneqvDmIMR8t7gXEyBn2JJFrZLW-hTbo_e8UHBFuh9tfki-QyVk2g5_XqbbSX52HYTNSpNzJng8lMfZiIHT3pMQBTjTeZwSqx2khJt2uAk/s1600/endgame.jpg",
@@ -10993,6 +11002,15 @@
     "source": "The Hacker News",
     "summary": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration President Trump signed an&nbsp;executive order on June 22&nbsp;setting hard deadlines for federal agencies to move high-value assets and high-impact systems to post-quantum cryptography.\n\nKey establishment m\u2026",
     "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration"
+  },
+  "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL9wu_kGShq1lDTiDFjL3VdxF51l9aXdtW8vfE6Z0f3nLKXnr3WctY8jw3INV7FcO0FmLzv_EVCkfmsC4AmEaPih-SD_c24f8R_MJjjNT8OBdd6SuwVECGV3VdxnMDBs7ULHaVBFPPGkZZcruUhMcbmYE-RQu-QTZfn7rEWltSSSdFLhJeZKIZy4jZzl7L/s1600/cyberattack.jpg",
+    "published": "2026-06-27T17:27:11+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials The Security Service of Ukraine (SSU) said it, together with the U.S. Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchestrated by Russian intelligence services to\u2026",
+    "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials"
   },
   "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html": {
     "categories": [],
@@ -17268,6 +17286,17 @@
     "source": "BleepingComputer",
     "summary": "ClawJacked attack let malicious websites hijack OpenClaw to steal data Security researchers have disclosed a high-severity vulnerability dubbed \"ClawJacked\"\u00a0in the popular AI agent OpenClaw that allowed a malicious website to silently bruteforce access to a locally running instan\u2026",
     "title": "ClawJacked attack let malicious websites hijack OpenClaw to steal data"
+  },
+  "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-27T14:22:36+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Clean GitHub repo tricks AI coding agents into running malware An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]",
+    "title": "Clean GitHub repo tricks AI coding agents into running malware"
   },
   "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/": {
     "categories": [
@@ -32119,6 +32148,15 @@
     "source": "darkreading",
     "summary": "Tenable Tackles AI Governance, Shadow AI Risks, Data Exposure The Tenable One AI Exposure add-on discovers unsanctioned AI use in the organization and enforces policy compliance with approved tools.",
     "title": "Tenable Tackles AI Governance, Shadow AI Risks, Data Exposure"
+  },
+  "https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2feed32bad3a1e85/6781341c966e6945d6fe1118/Education_(1800)_Aleksei_Gorodenkov_Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-06-27T11:48:05+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk Rising threats from third-party actors are forcing institutions to play defense to protect student data from ransomware and other attacks.",
+    "title": "Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk"
   },
   "https://www.darkreading.com/cyber-risk/trade-concerns-trumping-cybersecurity": {
     "categories": [],
