@@ -10175,6 +10175,15 @@
     "summary": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management Introduction\n\nThe average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. But often, these tools are working in siloes, generatin\u2026",
     "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management"
   },
+  "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijvTMs5lEwRQ2ndqc7YNsz1eNQK0XuR_q4uSjl8tLZ8Nh8vA4WRKZsQhyphenhyphenUx1O0gR-QJtdvAj8LDEUaGscAEXAlA9_e9c0LNtEeV-6NJzdqEdGt0gb7mDEUBNmlMNI2L05YQ8lPXA6kNBFL4s7BsjiJSPD72fyhQq2fmYJwZBPQhyHI4PN_zvSrnxtRbRtI/s1600/uk.jpg",
+    "published": "2026-06-29T11:40:24+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025.\n\nSlovakian cybersecurity comp\u2026",
+    "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse"
+  },
   "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIWYqVAlf5o0isz1fGZ_KcAkqIAroOtFMRAvlOMseZrj7e5iLaZ47_92-zoFzN4rtQHJpmGHjMaOShanlb01qhHO5-_EFXskV2RdVtxShkQDFzCBGrgec2P-6IAFxMqRBkkbnLFyjl0n4ZkPbQBkEMl0OQqlj3CgThRwQ6Z6tQaYPbp1YhZy4wcxdmi5dy/s1600/russian-malware.jpg",
@@ -10291,6 +10300,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months Unknown attackers spent at least five months inside the Outlook mailbox of a senior executive at a major global stock exchange, copying the inbox out in small, repeated batches and routing it through Dr\u2026",
     "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months"
+  },
+  "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBjmO4haWCgXfALMAtSHKJXRWIlLfYqulkKflfK-3BSYON-8A4MjUNoZRxOyaLGc-4Bsj1eIfGDhdpJuKZrJORz4HZHx5iM7lj0-VlehqqZ6kaq5_ZWP08MviAchtNF1XORD_Fps-IWderGKNM18TT-Jgh_0LRFULqdMeOfv_FKDd8oWmHmv-iR1-_7XZP/s1600/gogo.jpg",
+    "published": "2026-06-29T05:36:06+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS host\u2026",
+    "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer"
   },
   "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html": {
     "categories": [],
@@ -10489,6 +10507,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs Microsoft on Tuesday released fixes for a record 206 security vulnerabilities impacting its software portfolio, including three flaws that have been publicly disclosed at the time of release.\n\nOf \u2026",
     "title": "Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs"
+  },
+  "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmbNHaJMqOcEeoUkaQeIZC_ilbUt8RpG-kyweNVY_fJ_3BQk19-pmJQXV_soXqZiHleBISNTwcYSqew2nzpc3eBEDULz52KaY1RNrJTb7u87f2oEtpJuTtmi4OL6Lc_HXP9WQcMDRco_w4U5mklzQ1QJj8ndNiBYVQRRUsevzc1P6hZe2N26_lyAhkQbsP/s1600/edge.jpg",
+    "published": "2026-06-29T08:32:31+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentia\u2026",
+    "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts"
   },
   "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html": {
     "categories": [],
@@ -10768,6 +10795,15 @@
     "source": "The Hacker News",
     "summary": "Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites An attacker tampered with trusted JavaScript files used by WordPress sites running PushEngage, OptinMonster, and TrustPulse, turning those files into a way to break into the sites.\n\nWhen a site administr\u2026",
     "title": "Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites"
+  },
+  "https://thehackernews.com/2026/06/public-poc-released-for-critical.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9yQyR_bCP0-I73R6EpwLjJtptGUvzeJD90oYzZvFZXVnM99EIvHFtIJlhZ2f4NSZkAyO7JWjJOy6Zd3lAtPz1Bbk2vmj7Ls8aMIZsFqiIVtIArSjypgJRIHJzlDN5BykKcZziAicpJiNE02Wg3Aheu5BIF1SvY3Pn09WYcdLtvWAT5giGf9mC_uY9GkG/s1600/ssh.jpg",
+    "published": "2026-06-29T07:06:34+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code ex\u2026",
+    "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw"
   },
   "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html": {
     "categories": [],
@@ -11146,6 +11182,15 @@
     "source": "The Hacker News",
     "summary": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) softwar\u2026",
     "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool"
+  },
+  "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgufw7UrtG2RgRTMvdhUaNVywdIBuSIRFLngtWMIY_3fzq7gzTZnlL7KMi_kzPhfpdny4vP5Rd9QVLpkX9xR5Vpk0cVvDV8Xsy4wljRyA5TjKvojsoBsYJt7yhhk1VK46OegGewBgqi-c41Z5mX5Ivos1PMrgrrmgLZKUJ8hqb4xl8o85sB7jQJLvI3gj0/s1600/keeper.jpg",
+    "published": "2026-06-29T11:42:16+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Why Post-Quantum Cryptography Starts With Credentials Today\u2019s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can break ellip\u2026",
+    "title": "Why Post-Quantum Cryptography Starts With Credentials"
   },
   "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html": {
     "categories": [],
@@ -18360,6 +18405,17 @@
     "source": "BleepingComputer",
     "summary": "Data breach at major Swedish software supplier impacts 1.5 million The Swedish Authority for Privacy Protection (IMY) is investigating a cyberattack on IT systems supplier Milj\u00f6data that exposed data belonging to 1.5 million people. [...]",
     "title": "Data breach at major Swedish software supplier impacts 1.5 million"
+  },
+  "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-28T14:13:46+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Data breach exposes up to 14.2 million email logins at six ISPs Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the country. [...]",
+    "title": "Data breach exposes up to 14.2 million email logins at six ISPs"
   },
   "https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/": {
     "categories": [
@@ -28739,6 +28795,17 @@
     "source": "BleepingComputer",
     "summary": "US seizes E-Note crypto exchange for laundering ransomware payments Law enforcement has seized the servers and domains of the E-Note cryptocurrency exchange, allegedly used by cybercriminal groups to launder more than $70 million. [...]",
     "title": "US seizes E-Note crypto exchange for laundering ransomware payments"
+  },
+  "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-06-29T11:21:03+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "US seizes hundreds of FIFA World Cup illegal streaming domains The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]",
+    "title": "US seizes hundreds of FIFA World Cup illegal streaming domains"
   },
   "https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/": {
     "categories": [
