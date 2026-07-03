@@ -11453,6 +11453,24 @@
     "summary": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intru\u2026",
     "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations"
   },
+  "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAH6tBAe18U0FqA-i5kNNNQYeXjY_LBflzBqVD5rq81OAC6q9c8UsDBsQb5K2F7IAfof5_JZCBpS51DNp63jsXfk4qqwLkckDh4nq-z-Gj0zoRwQu5IZYiNHiBlpp3C-6OR84JeDfPmIr4VLTp2NN6uHRYl0qT273wrbpcnUmd5SbIJH07cPHQxMo6VgI/s1600/proxy.jpg",
+    "published": "2026-07-02T18:54:06+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic.\n\nWorking with the FBI, Lumen, and others, Google's Threat \u2026",
+    "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices"
+  },
+  "https://thehackernews.com/2026/07/identity-lifecycle-management.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwwp0Bf4s6Xp_L13nlIV5Pf2D0awJsA5cDdev6yCr9f7nLVbmJmzqJ01cmdJkO4K0E3KEvdHhK10ZDai_tXV6gZDmgJqhnsARjEhVScA9gsWHKL4zzt64aQSSgPBImpeYxLuMiORSByYXgQunRUhYhymV8AQfvYf6qsBieuh82794N44iaJ9lEl8IS8Z0/s1600/Identity-Lifecycle-Management.jpg",
+    "published": "2026-07-02T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Identity Lifecycle Management Wasn't Built for AI Agents Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals proliferate across enterprise environments, th\u2026",
+    "title": "Identity Lifecycle Management Wasn't Built for AI Agents"
+  },
   "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghMOqrFNgwfokWIpvUBFpDUO-So-0focm0a7d9mhocEHiwdB2cHmPQ9q4STjyCr-gVUPK67TYluInMr0_v1omCJVWbd9OVOg6AqVROoxZb44b5BOpxdBb2GECjFw77NhlCf6nWC5oJF3x3KvE3EyDV2pUR3lvROAWjaFs9SOyvzM3qRB6MzEUCFYuVAoCb/s1600/pro-exploit.jpg",
@@ -11489,6 +11507,15 @@
     "summary": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal.&nbsp;Fortinet's FortiGuard Labs&nbsp;identified the campaign in May 2026.\n\nIt opens with a phishing PDF dis\u2026",
     "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures"
   },
+  "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEmcBMGUjTwe51gVQWP401twHYLMUOocwG9nYkgadlFV6cmGXrPS-3PeNTg_GJOaUVohWILNXgIC8ufSkPqXRbW1wIyvUr5JEKCrrMI3_hlN8uFtxpf-sBn743tQmlK2ipu_qWtY3k18cPkaQ6XGJnR7RPjuMOWkYwcmJ5XSnSNQHbNpkEgyyP29hJA6j2/s1600/macos-malware.jpg",
+    "published": "2026-07-03T08:03:37+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data.\n\nThe stealer, discovered by Ja\u2026",
+    "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords"
+  },
   "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX2IWQhpupx-U0U70hWTg9afsBb41pslrGP733mXXdBKValODZrPoYD3UQqGVq1j9fSgmgf9rqDyxEAx1iKzblSnc_AcfO_CzQ-CA4G24vKEO5YC9P1vC_K_K01RfbMAvN1eaqgRjJUYRIyWZVLQjxYVleEsgcgD_Ifm04sjBCp08xk6W7QjbX4Rgm2vXp/s1600/ai-domains.jpg",
@@ -11497,6 +11524,15 @@
     "source": "The Hacker News",
     "summary": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic that AI t\u2026",
     "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware"
+  },
+  "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5gkjf1FwB4__nC6-pLZYnDv2rJA29UAL9mxfCv4BNSl1FxNpat9jD-OiMRLewjXJXyiSGvqiLYcewN_b1lLFHh0FhzKkrHFzu82jziSuOodYX87FkwjuCcXaqwzWRsiFdsBcd9mzDnak1rJpDu46F8TV206IEcD1pE7njojB8TcQEZ4Wa70KnK2vyeVKI/s1600/ransomwares.jpg",
+    "published": "2026-07-02T18:30:33+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access.\n\n\"Although tactics differ between a\u2026",
+    "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials"
   },
   "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html": {
     "categories": [],
@@ -11524,6 +11560,24 @@
     "source": "The Hacker News",
     "summary": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing ev\u2026",
     "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation"
+  },
+  "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMzwXbN53zy07KSkFJL7uOzty4Pj7VgKS6lSwWWGSCppX0wEX5eY0ZLur2NiFcs-ByBBhbd1WZ270Y4VMMGL6WkvOIZ5MhyphenhyphenkDX2B45wiQue-W88oiF_-RZs0HxvrvcxCHI8Zhhv1-fqHDgnX-VLWk00gt463rQhyKY7Mzcd5STMCYeCUcyVri3aBSUpl2t/s1600/threatsday-board.jpg",
+    "published": "2026-07-02T15:24:18+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories This week\u2019s security news is mostly about weak spots.\n\nBrowsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone \u2026",
+    "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories"
+  },
+  "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMnC-1ujLiZRcV1xgXbB3qFoIREcbSiGqLCFID8-G-z8GFI3YEY8VniprVEBW4b4TZKJUvoRDg27elntNJWL9S6JZUHMMe1Ie1JLf9w5Fzsgx2w9c94ja1NoED4m3G1pNngC2DDWOOQPgVGiKOd0uBpZkQSSpFOo60S2Tbl8j2VWKdhb70sIJzF8d93LM/s1600/gmail.jpg",
+    "published": "2026-07-02T13:04:13+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API.\n\n\"In this campaign,\u2026",
+    "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API"
   },
   "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html": {
     "categories": [],
@@ -11866,6 +11920,30 @@
     "source": "BleepingComputer",
     "summary": "Claude Code source code accidentally leaked in NPM package Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. [...]",
     "title": "Claude Code source code accidentally leaked in NPM package"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-07-03T01:37:09+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Claude Fable 5 isn\u2019t permanently leaving subscriptions, Anthropic says Anthropic says Claude Fable 5 won't be accessible via Claude subscriptions after July 7, but it's not a permanent change, and the company expects the model to return outside the usage-based plan soon. [...]",
+    "title": "Claude Fable 5 isn\u2019t permanently leaving subscriptions, Anthropic says"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-07-03T00:48:30+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Claude Fable relaunch disappoints users with nerfed performance Claude Fable, the company's most powerful model, is now available to all users, but early impressions are disappointing, as it appears to be nowhere near the original release. [...]",
+    "title": "Claude Fable relaunch disappoints users with nerfed performance"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/eu-launches-investigation-into-x-over-grok-generated-sexual-images/": {
     "categories": [
@@ -12591,6 +12669,19 @@
     "source": "BleepingComputer",
     "summary": "GM agrees to $12.75M California settlement over sale of drivers\u2019 data California Attorney General Rob Bonta announced a proposed $12.75 million settlement agreement with General Motors (GM) over allegations that the company violated the California Consumer Privacy Act (CCPA). [..\u2026",
     "title": "GM agrees to $12.75M California settlement over sale of drivers\u2019 data"
+  },
+  "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/": {
+    "categories": [
+      "Legal",
+      "Google",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-07-02T15:18:51+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google loses final appeal to overturn \u20ac4.1 billion EU fine Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a \u20ac4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser and search service. [.\u2026",
+    "title": "Google loses final appeal to overturn \u20ac4.1 billion EU fine"
   },
   "https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/": {
     "categories": [
@@ -13351,6 +13442,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft fixes bug causing password sign-in option to disappear Microsoft has fixed a known issue that was causing the password sign-in option to disappear from the lock screen options after installing Windows 11 updates released since August 2025. [...]",
     "title": "Microsoft fixes bug causing password sign-in option to disappear"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-07-02T12:15:47+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft fixes bug that removed Copilot buttons in Outlook Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]",
+    "title": "Microsoft fixes bug that removed Copilot buttons in Outlook"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/": {
     "categories": [
@@ -17050,6 +17152,18 @@
     "summary": "CISA: High-severity Linux flaw now exploited by ransomware gangs CISA confirmed on Thursday that a high-severity privilege escalation flaw in the Linux kernel is now being exploited in ransomware attacks. [...]",
     "title": "CISA: High-severity Linux flaw now exploited by ransomware gangs"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-07-02T10:52:43+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA: Microsoft SharePoint RCE flaw now actively exploited CISA warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability patched in May. [...]",
+    "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/": {
     "categories": [
       "Security",
@@ -17604,6 +17718,17 @@
     "summary": "Cisco: Actively exploited firewall flaws now abused for DoS attacks Cisco warned this week that\u00a0two vulnerabilities, which have been exploited in zero-day attacks,\u00a0are now being abused to force ASA and FTD firewalls into\u00a0reboot loops. [...]",
     "title": "Cisco: Actively exploited firewall flaws now abused for DoS attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-02T11:35:25+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Cisco finally confirms attackers exploiting Unified CM flaw Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June. [...]",
+    "title": "Cisco finally confirms attackers exploiting Unified CM flaw"
+  },
   "https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/": {
     "categories": [
       "Security"
@@ -17999,6 +18124,17 @@
     "source": "BleepingComputer",
     "summary": "ConnectWise patches new flaw allowing ScreenConnect hijacking ConnectWise is warning ScreenConnect customers of a\u00a0cryptographic signature verification vulnerability that could lead to unauthorized access and privilege escalation. [...]",
     "title": "ConnectWise patches new flaw allowing ScreenConnect hijacking"
+  },
+  "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-02T14:00:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]",
+    "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds"
   },
   "https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/": {
     "categories": [
@@ -25931,6 +26067,18 @@
     "source": "BleepingComputer",
     "summary": "OpenClaw AI agent found falling for phishing attacks, spills user data Phishing simulation on an OpenClaw email agent with various configuration profiles showed that it was susceptible to tactics\u00a0commonly used to compromise human users. [...]",
     "title": "OpenClaw AI agent found falling for phishing attacks, spills user data"
+  },
+  "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/": {
+    "categories": [
+      "Security",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-07-02T10:46:58+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Opera rolls out Paste Protect feature to fight ClickFix attacks Opera has introduced Paste Protect, a security feature designed to block ClickFix-style attacks that trick users into executing malicious commands through social engineering. [...]",
+    "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks"
   },
   "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/": {
     "categories": [
