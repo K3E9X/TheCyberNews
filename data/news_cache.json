@@ -11543,6 +11543,15 @@
     "summary": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft.\n\nAccording to \u2026",
     "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets"
   },
+  "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwdeBqtwl7nqoAp8TPhZmmr3mUTCcfxluYa7QukD2sI1AjCWoOko2YtQUrCtOLH-tJlYi2lXUA5E3RF51L26gZGyR7sT0GXu73OMB94HhINz5kajaR8-txb-tYNj2Hsm62zVwTaw7Rew6Wazf8eQgo_boWq7DjqbN1jjp5OmwSZ2yG7Y9e04hFVaroUSu6/s1600/go-code.jpg",
+    "published": "2026-07-04T11:17:24+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Googl\u2026",
+    "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign"
+  },
   "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3GnjevIMTqO1nAZ7LWeRKAz2NCKGTKCC2ldSx5dsd2SShjh4pWcmddVJse4MP4QLhA_DOP1K_RajPwe8YR7rc57CqPUO0i9RDYoZQA0yRAokZt1r2hyphenhyphenccOjcFh2SgUTnyUjj-M-y7WUUXVF0rpSrcxTrjb5nPOnpnIP5YvdxzUaLXkubSTXFaj0RzxEvH/s1600/windows-trojan.jpg",
@@ -11641,6 +11650,15 @@
     "source": "The Hacker News",
     "summary": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices Security firm runZero has&nbsp;disclosed seven vulnerabilities&nbsp;in&nbsp;FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD ca\u2026",
     "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices"
+  },
+  "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEfi15-eigOUF4SV157a0LsEW4uNvhRyEIhWWYVNo8tn0tfMjuJ0Cr6zYUDeVh6VfzA-7MpWgIVX8sJgieRMD6e0KSBmB2zNmTU1ko1KPMbkBd-JHMBluVBUOjV06SebkYq4AKFssmEQ6DdGw4yy4X3qesVYJcwwgZSsQFUu4Wfy3un9alrX2Qy8IjacE/s1600/county-hacked.jpg",
+    "published": "2026-07-04T12:47:53+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new&nbsp;case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the bloc\u2026",
+    "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case"
   },
   "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html": {
     "categories": [],
@@ -23083,6 +23101,18 @@
     "source": "BleepingComputer",
     "summary": "Ivanti warns of two EPMM flaws exploited in zero-day attacks Ivanti has disclosed two critical vulnerabilities\u00a0in Ivanti Endpoint Manager Mobile (EPMM), tracked as CVE-2026-1281 and CVE-2026-1340, that were exploited in zero-day\u00a0attacks. [...]",
     "title": "Ivanti warns of two EPMM flaws exploited in zero-day attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-07-04T14:16:38+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "JadePuffer ransomware used AI agent to automate entire attack Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent. [...]",
+    "title": "JadePuffer ransomware used AI agent to automate entire attack"
   },
   "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-cyberattack-cost-the-company-over-220-million/": {
     "categories": [
