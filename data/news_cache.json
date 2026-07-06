@@ -11534,6 +11534,33 @@
     "summary": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories o\u2026",
     "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos"
   },
+  "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcOvCD8qFylCqOCpN8Rnl9cnxNkIeGxNbVKzlsKXY_7Nuw2xvYsckNEHKVM5ntvT2JAureArFIyApOvGLu52wpCG1xbHO8Y5xBmOAkSI3RoyEegmlNxs_gJip32Uzv_inXS7seOeRB1d3mw9SNIggoqgIApupRF2etBx5U_IFkuQz4_WNBL0Q1oi1l77q/s1600/javarat.jpg",
+    "published": "2026-07-06T08:13:33+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments.\n\nAccording to LevelBlue, the cross-platf\u2026",
+    "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS"
+  },
+  "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw4ZKsU9PwSPcL_Vs2ZqYIh0ahMuSFSNcCv_Y5MiM7MRsUgeZCDa5XTSWVYQXjLg-ByFbm4cHoo-8SSeWrB7KSdYrl4A1Ioif-v8NLNA43asXEHtYjn6uad21Savnzi_1iJ0YQ44iuXECEIBbyc3l7lJ9l2pdofVvP7dM3n9Ji5OeUeuPDHX5sqBJreUUB/s1600/ai-skills.jpg",
+    "published": "2026-07-06T06:33:56+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing Scanners meant to catch malicious add-on \"skills\" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a&nbsp;new study&nbsp;from resear\u2026",
+    "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing"
+  },
+  "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYJDaMKVJEwbsJA1eYJaguihQzJv2dpnIl512z5xBuWojpidgE7mvbGWz27QN-Dnwx74qvCYOYGQNY4h2K00TzF_hz8D6M9gNxWALh2f2bz6jrzwuKvTuuLsb6kwU1O72qPUIjQYHtRwGPCCUYt-TDFJEZ7frhvxvsQa4vWP7HkLRPtXCi0ovIACzurMP/s1600/TrojPix-attack.jpg",
+    "published": "2026-07-06T08:50:54+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions Researchers at&nbsp;Shandong University&nbsp;have shown a fast new way to pull data off computers that are cut off from every network. The technique, called&nbsp;TrojPix, tweaks on-screen pixels in wa\u2026",
+    "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions"
+  },
   "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4otDF6_5qt7ZmrCLMXmx7sFXfY6RGHHI0BiGRcVkTqLo-l1VokprcvB7FhK5fJdL0j8Ds95uLQxiWKt2YYFV1N9K8WIL3lfONey4wBln2Vee4YTI_9z5_t-2VT1bZ17sEomQdONnVWEB3sc9lj13AJwdhbmn6CNlfx9Lwc7UNxg2C87xKFZPz5UL4lHJE/s1600/npms-malware.jpg",
@@ -11551,6 +11578,15 @@
     "source": "The Hacker News",
     "summary": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Googl\u2026",
     "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign"
+  },
+  "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ_WItJUaS3rk5pAYa5yOsKuUt0Yovlv1T-jIz2GBBhcmMjToCgnWuEApyWfgDwngwAPcEGke0zwo_2DKKHaN9vzzHMAnd7Z3esepEvjSM022BzOdjo0sJW2bSMlslKXVv5Fg701ozva1HDgZPJV4Qya8Xevye-eT4dB0UmIJK9CKq-_wLnEGgNYigRLzh/s1600/opera-data-leak.jpg",
+    "published": "2026-07-06T07:27:50+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages Researchers found a flaw in&nbsp;Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from th\u2026",
+    "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages"
   },
   "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html": {
     "categories": [],
@@ -20521,6 +20557,17 @@
     "source": "BleepingComputer",
     "summary": "Flickr discloses potential data breach exposing users' names, emails Photo-sharing platform Flickr is notifying\u00a0users of a potential data breach after a vulnerability at a third-party email service provider exposed their real names, email addresses, IP addresses, and account acti\u2026",
     "title": "Flickr discloses potential data breach exposing users' names, emails"
+  },
+  "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-05T14:14:52+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Flipper Zero firmware development continues with community help Flipper Devices says development of the Flipper Zero firmware will continue, albeit with a smaller internal team and greater reliance on community contributions. [...]",
+    "title": "Flipper Zero firmware development continues with community help"
   },
   "https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/": {
     "categories": [
