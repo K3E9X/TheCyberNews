@@ -11363,6 +11363,15 @@
     "summary": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar Your pentest report looks clean. That might be the problem.\n\nRun automated pentesting long enough, and the new findings start to dry up. By the third or fourth run, fewer issues appear. The report looks\u2026",
     "title": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar"
   },
+  "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG42lgj1grtq5EQICr-9RYvPU59uHFRBluzVoZ3TZLXEXBcF5bOPerpb_Ck-e6oNz6P4MO1VAiqbBXuPbImhng1CoRnRYHWSZTGOloHmYB5khhpCK5wW348uMgqmWIjTQPnOwCGV7OiPXJoJDWV0n1IPGP80hADXD3AnmRKbTb8jxyGQenhlgIpvNo29I/s1600/linux-kvm.jpg",
+    "published": "2026-07-06T17:37:01+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.\n\nDubbed 'Januscape' and tracked as&\u2026",
+    "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems"
+  },
   "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitCA6eGqIT2msGTmYh2Qr84lq5GYGvI4Y8FSzzNira0osd5SNIbnpLKZfLZLggblyWGxZ1ScIR_I06M-RoM5wM3he2KRkFCnwYxIKtGBDb9PA1JtoK1JM5f0vObSITDMGt4eeVV82LUF3DBNkYiHLhCTYNwnlOP3DlfCHYLkP6NfHjwRJDsHSMTHEGKAs/s1600/hacker-arrested.jpg",
@@ -11435,6 +11444,24 @@
     "summary": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process.\n\nT\u2026",
     "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts"
   },
+  "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim5I3ndx1DHNKSznD7AT_CM4ApiaXDfZcQAwsCSDnHq7u8dkGcOzway-IBZJ44bFJintaRMSry4yHbaacESRFOJsRC_UBV6N9l_K4ICcqWsZ2E4zQ5BGibAkxjxm0qPYiiLEvAvDizmPZVYwXC6jN9pgB5G-3xZ9ifiEWisKsZoi9rBjJN1mepJjPl61s9/s1600/bt.jpg",
+    "published": "2026-07-07T05:16:51+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated \u2026",
+    "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA"
+  },
+  "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibED37Q9WinxGoPYaXltP_givD-Q30FneMyezHB4uftr5E4hy4fMm97v_UH34sQWEvlp688bYvMR6zDzy_C93ddbqNDfIVSX7swJgdTD38hOmKgu6ZLGjBW068gXHpsT4soRscJ1vWDxTz2z8xBDSb2QD2UWrR68nVytui4mo6Q0cXVh_GjK5FC6P4imvK/s1600/backdoor-admin.jpg",
+    "published": "2026-07-07T06:40:47+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management in\u2026",
+    "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware"
+  },
   "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkaU5jHNUkuBuH0Obx-gU_L4wSKOWP9bPwZeyD8tY1hIHShQozXYO2UckRTb2z5SwreXgHxLzePWkBfixNzYWsJ6eXioRllicv96TA8QvXBerGAguD3uA2T1DcMaURdi5BdMcNlY4DF_DPk-kdNXvIZfz8QMnrekgc-Hjksqf5OCHy11j0zcT668GgBhnc/s1600/citrix.jpg",
@@ -11480,6 +11507,15 @@
     "summary": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic.\n\nWorking with the FBI, Lumen, and others, Google's Threat \u2026",
     "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices"
   },
+  "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeiJymlyu6GGdzNT0Fb3yi6rYZdNn_XCoDUKKV9zSD_p17gngK7FL-IDm5LLTYlGx6Rn2Em6v0TSDq7u_1lttLyp1b97z7YrjSrFK7MrYAG2k1YXI91fHRRTRoPV1xIQSukE1DwqRcHY6i6fIS0jC2CaKv18OhFWHi2fKvXRKmZ6MBgSoRMDWGxmQKlfTt/s1600/aisoc.jpg",
+    "published": "2026-07-06T11:30:02+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very di\u2026",
+    "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions"
+  },
   "https://thehackernews.com/2026/07/identity-lifecycle-management.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwwp0Bf4s6Xp_L13nlIV5Pf2D0awJsA5cDdev6yCr9f7nLVbmJmzqJ01cmdJkO4K0E3KEvdHhK10ZDai_tXV6gZDmgJqhnsARjEhVScA9gsWHKL4zzt64aQSSgPBImpeYxLuMiORSByYXgQunRUhYhymV8AQfvYf6qsBieuh82794N44iaJ9lEl8IS8Z0/s1600/Identity-Lifecycle-Management.jpg",
@@ -11488,6 +11524,15 @@
     "source": "The Hacker News",
     "summary": "Identity Lifecycle Management Wasn't Built for AI Agents Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals proliferate across enterprise environments, th\u2026",
     "title": "Identity Lifecycle Management Wasn't Built for AI Agents"
+  },
+  "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80nucNUGoxxOtE3SUY1SkDSu77qENrl96c2MUoLWdwAo3ZVoA4FS2QfOdM9c5bsZUJdX1ZxIsXgu7pvVfUzXz3GMZJHmblFTjv5C08dbxvLqXol72iHaD-zH950EZdXUCS-b7F2T-bn8SgqQb9nXA-uOPIaX5V0eaNNmKlQJfWHAKaPAhqsgNL0wTgJH6/s1600/cavern.jpg",
+    "published": "2026-07-06T18:34:26+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka C\u2026",
+    "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations"
   },
   "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html": {
     "categories": [],
@@ -11506,6 +11551,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029 Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner than previously ex\u2026",
     "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029"
+  },
+  "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLyTSo2j_jLDBALDaJ6S4gpQf2xkxgGWRslJKuVLIrY-J7nsEG-zNgi02OKeABO5BNXCI1C05oTO1TdYYMtzjCHE7ugevubBOybwilFTXFY6wgXDBVkzMV3-cyYyZUfd-sfXmlfTtgyouay2kJYwxfclTk2M6PPOaLWdR-26P3TYuIm1l5wjQfoPVzk-ca/s1600/recapss.jpg",
+    "published": "2026-07-06T13:01:14+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the ris\u2026",
+    "title": "\u26a1 Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More"
   },
   "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html": {
     "categories": [],
@@ -11650,6 +11704,33 @@
     "source": "The Hacker News",
     "summary": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing ev\u2026",
     "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation"
+  },
+  "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitErUXjxgvdr7CLGa67wtfentIJSFkobxbyIMtQNK4mzNTyf_3Mq9mckQNCGONMFqVaCvkvNKf7FqJfevWKstiWEOxt5wDlV_Fus-Ob3bo9vkMb3m5natJZjHhG-0r4FbH5UUBP4aiGtLcJ7mFIIwLw7IPIHOqw5ln1kAC_ZsiOvllGmVXws4bCXBGugBu/s1600/server-hacker.jpg",
+    "published": "2026-07-07T09:10:51+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of a n\u2026",
+    "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities"
+  },
+  "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0L8iGbVZ6lxBg26K2nsc6uYpFED8ZcgCtrh4C34U4oixLPC0OKHOWWpiPBfaSwe-tpOTbCqZfRZQTMoropayZXEm0GXTtKpyBuBPRk9zF-0WPRprknYiaI2DXLDZnQb8t70R7-0Fjl5G-NNCQFF-Ex40vQZMbUJmJ2JLyXJUjYdAVvgjl3_oBF5wbHrHl/s1600/income-tax.jpg",
+    "published": "2026-07-06T10:58:16+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensit\u2026",
+    "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT"
+  },
+  "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge0sNgi3moDw0JpFy3UdFB6bK0oxjaqc8ORZFecu5QqxA_wgpoWT1t56L9u2wScSkxYHP2aLO3N01yCPd8IkTBEyc_MvxIaG6BKzneB0LcXuwO_nEorvNvyvuEL3Krp003q6xOF0gePQCXN_bDswxBIhqV7q89_HY9mIxJ5ySShQwtU_jSa9FQnt0tq0RU/s1600/admin.jpg",
+    "published": "2026-07-06T16:28:59+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.\n\nThe vulnerability in question is CVE-2026-20896 (CVSS score\u2026",
+    "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure"
   },
   "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html": {
     "categories": [],
@@ -14682,6 +14763,17 @@
     "summary": "Microsoft testing faster Quick Machine Recovery in Windows 11 Microsoft is testing a faster version of Quick Machine Recovery (QMR) and updated Smart App Control (SAC), allowing users to toggle it without requiring a Windows clean install. [...]",
     "title": "Microsoft testing faster Quick Machine Recovery in Windows 11"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-07-07T07:37:38+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel. [...]",
+    "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/": {
     "categories": [
       "Microsoft",
@@ -14796,6 +14888,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft to enable Windows hotpatch security updates by default Microsoft will turn on hotpatch security updates by default for all eligible Windows devices managed through Microsoft Intune and the Microsoft Graph API, beginning with the May 2026 Windows security update. [...]",
     "title": "Microsoft to enable Windows hotpatch security updates by default"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-07-07T09:41:19+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft to enable Windows settings backup by default for orgs Microsoft says the Windows settings backup and restore tool will be enabled by default on Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems after upgrading to Windows 11 26H2. [...]",
+    "title": "Microsoft to enable Windows settings backup by default for orgs"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/": {
     "categories": [
@@ -16534,6 +16637,17 @@
     "source": "BleepingComputer",
     "summary": "Beware: PayPal subscriptions abused to send fake purchase emails An email scam is abusing abusing PayPal's \"Subscriptions\"\u00a0billing feature to send legitimate PayPal emails that contain fake purchase notifications embedded in the Customer service URL field. [...]",
     "title": "Beware: PayPal subscriptions abused to send fake purchase emails"
+  },
+  "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-07T08:12:10+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "BeyondTrust warns of critical flaws in remote access software BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]",
+    "title": "BeyondTrust warns of critical flaws in remote access software"
   },
   "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/": {
     "categories": [
@@ -20016,6 +20130,17 @@
     "source": "BleepingComputer",
     "summary": "Fake GrubHub emails promise tenfold return on sent cryptocurrency Grubhub users received fraudulent messages, apparently from a company email address, promising a tenfold bitcoin payout in return for a transfer to a specified wallet. [...]",
     "title": "Fake GrubHub emails promise tenfold return on sent cryptocurrency"
+  },
+  "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-06T20:23:45+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Fake IT support calls on Microsoft Teams push EtherRAT malware Threat actors are abusing Microsoft Teams voice calls by impersonating corporate IT support staff to trick employees into installing the EtherRAT malware, giving attackers initial access to corporate networks. [...]",
+    "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware"
   },
   "https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/": {
     "categories": [
@@ -23982,6 +24107,17 @@
     "summary": "Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match Match Group, the owner of multiple popular online dating services, Tinder, Match.com, Meetic, OkCupid, and Hinge, confirmed a cybersecurity incident that compromised user data. [...]",
     "title": "Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match"
   },
+  "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-06T13:18:37+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Max severity Adobe ColdFusion flaw now exploited in attacks Attackers are now exploiting a maximum-severity Adobe ColdFusion vulnerability tracked as CVE-2026-48282, according to vulnerability\u00a0intelligence\u00a0company KEVIntel. [...]",
+    "title": "Max severity Adobe ColdFusion flaw now exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/": {
     "categories": [
       "Security"
@@ -26666,6 +26802,17 @@
     "summary": "Phishing campaign targets freight and logistics orgs in the US, Europe A financially motivated threat group dubbed \"Diesel Vortex\" is stealing credentials from freight and logistics operators in the U.S. and Europe in phishing attacks using\u00a052 domains. [...]",
     "title": "Phishing campaign targets freight and logistics orgs in the US, Europe"
   },
+  "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-06T20:27:37+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Phishing poses as big-brand job interview to steal Google accounts A phishing campaign is impersonating more than 30 well-known brands, including Adobe, Netflix, Coca-Cola, and OpenAI,\u00a0in fake job interviews to steal Google account credentials from marketing professionals. [...]",
+    "title": "Phishing poses as big-brand job interview to steal Google accounts"
+  },
   "https://www.bleepingcomputer.com/news/security/phobos-ransomware-admin-pleads-guilty-to-wire-fraud-conspiracy/": {
     "categories": [
       "Security"
@@ -28122,6 +28269,17 @@
     "source": "BleepingComputer",
     "summary": "SoFi confirms third-party data breach at Hong Kong subsidiary SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information. [...]",
     "title": "SoFi confirms third-party data breach at Hong Kong subsidiary"
+  },
+  "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-06T14:00:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Software Is Now Written at the Speed of Thought. Security Isn't. Every evolution in software development has reduced the friction between an idea and a deployable application. AI may remove the final barrier, but it also removes many of the moments where security decisions have t\u2026",
+    "title": "Software Is Now Written at the Speed of Thought. Security Isn't."
   },
   "https://www.bleepingcomputer.com/news/security/solarwinds-warns-of-critical-web-help-desk-rce-auth-bypass-flaws/": {
     "categories": [
@@ -29892,6 +30050,17 @@
     "source": "BleepingComputer",
     "summary": "Video service Vimeo confirms Anodot breach exposed user data Vimeo has disclosed that data belonging to some of its customers and users has been accessed without authorization following the recent breach at the Anodot data anomaly detection company. [...]",
     "title": "Video service Vimeo confirms Anodot breach exposed user data"
+  },
+  "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-06T18:25:06+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Vietnam arrests suspects behind HiAnime anime piracy service \u200bVietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June. [...]",
+    "title": "Vietnam arrests suspects behind HiAnime anime piracy service"
   },
   "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/": {
     "categories": [
@@ -33601,6 +33770,15 @@
     "summary": "BTMOB RAT Spreads Across Brazil, LatAm via MaaS Model An advanced remote access Trojan is propagating online. Notably, it's delivered via an operator licensing model and features a no-code malware-development interface.",
     "title": "BTMOB RAT Spreads Across Brazil, LatAm via MaaS Model"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8a5851671625faf8/6a4c14c7cdf54e22d2b6249c/busysnake_LuckyStep_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-06T21:37:56+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "'BusySnake' Infostealer Slithers into Critical Infrastructure Networks A threat group researchers call &quot;Armored Likho&quot; has gained access to government agencies and electrical power entities in Russia, Brazil, and Kazakhstan.",
+    "title": "'BusySnake' Infostealer Slithers into Critical Infrastructure Networks"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt69a3ca2781c97543/6a039734559f883c8de4d9ec/pair-of-java-sparrows-Alen_Thien-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -34042,6 +34220,15 @@
     "source": "darkreading",
     "summary": "Iran's 'MuddyWater' Levels Up With MuddyViper Backdoor New Fooder loader and memory-only tactics suggest MuddyWater has evolved from its usual noisy ops to more stealthy espionage operations.",
     "title": "Iran's 'MuddyWater' Levels Up With MuddyViper Backdoor"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc06310368e21110/6a4bdbe6a6d4757864059ce1/llm-Boy_Wirat-Getty-2149059417.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-06T16:36:50+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "JadePuffer: The First Complete LLM-Driven Ransomware Attack An &quot;agentic threat actor&quot; successfully exploited a Langflow flaw to steal data from a production database server and encrypt other systems.",
+    "title": "JadePuffer: The First Complete LLM-Driven Ransomware Attack"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/japanese-firms-suffer-long-tail-ransomware-damage": {
     "categories": [],
@@ -37664,6 +37851,15 @@
     "source": "darkreading",
     "summary": "'CitrixBleed 2' Wreaks Havoc as Zero-Day Bug The same APT hammered critical bugs in Citrix NetScaler (CVE-2025-5777) and the Cisco Identity Service Engine (CVE-2025-20337) in a sign of growing adversary interest in identity and access management systems.",
     "title": "'CitrixBleed 2' Wreaks Havoc as Zero-Day Bug"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt88ecb8d1db40386a/6a4c12e577f2da733fcdacb6/rm-Citrix_Justin_Sullivan-Getty-1367905224.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-06T21:17:42+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "CitrixBleed-ing Again? NetScaler Vulnerability Under Attack Attackers wasted little time targeting the latest memory disclosure flaw in Citrix's NetScaler products, after researchers published a proof-of-concept exploit (PoC).",
+    "title": "CitrixBleed-ing Again? NetScaler Vulnerability Under Attack"
   },
   "https://www.darkreading.com/vulnerabilities-threats/claude-fable-5-doesnt-change-mythos-security-story": {
     "categories": [],
