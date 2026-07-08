@@ -11363,6 +11363,15 @@
     "summary": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar Your pentest report looks clean. That might be the problem.\n\nRun automated pentesting long enough, and the new findings start to dry up. By the third or fourth run, fewer issues appear. The report looks\u2026",
     "title": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar"
   },
+  "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid8ZRwAprNDN6zAPixm22IlrKWp03FJdQF0TxCV5v_jxckPLkOHRSzHQERbDNw_FZdnyluuhyphenhyphenGZ7pSX51cjBl-S8PrqhgARlAe8VfWPabk7t4hAy37ZSrRu6oXfRYlXP7s1x1OBYW9WHmgWobGS0wiC0mrO42xHWHrSI3ICLM5OFzsOA3tVCcs4_N1yPU/s1600/linux-root.gif",
+    "published": "2026-07-08T06:16:44+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros Researchers at&nbsp;Nebula Security&nbsp;have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full&nbsp;root&nbsp;control of a machine that h\u2026",
+    "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros"
+  },
   "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG42lgj1grtq5EQICr-9RYvPU59uHFRBluzVoZ3TZLXEXBcF5bOPerpb_Ck-e6oNz6P4MO1VAiqbBXuPbImhng1CoRnRYHWSZTGOloHmYB5khhpCK5wW348uMgqmWIjTQPnOwCGV7OiPXJoJDWV0n1IPGP80hADXD3AnmRKbTb8jxyGQenhlgIpvNo29I/s1600/linux-kvm.jpg",
@@ -11462,6 +11471,15 @@
     "summary": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management in\u2026",
     "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware"
   },
+  "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZn36WwWfaOwK7XCU9aKjVPS7QAyrnBKsKMXtVRyYbD2X30HI-ojl5F8ttD9VcbXB36anuKWq-JGEhzPq1fjwnEhKPKMjkPDMPAFe8OqR85N1dc0QZoZ7JCN9ziqGuQ8M4irelfxa_zca62EV-s9qBO9WI47ECtzM8Zi2X8T-MFfuRRbJQ8u48Y2RRt3UT/s1600/cisa-main.jpg",
+    "published": "2026-07-08T05:33:12+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnera\u2026",
+    "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV"
+  },
   "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkaU5jHNUkuBuH0Obx-gU_L4wSKOWP9bPwZeyD8tY1hIHShQozXYO2UckRTb2z5SwreXgHxLzePWkBfixNzYWsJ6eXioRllicv96TA8QvXBerGAguD3uA2T1DcMaURdi5BdMcNlY4DF_DPk-kdNXvIZfz8QMnrekgc-Hjksqf5OCHy11j0zcT668GgBhnc/s1600/citrix.jpg",
@@ -11471,6 +11489,15 @@
     "summary": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facil\u2026",
     "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service"
   },
+  "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRD_854zsswRvh7xWklnbEkAjmk7UZy_-dQzlueMbq1ib7deDs-QH0av7XRZ1WEq3vcX57cDDcioIdkebKCiF7qr8xC9Evw7GmFuDS0kQt3mnpXgb3Q2H62eHPIgCy3rk1Mj3uM-Mge0XTfMgSCGaumk3i5KatoyrFnu_PUhg8cZGY1ZAd185qsNqZ1jE/s1600/md-id.jpg",
+    "published": "2026-07-07T13:27:20+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint.\n\nMi\u2026",
+    "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker"
+  },
   "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjItlLuWZZxw3YcKcnCVEsKn7HKF0QcPnXqFNjor23XT93Xp49dvLt4tZFYIbUApP4eABXQZ3pwnoidAp5GW1wm7ZfBA6vXRlX7i0Lbzw4KWlSkxayxjZQeoxg3TEAQWmLdGP9DePsYjoC1p07KGommOwATsJOHhRQ2zZatOaFRzHoKHVHcQW8K9s-Hd5w/s1600/cato.jpg",
@@ -11479,6 +11506,15 @@
     "source": "The Hacker News",
     "summary": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall f\u2026",
     "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands"
+  },
+  "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg__v7vicSomxW52wnr8HsJgQKf0vg3kdjUicmIUCMCDexaBZ68pLZzXKVSJxNEeBuBuEzueOldcd5GhtGQI-8eMqd9j0QWMqGScmbZpqBS9RFkXxXSfOZYhBSGqD8BBDfVUEn4RN86sKhgkl9xkJtYMl-7a2zsIU6LCC5j_U2BkupJGr3JqP9_GZCHfHtl/s1600/ms-device-code.jpg",
+    "published": "2026-07-07T15:14:14+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per findings f\u2026",
+    "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts"
   },
   "https://thehackernews.com/2026/07/european-parliament-member.html": {
     "categories": [],
@@ -11669,6 +11705,15 @@
     "summary": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic that AI t\u2026",
     "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware"
   },
+  "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj35Nf4KvfpGfbhGpq7fhtkXFhxKtTqAEFF5dX23th60tiUCMEYsuOXfiH-kIq1PRUWrRBMo92M6SCtE8chA882l0wCOO2gs1skw-h_sOqfA9jOcED6IYr2RVWkVzKohekZdvzOTZ9QpPnGDtOtJI9jYjWlPiAgvc1dG4Yuy-J02v8GA9rkweGIF000-lA/s1600/githubs.jpg",
+    "published": "2026-07-07T14:04:50+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown.\n\nThe attacker needs only to open\u2026",
+    "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data"
+  },
   "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5gkjf1FwB4__nC6-pLZYnDv2rJA29UAL9mxfCv4BNSl1FxNpat9jD-OiMRLewjXJXyiSGvqiLYcewN_b1lLFHh0FhzKkrHFzu82jziSuOodYX87FkwjuCcXaqwzWRsiFdsBcd9mzDnak1rJpDu46F8TV206IEcD1pE7njojB8TcQEZ4Wa70KnK2vyeVKI/s1600/ransomwares.jpg",
@@ -11678,6 +11723,15 @@
     "summary": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access.\n\n\"Although tactics differ between a\u2026",
     "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials"
   },
+  "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdqPEGRKkKA7pjGNpR8hijHzJLPvyPD1g1C8bTt91eLUOFdu6Jw99i8LFybvHG9SP3syQ8shdXpC6EhinlQoB9aTgBMtejiCWAzVhhTi0o3nCTKZeKNnwDY0J_Lbf9LGN-KIQIoJ7-GW2op-JUcBg64uz5Actwh7TsFEstwNx9fXnLj4SODskUpnX9TPE/s1600/android-trojan-telegram.jpg",
+    "published": "2026-07-07T17:10:15+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and ca\u2026",
+    "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service"
+  },
   "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXEaR4unJmt3rBY1LzI0Gq_veoF7Qzi-yPQNUcoR2oNV802lQ4MZAviyeq7bBh73PLAyp1quTozDq0ki_zm_9qsJIIfAUTaG8jFTv5dpxvuDUPJZA2BU4Zo11wIVyysWeMROXv8z2XOZoPOoJPVqMEJEhCI_OE1mM5wnSCFHJ1sgjl5411fZ4srklq5Fbs/s1600/clickfix-payloads.jpg",
@@ -11686,6 +11740,15 @@
     "source": "The Hacker News",
     "summary": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office.\n\nNew research shows the malicious commands behind its fake \"prove you're human\" pages are no\u2026",
     "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery"
+  },
+  "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9i8xIVWZcplpj-QuKnJKGAJjGi0Xq-q2R_luyy-HYXWkpsAPTYASmVbm2w2DoNOQkA81fyu0OQsbflhLykcYQpv66UDBeRxU1v5-xq7kQDQMS0cmvsCFmZI36jfyGxh6xrroU4hNhH_8_nOyXV_WG07om2t4riI-HP4wzE3HJr2KJ3-sUnKxbTNhV84k/s1600/google-chatbots.jpg",
+    "published": "2026-07-07T16:37:33+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project.\n\nFrom \u2026",
+    "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots"
   },
   "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html": {
     "categories": [],
@@ -11785,6 +11848,24 @@
     "source": "The Hacker News",
     "summary": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs.\n\nThe activity has bee\u2026",
     "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer"
+  },
+  "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0OJ0wrmDju3vsLQqciy7DCza9juzf5jkuI6VPy8mXFoQ-2hVj7uNgqJD8ti8Pft2gayFWUH9TfOuIkqnKyduhjMP9-wqBxuvHPoyp39keS52R_MpsuO0bsKX03-fy2PA3V-gjqOaKuSKoOWaotAyzf9Tsc_zUGJpf4i81bHMrCJYhTo7AjtfsdN_OKuY/s1600/AI-WRITER.jpg",
+    "published": "2026-07-07T11:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "What Changes When Your Software Supply Chain Includes AI Writing Your Code? Software supply chain security was hard enough. Then AI joined the build pipeline.\n\nFor five years, \"software supply chain security\" meant one question: what's in your code? Which open-source packages, wh\u2026",
+    "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?"
+  },
+  "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH0EnuZfnTZVOg-ACF0jKSHBB8TemRtJ6vlDerjpWy9giH2VsJTP_XiktA9SCytwnDcP95jn4gyQaPk2r92S-J-4EcB7FDvenxXiNwJKtg1VQkV_f564nT6mrS6S3wuMX3SC22kdd5nJM9y4IecNKJ3CRq569DtujHzUgaVOAwQDpfvCgkCrSrfeRjT1CQ/s1600/writerai.jpg",
+    "published": "2026-07-07T13:27:09+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result in cr\u2026",
+    "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/": {
     "categories": [
@@ -12951,6 +13032,18 @@
     "source": "BleepingComputer",
     "summary": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates Kali\u00a0Linux 2026.2, the second release of the year, is now available for download, featuring 9 new tools and numerous\u00a0Kali NetHunter improvements. [...]",
     "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates"
+  },
+  "https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/": {
+    "categories": [
+      "Linux",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-07T12:06:09+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New Januscape Linux flaw allows VM escape on Intel, AMD devices A 16-year-old Linux kernel vulnerability, dubbed Januscape, allows attackers to escape a virtual machine and execute arbitrary code on the host. [...]",
+    "title": "New Januscape Linux flaw allows VM escape on Intel, AMD devices"
   },
   "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/": {
     "categories": [
@@ -15800,6 +15893,17 @@
     "summary": "A Practical Guide to Continuous Attack Surface Visibility Passive scan data goes stale fast as cloud assets shift daily, leaving teams blind to real exposures. Sprocket Security shows how continuous, automated recon gives accurate, up-to-date attack surface visibility. [...]",
     "title": "A Practical Guide to Continuous Attack Surface Visibility"
   },
+  "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-07T22:06:07+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Accenture confirms breach after hacker offers stolen data for sale IT services giant Accenture has confirmed it suffered a security breach after a threat actor claimed to have stolen 35 GB of source code and other data from the company. [...]",
+    "title": "Accenture confirms breach after hacker offers stolen data for sale"
+  },
   "https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/": {
     "categories": [
       "Security"
@@ -17133,6 +17237,17 @@
     "summary": "Chinese hackers breach REDCap servers, steal medical research A China-linked espionage campaign targeted exposed REDCap servers to deploy the InfiniteRed malware and steal sensitive data from a medical institution in North America. [...]",
     "title": "Chinese hackers breach REDCap servers, steal medical research"
   },
+  "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-07T18:52:19+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Chinese hackers develop LONGLEASH malware to expand ORB network Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet-facing networking devices, primarily unpatched Ruckus routers. [.\u2026",
+    "title": "Chinese hackers develop LONGLEASH malware to expand ORB network"
+  },
   "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/": {
     "categories": [
       "Security"
@@ -17563,6 +17678,17 @@
     "source": "BleepingComputer",
     "summary": "CISA orders feds to patch max-severity Cisco flaw by Sunday The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity vulnerability, CVE-2026-20131, in Cisco Secure Firewall Management Center (FMC) by Sunday,\u00a0March 22. [.\u2026",
     "title": "CISA orders feds to patch max-severity Cisco flaw by Sunday"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-08T07:16:55+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA orders feds to patch max severity ColdFusion flaw by Friday The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform b\u2026",
+    "title": "CISA orders feds to patch max severity ColdFusion flaw by Friday"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/": {
     "categories": [
@@ -22563,6 +22689,18 @@
     "source": "BleepingComputer",
     "summary": "Healthtech firm Xolis suffers data breach impacting 1.4 million people Healthcare technology company Xsolis says that sensitive data belonging to nearly 1.4 million individuals was compromised in a phishing attack that gave attackers access to its network. [...]",
     "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people"
+  },
+  "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/": {
+    "categories": [
+      "Security",
+      "Hardware"
+    ],
+    "image": "",
+    "published": "2026-07-07T17:27:22+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Hidden backdoor in Tenda router firmware grants admin access A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel. [...]",
+    "title": "Hidden backdoor in Tenda router firmware grants admin access"
   },
   "https://www.bleepingcomputer.com/news/security/hidden-telegram-proxy-links-can-reveal-your-ip-address-in-one-click/": {
     "categories": [
@@ -28379,6 +28517,18 @@
     "summary": "Spain arrests suspected hacktivists for DDoSing govt sites Spanish authorities have arrested four alleged members of a hacktivist group believed to have carried out cyberattacks targeting government ministries, political parties, and various public institutions. [...]",
     "title": "Spain arrests suspected hacktivists for DDoSing govt sites"
   },
+  "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-07-07T15:21:21+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Spain arrests suspected member of pro-Russian hacktivist groups The National Police in Spain have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, both pro-Russian hacktivist groups. [...]",
+    "title": "Spain arrests suspected member of pro-Russian hacktivist groups"
+  },
   "https://www.bleepingcomputer.com/news/security/spain-arrests-teen-who-stole-64-million-personal-data-records/": {
     "categories": [
       "Security"
@@ -28937,6 +29087,17 @@
     "summary": "The Gentlemen ransomware now uses SystemBC for bot-powered attacks A SystemBC proxy malware botnet of more than 1,570 hosts, believed to be corporate victims, has been discovered following an investigation into a\u00a0Gentlemen ransomware attack carried out by a gang affiliate. [...]",
     "title": "The Gentlemen ransomware now uses SystemBC for bot-powered attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-07T14:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeline, and how organizations can better govern their CI/CD workflows\u2026",
+    "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss"
+  },
   "https://www.bleepingcomputer.com/news/security/the-hidden-risk-in-virtualization-why-hypervisors-are-a-ransomware-magnet/": {
     "categories": [
       "Security"
@@ -29362,6 +29523,17 @@
     "source": "BleepingComputer",
     "summary": "Ubiquiti patches three max severity UniFi OS vulnerabilities Ubiquiti has released security updates to patch three maximum severity vulnerabilities in UniFi OS that can be exploited by remote attackers without privileges. [...]",
     "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities"
+  },
+  "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-08T08:15:20+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Ubiquiti warns of new max severity  UniFi OS vulnerability Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a\u00a0maximum-severity flaw that can be exploited in command injection attacks. [...]",
+    "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability"
   },
   "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/": {
     "categories": [
@@ -30327,6 +30499,17 @@
     "source": "BleepingComputer",
     "summary": "Webinar tomorrow: From alert to resolution in network incident response Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automation and AI-assisted workflows can help IT teams accelerate\u2026",
     "title": "Webinar tomorrow: From alert to resolution in network incident response"
+  },
+  "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-07T12:12:20+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Webinar tomorrow: Why modern email attacks require a new approach to defense Tomorrow's webinar explores how behavioral AI can help organizations detect sophisticated phishing, business email compromise, and account takeover attacks while reducing alert fatigue through automated \u2026",
+    "title": "Webinar tomorrow: Why modern email attacks require a new approach to defense"
   },
   "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/": {
     "categories": [
@@ -31606,6 +31789,15 @@
     "source": "darkreading",
     "summary": "Dell's Hard-Coded Flaw: A Nation-State Goldmine A China-related attacker has exploited the vendor flaw since mid-2024, allowing it to move laterally, maintain persistent access, and deploy malware.",
     "title": "Dell's Hard-Coded Flaw: A Nation-State Goldmine"
+  },
+  "https://www.darkreading.com/application-security/dialogflow-cx-rogue-agent-flaw-enabled-ai-chatbot-data-theft": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteca04007bb68f1f6/6a4d5127491628186986abc0/Agent_breaking_through_firewall-Richard_Drury-Getty-2219277246.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-07T20:36:43+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Dialogflow CX 'Rogue Agent' Flaw Enabled AI Chatbot Data Theft Varonis reported the flaw to Google in late 2025 and it has been addressed, but it reminds defenders to take a fresh look at their AI Infrastructure security.",
+    "title": "Dialogflow CX 'Rogue Agent' Flaw Enabled AI Chatbot Data Theft"
   },
   "https://www.darkreading.com/application-security/difytap-bugs-wiretap-ai-chat-histories": {
     "categories": [],
@@ -33033,6 +33225,15 @@
     "summary": "Europe's GCVE Raises Concerns Over Fragmentation in Vulnerability Databases GCVE would enhance global collaboration, flexibility, and efficiency in tracking security flaws. Duplicate entries and a decentralization policy may create more chaos for defenders.",
     "title": "Europe's GCVE Raises Concerns Over Fragmentation in Vulnerability Databases"
   },
+  "https://www.darkreading.com/cyber-risk/gitlost-leaks-private-data-github-agentic-workflows": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10ffb7d3c09c15f9/6a4cd672541f2a099e941684/Unlock_Data_Breach_Pattara_Alamy.png?width=720&quality=80&disable=upscale",
+    "published": "2026-07-07T15:24:30+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "'GitLost' Flaw Leaks Private Data From GitHub's Agentic Workflows The flaw allows an unauthenticated attacker to craft a GitHub Issue in an org's public repository and then silently pull data from its private repos, too.",
+    "title": "'GitLost' Flaw Leaks Private Data From GitHub's Agentic Workflows"
+  },
   "https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd919de1e6eb08bb9/6a18cae74c25b5264e1e240f/Terminator-Over_There_Pics-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -33742,6 +33943,15 @@
     "source": "darkreading",
     "summary": "The Beginning of the End of Social Engineering AI-native operating systems are shifting the responsibility to stay vigilant against social engineering cyberattacks from the user onto the system itself.",
     "title": "The Beginning of the End of Social Engineering"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/big-brand-jobs-scam-marketing-pros-google-accounts": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt446e24d69e36537b/6a4d61e6da407598830165a7/phishing-Supatman-Getty-2220462827.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-07T21:02:29+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Big Brand Jobs Scam Targets Marketing Pros' Google Accounts The phishing campaign uses several tactics, including nested redirects, to evade detection and steal credentials from unsuspecting targets.",
+    "title": "Big Brand Jobs Scam Targets Marketing Pros' Google Accounts"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/big-breach-or-nada-de-nada-mexican-govt-faces-leak-allegations": {
     "categories": [],
@@ -35505,6 +35715,15 @@
     "source": "darkreading",
     "summary": "Software Development Practices Help Enterprises Tackle Real-Life Risks Organizations can borrow secure-by-design processes to manage non-technical challenges like governance or the inevitable human error.",
     "title": "Software Development Practices Help Enterprises Tackle Real-Life Risks"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/state-ids-ai-agents-estonia": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt85611c1866a21569/6a4d55cc8fda9d615b941ebe/AI_agents-akinbostanci-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-08T08:01:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "State IDs for AI Agents: Will Estonia Set a Precedent? The world's digital testing ground plans to help people use AI agents for government purposes.",
+    "title": "State IDs for AI Agents: Will Estonia Set a Precedent?"
   },
   "https://www.darkreading.com/cybersecurity-operations/stay-top-future-threats-cutting-edge-soc": {
     "categories": [],
