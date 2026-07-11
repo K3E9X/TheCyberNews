@@ -11543,6 +11543,15 @@
     "summary": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall f\u2026",
     "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands"
   },
+  "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirVz95zYTg61VRro9unfJCWWwwUrv3pQdtyNT7rPL8iCg6n0S6bky4dqPiluQHfSvQMIO9cyYgrz-07ZCx8yG_qND_J9XJ_0BoUON9p3zj0etafNvjg45txAeu4uCDEMxGDNv2tIxNuqrC0OsKG_sWZp5QIlEkbqZ_g_EEcAdXUQbuo_EgsXwT3mERTTk/s1600/zimbra-email-hack.jpg",
+    "published": "2026-07-11T06:45:55+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution.\n\nThe vulnerability has been d\u2026",
+    "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions"
+  },
   "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg__v7vicSomxW52wnr8HsJgQKf0vg3kdjUicmIUCMCDexaBZ68pLZzXKVSJxNEeBuBuEzueOldcd5GhtGQI-8eMqd9j0QWMqGScmbZpqBS9RFkXxXSfOZYhBSGqD8BBDfVUEn4RN86sKhgkl9xkJtYMl-7a2zsIU6LCC5j_U2BkupJGr3JqP9_GZCHfHtl/s1600/ms-device-code.jpg",
@@ -11570,6 +11579,15 @@
     "summary": "European Parliament Member Investigating Spyware Was Hacked With Pegasus A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a co\u2026",
     "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus"
   },
+  "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgruetcUTsay2-ledgCIdCPKK_bPRiTzuXzYeUiLR3xuazZgHTmxO4Gz6PyyuwdFUVoHHOCbq5PksEMW18dSsdzCJddBMr8vQ3TQO3PIqXExF_17RGVfKRD8cPltNjh6eV1fgXM-pYYlwZnWaZcf7oo50CahUBY5AWt8-IS1K7KxhlL9GFLDcAk1ruwMSI/s1600/hacker-server.jpg",
+    "published": "2026-07-10T11:30:02+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists nami\u2026",
+    "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites"
+  },
   "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0R7K2HuXIaXAr6VokIBdoRH5Zk8L2jJMM5abiDPtiOsT3DsQnI-FRSuTO02mekKGj2Cup9RBBYgAhyo92KHjyCTsMuctH8lYgwysOxpLpHp9uIuL7xBEuojc83nmWH7pcA1KRlu8W9-7b1caaoQMaNX2qATV_7e-CwoPSFk08VwjbRx2M-fgfMcjN3KeW/s1600/7-zip-malware.png",
@@ -11596,6 +11614,15 @@
     "source": "The Hacker News",
     "summary": "Top\u00a0AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead.\n\nThat is the finding in a&nbsp;proof-of-concept published Wednesday&nbs\u2026",
     "title": "Top\u00a0AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It"
+  },
+  "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGplfQpPmwb3F3h_tdGW9-jNmpKBLd2DdhOw1nugXafk9rWwqxFwvD5xE1L1Qs0zvZvgi7Fx_jhj9kIn9PhOvWYuLMd9n7fOeXnfzujPanNBTqmMC4SKi__b_KFtpnmNkz-jtzB2tcjgO_ceckyR4Er4Gl3LASJKbyGvZVhkqP6m9Xdx12WO6xWROBzFk/s1600/million.jpg",
+    "published": "2026-07-10T11:39:40+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Action\u2026",
+    "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale"
   },
   "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html": {
     "categories": [],
@@ -11642,6 +11669,15 @@
     "summary": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic.\n\nWorking with the FBI, Lumen, and others, Google's Threat \u2026",
     "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices"
   },
+  "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1L4YdSw3-1jg88TMzYxjsqRmu3Bq-VkmyGg742mMsJaIyhyaBk5MBeEFOxagE4H6GFjfH8ey1114iqyT0LuKYFdu7ocZhOrA3WQCvtNZGBknEJ1wTdb5vJ-M8w5kLXaUoBi39TXducoH8jZVrQ1xQQsBtEf0rrGJGfappdR1CrSB3xvaJC8Dgos2XdC37/s1600/Microsoft-Entra-Passkey-Enrollment.jpg",
+    "published": "2026-07-10T10:30:20+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry ou\u2026",
+    "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access"
+  },
   "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeiJymlyu6GGdzNT0Fb3yi6rYZdNn_XCoDUKKV9zSD_p17gngK7FL-IDm5LLTYlGx6Rn2Em6v0TSDq7u_1lttLyp1b97z7YrjSrFK7MrYAG2k1YXI91fHRRTRoPV1xIQSukE1DwqRcHY6i6fIS0jC2CaKv18OhFWHi2fKvXRKmZ6MBgSoRMDWGxmQKlfTt/s1600/aisoc.jpg",
@@ -11660,6 +11696,15 @@
     "summary": "Identity Lifecycle Management Wasn't Built for AI Agents Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals proliferate across enterprise environments, th\u2026",
     "title": "Identity Lifecycle Management Wasn't Built for AI Agents"
   },
+  "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTNxzPo9jxkW3GuuZLBgtPOrG3vZ3va6E710jDJu_JF0jCpyQ1JTpymdVwdSH2VHL6-Ib6YLInvKsuNwgFJxna1nvDhwKMZ_hycTik5OgQniZei2FQ59-F3s80lsnPmhQ1aJsr7qIWWrf63V0AtHQxd_1Nlk6LkVEheoN5lRYH8aTeBoJ-kM1-bOjUgAwa/s1600/npm-malware-2.jpg",
+    "published": "2026-07-10T16:29:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemon\u2026",
+    "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages"
+  },
   "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80nucNUGoxxOtE3SUY1SkDSu77qENrl96c2MUoLWdwAo3ZVoA4FS2QfOdM9c5bsZUJdX1ZxIsXgu7pvVfUzXz3GMZJHmblFTjv5C08dbxvLqXol72iHaD-zH950EZdXUCS-b7F2T-bn8SgqQb9nXA-uOPIaX5V0eaNNmKlQJfWHAKaPAhqsgNL0wTgJH6/s1600/cavern.jpg",
@@ -11668,6 +11713,15 @@
     "source": "The Hacker News",
     "summary": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka C\u2026",
     "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations"
+  },
+  "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BbJcQ3TUJxFvOCpAChyC5saD3RGgDCtLtVG-Wupee7poBksO2TzSWFtzQmjjoXuZ-9hnCNR3HuWdSsBv7YZl477fdOcjoOBh72RY4vJ9R0hxUWktV2R7wgTsRa-_Zz5Bj_ZGfQOVT8v292QJ55C9hMumk-IgXd-PVZ6LFu2ZDyCGwjNtJhCYb4W-mPDO/s1600/ll.jpg",
+    "published": "2026-07-10T14:51:49+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched Researchers at Ledger's&nbsp;Donjon security team&nbsp;have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the att\u2026",
+    "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched"
   },
   "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html": {
     "categories": [],
@@ -11776,6 +11830,15 @@
     "source": "The Hacker News",
     "summary": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments.\n\nAccording to LevelBlue, the cross-platf\u2026",
     "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS"
+  },
+  "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKTCUzhkUq2Y7DPv0yS2FatrHQTcHfupRly6f5kSWyQU-So3FOjpC8pt_VKR4qo1SoUGR65ycOEQonbW5heKWj1g_A8qDy69YtWGZDO4m2t46Sip-jdPAlNs2fpRj-w1yd8WpyJpNFUpj1iTBO0X6fy3n9DJ4aEdsWaQz_tN-VV-PxDrufKZR9wkznmXJQ/s1600/MODBEACON.jpg",
+    "published": "2026-07-10T13:15:23+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON.\n\nChinese cybersecurity company QiAnXin said that while the threat cluster may \u2026",
+    "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic"
   },
   "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html": {
     "categories": [],
@@ -11903,6 +11966,15 @@
     "summary": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office.\n\nNew research shows the malicious commands behind its fake \"prove you're human\" pages are no\u2026",
     "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery"
   },
+  "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs80_SEcGa8Q18LOUd4Y3fWiWZRh6MOX6U3LhAyAVVewqJVSd1cq2bgepE_2vS0eg9qvr0iM1JOYnYd9GPDQ-LZiTP4-J8oEpZjAMc2ivQ9QiNTMbf1BYONSvBOvZaVat_1PUWjM9O72K_pdF74UKhHm-dd-wXKLp8BDoV4dQZTi1HWOUCWbozpd4muH0i/s1600/openclaw-whatsapp.jpg",
+    "published": "2026-07-10T14:19:50+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escala\u2026",
+    "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws"
+  },
   "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9i8xIVWZcplpj-QuKnJKGAJjGi0Xq-q2R_luyy-HYXWkpsAPTYASmVbm2w2DoNOQkA81fyu0OQsbflhLykcYQpv66UDBeRxU1v5-xq7kQDQMS0cmvsCFmZI36jfyGxh6xrroU4hNhH_8_nOyXV_WG07om2t4riI-HP4wzE3HJr2KJ3-sUnKxbTNhV84k/s1600/google-chatbots.jpg",
@@ -11938,6 +12010,24 @@
     "source": "The Hacker News",
     "summary": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing ev\u2026",
     "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation"
+  },
+  "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihuE5rUYRadx5Q2auJjv9dVeFNIP8XSwSTaH0PDwGLUA54MXlPy3AyI532a8OnhXadtWnCCH30qvUKW9C3rCOu1LPld1or5_lXwNhRVqbohHNInDzNd1f9E77Sox5yB-ir7H69LmlYRKnoqnFASOMFa2TIK2RfTThJvu_oofIXHCpiRbXGXWy-bquBWsw/s1600/bootloader.gif",
+    "published": "2026-07-10T15:57:14+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot Researchers at firmware security firm&nbsp;Binarly&nbsp;have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chi\u2026",
+    "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot"
+  },
+  "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGJR5fh4xv_X2JER6SMxM62unaK2pucigiJwiE69bCR9n3fgVMqlH2zWpTsmiy4d936R46czjNmkAjDpU7yZgPMl6KFp7phz3kQ9sO1XaE3JHMW0VCUtwN3_zOqOcUfKdbJTJjWjahA44NPMXMif0JqnO_kzJDfuHT0HJvtOlndAvheFqNrpviHXVQ_DIb/s1600/android-vpn-security.jpg",
+    "published": "2026-07-10T10:56:23+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their \u2026",
+    "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking"
   },
   "https://thehackernews.com/2026/07/summer-of-clearinghouses.html": {
     "categories": [],
@@ -12037,6 +12127,24 @@
     "source": "The Hacker News",
     "summary": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices Security firm runZero has&nbsp;disclosed seven vulnerabilities&nbsp;in&nbsp;FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD ca\u2026",
     "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices"
+  },
+  "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQHphr7bXE4J4-EmYSWy0cjHarUBibR2JrXpFbwDKMZnsWbiUsC9UE7g3x2r8WFDLB7BBZlH2kDJ3I9QqF8IIGLPiZda93wKUaDqJC8Nv11yrd7VPm9RmBOky0yRXGRhhcDqbwNCZvHiGTkKRb06XAwFiGl0juzUeFBn3LUDwFfxZVNlInVmXTNI4cMLI/s1600/XQUIC-demo.gif",
+    "published": "2026-07-10T11:47:43+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch.\n\nFoxIO researcher S\u00e9b\u2026",
+    "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers"
+  },
+  "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgULXOG2_Ph1198nw2lOea2pYE9u1GkPHaaMlzhpO48pOmejpWKFuHbchUac5JIRQHGiIMMTefXq-LktA8AjsqqMIsBS54bLaludxIJbq7chYfo_Vsoqf9Xi7YomnSUL9wHAYa5InCST76k1aP10VMmNKK_MDLD3o5zNXyB4ODMRMl0DbLkz9f2mg2k2S8/s1600/progress.jpg",
+    "published": "2026-07-10T16:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \u2026",
+    "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat"
   },
   "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html": {
     "categories": [],
@@ -22632,6 +22740,17 @@
     "summary": "Hackers exploit critical auth bypass flaw in JobMonster WordPress theme Threat actors are targeting a critical vulnerability in the JobMonster WordPress theme that allows hijacking of administrator accounts under certain conditions. [...]",
     "title": "Hackers exploit critical auth bypass flaw in JobMonster WordPress theme"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-10T15:48:38+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit critical auth bypass in Gitea Docker image Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]",
+    "title": "Hackers exploit critical auth bypass in Gitea Docker image"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/": {
     "categories": [
       "Security"
@@ -25076,6 +25195,18 @@
     "summary": "MKVCinemas streaming piracy service with 142M visits shuts down An anti-piracy coalition has dismantled one of India's most popular streaming piracy services, which has provided free access to movies and TV shows to millions over the past two years. [...]",
     "title": "MKVCinemas streaming piracy service with 142M visits shuts down"
   },
+  "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-07-10T15:30:19+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Money launderer accused of stealing seized crypto while in prison A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims. [...]",
+    "title": "Money launderer accused of stealing seized crypto while in prison"
+  },
   "https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/": {
     "categories": [
       "Security",
@@ -26281,6 +26412,17 @@
     "source": "BleepingComputer",
     "summary": "New Torg Grabber infostealer malware targets 728 crypto wallets A new info-stealing malware called Torg Grabber is stealing sensitive data from 850 browser extensions, more than 700 of them for cryptocurrency wallets. [...]",
     "title": "New Torg Grabber infostealer malware targets 728 crypto wallets"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-10T21:59:02+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New U-Boot flaws could enable stealthy firmware attacks Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security p\u2026",
+    "title": "New U-Boot flaws could enable stealthy firmware attacks"
   },
   "https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/": {
     "categories": [
@@ -27573,6 +27715,17 @@
     "summary": "Police sinkholes 45,000 IP addresses in cybercrime crackdown An international law enforcement action codenamed \"Operation Synergia III\" has sinkholed tens of thousands of IP addresses and seized servers linked to cybercrime operations worldwide. [...]",
     "title": "Police sinkholes 45,000 IP addresses in cybercrime crackdown"
   },
+  "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-10T16:37:01+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Police suspects Dutch hackers were involved in Odido breach The Dutch National Police (Politie) says it has found \"strong indications\" that Dutch hackers have been involved in a February breach at the telecommunications provider Odido. [...]",
+    "title": "Police suspects Dutch hackers were involved in Odido breach"
+  },
   "https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/": {
     "categories": [
       "Security"
@@ -27774,6 +27927,17 @@
     "source": "BleepingComputer",
     "summary": "Proactive strategies for cyber resilience with Wazuh Cyber resilience means anticipating threats, detecting them early, and recovering fast when incidents occur. Wazuh shows how its open source SIEM and XDR unify visibility, detection, and automated response to strengthen proacti\u2026",
     "title": "Proactive strategies for cyber resilience with Wazuh"
+  },
+  "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-10T16:26:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Progress urges ShareFile admins to shut down servers over \u201ccredible\u201d threat Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a \"credible external security threat\" targe\u2026",
+    "title": "Progress urges ShareFile admins to shut down servers over \u201ccredible\u201d threat"
   },
   "https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/": {
     "categories": [
@@ -28325,6 +28489,18 @@
     "source": "BleepingComputer",
     "summary": "Manager of botnet used in ransomware attacks gets 2 years in prison A Russian national has been sentenced to two years in prison after admitting that the phishing botnet he managed was used to launch BitPaymer ransomware attacks against 72 U.S. companies. [...]",
     "title": "Manager of botnet used in ransomware attacks gets 2 years in prison"
+  },
+  "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-07-10T17:46:10+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]",
+    "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison"
   },
   "https://www.bleepingcomputer.com/news/security/salesforce-investigates-customer-data-theft-via-gainsight-breach/": {
     "categories": [
@@ -29573,6 +29749,17 @@
     "source": "BleepingComputer",
     "summary": "The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms Refund fraud is now a business, with methods and tutorials sold to exploit return policies for profit. Flare shows how fraudsters turn refunds and chargebacks into a repeatable profit model. [...]",
     "title": "The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-10T14:00:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "The Replicant in Your Directory: AI Agents and the Identity Security Gap AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibility and \u2026",
+    "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap"
   },
   "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/": {
     "categories": [
@@ -31661,6 +31848,17 @@
     "summary": "ZeroDayRAT malware grants full access to Android, iOS devices A new commercial mobile spyware platform dubbed ZeroDayRAT is being advertised to cybercriminals on Telegram as a tool that provides full remote control over compromised Android and iOS devices. [...]",
     "title": "ZeroDayRAT malware grants full access to Android, iOS devices"
   },
+  "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-10T11:47:38+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Zimbra urges customers to patch critical web client XSS flaw The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite. [...]",
+    "title": "Zimbra urges customers to patch critical web client XSS flaw"
+  },
   "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/": {
     "categories": [
       "Security"
@@ -31907,6 +32105,15 @@
     "source": "darkreading",
     "summary": "AI Developed Code: 5 Critical Security Checkpoints for Human Oversight To write secure code with LLMs developers must have the skills to use AI as a collaborative assistant rather than an autonomous tool, Madou argues.",
     "title": "AI Developed Code: 5 Critical Security Checkpoints for Human Oversight"
+  },
+  "https://www.darkreading.com/application-security/ai-coding-security-risks-productivity-gains": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfc206a4328894432/6a5003e314cb1e87db5d7a27/robot_hands_on_keyboard-Moor_Studio-Getty-2246656580.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-10T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI Coding: Do Security Risks Outweigh Productivity Gains? AI coding tools cost $19-$200/month/user, but security scanning, remediation, and false positives add hidden costs. Are the productivity gains worth it?",
+    "title": "AI Coding: Do Security Risks Outweigh Productivity Gains?"
   },
   "https://www.darkreading.com/application-security/ai-coding-tools-endpoint-security": {
     "categories": [],
@@ -33893,6 +34100,15 @@
     "source": "darkreading",
     "summary": "Middle East Conflict Highlights Cloud Resilience Gaps Data centers \u2014 used by both governments and militaries for operations \u2014 are now fair game, not just for cyberattacks, but for kinetic attacks as well.",
     "title": "Middle East Conflict Highlights Cloud Resilience Gaps"
+  },
+  "https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltea14c9f0b9e9121d/6a50fb99c6689e7d0b90589b/GettyImages-2252881496.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-10T13:50:24+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "More Countries Jump on the Social Media 'Ban Wagon' Age restrictions on accounts may be more of a stopgap because industry compliance is already falling short. Tech giants are struggling to follow the laws without affecting users.",
+    "title": "More Countries Jump on the Social Media 'Ban Wagon'"
   },
   "https://www.darkreading.com/cyber-risk/more-dashboards-ai-decisions-provable": {
     "categories": [],
@@ -36010,6 +36226,15 @@
     "summary": "Iran-Nexus Threat Actor UNC1549 Takes Aim at Aerospace Researchers say Israel remains a central focus, with UNC1549 targeting aerospace and defense entities in the US, the UAE, Qatar, Spain, and Saudi Arabia.",
     "title": "Iran-Nexus Threat Actor UNC1549 Takes Aim at Aerospace"
   },
+  "https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd0404c576a980a37/6a51584597c98ae9da9a9b59/jen-ellis-nextjensecurity.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-10T19:08:04+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Jen Ellis: Connecting Cyber Community With Political Machinery Security Pro File: On the heels of her recent honors as a Member of the Order of the British Empire (MBE), we take a look back at the events that shaped Jen Ellis' advocacy on behalf of security researchers.",
+    "title": "Jen Ellis: Connecting Cyber Community With Political Machinery"
+  },
   "https://www.darkreading.com/cybersecurity-operations/kenya-kicks-off-code-nation-nod-cybersecurity": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt68431b1dc6a14503/6913b587b1e8da847ac4fa30/kenya-digital-flag-GagoDesign-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -37605,6 +37830,15 @@
     "summary": "Out-of-the-Box Expectations for 2026 Reveal a Grab-Bag of Risk Security teams need to be thinking about this list of emerging cybersecurity realities, to avoid rolling the dice on enterprise security risks (and opportunities).",
     "title": "Out-of-the-Box Expectations for 2026 Reveal a Grab-Bag of Risk"
   },
+  "https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1b6b2d15edbb34ff/6a501046f2ad521509a98709/UMMC-Childrens-Hospital-Jackson-Chad_Robertson_Media-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-10T16:51:34+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Cybercriminals Flock to Healthcare Businesses as Attacks Surge While cyberattacks against hospitals and clinics grew modestly in the first half of 2026, attacks on service providers and other healthcare businesses more than doubled.",
+    "title": "Cybercriminals Flock to Healthcare Businesses as Attacks Surge"
+  },
   "https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1b218e107bc27d9c/6944ce944152047a75f028fd/back2thefuture1800_Pictorial_Press_Ltd_alamy_2.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -38458,6 +38692,15 @@
     "source": "darkreading",
     "summary": "Apple Patches More Zero-Days Used in 'Sophisticated' Attack Two Apple zero-day vulnerabilities discovered this month have overlap with another mysterious zero-day flaw Google patched last week.",
     "title": "Apple Patches More Zero-Days Used in 'Sophisticated' Attack"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte0e54c7d31cab23e/6a5000c3376bd6f180079dbb/ATM-AM29-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-10T14:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Fresh ATM Crypto Software Bugs: Jackpot or Bust? Organizations, and possibly ATMs, are at risk of compromise, thanks to holes in a Microsoft BitLocker security wrapper.",
+    "title": "Fresh ATM Crypto Software Bugs: Jackpot or Bust?"
   },
   "https://www.darkreading.com/vulnerabilities-threats/attackers-exploited-gogs-zero-day-months": {
     "categories": [],
