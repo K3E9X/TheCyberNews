@@ -11525,6 +11525,15 @@
     "summary": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facil\u2026",
     "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service"
   },
+  "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhodiWPXDsex6YL7v4e2n_D5MJFMht76GRRmHTdiG61tfEmsoZyow4tkiS3ORACILDl2fNP27YQkw1XLSBKGcom-DhCVzzPDdkdSgeMGdxcVL_rgO70x5LqZcjxKAPTtFOquB8LwSBPWrSpflqCzns-cFZ_EVm0WZfV7wSoPM3S-7_IGtCT3AjxY0rfITU/s1600/npm-js.jpg",
+    "published": "2026-07-11T17:59:26+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install The jscrambler npm package was compromised, and simply installing its&nbsp;8.14.0&nbsp;release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a&nbsp;pre\u2026",
+    "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install"
+  },
   "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRD_854zsswRvh7xWklnbEkAjmk7UZy_-dQzlueMbq1ib7deDs-QH0av7XRZ1WEq3vcX57cDDcioIdkebKCiF7qr8xC9Evw7GmFuDS0kQt3mnpXgb3Q2H62eHPIgCy3rk1Mj3uM-Mge0XTfMgSCGaumk3i5KatoyrFnu_PUhg8cZGY1ZAd185qsNqZ1jE/s1600/md-id.jpg",
@@ -11677,6 +11686,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry ou\u2026",
     "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access"
+  },
+  "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimRVwRIhs54UhNHyRll9YzVxICmTpgqwjAK1Sy7vYt6FAzb9oImcFpuM0J8dOWdtdjCdlROkternhP9r5jZD9HNvwVwcyRzhesdYgbVjUpJk7p4rxDDJSdEUibs1Gk-Ihy1bTcxs8fA7kgG49ImfTWEZO6068Ui-_X6sTTraCg8lFuucYJrUJi2RhdXyG2/s1600/pakistan.jpg",
+    "published": "2026-07-11T17:49:31+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat ac\u2026",
+    "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns"
   },
   "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html": {
     "categories": [],
@@ -16967,6 +16985,17 @@
     "summary": "Australia warns of ClickFix attacks pushing Vidar Stealer malware The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute \u00a0the Vidar Stealer info-stealing malware. [...]",
     "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware"
   },
+  "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-11T14:18:23+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Australia warns of global campaign targeting vulnerable CMS platforms The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
+    "title": "Australia warns of global campaign targeting vulnerable CMS platforms"
+  },
   "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/": {
     "categories": [
       "Security"
@@ -21713,6 +21742,17 @@
     "source": "BleepingComputer",
     "summary": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows. [...]",
     "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign"
+  },
+  "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-11T09:03:57+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open im\u2026",
+    "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets"
   },
   "https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/": {
     "categories": [
