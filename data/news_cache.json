@@ -11705,6 +11705,15 @@
     "summary": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very di\u2026",
     "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions"
   },
+  "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8FM8eXCuapKSUef3nzFlgzqlX4a5mJChM9YqCdHOi6QybQ8AM1xbM9NNTyAjS3iyz7iAX6vC8QVHl5zFlAgNyBIgm5FHgFkEGzOg5l3ZXNXI8ILA2GIGKtvYDuy-qpXmfeMHYxheps3XuPCtgedFa9vcimwad9kBjpbF0SEhhxpZoWsWybn0zcgNtppI/s1600/cisa-joomla.jpg",
+    "published": "2026-07-13T05:36:02+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KE\u2026",
+    "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days"
+  },
   "https://thehackernews.com/2026/07/identity-lifecycle-management.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwwp0Bf4s6Xp_L13nlIV5Pf2D0awJsA5cDdev6yCr9f7nLVbmJmzqJ01cmdJkO4K0E3KEvdHhK10ZDai_tXV6gZDmgJqhnsARjEhVScA9gsWHKL4zzt64aQSSgPBImpeYxLuMiORSByYXgQunRUhYhymV8AQfvYf6qsBieuh82794N44iaJ9lEl8IS8Z0/s1600/Identity-Lifecycle-Management.jpg",
@@ -11776,6 +11785,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public.\n\nThe vulnerability, tracked as CVE-2026-50656 (CVSS scor\u2026",
     "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges"
+  },
+  "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVh0XoiKxyvhXW_SN-Ynau8iPG3vd2ltt4cDr4L_cGUhc5oBmsogZt5A_l2qbTdPG8Ciu73I0mHhRBDRJ2uWasrA_vqnkdvpbQcdh0ipe-d_cz2HTFJWOCBNxplCO0RuppogFhl1OONqWWXOLQWhH_Bt89c160ZzHtkrnDJN6PsnYWNV1W510diYait_g/s1600/phishing-server-ms.jpg",
+    "published": "2026-07-13T07:30:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365 An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it:&nbsp;python3 -m htt\u2026",
+    "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365"
   },
   "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html": {
     "categories": [],
@@ -12536,6 +12554,18 @@
     "summary": "Claude Fable 5 isn\u2019t permanently leaving subscriptions, Anthropic says Anthropic says Claude Fable 5 won't be accessible via Claude subscriptions after July 7, but it's not a permanent change, and the company expects the model to return outside the usage-based plan soon. [...]",
     "title": "Claude Fable 5 isn\u2019t permanently leaving subscriptions, Anthropic says"
   },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-07-12T19:39:12+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]",
+    "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time"
+  },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/": {
     "categories": [
       "Artificial Intelligence",
@@ -12898,6 +12928,18 @@
     "source": "BleepingComputer",
     "summary": "OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation OpenAI previously confirmed that it's testing ads in ChatGPT for free and $8 Go accounts, and now we're seeing early signs of that rollout,\u00a0at least on Android. [...]",
     "title": "OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-07-13T00:44:44+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits OpenAI is temporarily relaxing GPT-5.6 Sol usage\u00a0after demand for the company's most powerful model\u00a0surged over the past 48 hours. [...]",
+    "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/": {
     "categories": [
@@ -28223,6 +28265,18 @@
     "summary": "Red Hat npm packages compromised to steal developer credentials More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dubbed \"Miasma.\" [.\u2026",
     "title": "Red Hat npm packages compromised to steal developer credentials"
   },
+  "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/": {
+    "categories": [
+      "Security",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-07-12T14:27:32+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "RedHook Android malware now uses Wireless ADB for shell access A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
+    "title": "RedHook Android malware now uses Wireless ADB for shell access"
+  },
   "https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/": {
     "categories": [
       "Security"
@@ -30504,6 +30558,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers exploit unpatched Gogs zero-day to breach 700 servers An unpatched zero-day vulnerability in Gogs, a popular self-hosted Git service, has enabled attackers to gain remote code execution on\u00a0Internet-facing instances and\u00a0compromise hundreds of servers. [...]",
     "title": "Hackers exploit unpatched Gogs zero-day to breach 700 servers"
+  },
+  "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-13T09:32:23+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "US and allies warn of Russian critical infrastructure attacks Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate critical infrastructur\u2026",
+    "title": "US and allies warn of Russian critical infrastructure attacks"
   },
   "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/": {
     "categories": [
