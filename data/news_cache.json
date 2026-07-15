@@ -11363,6 +11363,15 @@
     "summary": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar Your pentest report looks clean. That might be the problem.\n\nRun automated pentesting long enough, and the new findings start to dry up. By the third or fourth run, fewer issues appear. The report looks\u2026",
     "title": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar"
   },
+  "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgVI5ZeWhnWkl-lXmJYMLjAOXmxw21Y3sgxeF9rrOS_JqjQ7k_yyV_2KU_ELhmsm3nA3qNV0farc_31WCAhPPZRq7iIrYm90R_24lvc1f68Gv-yZPsM3bwDiUuCaCBAzq-S8ymLrrD7dx349vEjlR0eID2LXm5SO3Ocq1sG8sWkhAEG9RWX07avTOu3dW/s1600/shim.gif",
+    "published": "2026-07-14T12:46:18+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the moder\u2026",
+    "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot"
+  },
   "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAJ1TN76Et1GvWFCTaivnNcys4rEEVk1QEd6WIb0wu3cxroYcwng-0a0uM8eyHdrOuiHLU8lFJg5eFzSbZj95aEfXVnletlFE9BKsDJP_0uV4w9-YbHg7p9LuMyRMcj4rJPftYmIYCcD3_VmbgFrGuaJ6yqUuJgIvVtbqlNUPrkJO2FSuFQ6dJ7gzKFV0/s1600/lucide-botnet.jpg",
@@ -11542,6 +11551,15 @@
     "source": "The Hacker News",
     "summary": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facil\u2026",
     "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service"
+  },
+  "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6dKqmptCkoLw0bB5PV9wa9zqqfMmsIU0yrc4vQ2FdIFYClQBeZyUifVSr4wny1umoGovVKP57bzeh3-8RjmK8VktgN_y8TGTnkkw6Ua49L3xfWT_n8Ks6ob2NpIy78NSAV4-XU7HxfdmYqAZcKYz7DIjihqBI8OsQIgW3a4vca7taNTohCTDrqEamAk4/s1600/claude-chrome-flaw.jpg",
+    "published": "2026-07-14T17:27:23+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar.\n\nBoth this an\u2026",
+    "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads"
   },
   "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html": {
     "categories": [],
@@ -11741,6 +11759,15 @@
     "summary": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat ac\u2026",
     "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns"
   },
+  "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBkjrecx65rZWCn-e7KyG-ScNo2HupwMwFl9-XIOcdW1Pls-d0g80WyhkIHPCHTszjYDoUBtmpV_ystgF4Lc6z_noxysLX2xs11QU1jNALxkVa8gW6_QkevNLJkr8mCqupKYHRZSv518HoHlmwpnaYV-qMVyciXNsoMQAS8RrH1rLT2BsLS2t3u52Lrf8/s1600/pentera-main.jpg",
+    "published": "2026-07-14T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "How Pentera Turns AI Security Workflows into Validation Engines AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals:\u2026",
+    "title": "How Pentera Turns AI Security Workflows into Validation Engines"
+  },
   "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeiJymlyu6GGdzNT0Fb3yi6rYZdNn_XCoDUKKV9zSD_p17gngK7FL-IDm5LLTYlGx6Rn2Em6v0TSDq7u_1lttLyp1b97z7YrjSrFK7MrYAG2k1YXI91fHRRTRoPV1xIQSukE1DwqRcHY6i6fIS0jC2CaKv18OhFWHi2fKvXRKmZ6MBgSoRMDWGxmQKlfTt/s1600/aisoc.jpg",
@@ -11785,6 +11812,15 @@
     "source": "The Hacker News",
     "summary": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka C\u2026",
     "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations"
+  },
+  "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpSmSwv3hz6LMJIQCrVej_pophE9XNTZyveEV1GctCyQMSNoac_Mx3CfmAHLgYkpDkymvscLLY71u2Kq-7z-7bDemSeKHryPVH3h7FNxw9e64D3jTeoLOzmWW305j1Rctz5kdiwFV29lFNqo33TUZMGWCaZqtyKNPYARGtrrhZ0Bsc4LMLXhnRgzKXjKYb/s1600/NVIDIA-rat.jpg",
+    "published": "2026-07-14T16:52:37+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments.\n\n\"LabubaRAT creates \u2026",
+    "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts"
   },
   "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html": {
     "categories": [],
@@ -11839,6 +11875,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity Attackers whose methods line up with the data-extortion group&nbsp;ShinyHunters&nbsp;have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in th\u2026",
     "title": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity"
+  },
+  "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi34s_9ywUXjSc5OtF7-fDiAqSa3H-UHpJfACXyULY5ziUlM67mCJHWee9tluTiGm7ZRhMy36SLal2CUjqwJHZ8vdHuFstRwJhPGLAXe49as-o3nRE-QAyRs2mx3og8eVdWdnzzr9LwGMXckMix80XOQPsWiE30xqqYGG3PNjjpVTCpLsnW77pCk_3MyKQ/s1600/ms=patch.jpg",
+    "published": "2026-07-14T20:25:47+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its&nbsp;Security\u2026",
+    "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack"
   },
   "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html": {
     "categories": [],
@@ -12038,6 +12083,15 @@
     "summary": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown.\n\nThe attacker needs only to open\u2026",
     "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data"
   },
+  "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhhRQ9rN4_5eYqXiJ7svWKwWY0dcPiiALZ6EkDG05ruFzTANJtwyw_w2Ht29dON1oFiLAkQkE0M75FYExbXmvFSr4jU0K0sNlwRxG3Q1rU51ouVIt3UtnrazRwhCer3coTHbU3So1dXx_8Frh1KhJKKXc7Lq2h5DZTGkBq35Y2ngnGVg6wAGubf8cVRx0F/s1600/rebbitmq.jpg",
+    "published": "2026-07-14T13:48:07+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterp\u2026",
+    "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata"
+  },
   "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5gkjf1FwB4__nC6-pLZYnDv2rJA29UAL9mxfCv4BNSl1FxNpat9jD-OiMRLewjXJXyiSGvqiLYcewN_b1lLFHh0FhzKkrHFzu82jziSuOodYX87FkwjuCcXaqwzWRsiFdsBcd9mzDnak1rJpDu46F8TV206IEcD1pE7njojB8TcQEZ4Wa70KnK2vyeVKI/s1600/ransomwares.jpg",
@@ -12092,6 +12146,15 @@
     "summary": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project.\n\nFrom \u2026",
     "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots"
   },
+  "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9rN4ge3zuUmonccBl2yC_AcOKiCQPKQFAV31BzB3DZk3JO7SxAjx1HdJlg1vBOMEj3cq2Mrg06ZU64I1fdkWCDRBsPhqpuyJwTxjbJHJXmzUoXF8KRDkupk6JxznlI9tjMXwU_hJqh4InVEOsiknPoszVZkQsqWSKfcD5Y90qz63Cv_pOHL8zO4CxGOop/s1600/sap-patch.jpg",
+    "published": "2026-07-14T18:17:57+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP.\n\nThe vulnerability in question i\u2026",
+    "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data"
+  },
   "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguw-rOR8Masg2W1UVlfj5rr1nTNdwmhHfXvKG-8rLXWxkwDjtEy-O2ZCb40GEca78DPql7PPEPIrRL_tYt9Ob51ZW7_L-i7w-Ej7DzX2NtNGBrRHuorMowS0d89GxVjQW492-J1LansFJY7SqZgVCtBvcwhyphenhyphenpOcveL_9rNcsgyJm-cRSwnbwvFXKQuLMA9/s1600/clickfix-banking.jpg",
@@ -12136,6 +12199,15 @@
     "source": "The Hacker News",
     "summary": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their \u2026",
     "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking"
+  },
+  "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLw92quWqf4LGudVaNPBRwhiCIP4ZEBpolIRqMKbQuG6hzrXUSx89QCQT1IjMWF_6v7GEkYGOi0kYoc-ES_fELZm6pg1P8lVpRxv5mYmpzAHQMm6A_XC_fXWSWlRVh1JfjFc8wXlqtyGWovxUOOhQn8HiG4XutLeKlyv5aLY2R4UKlHTcD2pgXANePlhBq/s1600/wallet-fingerprint.jpg",
+    "published": "2026-07-14T11:55:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them.\n\n\u2026",
+    "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks"
   },
   "https://thehackernews.com/2026/07/summer-of-clearinghouses.html": {
     "categories": [],
@@ -12217,6 +12289,15 @@
     "source": "The Hacker News",
     "summary": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API.\n\n\"In this campaign,\u2026",
     "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API"
+  },
+  "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0n94FUIdljCnLvlh0SNz5l8xDWbdDqmk7OesE7HAKxrRAMUMIfXpppuMBoI-7F0Q1PB7eXPRjrfg9fgZTTVj3JY5jKsr1Ebheb2mU65p4MUVYbs59lCPPWCBQ4LVYZnoZ0o6nRkoBQitrwwnyLVQc2oYJ41zVjPS6_HchwIR-U8EuWrOdPpl1-Y9Rw1Lm/s1600/sonicwall-patches.jpg",
+    "published": "2026-07-15T05:30:21+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execut\u2026",
+    "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands"
   },
   "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html": {
     "categories": [],
@@ -14055,6 +14136,18 @@
     "summary": "Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys Microsoft is rolling out passkey support for Microsoft Entra on Windows devices, adding phishing-resistant passwordless authentication via Windows Hello. [...]",
     "title": "Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-14T12:49:56+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Entra ID gets passkeys default authentication starting September Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026. [...]",
+    "title": "Microsoft Entra ID gets passkeys default authentication starting September"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-flags-legitimate-emails-as-phishing/": {
     "categories": [
       "Microsoft",
@@ -14492,6 +14585,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: January update shutdown bug affects more Windows PCs Microsoft has confirmed that a known issue preventing some Windows 11 devices from shutting down also affects Windows 10 systems with Virtual Secure Mode (VSM) enabled. [...]",
     "title": "Microsoft: January update shutdown bug affects more Windows PCs"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-14T18:01:36+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed. [...]",
+    "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/": {
     "categories": [
@@ -14973,6 +15078,18 @@
     "summary": "Microsoft releases Windows 10 KB5094127 extended security update Microsoft has released the Windows 10 KB5094127 extended security update, which fixes the June 2026 Patch Tuesday vulnerabilities and adds new functionality to monitor the rollout of updated Secure Boot certificates\u2026",
     "title": "Microsoft releases Windows 10 KB5094127 extended security update"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-14T18:49:28+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft releases Windows 10 KB5099539 extended security update Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerabilities, along with additional security fixes. [...]",
+    "title": "Microsoft releases Windows 10 KB5099539 extended security update"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/": {
     "categories": [
       "Microsoft",
@@ -15186,6 +15303,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft shares workaround for Outlook freezes after Windows update Microsoft shared a temporary workaround for customers experiencing Outlook freezes after installing this month's Windows security updates. [...]",
     "title": "Microsoft shares workaround for Outlook freezes after Windows update"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-07-15T08:26:48+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Some Dell PCs shut down after recent Windows updates Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues. [...]",
+    "title": "Microsoft: Some Dell PCs shut down after recent Windows updates"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/": {
     "categories": [
@@ -16085,6 +16213,18 @@
     "source": "BleepingComputer",
     "summary": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature \u200b\u200bMicrosoft has released the KB5095093 preview cumulative update for Windows 11 24H2 and 25H2, which fixes numerous bugs and begins rolling out new features, including the\u00a0new Point-in-Time restore feature. [\u2026",
     "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-07-14T17:41:16+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 KB5101650\u00a0& KB5099414\u00a0cumulative updates released Microsoft has released Windows 11's June 2026 Update for version 25H2, 24H2, and 23H2, bringing fixes for over 570 security issues. [...]",
+    "title": "Windows 11 KB5101650\u00a0& KB5099414\u00a0cumulative updates released"
   },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/": {
     "categories": [
@@ -24386,6 +24526,17 @@
     "summary": "Laravel Lang packages hijacked to deploy credential-stealing malware A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute mali\u2026",
     "title": "Laravel Lang packages hijacked to deploy credential-stealing malware"
   },
+  "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-14T15:31:52+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "LastPass, Bitwarden users targeted with fake security alerts LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
+    "title": "LastPass, Bitwarden users targeted with fake security alerts"
+  },
   "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/": {
     "categories": [
       "Security"
@@ -25642,6 +25793,17 @@
     "summary": "NCSC's \u2018Proactive Notifications\u2019 warns orgs of flaws in exposed devices The UK's National Cyber Security Center (NCSC) announced the testing phase of a new service called Proactive Notifications, designed to inform organizations in the country of vulnerabilities present in their \u2026",
     "title": "NCSC's \u2018Proactive Notifications\u2019 warns orgs of flaws in exposed devices"
   },
+  "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-14T19:15:17+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Nearly 300 GitHub repos pose as legit software to push malware A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer malware. [...]",
+    "title": "Nearly 300 GitHub repos pose as legit software to push malware"
+  },
   "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/": {
     "categories": [
       "Security"
@@ -26482,6 +26644,17 @@
     "source": "BleepingComputer",
     "summary": "New PhantomRaven NPM attack wave steals dev data via 88 packages New attack waves from the 'PhantomRaven' supply-chain campaign are hitting the npm registry, with dozens of malicious packages that exfiltrate sensitive data from JavaScript developers. [...]",
     "title": "New PhantomRaven NPM attack wave steals dev data via 88 packages"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-14T12:49:00+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New phishing kits target Microsoft 365 accounts, evade MFA Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]",
+    "title": "New phishing kits target Microsoft 365 accounts, evade MFA"
   },
   "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/": {
     "categories": [
@@ -28187,6 +28360,17 @@
     "summary": "Proactive strategies for cyber resilience with Wazuh Cyber resilience means anticipating threats, detecting them early, and recovering fast when incidents occur. Wazuh shows how its open source SIEM and XDR unify visibility, detection, and automated response to strengthen proacti\u2026",
     "title": "Proactive strategies for cyber resilience with Wazuh"
   },
+  "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-14T16:08:47+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week\u00a0and has released security updates to patch the flaw.\u2026",
+    "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown"
+  },
   "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/": {
     "categories": [
       "Security"
@@ -28870,6 +29054,17 @@
     "summary": "SAP fixes three critical vulnerabilities across multiple products SAP has released its December security updates addressing 14 vulnerabilities across a range of products, including three critical-severity flaws. [...]",
     "title": "SAP fixes three critical vulnerabilities across multiple products"
   },
+  "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-14T11:42:21+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "SAP warns of critical flaws in NetWeaver and Commerce Cloud SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter. [...]",
+    "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud"
+  },
   "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/": {
     "categories": [
       "Security",
@@ -29287,6 +29482,17 @@
     "summary": "Sonicwall warns of new SMA1000 zero-day exploited in attacks SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges. [...]",
     "title": "Sonicwall warns of new SMA1000 zero-day exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-14T21:23:24+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as\u00a0CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released secur\u2026",
+    "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now"
+  },
   "https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/": {
     "categories": [
       "Security"
@@ -29410,6 +29616,18 @@
     "source": "BleepingComputer",
     "summary": "Spanish energy giant Endesa discloses data breach affecting customers Spanish energy provider Endesa and its\u00a0Energ\u00eda XXI operator are notifying customers that hackers accessed the company's systems and accessed contract-related information, which includes personal details. [...]",
     "title": "Spanish energy giant Endesa discloses data breach affecting customers"
+  },
+  "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-07-14T20:23:09+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Spanish Police take down \u20ac140 million cyber fraud ring, arrest four The Spanish Police dismantled a cybercrime and money-laundering organization that made \u20ac140 million ($160 million) from investment fraud and business email compromise (BEC) attacks. [...]",
+    "title": "Spanish Police take down \u20ac140 million cyber fraud ring, arrest four"
   },
   "https://www.bleepingcomputer.com/news/security/spyware-grade-coruna-ios-exploit-kit-now-used-in-crypto-theft-attacks/": {
     "categories": [
@@ -30802,6 +31020,17 @@
     "summary": "US charges 31 more suspects linked to ATM malware attacks A Nebraska federal grand jury charged 31 additional defendants for their involvement in an ATM jackpotting operation allegedly orchestrated by members of the Venezuelan gang Tren de Aragua. [...]",
     "title": "US charges 31 more suspects linked to ATM malware attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-15T07:45:50+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "US charges alleged operators of Russian bulletproof hosting service U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damages to victims\u2026",
+    "title": "US charges alleged operators of Russian bulletproof hosting service"
+  },
   "https://www.bleepingcomputer.com/news/security/us-charges-another-ransomware-negotiator-linked-to-blackcat-attacks/": {
     "categories": [
       "Security"
@@ -32040,6 +32269,17 @@
     "summary": "Year-end approaches: How to maximize your cyber spend Year-end budgeting is the perfect time to close real security gaps by strengthening identity controls, reducing redundant tools, and investing in outcome-driven engagements. The article highlights how targeting credential risk\u2026",
     "title": "Year-end approaches: How to maximize your cyber spend"
   },
+  "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-14T14:00:10+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "You Don't Have to Run an Exploit to Know If You're Vulnerable Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizations determine explo\u2026",
+    "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable"
+  },
   "https://www.bleepingcomputer.com/news/security/you-got-phished-of-course-youre-human/": {
     "categories": [
       "Security"
@@ -32675,6 +32915,15 @@
     "source": "darkreading",
     "summary": "Critical OpenClaw Vulnerability Exposes AI Agent Risks The now-patched flaw is the latest in a growing string of security issues associated with the viral AI tool, which has seen rapid adoption among developers.",
     "title": "Critical OpenClaw Vulnerability Exposes AI Agent Risks"
+  },
+  "https://www.darkreading.com/application-security/cursor-ide-malicious-code-poisoned-repos": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9f5cd3865ee90857/6a553fc7f7c949a9a237e0f3/poison_bottle-Olga_Yastremska-Getty-2254109959.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-14T13:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Cursor IDE Auto-Executes Malicious Code in Poisoned Repos Researchers reported the vulnerability to Cursor in December, but it still remains in the popular AI coding platform and can be exploited in poisoned repository attacks.",
+    "title": "Cursor IDE Auto-Executes Malicious Code in Poisoned Repos"
   },
   "https://www.darkreading.com/application-security/cyber-industry-defenses-co2-emissions": {
     "categories": [],
@@ -34333,6 +34582,15 @@
     "summary": "More Malicious OpenClaw Skills Threaten AI Supply Chain OpenClaw removed five packages from ClawHub, its skills marketplace, that bypassed security checks even though they included infostealers and other threats.",
     "title": "More Malicious OpenClaw Skills Threaten AI Supply Chain"
   },
+  "https://www.darkreading.com/cyber-risk/manage-vendor-risk-in-a-few-practical-steps": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf1ec3253d436db3d/6a566c13107b901ef8b97fd0/measuring_risk_D_Getty_images.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-14T17:44:55+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Manage Vendor Risk in a Few Practical Steps Risk tolerance, exposure visibility, board oversight \u2014 handling third-party risk is complicated but achievable with disciplined, precise governance.",
+    "title": "Manage Vendor Risk in a Few Practical Steps"
+  },
   "https://www.darkreading.com/cyber-risk/manufacturing-and-healthcare-share-struggles-with-passwords": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfeef2e04a3809da9/69caa596264d1e7cab110238/2BXKGWT.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -34429,6 +34687,15 @@
     "source": "darkreading",
     "summary": "Nation-State Hackers Put Defense Industrial Base Under Siege Espionage groups from China, Russia and other nations burned at least two dozen zero-days in edge devices in attempts to infiltrate defense contractors' networks.",
     "title": "Nation-State Hackers Put Defense Industrial Base Under Siege"
+  },
+  "https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt087196a0da1528ae/6a56a815b887df4c99c0b0df/nigeria-flag-and-naira-esfera-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-15T08:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits The West African country advanced rules to force organizations to disclose cyberattacks, joining other nations in a shift to mandated transparency.",
+    "title": "Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits"
   },
   "https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk": {
     "categories": [],
@@ -35052,6 +35319,15 @@
     "source": "darkreading",
     "summary": "ClickFix Campaign Targets Hotels, Spurs Secondary Customer Attacks Attackers compromise hospitality providers with an infostealer and RAT malware and then use stolen data to launch phishing attacks against customers via both email and WhatsApp.",
     "title": "ClickFix Campaign Targets Hotels, Spurs Secondary Customer Attacks"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt89ed69f46b66e8ed/6a565987201f4e6bf48f2ebe/mushrooms-maYcal-GettyImages-1048450740.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-14T15:53:54+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "ClickFix's Mushrooming Ecosystem Demands New Defense Tactics The attack vector is available for rent at scale, and evades AV and EDR, leaving YARA analysis as the best detection option.",
+    "title": "ClickFix's Mushrooming Ecosystem Demands New Defense Tactics"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/codered-emergency-alert-platform-shut-down-cyberattack": {
     "categories": [],
@@ -36450,6 +36726,15 @@
     "summary": "Focusing on the People in Cybersecurity at RSAC 2026 Conference AI dominated the RSAC 2026 Conference and showed it's still humans in cybersecurity who matter most.",
     "title": "Focusing on the People in Cybersecurity at RSAC 2026 Conference"
   },
+  "https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd9514b34577d4811/6a564cbd43c478c70426061e/GettyImages-1003977262.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-14T16:02:39+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Frontier AI: The Genie's Out of the Bottle, but Where's the Rulebook? Cutting-edge artificial intelligence models are deploying with more independence and less human oversight. Several state governments are trying to legislate transparency in their use.",
+    "title": "Frontier AI: The Genie's Out of the Bottle, but Where's the Rulebook?"
+  },
   "https://www.darkreading.com/cybersecurity-operations/full-sail-university-ibm-cyber-defense-range-aws-cloud-range": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=1280&auto=webp&quality=80&disable=upscale",
@@ -37756,6 +38041,15 @@
     "source": "darkreading",
     "summary": "Will AI Save Consumers From Smartphone-Based Phishing Attacks? Sophisticated phishing attacks are bypassing on-device protections with troubling frequency, making it more critical than ever for users to protect themselves from potential threats, new research from Omdia shows.",
     "title": "Will AI Save Consumers From Smartphone-Based Phishing Attacks?"
+  },
+  "https://www.darkreading.com/perimeter/6-ghz-wi-fi-flaws-disrupt-critical-systems": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf1bcb21f8daa8dad/6a5687dbdfdd3b528d164e7a/space_network_connections-fotograzia-getty-2229958533.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-14T19:58:31+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "6 GHz Wi-Fi Flaws Could Disrupt Critical Systems Automated Frequency Coordination systems by default trust client-side data, which could lead to location spoofing and other attacks that disrupt traffic.",
+    "title": "6 GHz Wi-Fi Flaws Could Disrupt Critical Systems"
   },
   "https://www.darkreading.com/remote-workforce/advisor360-gets-handle-on-shadow-ai-via-automation": {
     "categories": [],
@@ -39524,6 +39818,15 @@
     "source": "darkreading",
     "summary": "React2Shell Vulnerability Under Attack From China-Nexus Groups A maximum-severity vulnerability affecting the React JavaScript library has been exploited in the wild, further stressing the need to patch now.",
     "title": "React2Shell Vulnerability Under Attack From China-Nexus Groups"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/records-broken-patch-tuesday-raises-triage-stakes": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6465c10b82bc7fa0/6a56a539da02d05d49888d2d/triage_MAFPHOTOART8_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-14T21:50:56+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Records Are Made to Be Broken: Patch Tuesday Raises Triage Stakes Three of the 622 CVEs for which Microsoft issued patches this week are zero-days; there are more than 60 critical vulnerabilities.",
+    "title": "Records Are Made to Be Broken: Patch Tuesday Raises Triage Stakes"
   },
   "https://www.darkreading.com/vulnerabilities-threats/rondodox-botnet-scope-react2shell-exploitation": {
     "categories": [],
