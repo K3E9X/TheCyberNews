@@ -26013,6 +26013,17 @@
     "summary": "Microsoft warns of new Defender zero-days exploited in attacks On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks. [...]",
     "title": "Microsoft warns of new Defender zero-days exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-18T14:17:19+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft warns of surge in ACR Stealer attacks on customers Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]",
+    "title": "Microsoft warns of surge in ACR Stealer attacks on customers"
+  },
   "https://www.bleepingcomputer.com/news/security/microsoft-windows-powershell-now-warns-when-running-invoke-webrequest-scripts/": {
     "categories": [
       "Security",
@@ -30664,6 +30675,17 @@
     "summary": "The Four Elevations of Effective Fraud Prevention Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems. IPQS explains the four elevations of fraud prevention and why broader visibility improves fraud detection. [...]",
     "title": "The Four Elevations of Effective Fraud Prevention"
   },
+  "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-18T13:15:24+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "The Future of Age Verification: Your Face Never Leaves Your Device As age verification laws expand worldwide, organizations face growing pressure to protect users' privacy while meeting regulatory requirements. Incode explains how on-device age estimation verifies age without tra\u2026",
+    "title": "The Future of Age Verification: Your Face Never Leaves Your Device"
+  },
   "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/": {
     "categories": [
       "Security"
@@ -31498,6 +31520,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers exploit unpatched Gogs zero-day to breach 700 servers An unpatched zero-day vulnerability in Gogs, a popular self-hosted Git service, has enabled attackers to gain remote code execution on\u00a0Internet-facing instances and\u00a0compromise hundreds of servers. [...]",
     "title": "Hackers exploit unpatched Gogs zero-day to breach 700 servers"
+  },
+  "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-18T19:32:02+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives 7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
+    "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives"
   },
   "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/": {
     "categories": [
@@ -32716,6 +32749,17 @@
     "source": "BleepingComputer",
     "summary": "WinRAR path traversal flaw still exploited by numerous hackers Multiple threat actors, both state-sponsored and financially motivated, are exploiting the\u00a0CVE-2025-8088\u00a0high-severity vulnerability in WinRAR\u00a0for initial access and to deliver various malicious payloads. [...]",
     "title": "WinRAR path traversal flaw still exploited by numerous hackers"
+  },
+  "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-18T17:22:47+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]",
+    "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now"
   },
   "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/": {
     "categories": [
