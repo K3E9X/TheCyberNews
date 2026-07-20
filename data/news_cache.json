@@ -11651,6 +11651,15 @@
     "summary": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall f\u2026",
     "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands"
   },
+  "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVv10OUCjBseEZieeN1rxtwm17pPCAoe6OC1jvCTXCumjIImhz5Y08lYWBpSIGBSkDJN-wBcGmUTmPEp8U74bgd2Cv3rwmSmtUDlmOYR7f-0Xs3xL_xkjpkNm8W8vzNvFNfmTNiqs9TNcNmT1bo8xWb9XGzPnuaByxKSl9_eOqg3yDbtAtYh0epFo-4Wg/s1600/nginx-rce-flaw.jpg",
+    "published": "2026-07-19T20:42:49+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patch\u2026",
+    "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution"
+  },
   "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirVz95zYTg61VRro9unfJCWWwwUrv3pQdtyNT7rPL8iCg6n0S6bky4dqPiluQHfSvQMIO9cyYgrz-07ZCx8yG_qND_J9XJ_0BoUON9p3zj0etafNvjg45txAeu4uCDEMxGDNv2tIxNuqrC0OsKG_sWZp5QIlEkbqZ_g_EEcAdXUQbuo_EgsXwT3mERTTk/s1600/zimbra-email-hack.jpg",
@@ -12020,6 +12029,15 @@
     "summary": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local us\u2026",
     "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer"
   },
+  "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuAoanL7LxDYHynfggiOQo_RDymqYrFlfnRNrstIG6KgYuDWk2uR0eZDx_vCSLWsjTmP5LohkMSGQ_sc32hE4TGqqUCkGwsDlOUzP3bb-Ib-whRLliIb0YVozTMZF-lgSsPJr55l7GPjR1Xq-sH7dieWTBNnZsttdSfOxowTrEZImrcJ-_cI6i4zVFlII/s1600/7-zip.jpg",
+    "published": "2026-07-20T09:10:56+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend\u2026",
+    "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction"
+  },
   "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiapJDNa0fN3WsyrkYjRiRo3L8tqmE_RJm9AmQV5KO9p5To-PBWdVz7EW294xtn-VZtJ2xS_scIq3LyqyxYkPG3R5TdJoPF_axjEaLpaXSqGHK_uO274wM315GEqHtnDAMIfFN2vZlcEYJ3Ca11Ml_E-l32H63EYNfx7l9ldtjNlH8hL_19w4RL6vDpOWMz/s1600/adi.jpg",
@@ -12362,6 +12380,15 @@
     "summary": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project.\n\nFrom \u2026",
     "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots"
   },
+  "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyO5FC_n2BBZmiHphtqs0UN5r3DPgtRvkrVfaHOW-1Fv2VPXZliRYDryKR5I-vdZxtmChQJB6eAlJsND-e47t5lLQQ4SWkSJ_D02SEL6nRBmnJ-klfjSSg7rjRyf5AfzX340_se2vNrobCydtV-NZPsDm8MvL9UG0atiMekaxCNzHwizxZFlRhvpuM8BjE/s1600/gemini-cc.jpg",
+    "published": "2026-07-20T09:07:11+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live bo\u2026",
+    "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs"
+  },
   "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9rN4ge3zuUmonccBl2yC_AcOKiCQPKQFAV31BzB3DZk3JO7SxAjx1HdJlg1vBOMEj3cq2Mrg06ZU64I1fdkWCDRBsPhqpuyJwTxjbJHJXmzUoXF8KRDkupk6JxznlI9tjMXwU_hJqh4InVEOsiknPoszVZkQsqWSKfcD5Y90qz63Cv_pOHL8zO4CxGOop/s1600/sap-patch.jpg",
@@ -12424,6 +12451,24 @@
     "source": "The Hacker News",
     "summary": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot Researchers at firmware security firm&nbsp;Binarly&nbsp;have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chi\u2026",
     "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot"
+  },
+  "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-5_crP04CVdna-erTGX9yykCNwqzeIcMALrWcRvgKWkfk7bntEBg50PBtoLvTeACMEHisZ-m1FLMEa2x9nbsRpVdAyeQyBkEmexn8p6W4r6JKA7dxDGJ6BXCqR6RYC3hyRSw7_1Wm1Elv-UFHRfttZQB0HX60SQRGXnJ-4VySo4gY-yfaDhT2FHKHTFj9/s1600/ruby.jpg",
+    "published": "2026-07-20T05:15:39+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of se\u2026",
+    "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines"
+  },
+  "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLomYbwprpYWKVxrxKRh3hFiGRWdVOb7WAVbhJjf_fYQAba4wVZT1PpwWAL-ZDb40MZp9T43-dj8Fru-eOjiKcrAoh5sOdyKGUUAVwK9iifXl70EvgORPztxnvYXc9HA8trGKcRZGob8DYJxUZBg0zlZFUTiRGPXGFheSbKLUoG53kZ9HR6XxyJs9GEtcA/s1600/sma-sonicwall.jpg",
+    "published": "2026-07-19T13:18:56+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure \u2026",
+    "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access"
   },
   "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html": {
     "categories": [],
@@ -12569,6 +12614,15 @@
     "summary": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execut\u2026",
     "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands"
   },
+  "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzwz79enQjrnXLRTDKacoJm6HMEpOZX59zUr-X-czDXaohlQymWPOYcD0ERz14lU9Sp_6DubTeBvC1085D3vh6VwMqreCDn8F9ZKkcrvgSTlCfwS1RhmT7ubTPrc5VRd5tX7dHAJAu8n8PUy94X3a72vYU4vO769JGWttb3x9gp9lXUkilEnloggpXyk2p/s1600/click.jpg",
+    "published": "2026-07-19T13:30:55+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware.\n\nAccording to the Co\u2026",
+    "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware"
+  },
   "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx2TRa1CP7yIs67Wa1bxiFVW5yq1S7vtAaQHf_htjuDbpAETKv8tfw7rchtVvME0FsA8YJ_uQzRp_ZAV-nPhLyRUQw_NNdgN0zhjyVR_L3wzt1ZX08PknwSF2FBLeieIUIx7t4hLMF1sDnsRuFCzllq8auoKriKlGMdllY8IYG04bID6cgGzty0e9mVhoM/s1600/uu.jpg",
@@ -12667,6 +12721,15 @@
     "source": "The Hacker News",
     "summary": "What Changes When Your Software Supply Chain Includes AI Writing Your Code? Software supply chain security was hard enough. Then AI joined the build pipeline.\n\nFor five years, \"software supply chain security\" meant one question: what's in your code? Which open-source packages, wh\u2026",
     "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?"
+  },
+  "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhehTKRdIydGsJI5vxP4R5baH5VrDh8ZNLg1RyLMhSnVOFr6cdDZRyqkKhazs4oBdZxw5YV7fNYKCcZ9tkKkTap2chfMR6XCdiG4GmUhv4S_tUVYTS7jvn8iZcTL3RuJ-3K0U1WJ0pKfq16pcJRZhAXTm1gk-xvzjzmdJ85PWEgnQ6oFK1eUPKRBiTRtEr1/s1600/huggingface.jpg",
+    "published": "2026-07-20T05:27:26+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system.\n\nThe company said it detecte\u2026",
+    "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent"
   },
   "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html": {
     "categories": [],
@@ -14727,6 +14790,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft fixes Windows Autopatch bug installing restricted drivers Microsoft has fixed a Windows Autopatch bug that caused driver updates restricted by administrative policies to be deployed on some Autopatch-managed Windows devices in the European Union. [...]",
     "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-07-20T10:06:17+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]",
+    "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-explorer-white-flashes-in-dark-mode/": {
     "categories": [
@@ -20081,6 +20155,17 @@
     "summary": "Critical sandbox escape flaw found in popular vm2 NodeJS library A critical-severity vulnerability in the vm2\u00a0Node.js sandbox library, tracked as\u00a0CVE-2026-22709, allows escaping the sandbox and executing arbitrary code on the underlying host system. [...]",
     "title": "Critical sandbox escape flaw found in popular vm2 NodeJS library"
   },
+  "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-20T09:29:20+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Critical ServiceNow code execution flaw now exploited in attacks Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
+    "title": "Critical ServiceNow code execution flaw now exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/": {
     "categories": [
       "Security"
@@ -23360,6 +23445,18 @@
     "source": "BleepingComputer",
     "summary": "Hackers abuse Triofox antivirus feature to deploy remote access tools Hackers exploited a critical vulnerability and the built-in antivirus feature in Gladinet's Triofox file-sharing and remote-access platform to achieve remote code execution with SYSTEM privileges. [...]",
     "title": "Hackers abuse Triofox antivirus feature to deploy remote access tools"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/": {
+    "categories": [
+      "Security",
+      "Government"
+    ],
+    "image": "",
+    "published": "2026-07-19T14:23:46+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Hackers abuse ViPNet software to target Russian govt agencies An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
+    "title": "Hackers abuse ViPNet software to target Russian govt agencies"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/": {
     "categories": [
