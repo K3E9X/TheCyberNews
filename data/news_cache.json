@@ -11498,6 +11498,15 @@
     "summary": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls Anthropic is putting Claude Fable 5 back online worldwide. On&nbsp;June 30, the U.S. Commerce Department lifted the export controls it had imposed on Fable and its more tightly controlled sibling \u2026",
     "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls"
   },
+  "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiIg3Sasyz94bt9uOMqOnkEhZ4APzMbVwOObUmNzIGuYtxHO0wYNBu1LXTGi0Q5mTT6SI_CgqPwCWgejCc7BnclxwtLvDKiUlJR80nzE6dniSdomYMVcQU8Z1BQECtTvevKArxtEsJjB8Zeh2ouEgblz0vOiTDKcXUzpMzW70C56-Xbj-LT1gLp0Mbw99p/s1600/apple-email.jpg",
+    "published": "2026-07-21T18:46:32+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees.\n\n404 Media reported Tu\u2026",
+    "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs"
+  },
   "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMuThPnDJrVLJe0_WqKVz_AE9vh2H5NFoGoYlcbqF99J6sjNeWxhrrAEZKsctTKWp4TaEQKQcsdejihH7wBzgS0eaiwJ9bp04rAo2H2d2C-aydo2wrPvhAQgRsP351HM-l0P3JBoHQkwwQPqKOSIaYLKQ4Dpb_F54BjqErS5AUa5Q9RAZttEZmK0Yvqwk/s1600/REvil-hacker.jpg",
@@ -11533,6 +11542,15 @@
     "source": "The Hacker News",
     "summary": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets Security firm&nbsp;Coinspect&nbsp;has disclosed a crypto wallet flaw it calls&nbsp;Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its re\u2026",
     "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets"
+  },
+  "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJfMUQ_pVP5as41uM_4cR8oRUsCwuXPMLLG63jNd5Djqso9kJyQZLiZgQrMQzykhRaX8BQCydIMPokGoITYY30kc3dH-8iy4Bd-ux36RoIjyNYXtKwb1F1fPdP00hoHD-9Q9s5CGD30w58s5wfyzBGOQvnIxM8JlHkig881HSQQuu4Hk6GBiDJicUYE8o/s1600/AWS-Kiro.jpg",
+    "published": "2026-07-21T16:06:12+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it.\n\nIntez\u2026",
+    "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code"
   },
   "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html": {
     "categories": [],
@@ -11668,6 +11686,15 @@
     "source": "The Hacker News",
     "summary": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber.\n\nIn a post shared on X, the threat intelligence firm said i\u2026",
     "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution"
+  },
+  "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEiY-8bLYm125By8D7AuLG0iHjE5hB2_ysYdB1WkSc0wxB_virPrL19JZ0Ow8Nzsu0DkoTWboikIsKEyDs9393o1yaFJ0LZMFy64Hzk4XGzOqnpjJMgptlxVsHnmDm6twDSVhCkT1HFTFVmDW2zvlmz3qvQP9vftatDZFCw_GvauRT_2yEF-REvZlXyb_I/s1600/sharepoint.jpg",
+    "published": "2026-07-21T14:57:51+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr.\n\nThe vulnerability in question is CVE-2026-50\u2026",
+    "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC"
   },
   "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html": {
     "categories": [],
@@ -11876,6 +11903,15 @@
     "summary": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic.\n\nWorking with the FBI, Lumen, and others, Google's Threat \u2026",
     "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices"
   },
+  "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEEErOjlKug3DfeSGwzEbvNrUSCkzDF0o7uAnDNHFuE5MWaTlnB8sSfYJ4VsQaG39Kv_-L50Zc5GOJrpLYvW_2i8TFFI1xAWMRnFa-M6smZrswwGgnUMmEe-F-FB5Hw3OQWxVdSfPAKCFidVnQODRBSDT9WbF4dZmfrOsvvvhHmIAnroCkyFmmhlc_YQyC/s1600/gemini-cyber-flash.jpg",
+    "published": "2026-07-21T15:09:28+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch \u2026",
+    "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities"
+  },
   "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1L4YdSw3-1jg88TMzYxjsqRmu3Bq-VkmyGg742mMsJaIyhyaBk5MBeEFOxagE4H6GFjfH8ey1114iqyT0LuKYFdu7ocZhOrA3WQCvtNZGBknEJ1wTdb5vJ-M8w5kLXaUoBi39TXducoH8jZVrQ1xQQsBtEf0rrGJGfappdR1CrSB3xvaJC8Dgos2XdC37/s1600/Microsoft-Entra-Passkey-Enrollment.jpg",
@@ -12011,6 +12047,15 @@
     "summary": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029 Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner than previously ex\u2026",
     "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029"
   },
+  "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyPnXNVcT-TTMj4bnJJGmkaK6DFi2Lr2KDvnQZiPIyboMvPfwGP-xlkXhEAq1-bY1fkI_eSiaMEY0JxhHvMYB5X_i_aDK04yiPGrSIk9cXL9P-9cwn2ftFhqCto-5dAxILlsZITCPhQ6Kf2h0_5Ly9YSvo5T2z8sNe5ZDPZxR-S-JslYxH-q9FoPUUJtA/s1600/inject.jpg",
+    "published": "2026-07-22T04:57:52+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what\u2026",
+    "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents"
+  },
   "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu2gmOSckwOqmlhqAYdrlHfRuTsOJIi7dr9cFZosLQAJeoJxcUVQ9PvibcfnCsBdPWvfJRRrxoS8nx9yTt9NtDNCwVCFavEt7tQT0viD7AwGvUjhu-_k0B2J4KBSAJ-5GUGFZHCTSyOuW4I082lHoUkbsbH33tsIeo3gm71_CkjMd_bcAN7i4xPvMnefA/s1600/salesforce-attack-path.jpg",
@@ -12065,6 +12110,15 @@
     "summary": "Mythos Didn't Break Your Security Program. Your Exposure Window Could. The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven d\u2026",
     "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could."
   },
+  "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRgv46Pyr5W2eivocnJG2MuDCYtUXj0fVas4afxPzJX2ZVXVCyjyWK_FtVCxKOaz9qwmR6EJLqgbrG448OtKTlv3X9coXsqr40xoNXrkXZbGiOO3ZHr-skaiYV3My_V-qI9YH3c3ScLO4tISLW_uI-2PD3_hdgUQW8cv_kMi6q994YyZn6JkF7gIhECC4/s1600/pushsecurity.jpg",
+    "published": "2026-07-21T11:42:23+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "N-day is Becoming N-Hour. Patching Faster Won't Save You. Every patch is a confession.\n\nThe moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, an\u2026",
+    "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You."
+  },
   "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Pvezsft8WXzYy1Lw3zKDZrkf0TNZfj95rzTnuQgzbJuztRDNDFK35ahO9UfhNJOicjjuzyZGFCtC_idBl8vgNdw4kzfeYFo6LwUur66S5qUTO2Bl3WVLwCDWoDTnw4dlZdj_ZQ1T2JcG1dWfJeoO3WDZs94EVm9z0hZ8VPL36KDpaAmw7fH9hSWSSaw/s1600/n8n-main.jpg",
@@ -12109,6 +12163,15 @@
     "source": "The Hacker News",
     "summary": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and And\u2026",
     "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android"
+  },
+  "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-R7kd2VdqaUw8SmCRinR_mJDH7qmw8_9h6IHAFVzVk0Oaec5zzxsTzyikFRO8ZlzSArsZ4vjQryaEwMCWcpnvOqlKIMiI6PCmxrjWrWCVI_ihUtqY17MSTWTgFcAwBCTdZMV8ihug0FuEBl5gJhYt2S2SMSua7s98eOuTf7maqc2T2vsXN7wGrkS4iH8/s1600/bit2watt.jpg",
+    "published": "2026-07-21T11:24:50+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in.\n\nThat is the claim\u2026",
+    "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit"
   },
   "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html": {
     "categories": [],
@@ -12299,6 +12362,24 @@
     "summary": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase.\n\nOn an infected P\u2026",
     "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps"
   },
+  "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgT3XQmerfsXoGV-Vs_zcpVZiX_i21tKtW9mTacpOvcEntMhycVftZ4f2vkREtq3W8PH9iQRLpOunN-hFf590FJNocxmsPla_WJ1uGJxtkpXnQim-T0-wa89EiJSZSrLHxhOcx_srjqzYcb2dW2MXAU4V2HWlL9rQa1YVEE4XEQ944I7a3glRwwjkgu0U/s1600/ai-android-agent.jpg",
+    "published": "2026-07-21T11:58:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the sam\u2026",
+    "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs"
+  },
+  "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1600/openai.jpg",
+    "published": "2026-07-22T04:18:33+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted \u2026",
+    "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark"
+  },
   "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSi9EGhWziKlNlaSAnaOE4OjgZ5pyqoajOxDz4zEQl77NDSF_Pf8ME6wfKfrmrTWhLy9jDR1wvmVb7gd5JLhyszunIomhOnyyHKuTfvBCjb8vGypAPXbQzTVG-n5wWUdsTToUXQ5z_uh3XPDX3KKzgZ8vDB9PZ40FOd6xGi2iALOu-wSqSoHpkpYf5eKjk/s1600/openai-gpt-red.jpg",
@@ -12353,6 +12434,15 @@
     "summary": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic that AI t\u2026",
     "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware"
   },
+  "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaY5kPe-g7dmQXqM_VwJIUOZk8mqgDII9sHVnZgWraV6lnXp9Pu6d664E6wSS82UCkvOd7MkPhzJBnbIKwJO9SLjHaVADbVE0zaSYhZJsHeBkBIh3Y9edJnmW4Ck1ndx5OwkkA5jJMo7gP6ocN_61sO7mOCACXBvzompiLGwnZCRkn2TkaXL6Ay94Fg/s1600/phishkit.jpg",
+    "published": "2026-07-22T06:38:45+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesi\u2026",
+    "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA"
+  },
   "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj35Nf4KvfpGfbhGpq7fhtkXFhxKtTqAEFF5dX23th60tiUCMEYsuOXfiH-kIq1PRUWrRBMo92M6SCtE8chA882l0wCOO2gs1skw-h_sOqfA9jOcED6IYr2RVWkVzKohekZdvzOTZ9QpPnGDtOtJI9jYjWlPiAgvc1dG4Yuy-J02v8GA9rkweGIF000-lA/s1600/githubs.jpg",
@@ -12361,6 +12451,15 @@
     "source": "The Hacker News",
     "summary": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown.\n\nThe attacker needs only to open\u2026",
     "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data"
+  },
+  "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP1HNhUk3hMm0HOAQBAVExGT5-PQfrxeAtKrKRpG_eaXz5qEtVKiuH4-nOVMVdbtZ5XVzfk-hM-eFwpS0IAZNpGkp2DmE4wiNauEA3GT-t1UtLNGjtyVuDRPezJSyj4jEw8zeNgoPnyloZe_6K_vM1-nfYYoehFdoWRgVzVnmJUF3wwfamG0BgDdN1BvMJ/s1600/ransomware-attack.jpg",
+    "published": "2026-07-21T14:04:57+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments.\n\nAr\u2026",
+    "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access"
   },
   "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html": {
     "categories": [],
@@ -12650,6 +12749,15 @@
     "summary": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API.\n\n\"In this campaign,\u2026",
     "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API"
   },
+  "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmbnZz5gT311oKvULmSO8GP7t6_iPwyHkyn18YX9gpWaA6McGU3BUywygV6gyQ_WBntQjd4mCBZC7mVug_axlJpTqNM2GblbuYyYMf6Np-Zm6P5dvmWeA_aoyZ4bckOlXoAfMC8yXacUfCPHocS9azMsxW7cYbLy6e6iVNH6EMVduEZTLFT_CyAYmud78K/s1600/json-pack.jpg",
+    "published": "2026-07-22T06:00:06+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game \u2026",
+    "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library"
+  },
   "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmKa1OIdUu8LgLPgZkc9qbOTzhARf1dEJa_fzyVt7vvSzidHy3Lrb-2R4hs2ryt9b4Aq3zOnJRtWVuQ8KHKUZ5x9Iv6Q0vGTVMPxNMLTdGaNsquyrL18QXk8TcMP2nEwFHE1snKt2aG6rEmyVMwRp7Fk4G_x_sXjk_4AmYWsH2JCvOe2Adut2PZbLVc4YI/s1600/tuxbot.jpg",
@@ -12820,6 +12928,15 @@
     "source": "The Hacker News",
     "summary": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result in cr\u2026",
     "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants"
+  },
+  "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih_Q67gFWBtG5q7zVuyna7iJj3lSm-UQRoMsami8jaf-WYMCXqQlVprQ_ifyXx-PqJg2chDHN3KrFppnZSvejTvSco4kN-P_S4U3vKQHNtvZ48g5wftlSILrMulX1WUMOeeybU4apJ5Iv8BM6ipceEVGSJucR7yRJZguIrfTUaCbbHqefGt6o2BkHrJqV0/s1600/zimbra.jpg",
+    "published": "2026-07-21T13:18:31+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component.\n\nAs many as nine securit\u2026",
+    "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities"
   },
   "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html": {
     "categories": [],
@@ -17540,6 +17657,17 @@
     "summary": "Anti-piracy coalition takes down AnimePlay app with 5 million users The Alliance for Creativity and Entertainment (ACE) announced the shutdown of AnimePlay, a major anime streaming platform with over 5 million users. [...]",
     "title": "Anti-piracy coalition takes down AnimePlay app with 5 million users"
   },
+  "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-21T18:50:54+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [..\u2026",
+    "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak"
+  },
   "https://www.bleepingcomputer.com/news/security/apache-openoffice-disputes-data-breach-claims-by-ransomware-gang/": {
     "categories": [
       "Security"
@@ -18381,6 +18509,17 @@
     "source": "BleepingComputer",
     "summary": "Checkout.com snubs hackers after data breach, to donate ransom instead UK financial technology company Checkout announced that the ShinyHunters threat group has breached one of its legacy cloud storage systems and is now extorting the company for a ransom. [...]",
     "title": "Checkout.com snubs hackers after data breach, to donate ransom instead"
+  },
+  "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-22T06:40:29+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Chick-fil-A discloses data breach after credential stuffing attacks American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]",
+    "title": "Chick-fil-A discloses data breach after credential stuffing attacks"
   },
   "https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/": {
     "categories": [
@@ -19653,6 +19792,17 @@
     "summary": "Clop ransomware targets Gladinet CentreStack in data theft attacks The Clop ransomware gang is targeting Internet-exposed Gladinet CentreStack file servers in a new data theft extortion campaign. [...]",
     "title": "Clop ransomware targets Gladinet CentreStack in data theft attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-21T14:00:10+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Closing the Identity Gaps in Critical Infrastructure Security Critical infrastructure attacks often begin with stolen credentials, compromised devices, or trusted accounts. Specops Software explains why Zero Trust should verify both user identities and device trust before grantin\u2026",
+    "title": "Closing the Identity Gaps in Critical Infrastructure Security"
+  },
   "https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/": {
     "categories": [
       "Security",
@@ -20148,6 +20298,17 @@
     "summary": "Critical Fortinet FortiSandbox flaws now exploited in attacks Attackers are now exploiting several critical vulnerabilities in Fortinet's FortiSandbox cyber threat detection platform, according to threat intelligence company Defused. [...]",
     "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-21T10:12:24+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
+    "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang"
+  },
   "https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/": {
     "categories": [
       "Security"
@@ -20280,6 +20441,17 @@
     "summary": "Critical ServiceNow code execution flaw now exploited in attacks Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
     "title": "Critical ServiceNow code execution flaw now exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-21T20:06:55+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Critical SharePoint RCE flaw exploited to steal machine keys Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]",
+    "title": "Critical SharePoint RCE flaw exploited to steal machine keys"
+  },
   "https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/": {
     "categories": [
       "Security"
@@ -20323,6 +20495,17 @@
     "source": "BleepingComputer",
     "summary": "Critical WhisperPair flaw lets hackers track, eavesdrop via Bluetooth audio devices A critical vulnerability in Google's Fast Pair protocol can allow attackers to hijack Bluetooth audio accessories like wireless headphones and earbuds,\u00a0track users, and eavesdrop on their conversa\u2026",
     "title": "Critical WhisperPair flaw lets hackers track, eavesdrop via Bluetooth audio devices"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-21T16:41:50+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Critical wp2shell WordPress flaws exploited to install webshells Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]",
+    "title": "Critical wp2shell WordPress flaws exploited to install webshells"
   },
   "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/": {
     "categories": [
@@ -21792,6 +21975,18 @@
     "source": "BleepingComputer",
     "summary": "Fake VS Code alerts on GitHub spread malware to developers A large-scale campaign is targeting developers on GitHub with fake Visual Studio Code (VS Code) security alerts posted in the Discussions section of various projects, to trick users into downloading malware. [...]",
     "title": "Fake VS Code alerts on GitHub spread malware to developers"
+  },
+  "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-07-21T22:34:17+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]",
+    "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware"
   },
   "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/": {
     "categories": [
@@ -28225,6 +28420,17 @@
     "summary": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow OpenAI is rotating potentially exposed macOS code-signing certificates after a GitHub Actions workflow executed a malicious Axios package during a recent supply chain attack. [...]",
     "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow"
   },
+  "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-22T05:19:20+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI says its AI models hacked Hugging Face during testing OpenAI says its AI models, including GPT\u20115.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
+    "title": "OpenAI says its AI models hacked Hugging Face during testing"
+  },
   "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/": {
     "categories": [
       "Security",
@@ -28846,6 +29052,18 @@
     "source": "BleepingComputer",
     "summary": "Europol-led crackdown on The Com hackers leads to 30 arrests A yearlong Europol-coordinated operation dubbed \"Project Compass\" has led to 30 arrests and 179 suspects being tied to \"The Com,\" an online cybercrime collective that targets children and teenagers. [...]",
     "title": "Europol-led crackdown on The Com hackers leads to 30 arrests"
+  },
+  "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-07-21T23:07:33+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Police dismantle Kratos phishing platform, arrest developer Authorities in Germany and the U.S. dismantled the central infrastructure of Kratos, a phishing-as-a-service (PhaaS) platform with global reach, and its developer was arrested in Indonesia. [...]",
+    "title": "Police dismantle Kratos phishing platform, arrest developer"
   },
   "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/": {
     "categories": [
@@ -32113,6 +32331,17 @@
     "summary": "US seizes hundreds of FIFA World Cup illegal streaming domains The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]",
     "title": "US seizes hundreds of FIFA World Cup illegal streaming domains"
   },
+  "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-21T11:07:07+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown The U.S. Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization. [...]",
+    "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown"
+  },
   "https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/": {
     "categories": [
       "Security"
@@ -33732,6 +33961,15 @@
     "summary": "Chinese Hackers Hijack Notepad++ Updates for 6 Months State-sponsored threat actors compromised the popular code editor's hosting provider to redirect targeted users to malicious downloads.",
     "title": "Chinese Hackers Hijack Notepad++ Updates for 6 Months"
   },
+  "https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1c0e9544f78c82bf/6a5e8bfa651b136c90b23f50/door_choice-adventtr-GettyImages-2027127656.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-21T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Choose Wisely: AI-Generated Coding Risk Varies, a Lot AI-generated code introduces 15 vulnerabilities on average per codebase, but the actual risk depends on framework pairing more than the model used.",
+    "title": "Choose Wisely: AI-Generated Coding Risk Varies, a Lot"
+  },
   "https://www.darkreading.com/application-security/cisos-debate-human-role-ai-powered-security": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt654ea4d6d54b8adf/69c1a3571190c79717853685/AI_vs_human_robert_hyrons_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -33928,6 +34166,15 @@
     "source": "darkreading",
     "summary": "FIFA Bug Exposes World Cup Streams to Remote Takeover A hacker could have &quot;Rickrolled&quot; the World Cup \u2014 or worse \u2014 thanks to FIFA's unenforced Entra access controls.",
     "title": "FIFA Bug Exposes World Cup Streams to Remote Takeover"
+  },
+  "https://www.darkreading.com/application-security/finding-and-prioritizing-vulnerabilities-no-easy-task": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt283391312b6c9a38/6a5f7b49060b4ed782c34503/AI-code-illustration-CineVI-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-21T21:27:37+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Using LLMs to Find and Prioritize Vulnerabilities Is No Easy Task The latest large language models have high false-positive rates and fail to take into account the context of scans, leading to more work for AppSec professionals.",
+    "title": "Using LLMs to Find and Prioritize Vulnerabilities Is No Easy Task"
   },
   "https://www.darkreading.com/application-security/flaw-finding-ai-assistants-face-criticism-speed-accuracy": {
     "categories": [],
@@ -35416,6 +35663,15 @@
     "summary": "Hack the Hackers: 6 Laws for Staying Ahead of the Attackers A new security framework responds to a shift in attackers' tactics, one that allows them to infiltrate enterprises &quot;silently&quot; through their own policies.",
     "title": "Hack the Hackers: 6 Laws for Staying Ahead of the Attackers"
   },
+  "https://www.darkreading.com/cyber-risk/hacker-ai-jailbreaks-offensive-attack-platform": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt706caa609307b368/6a5f71562729a47d3c4a2149/AI_(1800)_Techa_Tungateja_Alamy.png?width=720&quality=80&disable=upscale",
+    "published": "2026-07-21T18:38:52+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Hacker Turns AI Jailbreaks Into Offensive Attack Platform A Russian-speaking actor, &quot;Trim,&quot; dismantled publicly available frontier models and integrated them with offensive security tools.",
+    "title": "Hacker Turns AI Jailbreaks Into Offensive Attack Platform"
+  },
   "https://www.darkreading.com/cyber-risk/healthy-security-cultures-thrive-on-risk-reporting": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt069c5d6fc2ee2c51/6973a8e8d307dcc8891da3a0/2BMP2TF.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -36829,6 +37085,15 @@
     "source": "darkreading",
     "summary": "Life Mirrors Art: Ransomware Hits Hospitals on TV &amp; IRL HBO's &quot;The Pitt&quot; is showing audiences what a real Mississippi healthcare system is going through this week, thanks to a ransomware attack.",
     "title": "Life Mirrors Art: Ransomware Hits Hospitals on TV &amp; IRL"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d46e0386d2cd24e/6a5fd644651b13c322b2426e/ransomware_fadfebrian_shutterstok.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-21T21:48:05+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Ransomware Is Accelerating, But It's Not Because of AI Researchers pointed to fragmentation of the ransomware ecosystem, the emergence of new attackers, and expansion of attacks on less defended organizations.",
+    "title": "Ransomware Is Accelerating, But It's Not Because of AI"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/ribbon-communications-breach-latest-telecom-attack": {
     "categories": [],
