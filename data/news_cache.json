@@ -11552,6 +11552,15 @@
     "summary": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets Security firm&nbsp;Coinspect&nbsp;has disclosed a crypto wallet flaw it calls&nbsp;Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its re\u2026",
     "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets"
   },
+  "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrnUDzSA-4xfOL6dsXt2pFY9jJro2vbjOgvkTbiFMhSXz9Z-0WdDTORe9IPFfMr0DVr0PapP8lFuq8R12ZXRyDdMO-2v9ot7c2oy2WobbNwqn3jbKQC5XmNdgKWZB8ENBVQSADLuujJMKvd3DtNcpAFhDa5zihJDtYrQYRLMSCftHHmNg2bUiRC_gCQkFK/s1600/github-action.jpg",
+    "published": "2026-07-23T11:28:54+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastructure designed to target cPanel and WebHost Manager (WH\u2026",
+    "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers"
+  },
   "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJfMUQ_pVP5as41uM_4cR8oRUsCwuXPMLLG63jNd5Djqso9kJyQZLiZgQrMQzykhRaX8BQCydIMPokGoITYY30kc3dH-8iy4Bd-ux36RoIjyNYXtKwb1F1fPdP00hoHD-9Q9s5CGD30w58s5wfyzBGOQvnIxM8JlHkig881HSQQuu4Hk6GBiDJicUYE8o/s1600/AWS-Kiro.jpg",
@@ -11588,6 +11597,15 @@
     "summary": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management in\u2026",
     "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware"
   },
+  "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpS2QJv9o35m4hpF1MjxwE07jbvy9d4kK2fiSsQKFYaYtlUFReQ0j1YQ7fdaOPUN9s3J5oBpHG9vPIbTu_HwdjSDoz8UdhlJOp6ys6uBJlQxTL5BQlxtcOU2aRS1aaPeVwqvfCqGFzXEmQm0is0azXtyPQ8cNN61LbHtCllseMZQoYlwyrL4FV6BrkgqE/s1600/chrome-headless.jpg",
+    "published": "2026-07-23T13:11:09+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine a\u2026",
+    "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge"
+  },
   "https://thehackernews.com/2026/07/check-point-patches-exploited.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBN3LZDMeKkPoMsoNtsGp_s0KYwVrmhhKHQsQtqgtAN1WAKeS7L-aN1hiehoBwnPi6f1gziIEecy5GlPdAVlWKPlzVprrqHLTLE3tcMZu4NK8QDoRxxS22HEFxfIpyrXnqr8O9b9akb1VVr9dmmmdwzHmhTFTVX4Cpv6WkFwSpz62tr6XKEDvKp5m0aUu/s1600/checkpoint.jpg",
@@ -11605,6 +11623,15 @@
     "source": "The Hacker News",
     "summary": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices.\n\nAccording to findings f\u2026",
     "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware"
+  },
+  "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-rvCSGHVd2nngnpcdcc8Eh-QFaxQrcyegoSIPhUeTpr5qrGHcHYIstDAj08yLDeYcNZkZ26Ta53fdYefY8NjW8MprrOL4lQ4VnDCMpBrsrSQccyUipoC3VvFtMNUxUpUzOYra58WqjRwn952-fvzZLpXtgeY8Ao660YY49FaqcTTjBrDN_DsFFnsftJ8/s1600/malware-attack.jpg",
+    "published": "2026-07-23T12:20:23+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and La\u2026",
+    "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks"
   },
   "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html": {
     "categories": [],
@@ -11632,6 +11659,15 @@
     "source": "The Hacker News",
     "summary": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facil\u2026",
     "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service"
+  },
+  "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj5Vr8pje9uM-Ce6rzE-_hhU3HvR2NkKtYfaSrIXz3m0BbrC1ZNC9p4GW4GRQaAvFKPjE5kopXmdmcKcMb7_1dbOWvMO6_oe87HCj4TUXV1dWK99cz_OBcNHd81Ziat93g4wJcBdc3K1vq0IkwFL9DO9GlSrf_KxGi2hpg7VVsU9iTt7B2XByXL7nil86i/s1600/claude.gif",
+    "published": "2026-07-23T13:27:59+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent\u2026",
+    "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files"
   },
   "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html": {
     "categories": [],
@@ -11804,6 +11840,15 @@
     "summary": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230\u2026",
     "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes"
   },
+  "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCA0-yh9EAnhFa2V3NzQVw2m-sLgbCNVQ8GVMBX4Y6vUNwPXE-vHzdJLFKXVi3rdGXhx5RawHTwox7cd9ph20u5qn_H8TJUOKG8nITccTkzqfiyBKStdCgcrJOgAeGf9Mkzr1g8iCB0HrpuonkIQQTx15L2P53RPX9GeMYVIuvl51jJ2hn1jn0PcQARQaj/s1600/notepad-malware-code.jpg",
+    "published": "2026-07-24T06:50:57+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems.\n\nThe activity\u2026",
+    "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks"
+  },
   "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjraCuGeWGgh9OrpC0vpcC6fFNsSdQEGhB_GPY0ZbuAzcOyqyTyHFA8fl97bDKYihy0MZGiU9_5a4s4x6oziT9-cCv1n2dpGZpGtvuipWUYoEObUWtQt0ZmNczKsM7wzqdtLbAvrIfJrFpCDzPD-koB8qxdpFYZ0w5EtnYW2Z4RTPz0v-JFVyFgyg3rQk8/s1600/github.jpg",
@@ -11912,6 +11957,15 @@
     "summary": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine.\n\nExpel, which shared technical details of the event, descr\u2026",
     "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft"
   },
+  "https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi33P1I6A4GNsGTrz72n-ZgaqJE-ksI5ub_5wWCmRVQhG7fikbuDtdu7inYjTOFVi9v1SukZnH_fWo2LiI-v6zkm2WwWrbaKGsKBK4Z6yHJvXkBX-m5HxX0VzG9Tv_Nz-17rbcUoql67ciu4oMYS2pNs946kSd95SaWvSM096CEeMaBLbSpXpA2KnZprzb-/s1600/google-account-recovery.jpg",
+    "published": "2026-07-23T10:00:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts Google on Thursday announced a new way for users to sign-in to their accounts by letting them take a selfie video.\n\nThe selfie for sign-in, per the tech giant, is another option on top of existing recovery m\u2026",
+    "title": "Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts"
+  },
   "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSvBtzUXyAbjgtvPJVS9zZ29ULkaIs0fMMa53ZKSip2pJbZ7_HMTGn3SV27X28JLwaq9atS1B_jvH_7qgfsjW0wyVDV_jGyqFSyO-z_vHuoigCy14xfb7DKuuWGIMUVeLiOhnap1yICNPEC2OUkA0d_e8RXtPs7oTo3BAz9I2DTxRwg67vgObResLQ7c4/s1600/browser-edge.jpg",
@@ -11984,6 +12038,15 @@
     "summary": "How Pentera Turns AI Security Workflows into Validation Engines AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals:\u2026",
     "title": "How Pentera Turns AI Security Workflows into Validation Engines"
   },
+  "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3CPk7mPjct6TcYwb9c1LBGjEBTkHjIkX-_CqYIrmdg3nJu-Vyjmc2qCT_cZbFEoUNaiIEQafCVxDDD0RZfflUs8LqGu9Ecx0N7Tu3nEzHXUW2nKLefXYKsRHfVtv-TZXw_WDILy6sKkE5kk3ts5cBTaSfq1mReYwo6Fb1ghPkg4Z4bLiNuAP4ehxqFG0/s1600/keeper.jpg",
+    "published": "2026-07-23T11:45:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "How Synthetic Identity Fraud is Coming for Machine Identities Most people understand identity theft as an attacker stealing a real person's sensitive information and impersonating them. Synthetic identity fraud is much harder to catch. Instead of stealing a real identity, the att\u2026",
+    "title": "How Synthetic Identity Fraud is Coming for Machine Identities"
+  },
   "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeiJymlyu6GGdzNT0Fb3yi6rYZdNn_XCoDUKKV9zSD_p17gngK7FL-IDm5LLTYlGx6Rn2Em6v0TSDq7u_1lttLyp1b97z7YrjSrFK7MrYAG2k1YXI91fHRRTRoPV1xIQSukE1DwqRcHY6i6fIS0jC2CaKv18OhFWHi2fKvXRKmZ6MBgSoRMDWGxmQKlfTt/s1600/aisoc.jpg",
@@ -12028,6 +12091,15 @@
     "source": "The Hacker News",
     "summary": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka C\u2026",
     "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations"
+  },
+  "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0TE9DH98zjhcQPB99o9CcCvYH1otVTUwpXl_9Af1Nbl89gqHBAqP2jtb-BFrmXdR-4OYmPOGJJoilFiac2ooKHM5Lbe_kD5kLpW1eRcdpOWsG53701lGhFi93e0UpvGrptdb2usksom4mF56GWE1of2M7KsmAZav9cENd90xYAVz7Dq3yPIBJEODDDaQ/s1600/redis-0day.jpg",
+    "published": "2026-07-24T06:58:27+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0.\n\nAll four chains require RESTORE. The Streams chains al\u2026",
+    "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say"
   },
   "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html": {
     "categories": [],
@@ -12353,6 +12425,24 @@
     "summary": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below refl\u2026",
     "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code"
   },
+  "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_70wKHw_bPdJz-ZYXpwrH7FBXem8uWKNtuBUyXDLbMld4PaBtBkw7Gpt9lRrVnki_eC21aw6sUezqM3-oFiTEviDqZECD20lmV3enwh0lDkRLAx38JlJYMoLzRpn-Ai4q1UbiIo8DTVjp4_blU5CM6AnW97jYgIblggBYgNIHdTE6t2Ec7by-N0Ly8YY/s1600/linux-root.jpg",
+    "published": "2026-07-23T08:04:35+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs RefluXFS, a Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access.\n\nQu\u2026",
+    "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs"
+  },
+  "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixTLaT7NCY3UuotqW1AHLiB1xN5K-nlqtpnOav_n7PWHNWWZmrSmmPTzmL6oA7N7dOgwSGxEbbBq90Q3OVK6wF2PSXdXLs7mKmBYc1dEBIc64Qsq6XEl7rYbv5PjRMViYiGXr8-ypMSs0ZJv_rJXqSWIbS4FVTuIphO7g9IfC0MG6m5dDXPXJoz7iezck/s1600/nodebb.jpg",
+    "published": "2026-07-24T07:41:06+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour revie\u2026",
+    "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats"
+  },
   "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizZ8fzXjkeMlk_f1TKWczz8e4GHbNGTRPmaXHDPi86v4Ep0BqvGpKpOtpP_mtnHihu7kbII2nMxqQnQbjAhQkv6lkemsoIlzzS925QJKqkU5tgFHTxtSuRBllSUeZ3gpkJa51TAcggrQanY873B173p_hA-ow4sgftGDp4UgD3Torp7KswNuBp93-YOre5/s1600/northkorean-hacker.jpg",
@@ -12569,6 +12659,15 @@
     "summary": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project.\n\nFrom \u2026",
     "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots"
   },
+  "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXkCZuPeRyg1ChSuRUngYAxHTfN5dCHgGrSaCg3hA40XvmX2vRmKxgGJ7Pzli72_i9XK9XgCQhhRNK5dE3XJ_EklUH_Nzoqx4YLy7NeKSHB4RCd4KkdhrCB1vdEEcGsgnzumTMwi3_J4BxsGc3t0pjb2mhjkHfBcF5PDUqTe9F0wZPaC94Y6AwMXICZ9E/s1600/zimbra-exploit.jpg",
+    "published": "2026-07-23T18:36:08+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client.\n\nThe payload goes after the last 90 days of email, the organizati\u2026",
+    "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes"
+  },
   "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnZdcdM-XJQ9tmIQw7h4gqSDABg-Ip1mzizMoR9zRcyQmaG7OGlQSp1ad0RsZSflsvdKVn0bs4EXdPthnHgiC76as_RVG-W7vZ88AHvJ2HhCLEaQOlNukhrTl6NSq6sgAHGiGUXemDrbZePvUDIi2oxWb60rRX5lkxA5bsFBJplBkaVQTZ5R0EjOrJTaQ/s1600/ip-camera-hacking.jpg",
@@ -12766,6 +12865,15 @@
     "source": "The Hacker News",
     "summary": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories This week\u2019s security news is mostly about weak spots.\n\nBrowsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone \u2026",
     "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories"
+  },
+  "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsmJNuemIhGxFuSqY6pq1opCEJECkmIjXm5VnOqOAEjfpoLxQ89Q-qXBqKQmM8YnwyVP2_feUo4c-VLZ3cC6s_J0VCXdwhLKFezoK1-i4lWQs68yXaZS8XtHGAsDj5zsdOToB7yD1QHzuMYIVQFvb14U6Zhd1cqDOm78tRY1O3v_1LFr7CC-4ItBLpLgZ3/s1600/th.jpg",
+    "published": "2026-07-23T15:02:07+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories Most of this week's trouble came dressed as something useful.\n\nA package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agen\u2026",
+    "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories"
   },
   "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html": {
     "categories": [],
@@ -13849,6 +13957,18 @@
     "summary": "New York sues Valve for promoting illegal gambling via game loot boxes New York Attorney General Letitia James sued video game developer and publisher Valve Corporation for using game loot boxes to facilitate illegal gambling activities among children and teenagers. [...]",
     "title": "New York sues Valve for promoting illegal gambling via game loot boxes"
   },
+  "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/": {
+    "categories": [
+      "Google",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-07-23T12:33:19+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "EU fines Google $1 billion for search, app store antitrust violations The European Commission fined Google \u20ac890 million ($1 billion) on Thursday after finding the company had violated the European Union's Digital Markets Act (DMA), which ensures fair online competition. [...]",
+    "title": "EU fines Google $1 billion for search, app store antitrust violations"
+  },
   "https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/": {
     "categories": [
       "Google",
@@ -14212,6 +14332,18 @@
     "summary": "New Januscape Linux flaw allows VM escape on Intel, AMD devices A 16-year-old Linux kernel vulnerability, dubbed Januscape, allows attackers to escape a virtual machine and execute arbitrary code on the host. [...]",
     "title": "New Januscape Linux flaw allows VM escape on Intel, AMD devices"
   },
+  "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/": {
+    "categories": [
+      "Linux",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-23T11:40:16+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New RefluXFS Linux flaw lets attackers gain root privileges A nine-year-old race condition vulnerability in the Linux kernel's XFS filesystem, tracked as CVE-2026-64600, allows local attackers to overwrite protected files and gain root privileges. [...]",
+    "title": "New RefluXFS Linux flaw lets attackers gain root privileges"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/": {
     "categories": [
       "Microsoft"
@@ -14292,6 +14424,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft 365 Backup to add file-level restore for faster recovery Microsoft will soon begin rolling out a significant upgrade to Microsoft 365 Backup to speed up recovery by allowing administrators to restore individual files and folders. [...]",
     "title": "Microsoft 365 Backup to add file-level restore for faster recovery"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-07-23T15:34:43+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft 365 outage affects Teams, SharePoint and other services Microsoft is impacted by a massive outage affecting\u00a0Teams and Microsoft 365 services, primarily affecting users in North America. [...]",
+    "title": "Microsoft 365 outage affects Teams, SharePoint and other services"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-admin-center-in-north-america/": {
     "categories": [
@@ -18044,6 +18188,17 @@
     "summary": "Australia warns of global campaign targeting vulnerable CMS platforms The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
     "title": "Australia warns of global campaign targeting vulnerable CMS platforms"
   },
+  "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-23T20:14:35+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Australian energy provider Origin says data breach exposes client data Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]",
+    "title": "Australian energy provider Origin says data breach exposes client data"
+  },
   "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/": {
     "categories": [
       "Security"
@@ -19910,6 +20065,17 @@
     "source": "BleepingComputer",
     "summary": "Clop ransomware targets Gladinet CentreStack in data theft attacks The Clop ransomware gang is targeting Internet-exposed Gladinet CentreStack file servers in a new data theft extortion campaign. [...]",
     "title": "Clop ransomware targets Gladinet CentreStack in data theft attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-24T07:36:39+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Clop ransomware targets Windchill, FlexPLM in data theft attacks The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
+    "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks"
   },
   "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/": {
     "categories": [
@@ -21905,6 +22071,18 @@
     "summary": "Fake Claude AI website delivers new 'Beagle' Windows malware A fake version for the Claude AI website offers a malicious Claude-Pro Relay download that pushes a previously\u00a0undocumented backdoor for Windows\u00a0named Beagle. [...]",
     "title": "Fake Claude AI website delivers new 'Beagle' Windows malware"
   },
+  "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-07-23T19:48:30+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Fake Claude app promoted by Bing ads pushes SectopRAT malware A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]",
+    "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware"
+  },
   "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/": {
     "categories": [
       "Security"
@@ -22423,6 +22601,17 @@
     "source": "BleepingComputer",
     "summary": "FCC rolls back cybersecurity rules for telcos, despite state-hacking risks The Federal Communications Commission (FCC) has rolled back a previous ruling that required U.S. telecom carriers to implement stricter cybersecurity measures following the massive hack from the Chinese th\u2026",
     "title": "FCC rolls back cybersecurity rules for telcos, despite state-hacking risks"
+  },
+  "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-23T14:00:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires FedRAMP 20X replaces point-in-time assessments with continuous, machine-readable evidence that demonstrates security controls are working. Anecdotes explains what the transition from Rev5 to FedRAMP 20X means and how\u2026",
+    "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires"
   },
   "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/": {
     "categories": [
@@ -23885,6 +24074,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers abuse Google ads for GoDaddy ManageWP login phishing A phishing campaign delivered through Google sponsored search results is targeting credentials for ManageWP, GoDaddy's platform for managing fleets of WordPress websites. [...]",
     "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-23T16:32:35+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers abuse Notepad++ plugins to stealthily install malware Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
+    "title": "Hackers abuse Notepad++ plugins to stealthily install malware"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-abuse-triofox-antivirus-feature-to-deploy-remote-access-tools/": {
     "categories": [
@@ -27228,6 +27428,17 @@
     "summary": "New \u201cDarksword\u201d iOS exploit used in infostealer attack on iPhones A new exploit kit for iOS devices and delivery framework dubbed \"Darksword\" has been used to steal a wide range of personal information, including data from cryptocurrency wallet app. [...]",
     "title": "New \u201cDarksword\u201d iOS exploit used in infostealer attack on iPhones"
   },
+  "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-23T21:20:34+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New Dolphin X malware uses AI to rank high-value targets A new Dolphin X remote access trojan claims to use\u00a0an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]",
+    "title": "New Dolphin X malware uses AI to rank high-value targets"
+  },
   "https://www.bleepingcomputer.com/news/security/new-droidlock-malware-locks-android-devices-and-demands-a-ransom/": {
     "categories": [
       "Security",
@@ -27656,6 +27867,17 @@
     "source": "BleepingComputer",
     "summary": "New Mirai campaign exploits RCE flaw in EoL D-Link routers A new Mirai-based malware campaign is actively exploiting CVE-2025-29635, a high-severity command-injection vulnerability affecting D-Link DIR-823X routers, to enlist devices into the botnet. [...]",
     "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-23T10:00:00+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or Edge browsers. [...]",
+    "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic"
   },
   "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/": {
     "categories": [
@@ -30083,6 +30305,17 @@
     "source": "BleepingComputer",
     "summary": "Russian hackers exploit recently patched Microsoft Office bug in attacks Ukraine's Computer Emergency Response Team (CERT) says that Russian hackers are exploiting CVE-2026-21509, a recently patched vulnerability in\u00a0multiple versions of Microsoft Office. [...]",
     "title": "Russian hackers exploit recently patched Microsoft Office bug in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-23T16:49:27+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Russian hackers exploit Zimbra zero-click flaw for email theft CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the expl\u2026",
+    "title": "Russian hackers exploit Zimbra zero-click flaw for email theft"
   },
   "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/": {
     "categories": [
@@ -37351,6 +37584,15 @@
     "summary": "Russian Hackers Weaponize Microsoft Office Bug in Just 3 Days APT28's attacks rely on specially crafted Microsoft Rich Text Format (RTF) documents to kick off a multistage infection chain to deliver malicious payloads.",
     "title": "Russian Hackers Weaponize Microsoft Office Bug in Just 3 Days"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta778b4705951b9ec/6a6271d8e9fe84f275c977a7/russianhackers_Anton_Petrus-Getty-2027926930.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-23T21:23:18+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets A state-sponsored threat group, dubbed &quot;Laundry Bear,&quot; sends &quot;half-click&quot; phishing emails that require a victim only to open or preview the message.",
+    "title": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/rust-written-ironworm-npm-supply-chain": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt705e8d4cc3766735/6a21e18d9f92ca732208c2ed/supplychain_Efkaysim_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -38199,6 +38441,15 @@
     "summary": "European Organizations Have a Collaboration Security Confidence Gap A new survey shows security leaders have an inflated sense of safety regarding their collaboration tools and platforms.",
     "title": "European Organizations Have a Collaboration Security Confidence Gap"
   },
+  "https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb77a25dd6a60456c/6a62620cce520cc44cb61c92/Hello_in_three_languages-aluxum-Getty-183040723.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-24T07:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Europe's Multilingual Reality Exposes AI Security Gaps The AI security layer and guardrails for many AI products don't evenly protect against jailbreaking and unsafe actions in every single language.",
+    "title": "Europe's Multilingual Reality Exposes AI Security Gaps"
+  },
   "https://www.darkreading.com/cybersecurity-operations/focusing-people-cybersecurity-rsac2026": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt79de1ac137dc7200/69d3f4d558d26eee5e1c3d8d/AI_Human_High_Five_Andriy_Popov_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -38699,6 +38950,15 @@
     "source": "darkreading",
     "summary": "While ECH Adoption Is Low, Risks Remain for Enterprises, End Users Is the new privacy protocol helping malicious actors more than Internet users?",
     "title": "While ECH Adoption Is Low, Risks Remain for Enterprises, End Users"
+  },
+  "https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9e62e39ece6ef685/656a984ef3b292040a878813/confidentialai-everything_possible-alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-23T11:17:51+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Agentic AI Challenges Progress in Confidential Computing Core issues that slowed down adoption of secure data vaults are being resolved by technology, but artificial intelligence poses new ones. Experts have some answers.",
+    "title": "Agentic AI Challenges Progress in Confidential Computing"
   },
   "https://www.darkreading.com/endpoint-security/apple-patches-darksword-ios-18": {
     "categories": [],
