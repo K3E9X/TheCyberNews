@@ -11588,6 +11588,24 @@
     "summary": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated \u2026",
     "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA"
   },
+  "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirbs2h3QyfDG1ChFBHv8CQNwf9JrDdDWLaZ0AZ2WTiJrsjmmeQUXSFc8FM4OvPgxDig-z2H1Di7OMqCC_0mHbicAvDw6TGF-1jWihJ458GYQBKznb3VOehlOPqWfALnkz8k3DBfehWG2z5nmpu77OgRxJ1iQxL7lsrd1IH3YR6ZHPpSUns-tdmDYScHck/s1600/bing-image.jpg",
+    "published": "2026-07-24T11:45:17+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet.\n\nXBOW's tes\u2026",
+    "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers"
+  },
+  "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs7TSABeFdGk4U17Tg0v-H9ZK2WmPIZ9AtmxJGCtw24Naxa7eEdlvW-eR8yl9NNCAzrMkOCKqSjsdJmAMhuXOq9rHSCE3tNWvTGBe209fpCqn7wVRpUgQ4FgskJgUIWBRz95f25kb8FwrADVj5Cqo5HALXnothJa4kWk9WCU3MG1wkpW_D17sP8o84utoA/s1600/zoom-exploit.jpg",
+    "published": "2026-07-24T15:12:35+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconf\u2026",
+    "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery"
+  },
   "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibED37Q9WinxGoPYaXltP_givD-Q30FneMyezHB4uftr5E4hy4fMm97v_UH34sQWEvlp688bYvMR6zDzy_C93ddbqNDfIVSX7swJgdTD38hOmKgu6ZLGjBW068gXHpsT4soRscJ1vWDxTz2z8xBDSb2QD2UWrR68nVytui4mo6Q0cXVh_GjK5FC6P4imvK/s1600/backdoor-admin.jpg",
@@ -11597,6 +11615,15 @@
     "summary": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management in\u2026",
     "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware"
   },
+  "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdJCaF3dwhncVhtS_dn9W8CUCwJSHRmtCVTK5_fXnS6RpDI4GaVTcSVoXvmo_JgxUyd-H5G3yQaRAg3Ahp__DMlq-M5r9ejhJTdk5QlVuv16HVXDWV7e3HJAijAVBRumD3XSyeyQ1O477nfXFfTvCwgFeXlYF8QIdfTN4mlYAu28JGFN7lOWTEoKwlG9g/s1600/certighost.jpg",
+    "published": "2026-07-24T14:15:21+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate a\u2026",
+    "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller"
+  },
   "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpS2QJv9o35m4hpF1MjxwE07jbvy9d4kK2fiSsQKFYaYtlUFReQ0j1YQ7fdaOPUN9s3J5oBpHG9vPIbTu_HwdjSDoz8UdhlJOp6ys6uBJlQxTL5BQlxtcOU2aRS1aaPeVwqvfCqGFzXEmQm0is0azXtyPQ8cNN61LbHtCllseMZQoYlwyrL4FV6BrkgqE/s1600/chrome-headless.jpg",
@@ -11605,6 +11632,15 @@
     "source": "The Hacker News",
     "summary": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine a\u2026",
     "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge"
+  },
+  "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWjz4Sgp8xNXyO8juw5bycoRamRay35GLzSBPG3I3UWyuUovp8-qM8hMgxWiqIwW45q1cb17EkWhEYmP8ODPyhUTk1j7P2T92fjAW_R1WKleVJsywM7kzongXurU8N9olKf1F1jxpDnBKvY0s2F_wsgoGWYgRFrzN5zAoQZciTWQjLQw5NJRL66s3S1RaT/s1600/chatgpt.jpg",
+    "published": "2026-07-24T11:53:55+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an aut\u2026",
+    "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link"
   },
   "https://thehackernews.com/2026/07/check-point-patches-exploited.html": {
     "categories": [],
@@ -11948,6 +11984,15 @@
     "summary": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion strategy.\n\nAccording to a new re\u2026",
     "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses"
   },
+  "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ6m42WBQBHda1ntTqYkaxPyEiKYjc2xnTFIawfUcAxMuYQ_HtOz3ebO0HTtt3qyhUIIg8NB8W92WIfldPiOjZKCY1_aTGfgWq2NnZOhrgoU_Z8y8rtfVxCdJuc1QL94IcLm0IF_h-euFZydB5Qc8z4ifT-lx84glPyRnfTX8-R31O_0aswgRZR0uUTxs1/s1600/malwares.jpg",
+    "published": "2026-07-24T10:09:24+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite\u2026",
+    "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants"
+  },
   "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixZDZh8TkRVQHu6QNFvHOayTdDxLn-JWDRkPmvVCNkvEL9vhyphenhyphensADIyUB0uXlhXmBhACxMotz-lU1B61HGsRPee80GkLfk-mypQd6Ba4Hr4K-2QCz7BtyRKFCiUYuiUlmPw71Wdn6YnNTjncnGDPQBJV-P0MyS7CjTmPd-p_aHKBCQJr0JA396lL-Yxd3A9/s1600/digicert-hack.jpg",
@@ -11992,6 +12037,15 @@
     "source": "The Hacker News",
     "summary": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch \u2026",
     "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities"
+  },
+  "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8qmYxOjHl19UJl8lK9TMJt86it1bULCh3SK1wSiD4JjiKU98fsHnko_QWzUWuG2ZmoHG7yxLrIgSTFRCKep1Ebj0JAH8xuTLFP_aIzGpTobs7C8u5OKGGTq79vqkHpY_Iy6LIEG-AHv-_uSJTVt2kxapGAu7qjfgiT4qpIAtnlfK3bR8he5-dubMNLYs/s1600/hermes-agent.jpg",
+    "published": "2026-07-24T10:15:29+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance\u2026",
+    "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry"
   },
   "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html": {
     "categories": [],
@@ -12650,6 +12704,15 @@
     "summary": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive.\n\nIt has been described as a Windows User Profile Service arbitrary hive l\u2026",
     "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday"
   },
+  "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIN1sheAdScq7AX9pLc07esRzQ18-0vBJ7hz9DlVhggVAImXrhYM_zxN0N6hJ2inDkBCnzRCXHR3Kv3I0QwyiVWkAMu7p949JSjgK611r48deMbrSN8iDD78aJdfxEeO_Jy6JFwOfPL_8M0RKEBl1RFO7ufvop1XG9-tdms7VRyvONXoteuCYp9Rg-FM/s1600/gitlab.gif",
+    "published": "2026-07-25T08:34:15+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git Security researcher Yuhang Wu at depthfirst has published a working proof-of-concept (PoC) exploit that executes commands as git on an unpatched self-managed GitLab 18.11.3 server.\n\nAn ordinary au\u2026",
+    "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git"
+  },
   "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9i8xIVWZcplpj-QuKnJKGAJjGi0Xq-q2R_luyy-HYXWkpsAPTYASmVbm2w2DoNOQkA81fyu0OQsbflhLykcYQpv66UDBeRxU1v5-xq7kQDQMS0cmvsCFmZI36jfyGxh6xrroU4hNhH_8_nOyXV_WG07om2t4riI-HP4wzE3HJr2KJ3-sUnKxbTNhV84k/s1600/google-chatbots.jpg",
@@ -12712,6 +12775,15 @@
     "source": "The Hacker News",
     "summary": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures.\n\nThe activity cluster, tracked by Elastic Security Lab\u2026",
     "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users"
+  },
+  "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrpwR_tXhzpbt7F1FuALLW8MYrTuwWibwuWjsRDROepxJKdbvSNlbcZLHbL54SmyG_Q_oYFTjI5fqkudKNtfJkg68jAz4STq0xXHEOXnMeOq7fxPz2UslZesQBy_pWKn3IKYNEbltVsjbZDypkqi56JOeznD5hcGEKO6yB-qS2l5cPHlcX0cli_WOHNGM/s1600/pixer.jpg",
+    "published": "2026-07-24T11:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is h\u2026",
+    "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do"
   },
   "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html": {
     "categories": [],
@@ -14584,6 +14656,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft asks admins to reach out for Windows IIS failures fix Microsoft has asked\u00a0businesses to reach out for advice on how to temporarily\u00a0mitigate a Message Queuing (MSMQ)\u00a0issue causing\u00a0enterprise apps and Internet Information Services (IIS) sites to fail. [...]",
     "title": "Microsoft asks admins to reach out for Windows IIS failures fix"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-07-24T15:41:44+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft blames massive Microsoft 365 outage on maintenance bug Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services\u2026",
+    "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/": {
     "categories": [
@@ -18773,6 +18856,17 @@
     "summary": "Checkout.com snubs hackers after data breach, to donate ransom instead UK financial technology company Checkout announced that the ShinyHunters threat group has breached one of its legacy cloud storage systems and is now extorting the company for a ransom. [...]",
     "title": "Checkout.com snubs hackers after data breach, to donate ransom instead"
   },
+  "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-24T14:04:29+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Chick-fil-A data breach affects more than 13,000 customers Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]",
+    "title": "Chick-fil-A data breach affects more than 13,000 customers"
+  },
   "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/": {
     "categories": [
       "Security"
@@ -21904,6 +21998,17 @@
     "summary": "Police busts credit card fraud rings with 4.3 million victims International authorities have dismantled three massive credit card fraud and money laundering networks, linked to losses exceeding \u20ac300 million ($344 million) and affecting over 4.3 million cardholders across 193 coun\u2026",
     "title": "Police busts credit card fraud rings with 4.3 million victims"
   },
+  "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-24T12:56:53+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Europol flags 4,340 URLs for removal in 'The Com' crackdown Europol has flagged 4,340 URLs for removal during a multi-week operation targeting online content linked to \"The Com,\" a loosely organized network of nihilistic violent extremist groups. [...]",
+    "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown"
+  },
   "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/": {
     "categories": [
       "Security"
@@ -24529,6 +24634,17 @@
     "summary": "Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation A malicious campaign is actively targeting\u00a0exposed LLM (Large Language Model) service endpoints to commercialize unauthorized access to\u00a0AI infrastructure. [...]",
     "title": "Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-24T17:50:37+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
+    "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/": {
     "categories": [
       "Security"
@@ -24685,6 +24801,17 @@
     "source": "BleepingComputer",
     "summary": "Healthtech firm Xolis suffers data breach impacting 1.4 million people Healthcare technology company Xsolis says that sensitive data belonging to nearly 1.4 million individuals was compromised in a phishing attack that gave attackers access to its network. [...]",
     "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people"
+  },
+  "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-24T19:09:09+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hermes AI agent used to automate attack on Thai Finance Ministry A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]",
+    "title": "Hermes AI agent used to automate attack on Thai Finance Ministry"
   },
   "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/": {
     "categories": [
@@ -26239,6 +26366,17 @@
     "source": "BleepingComputer",
     "summary": "Man gets 30 months for selling thousands of hacked DraftKings accounts 23-year-old Kamerin Stokes of Memphis, Tennessee,\u00a0was sentenced to 30 months in prison for selling access to tens of thousands of hacked\u00a0DraftKings\u00a0accounts. [...]",
     "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts"
+  },
+  "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-24T11:17:19+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Man gets six years for hacking 750 women's Snapchat accounts An Illinois man was sentenced on Tuesday to 76 months in prison and three years of supervised release for hacking the Snapchat accounts of over 750 women to steal\u00a0nude photos. [...]",
+    "title": "Man gets six years for hacking 750 women's Snapchat accounts"
   },
   "https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/": {
     "categories": [
@@ -28741,6 +28879,17 @@
     "summary": "OnSolve CodeRED cyberattack disrupts emergency alert systems nationwide Risk management company Crisis24 has confirmed its OnSolve CodeRED platform suffered a cyberattack that disrupted emergency notification systems used by state and local governments, police departments, and fi\u2026",
     "title": "OnSolve CodeRED cyberattack disrupts emergency alert systems nationwide"
   },
+  "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-24T19:55:01+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "OnTrac notifies customers of data breach after network hack OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
+    "title": "OnTrac notifies customers of data breach after network hack"
+  },
   "https://www.bleepingcomputer.com/news/security/open-vsx-rotates-tokens-used-in-supply-chain-malware-attack/": {
     "categories": [
       "Security"
@@ -30766,6 +30915,17 @@
     "source": "BleepingComputer",
     "summary": "\u0160koda warns of customer data breach after online shop hack \u0160koda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers. [...]",
     "title": "\u0160koda warns of customer data breach after online shop hack"
+  },
+  "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-24T14:01:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains how pre-\u2026",
+    "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack"
   },
   "https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/": {
     "categories": [
@@ -35287,6 +35447,15 @@
     "summary": "CSA Launches CSAI Foundation for AI Security The Cloud Security Alliance creates a dedicated nonprofit to govern autonomous AI agent ecosystems through risk intelligence and certification.",
     "title": "CSA Launches CSAI Foundation for AI Security"
   },
+  "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltee2b6459a49ecef3/64f171e51bf536263bbf9b29/Azure_SOPA_Images_Limited_Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-24T12:48:16+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Default Azure Automation Setting Enables Cross-Tenant Identity Takeover Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, and cloud \u2026",
+    "title": "Default Azure Automation Setting Enables Cross-Tenant Identity Takeover"
+  },
   "https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5944ff3c70db0683/6986198322e6317c725733b5/2D75J4G.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -38291,6 +38460,15 @@
     "summary": "CISOs Should Be Asking These Quantum Questions Today As quantum quietly moves beyond lab experiment and into production workflows, here's what enterprise security leaders should be focused on, according to Lineswala.",
     "title": "CISOs Should Be Asking These Quantum Questions Today"
   },
+  "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt76251fb10015002b/6a63dcc43ab01b6c623bebbf/GettyImages-2219941632.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-24T21:31:53+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "CISOs vs. Boards: Myth or Misunderstanding? Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide.",
+    "title": "CISOs vs. Boards: Myth or Misunderstanding?"
+  },
   "https://www.darkreading.com/cybersecurity-operations/clear-communication-missing-link-cybersecurity-success": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb123fa6bfacdc888/69bb2366fc6bd416f6ba4e6a/friction1800_ArchivalSurvival_alamy_2.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -38520,6 +38698,15 @@
     "source": "darkreading",
     "summary": "Why Identity Security Is Your Cyber Career Entry Point As AI reshapes cybersecurity workflows, John Paul Cunningham, CISO at SIlverfort, says the technology is creating opportunities rather than eliminating jobs \u2014 and there are more ways than ever to break into the essential fiel\u2026",
     "title": "Why Identity Security Is Your Cyber Career Entry Point"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta3f49df1dd4f34a3/6a63a44a4fedb59e30067233/road-block-detour-signs-JJ_Gouin-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-24T19:45:02+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising \u2014 and preventing the next AI model escape will be difficult, at best.",
+    "title": "Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation"
   },
   "https://www.darkreading.com/cybersecurity-operations/india-app-mandate-surveillance-concerns": {
     "categories": [],
@@ -41784,6 +41971,15 @@
     "source": "darkreading",
     "summary": "Unpatched 'PhantomRPC' Flaw in Windows Enables Privilege Escalation A researcher discovered five different exploit paths that stem from an architectural weakness in how Windows' Remote Procedure Call (RPC) mechanism handles connections to unavailable services.",
     "title": "Unpatched 'PhantomRPC' Flaw in Windows Enables Privilege Escalation"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf219cccb8d006239/6a62178fd61e3e49c64c9e23/Catholic-gelmold-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-24T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.",
+    "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII"
   },
   "https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market": {
     "categories": [],
