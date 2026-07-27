@@ -11984,6 +11984,15 @@
     "summary": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents Researchers at&nbsp;Wiz&nbsp;found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to\u2026",
     "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents"
   },
+  "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFpE4BZgV3wILI8fonm9742zR85yLmBdM2ExXv-uTUS1StV04ZlNVVIwV6FjjhYLZUAFk-DAIInwp3mlXa2W2xekDA_EqSl1UiHrKCgocsjhVAKlvCD48QnlVdUdCIQia7T4ilS65ZFptdi_wox0Q9brVTdpoqDNTvpCjg0D6BslyCAPRzY7QMyUoYNkv-/s1600/gitbot.jpg",
+    "published": "2026-07-27T08:01:23+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request.\n\n\"The cooldown configuration option in t\u2026",
+    "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption"
+  },
   "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3sdn3FMdKySUzvuf2007OIkov1V6r7gOe6npkdpODZqGK0avIBUu4fc4XVYsccnBD3ij71TroVDezuYTjSmXj6le7luxRFK-S1q3itvZHcIwPaY2NzDYjEUH-hnBbOBa_GZSq7-Es2DG4v-6vlbqeZWvYohveEleH8n8eWD6GxafIJIvanFGzsLarQY/s1600/copilot-prompts.jpg",
@@ -12928,6 +12937,15 @@
     "source": "The Hacker News",
     "summary": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensit\u2026",
     "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT"
+  },
+  "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikuWOQRYm6WQ1zHmOlYkI7jlVOUUKGBIlo68iWyUVuaZ5n3i7ODu8DYpntAk2aGZQ_7LsYpXpp5v0PcQMLxP8LQOajtKl-WaDBb7_wDpo8P3-iCcAwr74JY4rXNeHJJv9h6EB447wPEnrZE08YfDO_WI9N4B_C1lPvxILfvv00Z_J8yHntLSfNYbPVCDjS/s1600/telegram-c2.jpg",
+    "published": "2026-07-27T08:48:47+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East.\n\nThe intrusions have resulted in the deploym\u2026",
+    "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments"
   },
   "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html": {
     "categories": [],
@@ -23498,6 +23516,17 @@
     "source": "BleepingComputer",
     "summary": "GitHub links repo breach to TanStack npm supply-chain attack GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack. [...]",
     "title": "GitHub links repo breach to TanStack npm supply-chain attack"
+  },
+  "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-26T14:13:39+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "GitHub, PyPI add time-based defenses against supply chain attacks GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
+    "title": "GitHub, PyPI add time-based defenses against supply chain attacks"
   },
   "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-high-severity-2fa-bypass-denial-of-service-flaws/": {
     "categories": [
