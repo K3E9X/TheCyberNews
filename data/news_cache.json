@@ -11426,6 +11426,15 @@
     "summary": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment confirms thi\u2026",
     "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience"
   },
+  "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIZDJmL5vHIaEgakZEwVC-O1KGBidMz7xrUS6MQmj0Nfqx4_WzGlwmz4amGxIwYa2PEJTKr5UsFwkh8lEOoFkjAVwTm38bgmbc_gDW2-__9MBpP5Z6cWQrIjFTe3tKTMEhD2lX3XyTrIe0T4mQDruecN3nCWqHUpkU5NpW5OIzZFy5la9RQnMCsmGkt-n8/s1600/bmcs.jpg",
+    "published": "2026-07-28T14:41:36+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to\u2026",
+    "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login"
+  },
   "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj5a79jcbSLlpVrk_Tkl4E0wiB47Zu2a7V3UrYOddEgvO0bNMVU1VzwmLIK-Ac8I71znO7vmH7QSDdF9cg4-VeEzLo_7InYxfc5yaXG8Ziv-nVAK1qRCkTx73CVKtLOESbkL2yUF9srs53F9hLAkXt9hsiSTjntbS3ThRVi3ApZniyKapqVAgz9PEuW9o/s1600/clicks.png",
@@ -11714,6 +11723,15 @@
     "summary": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deploy\u2026",
     "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE"
   },
+  "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPhJ6dzEL23Ak57nA_XsbXtGaxl5wNrcGBPMQBVz1jddDuX_oTndpQjl3omqMxhRnQ1P4cSF7Ut18tccLFT2BxngpYTqTP8Kg6f4clFWRQ2GvxetR-uAGjMS2SsZwsiPcq5vyxCmP_AN3rCPvO5WMQeLNEit0q14i0iY9wuIUDAHMXkyvO3KjIC6c6Ozg/s1600/Claude.jpg",
+    "published": "2026-07-28T18:59:07+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128.\n\nThe HAWK attack expl\u2026",
+    "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack"
+  },
   "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj5Vr8pje9uM-Ce6rzE-_hhU3HvR2NkKtYfaSrIXz3m0BbrC1ZNC9p4GW4GRQaAvFKPjE5kopXmdmcKcMb7_1dbOWvMO6_oe87HCj4TUXV1dWK99cz_OBcNHd81Ziat93g4wJcBdc3K1vq0IkwFL9DO9GlSrf_KxGi2hpg7VVsU9iTt7B2XByXL7nil86i/s1600/claude.gif",
@@ -11785,6 +11803,15 @@
     "source": "The Hacker News",
     "summary": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patch\u2026",
     "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution"
+  },
+  "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDmz4Rv-IWcHYP4Y_-WINLECGsPviBOTJXEPhvz2mO671_s8c1Rao7iErkNghWYtomczRf82scnXyzrBTAIc4urvwSlv3j4AK1XaEw75WVsIfXLfNDQd1JGUoVRWW50H48KA3VxzAbL1KTuf3sKCgzmSE3toXbqcIA-N5vwN4A_wcmRdwDLBSJbBpmmME/s1600/OpenWrt.jpg",
+    "published": "2026-07-28T12:56:14+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default.\n\nThe critical issue, tracked as CV\u2026",
+    "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root"
   },
   "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html": {
     "categories": [],
@@ -11974,6 +12001,15 @@
     "source": "The Hacker News",
     "summary": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-15718, an invalid p\u2026",
     "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws"
+  },
+  "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOpdosdOAoAjpR73DY5i_8YN9dHOY7KsBws53ivjlY3iVg0-EZAO6CliWbdg61_hT6eI9_Im9aiH_c312ttIHamIl4IIxe2omPSWjC4OaCfbNKZC7Gr85jXs12NObtpiSAK1PNljccRdmzvITRijNNh16c2IDK3kWmL5Ce3lbzQNCJaMy4wgKwWyB2oiI/s1600/android-rat.jpg",
+    "published": "2026-07-29T07:07:23+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control pan\u2026",
+    "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates"
   },
   "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html": {
     "categories": [],
@@ -12226,6 +12262,15 @@
     "source": "The Hacker News",
     "summary": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka C\u2026",
     "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations"
+  },
+  "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVRTEATuhKwW2BlflaNjqHVV9mJlq6m3_rFzsUHv3RXATsLWdyJvG-XoWDftscxMF9r_-551JELumQMj7Jhp_iY-GTj79r3RxYKEEJkPo8B7Zd5SuiBnPRWjM1MBygMvV0Za1ZLItcoSjsCY4gDwbV-ZOkXLEzi2vohrqrlYSJL4Ut0GmmDvhEhiGti1U/s1600/openai-0day.jpg",
+    "published": "2026-07-28T13:33:47+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment.\n\nArtifactory is JFrog's soft\u2026",
+    "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach"
   },
   "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html": {
     "categories": [],
@@ -12488,6 +12533,15 @@
     "summary": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands\u2026",
     "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware"
   },
+  "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm9I3aoAsUS5yCtKTvSX6LYxjKfJu-RShA1QmcUiBLu760VFfeqd6D4NfH3ttKHoQkfWT57oL0_4KJBovY7nshgiGQ4R5wimWh-2k48f9qjdlJtjKqK0oM5vxquJFPuguLbBkbqzA7xc4NgjQaxkcU7tVSQ0a3GyXreEyvdvR4NmERWPbkiR6Um2thKfY/s1600/Gitea-rce.jpg",
+    "published": "2026-07-29T07:47:19+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git ho\u2026",
+    "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands"
+  },
   "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzr3TN2Kp4PBOBbzsR0RkNNu6_pMaYw05DjwQIegOdSeuDW5SAivGHOy3Qznjx5KJUTuiPRqAJsTDpM1O94X_FuG2sXAjD84rgPHwGxp2tFuP53Dm8pd-9bInejjZY7wx1jLBWu_EikCQ4HACf6J5Ycc3-kiTVE6-83MtCDCsL71o-7sFema5tOIV4IcJm/s1600/GoSerpent-malware.jpg",
@@ -12587,6 +12641,15 @@
     "summary": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below refl\u2026",
     "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code"
   },
+  "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Whbx97t7xBrrpM26fYSbwg29hdKR8zskNLIwlrWC0Jd3Rrf4INhiCTI3WMw8NzmJ1iETQlt-CKdUxBzL2hef4pgQBOoI1rrrtRbU96hJRUXtTGy5dT40mP2B1AshyphenhyphenM4mc1K1-IISWwY6PSPyGXNBHplHM8kuxX9e5Di6RmMybyO2Q7Guu__CK8jOOkja/s1600/proxy.jpg",
+    "published": "2026-07-28T11:55:20+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting \u2026",
+    "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays"
+  },
   "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_70wKHw_bPdJz-ZYXpwrH7FBXem8uWKNtuBUyXDLbMld4PaBtBkw7Gpt9lRrVnki_eC21aw6sUezqM3-oFiTEviDqZECD20lmV3enwh0lDkRLAx38JlJYMoLzRpn-Ai4q1UbiIo8DTVjp4_blU5CM6AnW97jYgIblggBYgNIHdTE6t2Ec7by-N0Ly8YY/s1600/linux-root.jpg",
@@ -12667,6 +12730,15 @@
     "source": "The Hacker News",
     "summary": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the sam\u2026",
     "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs"
+  },
+  "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqsDw-FCPzIqH_GCkBZgDD96kt0ZtwQzjSe3SOunA8WWGUTXqCB2FG_28DY0JgdD6zh07gHisKrTi2Wh5VVNAcoUMyJ9tZ_VGzPM73iid2PPg15oqKMbnRhk9CcTJlevxRQJL5Sq2MbJjYCIgQ_zOEsgyu_Jy72ubSLAvy_YK499pDr48Rp9Plh322h8_P/s1600/openai-breach.jpg",
+    "published": "2026-07-29T07:51:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple t\u2026",
+    "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach"
   },
   "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html": {
     "categories": [],
@@ -12802,6 +12874,15 @@
     "source": "The Hacker News",
     "summary": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operators to \u2026",
     "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks"
+  },
+  "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIxq_zUC231fexQTfY9VPvqP7FWVRurT9fbUUS3YMpMX2SRmJu9eXIlH7v6fnvqJGtirQwXJVjs1h-hbUM7j-R6DlfpW7M4kt28q9EoxMt7jJFjUjaAoVsuTWSsBZOFcDj99U8ApvFR4B4sDQ37QHYeWXjJsowFBP3n8-TBfzcKB2Rl-de-OluIkzbJIYb/s1600/cp-poc.jpg",
+    "published": "2026-07-29T08:58:27+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Managemen\u2026",
+    "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass"
   },
   "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html": {
     "categories": [],
@@ -13037,6 +13118,15 @@
     "summary": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East.\n\nThe intrusions have resulted in the deploym\u2026",
     "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments"
   },
+  "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0zv7PihU6xAba7-fb5OY-Xv5YIEPM1HhmCu2ET65l5TSKYrPh6q4pYVQRNJtHb9RkvO1oNsBBrsxs50Hm_GRnPKCu4XoG1hhtPOoeGILfRHN99ICGSO72NOGQ6AdUc_haCrQvHRUn4YiyFmCy99WgH1v4-4GRLirZzsV1b5MmCjfTX3a2yWmg1tWOr38/s1600/tengu-botnet.jpg",
+    "published": "2026-07-28T15:01:33+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process.\n\nIf that happens, Tengu's other persistence mech\u2026",
+    "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process"
+  },
   "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzhOo7Orml3Cc70jFGFxmIBeMgPE26To0_7N80uq7Ux9h7jIarD51mf18Ecq6bOfyaKpDTHp99pUmzrNECb2IklB0l0XdKjkszBLdhhgmw42OsYsqJQoxm74ci__fgn9n29j0YIr_HTlqT1-NyVyvbeB2t9pFRMVQT5GQlTMEOp-vkUFbha3SV-6cAXfYW/s1600/aa.jpg",
@@ -13144,6 +13234,15 @@
     "source": "The Hacker News",
     "summary": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large\u2026",
     "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development"
+  },
+  "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbnnos_l5g9tfmBH7efqHHPJs-C6Ti9zjG9iifZXs0QLLoUn7L1BwkunpqbD55rRvqSiJx0R_DTAl12TBnL9MN0DkDtzhwnm8Xgbsbu8LZuKyRDnVtq3cbeMlEmNJEmZgXy3BeOILj2kM24GojxXfDJDr93XsEiORhP9q1sYo814jzq4UsQCS0RRZmhp5k/s1600/npm-hack.jpg",
+    "published": "2026-07-29T04:20:57+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family.\n\nThe list of affected packages \u2026",
+    "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js"
   },
   "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html": {
     "categories": [],
@@ -19796,6 +19895,17 @@
     "summary": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...\u2026",
     "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-28T18:41:04+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "CISA shares advice on isolating vital systems during cyberattacks The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major di\u2026",
+    "title": "CISA shares advice on isolating vital systems during cyberattacks"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/": {
     "categories": [
       "Security"
@@ -21204,6 +21314,17 @@
     "source": "BleepingComputer",
     "summary": "CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams Fake high-yield investment platforms are surging worldwide, promising \"guaranteed\" returns that mask classic Ponzi schemes.CTM360 explains how HYIP scams scale through social media, recycled templates, and re\u2026",
     "title": "CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams"
+  },
+  "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-28T21:17:39+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "CubePilot drone software dev hit by DNS hijacking to intercept traffic CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
+    "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic"
   },
   "https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/": {
     "categories": [
@@ -25788,6 +25909,17 @@
     "summary": "Is a $30,000 GPU Good at Password Cracking? A $30,000 AI GPU doesn't outperform consumer GPUs at password cracking. Specops explains why attackers don't need exotic hardware to break weak passwords. [...]",
     "title": "Is a $30,000 GPU Good at Password Cracking?"
   },
+  "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-28T14:00:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Is Your SSO Protected Against Modern Credential Attacks? A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern\u2026",
+    "title": "Is Your SSO Protected Against Modern Credential Attacks?"
+  },
   "https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/": {
     "categories": [
       "Security",
@@ -29207,6 +29339,17 @@
     "summary": "OpenAI discloses API customer data breach via Mixpanel vendor hack OpenAI is notifying some ChatGPT API customers that limited identifying information was exposed following a breach at its third-party analytics provider Mixpanel. [...]",
     "title": "OpenAI discloses API customer data breach via Mixpanel vendor hack"
   },
+  "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-28T20:37:06+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "OpenAI models used Artifactory zero-days to escape to the internet JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging \u2026",
+    "title": "OpenAI models used Artifactory zero-days to escape to the internet"
+  },
   "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/": {
     "categories": [
       "Security"
@@ -29411,6 +29554,17 @@
     "source": "BleepingComputer",
     "summary": "Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks Internet security watchdog Shadowserver has found over 14,000 BIG-IP APM instances exposed online amid ongoing attacks exploiting a critical-severity remote code execution (RCE) vulnerability. [...]",
     "title": "Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-28T12:10:23+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
+    "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw"
   },
   "https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/": {
     "categories": [
@@ -33295,6 +33449,17 @@
     "summary": "Varonis Atlas: Securing AI and the Data That Powers It AI agents can access data directly, making data security the foundation of AI security. Learn more about how Varonis Atlas helps orgs see, secure, and control AI systems and the data they can reach. [...]",
     "title": "Varonis Atlas: Securing AI and the Data That Powers It"
   },
+  "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-28T18:08:50+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "vBulletin fixes critical pre-auth RCE flaw with public exploit A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
+    "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit"
+  },
   "https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/": {
     "categories": [
       "Security"
@@ -34646,6 +34811,15 @@
     "summary": "Agentic AI Isn't Risky; the Way Orgs Deploy It Is AI agents aren't black boxes \u2014 they're models interacting with software tools. The risk lies in their overlap.",
     "title": "Agentic AI Isn't Risky; the Way Orgs Deploy It Is"
   },
+  "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt94af172165d49722/6a690498bd5a135ff4077c33/Sandbox-Ukususha-Getty-530496540.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-28T20:27:36+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "When AI Agents Escape Sandboxes, Old Security Rules Apply OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.",
+    "title": "When AI Agents Escape Sandboxes, Old Security Rules Apply"
+  },
   "https://www.darkreading.com/application-security/ai-agents-ignore-security-policies": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt655ff616652abbb6/699897d60837c40008e79974/AI-agent-delete-data-vittaya_pinpan-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -35955,6 +36129,15 @@
     "summary": "Navigating the Unique Security Risks of Asia's Digital Supply Chain Regulatory differences, interconnected digital ecosystems, and the rise of AI have created a complex supply chain Asian organizations must wrangle.",
     "title": "Navigating the Unique Security Risks of Asia's Digital Supply Chain"
   },
+  "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30bed8fd33fe3bfb/6888bea8af946d84d071204f/ghost-igor-Stevanovic-alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-28T21:33:23+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who has released an open source tool to sniff out trust paths.",
+    "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks"
+  },
   "https://www.darkreading.com/cloud-security/phishers-exploit-office-365-users-guard-down": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt25111ddc90b9d039/695eb555cbf6072c0543fa19/Fishing_caia_image_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -36517,6 +36700,15 @@
     "source": "darkreading",
     "summary": "FBI-Flagged Phishing Kit Kali365 Expands Its Reach Once targeting just Microsoft 365, the phishing-as-a-service platform now aims at AWS, Okta, and Russian platforms, while relying on device code phishing.",
     "title": "FBI-Flagged Phishing Kit Kali365 Expands Its Reach"
+  },
+  "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt90b33999385a7980/6a69132925c14cdcb5cbf34f/datacenter_Gorodenkoff_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-28T21:07:55+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Thousands of Data Center Controllers Open to Takeover A host of Internet-exposed remote hardware management processors are subject to offline password-cracking attacks \u2014 and adversaries have taken note.",
+    "title": "Thousands of Data Center Controllers Open to Takeover"
   },
   "https://www.darkreading.com/cyber-risk/focus-cyber-insurance-quantifying-risk-reshape-security": {
     "categories": [],
@@ -38479,6 +38671,15 @@
     "summary": "More Than 40% of South Africans Were Scammed in 2025 Survey underscores the reality that scammers follow &quot;scalable opportunities and low friction,&quot; rather than rich targets that tend to be better protected.",
     "title": "More Than 40% of South Africans Were Scammed in 2025"
   },
+  "https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9ed770837a0439d0/6a68ccdcd103440a6aebc9bb/brain-activation-map-illiustration-Adrian46-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-28T20:05:32+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Stronger AI Safety Requires Peeking Inside the 'Black Box' Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action.",
+    "title": "Stronger AI Safety Requires Peeking Inside the 'Black Box'"
+  },
   "https://www.darkreading.com/cybersecurity-analytics/vulnerabilities-surge-messy-reporting-blurs-picture": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt34627fccbad2ec53/69666889a335089cd39479e3/vulnerability_trends-Lemos.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -38982,6 +39183,15 @@
     "source": "darkreading",
     "summary": "Focusing on the People in Cybersecurity at RSAC 2026 Conference AI dominated the RSAC 2026 Conference and showed it's still humans in cybersecurity who matter most.",
     "title": "Focusing on the People in Cybersecurity at RSAC 2026 Conference"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt68d8e956799bc6e1/6a67b826d69290b8a1aaac6c/leader1800_studio-fi_GettyImages-1299087003_2.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-28T12:30:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Former Citigroup CISO Blauner on What Makes A Great Security Leader The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
+    "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader"
   },
   "https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook": {
     "categories": [],
@@ -41770,6 +41980,15 @@
     "source": "darkreading",
     "summary": "Can Laws Stop Deepfakes? South Korea Aims to Find Out South Korea's local elections next month will be a test bed for how effective regulations might be to stymie the flow of deepfakes.",
     "title": "Can Laws Stop Deepfakes? South Korea Aims to Find Out"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt35fd3da4c4c2a452/6a68a091fd13417d8c592367/ghost-Connect_Images-Alamy.png?width=720&quality=80&disable=upscale",
+    "published": "2026-07-28T16:38:48+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "'Certighost' Flaw Haunts Microsoft Active Directory Certificates Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.",
+    "title": "'Certighost' Flaw Haunts Microsoft Active Directory Certificates"
   },
   "https://www.darkreading.com/vulnerabilities-threats/cheap-hardware-module-amd-intel-memory-encryption": {
     "categories": [],
