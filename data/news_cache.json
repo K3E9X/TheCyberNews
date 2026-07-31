@@ -11615,6 +11615,15 @@
     "summary": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process.\n\nT\u2026",
     "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts"
   },
+  "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_dFT-y76kGOf4rFOAu6NYNsE2s57G-7dl0a03tULY-f2ZGTbpPeEvu-NUCLVh-bgEdBvecIt28BJLQXUHclBc_IfGP9tBSZyMIm971Myrp2_zhSPyXhCJkhYmSfvLWNRewSsCip2YJfBEWocEEKdXPUL-y_mK8ZcHbBAaTWt8SzXmDJeQoYc6r5ceC6A/s1600/wiz-cosmodb.jpg",
+    "published": "2026-07-30T13:34:09+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according\u2026",
+    "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database"
+  },
   "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim5I3ndx1DHNKSznD7AT_CM4ApiaXDfZcQAwsCSDnHq7u8dkGcOzway-IBZJ44bFJintaRMSry4yHbaacESRFOJsRC_UBV6N9l_K4ICcqWsZ2E4zQ5BGibAkxjxm0qPYiiLEvAvDizmPZVYwXC6jN9pgB5G-3xZ9ifiEWisKsZoi9rBjJN1mepJjPl61s9/s1600/bt.jpg",
@@ -11957,6 +11966,15 @@
     "summary": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub&nbsp;API.\n\n\"Oper\u2026",
     "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs"
   },
+  "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCHbm6QCC9jjGwa-7P1N2PwhDjRvpC2hlS2hl09-DUZa5xdDeHt9qH1zISepl2ERqDzmDbdQ_zfE2vkHDsvE7G8QsetJHjzC45DpPr5-83lc1BGaLHfEwMfdYEA04d5xc7GL02_qkz1HjhIenSKBWF0FZqHnICaLn9agLEoEGnnN2n-smXxYFuQQaYNd8A/s1600/all-secure.jpg",
+    "published": "2026-07-30T18:18:24+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent u\u2026",
+    "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware"
+  },
   "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIg3DnKkxpBnQZhAB8v4Wb9FDnDuh3ifKpBMF3kFhNr7_lYOk3S4CgvBoOxFD65FlCjRpoaoBNyH8zo8NtOhjTtTWriXHawlL9mndT3fd_7zlhUBU4mhjU4AvvYNzgV-PGsd52Ng0wnaDRAJMkRQtW4kUuMKlcrP0B71xxywX6cTICeHmMAjswmKhQJKo/s1600/blockchain-botnet.jpg",
@@ -12218,6 +12236,15 @@
     "summary": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance\u2026",
     "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry"
   },
+  "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGU7u7ESWcaN4Xy7bCwiH5yVHsr1vMjqCu05UKJ7c4tsJ4gSRsQXwg-WOe69VD1dLiRuf9FC3HTcjp1ia1NZPPg85MUmHz2TCOplJKSC002w7OMu0X9KWtXTN0MljVt88tQlfABhP7p4pnndpOJoplI5fnqheI8LZwBp623A6gx1HyurT4ZBHRSSils1g/s1600/south-korea.jpg",
+    "published": "2026-07-30T10:33:15+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally install\u2026",
+    "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts"
+  },
   "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgnFuvwtbu7JlyR-HJX7Eyz41wIZYMuzDLiZ1XlV2ipWOE-d2aPRZkYZn8nCWJynhewu3iTAR8H15UaKqmeAMkb85_m2NpSjRyaNlp6gTgKwswcVtwzjQ8A6pQXESU-AIwRUf6qUkeVDewHfGovPjgN0lKC2lHBb3dkSJGs3NYhmv5_QawPER0P4xFGpHf/s1600/git.jpg",
@@ -12406,6 +12433,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what\u2026",
     "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents"
+  },
+  "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-BgxoTGLqXYzQh4HW0TUm-hbX0ApFizzFtFkKe5mb3fKS_yn6Zzpj_Uvivxi7VCwEUOuJx3Bg1XHpHWq9tbZh5xBrAHT4gBG2DYyqvFkVKmWIRiF_zCpXIG5bTs7HfsV1pjM2EsTm-e7WttN-iB57p0n4ki2Vs7vXyB6rTF9mSqlwPu3h7KHocg0mWcI/s1600/copilot-word.jpg",
+    "published": "2026-07-30T11:54:49+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. H\u00e5kon M\u00e5l\u00f8y disclosed the technique on July 28, 144 day\u2026",
+    "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents"
   },
   "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html": {
     "categories": [],
@@ -13145,6 +13181,15 @@
     "summary": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing ev\u2026",
     "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation"
   },
+  "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzKpx1jDG3j0UsS5Ova8qJWV4gmJcez4M7iowp3M10Tvnvl1toUDwWI1igPQ_XK4-7IIuFXf7cTiKZ9QIRFco8PWFC4mRzBwGz81-8Ix95ujv3bVhshhFEAwjCNJR14ezza7kiAIalG3MjMQPPhH6rQP4lcZS4o1Vw9dO7ErrFmCvlrrd0ATiakQ_LeENQ/s1600/drivers.jpg",
+    "published": "2026-07-30T10:32:59+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial man\u2026",
+    "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT"
+  },
   "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihuE5rUYRadx5Q2auJjv9dVeFNIP8XSwSTaH0PDwGLUA54MXlPy3AyI532a8OnhXadtWnCCH30qvUKW9C3rCOu1LPld1or5_lXwNhRVqbohHNInDzNd1f9E77Sox5yB-ir7H69LmlYRKnoqnFASOMFa2TIK2RfTThJvu_oofIXHCpiRbXGXWy-bquBWsw/s1600/bootloader.gif",
@@ -13244,6 +13289,15 @@
     "summary": "The Fastest Path to AI Adoption Runs Through Security Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools they want,\u2026",
     "title": "The Fastest Path to AI Adoption Runs Through Security"
   },
+  "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCMiEYFcCrvL7s-o_ZApEbF6gP4J5FpWseBSQN2iP5bBIXP51mVR8QDnUmxDHBrMr0ta6ucsouVsVnWg8mGPeRvwkx09PCddi0pWLYzOpeA7NnrKUaeVhypXKK9rBJSfminUSBH9cz4YTelqUFMU-VZU2G-mkKFhb1pMQsGcAqtuT4btXzbbgb4pD1Mdfi/s1600/checkpoint-main.jpg",
+    "published": "2026-07-30T11:32:46+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "The Network Has Become the Control Plane for AI Security Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built co\u2026",
+    "title": "The Network Has Become the Control Plane for AI Security"
+  },
   "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaAyl6VLjAoHLEWzLPM62KM5v2ZmVOpPaZ8aA6Vxg2Ujn9iFLG02jpev-qcB_S3eTwxQAHb7Sf3BJQAc8xs_o3-7UcgQy5N1-4EqnuBXZ31GKauhespgW1G0Fgg7CzaLWk-cOJx8Bm6lQFPZROumwK-URHjQvJsyYhxjiEHHeia-vCh3rqeNYo3p2L-fI/s1600/military.jpg",
@@ -13288,6 +13342,15 @@
     "source": "The Hacker News",
     "summary": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories This week\u2019s security news is mostly about weak spots.\n\nBrowsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone \u2026",
     "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories"
+  },
+  "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNfPEjoHY1NDIrmCVPaZ_dmWbOk0MZwMlh6Odxpqfchn-5rOvsj4PhaBZs4LJvoj5iXhgbBTZzKCNYOPbblXU6kSnVNxEfQER6bNIuhROsSBTrhS6P_mPySTbAS5CvbYgu7lOANl0C6YuLR92om_sS_-9skmNqYT4BDmy_07cTMVj75vUUES70gPicrgGW/s1600/threatsday.jpg",
+    "published": "2026-07-30T15:25:57+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories A lot of security still comes down to trusting the wrong screen.\n\nThis week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving \u2026",
+    "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories"
   },
   "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html": {
     "categories": [],
@@ -14618,6 +14681,18 @@
     "source": "BleepingComputer",
     "summary": "Google rolls out Gmail end-to-end encryption on mobile devices Google says Gmail end-to-end encryption (E2EE) is now available on all Android and iOS devices, allowing enterprise users to read and compose emails without additional tools. [...]",
     "title": "Google rolls out Gmail end-to-end encryption on mobile devices"
+  },
+  "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/": {
+    "categories": [
+      "Google",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-30T17:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Google says AI helped Chrome fix 1,072 security bugs in two releases Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recen\u2026",
+    "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases"
   },
   "https://www.bleepingcomputer.com/news/google/google-search-ai-hallucinations-push-google-to-hire-ai-answers-quality-engineers/": {
     "categories": [
@@ -18038,6 +18113,17 @@
     "summary": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime Threat actors are exploiting vacant homes as \"drop addresses\" to intercept mail and enable fraud. Flare shows how postal services and fake identities are abused to turn mail into a fraud vector. [...]",
     "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime"
   },
+  "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-30T14:01:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "After the Break-In: What Attackers Do Once They're Already Inside Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders mus\u2026",
+    "title": "After the Break-In: What Attackers Do Once They're Already Inside"
+  },
   "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/": {
     "categories": [
       "Security"
@@ -18282,6 +18368,17 @@
     "summary": "Amazon fined $2.25M for withholding evidence from fraud victims The U.S. Federal Trade Commission (FTC) says Amazon will pay a $2.25 million civil penalty to settle charges that it blocked identity theft victims' access to transaction records. [...]",
     "title": "Amazon fined $2.25M for withholding evidence from fraud victims"
   },
+  "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-30T18:13:24+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]",
+    "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers"
+  },
   "https://www.bleepingcomputer.com/news/security/amazon-ongoing-cryptomining-campaign-uses-hacked-aws-accounts/": {
     "categories": [
       "Security",
@@ -18350,6 +18447,17 @@
     "summary": "An AI SOC Evaluation Guide for Security Leaders Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC solutions, including how to validate a\u2026",
     "title": "An AI SOC Evaluation Guide for Security Leaders"
   },
+  "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-30T15:12:25+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Analog Devices discloses data breach, says operations unaffected American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
+    "title": "Analog Devices discloses data breach, says operations unaffected"
+  },
   "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/": {
     "categories": [
       "Security"
@@ -18394,6 +18502,17 @@
     "source": "BleepingComputer",
     "summary": "Anthropic claims of Claude AI-automated cyberattacks met with doubt Anthropic reports that a Chinese state-sponsored threat group, tracked as GTG-1002, carried out a cyber-espionage operation that was largely automated through the abuse of the company's Claude Code AI model. [...\u2026",
     "title": "Anthropic claims of Claude AI-automated cyberattacks met with doubt"
+  },
+  "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-31T00:57:25+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was\u2026",
+    "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests"
   },
   "https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/": {
     "categories": [
@@ -26272,6 +26391,17 @@
     "summary": "JDownloader site hacked to replace installers with Python RAT malware The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying\u00a0a Python-based remote ac\u2026",
     "title": "JDownloader site hacked to replace installers with Python RAT malware"
   },
+  "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-30T22:01:31+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "JetBrains warns of critical TeamCity remote code execution flaw JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution. [...]",
+    "title": "JetBrains warns of critical TeamCity remote code execution flaw"
+  },
   "https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/": {
     "categories": [
       "Security"
@@ -27500,6 +27630,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft Teams to warn of suspicious traffic with external domains Microsoft is working on a new Teams security feature that will analyze suspicious traffic with external domains to help IT administrators tackle potential security threats. [...]",
     "title": "Microsoft Teams to warn of suspicious traffic with external domains"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-30T15:56:33+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [...]",
+    "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks"
   },
   "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/": {
     "categories": [
@@ -31463,6 +31604,17 @@
     "summary": "ShinyHunters claim to be behind SSO-account data theft attacks The ShinyHunters extortion gang claims it is behind a wave of ongoing voice phishing attacks targeting single sign-on (SSO) accounts at Okta, Microsoft, and Google, enabling threat actors to breach corporate SaaS plat\u2026",
     "title": "ShinyHunters claim to be behind SSO-account data theft attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-30T16:46:15+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]",
+    "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data"
+  },
   "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/": {
     "categories": [
       "Security"
@@ -31760,6 +31912,17 @@
     "source": "BleepingComputer",
     "summary": "South Korea discloses data breach impacting diplomats worldwide South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign\u2026",
     "title": "South Korea discloses data breach impacting diplomats worldwide"
+  },
+  "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-30T22:28:30+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "South Korea fines telco giant KT $39 million for customer data breach South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
+    "title": "South Korea fines telco giant KT $39 million for customer data breach"
   },
   "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/": {
     "categories": [
@@ -33756,6 +33919,17 @@
     "summary": "VMware ESXi zero-days likely exploited a year before disclosure Chinese-speaking threat actors used a compromised SonicWall VPN appliance to deliver a VMware ESXi exploit toolkit that seems to have been developed more than a year before the targeted vulnerabilities became publicl\u2026",
     "title": "VMware ESXi zero-days likely exploited a year before disclosure"
   },
+  "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-07-30T18:00:51+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "VMware fixes three critical flaws allowing auth bypass, VM escapes Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary c\u2026",
+    "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes"
+  },
   "https://www.bleepingcomputer.com/news/security/voidlink-cloud-malware-shows-clear-signs-of-being-ai-generated/": {
     "categories": [
       "Security",
@@ -35107,6 +35281,15 @@
     "source": "darkreading",
     "summary": "AI &amp; the Death of Accuracy: What It Means for Zero-Trust AI &quot;model collapse,&quot; where LLMs over time train on more and more AI-generated data and become degraded as a result, can introduce inaccuracies, promulgate malicious activity, and impact PII protections.",
     "title": "AI &amp; the Death of Accuracy: What It Means for Zero-Trust"
+  },
+  "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33ea1925a9f97ba7/6a18a8b047696a7d03d6ca07/rube-goldberg-machine-complexity-T_N_Sursock-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-30T19:40:40+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "AI Harnesses Burst With Potential Exploit Opps A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
+    "title": "AI Harnesses Burst With Potential Exploit Opps"
   },
   "https://www.darkreading.com/application-security/ai-led-remediation-crisis-prompts-hackerone-pause-bug-bounties": {
     "categories": [],
@@ -39270,6 +39453,15 @@
     "summary": "CISOs vs. Boards: Myth or Misunderstanding? Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide.",
     "title": "CISOs vs. Boards: Myth or Misunderstanding?"
   },
+  "https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd055540c06ee3acd/6a6ada64165f081ff8010b6c/claude1800_Kenneth_Cheung_GettyImages-2270277028.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-30T15:28:43+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Claude Mythos \u2014 Hype vs. Reality: What Security Teams Need to Know In this edition of Reporters' Notebook, our journalists discuss the ins and outs of Anthropic's Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?",
+    "title": "Claude Mythos \u2014 Hype vs. Reality: What Security Teams Need to Know"
+  },
   "https://www.darkreading.com/cybersecurity-operations/clear-communication-missing-link-cybersecurity-success": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb123fa6bfacdc888/69bb2366fc6bd416f6ba4e6a/friction1800_ArchivalSurvival_alamy_2.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -40552,6 +40744,15 @@
     "source": "darkreading",
     "summary": "Iranian Threat Actors Disrupt US Critical Infrastructure Via Exposed PLCs Attackers compromised Internet-facing OT devices and caused file and display manipulation, operational disruption, and financial losses across sectors.",
     "title": "Iranian Threat Actors Disrupt US Critical Infrastructure Via Exposed PLCs"
+  },
+  "https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdd2572a409133e33/6a6bb64522716cf19f0b542e/water_Bilanol_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-07-30T21:16:13+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Minnesota Water Utility Attacks Expose Sector's Cyber-Risks A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure.",
+    "title": "Minnesota Water Utility Attacks Expose Sector's Cyber-Risks"
   },
   "https://www.darkreading.com/ics-ot-security/operational-technology-security-poses-inherent-risks-for-manufacturers": {
     "categories": [],
