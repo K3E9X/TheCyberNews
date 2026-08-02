@@ -13703,6 +13703,24 @@
     "summary": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execu\u2026",
     "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction"
   },
+  "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiea5Kw_2TLtPI4Ts3s3anmPIQr3S8VxO0G9yL-UV1dSlRrW1Z_L41XoHcSFuk2ThCBDKLFy-xZl_y7DnA0FM2nWHk4G1TpV2iMx6-X6EDT3gK7s0pJu6e1wMUoEsuPifcXseXuqOIHL3W9voWoD_se5gKJPyii4X0mJY7sxJ3uOPlTWVfAyrKs4ixa-18/s1600/coldcard.jpg",
+    "published": "2026-08-01T17:17:22+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Cold\u2026",
+    "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes"
+  },
+  "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-el4ovGAmKfllRfhupL0SzdEoZKlouDb1_YmhCOl3owxN1ks0Do-WphuD77rka_3ukbqvPxSmFYMdBKBirYyw0DJpvSxVP5riGBR_vd7wKwnpgZfNm0RFEDLTzsvzzQB7qGtawMvpccd700dfNM2zZeFTy9cyHf4oFyHSASKRU3gmxbMgTJRtDFsSNs/s1600/adform.jpg",
+    "published": "2026-08-01T09:03:07+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses.\n\nAdform detected the inciden\u2026",
+    "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites"
+  },
   "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglJ30Q0_3tS3R4yrNdyR3sDdvBam1plVfmenBAFVPGmaVMErJ_oq_zXoIpeAjrFrkkFkudKUSHI-h82FGoiIJlkT2JghjQKrO2p7VmzpduPGv26gGgJ8I04b-U7eY1sihmIer0bGTtIof3CwH1vKmQOYLDvhNsYICoALOLhehhaLC65fPmAH_fpT0BrKk/s1600/hotel-wifi.jpg",
@@ -30961,6 +30979,17 @@
     "source": "BleepingComputer",
     "summary": "Race Against Time: Why Faster Vulnerability Alerts Matter Attackers are exploiting vulnerabilities faster than many organizations can identify and patch them. SecAlerts explains why faster vulnerability alerts can help reduce exposure and improve response times. [...]",
     "title": "Race Against Time: Why Faster Vulnerability Alerts Matter"
+  },
+  "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-01T14:20:30+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Rails patches critical Active Storage flaw with RCE potential A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
+    "title": "Rails patches critical Active Storage flaw with RCE potential"
   },
   "https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/": {
     "categories": [
