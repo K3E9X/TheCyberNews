@@ -13730,6 +13730,24 @@
     "summary": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its\u2026",
     "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware"
   },
+  "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQmUt2QHxTfiXiolir9akmVh8dT5di3UBDtD7H2IJlkWQ4x4VmeTUEZo8CUvz2q2FXCvxTJDHenWPzqPeSbnlCYSRTNGULKdWRJnsmVg7SVJT_BBPABxqRuvr22Z9V2C6P51fRjSGzgAlHMzEn-MjA4yTMfCaM91ujVajF8GJqYg9ZaZELXsCc-GMnYq8/s1600/hugging.jpg",
+    "published": "2026-08-03T06:40:31+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, o\u2026",
+    "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code"
+  },
+  "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1H8Wx5_ZrUFksG2Tgb_6qho5XHULdP13qVeYXx1xWPPt8B2rH68XC6IhzBk-dczgsdWvpZ_dVTI7AIMsgK1EeU3B89WVUJu2N5B71FQ4GnlZDRlvNiD4pGO2hBCJGVowjUVDMSHAO_0CPlYthpa8jx-Af5OwB6ZMDr-PKTYDJKjP4pGCZZolbjbGi44/s1600/n-able.jpg",
+    "published": "2026-08-03T06:41:46+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers.\n\nIts first fix was incomp\u2026",
+    "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete"
+  },
   "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmBagWdesuJqVgNAHPh7t75IGrajY_oJeL9HHI7r23AK7CuLUN22-GBwDCWJWTlIutBApsdhSGproqxtR6kV_Dg04FT2zc6vZXZCQed8Kx3bD-jw-VXkYfAHlJsNgcQOcqRFW8TTh1kyN34MisnGx3ImU9vejv_oNy4jN0sPNcPM7jclq7klrMmGrnROjk/s1600/chinese-hackers.jpg",
@@ -13738,6 +13756,15 @@
     "source": "The Hacker News",
     "summary": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzst\u2026",
     "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk"
+  },
+  "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMO8eh_7kmo0QAAphjdYIXsjfGspFVU9gV5XInqqhs4WnFNCm_hP-EBdmVln7vSrwWkmo9pdvoxAQbaC17M8sYg7VzBX8RJnRIb6E6pBr5euW9WweOeeZk9XpN8O5I5vF_OGypfqp9WO-SO_C81D4DDui3uTp0jBvV5_C7qIjuRgtoMd4bKQ1y8QEnC3c/s1600/dna.jpg",
+    "published": "2026-08-03T08:05:30+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them.\n\nThe vendor's Ju\u2026",
+    "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/": {
     "categories": [
@@ -14498,6 +14525,18 @@
     "summary": "OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation OpenAI previously confirmed that it's testing ads in ChatGPT for free and $8 Go accounts, and now we're seeing early signs of that rollout,\u00a0at least on Android. [...]",
     "title": "OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation"
   },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-08-02T22:31:41+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical c\u2026",
+    "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems"
+  },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/": {
     "categories": [
       "Artificial Intelligence",
@@ -14660,6 +14699,18 @@
     "source": "BleepingComputer",
     "summary": "Google backpedals on new Android developer registration rules Google is backpedaling on its decision to introduce new identity verification rules for all developers, stating that it will also introduce accounts for limited app distribution and will allow users to install apps fro\u2026",
     "title": "Google backpedals on new Android developer registration rules"
+  },
+  "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/": {
+    "categories": [
+      "Google",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-02T14:17:16+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google Chrome may soon block New Tab hijacker extensions by default Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]",
+    "title": "Google Chrome may soon block New Tab hijacker extensions by default"
   },
   "https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/": {
     "categories": [
@@ -21034,6 +21085,18 @@
     "source": "BleepingComputer",
     "summary": "Coinbase confirms insider breach linked to leaked support tool screenshots Coinbase has confirmed an insider breach after a contractor improperly accessed the data of approximately thirty customers, which BleepingComputer has learned is a new incident that occurred in December. [\u2026",
     "title": "Coinbase confirms insider breach linked to leaked support tool screenshots"
+  },
+  "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-08-02T21:14:29+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [\u2026",
+    "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft"
   },
   "https://www.bleepingcomputer.com/news/security/comcast-to-pay-15-million-fine-after-a-vendor-data-breach-affecting-270-000-customers/": {
     "categories": [
