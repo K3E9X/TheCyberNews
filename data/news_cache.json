@@ -13694,6 +13694,15 @@
     "summary": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover.\n\nThe vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affe\u2026",
     "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover"
   },
+  "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb0HLXOvc5Gir8E_IXoYIRMQG7CsNL7gJEkPytfRRQ67OWrIoyrGAX78K0Ca0VJ7hhpyru2Vck7ntHKLyBLhGezuyOD_znWoB88KhAdEWu8MyhVbiEia2GfbRVeDPhaCEAHfhY637LqeIyso03edEkOGL3p0c3O6_Nn7oJ6rNmyve-6_pqziBCokfiKoKI/s1600/npm-git.jpg",
+    "published": "2026-08-03T18:43:53+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targe\u2026",
+    "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users"
+  },
   "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL4TR-PlW4MehiF4iAbWafpNUQrSuhhTuEZwgwba7Gi0mF-PfixGSlFmpsBm51WbJYfkA69ZYNjO2aWl8eE8tqdSPdJL7mvLOaYL9O6VWkfxw96YFF0Qxt1ggCurqVd2J2muf6SAjW0cCrt2UwnOO3rK76X-mBWHW1e8-2Mk6FERpS1yPrSVScImJ0TmKW/s1600/adobe-flaw.jpg",
@@ -13703,6 +13712,24 @@
     "summary": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execu\u2026",
     "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction"
   },
+  "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvbg0AbgcDL8IouGo4deahk3vOuegzB-hxhUxAok05EuI5uuYJUDP-mUVS1w-gr9Oedf6JzF9qEB3l8MWVnsFGkmZ4ZorInHavwKWrQ7toTmv64uc4EnJdoFDqGlDPQsgcTwnJo8rlZyfG9yFu60fNE51Di00aVdZoiv5YMIvobc6xuWZhT_cKDk3ikV-P/s1600/apple.jpg",
+    "published": "2026-08-03T10:49:06+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.\n\nAttack surface management pl\u2026",
+    "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS"
+  },
+  "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbA9omGpwD_xkaXsQD13QewwbHkZMx1FrBHBvsnFkbjkFTY6F679EEe_xtesc1R6ToZIZlHq4osq4AmGAI-74IHaagkIP7KhQp3X_QtlwaMx2ALTqs_sZTdtpmJNd1UHf_Mq2F9jfmz8viAlapY4gFUa5ZLAEtF_VjjzebWZApbU1VDElceFwS4sa2rR5C/s1600/cisa.png",
+    "published": "2026-08-04T07:00:13+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following rep\u2026",
+    "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises"
+  },
   "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiea5Kw_2TLtPI4Ts3s3anmPIQr3S8VxO0G9yL-UV1dSlRrW1Z_L41XoHcSFuk2ThCBDKLFy-xZl_y7DnA0FM2nWHk4G1TpV2iMx6-X6EDT3gK7s0pJu6e1wMUoEsuPifcXseXuqOIHL3W9voWoD_se5gKJPyii4X0mJY7sxJ3uOPlTWVfAyrKs4ixa-18/s1600/coldcard.jpg",
@@ -13711,6 +13738,24 @@
     "source": "The Hacker News",
     "summary": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Cold\u2026",
     "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes"
+  },
+  "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvsPqZrMBUJ3CH2LqsxL_1HWV6F-qs8FbnvytY_bz9ZlSUptj-3SPJ-BAlDBrF9V39V2F_D35LPU8BgSdDNfyPi2tqESWH_g2qzP2ospA36aF2CexX2_bRw7ee6qG4uqAyI24lavgb5wER2wuKWYd6rOUpdG0pbhlR4aAtEvSTuAQYmv8a5izEpv63mcA/s1600/phish-main.jpg",
+    "published": "2026-08-03T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit AI is moving incredibly fast, and every security leader is feeling the pressure to keep up.\n\nAI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize \u2026",
+    "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit"
+  },
+  "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiuQky0C3uTOSaOEyGLg0O7h1B0VAP9nU8bwdZe-8DKD_pOBihrvWw-2ecGt03mmT0V1F0bg7xOQuv88cZlLcLqavDM9gWnZHku-skIzJMEWw3lBNvrVcDaeaezVTvt1yBCecBTQBT_SUsY1rTV-ygCEH1vUjttcAx8swmGljZPAXYRQ2APBwPrUhvPI/s1600/google-passkeys.jpg",
+    "published": "2026-08-03T16:24:47+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen.\n\nUni\u2026",
+    "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts"
   },
   "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html": {
     "categories": [],
@@ -13739,6 +13784,15 @@
     "summary": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, o\u2026",
     "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code"
   },
+  "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghC22v1WIfuZutm_-lxuOPzdipffNmYvZ5KA9l_AUg-8EgQr9Gy0ouYijU_Vab5m5aIpGChViq6kpC4_h1fZfjBw415YHCINhU9GXTkil94vJv_Ct241xptfhjyt34cV348Q5VHlRVlKSj32-uj1u0PocPhDf9CBYuhFfPhvLjiHTqPYOPZBpXUyhiAe5Q/s1600/sonicwall-ransomware.jpg",
+    "published": "2026-08-03T16:15:13+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.\n\nIn a report p\u2026",
+    "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws"
+  },
   "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1H8Wx5_ZrUFksG2Tgb_6qho5XHULdP13qVeYXx1xWPPt8B2rH68XC6IhzBk-dczgsdWvpZ_dVTI7AIMsgK1EeU3B89WVUJu2N5B71FQ4GnlZDRlvNiD4pGO2hBCJGVowjUVDMSHAO_0CPlYthpa8jx-Af5OwB6ZMDr-PKTYDJKjP4pGCZZolbjbGi44/s1600/n-able.jpg",
@@ -13747,6 +13801,15 @@
     "source": "The Hacker News",
     "summary": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers.\n\nIts first fix was incomp\u2026",
     "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete"
+  },
+  "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguFnLbEr199EuLksobp-I8Z6liAUmM4EKRi94ttPtanQN2aiwvNh1qHK_kkGhOBfWTzLzANlQ3jd6FmJOHWbdn8rFfg1sHvYqmBaVM5kfak1JxRhqPEfNR94zY_pibMdsbWMIx8gqcZZjoYLhKk03Gw3PrYKF6JQzrNLV6HiE5U7UtYPSwmH-OmDmjl8c/s1600/exfilsquad.jpg",
+    "published": "2026-08-03T09:13:56+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web.\n\nThe data included names, organisations and w\u2026",
+    "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web"
   },
   "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html": {
     "categories": [],
@@ -13765,6 +13828,15 @@
     "source": "The Hacker News",
     "summary": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them.\n\nThe vendor's Ju\u2026",
     "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable"
+  },
+  "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoiIM6TX9TShDQoVLnmGNE_LZPas3bK4cwsNviskgSjdFASOmzcJPOixde9rkt0uawGd5D5IRHc09j5etqie865lUafh95s-TggQm3PluElF3XhILbJUCkl6vJy6lAM5FSu0GBNu6eWHcVzH7d9X86fvxOjnhwylSgakxghEq_05FsWzZ8mSVMHWYr5HBS/s1600/weeklyrecap.jpg",
+    "published": "2026-08-03T14:03:11+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks\u2026",
+    "title": "\u26a1 Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/": {
     "categories": [
@@ -22902,6 +22974,17 @@
     "summary": "Ex-school district employee jailed for hacks on former employer A former \u00a0IT employee at an Iowa school district was sentenced to 21 months in prison after conducting a prolonged cyberattack against the former employer that disrupted classroom operations, deleted accounts, and ca\u2026",
     "title": "Ex-school district employee jailed for hacks on former employer"
   },
+  "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-03T15:04:39+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
+    "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff"
+  },
   "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/": {
     "categories": [
       "Security",
@@ -23205,6 +23288,18 @@
     "source": "BleepingComputer",
     "summary": "Fake Perplexity extension on Chrome Web Store tracked searches A malicious extension in the Chrome Web Store is masquerading as the Perplexity AI answer engine, intercepting search traffic and collecting browsing information. [...]",
     "title": "Fake Perplexity extension on Chrome Web Store tracked searches"
+  },
+  "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/": {
+    "categories": [
+      "Security",
+      "Gaming"
+    ],
+    "image": "",
+    "published": "2026-08-03T19:25:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
+    "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware"
   },
   "https://www.bleepingcomputer.com/news/security/fake-solidity-vscode-extension-on-open-vsx-backdoors-developers/": {
     "categories": [
@@ -25786,6 +25881,17 @@
     "summary": "Home security giant ADT data breach affects 5.5 million people The ShinyHunters extortion group stole the personal information of 5.5 million individuals after breaching the systems of home security giant ADT earlier this month, according to data breach notification service Have \u2026",
     "title": "Home security giant ADT data breach affects 5.5 million people"
   },
+  "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-04T00:17:15+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
+    "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts"
+  },
   "https://www.bleepingcomputer.com/news/security/how-a-brute-force-attack-unmasked-a-ransomware-infrastructure-network/": {
     "categories": [
       "Security"
@@ -26269,6 +26375,17 @@
     "source": "BleepingComputer",
     "summary": "Inside the Search for \"Clean\" Residential Proxies for Carding Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek \"clean\" residential proxies and combine them with browser fingerprints, device profile\u2026",
     "title": "Inside the Search for \"Clean\" Residential Proxies for Carding"
+  },
+  "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-03T14:45:55+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Inside the Underground Business of the Android BTMOB RAT malware Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sale\u2026",
+    "title": "Inside the Underground Business of the Android BTMOB RAT malware"
   },
   "https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/": {
     "categories": [
@@ -28085,6 +28202,17 @@
     "summary": "Musician admits to $10M streaming royalty fraud using AI bots North Carolina musician Michael Smith has pleaded guilty to collecting over $10 million in royalty payments through a massive streaming royalty fraud scheme on Spotify, Apple Music, Amazon Music, and YouTube Music. [..\u2026",
     "title": "Musician admits to $10M streaming royalty fraud using AI bots"
   },
+  "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-03T17:00:56+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "N-able warns of N-central auth bypass flaw exploited in attacks N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
+    "title": "N-able warns of N-central auth bypass flaw exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/": {
     "categories": [
       "Security"
@@ -28536,6 +28664,17 @@
     "source": "BleepingComputer",
     "summary": "New Dolphin X malware uses AI to rank high-value targets A new Dolphin X remote access trojan claims to use\u00a0an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]",
     "title": "New Dolphin X malware uses AI to rank high-value targets"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-03T20:01:22+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New DOUBLECUP ClickFix service hides malware in browser cache images A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new \u2026",
+    "title": "New DOUBLECUP ClickFix service hides malware in browser cache images"
   },
   "https://www.bleepingcomputer.com/news/security/new-droidlock-malware-locks-android-devices-and-demands-a-ransom/": {
     "categories": [
@@ -29033,6 +29172,17 @@
     "source": "BleepingComputer",
     "summary": "New \u2018Pack2TheRoot\u2019 flaw gives hackers root Linux access A new vulnerability dubbed\u00a0Pack2TheRoot could be exploited in the\u00a0PackageKit daemon to allow\u00a0local Linux users to install or remove system packages and gain root permissions. [...]",
     "title": "New \u2018Pack2TheRoot\u2019 flaw gives hackers root Linux access"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-03T23:58:01+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New Pass-ta-key attacks let malware hijack Google-synced passkeys Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and e\u2026",
+    "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys"
   },
   "https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/": {
     "categories": [
@@ -37007,6 +37157,15 @@
     "summary": "AI Risk Worries Insurers and Businesses Alike As companies adopt AI, many insurance firms are explicitly excluding AI risks, while others are forging ahead to create the right framework. What risks can firms reasonably manage?",
     "title": "AI Risk Worries Insurers and Businesses Alike"
   },
+  "https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c93a3d3405d789d/6a70e02ffbf44d4210bb1101/claude2_Samuel_Boivin_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-03T20:31:12+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues Last month's incidents in which the AI model breached real-world systems derived from over-permissioning, especially with Internet access.",
+    "title": "Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues"
+  },
   "https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt301abc846275d0a4/6a1de7c8479f3e4dd25cf448/enisa_ricochet64_shuttrstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -37710,6 +37869,15 @@
     "summary": "Nation-State Hackers Put Defense Industrial Base Under Siege Espionage groups from China, Russia and other nations burned at least two dozen zero-days in edge devices in attempts to infiltrate defense contractors' networks.",
     "title": "Nation-State Hackers Put Defense Industrial Base Under Siege"
   },
+  "https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9546018118863fd/6a70ff2fbe6c657faa5a6e3b/GettyImages-1136317674.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-03T20:42:28+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "New Tool Traces AI Videos Back to Their Source Researchers dug into the root of the problem with the goal of promoting industry collaboration on improved protective measures.",
+    "title": "New Tool Traces AI Videos Back to Their Source"
+  },
   "https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt087196a0da1528ae/6a56a815b887df4c99c0b0df/nigeria-flag-and-naira-esfera-shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -38306,6 +38474,15 @@
     "source": "darkreading",
     "summary": "With Friends Like These: China Spies on Russian IT Orgs State-linked hackers stayed under the radar by using a variety of commercial cloud services for command-and-control communications.",
     "title": "With Friends Like These: China Spies on Russian IT Orgs"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b326661c25a73c5/6a70f5e542103f14fb72de26/aiagents-wildpixel-Getty-1499492092.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-03T15:42:18+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm Researchers intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking to launch further attacks.",
+    "title": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia": {
     "categories": [],
@@ -39334,6 +39511,15 @@
     "summary": "As Cybersecurity Firms Chase AI, VC Market Skyrockets Investments in cybersecurity startups took off in 2025 as venture capital firms focused not just on AI-native tech but on talent as well.",
     "title": "As Cybersecurity Firms Chase AI, VC Market Skyrockets"
   },
+  "https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf8cb92ec3a1b658c/6a6ba8c846e652e76b7b7790/QR_code-Abu_Hanifah-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-04T07:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Device Code Phishing Up 1,500% in 2026; Vishing Doubles Newer social engineering techniques help attackers ignore entrenched security controls and limit the evidence they leave behind.",
+    "title": "Device Code Phishing Up 1,500% in 2026; Vishing Doubles"
+  },
   "https://www.darkreading.com/cybersecurity-analytics/europe-evolves-ransomware-favorite-region": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7ef4b56117367b12/6a39ffe932b8b46be16e5a3d/Europe-imaginima-Getty.jpg?width=720&quality=80&disable=upscale",
@@ -39909,6 +40095,15 @@
     "source": "darkreading",
     "summary": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
     "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9bd4cb621eab153c/6a6ce7295c6370055b106be4/burnout-Moor_Studio-_Getty-1445628897.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-03T14:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Is There Really a Fix for CISO Fatigue? Accountability without any real authority is driving CISO burnout, and organizations need to take notice.",
+    "title": "Is There Really a Fix for CISO Fatigue?"
   },
   "https://www.darkreading.com/cybersecurity-operations/focusing-people-cybersecurity-rsac2026": {
     "categories": [],
@@ -42706,6 +42901,15 @@
     "source": "darkreading",
     "summary": "Fresh ATM Crypto Software Bugs: Jackpot or Bust? Organizations, and possibly ATMs, are at risk of compromise, thanks to holes in a Microsoft BitLocker security wrapper.",
     "title": "Fresh ATM Crypto Software Bugs: Jackpot or Bust?"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38063499658fdf3d/6a70e89e220415e290089159/N_able_Ontario_Office-JHVEPhoto-GettyImages-2153902736.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-03T21:21:11+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Attackers Exploit N-able Patch Bypass Flaw on RMM Servers Over the weekend, the vendor discovered another vector of authentication bypass CVE-2026-18577 that gives attackers administrator access.",
+    "title": "Attackers Exploit N-able Patch Bypass Flaw on RMM Servers"
   },
   "https://www.darkreading.com/vulnerabilities-threats/attackers-exploited-gogs-zero-day-months": {
     "categories": [],
