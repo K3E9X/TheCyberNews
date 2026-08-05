@@ -13730,6 +13730,24 @@
     "summary": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following rep\u2026",
     "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises"
   },
+  "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU9CZ3zh4mWF0SVRdcylBR7IyGB6j797LrHqyND8vcsBbiE6mcDlqaufSOBg2Av4Ej_HZ_gMxbzR-KS6GvXX0hLPgSFlh5gwxKwhjx3FvcdsQ7XP65x70cxeadgTM7uETFglAUoZrxwq9Rmx6i1T4yS-E7c7Szx9igRmM_GqG-8L5xfKYk2i3fhQGEHjez/s1600/cisa.jpg",
+    "published": "2026-08-05T07:40:39+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wi\u2026",
+    "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited"
+  },
+  "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyvip0I7Uu7TeEHOGkVi4gl93ktZtzWF1krMsS1XPlRcql2xIf9UU4rXjDvdrF0HPPQaFCgNhhrrp9IM0HBJgHEzweJM41lccFe19e2DYqzkk5Au2STfT_Bjzzdfp_-UibeQ2o19Rh3OTtj5nOpbEn61gKQR4w7dPpOJ_5gP4Ob8KqqYLfWwAnoZ59FCo/s1600/claude-ai-agent.jpg",
+    "published": "2026-08-05T07:53:50+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security In\u2026",
+    "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself"
+  },
   "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiea5Kw_2TLtPI4Ts3s3anmPIQr3S8VxO0G9yL-UV1dSlRrW1Z_L41XoHcSFuk2ThCBDKLFy-xZl_y7DnA0FM2nWHk4G1TpV2iMx6-X6EDT3gK7s0pJu6e1wMUoEsuPifcXseXuqOIHL3W9voWoD_se5gKJPyii4X0mJY7sxJ3uOPlTWVfAyrKs4ixa-18/s1600/coldcard.jpg",
@@ -13738,6 +13756,24 @@
     "source": "The Hacker News",
     "summary": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Cold\u2026",
     "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes"
+  },
+  "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0MM7WIz9TI9RxDFZ-toTt_tLMlGIJGGyqnPZ5m68ft2_h16hOepWgOlGkRdx7KdUaRjz7GxanOYCp3167ZvcaWo1MV9ihUjZb6dHyX4Ss8SV6X4GGpobunHDfXs83HKppsCR-TT8quPfiNmH1Z-7EvWRZ4cdyHsHRsmlVshEJpDa76yUCjaWy0-xXaeeS/s1600/double.jpg",
+    "published": "2026-08-04T09:03:23+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader \u2026",
+    "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT"
+  },
+  "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi35nnI5-o_HtA0Eunk4tOFM1lg12NrqY7HrDNBbee-kPWR-BHHxXQtd-Tj3b7FrMlTOcWNC63XgVV9n0FEoD-G4ydCpmBv2g1PjvS-lzopLbMnODHbNL2bGMJ6nOYXST9M83vc9IYZaUOjkUqaa4Xo-LaAOtXu3bRhYAcVIUwxgDNMifc6xWI27VVca_B4/s1600/screenconnect.jpg",
+    "published": "2026-08-04T13:11:22+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and sy\u2026",
+    "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access"
   },
   "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html": {
     "categories": [],
@@ -13748,6 +13784,15 @@
     "summary": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit AI is moving incredibly fast, and every security leader is feeling the pressure to keep up.\n\nAI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize \u2026",
     "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit"
   },
+  "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLUUlqxE9AYL9PyFAlWMsG9czDcrU9p2kMUsumVIYx5SnlMAO0z-n_weUWeX-CiMHQBbkGK1lV-78vp003-bAeRP4gQRyGXlq5blzx5dJdd9zFttd2tjhGlNUFLNk-6ro9GfXMkRCFVLs-ex3gWHoJh-87sZifOeTKohLNoypvvqLUUPLkGUsjKXfAj7A/s1600/google.gif",
+    "published": "2026-08-04T11:16:23+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into tri\u2026",
+    "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent"
+  },
   "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiuQky0C3uTOSaOEyGLg0O7h1B0VAP9nU8bwdZe-8DKD_pOBihrvWw-2ecGt03mmT0V1F0bg7xOQuv88cZlLcLqavDM9gWnZHku-skIzJMEWw3lBNvrVcDaeaezVTvt1yBCecBTQBT_SUsY1rTV-ygCEH1vUjttcAx8swmGljZPAXYRQ2APBwPrUhvPI/s1600/google-passkeys.jpg",
@@ -13756,6 +13801,15 @@
     "source": "The Hacker News",
     "summary": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen.\n\nUni\u2026",
     "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts"
+  },
+  "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8YRyOCSodUbPpWMicgOiuGbEQWDBmu_W-47PAUFkS7yKEQe4Do6svH4cQb-U0tC53C9mqq8ijjlG9gwuzyqYfNwtS61WxvNxIgk1dVC7wX598rncb_MgQ5t4yxc8NUYVdb6PT5cu7ZXJ7w3KaYG_7vtU5xixHel1jSADbtR-GC1bmngZPArXw-NjkTH1x/s1600/Greatness.jpg",
+    "published": "2026-08-04T17:27:39+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legiti\u2026",
+    "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens"
   },
   "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html": {
     "categories": [],
@@ -13793,6 +13847,15 @@
     "summary": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.\n\nIn a report p\u2026",
     "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws"
   },
+  "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAb0f5sNdFs0uLbgh9_rBZ-SaCrUjv3c4mL7OLF7pFPxH5pusnFJyInc_7S-QqgMa0DsEm2fId6v2sWX7hJcaA0eHTHngKBXGOA3ysg7NYz1CyMAgwsrWnJ3FA1HGFkzglgj5pGsXeLWzXjCUhNGi5ecEsqIu2oOzz_koXsQAAC0EV5HkuAJGtAVvWotE/s1600/npmnpm.jpg",
+    "published": "2026-08-04T13:30:23+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026.\n\nSaf\u2026",
+    "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks"
+  },
   "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1H8Wx5_ZrUFksG2Tgb_6qho5XHULdP13qVeYXx1xWPPt8B2rH68XC6IhzBk-dczgsdWvpZ_dVTI7AIMsgK1EeU3B89WVUJu2N5B71FQ4GnlZDRlvNiD4pGO2hBCJGVowjUVDMSHAO_0CPlYthpa8jx-Af5OwB6ZMDr-PKTYDJKjP4pGCZZolbjbGi44/s1600/n-able.jpg",
@@ -13802,6 +13865,15 @@
     "summary": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers.\n\nIts first fix was incomp\u2026",
     "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete"
   },
+  "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2LFB09rf16kl1_PinOnHkAY4GiI38_azQ2t-EWYRicFndp5DX-5KSfwVVEJxwEKp07oouBfkFg71MxwilLY_M2i3clk82hs5-Xr-PgDj69JeYzTsPjp_8sdNZIminQFonHRq2GqWDXJuwGqpT4Na485_pILlvMSlBdSMqWYWqTHDrUC_9OdOW-kCdSeM/s1600/cpanel.jpg",
+    "published": "2026-08-04T10:36:27+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative \u2026",
+    "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root"
+  },
   "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguFnLbEr199EuLksobp-I8Z6liAUmM4EKRi94ttPtanQN2aiwvNh1qHK_kkGhOBfWTzLzANlQ3jd6FmJOHWbdn8rFfg1sHvYqmBaVM5kfak1JxRhqPEfNR94zY_pibMdsbWMIx8gqcZZjoYLhKk03Gw3PrYKF6JQzrNLV6HiE5U7UtYPSwmH-OmDmjl8c/s1600/exfilsquad.jpg",
@@ -13810,6 +13882,15 @@
     "source": "The Hacker News",
     "summary": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web.\n\nThe data included names, organisations and w\u2026",
     "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web"
+  },
+  "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFQzlCdxoVUtdNgowwmPFaISlBF7Y2HsG1BQf3b-UJDQzRbPB249_W6rwU_-TSW1NES4OI-12R1z3tXQ-QlZv8cEaagpyLJVYz48Etb9W0MtuNp9BTL_13-5Wg95kz-Ey5iZ288mTkPt_5pbsxoh7Kv2KrmHqj_Tqb0KR9NSzz-jO2DuoTLthh6Dn3FUIh/s1600/quick.jpg",
+    "published": "2026-08-05T05:47:19+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for \u2026",
+    "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer"
   },
   "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html": {
     "categories": [],
@@ -13837,6 +13918,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks\u2026",
     "title": "\u26a1 Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks"
+  },
+  "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRUUATlzjkTMUxaFn2DI_qPw1WxQaqSvIY58hYRWrDQwnqyeDWgazdM0HarQoeNs9oXocZCMP__YqOZxnxyWz30-kEKzLZOFGyJ46GAuWyEj0ZfL69dqBd7OX1SdtiUoprog0-7JWYaYs1y2ceQGFT-GtTfsjiVFhyphenhyphend6WxYXV-1BYVhLRUIQ5hWqSyz2U/s1600/breachlock.jpg",
+    "published": "2026-08-04T11:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise.\n\nThat assumption is starting to break.\n\nSecurity teams have long estimated risk by rank\u2026",
+    "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/": {
     "categories": [
@@ -18212,6 +18302,17 @@
     "source": "BleepingComputer",
     "summary": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation Attackers can compromise systems in minutes while patching and response still take hours or days. Picus Security breaks down why autonomous validation is becoming critical for modern defense strategies. [\u2026",
     "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation"
+  },
+  "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-04T18:50:55+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "77 Open VSX extensions found harvesting developer info 77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
+    "title": "77 Open VSX extensions found harvesting developer info"
   },
   "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/": {
     "categories": [
@@ -27523,6 +27624,17 @@
     "summary": "Marquis sues SonicWall over backup breach that led to ransomware attack Marquis Software Solutions has filed a lawsuit against SonicWall, accusing the cybersecurity company of gross negligence and misrepresentation that allegedly led to a ransomware attack disrupting operations a\u2026",
     "title": "Marquis sues SonicWall over backup breach that led to ransomware attack"
   },
+  "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-04T15:24:35+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Massive ChainDrop npm supply-chain attack infects hundreds of packages Self-propagating malware named 'ChainDrop' has compromised more than\u00a01,300 packages with a combined 2 billion monthly downloads\u00a0on the Node Package Manager (npm) registry. [...]",
+    "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages"
+  },
   "https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/": {
     "categories": [
       "Security",
@@ -29564,6 +29676,17 @@
     "summary": "New WrtHug campaign hijacks thousands of end-of-life ASUS routers Thousands of ASUS WRT routers, mostly end-of-life or outdated devices, have been hijacked in a global campaign called Operation WrtHug that exploits six vulnerabilities. [...]",
     "title": "New WrtHug campaign hijacks thousands of end-of-life ASUS routers"
   },
+  "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-04T19:03:09+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New XCSSET variant targets macOS devs via compromised Xcode projects A new version of the XCSSET malware is targeting thousands of\u00a0macOS users through compromised Xcode projects and GitHub repositories. [...]",
+    "title": "New XCSSET variant targets macOS devs via compromised Xcode projects"
+  },
   "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/": {
     "categories": [
       "Security"
@@ -30043,6 +30166,18 @@
     "source": "BleepingComputer",
     "summary": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the fo\u2026",
     "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-08-04T23:39:59+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social en\u2026",
+    "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests"
   },
   "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/": {
     "categories": [
@@ -30589,6 +30724,17 @@
     "source": "BleepingComputer",
     "summary": "Phishing poses as big-brand job interview to steal Google accounts A phishing campaign is impersonating more than 30 well-known brands, including Adobe, Netflix, Coca-Cola, and OpenAI,\u00a0in fake job interviews to steal Google account credentials from marketing professionals. [...]",
     "title": "Phishing poses as big-brand job interview to steal Google accounts"
+  },
+  "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-04T21:45:36+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]",
+    "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts"
   },
   "https://www.bleepingcomputer.com/news/security/phobos-ransomware-admin-pleads-guilty-to-wire-fraud-conspiracy/": {
     "categories": [
@@ -33257,6 +33403,17 @@
     "summary": "Tor switches to new Counter Galois Onion relay encryption algorithm Tor has announced improved encryption and security for the circuit traffic by replacing the old tor1 relay encryption\u00a0algorithm with a new design called Counter Galois Onion (CGO). [...]",
     "title": "Tor switches to new Counter Galois Onion relay encryption algorithm"
   },
+  "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-04T22:18:20+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [..\u2026",
+    "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks"
+  },
   "https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/": {
     "categories": [
       "Security"
@@ -34219,6 +34376,17 @@
     "source": "BleepingComputer",
     "summary": "USB worm spreads crypto-stealing malware via Windows shortcut files Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]",
     "title": "USB worm spreads crypto-stealing malware via Windows shortcut files"
+  },
+  "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-04T14:00:10+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Varonis Agent IBAC keeps AI agents within their intended boundaries AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-tim\u2026",
+    "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries"
   },
   "https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/": {
     "categories": [
@@ -35711,6 +35879,15 @@
     "source": "darkreading",
     "summary": "AI-Led Remediation Crisis Prompts HackerOne to Pause Bug Bounties Discovery used to be the bottleneck for open source bugs, but with automated discovery, remediation's the bottleneck, which bounties don't fund.",
     "title": "AI-Led Remediation Crisis Prompts HackerOne to Pause Bug Bounties"
+  },
+  "https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltacd93dbe5fa30f62/6a6fb9993e6bcafcff0bbab9/Video_call_AiTM-jack191-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-04T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI Notetaker Lets Hackers Spy on Government, Corporate Video Calls A Google Firebase misconfiguration lets users of tl;dv, an AI meeting tool, query any other users' meeting information and potentially join calls.",
+    "title": "AI Notetaker Lets Hackers Spy on Government, Corporate Video Calls"
   },
   "https://www.darkreading.com/application-security/ai-powered-dependency-decisions-security-bugs": {
     "categories": [],
@@ -38323,6 +38500,15 @@
     "summary": "AI Bolsters Python Variant of Brazilian WhatsApp Attacks Water Saci has upgraded its self-propagating malware to compromise banks and cryptocurrency exchanges by targeting enterprise users of the popular chat app.",
     "title": "AI Bolsters Python Variant of Brazilian WhatsApp Attacks"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc562507d832ba51c/6a72581b9aeba22476b547f2/SIM-cards-with-Angola-flag-Novikov_Aleksey-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-05T08:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Angola's Largest Telco Breached Hours Before IPO Unitel, Angola's dominant mobile operator, continues to recover from a cyberattack that caused outages the day of the government-owned telco's public offering.",
+    "title": "Angola's Largest Telco Breached Hours Before IPO"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zero-day-end-of-life-d-link-routers": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdf7602b12704fd43/695eca6a055b63442c4f4065/eol_Colored_Lights_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -38953,6 +39139,15 @@
     "source": "darkreading",
     "summary": "Japanese Firms Suffer Long Tail of Ransomware Damage Ransomware actors have targeted manufacturers, retailers, and the Japanese government, with many organizations requiring months to recover.",
     "title": "Japanese Firms Suffer Long Tail of Ransomware Damage"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6b501fd239cea948/6a7205c2f2df87f4451c6c0b/Playbook(1800)_Ivelin_Radkov_Alamy.png?width=720&quality=80&disable=upscale",
+    "published": "2026-08-04T18:37:35+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook The attacks use diverse social engineering lures and rotating payloads to deliver ScreenConnect for persistent remote access to compromised networks.",
+    "title": "Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/latin-american-cybercriminals-government-data": {
     "categories": [],
