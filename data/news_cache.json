@@ -13712,6 +13712,15 @@
     "summary": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execu\u2026",
     "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction"
   },
+  "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgERF89TJZsy7Kq1JhEcPKC5ynyCNMv1JAObXj4W415ZbGwE-ZZplLbq5HEiBWi3ULKifDI7Tl440UrQvLFEmngeAHL4o2XfWKxTgb7CEsHmBqBt-w5qePo-BGmlDcu_vJtyfsh1CV5COMXpIUHRiw8WmPeitZAzEu3ugQJ90mDtOhlU0BzTaRDogTHg2Y/s1600/ask-ai.jpg",
+    "published": "2026-08-06T11:30:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major \u2026",
+    "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory"
+  },
   "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGMHYrRkDGf3XV_lOoUbE1UCSjvcN9x-XNpNGpX_f45JqZzd2FrxJ-metvu-U5VyDqH2PGNaY9MiSeShhH-YVN3O4ryN5lh4ICsuXtz0-DuCSAgnywXUifDOf_qZS81AtjRGNQWgs1QnL4Eu54icswla_ZK7qGoZqWDaVzPX46pmcTrvj_ec0yQwrt9k/s1600/oracle-root.jpg",
@@ -13775,6 +13784,15 @@
     "summary": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agen\u2026",
     "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild"
   },
+  "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzkSwdiUeH8rB-KgSkEXrT-oNL19IyghM7Ks8UDOedxPYB5czgwO8pXNf0YUt7OHqAbRRDJkRvJffzJ0lfpEdqfLn-w-Bc9pwOa_1FNJjJkrVbD-diaZu9HRFqAlOBWogXEsZ4sSFRDW-HYmsaUmVD98QGQoyq2rHep_dwDa5ueafTUO0Lh6zsA-Czd3he/s1600/cisco-flaws.jpg",
+    "published": "2026-08-06T17:13:15+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.\n\nThe security issues\u2026",
+    "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs"
+  },
   "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyvip0I7Uu7TeEHOGkVi4gl93ktZtzWF1krMsS1XPlRcql2xIf9UU4rXjDvdrF0HPPQaFCgNhhrrp9IM0HBJgHEzweJM41lccFe19e2DYqzkk5Au2STfT_Bjzzdfp_-UibeQ2o19Rh3OTtj5nOpbEn61gKQR4w7dPpOJ_5gP4Ob8KqqYLfWwAnoZ59FCo/s1600/claude-ai-agent.jpg",
@@ -13801,6 +13819,15 @@
     "source": "The Hacker News",
     "summary": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A \u2026",
     "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup"
+  },
+  "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOLyOOoRbj7XXsr5asbHmKbRetYhjWcAZap4b6VUBQ3ENWpeB46A78vztXFJGUDMDHNskXyUMH6yu9Quv-WLut657FS4Dk4-SICypcAVTLuI7fYUxC7Y4qEUI6A8NMIS-GZ8KkzjRULoNZAPD1TIamWyp-T5vgrjMDQKMD0lmR6pZU8P4VeOwWEo7KxWA/s1600/CRYPTOJS.jpg",
+    "published": "2026-08-06T11:49:48+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains.\n\nIntroduced in the JavaScript cryptography library 12 years ago, the fu\u2026",
+    "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps"
   },
   "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html": {
     "categories": [],
@@ -13937,6 +13964,15 @@
     "summary": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative \u2026",
     "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root"
   },
+  "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_BgCPUTlxOgmh4ljCoOazIkcoSA_BHUGZmfAuhxD8TiUzui2nhB5b5KV_lv50ocFWI14FG5RIe8rqrm6D8ZC8ACR7mY1bXE4JADKcTRIY1bfIeXtnYs07yXk2T9Jsv0-vcxPkKbl6FuNXxXylv5BQQQLTDSpJ2XSyqxvIsxYy5d2X1Kwt_2CSJegj9Tv/s1600/place.jpg",
+    "published": "2026-08-06T16:17:13+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the def\u2026",
+    "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs"
+  },
   "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhWC9UfjMK9e0KvUrcCjymLYZzuDDgZpArW3oZPtcds7CJ1pr1GleT46Wlm2_aWWpoe6TpgYcdnz_jhVOgjK6mnW_gekJkMotmfRiQ0xcp5v7mdx6CvVvUID0IyfSplGHGX-8JGoMJ1OLyEA96qVMTWwhEjKf21thNfvkBCg2DSgNjSkVEDyAugdcyJfk/s1600/linux-exploit.jpg",
@@ -13945,6 +13981,15 @@
     "source": "The Hacker News",
     "summary": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built r\u2026",
     "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch"
+  },
+  "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5BBX-j7uA7NqPF9tVWhx3y09F3whJ3zweRoWGyI2kJDxhW6ymOG1oumq5Oz0sZWtCAKSCALcd9TTl7Kf5Mo3aqE3aWKH8jfKWt2uUD-CUa6tmid-3MvMTM08EAEhg5iLQ2mlEgFkVeuVKv1QkRqr2T0Ya9JcNtMYheggInGndCG0n-N7BPjyH9vbKCg8/s1600/Zapscape.gif",
+    "published": "2026-08-06T17:58:30+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies\u2026",
+    "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts"
   },
   "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html": {
     "categories": [],
@@ -13972,6 +14017,15 @@
     "source": "The Hacker News",
     "summary": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on in\u2026",
     "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures"
+  },
+  "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUzp-V2FqPXO6jQl0K2Qnn-2Ys6UG168FNhA0TcFv7CGHtBIgWuD66JsjhDiQhf_DkSTBo_YpVGTY3wcLe3SITSszBT0XAD01P6_nFLkXOHNNoKmp6VTsQ-zB9oKR6qYU2tCpf5RwHZ_u35lJiF41Sa3T7zuGfXujh_Ums9snpXTUAJIbcL6LfF9a5bIw/s1600/power.jpg",
+    "published": "2026-08-06T12:16:58+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network.\n\nIts Au\u2026",
+    "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities"
   },
   "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html": {
     "categories": [],
@@ -14036,6 +14090,15 @@
     "summary": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzst\u2026",
     "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk"
   },
+  "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicYXbdZUBG2jW8962nmphGWa0sWoq3jKe6HAT9wa6qlZdPPYBZRdw-uWjUbUv15BxaRgugcEAPXPZ2rMYx3RzM_vLVH18F6oTwwAklstzIRehnPJXwBs9b-d6NKjJZVhO5n1SRnBTlweRonaWCFogLrbJkyzs-F9K3lffy0tfqf2Vownwe9lj06rEe8Nn2/s1600/TeamPCP.jpg",
+    "published": "2026-08-07T06:50:05+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infras\u2026",
+    "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign"
+  },
   "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMO8eh_7kmo0QAAphjdYIXsjfGspFVU9gV5XInqqhs4WnFNCm_hP-EBdmVln7vSrwWkmo9pdvoxAQbaC17M8sYg7VzBX8RJnRIb6E6pBr5euW9WweOeeZk9XpN8O5I5vF_OGypfqp9WO-SO_C81D4DDui3uTp0jBvV5_C7qIjuRgtoMd4bKQ1y8QEnC3c/s1600/dna.jpg",
@@ -14044,6 +14107,15 @@
     "source": "The Hacker News",
     "summary": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them.\n\nThe vendor's Ju\u2026",
     "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable"
+  },
+  "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl0f74Tyvl6NQ4TAbPMIpgYWuHQN8THsYSQ77D9qmHuZdKsK2ZDrTLyWshLPV-UfSYW6Rbtfj866jP0X_D1QHmOFYIoEDZG90G3cy7JGFJrKsq0m7VeGqa0CCDygB9F3ttryPRQm-6MY50zIOsGFBdnwZZgAf31swGo5dOIa0noWuIoEk7rPrUkdfoddIj/s1600/threatsd.jpg",
+    "published": "2026-08-06T15:24:31+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job.\n\nThis week runs on \u2026",
+    "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories"
   },
   "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html": {
     "categories": [],
@@ -14062,6 +14134,15 @@
     "source": "The Hacker News",
     "summary": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django.\n\nThe three most serious:\n\n\n  An unaut\u2026",
     "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug"
+  },
+  "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi53VbynsVNPTCihg9qrqybX7Yu90yM3Tm7KlJnJCHz2_MOUQPyJys1uK6H5QkVqxGekck8qe-pA55tcy19IDYQ4_ndOKasvoaFiPJCI_NJClfHv6G14Ga5P_FPr0zyNijjRMBM-GBlt-XYRqCGAcrZxm9ETsAAu4kPh829ZKABQonHDlx2GuWG9-B-V383/s1600/apple-relay.jpg",
+    "published": "2026-08-06T11:33:08+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address.\n\nIntroduced with iOS 15, iCloud Private Relay employs a dual-hop\u2026",
+    "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses"
   },
   "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html": {
     "categories": [],
@@ -14744,6 +14825,18 @@
     "source": "BleepingComputer",
     "summary": "OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro OpenAI is preparing the GPT-5.1 family for public rollout. This includes GPT-5.1 (base), GPT-5.1 Reasoning, and GPT-5.1 Pro for those who pay a $200 monthly subscription. [...]",
     "title": "OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-08-06T22:48:22+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI rolls out a major ChatGPT upgrade, even if you don\u2019t pay for it OpenAI is rolling out\u00a0a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]",
+    "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don\u2019t pay for it"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-age-prediction-model-on-chatgpt-to-detect-your-age/": {
     "categories": [
@@ -21259,6 +21352,17 @@
     "summary": "Clean GitHub repo tricks AI coding agents into running malware An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]",
     "title": "Clean GitHub repo tricks AI coding agents into running malware"
   },
+  "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-06T22:37:17+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "ClickFix attack pushes macOS infostealer for crypto theft attacks A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]",
+    "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/": {
     "categories": [
       "Security"
@@ -26112,6 +26216,17 @@
     "summary": "Healthtech firm Xolis suffers data breach impacting 1.4 million people Healthcare technology company Xsolis says that sensitive data belonging to nearly 1.4 million individuals was compromised in a phishing attack that gave attackers access to its network. [...]",
     "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people"
   },
+  "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-06T20:07:24+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to\u00a0UNC6671, an extortion group reportedly associated with the BlackFile threat act\u2026",
+    "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group"
+  },
   "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/": {
     "categories": [
       "Security"
@@ -26244,6 +26359,17 @@
     "source": "BleepingComputer",
     "summary": "How Agentic BAS AI Turns Threat Headlines Into Defense Strategies Picus Security explains why relying on LLM-generated attack scripts is risky and how an agentic approach maps real threat intel to safe, validated TTPs. Their breakdown shows how teams can turn headline threats int\u2026",
     "title": "How Agentic BAS AI Turns Threat Headlines Into Defense Strategies"
+  },
+  "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-06T14:02:12+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore AI did not create a new browser security problem. It exposed one that enterprises have long been able to ignore. Skyhigh Security explains why browsers have become a critical control point for governing data mov\u2026",
+    "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore"
   },
   "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/": {
     "categories": [
@@ -28066,6 +28192,17 @@
     "summary": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools Meta is introducing new anti-scam protections across its platforms, deploying systems and user-facing warnings to protect users against scammers. [...]",
     "title": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools"
   },
+  "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-06T16:11:39+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Meta AI model hacked a company during misconfigured cyber test Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure th\u2026",
+    "title": "Meta AI model hacked a company during misconfigured cyber test"
+  },
   "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/": {
     "categories": [
       "Security"
@@ -29759,6 +29896,17 @@
     "source": "BleepingComputer",
     "summary": "New TCLBanker malware self-spreads over WhatsApp and Outlook A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]",
     "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-06T18:03:45+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]",
+    "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes"
   },
   "https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/": {
     "categories": [
@@ -33050,6 +33198,17 @@
     "source": "BleepingComputer",
     "summary": "Suspicious Polyfill login prompts pop up on Toshiba, Muji websites Tech giant Toshiba and mega-retailer Muji warned visitors that suspicious sign-in screens popping up on their websites could collect credentials. [...]",
     "title": "Suspicious Polyfill login prompts pop up on Toshiba, Muji websites"
+  },
+  "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-06T18:14:19+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Swiss government SharePoint breach compromised 200 accounts Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]",
+    "title": "Swiss government SharePoint breach compromised 200 accounts"
   },
   "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/": {
     "categories": [
@@ -37404,6 +37563,15 @@
     "summary": "Post-Quantum Web Could be Safer, Faster Major providers are testing a quantum-safe version of HTTPS that shrinks certificates to a tenth their previous size, decreasing latency and adding transparency.",
     "title": "Post-Quantum Web Could be Safer, Faster"
   },
+  "https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf9a01e6b265bc8c2/6a74e71b469e8f1b3353e662/sandbox-diczman-GettyImages-2237058218.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-06T20:38:51+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Researcher Claims Control of ChatGPT Secure Sandbox A researcher demonstrated a proof-of-concept attack chain that provided C2-style influence over ChatGPT's isolated sandbox during a session at Black Hat USA 2026.",
+    "title": "Researcher Claims Control of ChatGPT Secure Sandbox"
+  },
   "https://www.darkreading.com/cloud-security/teampcp-breaches-cloud-saas-instances-stolen-credentials": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc0adc75ba38320bc/69cc20666d4b6c62a6224f3a/cloud_RanczAndrei_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -39017,6 +39185,15 @@
     "summary": "Congress Puts Heat on Instructure After Canvas Outage The House Committee on Homeland Security sent a letter about the Canvas cyberattack, the same day that the edtech company said it reached an &quot;agreement&quot; with the ShinyHunters cybercriminals.",
     "title": "Congress Puts Heat on Instructure After Canvas Outage"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt773d06d488d0bafb/67ae0378f9958cc7415de40e/Cybercrime_(1800)_wsf_AL_Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-06T21:42:50+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "The Coordination Gap: How Attackers Are Outpacing Law Enforcement The fight against cybercrime continues because threat actors have adapted their strategies to avoid deterrents, but law enforcement still operates in silos.",
+    "title": "The Coordination Gap: How Attackers Are Outpacing Law Enforcement"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/coyote-maverick-banking-trojans-brazil": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4b2ab9804a12c93f/6914f8d7468f86847f81b5ac/coyote_Ron_Niebrugge_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -40575,6 +40752,15 @@
     "source": "darkreading",
     "summary": "Former Citigroup CISO Blauner on What Makes A Great Security Leader The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
     "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta9b29fb5e05ae54b/6a74db9f0045cd127fea0cc4/Image_(11).jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-06T19:00:11+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture Former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support \u2013 and a dose of absurdity.",
+    "title": "From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture"
   },
   "https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook": {
     "categories": [],
