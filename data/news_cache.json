@@ -13703,6 +13703,15 @@
     "summary": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targe\u2026",
     "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users"
   },
+  "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTGemKyDLZPr_sBbt2AdOQMEBEcRFzic8_Ddtkx92vtPOfFdoiwxJ60b00usecTjHuIGUJuUIR2aB8MU2P7-GLc0NOuWsa3ctofrA2-wD38wgI4Fke3moSskWjiRJEXT8Yxl7Ye56NgGl9DZKr8zf974rHRsc1PtHie_iIPVyD18HMx49S02tGZ2EeDY/s1600/linux-sctp.jpg",
+    "published": "2026-08-07T11:10:33+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath.\n\nThe fla\u2026",
+    "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers"
+  },
   "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL4TR-PlW4MehiF4iAbWafpNUQrSuhhTuEZwgwba7Gi0mF-PfixGSlFmpsBm51WbJYfkA69ZYNjO2aWl8eE8tqdSPdJL7mvLOaYL9O6VWkfxw96YFF0Qxt1ggCurqVd2J2muf6SAjW0cCrt2UwnOO3rK76X-mBWHW1e8-2Mk6FERpS1yPrSVScImJ0TmKW/s1600/adobe-flaw.jpg",
@@ -13711,6 +13720,15 @@
     "source": "The Hacker News",
     "summary": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execu\u2026",
     "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction"
+  },
+  "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynSSg0CZ1sssmMR8F0u09LmQ82liuj5nt2aor3klmi-xPcKTmalo4JLFQ7jd2mU9Ycnltsrnw2MiVVjmlT-wcYR74Ob7NMN31KNnny14lqVRdrmj30r3yqTSxapzCmQPk9lPG7v9GDSVKQwE4ufB-jWfsx1lc2O5GNd0bHd5M6FbMNah3dcLzu2EAFXo/s1600/Desync.jpg",
+    "published": "2026-08-07T10:09:54+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 c\u2026",
+    "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day"
   },
   "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html": {
     "categories": [],
@@ -13793,6 +13811,15 @@
     "summary": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.\n\nThe security issues\u2026",
     "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs"
   },
+  "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguukj-eRhx9RtAq9X96hAxHi0IU3ZWgM_W5XkdWhF8ezevuBQygkpv-ku5PSri9Gt5hRkNVxe6HmJJr5Mg33X_PhOGziqaho9bwm-mkRZSBl2jo94XF3jRwTZOb_PocueKWJkEtvl7kG_YqmbVfUxNht8_ODzLOERIqQteMdPxnWpobM-c9-fHhn0cLMQ/s1600/claude-github.jpg",
+    "published": "2026-08-07T08:18:35+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough t\u2026",
+    "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets"
+  },
   "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyvip0I7Uu7TeEHOGkVi4gl93ktZtzWF1krMsS1XPlRcql2xIf9UU4rXjDvdrF0HPPQaFCgNhhrrp9IM0HBJgHEzweJM41lccFe19e2DYqzkk5Au2STfT_Bjzzdfp_-UibeQ2o19Rh3OTtj5nOpbEn61gKQR4w7dPpOJ_5gP4Ob8KqqYLfWwAnoZ59FCo/s1600/claude-ai-agent.jpg",
@@ -13801,6 +13828,15 @@
     "source": "The Hacker News",
     "summary": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security In\u2026",
     "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself"
+  },
+  "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKQGTQ6AquoAvAeMWXXITPacYsdChgFUpg7MLwKkfb2AylEuwQTk9av5GqMSdgtsB_tr_6QC70DrJkEo02t-Wo67z1gumix6FKKlOPSWo4fLEUHCibBoTrf1zCdmn72ESzo5CzCKKEgyETZ0FeVD_3QLfCNit7vIwlMA7MmwGYg2JGbeYOBrjSHmOnfpWl/s1600/macos.jpg",
+    "published": "2026-08-07T18:29:08+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials.\n\nThe macOS-\u2026",
+    "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets"
   },
   "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html": {
     "categories": [],
@@ -13883,6 +13919,15 @@
     "summary": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legiti\u2026",
     "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens"
   },
+  "https://thehackernews.com/2026/08/growing-up-hard-way.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz974dYXx9klEa_qhJoTHKqb5QNoQwTpxsMKoZeqsvQtvWZPgPKobw1QySvcNGgnFocbYaFaaBGsB4COPaw-fqqgOHERJEVc8sgRSjto5VCrQeIWr5Nz21r3PjMTIXmwUmvakUlP4sB3iYqF2qXiabCvrqKFyFBq3GzOUwqM7LGRV68q_Ib9zt1ilCBJo/s1600/open-source.jpg",
+    "published": "2026-08-07T11:55:26+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Growing Up The Hard Way Open Source had a great childhood.\n\nFor two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand that took IOUs from anyone who wandere\u2026",
+    "title": "Growing Up The Hard Way"
+  },
   "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-el4ovGAmKfllRfhupL0SzdEoZKlouDb1_YmhCOl3owxN1ks0Do-WphuD77rka_3ukbqvPxSmFYMdBKBirYyw0DJpvSxVP5riGBR_vd7wKwnpgZfNm0RFEDLTzsvzzQB7qGtawMvpccd700dfNM2zZeFTy9cyHf4oFyHSASKRU3gmxbMgTJRtDFsSNs/s1600/adform.jpg",
@@ -13946,6 +13991,24 @@
     "summary": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without e\u2026",
     "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft"
   },
+  "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj81b6_YckjrqqfRrJQNRdIf3nu4xfqLNScukFYEao4VeF5QNlt16sbEwrdutizdB9Q1nOWRQpqeSZg4gYZsL8cIhRSJ43XJqMKWKgdKF28oeTl19HQQ75dnOKVHsa6DtXr4zhlmIF43nbUWV5jyEh4D1TjIvBKjgoAX2MpUbjJH3cN4hd4zDvIu_t4Jec/s1600/windows-hello-keys.jpg",
+    "published": "2026-08-07T08:52:11+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft\u2026",
+    "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access"
+  },
+  "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH78NjDW1Q_sIk9dwQ1scYlCkNCMutfjGx_9flqrKbE42fEXqvHT8s5EeHTnWjbBGvzCuHPEWStR5r6wjwtIuuHF1hyphenhyphenot22E_Q98xedC1zXVhIhwglw6hLWQs45oSrPKPflK6Tt1BlHTj9iokMPpVaTehuemHGHDLL02cn2sqZJ5iIVstxiVf5IZ5Khodp/s1600/ms-phish.jpg",
+    "published": "2026-08-07T10:38:27+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 acco\u2026",
+    "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails"
+  },
   "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1H8Wx5_ZrUFksG2Tgb_6qho5XHULdP13qVeYXx1xWPPt8B2rH68XC6IhzBk-dczgsdWvpZ_dVTI7AIMsgK1EeU3B89WVUJu2N5B71FQ4GnlZDRlvNiD4pGO2hBCJGVowjUVDMSHAO_0CPlYthpa8jx-Af5OwB6ZMDr-PKTYDJKjP4pGCZZolbjbGi44/s1600/n-able.jpg",
@@ -13954,6 +14017,15 @@
     "source": "The Hacker News",
     "summary": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers.\n\nIts first fix was incomp\u2026",
     "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete"
+  },
+  "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIEXaa59LRblZ0rcBVbKDdH4w9Rszk27anNt20Onx7Li8D7FXbf3Ipod53uo3N2aa6Hj1QLJaNFDIBlrcgM3YZg0UJCsjI3maDKkFEdOeyhzis15St3QDg6WCXcYlbDRlw2WvgiOH-BL_v8I21QoSTE9kmJzzKqQwstqn11JWkAL1_9W41ZF04T-9ImaiL/s1600/npms.jpg",
+    "published": "2026-08-07T18:48:17+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems.\n\n\"These p\u2026",
+    "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer"
   },
   "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html": {
     "categories": [],
@@ -13973,6 +14045,15 @@
     "summary": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the def\u2026",
     "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs"
   },
+  "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx8dmEkj0rsX2NREBfPOczKn7zadWRaVVOyVPVeaCPzCDdBAPhocCwP1CVbX_p1pj4Q7DVYsdusvWc9u9G7lO4BGYihT6BXnXY099zIs1B1PBefH71cXCHZucxaG2gEzqKdf9B3FVr9MJ34SntVezm4gNXWSxIMF05DpYUNF6qmfhb0hMiyNpsWDOtuRE/s1600/NatJack.jpg",
+    "published": "2026-08-07T10:58:38+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DN\u2026",
+    "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables"
+  },
   "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhWC9UfjMK9e0KvUrcCjymLYZzuDDgZpArW3oZPtcds7CJ1pr1GleT46Wlm2_aWWpoe6TpgYcdnz_jhVOgjK6mnW_gekJkMotmfRiQ0xcp5v7mdx6CvVvUID0IyfSplGHGX-8JGoMJ1OLyEA96qVMTWwhEjKf21thNfvkBCg2DSgNjSkVEDyAugdcyJfk/s1600/linux-exploit.jpg",
@@ -13981,6 +14062,15 @@
     "source": "The Hacker News",
     "summary": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built r\u2026",
     "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch"
+  },
+  "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge2pF0kPrHXARehOfrgRZzC4bsZvLQSss2mm4xJwNfV53riYQHKateFgF6HvgO5WoDDzjKhc8JFT_6pD2ggOORpEuUIBbySYIy79R_UTRAB4NpEUEi3dhenfNInEROpfShqpE6cTx_VqNfL1hf6fFJpzXLV7-RiFaJguVGvF-l_Ras_0YomMVjeV4ZdfM/s1600/wordpress-xss.jpg",
+    "published": "2026-08-07T12:56:23+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be cha\u2026",
+    "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP"
   },
   "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html": {
     "categories": [],
@@ -14125,6 +14215,15 @@
     "source": "The Hacker News",
     "summary": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination addres\u2026",
     "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain"
+  },
+  "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL6-qu-cN6glV6XSy1IS7siHKdKPFmzqT3X8TQjGCa0RD33kfIQ8NfEBR5r8dbQvj1OS8L6T083igxfS1VO98xlg7MHIMysbfR_cVpdmPMcYibuMwDZ6SssIi3iryUznGL14zUByy7oRrTJe0AjgGMNti_Rcqezh7dtfyU31vyo-zft3fvR56SCsAfeHrm/s1600/vishing.jpg",
+    "published": "2026-08-07T18:16:13+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data A recent wave of cyber attacks targeting financial services, private equity, and professional services has been attributed to a data extortion group known as UNC6671.\n\n\"UNC6671 continues to rely on voice phishing (\u2026",
+    "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data"
   },
   "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html": {
     "categories": [],
@@ -24363,6 +24462,18 @@
     "summary": "Fortinet FortiWeb flaw with public PoC exploited to create admin users A Fortinet FortiWeb path traversal vulnerability is being actively exploited to create new administrative users on exposed devices without requiring authentication [...]",
     "title": "Fortinet FortiWeb flaw with public PoC exploited to create admin users"
   },
+  "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/": {
+    "categories": [
+      "Security",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-08-07T20:14:46+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Metabase SQLi zero-day exploited in customer data-theft attacks A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
+    "title": "Metabase SQLi zero-day exploited in customer data-theft attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/": {
     "categories": [
       "Security"
@@ -27493,6 +27604,17 @@
     "summary": "Lessons from the Underground: How to Combat Business Email Compromise Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out networks. Flare explores how underground forums reveal how BEC\u2026",
     "title": "Lessons from the Underground: How to Combat Business Email Compromise"
   },
+  "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-07T15:48:20+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Levi Strauss & Co. says hackers stole corporate data in cyberattack Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
+    "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack"
+  },
   "https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/": {
     "categories": [
       "Security"
@@ -30234,6 +30356,17 @@
     "summary": "NordVPN denies breach claims, says attackers have \"dummy data\" NordVPN denied allegations that its internal Salesforce development servers were breached, saying that cybercriminals obtained \"dummy data\" from a trial account on a third-party automated testing platform. [...]",
     "title": "NordVPN denies breach claims, says attackers have \"dummy data\""
   },
+  "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-07T13:34:40+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "North Carolina Ports confirms cyberattack disrupting operations The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]",
+    "title": "North Carolina Ports confirms cyberattack disrupting operations"
+  },
   "https://www.bleepingcomputer.com/news/security/north-korea-lures-engineers-to-rent-identities-in-fake-it-worker-scheme/": {
     "categories": [
       "Security"
@@ -31827,6 +31960,17 @@
     "source": "BleepingComputer",
     "summary": "React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable Over 77,000 Internet-exposed IP addresses are vulnerable to the critical React2Shell remote code execution flaw (CVE-2025-55182), with researchers now confirming that attackers have already compromised over\u2026",
     "title": "React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable"
+  },
+  "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-07T14:00:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Real emails, hijacked payments: Two H1 2026 attack chains Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurr\u2026",
+    "title": "Real emails, hijacked payments: Two H1 2026 attack chains"
   },
   "https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/": {
     "categories": [
@@ -34388,6 +34532,18 @@
     "summary": "University of Sydney suffers data breach exposing student and staff info Hackers gained access to an online coding repository belonging to the University of Sydney and stole files with personal information of staff and students. [...]",
     "title": "University of Sydney suffers data breach exposing student and staff info"
   },
+  "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/": {
+    "categories": [
+      "Security",
+      "Healthcare"
+    ],
+    "image": "",
+    "published": "2026-08-07T19:30:41+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Unlimited Technology Systems breach impacts 3.8 million people Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
+    "title": "Unlimited Technology Systems breach impacts 3.8 million people"
+  },
   "https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/": {
     "categories": [
       "Security"
@@ -36251,6 +36407,15 @@
     "source": "darkreading",
     "summary": "AI &amp; the Death of Accuracy: What It Means for Zero-Trust AI &quot;model collapse,&quot; where LLMs over time train on more and more AI-generated data and become degraded as a result, can introduce inaccuracies, promulgate malicious activity, and impact PII protections.",
     "title": "AI &amp; the Death of Accuracy: What It Means for Zero-Trust"
+  },
+  "https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51cfa43c126c431d/6a75005453cbbc62a56894c9/patches-in-denim-nnattalli-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-07T16:47:43+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "AI-Generated Patches Fail Half the Time A study of more than 6,000 patches found that even working patches can introduce new bugs, break something else, or are open to bypass.",
+    "title": "AI-Generated Patches Fail Half the Time"
   },
   "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps": {
     "categories": [],
@@ -39637,6 +39802,15 @@
     "source": "darkreading",
     "summary": "Malicious Next.js Repos Target Developers Via Fake Job Interviews Linked to North Korean fake job-recruitment campaigns, the poisoned repositories are aimed at establishing persistent access to infected machines.",
     "title": "Malicious Next.js Repos Target Developers Via Fake Job Interviews"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/meta-ai-escapes-lab-hacking-joyride": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8e864537fec413db/6a74f1f43413ca898c4c0341/Jailbreak-tiero-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-06T20:39:30+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "D\u00e9j\u00e0 Vu? Meta's AI Escapes Testing Lab in Hacking Joyride In the span of three weeks, OpenAI, Anthropic, and Meta have all disclosed AI agent sandbox escape events affecting real organizations.",
+    "title": "D\u00e9j\u00e0 Vu? Meta's AI Escapes Testing Lab in Hacking Joyride"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyber-battle-field-broadens-uae": {
     "categories": [],
