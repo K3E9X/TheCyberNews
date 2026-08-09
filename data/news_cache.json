@@ -13739,6 +13739,15 @@
     "summary": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major \u2026",
     "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory"
   },
+  "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFYjJTxVoOMkR9DDRPZ5PkeR_EWAqmBScR3TPw3mlweipGlnQKq0OdfVqR2f26QIV3kBJWQIM65f8XwMSFq3zT6Bl4fsTvkPHxJiU2LilhK9s0tcreXt2gotEpE8sKoDrLQJ3SSVY9B-RS0FsS2dC480op8OV-caeaZvNyTiIipQbeNFJGMnAcjWEVq7g/s1600/rovo.jpg",
+    "published": "2026-08-08T08:54:50+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that\u2026",
+    "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers"
+  },
   "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGMHYrRkDGf3XV_lOoUbE1UCSjvcN9x-XNpNGpX_f45JqZzd2FrxJ-metvu-U5VyDqH2PGNaY9MiSeShhH-YVN3O4ryN5lh4ICsuXtz0-DuCSAgnywXUifDOf_qZS81AtjRGNQWgs1QnL4Eu54icswla_ZK7qGoZqWDaVzPX46pmcTrvj_ec0yQwrt9k/s1600/oracle-root.jpg",
@@ -14000,6 +14009,15 @@
     "summary": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft\u2026",
     "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access"
   },
+  "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv2q8ukeawl9ALLfPnkrRkD2a9umOrSxPHUJdclgLcKj5zM8k19y-NWuTGLrV1yIU4u0F2-QbAsD4zO-NkeEuWPwDqdUYbVFDG69EgOl0v55K0Brjp7lfIb6hExJGyVj9rj5KjeZPtoU97DwoaHAi_umLzQVqpedMMt08eas1akWBhNXUZ2WHOqVXczAf4/s1600/metabase.jpg",
+    "published": "2026-08-08T06:58:31+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day.\n\nThe vulnerability (C\u2026",
+    "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication"
+  },
   "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH78NjDW1Q_sIk9dwQ1scYlCkNCMutfjGx_9flqrKbE42fEXqvHT8s5EeHTnWjbBGvzCuHPEWStR5r6wjwtIuuHF1hyphenhyphenot22E_Q98xedC1zXVhIhwglw6hLWQs45oSrPKPflK6Tt1BlHTj9iokMPpVaTehuemHGHDLL02cn2sqZJ5iIVstxiVf5IZ5Khodp/s1600/ms-phish.jpg",
@@ -14018,6 +14036,15 @@
     "summary": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers.\n\nIts first fix was incomp\u2026",
     "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete"
   },
+  "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsaNpVaG83aDE1lJwcNllVSeS-ebafbbt4FgaKHH1_4dt1i4qvCtw-dYVrE_MiWf2GZ5vyGPhyphenhyphenCieChBz2IChMJew0I1Ze2HEYJpB-j3rB2VnfNrzbFpPDD7VFkWCkYBn2CJRLpOBIKNaeKPXlVPHpz7-1Wx9go7IfyUKSVNliDO644rNsoMmAk5a3Qf_W/s1600/nc.jpg",
+    "published": "2026-08-08T06:57:43+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist N-able has released a fresh round of hotfixes for N\u2011central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) p\u2026",
+    "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist"
+  },
   "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIEXaa59LRblZ0rcBVbKDdH4w9Rszk27anNt20Onx7Li8D7FXbf3Ipod53uo3N2aa6Hj1QLJaNFDIBlrcgM3YZg0UJCsjI3maDKkFEdOeyhzis15St3QDg6WCXcYlbDRlw2WvgiOH-BL_v8I21QoSTE9kmJzzKqQwstqn11JWkAL1_9W41ZF04T-9ImaiL/s1600/npms.jpg",
@@ -14035,6 +14062,15 @@
     "source": "The Hacker News",
     "summary": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative \u2026",
     "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root"
+  },
+  "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCUnWbFb6UGu3ML1MqcuVXYwk0yoD6WzgXIQmi8ijkZQjS6M3g1F3kgV-RanNgyP1bdpNxDOOqMJzJnutZGh4MUVyYCbbu98sNXtAp-GWxueyKH9fDo3z9HmBl4tL-rj91kb11bhdhRvWGAYe56YGYMEzJgGIZeUqj9eGH10Bynj0YE6WMLl0J7O-HhLc/s1600/css-bomb.jpg",
+    "published": "2026-08-08T08:03:57+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens New research shows content inside an email can escape its message boundary and interfere with the webmail interface.\n\nAcross attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL \u2026",
+    "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens"
   },
   "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html": {
     "categories": [],
@@ -14143,6 +14179,15 @@
     "source": "The Hacker News",
     "summary": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messa\u2026",
     "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt"
+  },
+  "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_DF22WirQj4KZe5A4NxYmG3UhC2o4BRQ4AybyFlmr80n5Wkf15sbtMn11P0msoMyAe65WBqMpL2XBsqTiHdDNNH1i6qz11ydD9X4AIOoiaSfCYb1MCe7dfJD0n4TEIc5_83tsMq5zJ5zVpGbpCq7b8rACen1oMvW8XGBbz3T4hy_9J6igpOk0oCDp6vkA/s1600/progress.jpg",
+    "published": "2026-08-08T06:52:16+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress\u202fKemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catal\u2026",
+    "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts"
   },
   "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html": {
     "categories": [],
@@ -25771,6 +25816,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers breach SmarterTools network using flaw in its own software SmarterTools confirmed last week that the Warlock ransomware gang breached its network after compromising an email system, but did not impact business applications or account data. [...]",
     "title": "Hackers breach SmarterTools network using flaw in its own software"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-08T14:16:23+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers breach TrueConf to trojanize client installers with backdoors The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched\u00a0TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
+    "title": "Hackers breach TrueConf to trojanize client installers with backdoors"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/": {
     "categories": [
