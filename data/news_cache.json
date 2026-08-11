@@ -13766,6 +13766,24 @@
     "summary": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had auth\u2026",
     "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model"
   },
+  "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh96gU64z_xM5LiLI39IXPndJ1felnUkfQmWxQ2sGfE9r_yYK6AKPLV3x6uVWeZxZoEsJwy0h7OUHILX1sAbwc6MYHpIeeTvCVeH52TnCInqqjjRPW4-Sx7gPPq4abN7ltCnClrjRhDDqyON8UBxcKFjoyubm7CeEgaZos3j4OCLJdRozfEOrDX1rPsnSoF/s1600/wordpress.jpg",
+    "published": "2026-08-11T05:48:44+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable \u2026",
+    "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins"
+  },
+  "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNv5C82jT_6YlarerdXnoAR_tT3E8xP65ZWuJfpvOKU9baBT5UACUTb88XvDQgQA6RrYuqPK3FstaqwacR9gDjD0qwk3HUYl0wK848phyphenhyphenFuqRrOA1AqdISQaA6tpEqg0n2XJIA22NeNNbhei1bAgcyghnc2qaVfSvh4fd9J1oD4xVi-DQcNSOYWQovyUst/s1600/strom-ransomware.jpg",
+    "published": "2026-08-10T16:38:37+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor.\n\nThe use of StormEnc\u2026",
+    "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw"
+  },
   "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3VqhMa79pNymspvzHhSpHG4HCDAGn4nAD-7ZwQgDuSOELhM0xxHASqfnd2ThEv8XJ0tM58bPsGPHcobfoaEEWW4Am9H-Wd9bpb-QqYRQfFcFKrvbLjwEGYu0VfIAclBcVn9PpMWS02ZAtOa7hhwg8e45cYcgYYX0C1_yQptZh7-ZvqFHpf-9uqq5csbCj/s1600/router-hacking.jpg",
@@ -13937,6 +13955,15 @@
     "summary": "Growing Up The Hard Way Open Source had a great childhood.\n\nFor two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand that took IOUs from anyone who wandere\u2026",
     "title": "Growing Up The Hard Way"
   },
+  "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS_4KcVdL2QogjCtjg4yqVFuDNgQ9a8SYCzjsxUKME896DBso0Zwpvb8gH9T5gMPOqM2LU-A-7IyKOqKpKiXgLWAdiABf4RrVvAq9nNpDDC2TNppKWt9RKVXmNr2-Z9Y1kIBNVi8fETA6Aj6K2s_gU0Hmc8CKDi1q1wbqD9G9uUP5cPpuwk5h88mfD9I0/s1600/power-plant.jpg",
+    "published": "2026-08-11T06:55:45+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator use\u2026",
+    "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine"
+  },
   "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-el4ovGAmKfllRfhupL0SzdEoZKlouDb1_YmhCOl3owxN1ks0Do-WphuD77rka_3ukbqvPxSmFYMdBKBirYyw0DJpvSxVP5riGBR_vd7wKwnpgZfNm0RFEDLTzsvzzQB7qGtawMvpccd700dfNM2zZeFTy9cyHf4oFyHSASKRU3gmxbMgTJRtDFsSNs/s1600/adform.jpg",
@@ -13945,6 +13972,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses.\n\nAdform detected the inciden\u2026",
     "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites"
+  },
+  "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwaZH1uRwKD4SlLCwgb-7zVkEGjYYXdFxb21glBm3grBdwOZ_M-ECnOmNVFPPY6mg6wXUCf4R4xm9mI8mBiEm21Ixh6y9GXYvL9DKQgKEBkTN65AVQqFz9DJpMs6BRmrGWjGC5vDC-cFgx774ASr7j73D0wiRxrs9tKNdovUbwmLuGicKgcZeQR53z71bT/s1600/trueconf.jpg",
+    "published": "2026-08-10T11:33:41+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, tr\u2026",
+    "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore"
   },
   "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html": {
     "categories": [],
@@ -13990,6 +14026,15 @@
     "source": "The Hacker News",
     "summary": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026.\n\nSaf\u2026",
     "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks"
+  },
+  "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDgatgimOxtzWBp5R0l6yiMeoFVAeLE-hn-RGePbOlgUMgb3Vj9cEKav3AadjZBcppLfoDs4o-oREZ0OimLYX9WDnIRwebA4P7nVa-wh8KwHW-z7HUALW_bj2B-53kotBjkGw-6QXx-Awo3OxBlhjIwEIuueFEXLOgpT7cPpz5e_MSlD4l_FHgJocN6QA/s1600/north.jpg",
+    "published": "2026-08-10T13:19:58+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own \u2026",
+    "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development"
   },
   "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html": {
     "categories": [],
@@ -14098,6 +14143,15 @@
     "source": "The Hacker News",
     "summary": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built r\u2026",
     "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch"
+  },
+  "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWKCkGCqH-c6Yaqkd_NnzFQijViu34tjAEsdl9tl2CmZLHL4m1rLhezO76zF6XFRTGS9Sr4R3jhMD7z15QV0BMqG948bjg8SoZb_j6HtQajd0PUDR8Tmw06GMqDwS6VhAtH-ZNtD06lzb9KMhJsHi-Vvkps0n6bl6C8n6rSBHCldBuc1cMczr30h11N-8/s1600/passkeys.jpg",
+    "published": "2026-08-10T12:25:04+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on.\n\nPasskeys are designed to replace reusable passwords and \u2026",
+    "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA"
   },
   "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html": {
     "categories": [],
@@ -14216,6 +14270,15 @@
     "summary": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 20\u2026",
     "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service"
   },
+  "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3fcUJacnxspYO1ssk2-ESCQ9QYb5BBCB0-3Jk8UyWQFmKZxt8RCeYemwUlJ08y_hnkyVm4LaAq6a_oyz5BPmpuwkmephJ0K7iy6cFvPjAe-b3pQ4Q28jh3KzNqLhZ6qtecuG9jenDpeVsjpUrG9ZBEwe2WStxgh6RiOwhI_rlsxYelFv2BD31o9rhd8/s1600/chain-webinar.jpg",
+    "published": "2026-08-10T17:29:17+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.\n\nWhen\u2026",
+    "title": "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development"
+  },
   "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimtSQSbHZnqrcub_RlfzViiiKRKyucYCIYf0nqt0aWqcYJgY122xGjIRDGnvpYukopZM9DuEPjN6Lax97qyYIghxfFb_faULxhabuOJHBOVbyycVBNUVHAbb5Z8LRfnG_5xrwH__9Jbs6qmPEdopvRysLduoAn0hoANFRnNd2g24zqBTfCUK4WXtDx7eg/s1600/snowflake-hacker.jpg",
@@ -14305,6 +14368,15 @@
     "source": "The Hacker News",
     "summary": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address.\n\nIntroduced with iOS 15, iCloud Private Relay employs a dual-hop\u2026",
     "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses"
+  },
+  "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtXmkUOPD6prrNPMK9N1Rhu2dm3QFGQ2DUTiu3xrj2WWbauZ_IK2HemME36-4WBIqGh01SFOkNJuutFeXLgS_ZMUBFn5ZDzIP5_IeNrwJWDfKcOPQgZl3spOFVS8R84Hbthy6o3sx9IWJ1yRo4FiW5acGYGBrf2nljmx6yvSd55LWRrkX6JhJ9b5bHJX0g/s1600/recaps.jpg",
+    "published": "2026-08-10T15:00:29+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default.\n\nThat pretty much cove\u2026",
+    "title": "\u26a1 Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors"
   },
   "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html": {
     "categories": [],
@@ -19723,6 +19795,17 @@
     "summary": "Barts Health NHS discloses data breach after Oracle zero-day hack Barts Health NHS Trust has announced that Clop ransomware actors have stolen files from a database by exploiting a vulnerability in its Oracle E-business Suite software. [...]",
     "title": "Barts Health NHS discloses data breach after Oracle zero-day hack"
   },
+  "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-10T21:12:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "BdThemes plugins supply-chain hack creates rogue WordPress admins A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin acc\u2026",
+    "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins"
+  },
   "https://www.bleepingcomputer.com/news/security/belgian-hospital-az-monica-shuts-down-servers-after-cyberattack/": {
     "categories": [
       "Security",
@@ -20962,6 +21045,17 @@
     "summary": "CISA shares advice on isolating vital systems during cyberattacks The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major di\u2026",
     "title": "CISA shares advice on isolating vital systems during cyberattacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-10T14:34:32+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]",
+    "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/": {
     "categories": [
       "Security"
@@ -21141,6 +21235,17 @@
     "source": "BleepingComputer",
     "summary": "CISA warns of critical CentOS Web Panel bug exploited in attacks The U.S. Cybersecurity & Infrastructure Security Agency (CISA) is warning that threat actors are exploiting a\u00a0critical remote command execution flaw in CentOS Web Panel (CWP). [...]",
     "title": "CISA warns of critical CentOS Web Panel bug exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-10T09:49:37+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Critical Progress LoadMaster flaw now actively exploited in attacks The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]",
+    "title": "Critical Progress LoadMaster flaw now actively exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/": {
     "categories": [
@@ -25846,6 +25951,17 @@
     "summary": "Hackers breach TrueConf to trojanize client installers with backdoors The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched\u00a0TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
     "title": "Hackers breach TrueConf to trojanize client installers with backdoors"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-10T23:07:21+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers breached a small Polish energy plant via private APN last year Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
+    "title": "Hackers breached a small Polish energy plant via private APN last year"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/": {
     "categories": [
       "Security"
@@ -27700,6 +27816,17 @@
     "summary": "LexisNexis confirms data breach as hackers leak stolen files American data analytics company LexisNexis Legal & Professional has confirmed to BleepingComputer that hackers breached its servers and accessed some customer and business information. [...]",
     "title": "LexisNexis confirms data breach as hackers leak stolen files"
   },
+  "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-10T12:11:52+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "LexisNexis shuts down services after suspicious activity on servers LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]",
+    "title": "LexisNexis shuts down services after suspicious activity on servers"
+  },
   "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/": {
     "categories": [
       "Security"
@@ -28365,6 +28492,17 @@
     "source": "BleepingComputer",
     "summary": "Meet ShinySp1d3r: New Ransomware-as-a-Service created by ShinyHunters An in-development build of the upcoming ShinySp1d3r ransomware-as-a-service platform has surfaced, offering a preview of the upcoming extortion operation. [...]",
     "title": "Meet ShinySp1d3r: New Ransomware-as-a-Service created by ShinyHunters"
+  },
+  "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-10T12:56:28+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Member of The Com sent to prison for blackmail, sextortion A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide. [\u2026",
+    "title": "Member of The Com sent to prison for blackmail, sextortion"
   },
   "https://www.bleepingcomputer.com/news/security/men-charged-in-massive-fanduel-fraud-scheme-fueled-by-thousands-of-stolen-identities/": {
     "categories": [
@@ -30082,6 +30220,17 @@
     "summary": "New stealthy Quasar Linux malware targets software developers A previously undocumented Linux implant named Quasar Linux (QLNX) is targeting developers' systems with a mix of rootkit, backdoor, and credential-stealing capabilities. [...]",
     "title": "New stealthy Quasar Linux malware targets software developers"
   },
+  "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-10T17:42:00+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New StormEncryptor ransomware used by former Medusa affiliate A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
+    "title": "New StormEncryptor ransomware used by former Medusa affiliate"
+  },
   "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/": {
     "categories": [
       "Security"
@@ -30786,6 +30935,18 @@
     "source": "BleepingComputer",
     "summary": "OpenAI models used Artifactory zero-days to escape to the internet JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging \u2026",
     "title": "OpenAI models used Artifactory zero-days to escape to the internet"
+  },
+  "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-08-10T19:24:40+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
+    "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users"
   },
   "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/": {
     "categories": [
@@ -34997,6 +35158,17 @@
     "summary": "USB worm spreads crypto-stealing malware via Windows shortcut files Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]",
     "title": "USB worm spreads crypto-stealing malware via Windows shortcut files"
   },
+  "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-10T11:47:55+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Valve notifies Steam hardware customers of a data breach Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]",
+    "title": "Valve notifies Steam hardware customers of a data breach"
+  },
   "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/": {
     "categories": [
       "Security"
@@ -35669,6 +35841,17 @@
     "source": "BleepingComputer",
     "summary": "When cloud logs fall short, the network tells the truth Cloud logs can be inconsistent or incomplete, creating blind spots as environments scale and change. Corelight shows how network-level telemetry provides reliable visibility when cloud logs fall short. [...]",
     "title": "When cloud logs fall short, the network tells the truth"
+  },
+  "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-10T14:01:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "When Credentials Are No Longer Enough: Device Trust in the AI Era AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypass. Specops exp\u2026",
+    "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era"
   },
   "https://www.bleepingcomputer.com/news/security/when-hackers-wear-suits-protecting-your-team-from-insider-cyber-threats/": {
     "categories": [
@@ -37177,6 +37360,15 @@
     "summary": "OpenClaw's Gregarious Insecurities Make Safe Usage Difficult Malicious &quot;skills&quot; and persnickety configuration settings are just some of the issues that security researchers have found when installing \u2014 and removing \u2014 the OpenClaw AI assistant.",
     "title": "OpenClaw's Gregarious Insecurities Make Safe Usage Difficult"
   },
+  "https://www.darkreading.com/application-security/outdated-cybercrime-laws-security-researchers-risk": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdf20421ffbc03318/6a79e8f5c41e200038a8f839/cyberlaw-AlexanderSikov-Getty-2188923710.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-10T16:25:22+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Outdated Cybercrime Laws Put Security Researchers at Risk A public policy expert mapped global cybercrime laws to develop a five-point framework for protecting ethical hackers and good-faith security research.",
+    "title": "Outdated Cybercrime Laws Put Security Researchers at Risk"
+  },
   "https://www.darkreading.com/application-security/overly-permissive-salesforce-cloud-configs-crosshairs": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt96b598e2f309fd1e/69b05f485ab755030092ccd2/Salesforce_logo_SF_JHVEPhoto_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -38410,6 +38602,15 @@
     "summary": "Europe's GCVE Raises Concerns Over Fragmentation in Vulnerability Databases GCVE would enhance global collaboration, flexibility, and efficiency in tracking security flaws. Duplicate entries and a decentralization policy may create more chaos for defenders.",
     "title": "Europe's GCVE Raises Concerns Over Fragmentation in Vulnerability Databases"
   },
+  "https://www.darkreading.com/cyber-risk/ghostjacking-identity-governance-gaps-ai-agents": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7efbf6a210292d1d/6a7a43503413ca658e4c0cb9/ghosts-MediaProduction-Getty-1437542277.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-10T21:54:22+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "'GhostJacking' Exposes Identity Governance Gaps in AI Agents New research shows how attackers can use security alerts and blocked events to manipulate and hijack AI agents.",
+    "title": "'GhostJacking' Exposes Identity Governance Gaps in AI Agents"
+  },
   "https://www.darkreading.com/cyber-risk/gitlost-leaks-private-data-github-agentic-workflows": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10ffb7d3c09c15f9/6a4cd672541f2a099e941684/Unlock_Data_Breach_Pattara_Alamy.png?width=720&quality=80&disable=upscale",
@@ -38880,6 +39081,15 @@
     "source": "darkreading",
     "summary": "ShadowRay 2.0 Turns AI Clusters into Crypto Botnets A threat actor is leveraging a flaw in the Ray framework to hijack AI infrastructure worldwide and distribute a self-propagating cryptomining and data theft botnet.",
     "title": "ShadowRay 2.0 Turns AI Clusters into Crypto Botnets"
+  },
+  "https://www.darkreading.com/cyber-risk/sherlock-holmes-was-the-og-social-engineer": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltce9752dae28ee42d/6a79f6588b45c2da860963c6/GettyImages-2208642630.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-10T15:59:27+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Sherlock Holmes was the \u201cOG\u201d Social Engineer The crime solver wore disguises, spied on targets, and built intelligence networks long before modern-day tactics emerged. He has lessons for today\u2019s ethical- and nonethical-hat hackers.",
+    "title": "Sherlock Holmes was the \u201cOG\u201d Social Engineer"
   },
   "https://www.darkreading.com/cyber-risk/socgholish-takedown-malicious-tds-threats": {
     "categories": [],
@@ -41219,6 +41429,15 @@
     "summary": "Operation Red Card 2.0 Leads to 651 Arrests in Africa In the latest operation targeting cybercrime groups, African law enforcement agencies cooperated with Interpol and cybersecurity firms to recover more than $4.3 million.",
     "title": "Operation Red Card 2.0 Leads to 651 Arrests in Africa"
   },
+  "https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c385a6bd389354a/6a7a1578f0b097d1e3a7b7d0/patch_update_-Olemedia-getty-1368998829.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-10T17:56:34+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists It's time to turn from CVSS-backed patching to choke-point patching focused on breaking chains to critical assets.",
+    "title": "The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists"
+  },
   "https://www.darkreading.com/cybersecurity-operations/physical-convergence-electrical-grid-cybersecurity": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0ddd25ebea5b1966/6904f863dbd06db098f23a98/lightning-David_Mabe-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -42142,6 +42361,15 @@
     "source": "darkreading",
     "summary": "Minnesota Water Utility Attacks Expose Sector's Cyber-Risks A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure.",
     "title": "Minnesota Water Utility Attacks Expose Sector's Cyber-Risks"
+  },
+  "https://www.darkreading.com/ics-ot-security/multistate-water-system-attacks-widen-iran-suspected": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfab47f61ab6fce61/6a7a20f413d9fd35582fc0f9/Engineer_checks_water_quality-DSCimage-GettyImages-1369464717.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-10T21:34:38+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Multistate Water System Attacks Widen, Iran Suspected Attacks targeting water systems just keep flowing across a dozen states, against ill-secured, Internet-exposed PLCs.",
+    "title": "Multistate Water System Attacks Widen, Iran Suspected"
   },
   "https://www.darkreading.com/ics-ot-security/operational-technology-security-poses-inherent-risks-for-manufacturers": {
     "categories": [],
@@ -43994,6 +44222,15 @@
     "summary": "With Complex Cloud Integrations, Small Errors Lead to Major Compromises Researchers discover an exploit chain combining over-permissioned roles, secrets discovery, and non-human identities that could have compromised a popular automation service.",
     "title": "With Complex Cloud Integrations, Small Errors Lead to Major Compromises"
   },
+  "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1a18f6dd4914a8aa/6a762c446b2f1a1a02c909f7/broken_phone-miljko-GettyImages-2232965251.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-10T17:09:20+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Coruna, DarkSword iOS Exploits Proliferate Globally Sophisticated iPhone exploit chains previously limited to nation-states are spreading far and wide to organized cybercrime groups.",
+    "title": "Coruna, DarkSword iOS Exploits Proliferate Globally"
+  },
   "https://www.darkreading.com/vulnerabilities-threats/critical-flaw-langflow-ai-platform-under-attack": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33f11a57d8c3c758/69c57c3448710a1256697560/agents_CagkanSayin_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -44231,6 +44468,15 @@
     "source": "darkreading",
     "summary": "Maximum Severity HPE OneView Flaw Exploited in the Wild Exploitation of CVE-2025-37164 can enable remote code execution on HPE's IT infrastructure management platform, leading to devastating consequences.",
     "title": "Maximum Severity HPE OneView Flaw Exploited in the Wild"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/metabase-sql-zero-day-attacks-wide-blast-radius": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltac5b6cbe22b97997/6a7a3b465e4958876dc35113/blast_radius-George_Peters-GettyImages-1339899824_(1).jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-10T21:02:23+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Metabase SQL Zero-Day Attacks Could Have Wide Blast Radius The maximum-severity vulnerability, which still has no CVE, allows malicious, remote administrator access to the business-analytics platform and its downstream users.",
+    "title": "Metabase SQL Zero-Day Attacks Could Have Wide Blast Radius"
   },
   "https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch": {
     "categories": [],
