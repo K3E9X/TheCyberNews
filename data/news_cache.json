@@ -13712,6 +13712,15 @@
     "summary": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath.\n\nThe fla\u2026",
     "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers"
   },
+  "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-_ftAONA3vSU_pho_96pouqt_n3CXa1PRfS2fhilG7JBshSuPpKNZzKVFvPRASkzNSVrDj-U4sISWf8TN9fuNqgAr4g07OYcRzZ7ecqVlAkd_C1EBL2bJZBCKMA90CLSrWN_s3I2-dhBLDGuH3juBdciPUruhDBkC2826KaVwB41tr122SnxgBeWw3VM/s1600/malware-sim.jpg",
+    "published": "2026-08-11T12:05:03+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car tele\u2026",
+    "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices"
+  },
   "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL4TR-PlW4MehiF4iAbWafpNUQrSuhhTuEZwgwba7Gi0mF-PfixGSlFmpsBm51WbJYfkA69ZYNjO2aWl8eE8tqdSPdJL7mvLOaYL9O6VWkfxw96YFF0Qxt1ggCurqVd2J2muf6SAjW0cCrt2UwnOO3rK76X-mBWHW1e8-2Mk6FERpS1yPrSVScImJ0TmKW/s1600/adobe-flaw.jpg",
@@ -13829,6 +13838,15 @@
     "summary": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agen\u2026",
     "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild"
   },
+  "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIn51DQNDe2IfVEJzqiWXY9k8QyRhulSTcOh67As0Pj7Da1DCB5Lu1RBhjI55Y7_TF9PW9F9HOBn6moaPRNrpl0G_OGeMbC9z5BMfdOqtF6sHpd5tJLvQqnvlCd77R-4oCYiDVfFlUtRe4mp7W8cFDCHmJ8kz4TueVL06-jbGzpVdWasZF02YRwYyrZJc/s1600/cisco-powerhouse.jpg",
+    "published": "2026-08-12T06:15:58+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild.\n\nThe high-severity \u2026",
+    "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS"
+  },
   "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzkSwdiUeH8rB-KgSkEXrT-oNL19IyghM7Ks8UDOedxPYB5czgwO8pXNf0YUt7OHqAbRRDJkRvJffzJ0lfpEdqfLn-w-Bc9pwOa_1FNJjJkrVbD-diaZu9HRFqAlOBWogXEsZ4sSFRDW-HYmsaUmVD98QGQoyq2rHep_dwDa5ueafTUO0Lh6zsA-Czd3he/s1600/cisco-flaws.jpg",
@@ -13891,6 +13909,15 @@
     "source": "The Hacker News",
     "summary": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains.\n\nIntroduced in the JavaScript cryptography library 12 years ago, the fu\u2026",
     "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps"
+  },
+  "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHe7Kt8X_4eEC2ICocbCp-eg1Vs7xknMUYEnZzepw5j6mg7v7C7DmPvzf4S-Z4wGhofTJco3eW95xPm3x7nDEzdfF9dpJAEriyIAGsXqNcLT02br6Em30kPnD5vYp4CrHHAR8TvvNr6glr8mIeRwhPANZqTSG7w_tR1-8QUNgYWg4AXgVPrmob7CFzwLmA/s1600/deadlock.jpg",
+    "published": "2026-08-11T16:35:27+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resi\u2026",
+    "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt"
   },
   "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html": {
     "categories": [],
@@ -14036,6 +14063,15 @@
     "summary": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own \u2026",
     "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development"
   },
+  "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieGDZmdQhY70KqvppH4w5wMVhbs804WeageCN1UXtRK4KpFkYWNk-wkTeTv9CUSNGYQMsaZ04XYWimXsIQmfl0uYSFgNJe7uBbXsg1xPw-cukXwJY3O3TAHUpWiiYmleWgDpu4PLMRfjgIQtOxb6Wq2yFjvqyb6lpoCOcOyWOpZoURLpddzyGkmc8soRHe/s1600/android-botnet.jpg",
+    "published": "2026-08-11T19:36:37+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilien\u2026",
+    "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing"
+  },
   "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1pOdsqya8FoeUfRoysn2429wQSGELUYOuuaDRT5-pJMERQc7DY042ndusTV0UriGHrR98oyPe_HnR845R1hxSxKBTvYGTilYobQhIIXOCEc08FiKbhDluP0UoR6g3sw8QK-X1aPEJDKe-EZbDNOtlXR6ltGBvxsqfB_bo-jO4t63OvT7_C1mD7Bf4rM/s1600/n8n-git.gif",
@@ -14071,6 +14107,24 @@
     "source": "The Hacker News",
     "summary": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 acco\u2026",
     "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails"
+  },
+  "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HtkIdWjqoYaSkO4edq9d5ZotqTE-LNMM14UlVoPaVKw2hwBahFYrPkB3jttURH0gcBXxCDtyHhiGMAIrxCX74gYCb_ivX4INmfRzt7HRb-bPTNt1lV-nUQm_pHQQHrhUwx4JWS7DtAzOZ1etx-yjPAVrNJXGBltqXjHPSI5NcfnWQqYurz0LK-dRRMo/s1600/aug-ms-patch.jpg",
+    "published": "2026-08-11T20:10:55+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks.\n\nThe bug sits in a core Windows kernel driver that handles network sock\u2026",
+    "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack"
+  },
+  "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV1-B4O1t_ddtTQg7WCfQLhdWxNygkI3C3DHfugd_0ogZbFCixAf-J9IffSq3KuSSPDofAEj5wNrVHlzRx3qbj7cPQhbBfnvOXOAJxjTSJ_7rdtZe3ne_R4Yz7Gv_7VrNH8CyB8psfzpejy9EbohuyYW3G1pg4FChDRVv8WPxp8B449rGIXnS4WSoD5JI/s1600/firefox.jpg",
+    "published": "2026-08-11T12:04:51+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake to one of the company's own private cod\u2026",
+    "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo"
   },
   "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html": {
     "categories": [],
@@ -14189,6 +14243,15 @@
     "summary": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enfo\u2026",
     "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes"
   },
+  "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEFEJ72sE5G8XpyLqNLnPaYpMcgnUe7K9XLKyJD3zxcwPABaJlkkFpiQd4p3GW4TSWg-eDlFRplyPtmKQjfHR7OwsvO0hOJQo8xmzqxpXy1v1k1VLpxFVs2Nghd6IDGpAcraSGGUYI1_pnFQ8A3Tcox-iKzHIayhoCiXMJPska8cfsiTvNd6dmSMLKEUmN/s1600/openai-exploit.jpg",
+    "published": "2026-08-11T13:11:23+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development OpenAI on Monday unveiled a new cybersecurity-focused model called GPT\u20115.6\u2011Cyber that it said is focused on vulnerability research, penetration testing, and incident response.\n\n\"Built on GPT\u20115.6 Sol, it\u2026",
+    "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development"
+  },
   "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgat4Wvo6Fpe6pNG66UengjFIWRohQUVp-khyphenhyphenxa57n9Ued3-mWlDeeTQkblpAP-OEjgSCbY0n1bC_MhI3a5_BF1bWq7rBohkS2DG1AXUtcDI8MuWPRMFKGNdteA7_Xkg-_6w-y-wao14ZPQWoRF8cnbibQYHUAGP1byqwYyBpcyvCBQd0h2fe6t94zvoa4j/s1600/openai-astra.jpg",
@@ -14269,6 +14332,60 @@
     "source": "The Hacker News",
     "summary": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 20\u2026",
     "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service"
+  },
+  "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIGgelUshBcG56Nc5uWqBbhQwtUxWtNgSIRTCiJXZoJtkuTWeXEV0KiWRje-UhGGnrvf6wNOmmBGQ7yAxKNigAuJE00RicY4ris0k02Dd_1ch7_RcSM2aJtGvgf4miSazvFMNEqTmVDY3nlDT1zPwg5vkafqzMwbkFRZ1kO4xU2mzZgfxAEUTM0zObjGE/s1600/nk.jpg",
+    "published": "2026-08-11T11:35:03+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers Security researchers invented a cryptocurrency startup, advertised developer jobs, and hired three people they believe were North Korean operatives. Every virtual machine the company issued \u2026",
+    "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers"
+  },
+  "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbDSDTAbeeAZ8pykGFRAGcCDs_3LZBuD8tYUJfh0jG35r_o84zM_bNo7q3TWcoEMPmZqvhzucujEF72b2c2HnzfDjowsj4Iw4psQEwcgADR_rVMCXVw18arcpSB0WLblkZeypa-bgJPsD0qwrqBUk2umKezFZTtuDpbi_kQlsGUSiveb2suBMRyc3oZhQ/s1600/admin.jpg",
+    "published": "2026-08-11T16:47:44+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done thro\u2026",
+    "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE"
+  },
+  "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIoEoCsvghUx_eKGXl-WAFq7pyoOLwg_Sk9a5Ne8vX1Cb7l_DOib3wtO_5NwoogbHqFvU_VWJZd3ceL5ftpWOX5qNx5HNJCmD4_RR7GaiExk0ph2F3sp5eKPthiuTcmnDlJQyvUdkTMfxBUsIlXp_I9-qkSi4zxwVnLPb9bG-T3zFC7oFCI1Mps4VJf1s/s1600/pnp.gif",
+    "published": "2026-08-11T10:48:26+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11 Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated W\u2026",
+    "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11"
+  },
+  "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP9vK0AfjfbpQDa7i5il113N22qO5N-mxuOw7qoNVnvUOnQIYRjhuKA8rxdRhaZ13t0r5jZtsj1bjQQatdbdxi3L1Fso99wsDJIAKkw6NVklb6S2PBfipUtUm6qNdGofjKrmSAHUc0P4qgPRK2tDoGftkwyD17KQHQm6cYP80rT4dUH-tg0rnd5SSfQBJl/s1600/interview.jpg",
+    "published": "2026-08-11T18:36:47+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the \u2026",
+    "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands"
+  },
+  "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbIbhajZdWb8FMAsUCcL8bufmUEbpuTCSFvKhvJgecxUZcO3rH1QV1bVNrOJ1W8oqge3sBIMwmHZxXR9l1PyrOGDEuAZZJkwFBmMlFGWwjU5-3CDmUQsz08HzrZ23kg9HSv3X7MrOryUe-T-PZCmpr8csna-nQcAg-b3RSeWiWsHuaBFAiJmjTrVI5WBQM/s1600/sap.jpg",
+    "published": "2026-08-12T07:31:40+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution.\n\nThe vulnerability, assigned the CVE \u2026",
+    "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code"
+  },
+  "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9fX7D-qoT4QD3pjSuUtavTiarjtyitt3-JMji-nzNa8XTKefzPp2QGMAR6FkLA8r8Ll9VVFHCMEJSKWgi5Gk0GOdYU4RA1itDyf8ZQc12IXczcxoGHKXcJ9GAWUv-fPaRhRXnDyFfxo9nhjQoJbBPxQQbixY9RxaR_Oz_NrHD2P_EMER6yKTV3nWCSAoq/s1600/zero-day.jpg",
+    "published": "2026-08-12T06:41:38+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called Shie\u2026",
+    "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access"
   },
   "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html": {
     "categories": [],
@@ -14395,6 +14512,15 @@
     "source": "The Hacker News",
     "summary": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise.\n\nThat assumption is starting to break.\n\nSecurity teams have long estimated risk by rank\u2026",
     "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted"
+  },
+  "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIX-dcsP7VVws3iI-g-myaz7Wyt8fgrlR9U3CtweEsSriOayyy8r9uyB_1mVcMhSBPyulDXj47SOLsWhl7XQjgMpLYGSjF79fiMTw7zEVOAceKqtAlHCVAMs38paehT0bmDN1zdAyMjHgvdUfYzqRCGEU1StMPyrYW5xIkJzG6DIHh9R9gemNCus_Mwlc/s1600/zoomsday.jpg",
+    "published": "2026-08-11T19:08:47+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's.\n\nThe flaw sat in the annotation t\u2026",
+    "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/": {
     "categories": [
@@ -15970,6 +16096,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft asks admins to reach out for Windows IIS failures fix Microsoft has asked\u00a0businesses to reach out for advice on how to temporarily\u00a0mitigate a Message Queuing (MSMQ)\u00a0issue causing\u00a0enterprise apps and Internet Information Services (IIS) sites to fail. [...]",
     "title": "Microsoft asks admins to reach out for Windows IIS failures fix"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-11T18:08:50+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+    "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/": {
     "categories": [
@@ -18186,6 +18324,18 @@
     "summary": "Windows 10 KB5075039 update fixes broken Recovery Environment Microsoft has released the\u00a0KB5075039\u00a0Windows Recovery Environment update for Windows 10 to fix a long-standing issue\u00a0that prevented some users from accessing the Recovery environment. [...]",
     "title": "Windows 10 KB5075039 update fixes broken Recovery Environment"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-08-11T18:26:03+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft releases Windows 10 KB5120249 extended security update Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
+    "title": "Microsoft releases Windows 10 KB5120249 extended security update"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/": {
     "categories": [
       "Microsoft",
@@ -18456,6 +18606,18 @@
     "source": "BleepingComputer",
     "summary": "Windows 11 KB5101684 update released with 42 changes and fixes \u200b\u200bMicrosoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]",
     "title": "Windows 11 KB5101684 update released with 42 changes and fixes"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-08-11T17:38:42+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 KB5121003 & KB5120240 cumulative updates released Microsoft has released Windows 11\u00a0KB5121003\u00a0and\u00a0KB5120240\u00a0cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+    "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released"
   },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/": {
     "categories": [
@@ -20666,6 +20828,18 @@
     "summary": "CISA: High-severity Linux flaw now exploited by ransomware gangs CISA confirmed on Thursday that a high-severity privilege escalation flaw in the Linux kernel is now being exploited in ransomware attacks. [...]",
     "title": "CISA: High-severity Linux flaw now exploited by ransomware gangs"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-08-11T12:12:16+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [...]",
+    "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/": {
     "categories": [
       "Security",
@@ -21475,6 +21649,17 @@
     "summary": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks. [...]",
     "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-11T19:45:31+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
+    "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices"
+  },
   "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/": {
     "categories": [
       "Security"
@@ -21496,6 +21681,17 @@
     "source": "BleepingComputer",
     "summary": "Cisco warns of FMC static credential flaw exploited in zero-day attacks Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access\u2026",
     "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-11T11:03:01+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Cisco warns of high-severity ClamAV flaws with public exploits Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]",
+    "title": "Cisco warns of high-severity ClamAV flaws with public exploits"
   },
   "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/": {
     "categories": [
@@ -22860,6 +23056,28 @@
     "summary": "Data breach exposes up to 14.2 million email logins at six ISPs Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the country. [...]",
     "title": "Data breach exposes up to 14.2 million email logins at six ISPs"
   },
+  "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-11T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "DDoS attacks over 1 Tbps surged fivefold in the second quarter Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]",
+    "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter"
+  },
+  "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-11T22:15:22+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "DeadLock ransomware uses blockchain to resist infrastructure takedown The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
+    "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown"
+  },
   "https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/": {
     "categories": [
       "Security"
@@ -22891,6 +23109,17 @@
     "source": "BleepingComputer",
     "summary": "Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know Three seconds of audio is all it takes to clone a voice for fraud. Adaptive Security shows how deepfake calls trick employees into sending real money\u2014and why most defenses don't catch them. [...]",
     "title": "Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know"
+  },
+  "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-11T18:34:23+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]",
+    "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees"
   },
   "https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/": {
     "categories": [
@@ -25526,6 +25755,18 @@
     "source": "BleepingComputer",
     "summary": "Google says 90 zero-days were exploited in attacks last year Google Threat Intelligence Group (GTIG) tracked 90 zero-day vulnerabilities actively exploited throughout 2025, almost half of them in enterprise software and appliances. [...]",
     "title": "Google says 90 zero-days were exploited in attacks last year"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/": {
+    "categories": [
+      "Security",
+      "Google"
+    ],
+    "image": "",
+    "published": "2026-08-12T01:15:55+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]",
+    "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse"
   },
   "https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/": {
     "categories": [
@@ -28960,6 +29201,19 @@
     "source": "BleepingComputer",
     "summary": "Mozilla Firefox gets new anti-fingerprinting defenses Mozilla announced a major privacy upgrade in Firefox 145 that reduces even more the number of users vulnerable to digital fingerprinting. [...]",
     "title": "Mozilla Firefox gets new anti-fingerprinting defenses"
+  },
+  "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/": {
+    "categories": [
+      "Security",
+      "Linux",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-08-11T13:20:28+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Mozilla updates GPG signing key for Firefox releases after exposure Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub. [...]",
+    "title": "Mozilla updates GPG signing key for Firefox releases after exposure"
   },
   "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/": {
     "categories": [
@@ -32648,6 +32902,17 @@
     "summary": "Sandworm hackers linked to failed wiper attack on Poland\u2019s energy systems A cyberattack targeting Poland's power grid in late December 2025 has been linked to the Russian state-sponsored hacking group Sandworm, which attempted to deploy a new destructive data-wiping malware dubbe\u2026",
     "title": "Sandworm hackers linked to failed wiper attack on Poland\u2019s energy systems"
   },
+  "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-11T21:07:24+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Sandworm hackers target IT pros with trojanized WireGuard VPN client Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
+    "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client"
+  },
   "https://www.bleepingcomputer.com/news/security/sandworm-hackers-use-data-wipers-to-disrupt-ukraines-grain-sector/": {
     "categories": [
       "Security"
@@ -35158,6 +35423,17 @@
     "summary": "USB worm spreads crypto-stealing malware via Windows shortcut files Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]",
     "title": "USB worm spreads crypto-stealing malware via Windows shortcut files"
   },
+  "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-11T13:15:24+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains why organizations need to define agent intent and continuously\u2026",
+    "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk"
+  },
   "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/": {
     "categories": [
       "Security"
@@ -35676,6 +35952,17 @@
     "source": "BleepingComputer",
     "summary": "WebRAT malware spread via fake vulnerability exploits on GitHub The WebRAT malware is now being distributed through GitHub repositories that claim to host proof-of-concept\u00a0exploits for recently disclosed vulnerabilities. [...]",
     "title": "WebRAT malware spread via fake vulnerability exploits on GitHub"
+  },
+  "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-11T15:59:35+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Wesco confirms security incident after ExfilSquad claims data theft Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. [...]",
+    "title": "Wesco confirms security incident after ExfilSquad claims data theft"
   },
   "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/": {
     "categories": [
@@ -37288,6 +37575,15 @@
     "source": "darkreading",
     "summary": "Microsoft's Zero-Day Legal Threats Spark Backlash After a disgruntled security researcher published several zero-day exploits in recent weeks, Microsoft seemingly indicated criminal charges were in order.",
     "title": "Microsoft's Zero-Day Legal Threats Spark Backlash"
+  },
+  "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltff4a30148731b710/6a7b8cee356eb8abac637ca4/patch_tomeqs_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-11T21:42:34+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Microsoft's Patch Tuesday Deluge Continues With August Updates Security experts say prioritization should be the main focus for the August updates, not the massive CVE volume.",
+    "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates"
   },
   "https://www.darkreading.com/application-security/microsofts-starts-2026-bang-zero-day": {
     "categories": [],
@@ -39898,6 +40194,15 @@
     "source": "darkreading",
     "summary": "A Good Year for North Korean Cybercriminals North Korea shifted its strategy to patiently target &quot;bigger fish&quot; for larger payouts, using sophisticated methods to execute attacks at opportune times.",
     "title": "A Good Year for North Korean Cybercriminals"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt468a31de0930ebef/6a7b87a0f0b097cbb1a7bb39/ransomware-jittawit.21-Getty-2178699306.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-11T21:16:25+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA The ransomware-as-a-service operation is finding success against critical infrastructure targets with leaked Conti code and old flaws in firewalls and VPN appliances.",
+    "title": "Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/hackers-breach-senegal-national-biometric-database": {
     "categories": [],
