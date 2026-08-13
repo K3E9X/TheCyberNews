@@ -13712,6 +13712,15 @@
     "summary": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath.\n\nThe fla\u2026",
     "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers"
   },
+  "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI8aMtoRcWh4THmHEumFrk1X_t6xuq3Z6RsJwVKoyozs0nuRDIc7ffcIFNr5dFuUgTeeKZ0KLdeFoeHRRSFgqcTvK4VaO54Js2FADwBztN4Qlf0L8viPKGCY7lVEHF50K2xOaopCphCPL0ooDKna2E3S_4R4UzOsuh9m8dK4XQMo98_b6GjKqHRi_lm38i/s1600/chrome-plugins.jpg",
+    "published": "2026-08-12T14:09:50+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route\u2026",
+    "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One"
+  },
   "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-_ftAONA3vSU_pho_96pouqt_n3CXa1PRfS2fhilG7JBshSuPpKNZzKVFvPRASkzNSVrDj-U4sISWf8TN9fuNqgAr4g07OYcRzZ7ecqVlAkd_C1EBL2bJZBCKMA90CLSrWN_s3I2-dhBLDGuH3juBdciPUruhDBkC2826KaVwB41tr122SnxgBeWw3VM/s1600/malware-sim.jpg",
@@ -13729,6 +13738,15 @@
     "source": "The Hacker News",
     "summary": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execu\u2026",
     "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction"
+  },
+  "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj36vXq6xqWIDA09DIFwTp0gAZyTEpTdUoOrczmHr0NAOmxBDBySv4K6oEmzSup0sZylULeZlzf2unPADh99H5kx8-oktejFUPTM2t5aM6WrdTy99m6Qs12z4A58UYbqU2LhZRa20yY9FGy8FFB-pMvUFsA3MolrrA4nYOWVf9IS42Y0vUn3sMtu0BCty3g/s1600/adobe-cve.jpg",
+    "published": "2026-08-12T11:13:03+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and p\u2026",
+    "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws"
   },
   "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html": {
     "categories": [],
@@ -13765,6 +13783,24 @@
     "source": "The Hacker News",
     "summary": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable \u2026",
     "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access"
+  },
+  "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_e1WsuZlqC_AfMpdI4wXB0wzIA6nGpPb5ktYmwO5jRhFqH2t56eGghhYAV7he6u0qTqiPacKD-Wf3c1vXxUmBV159KAObOJUTEDGdDafl9B0makdRgyKTUwWHZ5qxLpGbWRg33JJl_0KaY0K0fiWLaV2xghWX4KqUSeaoNgD9Z5ql1Q5VesZQyH-1eO7W/s1600/poc.jpg",
+    "published": "2026-08-13T06:09:48+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.\n\nThe vulnerability in question is CVE-2026-55040 (CVSS scor\u2026",
+    "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release"
+  },
+  "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuo4K_GT6YrQhFiPQrrf58NN4PQM0_aYVTxWXeaJ1KsqjBJ69c746Hj6DyhGH-uzhZvEowVR8YMbITHBpOcT3OQevcTJg36qwJ1WfPtFZySMVg_B2JVBE763_JVHh3gn563WAYxf72bnd1g9QC2tkWd6Bbm9_TWXPhMxk1vnk6gxnUM4eDQNxXouVEtJ9i/s1600/vmware.jpg",
+    "published": "2026-08-12T09:01:54+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.\n\nThe vulnerability in question is CVE-2026-593\u2026",
+    "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access"
   },
   "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html": {
     "categories": [],
@@ -13928,6 +13964,15 @@
     "summary": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader \u2026",
     "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT"
   },
+  "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoBNKr6YWBC4uPzzXNZNX_sduYkalrtPSfiT01s6R6tq9uRzAs8TRoyv0DSwM-Wy_RmiGv923yzsB1DK3mgg5vudYdTwIk7wubUJYB0f-6AADquodryt0KofkU5aKxKaKBLirP1A0PuaBC_lfWEYJKlthyphenhyphencmmT2WBQkIRLLFLI5kWKZcJWY5rxrN-qa2M/s1600/picuss.jpg",
+    "published": "2026-08-12T11:41:34+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Enterprise Defenses Recovered at the Edge and Collapsed Inside Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none.\n\nAccording to Picus Labs' new Blue Report 2026, which measured more than 338 million real at\u2026",
+    "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside"
+  },
   "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi35nnI5-o_HtA0Eunk4tOFM1lg12NrqY7HrDNBbee-kPWR-BHHxXQtd-Tj3b7FrMlTOcWNC63XgVV9n0FEoD-G4ydCpmBv2g1PjvS-lzopLbMnODHbNL2bGMJ6nOYXST9M83vc9IYZaUOjkUqaa4Xo-LaAOtXu3bRhYAcVIUwxgDNMifc6xWI27VVca_B4/s1600/screenconnect.jpg",
@@ -14072,6 +14117,15 @@
     "summary": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilien\u2026",
     "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing"
   },
+  "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1jrzxrBozKDsDhAGM8SBKcqbTE4M0zWSJqfp709iguQU21GwUzshBdYSvKkicSkfQD1bNsYhROcsx5p5vAT3jyM90H6w6p8imCjtLbHySKnpGKlsQqfSS-BhcdHNuwJKFPZfBiVkh49xDvJbRI-rvfBKePL6CeHYIWOpwvGG0T-ha3x__xznmdsYybs9v/s1600/windows-shell.jpg",
+    "published": "2026-08-12T17:39:27+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor t\u2026",
+    "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor"
+  },
   "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1pOdsqya8FoeUfRoysn2429wQSGELUYOuuaDRT5-pJMERQc7DY042ndusTV0UriGHrR98oyPe_HnR845R1hxSxKBTvYGTilYobQhIIXOCEc08FiKbhDluP0UoR6g3sw8QK-X1aPEJDKe-EZbDNOtlXR6ltGBvxsqfB_bo-jO4t63OvT7_C1mD7Bf4rM/s1600/n8n-git.gif",
@@ -14080,6 +14134,15 @@
     "source": "The Hacker News",
     "summary": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without e\u2026",
     "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft"
+  },
+  "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjTLayRrpqM-bUGPU8pmWZIGJ_TCnkLLvykLv9Z_-R-QFmC1f6nIxSff2TTqZ77xC1n-l7Y44qKhUVdvRX9bUgNjVcGhF7A0vkRGnumHe6-bUoCFNH4PAb11zHkdjq3Xd2kF1jiGi8quRW4WFOy-0I_CRCorkQGuh9D2K8KhDAFxzsA7a0yxp2VkM-uGo/s1600/llmhack.jpg",
+    "published": "2026-08-12T08:04:52+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and ot\u2026",
+    "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations"
   },
   "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html": {
     "categories": [],
@@ -14233,6 +14296,15 @@
     "source": "The Hacker News",
     "summary": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which th\u2026",
     "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data"
+  },
+  "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZP21lJn1EY_0JXWBul8gpBgRD_ryI4ACYqFiu6icbKCgIMyta9UqjQrtnzjTkO1Yi9tdzTaQw6X949lzMwtQPKUPPIxA5_EwFjJqjMDwBtFSc56vaCyybwJNcsjVZMfMW4KHQ_VVCjz3AVeovFEtsI8ENZTQmQuc9rDIF5yd0n9uciJmwqlWS_EKf5mo/s1600/ai-models.jpg",
+    "published": "2026-08-12T11:47:38+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, includ\u2026",
+    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning"
   },
   "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html": {
     "categories": [],
@@ -15889,6 +15961,18 @@
     "source": "BleepingComputer",
     "summary": "Critical Windows Netlogon RCE flaw now exploited in attacks The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vulnerability in attacks\u2026",
     "title": "Critical Windows Netlogon RCE flaw now exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-12T12:25:37+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers leverage new Microsoft SharePoint exploit in attacks Hackers have already begun using a\u00a0proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability,\u00a0published by cybersecurity company Rapid7 on Tuesday. [...]",
+    "title": "Hackers leverage new Microsoft SharePoint exploit in attacks"
   },
   "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/": {
     "categories": [
@@ -19490,6 +19574,18 @@
     "summary": "Android 17 to expand banking scam call and privacy protections Android 17, expected to roll out next month, will introduce several security and privacy features focused on device theft, threat detection, and banking scam calls. [...]",
     "title": "Android 17 to expand banking scam call and privacy protections"
   },
+  "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/": {
+    "categories": [
+      "Security",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-08-12T22:22:57+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Android malware combo takes out loans and relays victims' credit cards A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]",
+    "title": "Android malware combo takes out loans and relays victims' credit cards"
+  },
   "https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/": {
     "categories": [
       "Security"
@@ -21747,6 +21843,17 @@
     "source": "BleepingComputer",
     "summary": "Citrix urges admins to patch NetScaler flaws as soon as possible Citrix has patched two NetScaler ADC and NetScaler Gateway vulnerabilities, one of which is very similar to the CitrixBleed and CitrixBleed2 flaws exploited in zero-day attacks in recent years. [...]",
     "title": "Citrix urges admins to patch NetScaler flaws as soon as possible"
+  },
+  "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-12T23:07:23+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals An ongoing data theft campaign uses custom\u00a0tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]",
+    "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals"
   },
   "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/": {
     "categories": [
@@ -24470,6 +24577,17 @@
     "summary": "FBI warns of fake FIFA websites running World Cup fraud schemes The FBI is warning of fake websites impersonating FIFA ahead of the 2026 World Cup, to steal personal and financial information, sell fake tickets and hospitality packages, and push other fraud related to the event. \u2026",
     "title": "FBI warns of fake FIFA websites running World Cup fraud schemes"
   },
+  "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-12T14:15:09+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "FBI: Hackers target online accounts to steal nude photos The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos. [...]",
+    "title": "FBI: Hackers target online accounts to steal nude photos"
+  },
   "https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/": {
     "categories": [
       "Security"
@@ -26303,6 +26421,17 @@
     "summary": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin Hackers are leveraging a critical authentication bypass vulnerability in the WordPress plugin Burst Statistics to obtain admin-level access to websites. [...]",
     "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-12T20:54:59+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]",
+    "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-flaw-in-jobmonster-wordpress-theme/": {
     "categories": [
       "Security"
@@ -27100,6 +27229,17 @@
     "source": "BleepingComputer",
     "summary": "Hugging Face warns an autonomous AI agent hacked its network The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system. [...]",
     "title": "Hugging Face warns an autonomous AI agent hacked its network"
+  },
+  "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-12T18:54:57+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Hundreds of fake Chrome VPN extensions route traffic through a proxy More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]",
+    "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy"
   },
   "https://www.bleepingcomputer.com/news/security/hyundai-autoever-america-data-breach-exposes-ssns-drivers-licenses/": {
     "categories": [
@@ -27977,6 +28117,17 @@
     "source": "BleepingComputer",
     "summary": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp International law enforcement agencies cleaned nearly 15,000 malware-infected WordPress websites and took down more than 100 servers linked to the SocGholish botnet and the\u00a0Evil Corp Russian cybercrime group.\u2026",
     "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp"
+  },
+  "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-12T15:38:08+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Lazarus hackers exploited Windows zero-day to target defense firms North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
+    "title": "Lazarus hackers exploited Windows zero-day to target defense firms"
   },
   "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/": {
     "categories": [
@@ -30161,6 +30312,18 @@
     "summary": "Ivanti: Max severity Sentry flaw allows code execution as root Ivanti has patched two critical vulnerabilities in its Sentry secure mobile gateway solution, including a maximum-severity flaw that enables remote attackers to execute code with root privileges. [...]",
     "title": "Ivanti: Max severity Sentry flaw allows code execution as root"
   },
+  "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-08-12T10:15:22+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
+    "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges"
+  },
   "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/": {
     "categories": [
       "Security",
@@ -31769,6 +31932,18 @@
     "summary": "PirloTV sports piracy network disrupted as 44 domains seized A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains. [...]",
     "title": "PirloTV sports piracy network disrupted as 44 domains seized"
   },
+  "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-08-12T16:05:12+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access Security researchers have disclosed new \"Plug and Pwn\" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [.\u2026",
+    "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access"
+  },
   "https://www.bleepingcomputer.com/news/security/plushdaemon-hackers-hijack-software-updates-in-supply-chain-attacks/": {
     "categories": [
       "Security"
@@ -33241,6 +33416,17 @@
     "summary": "SHub macOS infostealer variant spoofs Apple security updates A new variant of the 'SHub' macOS infostealer uses AppleScript to show a fake security update message and installs a backdoor. [...]",
     "title": "SHub macOS infostealer variant spoofs Apple security updates"
   },
+  "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-12T11:21:42+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Signal adds new security feature to thwart man-in-the-middle attacks \u200bSignal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]",
+    "title": "Signal adds new security feature to thwart man-in-the-middle attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/": {
     "categories": [
       "Security"
@@ -34316,6 +34502,17 @@
     "source": "BleepingComputer",
     "summary": "The silent \u201cStorm\u201d: New infostealer hijacks sessions, decrypts server-side New \"Storm\" infostealer skips local decryption, sending browser data to attacker servers. Varonis shows how server-side decryption enables session hijacking, bypassing passwords and MFA. [...]",
     "title": "The silent \u201cStorm\u201d: New infostealer hijacks sessions, decrypts server-side"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-12T14:01:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and biometri\u2026",
+    "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In"
   },
   "https://www.bleepingcomputer.com/news/security/the-top-3-browser-sandbox-threats-that-slip-past-modern-security-tools/": {
     "categories": [
@@ -37086,6 +37283,15 @@
     "source": "darkreading",
     "summary": "Axios NPM Package Compromised in Precision Attack The NPM package for Axios, a popular JavaScript HTTP client library, was briefly compromised this week, possibly by North Korean threat actors.",
     "title": "Axios NPM Package Compromised in Precision Attack"
+  },
+  "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9d4b34421b322d00/6a7cd6b1cff117fe2ff5b3b3/Belgium-alxpin-GettyImages-2159495100.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-13T07:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Belgium's eID Authentication Opens Citizen Accounts to RCE The trust framework underlying Belgium's electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general.",
+    "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE"
   },
   "https://www.darkreading.com/application-security/bronze-butler-apt-exploits-zero-day-vuln-root-japan": {
     "categories": [],
@@ -40374,6 +40580,15 @@
     "summary": "Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of.",
     "title": "Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbcd2c419f66a3c63/6a3ae54669022cd7ac4f9ae3/datatheft-mikkelwilliam-Getty-2152310845.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-12T21:08:54+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Long-running Data Theft Campaign Targeting Salesforce, ServiceNow The &quot;City-Forum&quot; campaign has been active since at least March 2025 and has targeted organizations across multiple sectors with custom tooling.",
+    "title": "Long-running Data Theft Campaign Targeting Salesforce, ServiceNow"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/lorem-ipsum-malware-clickfix-delivery": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfe24b349ccd004b9/6a30716a4159275a05cb9773/loremipsum_M_rehan330_shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -40516,6 +40731,15 @@
     "source": "darkreading",
     "summary": "Ransomware Attack Puts a Chill On Japanese Frozen-Food Chain A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.",
     "title": "Ransomware Attack Puts a Chill On Japanese Frozen-Food Chain"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltba3b338ea83088a3/6a7b96d08c0da329167a21fa/colombia-flag-digital-muhammadtoqeer-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-12T14:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition Attackers continue to target critical infrastructure and government-linked organizations in the country, mirroring the increased activity across Latin America.",
+    "title": "Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hospitals-tv-irl": {
     "categories": [],
@@ -41980,6 +42204,24 @@
     "source": "darkreading",
     "summary": "US Stands Out in Refusal to Sign UN Cybercrime Treaty The agreement aims to help law enforcement prosecute cross-border cybercrime, but the final treaty could allow unchecked surveillance and human-rights abuses, critics say; and, it includes no protection for pen testers.",
     "title": "US Stands Out in Refusal to Sign UN Cybercrime Treaty"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2a664b4c9f102c54/67041e74357c961dfaad7427/Natee_Jindakum-CISO-icons-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-12T12:41:03+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Walmart Leaders Transform Security Operations Without Going Bananas The big-box giant has scaled its defenses by encouraging trust and innovation. Good communications, transparency, and team spirit are key factors.",
+    "title": "Walmart Leaders Transform Security Operations Without Going Bananas"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbb5edf0a88cbf30a/65fca59bf356d6040a45b27b/collab-Aleksei_Gorodenkov-alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-12T16:28:04+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Walmart's &quot;Trusted Agent&quot; Approach to Purple Teaming Walmart co-locates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
+    "title": "Walmart's &quot;Trusted Agent&quot; Approach to Purple Teaming"
   },
   "https://www.darkreading.com/cybersecurity-operations/white-house-cyber-strategy-prioritizes-offense": {
     "categories": [],
