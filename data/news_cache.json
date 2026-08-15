@@ -15107,6 +15107,18 @@
     "summary": "Google's Personal Intelligence links Gmail, Photos and Search to Gemini Google is rolling out 'Personal Intelligence,' a new Gemini feature that pulls your data from Gmail, Photos, Google Search, and other products. [...]",
     "title": "Google's Personal Intelligence links Gmail, Photos and Search to Gemini"
   },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-08-14T23:24:17+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "How Anthropic plans to watermark Claude's AI-generated text It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]",
+    "title": "How Anthropic plans to watermark Claude's AI-generated text"
+  },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-google-gemini-3-pro-and-nano-banana-2-could-launch-soon/": {
     "categories": [
       "Artificial Intelligence",
@@ -23140,6 +23152,17 @@
     "summary": "Ex-data analyst stole company data in $2.5M extortion scheme A North Carolina man was found guilty of extorting a D.C.-based technology company while still being employed as a data analyst contractor. [...]",
     "title": "Ex-data analyst stole company data in $2.5M extortion scheme"
   },
+  "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-14T08:27:18+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Data analyst sent to prison for stealing data, extorting employer A former data analyst contractor for Brightly Software has been sentenced to two years in prison for targeting his employer in a $2.5 million extortion scheme. [...]",
+    "title": "Data analyst sent to prison for stealing data, extorting employer"
+  },
   "https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/": {
     "categories": [
       "Security",
@@ -26322,6 +26345,18 @@
     "summary": "Hackers arrested for hijacking and selling 610,000 Roblox accounts The Ukrainian police have arrested three individuals who hacked more than 610,000 Roblox gaming accounts and sold them for a profit of $225,000. [...]",
     "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-08-14T18:04:26+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers arrested over \u20ac30M bank fraud exploiting service provider flaw Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank\u2026",
+    "title": "Hackers arrested over \u20ac30M bank fraud exploiting service provider flaw"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/": {
     "categories": [
       "Security"
@@ -26596,6 +26631,18 @@
     "source": "BleepingComputer",
     "summary": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
     "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/": {
+    "categories": [
+      "Security",
+      "Apple"
+    ],
+    "image": "",
+    "published": "2026-08-14T14:59:55+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
+    "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/": {
     "categories": [
@@ -28852,6 +28899,17 @@
     "source": "BleepingComputer",
     "summary": "Max severity Ni8mare flaw lets hackers hijack n8n servers A maximum severity vulnerability dubbed \"Ni8mare\"\u00a0allows remote, unauthenticated attackers to take control over locally deployed instances of the N8N\u00a0workflow automation platform. [...]",
     "title": "Max severity Ni8mare flaw lets hackers hijack n8n servers"
+  },
+  "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-14T13:45:18+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Max severity SAP Commerce Cloud flaw now targeted in attacks A maximum-severity SAP Commerce Cloud\u00a0remote code execution vulnerability patched three days ago\u00a0is already being targeted in attacks, according to threat intelligence company Defused. [...]",
+    "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/": {
     "categories": [
@@ -32836,6 +32894,17 @@
     "summary": "Rhadamanthys infostealer disrupted as cybercriminals lose server access The Rhadamanthys infostealer operation has been disrupted, with numerous \"customers\" of the malware-as-a-service reporting that they no longer have access to their servers. [...]",
     "title": "Rhadamanthys infostealer disrupted as cybercriminals lose server access"
   },
+  "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-14T10:52:05+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "RingCentral data breach exposed info of 1.6 million accounts The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
+    "title": "RingCentral data breach exposed info of 1.6 million accounts"
+  },
   "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/": {
     "categories": [
       "Security"
@@ -33415,6 +33484,17 @@
     "source": "BleepingComputer",
     "summary": "ShapedPlugin update flow hacked to infect WordPress sites Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack that distributed infected releases to paying customers via the vendor's official update system. [...]",
     "title": "ShapedPlugin update flow hacked to infect WordPress sites"
+  },
+  "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-14T11:55:45+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Shell investigates 'potential incident' after Clop data theft claims Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
+    "title": "Shell investigates 'potential incident' after Clop data theft claims"
   },
   "https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/": {
     "categories": [
@@ -34503,6 +34583,17 @@
     "source": "BleepingComputer",
     "summary": "The \u2018Miasma\u2019 worm source code briefly leaked on GitHub The Miasma credential-stealing attack framework, which has recently targeted open-source ecosystems through supply-chain attacks, was briefly open-sourced on GitHub. [...]",
     "title": "The \u2018Miasma\u2019 worm source code briefly leaked on GitHub"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-14T14:00:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defe\u2026",
+    "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI"
   },
   "https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/": {
     "categories": [
@@ -39903,6 +39994,15 @@
     "summary": "Wartime Usage of Compromised IP Cameras Highlight Their Danger The list of countries exploiting Internet-connected cameras to give them eyes inside their adversaries' borders continues to expand. What should companies look out for?",
     "title": "Wartime Usage of Compromised IP Cameras Highlight Their Danger"
   },
+  "https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21c605763d0c60ea/6a7e01ffe9f4a6e313766046/boardroom-FangXiaNuo-Getty-618946910.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-14T14:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "What Boards Need to Know About Tech Risk Why do so many boards underestimate technology risk until it becomes a crisis?",
+    "title": "What Boards Need to Know About Tech Risk"
+  },
   "https://www.darkreading.com/cyber-risk/why-an-engineering-focused-ciso-can-be-a-liability": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9d232a31f5187e5/667f1e12628e435b221eb306/CISO(1800)-ronstik-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -40958,6 +41058,15 @@
     "source": "darkreading",
     "summary": "Scope of Salesforce Attacks Expands as Icarus Leaks Data More victims have emerged after attackers breached application vendor Klue and used its OAuth tokens to steal customers' Salesforce data.",
     "title": "Scope of Salesforce Attacks Expands as Icarus Leaks Data"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt82eda035ca3e22ea/6a7f3bb6faf5c1cbf257cd7b/Edinburgh-StephenBridger-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-14T15:58:50+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well.",
+    "title": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/sesameop-backdoor-openai-api-covert-c2": {
     "categories": [],
@@ -42036,6 +42145,15 @@
     "source": "darkreading",
     "summary": "Bridging the Skills Gap: How Military Veterans Are Strengthening Cybersecurity From intelligence analysts to surface warfare officers, military veterans of all backgrounds are successfully pivoting to cybersecurity careers and strengthening the industry's defense capabilities.",
     "title": "Bridging the Skills Gap: How Military Veterans Are Strengthening Cybersecurity"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf878ea5b4a138a7/6a7f5e48b01ed02ddabd5447/standardchartered1800_winhorse_GettyImages-1344776566.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-14T19:24:18+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Mission-Driven Security: Inside a Global Bank's Defense In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both defen\u2026",
+    "title": "Mission-Driven Security: Inside a Global Bank's Defense"
   },
   "https://www.darkreading.com/cybersecurity-operations/name-that-toon-mark-security-progress": {
     "categories": [],
@@ -43138,6 +43256,15 @@
     "summary": "Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions Cisco joins a growing list of security platform providers that are betting that securing the agentic workforce means turning identity into the primary control plane.",
     "title": "Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions"
   },
+  "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta34684778cb8b0db/682deb002835ee067393fc41/Mergers_M&A_(1800)_pichetw_Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-14T12:17:21+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Cyera's Oasis Security Buy Is All About AI Agent Control The $1 billion deal aims to converge data security and identity into a single control plane for agents, with privileged access redefined around business context rather than static roles.",
+    "title": "Cyera's Oasis Security Buy Is All About AI Agent Control"
+  },
   "https://www.darkreading.com/identity-access-management-security/delinea-strongdm-acquisition-highlights-changing-role-pam": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7ea610a15c2e225b/6706fbc3dd85ad377e33a095/identity-ArtemisDiana-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -44134,6 +44261,15 @@
     "summary": "'JackFix' Attack Circumvents ClickFix Mitigations A new ClickFix variant ratchets up the psychological pressure to 100 and addresses some technical mitigations to classic ClickFix attacks.",
     "title": "'JackFix' Attack Circumvents ClickFix Mitigations"
   },
+  "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt893479ef58bbf0b0/6a7b71ae9cb490661e220bfd/Jewel_bug-suksaeng-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-13T10:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "'Jewelbug' APT Balances State Espionage &amp; Cryptocurrency Theft Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel.",
+    "title": "'Jewelbug' APT Balances State Espionage &amp; Cryptocurrency Theft"
+  },
   "https://www.darkreading.com/threat-intelligence/latam-2x-more-cyberattacks-us": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte1cd634b9beee8ce/69a88bfbe1448425e71dc52c/Latin_America-Adina_Tovy_Art_Directors-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -44660,6 +44796,15 @@
     "summary": "Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug The proof-of-concept exploit code runs only 10 lines long, but luckily, a patch is already available.",
     "title": "Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug"
   },
+  "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf82784f3cda996ab/6a7f597749a6b3967594a791/tsunami-John_Lund-Getty-114571378.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-14T17:32:46+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to \u2026 AI Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer.",
+    "title": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to \u2026 AI"
+  },
   "https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7ca89dcf72fee586/69f255bfcd45aa3d1af505f0/ehr_pandpstock001_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -45066,6 +45211,15 @@
     "source": "darkreading",
     "summary": "Fortinet Woes Continue With Another WAF Zero-Day Flaw A second zero-day vulnerability in its web application firewall (WAF) line has come under attack, raising more questions about the vendor's disclosure practices.",
     "title": "Fortinet Woes Continue With Another WAF Zero-Day Flaw"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf3a1b76742bf9f5e/6a7e21b20030f83b5312474b/vmware-MaboHH-Getty-474325206.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-13T20:45:17+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Global Threat Campaign Hits Critical VMware vCenter Flaw Exploitation against CVE-2026\u201359310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat.",
+    "title": "Global Threat Campaign Hits Critical VMware vCenter Flaw"
   },
   "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap": {
     "categories": [],
