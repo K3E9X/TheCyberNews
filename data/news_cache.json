@@ -30054,6 +30054,17 @@
     "summary": "New EvilTokens service fuels Microsoft device code phishing attacks A new malicious kit called EvilTokens integrates device code phishing capabilities, allowing attackers to hijack Microsoft accounts and provide advanced features for business email compromise attacks. [...]",
     "title": "New EvilTokens service fuels Microsoft device code phishing attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-15T14:14:38+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]",
+    "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes"
+  },
   "https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/": {
     "categories": [
       "Security",
