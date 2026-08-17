@@ -14702,6 +14702,18 @@
     "summary": "Anthropic confirms Claude is down in a worldwide outage Claude appears to be having a major outage right now, with elevated errors reported across all platforms. [...]",
     "title": "Anthropic confirms Claude is down in a worldwide outage"
   },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-08-16T22:28:57+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Anthropic confirms Claude is down in major outage affecting multiple services Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]",
+    "title": "Anthropic confirms Claude is down in major outage affecting multiple services"
+  },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/": {
     "categories": [
       "Artificial Intelligence",
@@ -28199,6 +28211,17 @@
     "summary": "Laravel Lang packages hijacked to deploy credential-stealing malware A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute mali\u2026",
     "title": "Laravel Lang packages hijacked to deploy credential-stealing malware"
   },
+  "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-16T17:29:52+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Large-scale DDoS attacks disrupted Threema secure messaging service Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]",
+    "title": "Large-scale DDoS attacks disrupted Threema secure messaging service"
+  },
   "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/": {
     "categories": [
       "Security"
@@ -29688,6 +29711,17 @@
     "source": "BleepingComputer",
     "summary": "New Amaranth Dragon cyberespionage group exploits WinRAR flaw A new threat actor called Amaranth Dragon,\u00a0linked to APT41 state-sponsored Chinese operations, exploited the\u00a0CVE-2025-8088 vulnerability in WinRAR in espionage attacks on government and law enforcement agencies. [...]",
     "title": "New Amaranth Dragon cyberespionage group exploits WinRAR flaw"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-16T15:07:44+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web br\u2026",
+    "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control"
   },
   "https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/": {
     "categories": [
@@ -33179,6 +33213,17 @@
     "source": "BleepingComputer",
     "summary": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]",
     "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison"
+  },
+  "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-16T23:47:06+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "SafePal data breach impacts 39,798 customers, stolen info for sale Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be\u2026",
+    "title": "SafePal data breach impacts 39,798 customers, stolen info for sale"
   },
   "https://www.bleepingcomputer.com/news/security/salesforce-investigates-customer-data-theft-via-gainsight-breach/": {
     "categories": [
