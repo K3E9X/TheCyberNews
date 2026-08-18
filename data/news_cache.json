@@ -13766,6 +13766,15 @@
     "summary": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major \u2026",
     "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory"
   },
+  "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhudlXOxVGnImI0OoIDMwrIy0pc2zaf1aV0B4ga_QSrt5UPX5G_BJl76VvdEUxkxJ4pjopKLsohJrwVwBgS0a-xLJvW7ZvCPvG3ezz_5vY1ABYZnysPR-ZFvVlEXVdZkCWuuHp2IAra5N3IgH_Lf8wuwVF7hx4zYXf0qF7MyOC8M83ZpQVQ5jcjzbLP4Jq/s1600/apple-screenshare.jpg",
+    "published": "2026-08-15T07:24:04+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC-NL) has\u2026",
+    "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner"
+  },
   "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFYjJTxVoOMkR9DDRPZ5PkeR_EWAqmBScR3TPw3mlweipGlnQKq0OdfVqR2f26QIV3kBJWQIM65f8XwMSFq3zT6Bl4fsTvkPHxJiU2LilhK9s0tcreXt2gotEpE8sKoDrLQJ3SSVY9B-RS0FsS2dC480op8OV-caeaZvNyTiIipQbeNFJGMnAcjWEVq7g/s1600/rovo.jpg",
@@ -13820,6 +13829,15 @@
     "summary": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable \u2026",
     "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins"
   },
+  "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu-MyaPNuRr2_NJ_TMqLf7OYW5AzCqgHpQ6HMfxlc-qsMzwSkfWlZDbHfecZ3IRp639FVDelhMZgpbnN87Fdchoh-g08R-cAiXxr7RvfdGy_ihvMxg152HK-rbOTIOnEueRTnPT-wU0eID3vplpIN1GBClvJC5e0egCGpDb_H0ykwH1x6a4zOvpW8V-Ssy/s1600/google.jpg",
+    "published": "2026-08-17T17:41:06+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel.\n\nRu\u2026",
+    "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic"
+  },
   "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNv5C82jT_6YlarerdXnoAR_tT3E8xP65ZWuJfpvOKU9baBT5UACUTb88XvDQgQA6RrYuqPK3FstaqwacR9gDjD0qwk3HUYl0wK848phyphenhyphenFuqRrOA1AqdISQaA6tpEqg0n2XJIA22NeNNbhei1bAgcyghnc2qaVfSvh4fd9J1oD4xVi-DQcNSOYWQovyUst/s1600/strom-ransomware.jpg",
@@ -13855,6 +13873,15 @@
     "source": "The Hacker News",
     "summary": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following rep\u2026",
     "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises"
+  },
+  "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW_d5c3hAfK37Zdlctl3fWxMgNXEsGKNJ9Fwf0LvHSV75qdLLYHAnyy7Le8aziJ58ma6YA83clBQQwK0xqG-lmeat7Z9bcTEaV4hmNl_SJL5iAh3r1Q4w8vk4b87pQHiGgorzFqyAYUcGXgkSyXA-0ZN1FTjC6ztxhHceoMJr-Qf-B0giZ1ZEC74B4FKL7/s1600/cisa-ray.jpg",
+    "published": "2026-08-18T06:34:20+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\n\u2026",
+    "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE"
   },
   "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html": {
     "categories": [],
@@ -13937,6 +13964,15 @@
     "summary": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A \u2026",
     "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup"
   },
+  "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLiZpsYdSdkh6GE1rDDV3XVwWiGdjWBlx3B1irY9V5RtHt1cv7sQYPaa16y78EJdluo3FTMr5Wq0O2ZCWZjRMdrewgLrGJS3Ii_NLOQKQKN18PEGHhDiSyJtvf8TpdFrrIplaynGWNVmUxdAkyL7E8h_GtKfog8EE_TV25SySHFqbQgK3ChyphenhyphenKaKktnUic/s1600/gitlab.jpg",
+    "published": "2026-08-17T21:03:04+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow a\u2026",
+    "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects"
+  },
   "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOLyOOoRbj7XXsr5asbHmKbRetYhjWcAZap4b6VUBQ3ENWpeB46A78vztXFJGUDMDHNskXyUMH6yu9Quv-WLut657FS4Dk4-SICypcAVTLuI7fYUxC7Y4qEUI6A8NMIS-GZ8KkzjRULoNZAPD1TIamWyp-T5vgrjMDQKMD0lmR6pZU8P4VeOwWEo7KxWA/s1600/CRYPTOJS.jpg",
@@ -13973,6 +14009,15 @@
     "summary": "Enterprise Defenses Recovered at the Edge and Collapsed Inside Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none.\n\nAccording to Picus Labs' new Blue Report 2026, which measured more than 338 million real at\u2026",
     "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside"
   },
+  "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIDrkyaW1magTuvTfLfkhtk_8stt1zYUxgonTZX1yaI_OGxsGMV9wCRE8bglbRubclVma7bkghEbmah6ku4T2ZVnpSngl6k5Cw0iCXgNNpuy6I2ZNPQOYYIfqKNgcVQxkqZdgvFLLM82bK1By0hrAm4i9slLnFQwQmwLmpR8I9eb8Paze2sf2UJMlol81Q/s1600/linux-botnet.jpg",
+    "published": "2026-08-17T09:29:55+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn\u2026",
+    "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies"
+  },
   "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi35nnI5-o_HtA0Eunk4tOFM1lg12NrqY7HrDNBbee-kPWR-BHHxXQtd-Tj3b7FrMlTOcWNC63XgVV9n0FEoD-G4ydCpmBv2g1PjvS-lzopLbMnODHbNL2bGMJ6nOYXST9M83vc9IYZaUOjkUqaa4Xo-LaAOtXu3bRhYAcVIUwxgDNMifc6xWI27VVca_B4/s1600/screenconnect.jpg",
@@ -13990,6 +14035,15 @@
     "source": "The Hacker News",
     "summary": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit AI is moving incredibly fast, and every security leader is feeling the pressure to keep up.\n\nAI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize \u2026",
     "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit"
+  },
+  "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Jfag1_E06odK7mkATjCOSPdD_fHy2kcYYHfi9fDNTsk0CRkV2yJD0Uz4MV82XjbMR5QNyK3Akw5Ysf0N7fDQ3DwApNb5Tf9R4axktScKF3UZlMVtrY3ulTzrYjFviMA8HmIUCBZhxmR59TtnJ7xf-B_iJtl3SWiBZAFbOfhUoldNdZX0sOStx6ULNMSZ/s1600/wordpress-flaw.jpg",
+    "published": "2026-08-17T18:22:09+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susce\u2026",
+    "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads"
   },
   "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html": {
     "categories": [],
@@ -14062,6 +14116,15 @@
     "source": "The Hacker News",
     "summary": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its\u2026",
     "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware"
+  },
+  "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmy_mE0_W-wEeuppBUYhS19P_uTo6RifgrGEV5eLim_B6KkhI_BO5wSL930qS_NCD6aR7nL5mAizU4RAfinzkWhz-oq1wCnHszL6C25H0Sj_MahJIBsr7lw_wzJ7xZ4YF7-GVJJO0L1wxe8LQXv3rHuLV3vbuDUEQ9D7vXa6D4zK6ARD1aFmiQv4fka5Y/s1600/keeper.png",
+    "published": "2026-08-17T11:58:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "How MCP Servers Can Expose Enterprise Secrets MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into th\u2026",
+    "title": "How MCP Servers Can Expose Enterprise Secrets"
   },
   "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html": {
     "categories": [],
@@ -14441,6 +14504,15 @@
     "summary": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the \u2026",
     "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands"
   },
+  "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8_2sx5UM3v1F5xNjCrlFAeBp6t7ioSfSER_6yl7jFtH3NvB_wwrwdT2Njk21qvm5m_dh2UZ3u-3UnZOWSz9sawqkuPmg0FLwuOEeLYhMlqP8lWjeXhg7ETTrRx19wiPebTSCcGeqC-Gz3zpiYPZz69kKTlL2mWSO1xW_-RotwAT4poWJ8VhQ6yklDDebs/s1600/sap-flaw.jpg",
+    "published": "2026-08-15T08:38:46+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts.\n\nThe vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring \u2026",
+    "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch"
+  },
   "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbIbhajZdWb8FMAsUCcL8bufmUEbpuTCSFvKhvJgecxUZcO3rH1QV1bVNrOJ1W8oqge3sBIMwmHZxXR9l1PyrOGDEuAZZJkwFBmMlFGWwjU5-3CDmUQsz08HzrZ23kg9HSv3X7MrOryUe-T-PZCmpr8csna-nQcAg-b3RSeWiWsHuaBFAiJmjTrVI5WBQM/s1600/sap.jpg",
@@ -14468,6 +14540,15 @@
     "summary": "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.\n\nWhen\u2026",
     "title": "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development"
   },
+  "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJW5BJKjwNfnH2t8RrvgW0wUO3_ZJWnw30aS6GlU9qoaOWMQcyoZ9ZOZmTgLo7hWAqHlKDK2b4MrtF23Jv_1-1Ffd6bo6VlR8exLvIISBANwjHnW3dv7wLgCtyCIDlndpJ67TajeEpN-Ww9eVVutmS4fTpcDPJtlAk_ZU0GLtnkDvYLlqWPv75uMH7ob__/s1600/snowflake.jpg",
+    "published": "2026-08-17T18:44:17+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection Cybersecurity researchers at Wiz&nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public&nbsp;snowflakedb/snowflake-connector-net repository that it said could be e\u2026",
+    "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection"
+  },
   "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimtSQSbHZnqrcub_RlfzViiiKRKyucYCIYf0nqt0aWqcYJgY122xGjIRDGnvpYukopZM9DuEPjN6Lax97qyYIghxfFb_faULxhabuOJHBOVbyycVBNUVHAbb5Z8LRfnG_5xrwH__9Jbs6qmPEdopvRysLduoAn0hoANFRnNd2g24zqBTfCUK4WXtDx7eg/s1600/snowflake-hacker.jpg",
@@ -14485,6 +14566,15 @@
     "source": "The Hacker News",
     "summary": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet and credentia\u2026",
     "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials"
+  },
+  "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5GzIjo1DOb9leWRsG7hi5zemNCi6kb_NBf-391nF9pphXhTgf8DZLMlk-fUyp-j4rT_cFv4coBpP821rfQkUc4ydAu5YQBcn9Y6nj-SeQGDNu10DmSN2JYDmWJTzLUSXsvDYPTBQ_cQkkCFAIkdMCyRgRv5YIPdMgkp62BtqaYE49b3aWnm4QbYM7YeK/s1600/vmware.jpg",
+    "published": "2026-08-17T07:36:19+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT).\n\nThe atta\u2026",
+    "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware"
   },
   "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html": {
     "categories": [],
@@ -14540,6 +14630,15 @@
     "summary": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data A recent wave of cyber attacks targeting financial services, private equity, and professional services has been attributed to a data extortion group known as UNC6671.\n\n\"UNC6671 continues to rely on voice phishing (\u2026",
     "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data"
   },
+  "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIqVuTpKFLy55ilEFObjJqUsVDu7qTrQCYAFsh7bbMcF4xv61h8I6tfue0tGw04yWGhDg_cZ-r0v9Jw-kjNmm5ZYpbebrvlgixiqID5pSUwXb8dQSg12cI5kFkR4BKK0mwc6rMP-9ULTHob-bi7rgfYxGBixmNhGy75tlqn5tlc6OXjpGGZemXbq0yHRY/s1600/android.jpg",
+    "published": "2026-08-17T10:52:34+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call,\u2026",
+    "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access"
+  },
   "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDed_n3TJGLHvhq2MkwkQTsKgIv_rOw24MRfYCoHnHiOK7r-VbitMrwXXF9H_Gwbegba20Dla1FLyK70-OQRVxiHfikBFrz6jei3QK5u4ApbR4aYuLikQj1YHU2IzA1V4fnR7Wgcp8H1NoYzSeTTOUd4dNTuE71jNUNq-P4yk0H9FkW55wivMDdNe0nE/s1600/veeam.jpg",
@@ -14575,6 +14674,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks\u2026",
     "title": "\u26a1 Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks"
+  },
+  "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObgx3d_pR3qN3UrW69UfMgB-yM7RmfpKrQjvzqtAsNaQ3nVsIKNIiz5p0BsZCppmE4BWH9Wle92WombnIdCdT0BsHkv-_lDcEdIkYvsGrnch6OQHbAr3FUj-QjM8aDdKPNdnez6SXczT4sXNn8KX4QgmG6BiapFhq35I0cdZckWblyoaTVr7rjY5idp5V/s1600/cyber-recap.jpg",
+    "published": "2026-08-17T13:23:51+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain p\u2026",
+    "title": "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More"
   },
   "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html": {
     "categories": [],
@@ -16329,6 +16437,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft confirms April Windows updates cause backup failures Microsoft has confirmed that\u00a0the April 2026 security updates are causing\u00a0failures in third-party backup applications using the psmounterex.sys driver. [...]",
     "title": "Microsoft confirms April Windows updates cause backup failures"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-08-17T14:47:08+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft confirms GitHub is down worldwide GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
+    "title": "Microsoft confirms GitHub is down worldwide"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/": {
     "categories": [
@@ -18794,6 +18914,17 @@
     "summary": "Windows Server 2022 reach end of mainstream support in 90 days Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. [...]",
     "title": "Windows Server 2022 reach end of mainstream support in 90 days"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-08-17T12:33:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows Server 2022 reaches end of mainstream support in 60 days Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
+    "title": "Windows Server 2022 reaches end of mainstream support in 60 days"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/": {
     "categories": [
       "Microsoft"
@@ -20530,6 +20661,17 @@
     "source": "BleepingComputer",
     "summary": "CERT-EU: European Commission hack exposes data of 30 EU entities The European Union's Cybersecurity Service (CERT-EU) has attributed\u00a0the European Commission cloud hack to the TeamPCP threat group, saying the resulting\u00a0breach exposed the data of\u00a0at least 29 other Union entities. [\u2026",
     "title": "CERT-EU: European Commission hack exposes data of 30 EU entities"
+  },
+  "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-17T14:00:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Certighost and the Privilege Hiding in Your Certificate Authority CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity inf\u2026",
+    "title": "Certighost and the Privilege Hiding in Your Certificate Authority"
   },
   "https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/": {
     "categories": [
@@ -25203,6 +25345,17 @@
     "summary": "Over 73,000 French govt employees affected in Tchap messenger breach The French government revealed that a recent breach of its Tchap\u00a0encrypted messaging platform affects the accounts of over 73,000 employees in the\u00a0French public sector. [...]",
     "title": "Over 73,000 French govt employees affected in Tchap messenger breach"
   },
+  "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-17T10:09:48+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "French tax authority data breach affects 678,000 individuals The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
+    "title": "French tax authority data breach affects 678,000 individuals"
+  },
   "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/": {
     "categories": [
       "Security"
@@ -26178,6 +26331,17 @@
     "source": "BleepingComputer",
     "summary": "Hacker charged with stealing $53 million from Uranium crypto exchange U.S. prosecutors have charged a Maryland man with stealing more than $53 million after hacking the Uranium Finance crypto exchange twice and laundering the proceeds through a cryptocurrency mixer. [...]",
     "title": "Hacker charged with stealing $53 million from Uranium crypto exchange"
+  },
+  "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-17T19:35:01+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hacker claims 3.6 million Azure account records stolen from major companies A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
+    "title": "Hacker claims 3.6 million Azure account records stolen from major companies"
   },
   "https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/": {
     "categories": [
@@ -29376,6 +29540,18 @@
     "summary": "Windows PowerShell now warns when running Invoke-WebRequest scripts Microsoft says Windows PowerShell now warns when running scripts that use the Invoke-WebRequest cmdlet to download web content, aiming to prevent potentially risky code from executing. [...]",
     "title": "Windows PowerShell now warns when running Invoke-WebRequest scripts"
   },
+  "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-08-17T09:05:33+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft working on Defender patch for ShieldBreak zero-day Microsoft is working on a security patch for the \"ShieldBreak\" zero-day vulnerability disclosed last week by security researcher \"Nightmare Eclipse\" and now tracked as CVE-2026-69414. [...]",
+    "title": "Microsoft working on Defender patch for ShieldBreak zero-day"
+  },
   "https://www.bleepingcomputer.com/news/security/mississippi-medical-center-reopens-clinics-hit-by-ransomware-attack/": {
     "categories": [
       "Security",
@@ -32026,6 +32202,17 @@
     "summary": "Pharma giant Novo Nordisk discloses breach of clinical trials data Danish pharmaceutical giant Novo Nordisk, the world's largest producer of insulin, disclosed a data breach affecting patient information from some clinical trials. [...]",
     "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data"
   },
+  "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-17T11:25:02+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Philips and GE investigating Clop ransomware data theft claims Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
+    "title": "Philips and GE investigating Clop ransomware data theft claims"
+  },
   "https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-freight-and-logistics-orgs-in-the-us-europe/": {
     "categories": [
       "Security"
@@ -32123,6 +32310,17 @@
     "source": "BleepingComputer",
     "summary": "\u2018PlushDaemon\u2019 hackers hijack software updates in supply-chain attacks The China-aligned advanced persistent threat (APT) tracked as 'PlushDaemon' is hijacking software update traffic to deliver malicious payloads to its targets. [...]",
     "title": "\u2018PlushDaemon\u2019 hackers hijack software updates in supply-chain attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-17T19:12:39+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Pok\u00e9mon Center data breach exposes customer info, cancels some orders Pok\u00e9mon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider\u2026",
+    "title": "Pok\u00e9mon Center data breach exposes customer info, cancels some orders"
   },
   "https://www.bleepingcomputer.com/news/security/poland-arrests-suspect-linked-to-phobos-ransomware-operation/": {
     "categories": [
@@ -39541,6 +39739,15 @@
     "summary": "Lies, Damned Lies, and Cybersecurity Metrics A panel of five C-suite leaders discuss how cybersecurity success is measured and why it isn't improving results.",
     "title": "Lies, Damned Lies, and Cybersecurity Metrics"
   },
+  "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt998467101da3f975/6a82f98ac19d9402c559c55d/robot-army-laurent-davoust-alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-17T15:44:34+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure.",
+    "title": "Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS"
+  },
   "https://www.darkreading.com/cyber-risk/lotus-wiper-attack-targeted-venezuelan-energy-firms-utilities": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt27befbbaecad74c3/69f124563c5d47a2fe8e421d/pdsva-oil-tanks-venezuela-JBula_62-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -43532,6 +43739,15 @@
     "summary": "Supply Chain Attack Embeds Malware in Android Devices Keenadu downloads payloads that hijack browser searches, commit ad fraud, and execute other actions without user knowledge.",
     "title": "Supply Chain Attack Embeds Malware in Android Devices"
   },
+  "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3b0d5e1880afeee0/6a836ae7cff1172eaef5b7c9/videocall_Kumeko_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-17T21:37:23+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Video Call Exploit Chains Two Flaws in Unisoc Modems Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone.",
+    "title": "Video Call Exploit Chains Two Flaws in Unisoc Modems"
+  },
   "https://www.darkreading.com/mobile-security/will-ai-save-consumers-smartphone-phishing-attacks": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt92bbd581a26f98dc/69b314eb2c4f15f849268d6e/fish_hook_with_money_Maria_Dryfhout_Alamy_Stock_Photo.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -44720,6 +44936,15 @@
     "summary": "Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets The Chinese state-sponsored cyber threat is known for moving fast and trying odd attack vectors; now it's branching out in tools, victimology, and TTPs.",
     "title": "Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets"
   },
+  "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb353cb4eb8945ff6/6a1f007a2897886e9b11fcab/aiagents-Suchat_longthara-getty-2229177564.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-17T20:26:34+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "'Turf War' Between Claude Agents Leads to Self-Replicating Malware Three testing models with the same goal but different directives engaged in &quot;increasingly aggressive&quot; territorial attacks on one another, according to Anthropic.",
+    "title": "'Turf War' Between Claude Agents Leads to Self-Replicating Malware"
+  },
   "https://www.darkreading.com/threat-intelligence/tycoon-2fa-europol-vendors-bust-phishing-platform": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7163a88b2f20f5ed/69a9ee069650c6c1a0c029bf/phishing_MartynVickery_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -44842,6 +45067,15 @@
     "source": "darkreading",
     "summary": "4 Critical Threats Where Attackers Have the Advantage Gartner analysts issued a call to action to bolster defenses against several emerging critical threats, such as deepfakes and prompt injections.",
     "title": "4 Critical Threats Where Attackers Have the Advantage"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta4c77c772869411d/6a83561717bbfe3606553de5/Wright_and_Shostack_at_News_Desk.png?width=720&quality=80&disable=upscale",
+    "published": "2026-08-17T19:22:56+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Adam Shostack Talks Hugging Face &amp; PHANTOM-B World-class threat modeler Adam Shostack shared he was &quot;blown away&quot; by OpenAI's revelations about the Hugging Face attack, and explains why his new threat model for LLMs is both &quot;lightweight yet still usable.&quot;",
+    "title": "Adam Shostack Talks Hugging Face &amp; PHANTOM-B"
   },
   "https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug": {
     "categories": [],
