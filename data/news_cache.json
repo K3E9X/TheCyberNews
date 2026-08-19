@@ -13694,6 +13694,15 @@
     "summary": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover.\n\nThe vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affe\u2026",
     "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover"
   },
+  "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9BsXf9I7m4IoC0hb3fSwYiBJsaB1_vSj9kGhfi0HsWGeR0xVl_W1O_Z0bd6IxvQ-vUQP5FDsj5mpiwUjv72JG3vNdViDwAKDG1uswOPDfb84xN_n8AgafhIP2sCx8x1Jd4L0mptrXuzCCGze-safV0V13WiWsFbKrKYvIC6CPBncYuhwgaDafyqSJx9Kv/s1600/ruby.jpg",
+    "published": "2026-08-18T11:20:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer.\n\nOpenSourceMalware, which discovered the activity on August 15, 20\u2026",
+    "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets"
+  },
   "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb0HLXOvc5Gir8E_IXoYIRMQG7CsNL7gJEkPytfRRQ67OWrIoyrGAX78K0Ca0VJ7hhpyru2Vck7ntHKLyBLhGezuyOD_znWoB88KhAdEWu8MyhVbiEia2GfbRVeDPhaCEAHfhY637LqeIyso03edEkOGL3p0c3O6_Nn7oJ6rNmyve-6_pqziBCokfiKoKI/s1600/npm-git.jpg",
@@ -13757,6 +13766,15 @@
     "summary": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 c\u2026",
     "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day"
   },
+  "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnswSsouQNTAo6sTmVePaIjeVawCruhIMYtwOXzzX0Qup-a8tWq6WsuiwxkhQxemYCsguvWzRqA5ILOcnEtQa2Xz2rpmU8aQ_c3zd5m82sqMjJa4ruVDS5JVH0P9trKFRwZY53P6cek06_5q-5Xz9TzuyL1TzKP_wnMY9_16AgwjoCXomphcu4p7Or1Kk/s1600/mindvirus.jpg",
+    "published": "2026-08-18T12:38:36+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system pro\u2026",
+    "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files"
+  },
   "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgERF89TJZsy7Kq1JhEcPKC5ynyCNMv1JAObXj4W415ZbGwE-ZZplLbq5HEiBWi3ULKifDI7Tl440UrQvLFEmngeAHL4o2XfWKxTgb7CEsHmBqBt-w5qePo-BGmlDcu_vJtyfsh1CV5COMXpIUHRiw8WmPeitZAzEu3ugQJ90mDtOhlU0BzTaRDogTHg2Y/s1600/ask-ai.jpg",
@@ -13792,6 +13810,15 @@
     "source": "The Hacker News",
     "summary": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable \u2026",
     "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access"
+  },
+  "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOzcJe940Ayk9JrnE-tmotZ-mEHZiA5Jc0A8Sw9IZIfYEnH61X8whAW6jJZTnzLIQYA37foce9X_fshoAVwjLyBKrjvHbkuhhtwZ2Mewxtf1Syn9FBOvZBqwcMWXOCKFNnASyrCOQ9XTF6f174Aa4O55O7tbU6evYcrrV0H_psoYYq3uQQ_GvZqsu0e0ik/s1600/mlflow.jpg",
+    "published": "2026-08-18T17:44:05+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and indust\u2026",
+    "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets"
   },
   "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html": {
     "categories": [],
@@ -14234,6 +14261,15 @@
     "summary": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 acco\u2026",
     "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails"
   },
+  "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAc2Z6RvtNlJnjkfp-kCEhx8x8Q9XPLHY-oQb8NXu6cb-C5BTfa9HnmWq3G1GT3mPsHLV6Xf6tyBui-ljplsYEo9Qt8kBiNKXOwvTzACMisyS0NQ5U3bGg8O6yVEPStEPbYw4W-4ZasDNssDr2JTJD7GTo6QEpER1L-9Xci-mNSk3A5t_aLXGIHwo04FI/s1600/copilot.jpg",
+    "published": "2026-08-18T17:47:22+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and o\u2026",
+    "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps"
+  },
   "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HtkIdWjqoYaSkO4edq9d5ZotqTE-LNMM14UlVoPaVKw2hwBahFYrPkB3jttURH0gcBXxCDtyHhiGMAIrxCX74gYCb_ivX4INmfRzt7HRb-bPTNt1lV-nUQm_pHQQHrhUwx4JWS7DtAzOZ1etx-yjPAVrNJXGBltqXjHPSI5NcfnWQqYurz0LK-dRRMo/s1600/aug-ms-patch.jpg",
@@ -14351,6 +14387,15 @@
     "summary": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies\u2026",
     "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts"
   },
+  "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijGpzrXApP6QuAgCJDVSMHyi1nEVE7liFsNRwcNTWzkwbjmzqv8vGi8qalq_aWVgtgrD2CC_ZT-qXCsj_Bkj8njgIFQExo0gg5PG_dVIQfo9-wW6lIBh6OLp6z4nBeephIQACe1GX_KOP6nzqe10CM4H8p7EwRIlWGImwXgXjsSIYKCCVlSB7Oe1LWAIQ/s1600/reco.gif",
+    "published": "2026-08-18T11:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025 A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by age\u2026",
+    "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025"
+  },
   "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh28AJU8_kuimN9uKY5xj-0XMAMxfVP4rejHEWMJ_5FD99mAvt8dEsRuGhlCGb63VjWykzePg_-tuaTqNycmvhZy3oFRFAuVHbwpsAg6ae599Pl7bYQVb7Qo7fDuDjWMHmHZOLfWc9HZkQlyAis8LNMmkS_wnKbvliVNsOej4p6XV_KbiFHHzJp1SjGFU1G/s1600/vscode.jpg",
@@ -14459,6 +14504,15 @@
     "summary": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for \u2026",
     "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer"
   },
+  "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_eOapavOiIGXF7klCQPyN0-Qg2nWk9KlUYzPHuLwAyMKM75P3E2jciQR3v9gt2UBmez3XRSC57e5Fe9Oowm2brtgRXz5nJMPN8iQnBYddnTI4DyffnBAh4iLQFSOhA-8RhbbwuXqbJQOkhiXo5asFku1kFfmQd-UsHT6ulzdvRvw7WXwFKYFBTU_Q9nB/s1600/ransom.jpg",
+    "published": "2026-08-18T16:58:16+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000 A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange\u2026",
+    "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000"
+  },
   "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsIRDdzzjtJRcq3kiouQy7I8wwCFvWIKA5VHAKEVdGC2OJL3WCGnKPZUvAHUi-Jrz9yLN5pfTtS0QI8MRUuSbGOlbg_3jNktHGZSb4wsOKvjcwehZYqL671hB0UgjVjUPnKju5QFDO4BXhjePhJuvGDw_mJs1scXXI_veItNxCej7uEwjKfTHzc9Nkm90/s1600/Ransom-Cartel.jpg",
@@ -14494,6 +14548,15 @@
     "source": "The Hacker News",
     "summary": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11 Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated W\u2026",
     "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11"
+  },
+  "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFTKWlpW6A2F_jXpwDsCbJmaJ7-TnZPoCNsW0BG5pa4F8X8I1zzCRAMefU00NEQHKlqdqGchFbSTQ_aADgjlJeIHpUKswwnwNiP7WnbAftpciT_4FAFzPKi5NYnBtI0R0VEhP4JIHXFpm6hhyQFASu7IP1kFP2FmlLVejJDiG3Tgxf2ofz-J0Aq02AoF8/s1600/safe.jpg",
+    "published": "2026-08-18T09:10:45+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 custom\u2026",
+    "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers"
   },
   "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html": {
     "categories": [],
@@ -14620,6 +14683,15 @@
     "source": "The Hacker News",
     "summary": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination addres\u2026",
     "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain"
+  },
+  "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIrQ96TUVfZUEVto7SlNlTp_8P2270tmrpifBbd-F8vo3gQz3Na40YH60oRh2dEazLOZInJzCGa66bxl9t85Usl30eG_Db_yjMWup2eOM3BmaPhILk_Ihs-yo6AdB-DWG99L7OXK9bdD8Jygu2imWU71-Ap3bPtYLOgqu-vO2Zbr5egp6A5HNcXDSaa0o2/s1600/windows-malware.jpg",
+    "published": "2026-08-18T12:38:20+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT.\n\n\"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate \u2026",
+    "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks"
   },
   "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html": {
     "categories": [],
@@ -17690,6 +17762,18 @@
     "summary": "Microsoft removes Support and Recovery Assistant from Windows Microsoft has deprecated and removed the Support and Recovery Assistant (SaRA) command-line utility from all in-support versions of Windows updates starting March 10. [...]",
     "title": "Microsoft removes Support and Recovery Assistant from Windows"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-18T08:12:08+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft starts removing WMIC tool used by cybercriminals Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...]",
+    "title": "Microsoft starts removing WMIC tool used by cybercriminals"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-removing-defender-application-guard-from-office/": {
     "categories": [
       "Microsoft",
@@ -18092,6 +18176,17 @@
     "summary": "Microsoft testing Windows 11 batch file security improvements Microsoft is rolling out new Windows 11 Insider Preview builds that improve security and performance during batch file or CMD script execution. [...]",
     "title": "Microsoft testing Windows 11 batch file security improvements"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-08-18T11:14:28+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft tests faster Windows File Explorer, new context menu Microsoft has started testing a faster\u00a0File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]",
+    "title": "Microsoft tests faster Windows File Explorer, new context menu"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-preloading-for-faster-launches/": {
     "categories": [
       "Microsoft"
@@ -18426,6 +18521,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft working on Defender patch for RoguePlanet zero-day Microsoft confirmed that it's working on a security patch for a Defender zero-day vulnerability named \"RoguePlanet,\" disclosed one week ago. [...]",
     "title": "Microsoft working on Defender patch for RoguePlanet zero-day"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-08-18T09:24:49+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft confirms outage affecting search in Microsoft 365 apps Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]",
+    "title": "Microsoft confirms outage affecting search in Microsoft 365 apps"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/": {
     "categories": [
@@ -21836,6 +21942,18 @@
     "summary": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. [...]",
     "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-08-18T10:32:16+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA: Windows Task Host flaw now exploited by ransomware gangs The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April.\u2026",
+    "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs"
+  },
   "https://www.bleepingcomputer.com/news/security/cisco-actively-exploited-firewall-flaws-now-abused-for-dos-attacks/": {
     "categories": [
       "Security"
@@ -22175,6 +22293,17 @@
     "summary": "ClickFix malware attacks evolve with multi-OS support, video tutorials ClickFix attacks have evolved to feature videos that guide victims through the self-infection process, a timer to pressure targets into taking risky actions, and automatic\u00a0 detection of the operating system to\u2026",
     "title": "ClickFix malware attacks evolve with multi-OS support, video tutorials"
   },
+  "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-18T17:29:51+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Clop created custom web shell for Windchill data theft attacks A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal \u2026",
+    "title": "Clop created custom web shell for Windchill data theft attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/": {
     "categories": [
       "Security"
@@ -22363,6 +22492,18 @@
     "source": "BleepingComputer",
     "summary": "Comcast to pay $1.5M fine for vendor breach affecting 270K customers Comcast will pay a $1.5 million fine to settle a Federal Communications Commission investigation into a February 2024 vendor data breach that exposed the personal information of nearly 275,000 customers. [...]",
     "title": "Comcast to pay $1.5M fine for vendor breach affecting 270K customers"
+  },
+  "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/": {
+    "categories": [
+      "Security",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-08-18T20:14:58+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Comcast turns your Xfinity WiFi into a home motion detector Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensor\u2026",
+    "title": "Comcast turns your Xfinity WiFi into a home motion detector"
   },
   "https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/": {
     "categories": [
@@ -37212,6 +37353,17 @@
     "summary": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege are becoming t\u2026",
     "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage"
   },
+  "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-18T14:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Your Controls Block Known Attacks. What About the Behavior? Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behav\u2026",
+    "title": "Your Controls Block Known Attacks. What About the Behavior?"
+  },
   "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/": {
     "categories": [
       "Security"
@@ -37892,6 +38044,15 @@
     "source": "darkreading",
     "summary": "Critical Fortinet FortiWeb WAF Bug Exploited in the Wild The vulnerability could allow an unauthenticated attacker to remotely execute administrative commands.",
     "title": "Critical Fortinet FortiWeb WAF Bug Exploited in the Wild"
+  },
+  "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1cc19b0ee66e581e/6a84baf0098985445ad1e287/gitlab_bella1105_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-18T21:25:58+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Critical GitLab Zero-Click Flaw Poses Mitigation Challenges A lack of technical details could make it hard for organizations running self-managed GitLab versions to detect potential exploitation of CVE-2026-19478.",
+    "title": "Critical GitLab Zero-Click Flaw Poses Mitigation Challenges"
   },
   "https://www.darkreading.com/application-security/critical-mcp-integration-flaw-nginx-risk": {
     "categories": [],
@@ -38972,6 +39133,15 @@
     "summary": "Researcher Claims Control of ChatGPT Secure Sandbox A researcher demonstrated a proof-of-concept attack chain that provided C2-style influence over ChatGPT's isolated sandbox during a session at Black Hat USA 2026.",
     "title": "Researcher Claims Control of ChatGPT Secure Sandbox"
   },
+  "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-18T13:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
+    "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud"
+  },
   "https://www.darkreading.com/cloud-security/teampcp-breaches-cloud-saas-instances-stolen-credentials": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc0adc75ba38320bc/69cc20666d4b6c62a6224f3a/cloud_RanczAndrei_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -39312,6 +39482,15 @@
     "source": "darkreading",
     "summary": "CISO Succession Crisis Highlights How Turnover Amplifies Security Risks When cybersecurity leadership turns over too fast, risk does not reset. It compounds.",
     "title": "CISO Succession Crisis Highlights How Turnover Amplifies Security Risks"
+  },
+  "https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3d666f24b44718c6/6a84a8ad0d33646d7815f8de/GettyImages-2252724073.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-18T18:32:01+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "CISOs Break Their Silence in 'Declassified' Docuseries Million-dollar heists, divorce, and career-ending burnout are all stories told in the latest docuseries revealing a behind-the-scenes look at the cybersecurity community.",
+    "title": "CISOs Break Their Silence in 'Declassified' Docuseries"
   },
   "https://www.darkreading.com/cyber-risk/cities-major-events-wireless-drone-defense": {
     "categories": [],
@@ -40497,6 +40676,15 @@
     "summary": "China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm The cyberthreat group targets an Azerbaijani oil and gas firm with repeated attacks, as the China-linked actors extend targeting beyond hospitality, telecom, and government sectors.",
     "title": "China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt232ea541e9b19c8b/6a84862b3f6ec4004afa5e46/china-national-AI-ImageFlow-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-19T01:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "China-Linked Hacker Shows AI Capabilities in APAC Attack In the first purported &quot;near-autonomous&quot; attack on a nation-state, a Chinese-language operator used a complex AI framework to target and compromise government agencies, likely in Taiwan.",
+    "title": "China-Linked Hacker Shows AI Capabilities in APAC Attack"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/china-researches-ways-disrupt-satellite-internet": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6b77fbe45a055630/692f650ddb48104df183d103/satellite-in-space-Dima_Zel-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -41198,6 +41386,15 @@
     "source": "darkreading",
     "summary": "Processes and Culture Top Reasons Behind Data Breaches Government leaders revealed that, in spite of state laws meant to improve cyber hygiene, an analysis of incidents showed issues persist and visibility falls short.",
     "title": "Processes and Culture Top Reasons Behind Data Breaches"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-18T13:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
+    "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-actors-steal-law-firm-data": {
     "categories": [],
@@ -45334,6 +45531,15 @@
     "source": "darkreading",
     "summary": "Coruna, DarkSword iOS Exploits Proliferate Globally Sophisticated iPhone exploit chains previously limited to nation-states are spreading far and wide to organized cybercrime groups.",
     "title": "Coruna, DarkSword iOS Exploits Proliferate Globally"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcaf5eccbac802b13/6a84a0beeed7cf792c0eeed7/AI_apps-alexsl-GettyImages-2213179432.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-18T20:17:24+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "'CoSnitch' Attack Tricked Copilot into Mapping Out Architecture Researchers discovered a &quot;meta-hacking&quot; technique that can manipulate the AI service into revealing its own security weaknesses.",
+    "title": "'CoSnitch' Attack Tricked Copilot into Mapping Out Architecture"
   },
   "https://www.darkreading.com/vulnerabilities-threats/critical-flaw-langflow-ai-platform-under-attack": {
     "categories": [],
