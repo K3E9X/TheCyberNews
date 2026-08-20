@@ -13973,6 +13973,24 @@
     "summary": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials.\n\nThe macOS-\u2026",
     "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets"
   },
+  "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit3cCqpn48W_lqEDCb9ewKFToGQcvhUjO939N0Gja-aTvCvRTz8kdOPZG1bhyphenhyphenED2XNeB82rjCIeVO3Nw9akDlMnQZqc7keiel8H82zgtf1A7fhb6DP3z6Qh3Ehk6AGrMt77rXkoNhLaDeEl692kDHAHVsNb7AOcDxpsavM0Hj9TZRLLJsuQ-OT3oQOvFMi/s1600/ptc.jpg",
+    "published": "2026-08-19T05:39:25+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Man\u2026",
+    "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data"
+  },
+  "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi50HcHSWt796lc8zQ8Anp_fHUqgV-BM0xiS1NxJW8zRDgBRJ9ovZOECiIhdQt0aVTUdhduJYP1o5wTa5RpDoCwhihq8rKqWmh73E9E8UzafyDcq1n1khCEIDCikK2L6NEt1mbIuMRm6F36bap74JtZawFqqCPvWF72SAm25BzREVerWYaRIDEo1O89V4k/s1600/jwt.jpg",
+    "published": "2026-08-19T19:02:40+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second Cybersecurity researchers have disclosed details of a&nbsp;remote Spectre attack&nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production envi\u2026",
+    "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second"
+  },
   "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiea5Kw_2TLtPI4Ts3s3anmPIQr3S8VxO0G9yL-UV1dSlRrW1Z_L41XoHcSFuk2ThCBDKLFy-xZl_y7DnA0FM2nWHk4G1TpV2iMx6-X6EDT3gK7s0pJu6e1wMUoEsuPifcXseXuqOIHL3W9voWoD_se5gKJPyii4X0mJY7sxJ3uOPlTWVfAyrKs4ixa-18/s1600/coldcard.jpg",
@@ -14000,6 +14018,15 @@
     "summary": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow a\u2026",
     "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects"
   },
+  "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJDdcdHtgq-nTzruVpw0hyZmBZtfG4iwLgi_nfw6A70e_mXt7LUSnyTQ7ZdgclMUypEe7s8s-LDmykPATeFixDXHEP_j1zhheNBnHA1TebBqoYtw1-3g_-LqlSuk8MczmJ3BtD6MO4TL1FVdLEcZXVKn_Rd7ucsm0Imb8QTjxJXZY52RkgfUd26FPQanbZ/s1600/kev.jpg",
+    "published": "2026-08-19T11:01:48+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being expl\u2026",
+    "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation"
+  },
   "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOLyOOoRbj7XXsr5asbHmKbRetYhjWcAZap4b6VUBQ3ENWpeB46A78vztXFJGUDMDHNskXyUMH6yu9Quv-WLut657FS4Dk4-SICypcAVTLuI7fYUxC7Y4qEUI6A8NMIS-GZ8KkzjRULoNZAPD1TIamWyp-T5vgrjMDQKMD0lmR6pZU8P4VeOwWEo7KxWA/s1600/CRYPTOJS.jpg",
@@ -14026,6 +14053,15 @@
     "source": "The Hacker News",
     "summary": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader \u2026",
     "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT"
+  },
+  "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitKWjeNJOL_DEahUmMAYpH9qh94s2iFi8igtfSlAzOVWiUBU-EIM0MWMsFYPmA5NDL6Rs9E-w9vvCmw3Cc6Og0q-TDt87Q2hwYIePNAQ0xQ3OJYHzgCizDFm-YK9SxW4ncWnuVLaOzgb3SPO7Qpx17zHMaFzBQfYllgz5IP-p1jMALgWlasRkj1nV3Tq3G/s1600/wordpress.jpg",
+    "published": "2026-08-20T06:04:34+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution.\n\nThe vulnerability, t\u2026",
+    "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code"
   },
   "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html": {
     "categories": [],
@@ -14116,6 +14152,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator use\u2026",
     "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine"
+  },
+  "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMoFWi-QSod_BQxqARN9B9-f3XXRsEk-QHunmW3JSc9DHyZNKRK91l5KTzt_DYxGnTUtGqRMo1WHR9zfREMAXDAeDOYFgXpSJdgyUXHgOGTnpiokI06ZsJ1syAzn8GYlkzZqr6L73IsPJDAKgCbobSSkzZfWfJPapFiVJS4Kc1DyP3SBsMFgyZjCL6V6Y/s1600/camera.jpg",
+    "published": "2026-08-19T11:34:28+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attack\u2026",
+    "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P"
   },
   "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html": {
     "categories": [],
@@ -14269,6 +14314,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and o\u2026",
     "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps"
+  },
+  "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLR2UjD4FhPqPT7MZpKuuqDl82K13qHQ_ob2-S_fK62g7UtwW6jn6YafX4RcZcqFgZWFbXiuCTkLbeD9zC_ws4mOUL0xVJgJ315fMiFlqxDFnhyphenhyphenIe2K8IXv3Vn1ZfWJevZywKd01wSpTS0BT08VlGtSoksz8y0ihBug5XqbRN48jy_NoQx-4fRc52Khzg/s1600/apple-macos.jpg",
+    "published": "2026-08-19T06:01:53+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructur\u2026",
+    "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure"
   },
   "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html": {
     "categories": [],
@@ -14432,6 +14486,15 @@
     "summary": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development OpenAI on Monday unveiled a new cybersecurity-focused model called GPT\u20115.6\u2011Cyber that it said is focused on vulnerability research, penetration testing, and incident response.\n\n\"Built on GPT\u20115.6 Sol, it\u2026",
     "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development"
   },
+  "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Ar7QFukiqBWatGeVdffG393l7GwFmzYBSWvv6Um7gPNIzeL8p3gfO_2C1rvVGPSUh00KWZAB8wFs9Xdz6h7uWDd7MYyWuuzLciO6NX1Y4mln1LqxK-skWP7VEdFD3BOhP1msTaM7F1ZgBeGyDUuLUaNlXAroEXHH6aYPgWluliMNUrozkKKeGK9kf-Ri/s1600/open.jpg",
+    "published": "2026-08-19T18:06:44+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increas\u2026",
+    "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior"
+  },
   "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgat4Wvo6Fpe6pNG66UengjFIWRohQUVp-khyphenhyphenxa57n9Ued3-mWlDeeTQkblpAP-OEjgSCbY0n1bC_MhI3a5_BF1bWq7rBohkS2DG1AXUtcDI8MuWPRMFKGNdteA7_Xkg-_6w-y-wao14ZPQWoRF8cnbibQYHUAGP1byqwYyBpcyvCBQd0h2fe6t94zvoa4j/s1600/openai-astra.jpg",
@@ -14467,6 +14530,15 @@
     "source": "The Hacker News",
     "summary": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) a\u2026",
     "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports"
+  },
+  "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQNc2xSAgLu-A9p7sNrEqSu_NjH29MY18RsTwxzLEGW1a1qUJIMSu5RlZg1V8tPxQg55hqA94wYqBiD74lF3l6XXYB43oM_xalMLq8_uRR1xAuSX6dop3Cdmg3lwljU1Nl4aqsKHHDr1Ju4n5Q6j_0LqbGqX8coexq7DaRU9IzRZDHKbDqQoNYD1CRcNg/s1600/iron.jpg",
+    "published": "2026-08-19T11:30:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Phishing 3.0: The Fight Moves to Agent Versus Agent Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when the dange\u2026",
+    "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent"
   },
   "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html": {
     "categories": [],
@@ -14603,6 +14675,15 @@
     "summary": "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.\n\nWhen\u2026",
     "title": "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development"
   },
+  "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgukQx26zt-EE2Q-I5EPzGDeXiUneL1NzNma73qc5r03gJ5Xj6kiTigXadbXa1XWqg7Y-UHq5YzEu7bPxN4BXjVUbId9eaPwWddiP_oB7Zz2fBV0bxr2S2wh9oVEFI-IEe4jMgA1REmrbKFSE33oztVDuz0p2TQhKA_0koqZ3qYcWH_d5Ec4lExxdMzWw5I/s1600/malware-code.jpg",
+    "published": "2026-08-19T13:12:17+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia.\n\nThe intrusion set makes use of seven remote access tool (RAT)\u2026",
+    "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs"
+  },
   "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJW5BJKjwNfnH2t8RrvgW0wUO3_ZJWnw30aS6GlU9qoaOWMQcyoZ9ZOZmTgLo7hWAqHlKDK2b4MrtF23Jv_1-1Ffd6bo6VlR8exLvIISBANwjHnW3dv7wLgCtyCIDlndpJ67TajeEpN-Ww9eVVutmS4fTpcDPJtlAk_ZU0GLtnkDvYLlqWPv75uMH7ob__/s1600/snowflake.jpg",
@@ -14629,6 +14710,15 @@
     "source": "The Hacker News",
     "summary": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet and credentia\u2026",
     "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials"
+  },
+  "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtWFBMa_xYpIkK39I2gvAJrksqJBAkRSnEZ-WjwpQtbV9mgfPRzWp3qtdhk_v1yOG67pAZ5H3DAFRVv7rEzbns9IuAa4_DV-MUBDIb6fuWzLyRvFXyC1fOaTUPbwxdoY4cykbPy3wXEn3HvlnbjbqH37vkLKMSJA799pVeD50RqMGlJJztFJZcFzR2xTf/s1600/wordpress-hacks.jpg",
+    "published": "2026-08-19T11:25:28+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, st\u2026",
+    "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data"
   },
   "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html": {
     "categories": [],
@@ -15357,6 +15447,18 @@
     "source": "BleepingComputer",
     "summary": "New OpenAI leak hints at upcoming ChatGPT features OpenAI is internally testing a new update for ChatGPT, at least on the web. It'll begin rolling out in the coming weeks. [...]",
     "title": "New OpenAI leak hints at upcoming ChatGPT features"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-08-20T00:20:55+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI confirms ChatGPT is down as logins and signups fail ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
+    "title": "OpenAI confirms ChatGPT is down as logins and signups fail"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/": {
     "categories": [
@@ -16409,6 +16511,18 @@
     "summary": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
     "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/": {
+    "categories": [
+      "Microsoft",
+      "Gaming"
+    ],
+    "image": "",
+    "published": "2026-08-20T06:51:03+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft says August Windows updates may cause gaming issues Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
+    "title": "Microsoft says August Windows updates may cause gaming issues"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/": {
     "categories": [
       "Microsoft"
@@ -16985,6 +17099,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft fixes KB5089549 Windows security update install issues Microsoft has resolved a known issue causing installation failures and 0x800f0922 errors when deploying the May 2026 Windows 11 security update (KB5089549). [...]",
     "title": "Microsoft fixes KB5089549 Windows security update install issues"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-19T11:14:28+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft fixes known issue causing Windows Defender crashes Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]",
+    "title": "Microsoft fixes known issue causing Windows Defender crashes"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/": {
     "categories": [
@@ -18714,6 +18840,17 @@
     "source": "BleepingComputer",
     "summary": "Windows 10 update bug triggers incorrect end-of-support alerts \u200bMicrosoft says the October 2025 updates trigger incorrect end-of-support warnings on Windows 10 systems with active security coverage or still under active support. [...]",
     "title": "Windows 10 update bug triggers incorrect end-of-support alerts"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-08-19T09:10:20+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 24H2 Home and Pro reach end of support in 2 months Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]",
+    "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months"
   },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/": {
     "categories": [
@@ -21099,6 +21236,18 @@
     "summary": "CISA confirms active exploitation of four enterprise software bugs The Cybersecurity and\u00a0Infrastructure Security Agency (CISA) in the U.S. warned of active exploitation of four vulnerabilities impacting enterprise software from Versa and Zimbra, the Vite frontend tooling framewor\u2026",
     "title": "CISA confirms active exploitation of four enterprise software bugs"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-08-19T10:12:24+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Critical RCE flaw in Windows IKE Extension now actively exploited The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions\u2026",
+    "title": "Critical RCE flaw in Windows IKE Extension now actively exploited"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/": {
     "categories": [
       "Security"
@@ -21240,6 +21389,17 @@
     "source": "BleepingComputer",
     "summary": "CISA: High-severity Linux flaw now exploited by ransomware gangs CISA confirmed on Thursday that a high-severity privilege escalation flaw in the Linux kernel is now being exploited in ransomware attacks. [...]",
     "title": "CISA: High-severity Linux flaw now exploited by ransomware gangs"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-19T08:00:48+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021. [...]",
+    "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/": {
     "categories": [
@@ -26773,6 +26933,18 @@
     "summary": "Hackers claim to hack Resecurity, firm says it was a honeypot The ShinyHunters hacking group claims it breached the systems of cybersecurity firm Resecurity and stole internal data, while Resecurity says the attackers only accessed a deliberately deployed honeypot containing fake\u2026",
     "title": "Hackers claim to hack Resecurity, firm says it was a honeypot"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/": {
+    "categories": [
+      "Security",
+      "Hardware"
+    ],
+    "image": "",
+    "published": "2026-08-19T18:09:13+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and\u00a0Russia. [...]",
+    "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/": {
     "categories": [
       "Security"
@@ -27305,6 +27477,18 @@
     "source": "BleepingComputer",
     "summary": "Healthcare tech firm CareCloud says hackers stole patient data Healthcare IT firm CareCloud has disclosed a data breach incident that exposed sensitive data and caused a network disruption lasting approximately eight hours. [...]",
     "title": "Healthcare tech firm CareCloud says hackers stole patient data"
+  },
+  "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/": {
+    "categories": [
+      "Security",
+      "Healthcare"
+    ],
+    "image": "",
+    "published": "2026-08-19T20:07:12+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Healthtech firm CareCloud data breach impacts 3.7 million patients U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
+    "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients"
   },
   "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/": {
     "categories": [
@@ -32233,6 +32417,17 @@
     "summary": "Password guessing without AI: How attackers build targeted wordlists Attackers don't need AI to crack passwords, they build targeted wordlists from an organization's own public language. This article explains how tools like CeWL turn websites into high-success password guesses an\u2026",
     "title": "Password guessing without AI: How attackers build targeted wordlists"
   },
+  "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-19T14:00:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Password spraying attacks surge 155x as hackers exploit MFA gaps Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps i\u2026",
+    "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps"
+  },
   "https://www.bleepingcomputer.com/news/security/passwords-to-passkeys-staying-iso-27001-compliant-in-a-passwordless-era/": {
     "categories": [
       "Security"
@@ -33300,6 +33495,17 @@
     "summary": "Robinhood account creation flaw abused to send phishing emails Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspicious activity. [..\u2026",
     "title": "Robinhood account creation flaw abused to send phishing emails"
   },
+  "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-19T20:59:58+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Rogue ransomware affiliate poses as recovery firm to steal payments A\u00a0suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and \u2026",
+    "title": "Rogue ransomware affiliate poses as recovery firm to steal payments"
+  },
   "https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/": {
     "categories": [
       "Security"
@@ -33563,6 +33769,17 @@
     "source": "BleepingComputer",
     "summary": "SafePal data breach impacts 39,798 customers, stolen info for sale Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be\u2026",
     "title": "SafePal data breach impacts 39,798 customers, stolen info for sale"
+  },
+  "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-19T20:53:38+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Sakura Internet hack exposes data of up to 1.36 million accounts Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]",
+    "title": "Sakura Internet hack exposes data of up to 1.36 million accounts"
   },
   "https://www.bleepingcomputer.com/news/security/salesforce-investigates-customer-data-theft-via-gainsight-breach/": {
     "categories": [
@@ -35937,6 +36154,18 @@
     "summary": "US charges Google security engineer with Polymarket insider trading A Google security engineer was charged with insider trading after winning $1.2 million using confidential company data to place bets on the cryptocurrency-based Polymarket decentralized prediction market. [...]",
     "title": "US charges Google security engineer with Polymarket insider trading"
   },
+  "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-08-19T15:56:09+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "US charges Iranian hackers over $3.4 billion intellectual property theft The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]",
+    "title": "US charges Iranian hackers over $3.4 billion intellectual property theft"
+  },
   "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/": {
     "categories": [
       "Security"
@@ -36171,6 +36400,17 @@
     "source": "BleepingComputer",
     "summary": "US sanctions North Korean bankers linked to cybercrime, IT worker fraud The U.S. Treasury Department imposed sanctions on two North Korean financial institutions and eight individuals involved in laundering cryptocurrency stolen in cybercrime and fraudulent IT worker schemes. [..\u2026",
     "title": "US sanctions North Korean bankers linked to cybercrime, IT worker fraud"
+  },
+  "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-19T17:50:01+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]",
+    "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure"
   },
   "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/": {
     "categories": [
@@ -38444,6 +38684,15 @@
     "source": "darkreading",
     "summary": "Multiple ChatGPT Security Bugs Allow Rampant Data Theft Attackers can use them to inject arbitrary prompts, exfiltrate personal user information, bypass safety mechanisms, and take other malicious actions.",
     "title": "Multiple ChatGPT Security Bugs Allow Rampant Data Theft"
+  },
+  "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt85eae7cdd5f0ecc5/6a86044bc3ca75985c01a97b/person_in_handcuffs-AnnaStills-GettyImages-2229493276.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-19T20:32:09+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
+    "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns"
   },
   "https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws": {
     "categories": [],
@@ -45043,6 +45292,15 @@
     "summary": "SideWinder Espionage Campaign Expands Across Southeast Asia The suspected India-linked threat group targets governments, telecom, and critical infrastructure using spear-phishing, old vulnerabilities, and rapidly rotating infrastructure to maintain persistent access.",
     "title": "SideWinder Espionage Campaign Expands Across Southeast Asia"
   },
+  "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf72b6d96243f3ad0/6a85b7da026bc525d4e194a5/rats-Andyworks-Getty-2192975649.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-19T16:58:23+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs A spear-phishing campaign by a Chinese-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by China's APTs.",
+    "title": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs"
+  },
   "https://www.darkreading.com/threat-intelligence/sprysocks-windows-variant-kernel-drivers": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfe5e902d31634190/6a317c8da9a64d0008e8660f/backdoor-BeeBright-Getty-823310866.jpg?width=720&quality=80&disable=upscale",
@@ -45752,6 +46010,15 @@
     "source": "darkreading",
     "summary": "Inc Ransomware Exploits SonicWall SMA Zero-Days When chained together, the two vulnerabilities allow threat actors to gain root-level capabilities on SonicWall's mobile access appliances.",
     "title": "Inc Ransomware Exploits SonicWall SMA Zero-Days"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10b947e86b169479/6a8494d01fc1525118764111/rich_mogull_becky_bracken_news_desk.png?width=720&quality=80&disable=upscale",
+    "published": "2026-08-18T19:09:51+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "The 'Industrial Accidents' Behind Rogue AI Agent Attacks \u2014 and the Sandbox Failures Exposed Rich Mogull, chief analyst with the Cloud Security Alliance, joins the Dark Reading News Desk with what defenders need to take away from AI agents escaping their environments to launch att\u2026",
+    "title": "The 'Industrial Accidents' Behind Rogue AI Agent Attacks \u2014 and the Sandbox Failures Exposed"
   },
   "https://www.darkreading.com/vulnerabilities-threats/kimsuky-httptroy-backdoor-south-korea-users": {
     "categories": [],
