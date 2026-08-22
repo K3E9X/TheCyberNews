@@ -13694,6 +13694,15 @@
     "summary": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover.\n\nThe vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affe\u2026",
     "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover"
   },
+  "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZpEOpS6_M3zQlIDwvD1wMhESnRAMTCz1nW2JFP__pGSVWOw28REaDTZ5lI7sdwvcRKSSUHI4sm1CUuWs6_gvOXE1c5BbvKnR75iyBl9Er1SckweDAxBEotnOlSikBeOE5WEBIIGlS74w4b85pvznpr3c4mj88LzLt-3pGr1HHXHQDg5v7T9FxdBSWSlK/s1600/linux-npm.jpg",
+    "published": "2026-08-21T18:53:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2 Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI\u2026",
+    "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2"
+  },
   "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9BsXf9I7m4IoC0hb3fSwYiBJsaB1_vSj9kGhfi0HsWGeR0xVl_W1O_Z0bd6IxvQ-vUQP5FDsj5mpiwUjv72JG3vNdViDwAKDG1uswOPDfb84xN_n8AgafhIP2sCx8x1Jd4L0mptrXuzCCGze-safV0V13WiWsFbKrKYvIC6CPBncYuhwgaDafyqSJx9Kv/s1600/ruby.jpg",
@@ -13801,6 +13810,15 @@
     "source": "The Hacker News",
     "summary": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major \u2026",
     "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory"
+  },
+  "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1EQE-DqLXTzpjwGf3nQnM4CTnjibkKl_2ersn8abw3Gmqoc5MUaFC2LvkA7c6Xoa0XBPZeHL4wHHiXU7Pc9nGLcI1zTorwFTwvYXfww4Q68oSUrgcQhmBzQBNqYp-woIZFK_I1OOsnBNptiwA90VHhpE_hvlz3qdFomOmOMLreYe5YCenvR2CeawvRrMU/s1600/car.png",
+    "published": "2026-08-21T15:41:44+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun.\n\nKaspersky, which discovered the threat\u2026",
+    "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet"
   },
   "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html": {
     "categories": [],
@@ -13982,6 +14000,15 @@
     "summary": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.\n\nThe security issues\u2026",
     "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs"
   },
+  "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis5Ujhq79PHPVr7VjuOjS0fOAyYm0aDTCJi9c5ieu-uya3FUM4Dh58yAT5U5J3VaXaGfNb4XowkyJ1lj3UTy8bOoF-u0O-5qdl-O7leomQjQw5jAI3m8WpZvC3se70f8mRP_KKIcScS0Nf9wJcsq4TWgiS_li3K6CSUbbG643IMhZBVGzW5XflwAbz0d1M/s1600/cisco.jpg",
+    "published": "2026-08-21T10:03:11+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0 Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review.\n\nFour of the security vulnerabi\u2026",
+    "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0"
+  },
   "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguukj-eRhx9RtAq9X96hAxHi0IU3ZWgM_W5XkdWhF8ezevuBQygkpv-ku5PSri9Gt5hRkNVxe6HmJJr5Mg33X_PhOGziqaho9bwm-mkRZSBl2jo94XF3jRwTZOb_PocueKWJkEtvl7kG_YqmbVfUxNht8_ODzLOERIqQteMdPxnWpobM-c9-fHhn0cLMQ/s1600/claude-github.jpg",
@@ -14152,6 +14179,15 @@
     "source": "The Hacker News",
     "summary": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susce\u2026",
     "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads"
+  },
+  "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jpyIqzuMd0vBKcxrQRj7eBbEebcRgNHLRFpx7YuxJlTPksUDEar7HPu4unQPNaOzpChBl1-dYyPHwuyjhgetrrh6PZ9OHPRqnc6nXeNdaX9f8AcSDe6gpmRecFfryf3-3BgsNoxvOyNc6xz703Qzsd7hJLuKbQt4Q6bgVxRZDGdpFzy8O2SByvUouC3J/s1600/gitlab-cve.jpg",
+    "published": "2026-08-21T07:04:25+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr.\n\nThe vulnerability in question is CVE-2026-19478 (CVSS score: 9.4\u2026",
+    "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure"
   },
   "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html": {
     "categories": [],
@@ -14377,6 +14413,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and o\u2026",
     "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps"
+  },
+  "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbsmb6Wk8pQKWQmByAl5wnZQEVjS7ZYiHrlsHRM7VlcoPL7s30TaoTReoaQ4LI8Oy3KfKlIRHn9sN_7bjEKd_FWPHi1V0JR6LERepKBWSdJOk6cSUNgfIN2KVc6ydfbTILTy11owREYfpO7K11gFQV00l6qf1zl5rzF28jPhcN744yTvRAA-EjyDSBXs/s1600/windows.jpg",
+    "published": "2026-08-21T15:52:10+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations \u2026",
+    "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot"
   },
   "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html": {
     "categories": [],
@@ -14935,6 +14980,15 @@
     "source": "The Hacker News",
     "summary": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django.\n\nThe three most serious:\n\n\n  An unaut\u2026",
     "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug"
+  },
+  "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZWG6Sgh8GPFwyz6pxs_gis36Lo0bAHyFSaNrybGElVQbCBkjPrypJ_abTOidSIKSaVJs574hUuDYvUPGymaq3qfnecNfbc-RMnwTuH8vr4jLcsnQCLnxjscJMSLEfITdwIvVt4Ax_wzwKe3MpD5Bm9vIW_f94MESP1p1qNpoxrkkDstHJ1lL7eljzB4/s1600/WAZUH.jpg",
+    "published": "2026-08-21T11:21:39+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Wazuh and AI For Enhanced SOC Workflows Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden with\u2026",
+    "title": "Wazuh and AI For Enhanced SOC Workflows"
   },
   "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html": {
     "categories": [],
@@ -16701,6 +16755,17 @@
     "summary": "Microsoft blames unexpected Windows driver updates on caching issue On Wednesday, Microsoft fixed an issue that caused some Windows devices to install driver updates without notice despite policies configured to prevent auto-updates. [...]",
     "title": "Microsoft blames unexpected Windows driver updates on caching issue"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-08-21T14:54:49+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft blames Windows gaming issues on RGB lighting devices Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
+    "title": "Microsoft blames Windows gaming issues on RGB lighting devices"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-bounty-program-now-includes-any-flaw-impacting-its-services/": {
     "categories": [
       "Microsoft"
@@ -18055,6 +18120,17 @@
     "summary": "Microsoft removing Defender Application Guard from Office Microsoft plans to remove\u00a0Defender Application Guard from Office by December 2027, starting with the February 2026 release of Office version 2602. [...]",
     "title": "Microsoft removing Defender Application Guard from Office"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-08-21T13:39:35+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft rolls out Classic Outlook theme for New Outlook users Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
+    "title": "Microsoft rolls out Classic Outlook theme for New Outlook users"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/": {
     "categories": [
       "Microsoft"
@@ -18673,6 +18749,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft warns of Exchange zero-day flaw exploited in attacks On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outloo\u2026",
     "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-21T11:04:10+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Microsoft patches max severity code execution, privilege escalation flaws Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
+    "title": "Microsoft patches max severity code execution, privilege escalation flaws"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/": {
     "categories": [
@@ -21679,6 +21767,17 @@
     "source": "BleepingComputer",
     "summary": "CISA flags two-year-old Oracle flaw as actively exploited in attacks CISA has ordered government agencies to secure their systems against a high-severity Oracle WebLogic Server vulnerability that was patched two years ago and is now actively exploited in attacks. [...]",
     "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-21T12:25:33+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA orders feds to patch actively exploited TrueConf Server flaws The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platfo\u2026",
+    "title": "CISA orders feds to patch actively exploited TrueConf Server flaws"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/": {
     "categories": [
@@ -26910,6 +27009,17 @@
     "summary": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses Threat actors are abusing the special-use \".arpa\" domain and IPv6 reverse DNS in phishing campaigns that more easily evade domain reputation checks and email security gateways. [...]",
     "title": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-21T11:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers abuse FTP server banners to deliver new Windows malware Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
+    "title": "Hackers abuse FTP server banners to deliver new Windows malware"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/": {
     "categories": [
       "Security"
@@ -28066,6 +28176,18 @@
     "summary": "Hundreds of fake Chrome VPN extensions route traffic through a proxy More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]",
     "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy"
   },
+  "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/": {
+    "categories": [
+      "Security",
+      "Cloud"
+    ],
+    "image": "",
+    "published": "2026-08-21T15:55:15+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Hundreds of leaked AWS keys give full control over corporate accounts More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
+    "title": "Hundreds of leaked AWS keys give full control over corporate accounts"
+  },
   "https://www.bleepingcomputer.com/news/security/hyundai-autoever-america-data-breach-exposes-ssns-drivers-licenses/": {
     "categories": [
       "Security"
@@ -28510,6 +28632,17 @@
     "source": "BleepingComputer",
     "summary": "Is a $30,000 GPU Good at Password Cracking? A $30,000 AI GPU doesn't outperform consumer GPUs at password cracking. Specops explains why attackers don't need exotic hardware to break weak passwords. [...]",
     "title": "Is a $30,000 GPU Good at Password Cracking?"
+  },
+  "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-21T14:00:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Is Online Privacy Possible? How Digital Identities Can Help Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlati\u2026",
+    "title": "Is Online Privacy Possible? How Digital Identities Can Help"
   },
   "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/": {
     "categories": [
@@ -31541,6 +31674,17 @@
     "summary": "New StormEncryptor ransomware used by former Medusa affiliate A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
     "title": "New StormEncryptor ransomware used by former Medusa affiliate"
   },
+  "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-21T18:01:30+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New SynkLoader malware pushed in Microsoft Teams phishing campaign A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
+    "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign"
+  },
   "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/": {
     "categories": [
       "Security"
@@ -34396,6 +34540,17 @@
     "source": "BleepingComputer",
     "summary": "SHub macOS infostealer variant spoofs Apple security updates A new variant of the 'SHub' macOS infostealer uses AppleScript to show a fake security update message and installs a backdoor. [...]",
     "title": "SHub macOS infostealer variant spoofs Apple security updates"
+  },
+  "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-21T10:10:42+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "SickKids data breach exposes employee and job applicant info Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clini\u2026",
+    "title": "SickKids data breach exposes employee and job applicant info"
   },
   "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/": {
     "categories": [
@@ -38934,6 +39089,15 @@
     "summary": "North Korea Uses ClickFix to Target macOS Users' Data Sapphire Sleet uses fake job offers and phony Zoom updates to deliver ClickFix attacks that steal credentials and sensitive data from Macs.",
     "title": "North Korea Uses ClickFix to Target macOS Users' Data"
   },
+  "https://www.darkreading.com/application-security/openai-adds-controls-already": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21d988f2eb8aaa24/6a87514642723529ba68dda7/metal_guardrails-viti-GettyImages-897806150.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-21T13:30:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "OpenAI Adds Controls That Should've Been There Already The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
+    "title": "OpenAI Adds Controls That Should've Been There Already"
+  },
   "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteed6585fb356f055/6a6a5a483792ae4c0a587098/robot_skeleton-gremlin-Getty-531001422.jpg?width=720&quality=80&disable=upscale",
@@ -38978,6 +39142,15 @@
     "source": "darkreading",
     "summary": "'Overly Permissive' Salesforce Cloud Configs in the Crosshairs Some customers have mishandled guest user configurations otherwise intended to allow third-party access to important \u2014 and sensitive \u2014 client data.",
     "title": "'Overly Permissive' Salesforce Cloud Configs in the Crosshairs"
+  },
+  "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0778b75e05f471bd/6a8857b7c856a513e1627c23/purple-skills-flowchart-air-lemos.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-21T17:36:53+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "OWASP Flags Top AI Skill Risks in New Security Blueprint The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.",
+    "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint"
   },
   "https://www.darkreading.com/application-security/owasp-genai-security-project-update-matrix": {
     "categories": [],
@@ -40051,6 +40224,15 @@
     "source": "darkreading",
     "summary": "Cyber Insurance Rates Are Dropping, but Exclusions Widen Cyber insurance coverage is slowly changing, and some policies may not provide coverage for social engineering attacks like ClickFix.",
     "title": "Cyber Insurance Rates Are Dropping, but Exclusions Widen"
+  },
+  "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-21T14:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Calling on Cyber Pros to Help Defend City Hall Government agencies with smaller budgets need support \u2014 and here's how you can help.",
+    "title": "Calling on Cyber Pros to Help Defend City Hall"
   },
   "https://www.darkreading.com/cyber-risk/cyberattackers-dont-care-about-good-causes": {
     "categories": [],
