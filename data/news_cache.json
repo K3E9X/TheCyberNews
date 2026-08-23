@@ -14927,6 +14927,15 @@
     "summary": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job.\n\nThis week runs on \u2026",
     "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories"
   },
+  "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuigeGBdB6K4zmYLAIVAQ2NR4LskJUGGLo94UiAtL1d89WIdT3ekZUY58J7Em-QxANVODEDSuLoEwVlBKiwEQCBss89hDYzpOuUWcAd8bUphqatYsgIA801ytGpe6c9Pr66CZicJqHx81XREePakS0n3RhYGdD_awrTW5UNGjUdSEmwcKo0K5UOrOIdyGo/s1600/tiktok.jpg",
+    "published": "2026-08-22T14:32:41+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country.\n\nAs part\u2026",
+    "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit"
+  },
   "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq19iWDNnvPUAAC2_MJN09g-1SHoPWQv82zvmQGTvrniDXm9BUWK73QrKCNCgxk0uGp6MrKF8cDQrigQCI3CW1G8V8GNltJ0GRc-yBjt69zPem4YW_b0XCZwsIFhWiOoul7eIhEOjb_F0X9A9B_DOmQNbCWHF6AzqDro4U0XjH_CgtJ_J0MVZjDPmyDL1p/s1600/android-banking-malware.jpg",
@@ -27598,6 +27607,18 @@
     "summary": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks A threat actor tracked as DriveSurge has been operating large-scale malware distribution campaigns using ClickFix and FakeUpdates techniques on compromised sites. [...]",
     "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/": {
+    "categories": [
+      "Security",
+      "Hardware"
+    ],
+    "image": "",
+    "published": "2026-08-22T14:14:24+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers infect Android car head units with proxy botnet malware A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
+    "title": "Hackers infect Android car head units with proxy botnet malware"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/": {
     "categories": [
       "Security"
@@ -30444,6 +30465,17 @@
     "source": "BleepingComputer",
     "summary": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support NAKIVO Inc. announced the general availability of NAKIVO Backup & Replication v11.2, focused on fast, reliable, and proactive data protection. [...]",
     "title": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support"
+  },
+  "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-22T13:00:09+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Named Pipes Under Attack: Securing Windows Interprocess Communication Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorizatio\u2026",
+    "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication"
   },
   "https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/": {
     "categories": [
