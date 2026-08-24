@@ -35813,6 +35813,18 @@
     "summary": "Tor switches to new Counter Galois Onion relay encryption algorithm Tor has announced improved encryption and security for the circuit traffic by replacing the old tor1 relay encryption\u00a0algorithm with a new design called Counter Galois Onion (CGO). [...]",
     "title": "Tor switches to new Counter Galois Onion relay encryption algorithm"
   },
+  "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/": {
+    "categories": [
+      "Security",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-08-23T14:23:46+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "ToxicPanda Android malware uses VPN permissions to block Google Play The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
+    "title": "ToxicPanda Android malware uses VPN permissions to block Google Play"
+  },
   "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/": {
     "categories": [
       "Security"
@@ -40514,6 +40526,15 @@
     "summary": "Hacker Turns AI Jailbreaks Into Offensive Attack Platform A Russian-speaking actor, &quot;Trim,&quot; dismantled publicly available frontier models and integrated them with offensive security tools.",
     "title": "Hacker Turns AI Jailbreaks Into Offensive Attack Platform"
   },
+  "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56d7eb4c7df48fbf/69cc3e534642d5f509411508/quantum_computing1800_jvphoto_alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-21T13:10:33+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near The coming threat of super-powerful computers capable of cracking today\u2019s algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
+    "title": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near"
+  },
   "https://www.darkreading.com/cyber-risk/healthy-security-cultures-thrive-on-risk-reporting": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt069c5d6fc2ee2c51/6973a8e8d307dcc8891da3a0/2BMP2TF.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -44302,6 +44323,15 @@
     "source": "darkreading",
     "summary": "Analysts Warn of Cybersecurity Risks in Humanoid Robots Think &quot;Blade Runner,&quot; but the robots can be hacked more easily than your home computer.",
     "title": "Analysts Warn of Cybersecurity Risks in Humanoid Robots"
+  },
+  "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1efd0fa99d504896/66db40230f75ddd226316a68/ICS_PopTika_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-21T20:24:42+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "How an Emerging Industrial Protocol Family Could Put OT at Risk New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes",
+    "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk"
   },
   "https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber": {
     "categories": [],
