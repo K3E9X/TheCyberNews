@@ -13757,6 +13757,15 @@
     "summary": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car tele\u2026",
     "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices"
   },
+  "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl_xYf_N0l1MVU0TVJFootEd6UCngqtfmbbEKRc06D7-0-ehjKU2SrBoA3qKaSkUWrOzgAu6hkbtimW8U7M4zgfH_6jXzgy6w7aQEGQKni-doNdQFCmAm9_vI_Zq4I6tx7lO2q533pbWWOLKBuUUYLGdY9O7SfBcwcGrqvsMLaFMPL09xXK86vRu38JfEp/s1600/oracle.jpg",
+    "published": "2026-08-25T06:12:35+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Explo\u2026",
+    "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data"
+  },
   "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL4TR-PlW4MehiF4iAbWafpNUQrSuhhTuEZwgwba7Gi0mF-PfixGSlFmpsBm51WbJYfkA69ZYNjO2aWl8eE8tqdSPdJL7mvLOaYL9O6VWkfxw96YFF0Qxt1ggCurqVd2J2muf6SAjW0cCrt2UwnOO3rK76X-mBWHW1e8-2Mk6FERpS1yPrSVScImJ0TmKW/s1600/adobe-flaw.jpg",
@@ -14080,6 +14089,15 @@
     "source": "The Hacker News",
     "summary": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow a\u2026",
     "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects"
+  },
+  "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhB3jURz2EzucPTALqHju1yDNnbHFvawrKxEfvNEprkdA3QIDyOjuUqvHOyTyiZuYJR-4KwewHnd8CdT37TDxBMBK3OLknOxym2a0klblR6rNUc2lqXHdAQUl1JO8uE7bGupO-WqsaEM0UDLUGyWICu5fkA6x4GwNUCo_w3quxp8joYWhNX8grP55eVg8/s1600/keylock.jpg",
+    "published": "2026-08-24T11:56:34+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated \u2026",
+    "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account"
   },
   "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html": {
     "categories": [],
@@ -14639,6 +14657,15 @@
     "summary": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advance\u2026",
     "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause"
   },
+  "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAU29lFKKhJ4-37mroz3wn9p8YejZSqMG70AcTu4Z_FLB6hhof-kGO8-6KOfJcE5TXPvrziWpqDpLu_Mi64u8ilPMtdicwexovYdtmVQhhFOTlAeEamKEccbGQf4Y15ufNQRggwtyzLJy32qocItBHu4FX7FLYDYbnjBXuYMtflnNB4ttrzIdynMPcquxs/s1600/silver.jpg",
+    "published": "2026-08-24T11:51:36+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent.\n\nThe campaign, codenamed Op\u2026",
+    "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor"
+  },
   "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEMAtBAmz-q78zPppsCxMiU-EtelOA3FQy_T6Qzb9KpWEsc9wNMT1f_dDjf65q2W_nrioQ033KClusfHFXexSM8V30mReU5V3nbRY4W0_F3cg2ehG51P1nnWa1iKiGX3hJ_yUUYLF92TanEEE0HifpkzdqRQeqe8qFYXq0SPRx6pW9IrfS7sK_lPzWRM/s1600/mackos-finger.jpg",
@@ -14819,6 +14846,15 @@
     "summary": "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.\n\nWhen\u2026",
     "title": "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development"
   },
+  "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1E-F55owwrRxUZE2CT3U8U-Ibj1rhbLpTmF0diYP4-uP6clImo12GvOHx7X-W4KPLl1F_OXiXjkRqSjuAOn0Sh6kMjPFbh5c09h4Ua3TNfLI7_P87UrGtuTypzdlpgVAazbD2qXvesRgxLW1cPBkADNMaGDh06-9wPXSVwltxeR7e5ejENDWcHXssP3M/s1600/ai-webinar.jpg",
+    "published": "2026-08-24T17:41:30+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.\n\nThe harder part is what comes after. AI \u2026",
+    "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt"
+  },
   "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgukQx26zt-EE2Q-I5EPzGDeXiUneL1NzNma73qc5r03gJ5Xj6kiTigXadbXa1XWqg7Y-UHq5YzEu7bPxN4BXjVUbId9eaPwWddiP_oB7Zz2fBV0bxr2S2wh9oVEFI-IEe4jMgA1REmrbKFSE33oztVDuz0p2TQhKA_0koqZ3qYcWH_d5Ec4lExxdMzWw5I/s1600/malware-code.jpg",
@@ -14900,6 +14936,15 @@
     "summary": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infras\u2026",
     "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign"
   },
+  "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDz2kEMi471xtnJ2B7i_ZktQTUHhbJAIOlNAaFfVdJVPWDC-3EqH2REiyGuaUl95lmXvtcl-oPpQy3MO0-5uulT4L4Uyheni6apbwxzycAw7yVmuYqAWaSjYbEw_BaJKsmGhrUPrb6hVeatf488NrNMVX-xorjY66ZIG9wR50pUdFBOs9avzlu9b91iw/s1600/ai-usage.jpg",
+    "published": "2026-08-24T11:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a\u2026",
+    "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk"
+  },
   "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMO8eh_7kmo0QAAphjdYIXsjfGspFVU9gV5XInqqhs4WnFNCm_hP-EBdmVln7vSrwWkmo9pdvoxAQbaC17M8sYg7VzBX8RJnRIb6E6pBr5euW9WweOeeZk9XpN8O5I5vF_OGypfqp9WO-SO_C81D4DDui3uTp0jBvV5_C7qIjuRgtoMd4bKQ1y8QEnC3c/s1600/dna.jpg",
@@ -14963,6 +15008,15 @@
     "summary": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT.\n\n\"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate \u2026",
     "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks"
   },
+  "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4-mx98ENuq77sCTBd49TSl4Ov5dD1Wua0Vf1MiyVVPfcFckY__TjnTEOeC5CIQWX4L_OLA-xZHHY5nAlp926SIpa3eK8Tvfw1HSHHK1GMot7noTz4Cg36t-ZuZ-NUh5mnsfzs0HJ8F7p410LgWFVPN39PYh8YR6qkDlE8duNKmKpOtJHW4NA9T_ddTGLp/s1600/hackers.jpg",
+    "published": "2026-08-24T08:08:31+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, medi\u2026",
+    "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit"
+  },
   "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL6-qu-cN6glV6XSy1IS7siHKdKPFmzqT3X8TQjGCa0RD33kfIQ8NfEBR5r8dbQvj1OS8L6T083igxfS1VO98xlg7MHIMysbfR_cVpdmPMcYibuMwDZ6SssIi3iryUznGL14zUByy7oRrTJe0AjgGMNti_Rcqezh7dtfyU31vyo-zft3fvR56SCsAfeHrm/s1600/vishing.jpg",
@@ -15008,6 +15062,15 @@
     "summary": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address.\n\nIntroduced with iOS 15, iCloud Private Relay employs a dual-hop\u2026",
     "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses"
   },
+  "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM9ML6Oc83309fnrqC5YOyteVjfKTYCzrm3KoKbrmts4w0P7kQoBMu9btpIWFoYZePuTnU0TL7Olt7jVqdJylmuxwKcI0_NaKNuHxe0pQwi6W2mz7D-qS4WvW1da7E-QG2eEfNf-MbqmB3GR0psJTTT8RO-NtFnx9yVe8dlItdO2G0Dh4wXFNLs_WIqAHP/s1600/mine.jpg",
+    "published": "2026-08-24T17:41:11+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients.\n\nMcAfee Labs said it detected and bl\u2026",
+    "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning"
+  },
   "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtXmkUOPD6prrNPMK9N1Rhu2dm3QFGQ2DUTiu3xrj2WWbauZ_IK2HemME36-4WBIqGh01SFOkNJuutFeXLgS_ZMUBFn5ZDzIP5_IeNrwJWDfKcOPQgZl3spOFVS8R84Hbthy6o3sx9IWJ1yRo4FiW5acGYGBrf2nljmx6yvSd55LWRrkX6JhJ9b5bHJX0g/s1600/recaps.jpg",
@@ -15016,6 +15079,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default.\n\nThat pretty much cove\u2026",
     "title": "\u26a1 Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors"
+  },
+  "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBxfnZQzz7hUDdRKPJM-KWXJAJemk0-S3QlOB71Z1Bq9nVxHA4G0VtkwUUVJjgO-2gtDImMt-ktLnUQd3rkScujv0fWVlfc_tr3qO7sZ-MI2QDtoyT8pKx4q_ZCndRyxhPQcNtZB70fZ4VlaBuE3YaMcE__MWrRtngOU0rTHcSmOXsGkhlARwfUkIBUj9Q/s1600/recap-n.jpg",
+    "published": "2026-08-24T14:32:10+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.\n\nThat\u2019s roughly the mood this week. Trusted tools turn hostile, old weak spots get fres\u2026",
+    "title": "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More"
   },
   "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html": {
     "categories": [],
@@ -15052,6 +15124,15 @@
     "source": "The Hacker News",
     "summary": "Why \"Shady AI\" is Security's Next Big Governance Problem In March 2026, an internal AI agent at Meta triggered a \u201cSev 1\u201d incident after sensitive company and user data was exposed to employees who weren\u2019t authorized to access it.&nbsp;\n\nThe incident began when a Meta employee pos\u2026",
     "title": "Why \"Shady AI\" is Security's Next Big Governance Problem"
+  },
+  "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNZ5JtaLAZIvAO7R42dqB1NBKwtOlFHZIl0yqtfPhyphenhyphenHMJB9MMg8oLLb8p6n9mF67PgHSytYigaqeAoGejuVd42lDlCT42T6vqCgfl6IE-8LnMQjyiCj8MVMdg5ZKznn2cZ18T9zubhLJ-JUZLSWeqEVGQbke44f83WHpoMuaVM9J6G0FA-9RG8_wb8lUTt/s1600/windows-signin.jpg",
+    "published": "2026-08-24T12:35:36+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords Cybersecurity researchers have flagged two new malware families called  WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups.\n\nAccord\u2026",
+    "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords"
   },
   "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html": {
     "categories": [],
@@ -16393,6 +16474,17 @@
     "summary": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites A Spanish court has granted precautionary measures against NordVPN and ProtonVPN, ordering the two popular VPN providers to block 16 websites that facilitate piracy of football matches. [...]",
     "title": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites"
   },
+  "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/": {
+    "categories": [
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-08-24T17:56:24+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "TikTok reaches $400M settlement with US over COPPA violations The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
+    "title": "TikTok reaches $400M settlement with US over COPPA violations"
+  },
   "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/": {
     "categories": [
       "Linux",
@@ -16717,6 +16809,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
     "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-08-24T12:40:21+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: August updates break printing, PDF export in WPF apps Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications. [...]",
+    "title": "Microsoft: August updates break printing, PDF export in WPF apps"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/": {
     "categories": [
@@ -18307,6 +18410,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft shares mitigation for YellowKey Windows zero-day Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. [...]",
     "title": "Microsoft shares mitigation for YellowKey Windows zero-day"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-08-24T09:42:05+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft shares temporary fix for Windows 11 gaming issues Microsoft has shared a temporary fix for ongoing\u00a0gaming issues caused by Windows 11\u00a0updates released during the\u00a0August 2026 Patch Tuesday. [...]",
+    "title": "Microsoft shares temporary fix for Windows 11 gaming issues"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-outlook-freezes-after-windows-update/": {
     "categories": [
@@ -21954,6 +22068,17 @@
     "source": "BleepingComputer",
     "summary": "CISA orders feds to prioritize patching Langflow auth bypass flaw The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]",
     "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-24T10:45:12+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA orders urgent patching of actively exploited Zimbra flaw The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
+    "title": "CISA orders urgent patching of actively exploited Zimbra flaw"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/": {
     "categories": [
@@ -27731,6 +27856,17 @@
     "summary": "Hackers target US firms in FastJson RCE zero-day attacks Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
     "title": "Hackers target US firms in FastJson RCE zero-day attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-24T19:26:32+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers target WordPress sites in miniOrange auth bypass attacks Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrato\u2026",
+    "title": "Hackers target WordPress sites in miniOrange auth bypass attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/": {
     "categories": [
       "Security"
@@ -30160,6 +30296,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks. [...]",
     "title": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-24T14:00:19+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Teams now lets admins block external bots from meetings Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
+    "title": "Microsoft Teams now lets admins block external bots from meetings"
   },
   "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/": {
     "categories": [
@@ -33805,6 +33952,17 @@
     "summary": "Regular Password Resets Aren\u2019t as Safe as You Think Password resets are one of the easiest ways for attackers to bypass security controls. Specops Software shows how helpdesk social engineering turns a seemingly legitimate reset request into full account compromise. [...]",
     "title": "Regular Password Resets Aren\u2019t as Safe as You Think"
   },
+  "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-24T15:17:16+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
+    "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach"
+  },
   "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/": {
     "categories": [
       "Security",
@@ -34880,6 +35038,17 @@
     "source": "BleepingComputer",
     "summary": "South Korean giant Kyowon confirms data theft in ransomware attack The Kyowon Group (Kyowon), a South Korean conglomerate, disclosed that a cyberattack has disrupted its operations and customer information may have been exposed in the incident. [...]",
     "title": "South Korean giant Kyowon confirms data theft in ransomware attack"
+  },
+  "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-24T14:00:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "South Korean startup platform breach exposes key management failures A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed a\u2026",
+    "title": "South Korean startup platform breach exposes key management failures"
   },
   "https://www.bleepingcomputer.com/news/security/spain-arrests-34-suspects-linked-to-black-axe-cyber-crime/": {
     "categories": [
@@ -36453,6 +36622,18 @@
     "source": "BleepingComputer",
     "summary": "Unlimited Technology Systems breach impacts 3.8 million people Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
     "title": "Unlimited Technology Systems breach impacts 3.8 million people"
+  },
+  "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/": {
+    "categories": [
+      "Security",
+      "Hardware"
+    ],
+    "image": "",
+    "published": "2026-08-24T21:14:30+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose lo\u2026",
+    "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices"
   },
   "https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/": {
     "categories": [
@@ -43656,6 +43837,15 @@
     "summary": "US Stands Out in Refusal to Sign UN Cybercrime Treaty The agreement aims to help law enforcement prosecute cross-border cybercrime, but the final treaty could allow unchecked surveillance and human-rights abuses, critics say; and, it includes no protection for pen testers.",
     "title": "US Stands Out in Refusal to Sign UN Cybercrime Treaty"
   },
+  "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt198046baa5588c01/6a8893cf43e45d54ab5d69fd/gap-DNY59-Getty-1406960089.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-24T14:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "The Vulnerability Gap: Why Discovery Is Outrunning Repair AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community.",
+    "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair"
+  },
   "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2a664b4c9f102c54/67041e74357c961dfaad7427/Natee_Jindakum-CISO-icons-shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -43754,6 +43944,15 @@
     "source": "darkreading",
     "summary": "While ECH Adoption Is Low, Risks Remain for Enterprises, End Users Is the new privacy protocol helping malicious actors more than Internet users?",
     "title": "While ECH Adoption Is Low, Risks Remain for Enterprises, End Users"
+  },
+  "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltefcd627d6f4a4bd5/6a8ca1d3f97edfa56696c6b5/Spy_Binoculars-Moor_Studio-GettyImages-2154379866.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-24T20:51:27+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer.",
+    "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text"
   },
   "https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning": {
     "categories": [],
@@ -44695,6 +44894,15 @@
     "source": "darkreading",
     "summary": "Supply Chain Attack Embeds Malware in Android Devices Keenadu downloads payloads that hijack browser searches, commit ad fraud, and execute other actions without user knowledge.",
     "title": "Supply Chain Attack Embeds Malware in Android Devices"
+  },
+  "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1dbd4251686aed8/6a8c90973725ccfa2c8aef7d/panda_Oneinchpunch_Alamy_16_X_9_VERSION.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-24T14:34:59+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "ToxicPanda Banking Trojan Matures Into Enterprise Threat The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk.",
+    "title": "ToxicPanda Banking Trojan Matures Into Enterprise Threat"
   },
   "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems": {
     "categories": [],
@@ -45902,6 +46110,15 @@
     "summary": "Dark Reading Confidential: This Threat Hunter Helped Cops Bust Up An African Cybercrime Syndicate Dark Reading Confidential Episode 15: Interpol relied on Will Thomas and team to help break up a sprawling cybercrime ring, leading to the arrest of 574 suspects, the recovery of mor\u2026",
     "title": "Dark Reading Confidential: This Threat Hunter Helped Cops Bust Up An African Cybercrime Syndicate"
   },
+  "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4791042d5aa25a17/6a88a5d2e27d718cb883bc1e/Sink-Des_Green-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-24T15:02:32+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Tricky 'SynkLoader' Multitool May Herald Ransomware An advanced, multilingual malware family brings back a trick from yesteryear \u2014 screen hijacking \u2014 for effective password theft, along with a slew of novel features.",
+    "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware"
+  },
   "https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf6b44cf37bbcf09b/69ea75dbb14e60a8c0fb9e7b/tropical1800_Marc_Anderson_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -46867,5 +47084,14 @@
     "source": "darkreading",
     "summary": "And the Winner in Dominant Malware Delivery? ClickFix Researchers say the highly effective social engineering technique is no longer the exception for malware attacks \u2014 it's now the rule.",
     "title": "And the Winner in Dominant Malware Delivery? ClickFix"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfa2c2aaf0a60b49e/6a8caeb8c3ca75471601b401/zimbra_OpturaDesign_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-24T21:46:55+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
+    "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch"
   }
 }
