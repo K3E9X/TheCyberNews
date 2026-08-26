@@ -13730,6 +13730,15 @@
     "summary": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath.\n\nThe fla\u2026",
     "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers"
   },
+  "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6XLRNvnqL3SBGR1Hrv9eIrUlQ8Tr6RhA2dwxYZYKiNoh7qZwgA8aGATBHsDqQCD6ilgXGlLdMIs54WZ5jEW4G_TjJiFyQ6u5acpyUE5vdHa-0E-SZwIliX9sTQqcOw6pNG0TlGm-lUQrvdEEKdSOnB-Mep1U7GVVW-qOQiD1PEDItN-lDv3mOjexfo29x/s1600/cf-phishing.jpg",
+    "published": "2026-08-25T11:52:43+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages.\n\n\"While the ma\u2026",
+    "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages"
+  },
   "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA5ySurVDL2oPvG7l78G22fbZEDplybrP5KX79GCEuhHybqkIgDGWDY_iHNfSLhKMt4sxn51CF33lRNwyjQy-l4Zajbkl9qUFxsjHEIoVsFhWBcGoHavMzOnmbWAI-8VHreBmZhuoCPs_N5KAKLFccr-bFLhzvJq12bvhvp5upRSkZulRN4tUDUTkfTRqo/s1600/firefox.png",
@@ -13756,6 +13765,15 @@
     "source": "The Hacker News",
     "summary": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car tele\u2026",
     "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices"
+  },
+  "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMaJs9yp_YLYc3dgsmzjU4_ma-6DC3KNpG4d3KhKtoIuhtpbYSnK0Wed5_8a0Jm6epc_RdLE9PVMO0FnkH7DFwRAI7lBZBXImFEu1emv-OarT-LPYE-QymTXPMkmDsYBXsz1TB3gASsiAEgZ4Jvt1YzQM3KHYpV0HMck686hTcXB7pn7uqLu2uTLVgPyE/s1600/nvidia.jpg",
+    "published": "2026-08-25T14:07:37+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden inst\u2026",
+    "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw"
   },
   "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html": {
     "categories": [],
@@ -13891,6 +13909,15 @@
     "source": "The Hacker News",
     "summary": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska).\n\nThe vulnerability\u2026",
     "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution"
+  },
+  "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtxn6tX1r1BmVfN_4cdoh6p5jmcAe3D9ckNhjscacXx5HpxZJAdb1SvIWo404cGlwahzCLyFIRB-MdUjGcQdBLLC5pMwaCB75e9AT5jKvC49cvIP5jGIOB4IjcQGaOpibWbIPKj929DICeMilGRZn5JmVIcVslRm2hWgz5RTXIZK5d2b2N5dlEnRBBwWVO/s1600/wordpress-hack.jpg",
+    "published": "2026-08-25T08:34:07+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any W\u2026",
+    "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access"
   },
   "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html": {
     "categories": [],
@@ -14081,6 +14108,15 @@
     "summary": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A \u2026",
     "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup"
   },
+  "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfnIeYEGY0lITUrkeCakPqo92gxAk1t2Rduq3Vvt-EkhAxg_vRxWngUZQjifYgv1MUnKyZMOzTPFtlOpkMfpn6K5V0ofNKBc5w0y4X2Kb3Zeoal_5J-yhUX8oPUHY8KUkDHvGc7mwp5mWm1q4pS8Xssnm13SVe9Ziunr0UeNwTq2smwxIXAP7yU_iY2rtz/s1600/cisa-git.jpg",
+    "published": "2026-08-26T06:27:07+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea.\n\nThe vulnerabil\u2026",
+    "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload"
+  },
   "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLiZpsYdSdkh6GE1rDDV3XVwWiGdjWBlx3B1irY9V5RtHt1cv7sQYPaa16y78EJdluo3FTMr5Wq0O2ZCWZjRMdrewgLrGJS3Ii_NLOQKQKN18PEGHhDiSyJtvf8TpdFrrIplaynGWNVmUxdAkyL7E8h_GtKfog8EE_TV25SySHFqbQgK3ChyphenhyphenKaKktnUic/s1600/gitlab.jpg",
@@ -14144,6 +14180,15 @@
     "summary": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader \u2026",
     "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT"
   },
+  "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2i7P2s27TjJNZnYUm7sRvosSHWRKaS2x-ITabU2QoWKkFiXRH1ggmPOby95djEZo62zvTn3LviG9HuetNXjY9km-dk9XqX_yNzD0Vh6yUfisio5rUP7c0DPDhW_1J877JL4RVY0QjM2vDXXH62rGegDhL0sSPedL99_Rw8P_z-LM67zUFXCiSI1mXGhoM/s1600/ftp-server.jpg",
+    "published": "2026-08-25T11:33:44+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del\u2026",
+    "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands"
+  },
   "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitKWjeNJOL_DEahUmMAYpH9qh94s2iFi8igtfSlAzOVWiUBU-EIM0MWMsFYPmA5NDL6Rs9E-w9vvCmw3Cc6Og0q-TDt87Q2hwYIePNAQ0xQ3OJYHzgCizDFm-YK9SxW4ncWnuVLaOzgb3SPO7Qpx17zHMaFzBQfYllgz5IP-p1jMALgWlasRkj1nV3Tq3G/s1600/wordpress.jpg",
@@ -14180,6 +14225,15 @@
     "summary": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and sy\u2026",
     "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access"
   },
+  "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ7ibePn1YRPkAC27RIrMl_O-41pR7ieF0Mkpr8WUTkzCddWjpttUiIrXWI3CYGukgNR8eoppnOFUYjzSbEm66XiK4ttGge7-KicMnSf49N5L-wKXyf4NIzWi1Yi5JbKQXPYpmtWfZfMADrNswG9-ZfOOE9LjWwUFl7twHmvEskgU9iXPR5AGEQ4hUETo/s1600/iphone-passcode.jpg",
+    "published": "2026-08-26T05:47:28+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call thef\u2026",
+    "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes"
+  },
   "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvsPqZrMBUJ3CH2LqsxL_1HWV6F-qs8FbnvytY_bz9ZlSUptj-3SPJ-BAlDBrF9V39V2F_D35LPU8BgSdDNfyPi2tqESWH_g2qzP2ospA36aF2CexX2_bRw7ee6qG4uqAyI24lavgb5wER2wuKWYd6rOUpdG0pbhlR4aAtEvSTuAQYmv8a5izEpv63mcA/s1600/phish-main.jpg",
@@ -14197,6 +14251,15 @@
     "source": "The Hacker News",
     "summary": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susce\u2026",
     "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads"
+  },
+  "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw3Y0aFTDbQ21xc915TfR8Ij8yXtuti3S7fG8opbdhlekh0FmwKsgWcuHXs8kCr01WBmZCInn_OldVjnXtLed_aDiCd41L1kkup8-CXGOkc4YLfZq7dmlkSNiaT4EHNMqcoA10SOr018r6ZElA3HMOOLWi9Ye-99WlJzKtX4vdDgPZSWwfpgT9Eo8mres/s1600/sans.jpg",
+    "published": "2026-08-25T11:14:07+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Frontier AI: Vulnerability Management's Systemic Revolution Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time a\u2026",
+    "title": "Frontier AI: Vulnerability Management's Systemic Revolution"
   },
   "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html": {
     "categories": [],
@@ -14405,6 +14468,15 @@
     "summary": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financia\u2026",
     "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices"
   },
+  "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpC_dsMXsEscdzMT8fjZ3uZ86XgjBqYcYWA7ZodJJUvbK6vnmafx_dANiNsjoAeqYwDxzqeTerWaWEIMIZSmp7CqfynzhkfKEnuGIoizK5vihRhSJIeOVn4cK3CdIFjnURkvQvI1VX-Gm11mqNmxOQPVK5loEBRZ2ELFzLc1Y8C_z_ajrA5beUowEfwg0/s1600/marimo.jpg",
+    "published": "2026-08-25T12:43:51+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook,\u2026",
+    "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode"
+  },
   "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv2q8ukeawl9ALLfPnkrRkD2a9umOrSxPHUJdclgLcKj5zM8k19y-NWuTGLrV1yIU4u0F2-QbAsD4zO-NkeEuWPwDqdUYbVFDG69EgOl0v55K0Brjp7lfIb6hExJGyVj9rj5KjeZPtoU97DwoaHAi_umLzQVqpedMMt08eas1akWBhNXUZ2WHOqVXczAf4/s1600/metabase.jpg",
@@ -14467,6 +14539,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks.\n\nThe bug sits in a core Windows kernel driver that handles network sock\u2026",
     "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack"
+  },
+  "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSPS7eK6wOjr-bcJ7RjMVB4C03l21IHeGkyUQNGJANpvXsE90ssTzIlECk6HcpnLkw5_4PYTQ7ZP9k8pj2GBmvLnIfFkv6e-0NkLC4ouAf8Hn24SrQY2egjmzprIkgcvfLRHrYrzPYtx6mXKb59jjGazFjHe_7ttNqB-7AX0OB8ZvTI_QpgCA_NCEZY8Q/s1600/usa.jpg",
+    "published": "2026-08-25T11:56:15+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows a\u2026",
+    "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows"
   },
   "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html": {
     "categories": [],
@@ -15035,6 +15116,15 @@
     "summary": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call,\u2026",
     "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access"
   },
+  "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Uq1yn-ay_vU25xZUbhhvnVMHSWo2rQwy4HhIfNIdnk-MIF-cbtytzKqkvrcBNIGy6fDgW22x0dMZiNhTmvTY_V6SxK-FE6VificiC99BkJMHaWdJB_-tSZeNeM96lL-HaG4VvrBRuA3JmPlkL3sE_F6kfJYhW_ZaXXQK0dses4BK6A2G4yF9GsHUrgXo/s1600/iranian-hackers.jpg",
+    "published": "2026-08-25T18:17:17+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its ena\u2026",
+    "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches"
+  },
   "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDed_n3TJGLHvhq2MkwkQTsKgIv_rOw24MRfYCoHnHiOK7r-VbitMrwXXF9H_Gwbegba20Dla1FLyK70-OQRVxiHfikBFrz6jei3QK5u4ApbR4aYuLikQj1YHU2IzA1V4fnR7Wgcp8H1NoYzSeTTOUd4dNTuE71jNUNq-P4yk0H9FkW55wivMDdNe0nE/s1600/veeam.jpg",
@@ -15106,6 +15196,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain p\u2026",
     "title": "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More"
+  },
+  "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqyjfLJEnp8xcmcz9iVBOKykdcxx36J8KgONSwImU9YSYuvWD_uzKDaGkJre9D_8P1XLdE8vPHqNyBUKOvjYPLJj_oZ1T-pfUxdOm-bZTtaz4LC2eVcuFloJTtEE7IWVnOaVJIEtFUoPKfOn9xeBASQG7e7X2-wA7P-hwGIzqP7G_-Ot2BOpj-OSO0tUBh/s1600/whatsapp.jpg",
+    "published": "2026-08-25T13:19:41+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into thei\u2026",
+    "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android"
   },
   "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html": {
     "categories": [],
@@ -17956,6 +18055,17 @@
     "summary": "Microsoft plans to improve Windows 11 driver quality in 2026 Microsoft plans to raise the quality bar of Windows 11 drivers, as drivers \"sit at the heart of every Windows experience\" and connect the OS to the \"silicon, components, and peripherals.\" [...]",
     "title": "Microsoft plans to improve Windows 11 driver quality in 2026"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-08-25T13:51:58+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows Microsoft updated its Windows PowerToys toolset with a new utility\u00a0dubbed \"Window Hopper\"\u00a0that lets users switch between an app's windows more quickly. [...]",
+    "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-new-cursorwrap-mouse-teleport-tool/": {
     "categories": [
       "Microsoft"
@@ -20394,6 +20504,19 @@
     "source": "BleepingComputer",
     "summary": "Android mental health apps with 14.7M installs filled with security flaws Several mental health mobile apps with millions of downloads on Google Play contain security vulnerabilities that could expose users' sensitive medical information. [...]",
     "title": "Android mental health apps with 14.7M installs filled with security flaws"
+  },
+  "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/": {
+    "categories": [
+      "Security",
+      "Apple",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-08-25T20:25:26+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
+    "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes"
   },
   "https://www.bleepingcomputer.com/news/security/anthropic-claims-of-claude-ai-automated-cyberattacks-met-with-doubt/": {
     "categories": [
@@ -26100,6 +26223,17 @@
     "summary": "From Cipher to Fear: The psychology behind modern ransomware extortion Modern ransomware has shifted from encryption to psychological extortion that exploits fear, liability, and exposure. Flare shows how today's ransomware groups weaponize stolen data and pressure tactics to for\u2026",
     "title": "From Cipher to Fear: The psychology behind modern ransomware extortion"
   },
+  "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-25T14:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organization\u2026",
+    "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk"
+  },
   "https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/": {
     "categories": [
       "Security"
@@ -27187,6 +27321,17 @@
     "summary": "Hackers abuse Notepad++ plugins to stealthily install malware Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
     "title": "Hackers abuse Notepad++ plugins to stealthily install malware"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-25T21:39:01+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers abuse npm mirrors to host phishing redirect pages Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]",
+    "title": "Hackers abuse npm mirrors to host phishing redirect pages"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-abuse-triofox-antivirus-feature-to-deploy-remote-access-tools/": {
     "categories": [
       "Security"
@@ -27331,6 +27476,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers breached a small Polish energy plant via private APN last year Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
     "title": "Hackers breached a small Polish energy plant via private APN last year"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-25T12:04:02+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers breached over 270 Zimbra servers in ongoing attacks Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]",
+    "title": "Hackers breached over 270 Zimbra servers in ongoing attacks"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/": {
     "categories": [
@@ -28057,6 +28213,18 @@
     "source": "BleepingComputer",
     "summary": "Home security giant ADT data breach affects 5.5 million people The ShinyHunters extortion group stole the personal information of 5.5 million individuals after breaching the systems of home security giant ADT earlier this month, according to data breach notification service Have \u2026",
     "title": "Home security giant ADT data breach affects 5.5 million people"
+  },
+  "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/": {
+    "categories": [
+      "Security",
+      "Healthcare"
+    ],
+    "image": "",
+    "published": "2026-08-25T14:44:16+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Hospital operator Nutex Health says data stolen in cyberattack Healthcare and services provider Nutex is investigating a data breach incident\u00a0where an unauthorized third party exfiltrated information from company servers. [...]",
+    "title": "Hospital operator Nutex Health says data stolen in cyberattack"
   },
   "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/": {
     "categories": [
@@ -29189,6 +29357,17 @@
     "summary": "Kyber ransomware gang toys with post-quantum encryption on Windows A new Kyber ransomware operation is targeting Windows systems and VMware ESXi endpoints in recent attacks, with one variant implementing Kyber1024 post-quantum encryption. [...]",
     "title": "Kyber ransomware gang toys with post-quantum encryption on Windows"
   },
+  "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-25T21:58:14+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "LACMA data breach last year exposed social security and medical data The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
+    "title": "LACMA data breach last year exposed social security and medical data"
+  },
   "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/": {
     "categories": [
       "Security"
@@ -29821,6 +30000,17 @@
     "source": "BleepingComputer",
     "summary": "Massive ChainDrop npm supply-chain attack infects hundreds of packages Self-propagating malware named 'ChainDrop' has compromised more than\u00a01,300 packages with a combined 2 billion monthly downloads\u00a0on the Node Package Manager (npm) registry. [...]",
     "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages"
+  },
+  "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-25T15:52:36+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Massive DDoS attack disrupts Norway\u2019s government digital services A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]",
+    "title": "Massive DDoS attack disrupts Norway\u2019s government digital services"
   },
   "https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/": {
     "categories": [
@@ -33280,6 +33470,17 @@
     "source": "BleepingComputer",
     "summary": "Police arrests 651 suspects in African cybercrime crackdown African authorities arrested 651 suspects and recovered over $4.3 million in a joint operation targeting\u00a0investment fraud, mobile money scams, and fake loan applications. [...]",
     "title": "Police arrests 651 suspects in African cybercrime crackdown"
+  },
+  "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-25T10:53:20+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Police arrests dozens of suspects in global cybercrime crackdown Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]",
+    "title": "Police arrests dozens of suspects in global cybercrime crackdown"
   },
   "https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/": {
     "categories": [
@@ -37644,6 +37845,17 @@
     "summary": "What Happens in the First 24 Hours After a New Asset Goes Live When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise in under 24 hours. [...]",
     "title": "What Happens in the First 24 Hours After a New Asset Goes Live"
   },
+  "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-25T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "WhatsApp adds stronger two-step verification, multiple passkeys WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]",
+    "title": "WhatsApp adds stronger two-step verification, multiple passkeys"
+  },
   "https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/": {
     "categories": [
       "Security"
@@ -40725,6 +40937,15 @@
     "summary": "Healthy Security Cultures Thrive on Risk Reporting The signs of an effective security culture are shifting as companies call on CISOs and security teams to raise their hands unabashedly.",
     "title": "Healthy Security Cultures Thrive on Risk Reporting"
   },
+  "https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb89ba684bc1c6174/6a8df1b462865819d86ce1bf/llm_gguy_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-25T21:08:55+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Hidden Prompts Trick AI Into False Email Summaries With some simple HTML that's invisible to users, attackers can manipulate AI-powered email summarizers into producing malicious information.",
+    "title": "Hidden Prompts Trick AI Into False Email Summaries"
+  },
   "https://www.darkreading.com/cyber-risk/how-cisos-can-best-work-with-ceos-and-the-board-lessons-from-the-field": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt972f0f9a7fc30a5c/691732bcbbb89425cc630efe/colleagues_Cavan_Images_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -40964,6 +41185,15 @@
     "source": "darkreading",
     "summary": "Nation-State Hackers Put Defense Industrial Base Under Siege Espionage groups from China, Russia and other nations burned at least two dozen zero-days in edge devices in attempts to infiltrate defense contractors' networks.",
     "title": "Nation-State Hackers Put Defense Industrial Base Under Siege"
+  },
+  "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd29ebaa9ac3f0fdd/6a8d90fa24739f39a5e9ecd4/openclaw_Koshiro_K_shutterstock.png?width=720&quality=80&disable=upscale",
+    "published": "2026-08-25T19:50:16+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw Attackers can exploit a security bug in NVIDIA's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
+    "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw"
   },
   "https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection": {
     "categories": [],
@@ -43476,6 +43706,15 @@
     "source": "darkreading",
     "summary": "Iran-Nexus Threat Actor UNC1549 Takes Aim at Aerospace Researchers say Israel remains a central focus, with UNC1549 targeting aerospace and defense entities in the US, the UAE, Qatar, Spain, and Saudi Arabia.",
     "title": "Iran-Nexus Threat Actor UNC1549 Takes Aim at Aerospace"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2d6c1792a2093976/6a8daf2931dc781c97eef199/GettyImages-147695159.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-25T14:53:13+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Is Cyber Facing an Affordability Crisis? As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security.",
+    "title": "Is Cyber Facing an Affordability Crisis?"
   },
   "https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery": {
     "categories": [],
