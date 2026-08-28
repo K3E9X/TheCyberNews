@@ -13730,6 +13730,15 @@
     "summary": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath.\n\nThe fla\u2026",
     "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers"
   },
+  "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_QtvF-9M9imh55UP7qeyFUNhKknBwEcmcbIa34vndzIHinEk754vasbvTqILRNrtp6BDpuR8VzAyk0_Wt1tJB4hjUlgaO5Rb6Wru-WoXlrCPIXLr0I_oBhA7BwQDoO3MH82uloaG-qXyHAloI7r2zuWNfygFNeiSYAZeWyDn8_smuzrgvsvk0eQEX5klW/s1600/1000103889.jpg",
+    "published": "2026-08-28T15:27:26+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptoc\u2026",
+    "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code"
+  },
   "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6XLRNvnqL3SBGR1Hrv9eIrUlQ8Tr6RhA2dwxYZYKiNoh7qZwgA8aGATBHsDqQCD6ilgXGlLdMIs54WZ5jEW4G_TjJiFyQ6u5acpyUE5vdHa-0E-SZwIliX9sTQqcOw6pNG0TlGm-lUQrvdEEKdSOnB-Mep1U7GVVW-qOQiD1PEDItN-lDv3mOjexfo29x/s1600/cf-phishing.jpg",
@@ -13856,6 +13865,15 @@
     "summary": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data\u2026",
     "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers"
   },
+  "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHdeGqGafTZXNtGvV_-qR7K3QId_-DpEfOzetKbhVQvNdNyTMAy-6gLXVFlkMHsGDN2wKK8v1ZMeOKe9_3XVYAY5TVkqH2heesi0c_QmJzLpDX1M-XfOtI_W4Qe8OM8Yhin40QWvN0XHvU9cqDlZH3eeZY_18euIxiBdcbhWMVnXct-x84k2gvchQYSiuN/s1600/1000103901.jpg",
+    "published": "2026-08-28T16:20:46+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks.\n\nTopping the l\u2026",
+    "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers"
+  },
   "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1EQE-DqLXTzpjwGf3nQnM4CTnjibkKl_2ersn8abw3Gmqoc5MUaFC2LvkA7c6Xoa0XBPZeHL4wHHiXU7Pc9nGLcI1zTorwFTwvYXfww4Q68oSUrgcQhmBzQBNqYp-woIZFK_I1OOsnBNptiwA90VHhpE_hvlz3qdFomOmOMLreYe5YCenvR2CeawvRrMU/s1600/car.png",
@@ -13874,6 +13892,15 @@
     "summary": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC-NL) has\u2026",
     "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner"
   },
+  "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhjJnzm1UIfq8P7glIadtS8dGFvdsASot4sviMtZtFwpKL5B_2upZBcjMdYEBDcSnGmxpKP5LPUQ4XTpao-qCCbe6hQYF9qQBF7bhcPcZJkaz8KY9CCaKBRe-iu3ovbkZWjjtWEs_XJ9hl7D9ZRdKK9LqJynEh9XQ_7o8HZGi572pfnKyt3Yznk1QA311_/s1600/eu-meeting.jpg",
+    "published": "2026-08-28T08:20:59+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and T\u00fcrkiye between late September 2025 and early April 202\u2026",
+    "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations"
+  },
   "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFYjJTxVoOMkR9DDRPZ5PkeR_EWAqmBScR3TPw3mlweipGlnQKq0OdfVqR2f26QIV3kBJWQIM65f8XwMSFq3zT6Bl4fsTvkPHxJiU2LilhK9s0tcreXt2gotEpE8sKoDrLQJ3SSVY9B-RS0FsS2dC480op8OV-caeaZvNyTiIipQbeNFJGMnAcjWEVq7g/s1600/rovo.jpg",
@@ -13882,6 +13909,15 @@
     "source": "The Hacker News",
     "summary": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that\u2026",
     "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers"
+  },
+  "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdtPabCvuR_F2UFdCw8LS5eoXtD-jOpbuCy8WZYRycSP2vu_6yQK45qTehHimhoS-eXFPMTwg5jNM3m_X7ma5ELVz60Rjt3rlQhrqE4iTz8ggysLCt388GyaBVQbT28sGDv9a6drKNZooBiQNy0L3v8Gc3vxB9JILUD-eTtj5LZAlBbA3EyLlp5SkgIKPG/s1600/1000103914.jpg",
+    "published": "2026-08-28T17:12:15+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardenin\u2026",
+    "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication"
   },
   "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html": {
     "categories": [],
@@ -13981,6 +14017,15 @@
     "source": "The Hacker News",
     "summary": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor.\n\nThe use of StormEnc\u2026",
     "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw"
+  },
+  "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0i2viN2zKBeSxzTqoxZkPNq_6lPMDBLb18zbLPwufsY4mFm494ydDDAWi6gGwy6PsmRGublHFmdmcEiGKViLuUgaJwWux_YUW7HQHuGbbf04HGNpoZa6QLmvf1IHE04TeTT89Yc1_jo0z6mptCbX-fIhVEVQzg5GnfU2Uya4HHASHbttTBGMxl7KMkbM/s1600/router-malware.jpg",
+    "published": "2026-08-28T10:58:29+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote att\u2026",
+    "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access"
   },
   "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html": {
     "categories": [],
@@ -14125,6 +14170,15 @@
     "source": "The Hacker News",
     "summary": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Cold\u2026",
     "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes"
+  },
+  "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtKp2lGcxPfp8ymA88FIBXB0Bn9fcUSaU_UIl1pfAjDSC2usRwUE73vhQEeP6jar9U9k10yotgyYl_tIk6dQA-MFIr2bJ3LN_azGt9kDU6hpW448HgmBuJbc6TWSo1vfpmhoK0J3_5rhF6VIpWd7NYf0G1YSYHdqKubWgQwa1yU6KRAL-bnDGd8HmCmPk/s1600/cpanel-root.jpg",
+    "published": "2026-08-28T09:45:15+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user.\n\u2026",
+    "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server"
   },
   "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html": {
     "categories": [],
@@ -14449,6 +14503,15 @@
     "source": "The Hacker News",
     "summary": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk Kali365 is turning a legitimate Microsoft login into a gateway to corporate data.\n\nThe phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microso\u2026",
     "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk"
+  },
+  "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtiQiqrq5S2ip1c5QHUZaJADW3_fskqNx6rhLXi2mGqOH5NGwuTwmFXPtqLpFKXDLVMtG-rZTTVlRh8ZVJON5DFBxdE7RwCN8_Fh0Y_mypooHEo4yZeYB-FoGinET6wHzTwgYWDMeZxVT9b-uCQSJ7bLEZdzRUglWWuOY5ItZyGC94Xo85iFck6FMmUmY/s1600/orchid-main.jpg",
+    "published": "2026-08-28T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Key Reasons Why Identity Fabric Matters in 2026 An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated workloads, id\u2026",
+    "title": "Key Reasons Why Identity Fabric Matters in 2026"
   },
   "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html": {
     "categories": [],
@@ -14810,6 +14873,15 @@
     "summary": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increas\u2026",
     "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior"
   },
+  "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpo4ImsmaHcawsJN9e4E5SzjUF-nbgOxCyybx3DIguSY_exMP1jhR2BZJ3yE2ZqGOE5c6_NvldW6id4Nm_NgcVrrRPALnw1fNbiisTiy8QFiIKriNiWRq6JMb5QcQTcDBaV_T3r6QYR9VC_FwtLg-G6lSYNM0F3n7q_HXI7aScGzMNB-OwLs6U9iqdk7Gs/s1600/openai.jpg",
+    "published": "2026-08-27T18:36:19+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned b\u2026",
+    "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face"
+  },
   "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgat4Wvo6Fpe6pNG66UengjFIWRohQUVp-khyphenhyphenxa57n9Ued3-mWlDeeTQkblpAP-OEjgSCbY0n1bC_MhI3a5_BF1bWq7rBohkS2DG1AXUtcDI8MuWPRMFKGNdteA7_Xkg-_6w-y-wao14ZPQWoRF8cnbibQYHUAGP1byqwYyBpcyvCBQd0h2fe6t94zvoa4j/s1600/openai-astra.jpg",
@@ -14854,6 +14926,15 @@
     "source": "The Hacker News",
     "summary": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) a\u2026",
     "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports"
+  },
+  "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3avAnoYOOKqF8JpZv9Lng1lKE0AqmHOqM-Mq2T297NQrtDBM90yMYIzzVMHgzqytcCvFz7LuBXoPp-d9mRh0_dywBaM8NxZaiKPG0gDuYbSt2oRJdxSkHG5tWjxAMKvWUYZe6YINf_-7i5zUS7xGrDcaXulRvT5jVihWDJzAHSlaXQ6UYlHa6cPMpxbDC/s1600/papercut.jpg",
+    "published": "2026-08-28T08:25:36+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks.\n\nThe company ha\u2026",
+    "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions"
   },
   "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html": {
     "categories": [],
@@ -15026,6 +15107,15 @@
     "summary": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia.\n\nThe intrusion set makes use of seven remote access tool (RAT)\u2026",
     "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs"
   },
+  "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZPm0X6hW-nz0AFZIB6eOBMEssN6dF5qeh2EOIBm1-ftaBEqcvJC5M0r_g3j-6Sp9x4sUnxVeOToWN_bFbr6T9flaScRcze4DRga0nqNe3LeQSvZaNPTiZC2C8GUeWWxMmIF1mybwuDaq5ZZummYiynDkf_1evTLKPicf4f2UUUb2d-0MMG6Ix-00ImwFN/s1600/1000103895.jpg",
+    "published": "2026-08-28T15:56:55+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports tha\u2026",
+    "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body"
+  },
   "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJW5BJKjwNfnH2t8RrvgW0wUO3_ZJWnw30aS6GlU9qoaOWMQcyoZ9ZOZmTgLo7hWAqHlKDK2b4MrtF23Jv_1-1Ffd6bo6VlR8exLvIISBANwjHnW3dv7wLgCtyCIDlndpJ67TajeEpN-Ww9eVVutmS4fTpcDPJtlAk_ZU0GLtnkDvYLlqWPv75uMH7ob__/s1600/snowflake.jpg",
@@ -15152,6 +15242,15 @@
     "summary": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job.\n\nThis week runs on \u2026",
     "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories"
   },
+  "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitiido-BqtV-H4U0qEAovU_m3NGb3PHF5O3IEh53W_rllGDplhA8aluEKIUULFq3L7iNQue-NLxQDR3wSF7PaaAhGg14rWdqHoB6jBZC1YfslM0wyj5xhESZKTbIxgjO_lnZqVOrKx_E2hK-wXtE85EPJW-pV8D3eMv9CWgMF8eXzsJgq3xevdBY9hCs0/s1600/servicenow.jpg",
+    "published": "2026-08-28T11:20:32+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, b\u2026",
+    "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL"
+  },
   "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuigeGBdB6K4zmYLAIVAQ2NR4LskJUGGLo94UiAtL1d89WIdT3ekZUY58J7Em-QxANVODEDSuLoEwVlBKiwEQCBss89hDYzpOuUWcAd8bUphqatYsgIA801ytGpe6c9Pr66CZicJqHx81XREePakS0n3RhYGdD_awrTW5UNGjUdSEmwcKo0K5UOrOIdyGo/s1600/tiktok.jpg",
@@ -15187,6 +15286,15 @@
     "source": "The Hacker News",
     "summary": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT.\n\n\"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate \u2026",
     "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks"
+  },
+  "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKqNVrCXSaUDXfrGPJkoRoXBPQW4qwhdYqm2SMVaunZNwBrQ4FbURK-gtVawzaje20fK_m9q2dKepfj-dxmkvfKL4se3ZQ1YAI3iogqCft1UjVadJa_uBoQxFuoBpWfx2Dh3S4-jQLa7c4E9OOyQfVAT5BVKVShPykiPWEuYcchIPHFC4e5GduyW4iBio/s1600/Humanoid.jpg",
+    "published": "2026-08-28T12:07:24+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach r\u2026",
+    "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth"
   },
   "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html": {
     "categories": [],
@@ -19991,6 +20099,18 @@
     "summary": "6 Okta security settings you might have overlooked Okta misconfigurations can quietly weaken identity security as SaaS environments evolve. Nudge Security shows six Okta security settings teams often overlook and how to fix them. [...]",
     "title": "6 Okta security settings you might have overlooked"
   },
+  "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-08-28T16:36:47+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "68-year-old imprisoned after making $1.3 million by pirating IPTV services A 68-year-old has been sentenced in the U.K. to more than six years in prison for operating an illegal IPTV (Internet Protocol Television) service that generated \u00a3980,812 ($1.3 million) over three years. [\u2026",
+    "title": "68-year-old imprisoned after making $1.3 million by pirating IPTV services"
+  },
   "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/": {
     "categories": [
       "Security"
@@ -20289,6 +20409,17 @@
     "source": "BleepingComputer",
     "summary": "AI is accelerating cyberattacks. Is your network prepared? AI-driven attacks now automate reconnaissance, generate malware variants, and evade detection at a speed that overwhelms traditional defenses. Corelight explains how network detection and response (NDR) provides the visib\u2026",
     "title": "AI is accelerating cyberattacks. Is your network prepared?"
+  },
+  "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-28T14:00:10+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up? AI is accelerating vulnerability discovery, putting pressure on systems built to enrich, prioritize, and remediate flaws at a slower pace. Action1 explains why defenders increasingly need to correlate multiple int\u2026",
+    "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?"
   },
   "https://www.bleepingcomputer.com/news/security/ai-is-rewriting-compliance-controls-and-cisos-must-take-notice/": {
     "categories": [
@@ -26725,6 +26856,17 @@
     "summary": "GitLab warns of high-severity 2FA bypass, denial-of-service flaws GitLab has patched a high-severity two-factor authentication bypass impacting community and enterprise editions of its software development platform. [...]",
     "title": "GitLab warns of high-severity 2FA bypass, denial-of-service flaws"
   },
+  "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-28T18:18:55+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "GiveWP WordPress donation plugin flaw lets hackers execute server commands A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]",
+    "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands"
+  },
   "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/": {
     "categories": [
       "Security"
@@ -31079,6 +31221,18 @@
     "summary": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks The attack surface targeted by Iranian-linked hackers in cyberattacks against U.S. critical infrastructure networks includes thousands of Internet-exposed programmable logic controllers (PLCs) manufactured by Rock\u2026",
     "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks"
   },
+  "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-08-27T21:38:53+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
+    "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack"
+  },
   "https://www.bleepingcomputer.com/news/security/nearly-800-000-telnet-servers-exposed-to-remote-attacks/": {
     "categories": [
       "Security"
@@ -33242,6 +33396,17 @@
     "summary": "Over 6,000 SmarterMail servers exposed to automated hijacking attacks Nonprofit security organization Shadowserver has found over 6,000 SmarterMail servers exposed online and likely vulnerable to attacks exploiting a critical authentication bypass vulnerability. [...]",
     "title": "Over 6,000 SmarterMail servers exposed to automated hijacking attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-28T12:58:43+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Over 8,300 Gitea servers vulnerable to code execution attacks Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]",
+    "title": "Over 8,300 Gitea servers vulnerable to code execution attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/": {
     "categories": [
       "Security"
@@ -33362,6 +33527,17 @@
     "source": "BleepingComputer",
     "summary": "Panera Bread breach impacts 5.1 million accounts, not 14 million customers The data breach notification service Have I Been Pwned says that a data breach at the U.S. food chain Panera Bread affected 5.1 million accounts, not 14 million customers as previously reported. [...]",
     "title": "Panera Bread breach impacts 5.1 million accounts, not 14 million customers"
+  },
+  "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-28T19:08:26+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "PaperCut releases second emergency patch for exploited flaws PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fi\u2026",
+    "title": "PaperCut releases second emergency patch for exploited flaws"
   },
   "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/": {
     "categories": [
@@ -34989,6 +35165,17 @@
     "summary": "ServiceNow discloses security incident exposing customer data ServiceNow is warning about a security incident after attackers exploited an unauthenticated access flaw through a vulnerable API endpoint, allowing them to query data from customer instances. [...]",
     "title": "ServiceNow discloses security incident exposing customer data"
   },
+  "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-28T10:29:42+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "ServiceNow warns of three max severity security vulnerabilities ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]",
+    "title": "ServiceNow warns of three max severity security vulnerabilities"
+  },
   "https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/": {
     "categories": [
       "Security"
@@ -36427,6 +36614,17 @@
     "source": "BleepingComputer",
     "summary": "ToxicPanda Android malware uses VPN permissions to block Google Play The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
     "title": "ToxicPanda Android malware uses VPN permissions to block Google Play"
+  },
+  "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-28T11:46:57+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Toy-making giant Hasbro disclose data breach affecting employees Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]",
+    "title": "Toy-making giant Hasbro disclose data breach affecting employees"
   },
   "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/": {
     "categories": [
@@ -38441,6 +38639,17 @@
     "source": "BleepingComputer",
     "summary": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026 On the first day of Pwn2Own Berlin 2026, security researchers collected $523,000 in cash awards after exploiting 24 unique zero-days. [...]",
     "title": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026"
+  },
+  "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-28T09:10:13+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 KB5120998 update released with 35 changes and fixes Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search. [...]",
+    "title": "Windows 11 KB5120998 update released with 35 changes and fixes"
   },
   "https://www.bleepingcomputer.com/news/security/windows-11-now-supports-3rd-party-apps-for-native-passkey-management/": {
     "categories": [
@@ -43415,6 +43624,15 @@
     "summary": "Afripol Focuses on Regional Cyber Challenges, Deepening Cooperation Rapid digitization, uneven cybersecurity know-how, and growing cybercriminal syndicates in the region have challenged law enforcement and prosecutors.",
     "title": "Afripol Focuses on Regional Cyber Challenges, Deepening Cooperation"
   },
+  "https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltce924127fd8e0803/6a8f2fc0c3a51d86ffd17b48/Digital_Cat-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-27T17:25:09+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Agentic AI Risks, CVE Program Concerns Permeate Black Hat USA 2026 This installment of the Reporters' Notebook video series discusses the topics that dominated the cybersecurity conference, such as AI's effects on vulnerability reporting and security research.",
+    "title": "Agentic AI Risks, CVE Program Concerns Permeate Black Hat USA 2026"
+  },
   "https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte217b770933bdcd6/690ceee03ce143613d3f62e0/man-selecting-AI-agent-ImageFlow-shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -43786,6 +44004,15 @@
     "summary": "Dark Reading Celebrates 20 Years as a Leading Authority on Cybersecurity, Highlighting the People, Events, Ideas, and Technologies Shaping the Modern Risk Landscape Informa TechTarget's flagship cybersecurity media brand launches a special content series to mark two decades as a \u2026",
     "title": "Dark Reading Celebrates 20 Years as a Leading Authority on Cybersecurity, Highlighting the People, Events, Ideas, and Technologies Shaping the Modern Risk Landscape"
   },
+  "https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56383bd74ac17bbe/6a90a3f14885757c1a5662f0/AI-hand-security-Summit_Art_Creations-shutterstockjpg.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-28T13:30:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Defining an AI Kill Switch Is Hard, but Necessary Proposed legislation could mandate that companies be able to &quot;throttle, suspend, or shut ... down&quot; AI agents, but how and when to do that remain open questions.",
+    "title": "Defining an AI Kill Switch Is Hard, but Necessary"
+  },
   "https://www.darkreading.com/cybersecurity-operations/encouraging-industry-voices-write-commentary-section": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteaddff6b65ae38b4/67aa4fae2d58507b08e941c4/newspaper1800_Radharc_Images_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -44102,6 +44329,15 @@
     "source": "darkreading",
     "summary": "New Startup Mate Launches With AI-Driven Security Operations Platform Security teams can combat alert fatigue, high rates of false positives, and reduce time spent on manual data collection with Mate's SOC platform, which utilizes AI agents to autonomously investigate and resolve\u2026",
     "title": "New Startup Mate Launches With AI-Driven Security Operations Platform"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt95f718d0e919dd49/6a91bb856ab06b3d40bc21f3/lanowitz.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-28T18:25:43+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Offensive Security Investments Surge as AI Threats Increase Omdia's Theresa Lanowitz talks with the Dark Reading News Desk about the potential \u2014 and risks \u2014 of using agentic AI for penetration testing, red teaming, and other practices.",
+    "title": "Offensive Security Investments Surge as AI Threats Increase"
   },
   "https://www.darkreading.com/cybersecurity-operations/operation-escaneo-signals-shift-latam-threat-landscape": {
     "categories": [],
@@ -45187,6 +45423,15 @@
     "source": "darkreading",
     "summary": "World's First AI-Driven Cyberattack Couldn't Breach OT Systems The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.",
     "title": "World's First AI-Driven Cyberattack Couldn't Breach OT Systems"
+  },
+  "https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt497112cb6290f58c/6a907362bec2b81057f31da2/deception-Moor_Studio-getty-2184657782.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-28T14:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "You Need Cyber Deception for OT The frustrating reality after an OT cyberattack: no data, no trail, and no history.",
+    "title": "You Need Cyber Deception for OT"
   },
   "https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready": {
     "categories": [],
@@ -46978,6 +47223,15 @@
     "summary": "Check Point VPN Flaw Exploited Since Early May A newly discovered, critical zero-day vulnerability is under attack; a Qilin ransomware affiliate has been blamed for at least one incident.",
     "title": "Check Point VPN Flaw Exploited Since Early May"
   },
+  "https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt330ea172d982d2e3/6a907cb7e135de47e5ed61e2/Router-Deagreez-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-27T19:31:45+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Chinese Routers Sold Worldwide Contain Backdoors An untold number of ZBT routers sold around the world as white-label products come with several implants built by the manufacturer.",
+    "title": "Chinese Routers Sold Worldwide Contain Backdoors"
+  },
   "https://www.darkreading.com/vulnerabilities-threats/cisco-48-firewall-vulnerabilities-2-critical": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt520b3fe8296bdd08/68d5990a4fc4a31b083f6431/Cisco_firewall_panel_John_Kershaw_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -47615,6 +47869,15 @@
     "source": "darkreading",
     "summary": "Vulnerabilities Expose Private Data in Indian Government Systems One critical vulnerability, among many discovered by a researcher, could have allowed anyone to walk in and take over a national government portal.",
     "title": "Vulnerabilities Expose Private Data in Indian Government Systems"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5e076a0c3ac1a94e/6a90582107463c489bf30d27/New_York_flooding-jcrosemann-GettyImages-115026197.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-28T13:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "The Vulnpocalypse Is Repricing the Bug Bounty Economy The surge of AI-powered vulnerability reports is driving down bug bounty prices, and that could spell trouble for independent researchers.",
+    "title": "The Vulnpocalypse Is Repricing the Bug Bounty Economy"
   },
   "https://www.darkreading.com/vulnerabilities-threats/winner-dominant-malware-delivery-clickfix": {
     "categories": [],
