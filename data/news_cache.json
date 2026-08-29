@@ -13991,6 +13991,15 @@
     "summary": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable \u2026",
     "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins"
   },
+  "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRLS8X8abAbJ9p1f1jp9VIUeKfRa4l4gAIgmCWsw1eXZuJ7SY201P6w6V8NYVf1CHpaN_pyAuLg-6h-e9RYFBlBFsl3k5egiOnoj8ZiXScxu8El1jZExmlyNYfunp0Z4j5F0PYSg4Ltu0yldY-wKmI2TC5UU-7mrasEsZ_SyEso7dGFvLIpcA8hdHqVdw/s1600/berlin.jpg",
+    "published": "2026-08-28T21:30:52+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists\u2026",
+    "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network"
+  },
   "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu-MyaPNuRr2_NJ_TMqLf7OYW5AzCqgHpQ6HMfxlc-qsMzwSkfWlZDbHfecZ3IRp639FVDelhMZgpbnN87Fdchoh-g08R-cAiXxr7RvfdGy_ihvMxg152HK-rbOTIOnEueRTnPT-wU0eID3vplpIN1GBClvJC5e0egCGpDb_H0ykwH1x6a4zOvpW8V-Ssy/s1600/google.jpg",
@@ -14170,6 +14179,15 @@
     "source": "The Hacker News",
     "summary": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Cold\u2026",
     "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes"
+  },
+  "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHWwlkIrD4ix8P1j7FGJW7pl0e6W600w61mPcVBRsL7BqK_8SNTLSSk-4498ZuyThNbHG8FmtGoMlR9B9ujcXUlHnRb9NTpBhImouOWrQK2WaxVVd5rjjL62kXl1fW9U5YyDN1Uc-M6OriHc7nQNzCbJAC3kRIsRgAnY5q2SSTL2TjLzix05DAoSa7jQ/s1600/cosmos-evm-hack.jpg",
+    "published": "2026-08-28T20:38:47+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026.\n\nThe v\u2026",
+    "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable"
   },
   "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html": {
     "categories": [],
@@ -30487,6 +30505,18 @@
     "summary": "McGraw-Hill confirms data breach following extortion threat Education company McGraw-Hill has confirmed in a statement to BleepingComputer that hackers exploited a Salesforce misconfiguration and accessed its internal data. [...]",
     "title": "McGraw-Hill confirms data breach following extortion threat"
   },
+  "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/": {
+    "categories": [
+      "Security",
+      "Healthcare"
+    ],
+    "image": "",
+    "published": "2026-08-28T22:40:17+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "McKesson discloses breach after ShinyHunters claims patient data theft Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group \u2026",
+    "title": "McKesson discloses breach after ShinyHunters claims patient data theft"
+  },
   "https://www.bleepingcomputer.com/news/security/media-giant-nikkei-reports-data-breach-impacting-17-000-people/": {
     "categories": [
       "Security"
@@ -42773,6 +42803,15 @@
     "summary": "Hugging Face Hack Lessons for Cyber Defenders Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
     "title": "Hugging Face Hack Lessons for Cyber Defenders"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd16db4afaa70e4cc/6a91d9495d308674a5d86232/Bots-MASTER-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-08-28T20:19:22+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Hundreds of OpenAI Agents Invaded Hugging Face Servers The Hugging Face incident was bigger and worse than previously thought, with approximately 700 agents collaborating on a sophisticated, multistage attack.",
+    "title": "Hundreds of OpenAI Agents Invaded Hugging Face Servers"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/inc-ransomware-thrives-by-mastering-the-basics": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30281bed62eec4f7/6a32fc8a38f14f046f5b0e20/ransomware_lock-Just_Super-getty-2161221526.jpg?width=720&quality=80&disable=upscale",
@@ -45238,6 +45277,24 @@
     "source": "darkreading",
     "summary": "[Virtual Event] Shields Up: Key Technologies Reshaping Cybersecurity Defenses",
     "title": "[Virtual Event] Shields Up: Key Technologies Reshaping Cybersecurity Defenses"
+  },
+  "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11afeac15e7adbb9/6a921187f8aef68330d6ae57/DRIW-AI-Strategy-VE-Oct26.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-08T15:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "[Virtual Event] Building a Secure AI Strategy for the Enterprise",
+    "title": "[Virtual Event] Building a Secure AI Strategy for the Enterprise"
+  },
+  "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaff0d27801ea21af/6a92220704334b0b8d8445e9/DR-Cloud-AI-VE-2026.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-12T16:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI",
+    "title": "[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI"
   },
   "https://www.darkreading.com/ics-ot-security/ai-ot-too-incompatible-work-securely": {
     "categories": [],
