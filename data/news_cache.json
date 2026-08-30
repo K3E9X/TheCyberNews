@@ -14342,6 +14342,15 @@
     "summary": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructur\u2026",
     "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations"
   },
+  "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiROOqCRPV4u9cWfJL8nvCYKi4Ake-ki3_uh8Qn8RJ0P20h3Mz_qxVfF856pJ9DQZMHy922CeLwOHDc37Gpb4p1UCTMx6cMT5HeeAP_w4RitCuQficYcGDDkqpDVfW_nA3M7qWT-WyM6A5Adk3J2e8kMWSG1GSUOatrcVBmc7fmb2-ovadVS3fOdkd1ubFx/s1600/wordpress-themes.jpg",
+    "published": "2026-08-29T16:25:03+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, accoun\u2026",
+    "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE"
+  },
   "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvsPqZrMBUJ3CH2LqsxL_1HWV6F-qs8FbnvytY_bz9ZlSUptj-3SPJ-BAlDBrF9V39V2F_D35LPU8BgSdDNfyPi2tqESWH_g2qzP2ospA36aF2CexX2_bRw7ee6qG4uqAyI24lavgb5wER2wuKWYd6rOUpdG0pbhlR4aAtEvSTuAQYmv8a5izEpv63mcA/s1600/phish-main.jpg",
@@ -15215,6 +15224,15 @@
     "summary": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infras\u2026",
     "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign"
   },
+  "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpxriybAzLw0daA0mtL3sZd04fy8Sal4s0mrBAz2-ksjwfP2V08YK_KbCJY57hKG28Kt6gn2mKq4HFSpkG2MNvA3Oz6MhNUe77_1Nvpahn2nnCFHPpxIlp5Ix4DvAZw08qXtxt1M-4zCtSENbBkODQyP_WDp9j3PXACc0XKYk1BK1K-2Xabho1cBPqerW9/s1600/cf-clickfix.jpg",
+    "published": "2026-08-30T07:36:33+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell.\n\n\"While traditional ClickFix cam\u2026",
+    "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor"
+  },
   "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDz2kEMi471xtnJ2B7i_ZktQTUHhbJAIOlNAaFfVdJVPWDC-3EqH2REiyGuaUl95lmXvtcl-oPpQy3MO0-5uulT4L4Uyheni6apbwxzycAw7yVmuYqAWaSjYbEw_BaJKsmGhrUPrb6hVeatf488NrNMVX-xorjY66ZIG9wR50pUdFBOs9avzlu9b91iw/s1600/ai-usage.jpg",
@@ -15628,6 +15646,18 @@
     "source": "BleepingComputer",
     "summary": "Anthropic confirms Claude Mythos-class models will roll out to the public Anthropic has confirmed that it plans to bring Mythos-class models to the general public after delaying the rollout due to security risks to public and private software. [...]",
     "title": "Anthropic confirms Claude Mythos-class models will roll out to the public"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-08-29T23:11:51+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Anthropic is cutting Claude Code's current weekly limits by 17% Anthropic is permanently increasing Claude Code's standard weekly usage limits by 25% for Pro, Max, Team, and seat-based Enterprise plans, but it's not as good as it sounds. [...]",
+    "title": "Anthropic is cutting Claude Code's current weekly limits by 17%"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/": {
     "categories": [
@@ -21461,6 +21491,18 @@
     "source": "BleepingComputer",
     "summary": "Bluekit phishing kit adopts browser-in-the-middle for login theft The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week and by adding browser-in-the-middle capabilities for improved data theft. [...]",
     "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft"
+  },
+  "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/": {
+    "categories": [
+      "Security",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-08-29T14:19:23+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Brave browser adds email aliases to help users evade tracking The latest version of the Brave browser,\u00a01.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]",
+    "title": "Brave browser adds email aliases to help users evade tracking"
   },
   "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/": {
     "categories": [
