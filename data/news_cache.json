@@ -13973,6 +13973,15 @@
     "summary": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any W\u2026",
     "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access"
   },
+  "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHyB4qaQy8srcEIgc1oMi08PMKtoVFIsmW3ho_7f7rISFML8Kmz8jYzDE1FCN9Nfo4LvvgVFV_FEijgLbCrZcJ5zy7xlvAYTKuyGrcE0IU6yqEd-awlmOyRQ3FXcSeA5yM71NLDa5nxpj9taGnNiVXvCb_5tun5j3dfb6z8j7cmwQ2O0PE2V3y0oKWv6sB/s1600/cursor.jpg",
+    "published": "2026-08-31T11:47:24+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings\u2026",
+    "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets"
+  },
   "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNMtOKfZBxSDQ1928IVtFay3f8_6go4rnTY6yFaQYCzAdGt3e6uBkZfZkoFtHbS_cEbTCri3ZNVVO7BbuvoVpjGCLSpdphneotNbiXRT3vciQT6dzPa0K81_ee8Al2rxx7GlT5qTS3_B2MKjCCUcHut1pdIeqaLBRjoD5ZqttMcHxZ5AwKea3eL-wruta7/s1600/agent-sdk.jpg",
@@ -14017,6 +14026,15 @@
     "source": "The Hacker News",
     "summary": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the we\u2026",
     "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification"
+  },
+  "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxYI5Ntk3CPoEGUHNQbd80hij-0QLnz3V_HBU3aXV-mvQq98IE6xsRlbuwZ2PNbbSV7dA-HlNfqRWj0_bd3XpQCOPt9R2gS3PJMm8lfMP_9IoKyhDNbY9NOotNDHO68v2DSUT_R-0UYTqZQc16DJM7OqS8_35iVUMqyy3GrUt7iMaIWz6iW6OSP2ddiDc/s1600/cisco-creds.jpg",
+    "published": "2026-08-31T09:04:55+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Co\u2026",
+    "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs"
   },
   "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html": {
     "categories": [],
@@ -14269,6 +14287,15 @@
     "source": "The Hacker News",
     "summary": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resi\u2026",
     "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt"
+  },
+  "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHmPwSKHINCGncOKbSs9X05lJ2CJQivbfLYQ6LP3njVHAc-4fgSYJz-C1u6SUiFEtcF4ddjW3PBayFsVaF2a03OOkaLfWlg8pxJelp5bEhJT0LEv8-XPs9bUf8ruFcGOzjWAbumEJ4Veirq9lAAalOThmUfD0i19Mo5X_HpDcI21_5pJp7WsA8OPh74Ad_/s1600/justice.jpg",
+    "published": "2026-08-31T07:56:53+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now point\u2026",
+    "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims"
   },
   "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html": {
     "categories": [],
@@ -15098,6 +15125,15 @@
     "summary": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution.\n\nThe vulnerability, assigned the CVE \u2026",
     "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code"
   },
+  "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEithkMoEFgk1IZj_h_hGp94DwzD4UyQGh2f-epiRD6fn_XcMyB44HkXe-7XaHzviE8sImzIctDBjibyY0Gdrt_OPFFeja3KnOd9KsPFP3PeTxUzlshseSyukl0-cmQWZctAeVQHTUpvW99C8FZrhCcwPDZWoYShfC9jTGqmj1Va2K-Mo2kK6GbSksGIbM4/s1600/dan.jpg",
+    "published": "2026-08-31T11:31:47+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer\u2019s machine. Anthropic\u2019s new Compliance API endpoints give security tea\u2026",
+    "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance"
+  },
   "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9fX7D-qoT4QD3pjSuUtavTiarjtyitt3-JMji-nzNa8XTKefzPp2QGMAR6FkLA8r8Ll9VVFHCMEJSKWgi5Gk0GOdYU4RA1itDyf8ZQc12IXczcxoGHKXcJ9GAWUv-fPaRhRXnDyFfxo9nhjQoJbBPxQQbixY9RxaR_Oz_NrHD2P_EMER6yKTV3nWCSAoq/s1600/zero-day.jpg",
@@ -15368,6 +15404,15 @@
     "summary": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its ena\u2026",
     "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches"
   },
+  "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8OUY2TmBxA9RLM9yG0dnv8OShMmr_0KXcJUWtPvcTbFKQ-jmG4_6PyVNCNxQH9VacMVqmi3ZdmcHepDqoLT4XOl5AHZ6mnxmg_QrTUmK2D01fsjrBJKQ1KmlodLNjgbNp65TVoTslEHW5s1IqgFR8xYQWab9WQBvn30sYuM-xh7pSQfAKUOFi3v4q3Do/s1600/adblock.jpg",
+    "published": "2026-08-31T12:14:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past u\u2026",
+    "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions"
+  },
   "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDed_n3TJGLHvhq2MkwkQTsKgIv_rOw24MRfYCoHnHiOK7r-VbitMrwXXF9H_Gwbegba20Dla1FLyK70-OQRVxiHfikBFrz6jei3QK5u4ApbR4aYuLikQj1YHU2IzA1V4fnR7Wgcp8H1NoYzSeTTOUd4dNTuE71jNUNq-P4yk0H9FkW55wivMDdNe0nE/s1600/veeam.jpg",
@@ -15421,6 +15466,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.\n\nThat\u2019s roughly the mood this week. Trusted tools turn hostile, old weak spots get fres\u2026",
     "title": "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More"
+  },
+  "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEQHUlnyxCIYFLSRsvotvppFdq5zZ2BQQXJ4PI03uluqvzH3d4FhLogVr2pn0zbUGUQlQQXrk53CDaRZ3q4jC3wLxxG9NPQMtAsx0qkU4yatwjEogU-3RF4s2jpxb394Sd2JMEYhBKbv9TJd41QqI3WRZEcd5UWHXvszq1cKblrRBthblIYeefUx3wPbBM/s1600/recap.jpg",
+    "published": "2026-08-31T13:50:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More The boring parts caused most of the trouble.\n\nA router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the l\u2026",
+    "title": "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More"
   },
   "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html": {
     "categories": [],
@@ -15718,6 +15772,18 @@
     "source": "BleepingComputer",
     "summary": "Anthropic: Viral Claude \u201cBanned and reported to authorities\u201d message isn\u2019t real Anthropic has denied reports of banning legitimate accounts, after a viral post on X claimed the creator of Claude had banned a user. [...]",
     "title": "Anthropic: Viral Claude \u201cBanned and reported to authorities\u201d message isn\u2019t real"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-08-30T14:30:25+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...]",
+    "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/": {
     "categories": [
@@ -17160,6 +17226,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft asks admins to reach out for Windows IIS failures fix Microsoft has asked\u00a0businesses to reach out for advice on how to temporarily\u00a0mitigate a Message Queuing (MSMQ)\u00a0issue causing\u00a0enterprise apps and Internet Information Services (IIS) sites to fail. [...]",
     "title": "Microsoft asks admins to reach out for Windows IIS failures fix"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-08-31T08:29:42+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft asks users to ignore 'Antivirus is turned off' errors Microsoft asked customers this week to ignore alerts that Defender Antivirus has been turned off after installing the latest Defender updates. [...]",
+    "title": "Microsoft asks users to ignore 'Antivirus is turned off' errors"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/": {
     "categories": [
@@ -21331,6 +21408,18 @@
     "summary": "Belgian hospital AZ Monica shuts down servers after cyberattack Belgian hospital AZ Monica was forced to shut down all servers, cancel scheduled procedures, and transfer critical patients earlier today due to a cyberattack. [...]",
     "title": "Belgian hospital AZ Monica shuts down servers after cyberattack"
   },
+  "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/": {
+    "categories": [
+      "Security",
+      "Government"
+    ],
+    "image": "",
+    "published": "2026-08-31T13:30:01+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Berlin confirms data theft after Rhysida ransomware attack claims Berlin's city administration has confirmed that cybercriminals are attempting to extort the city after the Rhysida ransomware gang listed it on their data leak site. [...]",
+    "title": "Berlin confirms data theft after Rhysida ransomware attack claims"
+  },
   "https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/": {
     "categories": [
       "Security",
@@ -21939,6 +22028,17 @@
     "summary": "Chinese cyberspies breached dozens of telecom firms, govt agencies Google's Threat Intelligence Group (GTIG), Mandiant, and partners disrupted a global espionage campaign attributed to a suspected Chinese\u00a0threat actor that used SaaS API calls to hide malicious traffic in attacks \u2026",
     "title": "Chinese cyberspies breached dozens of telecom firms, govt agencies"
   },
+  "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-31T14:52:03+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Chinese Fire Ant hackers turn Cisco routers into spying platforms The researchers discovered Fire Ant's new tactic after finding an active GRE (Generic Routing Encapsulation) tunnel interface on a Cisco IOS XR router that could not be explained by a running configuration or commi\u2026",
+    "title": "Chinese Fire Ant hackers turn Cisco routers into spying platforms"
+  },
   "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/": {
     "categories": [
       "Security"
@@ -22037,6 +22137,18 @@
     "source": "BleepingComputer",
     "summary": "Chinese state hackers use rootkit to hide ToneShell malware activity A new sample of the ToneShell backdoor, typically seen in Chinese cyberespionage campaigns, has been delivered through a kernel-mode loader in attacks against government organizations. [...]",
     "title": "Chinese state hackers use rootkit to hide ToneShell malware activity"
+  },
+  "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-08-30T14:17:44+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Chrome Web Store extensions caught stealing crypto, browser data Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lures. [...]",
+    "title": "Chrome Web Store extensions caught stealing crypto, browser data"
   },
   "https://www.bleepingcomputer.com/news/security/ciro-data-breach-last-year-exposed-info-on-750-000-canadian-investors/": {
     "categories": [
@@ -26158,6 +26270,17 @@
     "summary": "File read flaw in Smart Slider plugin impacts 500K WordPress sites A vulnerability in the Smart Slider 3 WordPress plugin, active on more than 800,000 websites, can be exploited to allow subscriber-level users access to arbitrary files on the server. [...]",
     "title": "File read flaw in Smart Slider plugin impacts 500K WordPress sites"
   },
+  "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-31T14:00:10+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "File servers are here to stay. Here\u2019s how to manage them securely File servers remain a critical part of many IT environments, but managing access securely can become complex as permissions accumulate. tenfold Software outlines five best practices for simplifying file server admi\u2026",
+    "title": "File servers are here to stay. Here\u2019s how to manage them securely"
+  },
   "https://www.bleepingcomputer.com/news/security/fincen-says-ransomware-gangs-extorted-over-21b-from-2022-to-2024/": {
     "categories": [
       "Security"
@@ -26690,6 +26813,17 @@
     "source": "BleepingComputer",
     "summary": "Fugitive behind $73M 'pig butchering' scheme gets 20 years in prison A dual Chinese and St. Kitts and Nevis national was sentenced to 20 years in prison in absentia for his role in an international cryptocurrency investment scheme (also known as pig butchering or romance baiting)\u2026",
     "title": "Fugitive behind $73M 'pig butchering' scheme gets 20 years in prison"
+  },
+  "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-30T15:00:21+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data FulcrumSec claims it stole 86 GB of data from Manchester Airports Group. BleepingComputer validated one traveller's record, while samples revealed detailed customer, booking, and travel information beyond what MAG\u2026",
+    "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data"
   },
   "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/": {
     "categories": [
@@ -30840,6 +30974,17 @@
     "summary": "Microsoft says backend change broke Teams Free chat and calls Microsoft is working to resolve a known issue that prevents some Microsoft Teams Free users from chatting and calling others. [...]",
     "title": "Microsoft says backend change broke Teams Free chat and calls"
   },
+  "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-31T10:23:46+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft says Windows 11 KB5120998 update resets mouse settings Microsoft has confirmed that mouse settings are being reverted on Windows 11 systems after installing the KB5120998 August 2026 non-security preview update. [...]",
+    "title": "Microsoft says Windows 11 KB5120998 update resets mouse settings"
+  },
   "https://www.bleepingcomputer.com/news/security/microsoft-seizes-servers-disrupts-massive-redvds-cybercrime-platform/": {
     "categories": [
       "Security",
@@ -32750,6 +32895,17 @@
     "source": "BleepingComputer",
     "summary": "Nigerian man gets eight years in prison for hacking tax firms A Nigerian national was sentenced to eight years in prison for hacking multiple tax preparation firms in Massachusetts and filing fraudulent tax returns seeking over $8.1 million in refunds. [...]",
     "title": "Nigerian man gets eight years in prison for hacking tax firms"
+  },
+  "https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-08-31T09:22:47+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Nigerians extradited to US for sextortion, deaths of two teens Two Nigerian men extradited to the U.S. on Thursday have been charged with involvement in sextortion schemes that resulted in the deaths of two minor victims in Mississippi and North Carolina. [...]",
+    "title": "Nigerians extradited to US for sextortion, deaths of two teens"
   },
   "https://www.bleepingcomputer.com/news/security/nike-investigates-data-breach-after-extortion-gang-leaks-files/": {
     "categories": [
