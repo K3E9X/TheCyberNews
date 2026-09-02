@@ -15566,6 +15566,24 @@
     "summary": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's.\n\nThe flaw sat in the annotation t\u2026",
     "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client"
   },
+  "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB8expOvrNoEO7Mb5MSWWRnW2eVksJz4NGRldHmcBuWZ76ojuMDD6HJk_i043g-KHOi2zjcYQtsvYGXL2lyzPNy-vwRTD5jzMz5qdEXwfvYqt9K1Uu0Z5fpEMV2EVh9Ap0JRUD391nDM_TjgEXXGnI_dHRpxwv1H5VLiyQN4F3LBpRaEnmtbmCqdllIob2/s1600/iphone.jpg",
+    "published": "2026-09-01T14:07:20+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that i\u2026",
+    "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds"
+  },
+  "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0o8dDcHW4CJBLnXfYzfofbG1w0Fi4zCPqcjEgASsL0gXnESv5isMONZgXzek2rM3VwkhnEqz2K4whDwB_lFylCYvfXASQmsQSPA-8U25998PBT2Xopdaaj9_iG0XqdBPu6iXRmtlN2CGc8b5mv3t68CVxV2HYneRkiUhUu3EIgSogEgipzJUiymLfl0NQ/s1600/jfrog.jpg",
+    "published": "2026-09-01T17:53:11+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr.\n\nThe vulnerability in question\u2026",
+    "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure"
+  },
   "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9_EygYWh8fZRphLL1V9dg-h1jgQ0f9xmlVuPwPAaaEUUCBkKbQ4nTaL27WIevCJg42GWtDGMKyRvzBUz9MWtD2FxPx7vCKwXLirO-N1YRcpPy0mX_B_fTG2gBS-JPRJGXfCh_I2yHJgoi1V5lve7Opcm-M0ApWs6gohPjNhBi-0CsP49guHlM2lzHLsiD/s1600/lang.jpg",
@@ -15575,6 +15593,24 @@
     "summary": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck.\n\nThe vulnerabilities in question are listed below -\n\n\n  CVE-20\u2026",
     "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity"
   },
+  "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb9lLZ-CHEFECU3vn2ObupuzweLn7l23dnUcs2Qd1H5hsxut3nQKqe6W3lbh_cSyVF4PDgdfuSauhpeMKmW6wZGYW3kpVdhTfWhfpISTtfRzw25VOSvJNR8dnh_WWKwyZ0VnWe8nndwwfnWN-gPSdqmLBhJW2vkqjCkfMo8Eo-sucoSIr6JMT-7HxHnsCw/s1600/admin.jpg",
+    "published": "2026-09-02T07:08:50+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution.\n\nThe vulnerability in que\u2026",
+    "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials"
+  },
+  "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHkRZMEpG9dgsbvSzYfaPZC5u0gmzUw-5NHDTcsQ-MQtxr6pqNrngG2LsyMJ0KKxA364L3Lq4xhGAxCTRQ3C8szlo9aLJeWXw37C6hsAD5YbYCJF8KuQyuWMIPNCNDXX8-1HN76xxYhxffeenDDyWobOpA4AXC76hFcdh1vnqpjI_pLF2YuxiAwu87cHwC/s1600/sonicwall.jpg",
+    "published": "2026-09-02T10:53:49+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks.\n\nThe vulnerabil\u2026",
+    "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain"
+  },
   "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2b-1gQHvYc7ZLc86QFtZ2LoJ7zFalpJtSy_e_laxiM_f4Ftnhuvp5eCJZRSk2NL_0tZAZAl2z1UPYfOBSTbdGOPOZexgt3GkuUqsrZPgFB2F-qG2Ir_c7Ioj6zcJVdWjzBo90HpcObPWan5eID2df6OXyn3F7-LRpdOvO8TfiZSp8L2j89p2UbsDi3zM4/s1600/metr.jpg",
@@ -15583,6 +15619,60 @@
     "source": "The Hacker News",
     "summary": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000 METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, ag\u2026",
     "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000"
+  },
+  "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDpXbKu79XC2ObZuqgBEMG9E1VR-SyLdDwhylzbIupomfXEbDe_gUT29NNntDVz9NtiGLhnHJdrq1GyC5RbPHozyzmCVov6JJIg2sCiCb5Jp8SHEInYNR5PRE06TrBh4Oqy8WT7GbTtGOZisMrKuCWaUWn5vaJkbHPmhTEb7O0voiiBDdYHcxc02YhLBb1/s1600/botnet-malware.jpg",
+    "published": "2026-09-02T06:56:30+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation.\n\nThe effo\u2026",
+    "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads"
+  },
+  "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvGVdje0roDTqKcU541FTx34ODDmuBU-qtwYwoW0-qAYscD9yX5stIs8EhQtC7gnwM4WpqNTjYFRRwXm7w97C5tY7eEhCQJ89Y_uesRzrbbuR7knHdEkoDetSlRpfa8XOD_rdChE5yFh3VtBPlChgYRKp9ZDon-0B1_VAM9NOd0_xvgw9gD_YF7lSBXiPI/s1600/brazil.jpg",
+    "published": "2026-09-01T17:19:24+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024.\n\nGoogle Thr\u2026",
+    "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems"
+  },
+  "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjT6gZEQ09i7WPG39V2zwJLuC6M3N7mvjMQC0aVmtON24RfDshYfzqKyGKWXrTMC_bGPyNn43NPLWaufMe0MSlanyUCeZENy6XXmYCC8NzcHpCiK8rv-bpke7sKMpmfkWFVv6GB9WUO46KXMzNRlmCm8x_WYaNZelDk5BBrVCnUswpWJzA_IZMQj86wFI/s1600/russian-hacker.jpg",
+    "published": "2026-09-02T09:10:23+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced\u2026",
+    "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands"
+  },
+  "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWjRcj8Bn8kWovv1-oDjSP61hMxx5U8u28qVJSPdP7mRBCNbs5EJjjDrWWk7SFC2FraZe_j3T-oouRqSRtoTr-YMPGGuOphIGNRj4-Fx0eVgMahD3-L62vWUxYLg7TpH7plqVqnAb1e3k0-G8Vertd-WUyt994d-nJKA8bcY9QozeWJ6ad4ozwVOf0fnE/s1600/geone.gif",
+    "published": "2026-09-02T09:18:02+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency \u2026",
+    "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends"
+  },
+  "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2I0vj1ygDfFQ8UzazaxECq0aAP3UJ_VRMzeCN0MgTkWk4yLEUbKKU9dE0pIyXZIfJ0MgxjYEqAqWLAXAtuATDCdFZPI9WGkgwz04Mdd7LChIfMrWk-vhGfaHDGtySDkbIXgzBcNfh5qcobm-bz8QWuyVCcH7z9CM_RNZusA2rPEHV5g2WJ2tU6Llrdnu/s1600/iran-hacking.jpg",
+    "published": "2026-09-01T13:08:58+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its target\u2026",
+    "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests"
+  },
+  "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlWf4d2lnMsRXbG_XpDaQ8uxTM9SD8QBArFea3LdD93t2xnpO4Bw2K_iBewRfrscbj2Kfe6DSkFozbxWnHwMeR5p1cx2XksAyZD5_avLwxqx5L6tvTf_Z807niMu_uqzbslMMgMx8M1IVY9y20gbuDwbWAco96weFLycq2JCQMQ2hpcTnd2yanypqsj4k/s1600/claude.jpg",
+    "published": "2026-09-02T07:47:13+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another\u2026",
+    "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another"
   },
   "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html": {
     "categories": [],
@@ -20513,6 +20603,18 @@
     "summary": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime Threat actors are exploiting vacant homes as \"drop addresses\" to intercept mail and enable fraud. Flare shows how postal services and fake identities are abused to turn mail into a fraud vector. [...]",
     "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime"
   },
+  "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/": {
+    "categories": [
+      "Security",
+      "Healthcare"
+    ],
+    "image": "",
+    "published": "2026-09-01T19:28:17+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Aesto Health says data breach affects over 9.5 million patients Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
+    "title": "Aesto Health says data breach affects over 9.5 million patients"
+  },
   "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/": {
     "categories": [
       "Security"
@@ -24184,6 +24286,17 @@
     "source": "BleepingComputer",
     "summary": "Critical Kirki flaw exploited to hijack WordPress admin accounts Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, including those belonging to administrators. [...]",
     "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-01T17:54:22+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Critical Langflow flaw exploited to steal OpenAI and AWS keys Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
+    "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys"
   },
   "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/": {
     "categories": [
@@ -27892,6 +28005,17 @@
     "summary": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses Threat actors are abusing the special-use \".arpa\" domain and IPv6 reverse DNS in phishing campaigns that more easily evade domain reputation checks and email security gateways. [...]",
     "title": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-01T20:53:23+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
+    "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/": {
     "categories": [
       "Security"
@@ -28547,6 +28671,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers poison arrayref Rust crate to push infostealer malware Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
     "title": "Hackers poison arrayref Rust crate to push infostealer malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-01T14:45:06+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Hackers push malicious Virtualizor update in BGP hijacking attack Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers. [...]",
+    "title": "Hackers push malicious Virtualizor update in BGP hijacking attack"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/": {
     "categories": [
@@ -30938,6 +31073,19 @@
     "summary": "Microsoft Azure Monitor alerts abused for callback phishing attacks Microsoft Azure Monitor alerts are being abused to send callback phishing emails that impersonate warnings from the Microsoft Security Team about unauthorized charges on your account. [...]",
     "title": "Microsoft Azure Monitor alerts abused for callback phishing attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/": {
+    "categories": [
+      "Security",
+      "Google",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-02T10:29:39+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Defender flags legitimate Google search links as malicious Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]",
+    "title": "Microsoft Defender flags legitimate Google search links as malicious"
+  },
   "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/": {
     "categories": [
       "Security",
@@ -31517,6 +31665,18 @@
     "source": "BleepingComputer",
     "summary": "NCSC's \u2018Proactive Notifications\u2019 warns orgs of flaws in exposed devices The UK's National Cyber Security Center (NCSC) announced the testing phase of a new service called Proactive Notifications, designed to inform organizations in the country of vulnerabilities present in their \u2026",
     "title": "NCSC's \u2018Proactive Notifications\u2019 warns orgs of flaws in exposed devices"
+  },
+  "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-01T12:38:35+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...]",
+    "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks"
   },
   "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/": {
     "categories": [
@@ -33221,6 +33381,18 @@
     "source": "BleepingComputer",
     "summary": "Nottingham University data breach affects over 450,000 students The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
     "title": "Nottingham University data breach affects over 450,000 students"
+  },
+  "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/": {
+    "categories": [
+      "Security",
+      "Healthcare"
+    ],
+    "image": "",
+    "published": "2026-09-01T14:28:40+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Novocure data breach affects more than 1,400 cancer patients Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack. [...]",
+    "title": "Novocure data breach affects more than 1,400 cancer patients"
   },
   "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/": {
     "categories": [
@@ -35298,6 +35470,17 @@
     "summary": "Salesforce investigates customer data theft via Gainsight breach Salesforce says it revoked refresh tokens linked to Gainsight-published applications while investigating a new wave of data theft attacks targeting customers. [...]",
     "title": "Salesforce investigates customer data theft via Gainsight breach"
   },
+  "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-02T08:00:43+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Sality botnet infrastructure dismantled in joint global takedown International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
+    "title": "Sality botnet infrastructure dismantled in joint global takedown"
+  },
   "https://www.bleepingcomputer.com/news/security/samourai-cryptomixer-founders-sent-to-prison-for-laundering-over-237-million/": {
     "categories": [
       "Security",
@@ -35922,6 +36105,17 @@
     "source": "BleepingComputer",
     "summary": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware Two recently disclosed SonicWall SMA1000 vulnerabilities were exploited in zero-day attacks for weeks, allowing threat actors to install custom malware on vulnerable VPN appliances. [...]",
     "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-02T06:39:29+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "SonicWall warns of actively exploited SMA1000 zero-day flaws SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
+    "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws"
   },
   "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/": {
     "categories": [
@@ -37741,6 +37935,17 @@
     "summary": "US charges Iranian hackers over $3.4 billion intellectual property theft The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]",
     "title": "US charges Iranian hackers over $3.4 billion intellectual property theft"
   },
+  "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-02T09:06:48+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "US charges Russian for infecting 80,000 freelancers with malware A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
+    "title": "US charges Russian for infecting 80,000 freelancers with malware"
+  },
   "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/": {
     "categories": [
       "Security"
@@ -38870,6 +39075,17 @@
     "summary": "Why Chargebacks are Just One Piece of the Fraud Puzzle Fraud losses don't stop at chargebacks. False declines, account takeovers, and abuse also damage revenue and trust. IPQS breaks down why fraud teams need broader visibility into risk and customer impact. [...]",
     "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle"
   },
+  "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-01T14:01:11+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Why Even the Best Edge Security Still Misses High-Risk Sessions Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment adds data points \u2026",
+    "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions"
+  },
   "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/": {
     "categories": [
       "Security"
@@ -39717,6 +39933,15 @@
     "source": "darkreading",
     "summary": "Attackers Use New Tool to Scan for React2Shell Exposure Researchers say threat actors wielded the sophisticated \u2014 and unfortunately named \u2014 toolkit to target high-value networks for React2Shell exploitation.",
     "title": "Attackers Use New Tool to Scan for React2Shell Exposure"
+  },
+  "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte71738f751de1daa/6a97388d5d30863e09d86b97/jfrog-hapabapa-Getty-1273253225.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-01T21:05:53+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Attackers Pounce on Critical Artifactory Flaw Following Disclosure CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems.",
+    "title": "Attackers Pounce on Critical Artifactory Flaw Following Disclosure"
   },
   "https://www.darkreading.com/application-security/attackers-use-screensavers-drop-malware-rmm-tools": {
     "categories": [],
@@ -42225,6 +42450,15 @@
     "summary": "Speakeasies to Shadow AI: Banning AI Browsers Will Fail Lessons from history highlight why AI-enabled browsers require controlled enablement.",
     "title": "Speakeasies to Shadow AI: Banning AI Browsers Will Fail"
   },
+  "https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta00a9d9e96de1b11/6a9721055573ecd41d1f4f4b/GettyImages-1450161933.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-01T21:03:19+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Stronger Security Drives Ransomware Groups to Recruit From Within Some security researchers have observed an uptick in insider-assisted ransomware attacks, but malicious insiders pose other threats that cost companies millions.",
+    "title": "Stronger Security Drives Ransomware Groups to Recruit From Within"
+  },
   "https://www.darkreading.com/cyber-risk/summarize-ai-buttons-may-be-lying": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7a175a9146d4e846/698e26deeb795b000844ed8d/model_tadamichi_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -43336,6 +43570,15 @@
     "source": "darkreading",
     "summary": "Nikkei Suffers Breach Via Slack Compromise The Japanese media giant said thousands of employee and business partners were impacted by an attack that compromised Slack account data and chat histories.",
     "title": "Nikkei Suffers Breach Via Slack Compromise"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt61b6b950560b6729/6a974efda0ff3877b64d75b3/philippines-south-china-sea-map-AustralianCamera-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-02T01:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency Threat actors exploited commodity in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.",
+    "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/operation-doppelbrand-weaponizing-fortune-500-brands": {
     "categories": [],
@@ -45223,6 +45466,15 @@
     "summary": "ClickFix Attacks Abuses DNS Lookup Command to Deliver ModeloRAT ClickFix campaigns have adapted to the latest defenses with a new technique to trick users into infecting their own machines with malware.",
     "title": "ClickFix Attacks Abuses DNS Lookup Command to Deliver ModeloRAT"
   },
+  "https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6a0f2dc67da094b0/6a96c86cc735cc0c3671a7e3/blockchain_incamerastock_alamy.png?width=720&quality=80&disable=upscale",
+    "published": "2026-09-01T13:56:42+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain The campaign uses EtherHiding to dynamically update its command-and-control server, abusing the blockchain as an attacker-controlled address book.",
+    "title": "ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain"
+  },
   "https://www.darkreading.com/endpoint-security/coruna-darksword-democratizing-nation-state-exploit-kits": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0213b59cc64318b8/69c58fe61ccd12702311c1d5/iPhone_lock-Nedim_Bajramovic-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -45827,6 +46079,15 @@
     "source": "darkreading",
     "summary": "AI Agents Are a New Kind of Identity &amp; Most Organizations Aren't Ready If you're handling them like a service account or API token, consider yourself behind. AI agents need a fundamentally different approach.",
     "title": "AI Agents Are a New Kind of Identity &amp; Most Organizations Aren't Ready"
+  },
+  "https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd6fa067a2ef7c79c/6a971debd849dc198a50a854/evaluation-Charday_Penn-GettyImages-1297604574.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-01T20:13:09+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI Model Evaluator METR Hit by Credential Theft, Probing In one attack, threat actors stole an API key that ultimately led to the consumption of $600,000 in public AI model credits for the security nonprofit.",
+    "title": "AI Model Evaluator METR Hit by Credential Theft, Probing"
   },
   "https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield": {
     "categories": [],
@@ -47750,6 +48011,15 @@
     "source": "darkreading",
     "summary": "More Critical Flaws on n8n Could Compromise Customer Security A new around of vulnerabilities in the popular AI automation platform could let attackers hijack servers and steal credentials.",
     "title": "More Critical Flaws on n8n Could Compromise Customer Security"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt036489a36358dea1/6a971529de036c92b216129d/aicoding-AreeSarak-Getty-2252848921.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-01T20:48:52+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Critical Langflow Flaw Exploited as Attacks on AI Platform Rise The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year.",
+    "title": "Critical Langflow Flaw Exploited as Attacks on AI Platform Rise"
   },
   "https://www.darkreading.com/vulnerabilities-threats/critical-react-flaw-triggers-immediate-action": {
     "categories": [],
