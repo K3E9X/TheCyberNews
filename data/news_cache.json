@@ -15620,6 +15620,15 @@
     "summary": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000 METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, ag\u2026",
     "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000"
   },
+  "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixQdi-o7wSstsDvvGluX8EDCUhGUHwpKjSkMSaigZZkFOEI_mWS0kLYvjSaG9olG2Y8GYxqH2kKRUtT82RVMLfW-FuBdrWMbGSfJMVVK3YAL3FClWT6t0Dz33NzHEYK1dL93JLl7YzyETY1i9ZYpRty-BG5Vfk_vGUggKigBtpQZxKuUW8-Jg3m9xZV8BL/s1600/jsnode.jpg",
+    "published": "2026-09-03T10:43:01+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads.\n\nAccording to a new report published by the Symantec Threat H\u2026",
+    "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks"
+  },
   "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDpXbKu79XC2ObZuqgBEMG9E1VR-SyLdDwhylzbIupomfXEbDe_gUT29NNntDVz9NtiGLhnHJdrq1GyC5RbPHozyzmCVov6JJIg2sCiCb5Jp8SHEInYNR5PRE06TrBh4Oqy8WT7GbTtGOZisMrKuCWaUWn5vaJkbHPmhTEb7O0voiiBDdYHcxc02YhLBb1/s1600/botnet-malware.jpg",
@@ -15628,6 +15637,15 @@
     "source": "The Hacker News",
     "summary": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation.\n\nThe effo\u2026",
     "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads"
+  },
+  "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc5HwRa7RftYjoKUzpULa7DXn6tt4sZ7RrL1PNBN0Um5di5vxvgRQvmF3rF9-Xb7URM6YD9t-kEu0e3VBeERcdHio4Bz92EOYUwR2s3dosskPZbfztVyjAQ8p-h9PZ7ns3O8uOJ-DSxWPSIanM7l0lC2AZr71eXzWkSXTb_TjLmyBKvMR1KE97xp8PKJU/s1600/virtualizer.jpg",
+    "published": "2026-09-02T13:12:45+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor packag\u2026",
+    "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access"
   },
   "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html": {
     "categories": [],
@@ -15638,6 +15656,15 @@
     "summary": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024.\n\nGoogle Thr\u2026",
     "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems"
   },
+  "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaGEC2JQn3dU5muXzZhp9ouduHJ5hE4vWW4zHDomXp7hJ3hHafGPmMU33aKs7A8dwhvqsMiwh8PNi4GUNzH635enPZT3oPdcZejqkA9vpPYbQTLZaAhzAVAuUFksC4mCNX6SRUzUx1vhSxokKBz9RBGXXOBJshSXfYLIox2OCi2htQdcmyDJDMvWTamC8/s1600/cisa.jpg",
+    "published": "2026-09-03T05:19:04+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' cross\u2026",
+    "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners"
+  },
   "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjT6gZEQ09i7WPG39V2zwJLuC6M3N7mvjMQC0aVmtON24RfDshYfzqKyGKWXrTMC_bGPyNn43NPLWaufMe0MSlanyUCeZENy6XXmYCC8NzcHpCiK8rv-bpke7sKMpmfkWFVv6GB9WUO46KXMzNRlmCm8x_WYaNZelDk5BBrVCnUswpWJzA_IZMQj86wFI/s1600/russian-hacker.jpg",
@@ -15646,6 +15673,15 @@
     "source": "The Hacker News",
     "summary": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced\u2026",
     "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands"
+  },
+  "https://thehackernews.com/2026/09/fake-software-installers-disable.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhKCtgI2bIF4kLY71qjkluS80XAm5YPA9y9GzTxC8XBTaxq1d42jyZ-bxAr7OlZ-wCc4-RDp_NmUPKxd9TS1dvtjt3gysB86SkMuQ5q6vGb7HTh-DVMNC8VJcJFC2sJmiSQ740SX-miCoyiGfkAXLqO1ySH3zenWcAP7g6ilReO9jRsnl3Tnw279K7NYF3/s1600/windows-updates.jpg",
+    "published": "2026-09-02T16:41:06+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers.\n\n\"The campaign has targeted users looking to download popular sof\u2026",
+    "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender"
   },
   "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html": {
     "categories": [],
@@ -15656,6 +15692,24 @@
     "summary": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency \u2026",
     "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends"
   },
+  "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu5sAuC-e7tUigtaAj0gicqzy_kWZTZRujpV3IxqGW1wr_VCuXbKXG7M-nNIac5QO2GY_KtEQ8HfnUENc6JZpS8haeGQIvOH4EddDvrQTJwXY2kkZcz41JbeT1_YhVuyrArJV4sUB3hrT9dFIazMbT-_8hLxg0jrQzHLPLv_h3bNb98puP5yVwgA1zoIsQ/s1600/aiai.jpg",
+    "published": "2026-09-02T18:27:49+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative cal\u2026",
+    "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs"
+  },
+  "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3ZMbYZ20M3vMq_61k1PH7V-0evy5iTQQAGHDcA5khnJ304G746XRgkusnpa7Z31yIJLA7SX5ShzsKdvk1JfTwpVTSm4VPlkYoYVdwW9TaBULJ5363G0e-Z7ff86vvSGBiZTzaZeC6O4RRvJYuP7CrsAz4MeaX53UO0PICXuoa0H-u0qxXJHJcCM_Ovrg/s1600/ss.jpg",
+    "published": "2026-09-02T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "How to Secure Enterprise AI: From Adoption to Incident Readiness The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus\u2026",
+    "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness"
+  },
   "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2I0vj1ygDfFQ8UzazaxECq0aAP3UJ_VRMzeCN0MgTkWk4yLEUbKKU9dE0pIyXZIfJ0MgxjYEqAqWLAXAtuATDCdFZPI9WGkgwz04Mdd7LChIfMrWk-vhGfaHDGtySDkbIXgzBcNfh5qcobm-bz8QWuyVCcH7z9CM_RNZusA2rPEHV5g2WJ2tU6Llrdnu/s1600/iran-hacking.jpg",
@@ -15664,6 +15718,51 @@
     "source": "The Hacker News",
     "summary": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its target\u2026",
     "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests"
+  },
+  "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixn-0jJvMDlL85UUyW0E5PUDeUnMbGMxZJEnJMOAXXAuiqD-e1D9IoZdYsNwwDY16NA7x7GFHzVrx6LqJU7u7ywR50UWP4DGybNAhTlLPeAiBcVwVUJPgV1KbD1u0aUNy_468Y6gMQJ8FlnfGFlz_iCJcAeOeTiPViV1195lHwovULdtSBlsvPWOGpNU8/s1600/check.jpg",
+    "published": "2026-09-02T13:44:16+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational inst\u2026",
+    "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages"
+  },
+  "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlrspu4otI5zjtu2q78NDrwnqfbTv4jzqXhH-txAo8pCjXDPRJjLvfWpRyHvbimqVvAOZWI0pMVmu2jWVdETbh2csa2UkMHx0M2uu9cJkB0_E4x1mjjs_1F9RYZjozZQvIYN5Xux43DX1u0jCQE_Pk19yE8BnR_RxXN-QXmP5jf74ZQgE9uQVUONJoQKQ/s1600/aix.gif",
+    "published": "2026-09-02T14:06:59+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the de\u2026",
+    "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code"
+  },
+  "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNhCfat7BT6m53utL9Z1iMKYQv6B3QwsQdxZBzkmr1WsJpDDdFGZgHjaLuHSXMBBJSyfxtyR750K33X3GzZwYkHac_3mpIITheSY4lh8LMK-ufnQ9htwhkmfv2MRKfZKtYdROU7VuO0HMmK7BQ7FlttrQiToqHq9zffChgBIOJT8yLL5vT7JY43_FDK-A/s1600/android-trojan.jpg",
+    "published": "2026-09-02T12:22:02+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and\u2026",
+    "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control"
+  },
+  "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaEvtAyNP-TiY3M6wMUFNKymiK_BeQH_MEIzeFf79X0fNFV0gyV3MiegzULqTG6bC-20nprEpTHySkf3Hf0N72sLy-oVN6_ndqU4OwSm37Cx0OYrr2MbzpiII3ly4tEv891mjYhbSV18Eg94BBSitXG8XnON3QjpRqGkErk15L1FoeYT94R8WGlK8xUuJt/s1600/iphone-exploit.jpg",
+    "published": "2026-09-03T08:43:17+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE \u2026",
+    "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone"
+  },
+  "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmg6caSDWQVOPIIl9NAXS4ofXmOdWz1eIGPMKMLCbHXc_uWiv11QNh2k-f43JAoVVQNMQj54d2yqJ_iO9vzwIO8nvQIyxr7N6GDCKsYDmSJEpyjiUBsY-zhMcmfEsWcEqDrKvrEkXxQC1LPldFXkqbJHO81V7oHnsRtuyjMZKzubBjwrK_yQ2xT2om89Ja/s1600/windows-exploit.jpg",
+    "published": "2026-09-03T06:26:59+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impactin\u2026",
+    "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon"
   },
   "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html": {
     "categories": [],
@@ -15682,6 +15781,15 @@
     "source": "The Hacker News",
     "summary": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to\u2026",
     "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis"
+  },
+  "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfx0JCqLgANXGkgF5NMg__RxJg5IJ8HgQcvr_2zxEM6HSYzesKdLjKbrqmtAegyIpBmLxnryF5CeJlRh4J09q3e1kOo8dEzGXjhQpunnmGoL6wzEW_6R7lsN4zE5IybADP50VCjGGrBercYm6OIMCYsSgbHJ6sN9AYY3v6kCqPof8TWzR2O_ybViE1aYo/s1600/Shai-Hulud.gif",
+    "published": "2026-09-03T10:36:39+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Int\u2026",
+    "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means"
   },
   "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html": {
     "categories": [],
@@ -19164,6 +19272,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft Teams outage affects users in United States, Europe \u200bMicrosoft is working to resolve an ongoing outage affecting Microsoft Teams users, causing delays and preventing some from accessing the service. [...]",
     "title": "Microsoft Teams outage affects users in United States, Europe"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-03T08:55:25+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
+    "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/": {
     "categories": [
@@ -25183,6 +25302,18 @@
     "summary": "Drift loses $280 million North Korean hackers seize Security Council powers The Drift Protocol lost at least $280 million after a threat actor took control of its Security Council administrative powers in a planned, sophisticated operation. [...]",
     "title": "Drift loses $280 million North Korean hackers seize Security Council powers"
   },
+  "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/": {
+    "categories": [
+      "Security",
+      "Cloud"
+    ],
+    "image": "",
+    "published": "2026-09-02T12:30:22+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Dropbox accounts breached through Lenovo email verification flaw Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
+    "title": "Dropbox accounts breached through Lenovo email verification flaw"
+  },
   "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/": {
     "categories": [
       "Security"
@@ -28382,6 +28513,17 @@
     "summary": "Hackers exploit critical flaw in Ninja Forms WordPress plugin A critical vulnerability in the Ninja Forms File Uploads premium add-on for WordPress allows uploading arbitrary files without authentication, which can lead to remote code execution. [...]",
     "title": "Hackers exploit critical flaw in Ninja Forms WordPress plugin"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-02T15:47:08+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
+    "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/": {
     "categories": [
       "Security"
@@ -28526,6 +28668,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers exploit Roundcube flaw to spy on academic researchers A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backdoor malware. [...]",
     "title": "Hackers exploit Roundcube flaw to spy on academic researchers"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-02T21:00:13+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]",
+    "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-security-testing-apps-to-breach-fortune-500-firms/": {
     "categories": [
@@ -34271,6 +34424,17 @@
     "summary": "PirloTV sports piracy network disrupted as 44 domains seized A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains. [...]",
     "title": "PirloTV sports piracy network disrupted as 44 domains seized"
   },
+  "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-03T11:02:22+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Plex warns users to patch security vulnerabilities immediately Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]",
+    "title": "Plex warns users to patch security vulnerabilities immediately"
+  },
   "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/": {
     "categories": [
       "Security",
@@ -34953,6 +35117,17 @@
     "source": "BleepingComputer",
     "summary": "Ransomware payment rate drops to record low as attacks surge The number of ransomware victims paying threat actors has dropped to 28% last year, an all-time low,\u00a0despite a significant increase in the number of\u00a0claimed attacks. [...]",
     "title": "Ransomware payment rate drops to record low as attacks surge"
+  },
+  "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-02T14:02:12+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Ransomware protection for MSPs: A 6-point checklist for faster recovery Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to pre\u2026",
+    "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery"
   },
   "https://www.bleepingcomputer.com/news/security/rce-flaw-in-imunifyav-puts-millions-of-linux-hosted-sites-at-risk/": {
     "categories": [
@@ -39264,6 +39439,17 @@
     "summary": "WinRAR path traversal flaw still exploited by numerous hackers Multiple threat actors, both state-sponsored and financially motivated, are exploiting the\u00a0CVE-2025-8088\u00a0high-severity vulnerability in WinRAR\u00a0for initial access and to deliver various malicious payloads. [...]",
     "title": "WinRAR path traversal flaw still exploited by numerous hackers"
   },
+  "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-02T19:28:46+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "WordPress backup plugin flaw exposes millions of sites to takeover attacks An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]",
+    "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/": {
     "categories": [
       "Security"
@@ -39888,6 +40074,15 @@
     "source": "darkreading",
     "summary": "AI-Powered Dependency Decisions Introduce, Ignore Security Bugs AI models often hallucinate or make costly mistakes when tasked with recommending software versions, upgrade paths, and security fixes \u2014 leading to significant technical debt.",
     "title": "AI-Powered Dependency Decisions Introduce, Ignore Security Bugs"
+  },
+  "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte6af1f929e3d31c4/6a9884c2f1ca2225aef25fe1/claude_FotoField_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-02T21:14:06+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "AI\u2019s Vulnerability Surge May Be More Manageable Than First Feared New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams \u2014 if they have the right strategies.",
+    "title": "AI\u2019s Vulnerability Surge May Be More Manageable Than First Feared"
   },
   "https://www.darkreading.com/application-security/anthropic-exploit-writing-mythos-ai-safe": {
     "categories": [],
@@ -43899,6 +44094,15 @@
     "summary": "The Ransomware Holiday Bind: Burnout or Be Vulnerable Ransomware groups target enterprises during off-hours, weekends, and holidays when security teams are stretched thin and response times lag.",
     "title": "The Ransomware Holiday Bind: Burnout or Be Vulnerable"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c8192b6490626c0/6a981a98644fc5665f78add9/phone-Brian_Jackson-Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-02T16:51:21+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users The &quot;Spring Ring&quot; operation aims to compromise users of the collaboration suite to remotely access their sessions, spread malware, and even take over infrastructure.",
+    "title": "Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/threat-landscape-increasingly-dangerous-manufacturers": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc232543381a9006f/693207a41ab840449642b8fb/factory-robots-assemble-batteries-IM_Imagery-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -46586,6 +46790,15 @@
     "summary": "AI-Assisted Exploit Development Outpaces Scanner Detection Attackers are using AI to dramatically reduce the time they need to develop a working exploit for a CVE, according to new research.",
     "title": "AI-Assisted Exploit Development Outpaces Scanner Detection"
   },
+  "https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcb9093a068b61f4/6a9742405acd0c12e2c414bc/cybercriminal1800_dem10_GettyImages-2153654043.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-02T19:46:31+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI Gives Cybercriminals a Dangerous Time Advantage Former cybercriminal Brett Johnson provides a look inside the mind of a threat actor and discusses where AI provides the most value for attackers.",
+    "title": "AI Gives Cybercriminals a Dangerous Time Advantage"
+  },
   "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6d5bbb76a9a7ed2b/6a73baa39adea75f0c6c4181/fraud-RapidEye-Getty-155132055.jpg?width=720&quality=80&disable=upscale",
@@ -48472,6 +48685,15 @@
     "source": "darkreading",
     "summary": "SonicWall Edge Access Devices Hit by Zero-Day Attacks In the latest attacks against the vendor's SMA1000 devices, threat actors have chained a new zero-day flaw with a critical vulnerability disclosed earlier this year.",
     "title": "SonicWall Edge Access Devices Hit by Zero-Day Attacks"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0cc4f85814cf1849/6a9871830d1dd21ef2d9772c/barbed_wire_fence-dzika_mrowka-GettyImages-175913576.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-02T20:43:59+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE The exploitation activity follows attacks earlier this summer on two other zero-day vulnerabilities in the vendor's edge devices.",
+    "title": "SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE"
   },
   "https://www.darkreading.com/vulnerabilities-threats/threat-actors-zero-day-watchguard-firebox": {
     "categories": [],
