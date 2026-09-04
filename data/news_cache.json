@@ -15647,6 +15647,15 @@
     "summary": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor packag\u2026",
     "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access"
   },
+  "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9vYkFCrVzaEl0WQj4XBILj6pIxDJ92eWgVrkOa_pdvJJoKF95JCX7VmQzY0HPZkhg5IMvjfCu15YCs5AMJ22NM6SBX7j7sCgpfiaUZZAL4Uc5vP0-q9VKN4LNSY4a701mmRCgLJQxCjnmnsSAxD7gFnyf9-dRaSxPZuGqLuOIQ415vCOjH-DZRtYSBHA/s1600/access-for-sale.jpg",
+    "published": "2026-09-03T15:26:47+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromi\u2026",
+    "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory"
+  },
   "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvGVdje0roDTqKcU541FTx34ODDmuBU-qtwYwoW0-qAYscD9yX5stIs8EhQtC7gnwM4WpqNTjYFRRwXm7w97C5tY7eEhCQJ89Y_uesRzrbbuR7knHdEkoDetSlRpfa8XOD_rdChE5yFh3VtBPlChgYRKp9ZDon-0B1_VAM9NOd0_xvgw9gD_YF7lSBXiPI/s1600/brazil.jpg",
@@ -15664,6 +15673,15 @@
     "source": "The Hacker News",
     "summary": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' cross\u2026",
     "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners"
+  },
+  "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj9su2Wd6Yb88IvMpg5v1P8IyPg4KWKTeBXjerFgxz0U5WLKO2U50jymR-fKujsKeMFZ3q1VEupMRFZUz5gD47JRzVceagYJJ3bCTT8t532rY63po54kanBCPX4_hmKsxe-1b52IGrYc__TH5Y2F13G6L32HNKPQxL34iqzEPuBGynDCu6xFdKHplXvdY/s1600/cisco-flaws.jpg",
+    "published": "2026-09-03T15:52:07+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, al\u2026",
+    "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root"
   },
   "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html": {
     "categories": [],
@@ -15700,6 +15718,24 @@
     "source": "The Hacker News",
     "summary": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative cal\u2026",
     "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs"
+  },
+  "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjelmC2UuYemuI1nBeaecfPBZ1Bfb5nz6T51_OhCUPHJivX8ioIjrYMVtVsjsrcA0xbEe_O4iMthJ2xwXWJVhAb5CCJlhnJS4McM9IpmPww86RSznT3h7pg5DYOXlnwon616y-1s2qwbWbmR40B5JCvYbtwM8lD5Fk5yLHWS7IKmH5pXQ8qO4SfEasBhhsq/s1600/chrome-v8-exploit.jpg",
+    "published": "2026-09-04T07:18:47+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, tracked as CVE-2026-85046 (CVSS sco\u2026",
+    "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day"
+  },
+  "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbaZmLqqSMfwaOmjs47_PEd97T29HeDX_1dAOZn0Qzo0HuloopzzhZ7pnQzlsHvXvIAwzMWq1tbza325niZMSgjTMn0z5MyT-CWb7NfoprOWz2L_cj6tosVDyyp2ZbV4s59p-khE64lXWULLOW8zVMCv720iwDwCYUEuAHYkV8m2diDsyzFKwvNifzq-oT/s1600/gpt6.jpg",
+    "published": "2026-09-04T06:47:52+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests OpenAI on Thursday officially unveiled GPT\u20116 Astra, which it described as the \"world's most intelligent and aligned model.\"\n\nThe development comes days after the artificial intelligence (AI) company sai\u2026",
+    "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests"
   },
   "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html": {
     "categories": [],
@@ -15746,6 +15782,15 @@
     "summary": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and\u2026",
     "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control"
   },
+  "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9jQ8JSakEpnqxzsAZhwXnVvTMB0Lrbj7shOcXtSJzA30wcMTbkAIUGvSZPiBXOLeAW66Jpuysxn56W8YWD00hsCNB742oLqeyvgD8MXdIHHqwyeehyoyXx9G9c6XjxwN10Co_XVZuBkRjMquzgf9V17gh2Gw-xff0qJ9rh3sPO4tBq4OjjS0dxsl73WKT/s1600/wp-main.jpg",
+    "published": "2026-09-04T08:48:45+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.\n\nThe vulnerabilities in question are -\n\n\n  CVE-2026-1489\u2026",
+    "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws"
+  },
   "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaEvtAyNP-TiY3M6wMUFNKymiK_BeQH_MEIzeFf79X0fNFV0gyV3MiegzULqTG6bC-20nprEpTHySkf3Hf0N72sLy-oVN6_ndqU4OwSm37Cx0OYrr2MbzpiII3ly4tEv891mjYhbSV18Eg94BBSitXG8XnON3QjpRqGkErk15L1FoeYT94R8WGlK8xUuJt/s1600/iphone-exploit.jpg",
@@ -15754,6 +15799,15 @@
     "source": "The Hacker News",
     "summary": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE \u2026",
     "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone"
+  },
+  "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7RQQCR9QxY1NZ80GCfpUjvGGcw9QDirshH7KrSyc097EIaNqLLVGgnnlOE095qTOt2q9CTu91gJ_Pf7Y9-AcZahb35e7XG2YrA8D4O0FPwVRSzBzMT5ecKzu0bnAxP603K5q8R_7IZrE-iSAAJQsmMWXBt8IPwHIIz3u6Kf-okZyo0G1fLoe9VOzZEEQF/s1600/plex.jpg",
+    "published": "2026-09-04T07:35:14+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.\n\nThe fixes are available in Plex Media Server 1.43.3 and P\u2026",
+    "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws"
   },
   "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html": {
     "categories": [],
@@ -15791,6 +15845,15 @@
     "summary": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Int\u2026",
     "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means"
   },
+  "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1nx19KbhbT0_rYFjMzqgJuG35q7QvJiMrikolTZV9sWztkSoSFUr95E-h-9vHv-GBGmRHAyh5Du0DDMYMr1m0VbD5YgYO6dVoY7p8d6Z5BbORiBOGgJfZjg4euf9uwUkGO4ZX8QZXUpuU0CFUwNV46UozcdMJ9SyZ4T4cy4pAI9ho7xYQ8cDJaFdfKM/s1600/reuters.jpg",
+    "published": "2026-09-03T14:39:05+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting cou\u2026",
+    "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data"
+  },
   "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXRNAAGu1amxjm97oXzRGvVBD23d-thmuPvBbQm10hKlACH58ndu51swo4ggT2P2FJw1vbmWy6qdMZSyTRrgAXoi19O0Zf0vCcS47oMuhMuPSyKc1kL7bpIySVrQwgrIaYJkc4IiavU0rucYYMYWHwXgDCmsPLanV2LZv3mt__srP93r0vLWSz8Vp_L0o/s1600/click.jpg",
@@ -15799,6 +15862,24 @@
     "source": "The Hacker News",
     "summary": "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones The most common way into a company last year was to ask.\n\nA web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks\u2026",
     "title": "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones"
+  },
+  "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUcEnh-e0_L2Oz7JQcSCFBd90F29Z7_wHbJYiWOxWeZTeLLHbRZYK6vt1PrcUOgSFei7fxLMnP2lp0QyEOW2rzfcsnBFhayNHtKLPtHJFsu55w_GxuA3XLkZf-kleynMxXjc8zELZt7FBZFdqCAtesj3Fj148fwlGitAxZxu6t1wZDb7wgZQ1MR-Vmc4FL/s1600/threats-main.jpg",
+    "published": "2026-09-03T18:02:47+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click \u201cAllow.\u201d Why break in when someone might open the door?\n\nThat idea runs \u2026",
+    "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories"
+  },
+  "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_OZ4yHwsQM1Z9se2g-uJPuSkiSNpmyWCCi_a9dKpH9jnTuFYyts16e2gdkB45YknrA-nuzp6-mbEi-1adV92N-7aBjfYL69ECPlWOV7a5xb5rG6kqsMzc3WJ0-lXLBMO86aB3WTJ6MFLR0N0YbC8TElIg0-Jh6SIDe8mc3nCyzoE6zugVDFHFfjPEGkI/s1600/targets.jpg",
+    "published": "2026-09-03T11:58:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries.\n\nArou\u2026",
+    "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/": {
     "categories": [
@@ -15919,6 +16000,18 @@
     "source": "BleepingComputer",
     "summary": "Anthropic confirms Claude is down in major outage affecting multiple services Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]",
     "title": "Anthropic confirms Claude is down in major outage affecting multiple services"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-09-03T15:02:52+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Anthropic confirms Claude is down, multiple models affected Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
+    "title": "Anthropic confirms Claude is down, multiple models affected"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/": {
     "categories": [
@@ -16407,6 +16500,18 @@
     "source": "BleepingComputer",
     "summary": "New OpenAI leak hints at upcoming ChatGPT features OpenAI is internally testing a new update for ChatGPT, at least on the web. It'll begin rolling out in the coming weeks. [...]",
     "title": "New OpenAI leak hints at upcoming ChatGPT features"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-09-03T15:13:29+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
+    "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/": {
     "categories": [
@@ -18400,6 +18505,17 @@
     "summary": "Microsoft: KB5070311 triggers File Explorer white flash in dark mode Microsoft has confirmed that the KB5070311 preview update is triggering bright white flashes when launching the File Explorer in dark mode on Windows 11 systems. [...]",
     "title": "Microsoft: KB5070311 triggers File Explorer white flash in dark mode"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-03T15:22:33+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
+    "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/": {
     "categories": [
       "Microsoft"
@@ -19060,6 +19176,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft says bug in classic Outlook hides the mouse pointer Microsoft is investigating a known issue that causes the mouse pointer to disappear in the classic Outlook desktop email client for some users. [...]",
     "title": "Microsoft says bug in classic Outlook hides the mouse pointer"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-03T12:16:32+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft says KB5120998 Windows update resets desktop settings Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
+    "title": "Microsoft says KB5120998 Windows update resets desktop settings"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-new-outlook-cant-open-some-excel-attachments/": {
     "categories": [
@@ -23888,6 +24015,17 @@
     "summary": "Code beautifiers expose credentials from banks, govt, tech orgs Thousands of credentials, authentication keys, and configuration data impacting organizations in sensitive sectors have been sitting in publicly accessible JSON snippets submitted to the JSONFormatter and CodeBeautif\u2026",
     "title": "Code beautifiers expose credentials from banks, govt, tech orgs"
   },
+  "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-03T20:04:24+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Coder's registry infrastructure compromised to push malicious modules Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
+    "title": "Coder's registry infrastructure compromised to push malicious modules"
+  },
   "https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/": {
     "categories": [
       "Security",
@@ -24284,6 +24422,17 @@
     "source": "BleepingComputer",
     "summary": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
     "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-03T14:52:20+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Critical Elementor Pro flaw exploited to take over WordPress sites A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...\u2026",
+    "title": "Critical Elementor Pro flaw exploited to take over WordPress sites"
   },
   "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/": {
     "categories": [
@@ -27027,6 +27176,19 @@
     "summary": "Over 73,000 French govt employees affected in Tchap messenger breach The French government revealed that a recent breach of its Tchap\u00a0encrypted messaging platform affects the accounts of over 73,000 employees in the\u00a0French public sector. [...]",
     "title": "Over 73,000 French govt employees affected in Tchap messenger breach"
   },
+  "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/": {
+    "categories": [
+      "Security",
+      "Healthcare",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-09-03T22:01:37+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "French hospital fined \u20ac500,000 after breach exposes data of 727,000 France's data protection authority (CNIL) has fined H\u00f4pital priv\u00e9 de la Loire \u20ac500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
+    "title": "French hospital fined \u20ac500,000 after breach exposes data of 727,000"
+  },
   "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/": {
     "categories": [
       "Security"
@@ -27902,6 +28064,17 @@
     "source": "BleepingComputer",
     "summary": "Google warns of new AI-powered malware families deployed in the wild Google's Threat Intelligence Group (GTIG) has identified a major shift this year, with adversaries leveraging artificial intelligence to deploy new malware families that integrate large language models (LLMs) du\u2026",
     "title": "Google warns of new AI-powered malware families deployed in the wild"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-04T11:48:17+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Google warns of new Chrome zero-day flaw exploited in attacks Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
+    "title": "Google warns of new Chrome zero-day flaw exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/gootloader-malware-is-back-with-new-tricks-after-7-month-break/": {
     "categories": [
@@ -29358,6 +29531,17 @@
     "source": "BleepingComputer",
     "summary": "How Varonis Atlas integrates Claude Compliance API for AI governance AI governance requires visibility into how AI tools interact with enterprise data. Varonis explains how its Atlas platform uses Claude Compliance API data to help monitor usage, investigate risk, and support com\u2026",
     "title": "How Varonis Atlas integrates Claude Compliance API for AI governance"
+  },
+  "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-03T18:28:12+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "HPE patches critical ArubaOS-CX remote code execution flaw Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
+    "title": "HPE patches critical ArubaOS-CX remote code execution flaw"
   },
   "https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-aos-cx-flaw-allowing-admin-password-resets/": {
     "categories": [
@@ -39614,6 +39798,17 @@
     "summary": "Your Controls Block Known Attacks. What About the Behavior? Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behav\u2026",
     "title": "Your Controls Block Known Attacks. What About the Behavior?"
   },
+  "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-03T13:50:59+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Your Employee\u2019s Password Appeared in an Infostealer Log. Now What? Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen acc\u2026",
+    "title": "Your Employee\u2019s Password Appeared in an Infostealer Log. Now What?"
+  },
   "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/": {
     "categories": [
       "Security"
@@ -42902,6 +43097,15 @@
     "summary": "AI Agent Drives Espionage Attack on Thai Ministry of Finance Attackers used Hermes, an autonomous open source tool, in unrestricted &quot;YOLO mode&quot; to conduct espionage against Thailand's Ministry of Finance.",
     "title": "AI Agent Drives Espionage Attack on Thai Ministry of Finance"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaeb9af6be92c2692/6a9957f44e3e378865d50a6b/working-with-AI-agents-ImageFlow-shutterstock.png?width=720&quality=80&disable=upscale",
+    "published": "2026-09-03T14:38:49+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours The incident demonstrates how frontier AI agents can dramatically compress an attack timeline and coordinate a large-scale breach, according to researchers.",
+    "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/ai-powered-deepload-steals-credentials-evades-detection": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd7991d1fb5c4ce7a/69cadd3f7edf53802a560b21/obfuscate_Grenar_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -43640,6 +43844,15 @@
     "source": "darkreading",
     "summary": "Japanese Firms Suffer Long Tail of Ransomware Damage Ransomware actors have targeted manufacturers, retailers, and the Japanese government, with many organizations requiring months to recover.",
     "title": "Japanese Firms Suffer Long Tail of Ransomware Damage"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt006c86eb4bc5e69b/6a99c21172642e574d2f52ff/NDA-William_Potter-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-03T20:18:14+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Large Enterprises Targeted in Fake Merger &amp; Acquisition Scams Threat actors behind the &quot;Phantom Deal&quot; campaign are studying companies in extreme detail, aiming to dupe midlevel employees into initiating large financial transfers.",
+    "title": "Large Enterprises Targeted in Fake Merger &amp; Acquisition Scams"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook": {
     "categories": [],
@@ -45446,6 +45659,15 @@
     "summary": "Walmart's &quot;Trusted Agent&quot; Approach to Purple Teaming Walmart co-locates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
     "title": "Walmart's &quot;Trusted Agent&quot; Approach to Purple Teaming"
   },
+  "https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt04917d22b035a07c/6a99bfc6e564e71c991d4f19/vishing-FranRodriguez-Getty-1387702656.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-03T19:42:39+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "What We Missed: Did ShinyHunters 'Breach' ReliaQuest? In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the latest antics of ShinyHunters to new research about the prevalence (or lack thereof) of AI-generated malware\u2026",
+    "title": "What We Missed: Did ShinyHunters 'Breach' ReliaQuest?"
+  },
   "https://www.darkreading.com/cybersecurity-operations/white-house-cyber-strategy-prioritizes-offense": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt63e0819f18d54938/69af271b9341160008255f90/uscyber_Skorzewiak_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -46869,6 +47091,15 @@
     "source": "darkreading",
     "summary": "BreachForums Breached, Exposing 324K Cybercriminals A massive data dump reveals real identities and details of administrators and members of the notorious hacker forum.",
     "title": "BreachForums Breached, Exposing 324K Cybercriminals"
+  },
+  "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta8d176cc1b018d8c/6a988a8143fb84770fcc31de/Brazil-Gwengoat-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-03T12:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems Brazil's most sophisticated threat group is making light work of the country's financial systems, putting money directly into its own pocket.",
+    "title": "'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems"
   },
   "https://www.darkreading.com/threat-intelligence/broadside-mirai-variant-maritime-logistics": {
     "categories": [],
