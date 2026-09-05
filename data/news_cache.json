@@ -15602,6 +15602,15 @@
     "summary": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution.\n\nThe vulnerability in que\u2026",
     "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials"
   },
+  "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguiDwimIl7rewJeRtSYeCkmhBUPSN0lsURwcKXrBtQ4vANRZqEkbjcPBIjODR0kFgIbLqwLiaBcB6lX8M6rilVclrxZcsKogB3NNhnwqJz3dZwgWGZ-6NHnAEGM-ENsEebYhn81lWBN0-nqfYrMLlHoQ3ebfHB7V74NpbKpOZZ84WZYyli7w1lDKJrCtds/s1600/papercut-hacks.jpg",
+    "published": "2026-09-05T07:31:53+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe.\n\nThe Arctic Wolf Adversary Research\u2026",
+    "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities"
+  },
   "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHkRZMEpG9dgsbvSzYfaPZC5u0gmzUw-5NHDTcsQ-MQtxr6pqNrngG2LsyMJ0KKxA364L3Lq4xhGAxCTRQ3C8szlo9aLJeWXw37C6hsAD5YbYCJF8KuQyuWMIPNCNDXX8-1HN76xxYhxffeenDDyWobOpA4AXC76hFcdh1vnqpjI_pLF2YuxiAwu87cHwC/s1600/sonicwall.jpg",
@@ -15782,6 +15791,15 @@
     "summary": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and\u2026",
     "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control"
   },
+  "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLyhHupZwRy1pOQzT93Qhs5waZ8gqtlgDJUKgt1f37dz3KqIDDZY8uNo8QguZNccBHivdA_ecnY8cQUyhZQAvLH4APu3imxP-rwo2dYLZtKnJ92IkRPFmwepmJgRk9GrLrJiN_IbInwvNXaW7N5761YfEB1IIK4uDdNBTy6Koz8uXgOSXaQWixXM1Wts/s1600/HAProxy.jpg",
+    "published": "2026-09-04T14:51:13+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served al\u2026",
+    "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic"
+  },
   "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9jQ8JSakEpnqxzsAZhwXnVvTMB0Lrbj7shOcXtSJzA30wcMTbkAIUGvSZPiBXOLeAW66Jpuysxn56W8YWD00hsCNB742oLqeyvgD8MXdIHHqwyeehyoyXx9G9c6XjxwN10Co_XVZuBkRjMquzgf9V17gh2Gw-xff0qJ9rh3sPO4tBq4OjjS0dxsl73WKT/s1600/wp-main.jpg",
@@ -15800,6 +15818,15 @@
     "summary": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE \u2026",
     "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone"
   },
+  "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoD4eMYuhLT8HvcHbYe8A4hkhmDH1f4pIWTIm5AXKueqdpY1NS8yNiTtlzS4mdIS8PLY8_zM1uQDNpO1U49HCUoJT8nn2Bpb6krpcYpOSQ3H3Z6fUsm-UkoFvj8fk8oShK0eUhO6px8hox_ZzlnX8tu0pJKpJ3UAF2Vcb3XyBXjCt_8uD8OOkMMgUjv8Pc/s1600/emails.jpg",
+    "published": "2026-09-04T15:57:15+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters.\n\n\"Instead of using these characters to hide instructions from peop\u2026",
+    "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters"
+  },
   "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7RQQCR9QxY1NZ80GCfpUjvGGcw9QDirshH7KrSyc097EIaNqLLVGgnnlOE095qTOt2q9CTu91gJ_Pf7Y9-AcZahb35e7XG2YrA8D4O0FPwVRSzBzMT5ecKzu0bnAxP603K5q8R_7IZrE-iSAAJQsmMWXBt8IPwHIIz3u6Kf-okZyo0G1fLoe9VOzZEEQF/s1600/plex.jpg",
@@ -15808,6 +15835,15 @@
     "source": "The Hacker News",
     "summary": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.\n\nThe fixes are available in Plex Media Server 1.43.3 and P\u2026",
     "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws"
+  },
+  "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Gb4Wd-HSxdrPbdtUFxmldzzEkPEZcW1NkT7tV9-EfTAjDENSExJBWmOey_IJ5UKjszQfCNGkVoBtuxya00rFMrh_lJUAuS66Gr3kvU8GgFjMr7DF-7Ux1rUqwz-aDhum8HkVjxNKQTc6DXHG203CPXwg9sOMcA7nfsq6A81C9cJhb3HUu9GZDIj7FZY/s1600/PostgreSQL.jpg",
+    "published": "2026-09-04T15:20:19+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database ser\u2026",
+    "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution"
   },
   "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html": {
     "categories": [],
@@ -15853,6 +15889,15 @@
     "source": "The Hacker News",
     "summary": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting cou\u2026",
     "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data"
+  },
+  "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBL2gQMKgajDATkCjnHyMtUkVhK5mcTQ2ebqcXngB6oZ71uiJ3skI9P4zikK1s5PCH4nhPG7ZyFHHWC13OVF2KRr_pIQ2U7zFITnNc3Qc_Am3bv0E1AzL9UVmrJ9vUJzZalktYIxWGlc-d5zYdicOJexMDWQ-4NIKinC_AksG1Mepn7QmFGWC1x52gVpw/s1600/agents-openai.jpg",
+    "published": "2026-09-05T07:55:10+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and\u2026",
+    "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel"
   },
   "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html": {
     "categories": [],
@@ -17367,6 +17412,17 @@
     "source": "BleepingComputer",
     "summary": "Critical Windows Netlogon RCE flaw now exploited in attacks The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vulnerability in attacks\u2026",
     "title": "Critical Windows Netlogon RCE flaw now exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-04T12:22:30+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Exchange Online outage causes email delays, 'Server busy' errors Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
+    "title": "Exchange Online outage causes email delays, 'Server busy' errors"
   },
   "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/": {
     "categories": [
@@ -19221,6 +19277,17 @@
     "summary": "Microsoft says some users can't install Office on Windows 365 devices Microsoft says some customers are experiencing issues downloading and installing Office on their Windows 365 devices. [...]",
     "title": "Microsoft says some users can't install Office on Windows 365 devices"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-04T14:30:15+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft says some users can\u2019t open the Teams desktop client Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
+    "title": "Microsoft says some users can\u2019t open the Teams desktop client"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/": {
     "categories": [
       "Microsoft"
@@ -20561,6 +20628,17 @@
     "source": "BleepingComputer",
     "summary": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding and identity verific\u2026",
     "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them"
+  },
+  "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-04T14:01:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "39 New Methods That Compromise Passkey Authentication Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, e\u2026",
+    "title": "39 New Methods That Compromise Passkey Authentication"
   },
   "https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/": {
     "categories": [
@@ -29032,6 +29110,17 @@
     "summary": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack The Ostium trading platform announced that an attacker stole $23.75 million from its liquidity provider vault last week, after compromising off-chain infrastructure used to feed prices into the protocol. [...]",
     "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-04T15:25:59+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Critical Citrix NetScaler auth bypass now leveraged in attacks Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
+    "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/": {
     "categories": [
       "Security"
@@ -29673,6 +29762,18 @@
     "source": "BleepingComputer",
     "summary": "Identity-First AI Security: Why CISOs Must Add Intent to the Equation AI agents now provision infrastructure and approve actions, but many inherit over-scoped privileges without proper governance. Token Security explains why CISOs must treat agents as identities and add intent-ba\u2026",
     "title": "Identity-First AI Security: Why CISOs Must Add Intent to the Equation"
+  },
+  "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-09-04T16:56:45+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "IDScan sued over alleged data breach affecting 153 million drivers Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
+    "title": "IDScan sued over alleged data breach affecting 153 million drivers"
   },
   "https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/": {
     "categories": [
@@ -32378,6 +32479,17 @@
     "source": "BleepingComputer",
     "summary": "New critical Exim mailer flaw allows remote code execution A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]",
     "title": "New critical Exim mailer flaw allows remote code execution"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-04T13:22:01+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
+    "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges"
   },
   "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/": {
     "categories": [
@@ -42438,6 +42550,15 @@
     "summary": "Industry Continues to Push Back on HIPAA Security Rule Overhaul Healthcare cyberattacks are on the rise, but industry organizations say the proposed changes to the security rules fall short of what's needed.",
     "title": "Industry Continues to Push Back on HIPAA Security Rule Overhaul"
   },
+  "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30db53d3998a9cfc/6a9ab83ce2c6982ca269f92d/AI-justice-law-liability-Digineer_Station-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-04T12:15:03+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Insurers Search for Answers to Rein in Rogue AI As incidents of unintended harm caused by rogue AI agents mount, CISOs and insurance firms are figuring out how to handle the fallout.",
+    "title": "Insurers Search for Answers to Rein in Rogue AI"
+  },
   "https://www.darkreading.com/cyber-risk/intermediaries-driving-global-spyware-market-expansion": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc550fe7dded72166/69c43489cd7376a927669888/intermediary-between-two-groups-Andrii_Yalanskyi-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -43123,6 +43244,15 @@
     "source": "darkreading",
     "summary": "AI Bolsters Python Variant of Brazilian WhatsApp Attacks Water Saci has upgraded its self-propagating malware to compromise banks and cryptocurrency exchanges by targeting enterprise users of the popular chat app.",
     "title": "AI Bolsters Python Variant of Brazilian WhatsApp Attacks"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0238701b3b59da5d/6a9b00948fc952ee7af9f806/AI_warning_-J_Studios-getty-2189472651.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-03T17:23:14+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "What the AI Warning Letter Completely Missed The recent AI warning letter is right about the &quot;window,&quot; but it omits naming who is coming through it or, critically, who will close it.",
+    "title": "What the AI Warning Letter Completely Missed"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units": {
     "categories": [],
@@ -44968,6 +45098,15 @@
     "source": "darkreading",
     "summary": "Coast Guard's New Cybersecurity Rules Offers Lessons for CISOs The Maritime Transportation Security Act (MTSA) requires plans to protect OT systems, audits by independent third parties, and a hybrid OT-security role.",
     "title": "Coast Guard's New Cybersecurity Rules Offers Lessons for CISOs"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb3e4339597b3813d/6a9acd56e908194ecaf2c87b/AI-human-blue-overlay-metamorworks-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-04T15:57:31+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Companies Have 6 Months to Prepare for Automated Attacks Frontier AI models have already demonstrated they can autonomously \u2014 and in some cases, inadvertently \u2014 conduct end-to-end compromises, but the situation will become more urgent very soon.",
+    "title": "Companies Have 6 Months to Prepare for Automated Attacks"
   },
   "https://www.darkreading.com/cybersecurity-operations/contrarians-no-more-ai-skepticism": {
     "categories": [],
@@ -48171,6 +48310,15 @@
     "source": "darkreading",
     "summary": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to \u2026 AI Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer.",
     "title": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to \u2026 AI"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56a233cc0acad67e/6a998df307331ddd2ec7748c/tsunami_wave-shannonstent-GettyImages-170598253.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-04T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI Is Ending the Era of Hidden Vulnerabilities \u2014 Are Vendors Ready? A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks.",
+    "title": "AI Is Ending the Era of Hidden Vulnerabilities \u2014 Are Vendors Ready?"
   },
   "https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr": {
     "categories": [],
