@@ -15575,6 +15575,15 @@
     "summary": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that i\u2026",
     "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds"
   },
+  "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4sbUEhtXF9n1_8s2f6ChnKMmjUv4Ht-DvEtZyLDPuSNhKFoi41aNlu3-u5kJLXUva81rNFwlsprMXE11cnbXc_es968eO-ANvWm0j1Cyi9SaoVUfneQqNINCR7lRs3qkkYdsSoyMu34Mgxs7B4pKclAt4atPw8B-RCFOTChtgeji9NTes_NEdZ2KKu2_/s1600/jet.jpg",
+    "published": "2026-09-05T16:52:33+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vuln\u2026",
+    "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials"
+  },
   "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0o8dDcHW4CJBLnXfYzfofbG1w0Fi4zCPqcjEgASsL0gXnESv5isMONZgXzek2rM3VwkhnEqz2K4whDwB_lFylCYvfXASQmsQSPA-8U25998PBT2Xopdaaj9_iG0XqdBPu6iXRmtlN2CGc8b5mv3t68CVxV2HYneRkiUhUu3EIgSogEgipzJUiymLfl0NQ/s1600/jfrog.jpg",
@@ -15619,6 +15628,15 @@
     "source": "The Hacker News",
     "summary": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks.\n\nThe vulnerabil\u2026",
     "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain"
+  },
+  "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiSiBDO5j21gorWS-UjrLlDl0RzniibBPjfO4xfPBBLbH1yTQIB88G-hUBRtYNufYwkPpVjWWLu0GXk1TB7pv_x8KbQCbfsL5Ft8JlZLa6iZfvuHU-vKSPNq5Li-e9DtoOvZIOXPYmibx9uc_imnug4ZJUog31KwlA3YKmY8ghOpROVQR8mwPj9qb-1kA/s1600/micro.jpg",
+    "published": "2026-09-06T09:32:38+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, a\u2026",
+    "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication"
   },
   "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html": {
     "categories": [],
@@ -15692,6 +15710,15 @@
     "summary": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, al\u2026",
     "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root"
   },
+  "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzExwAd4Vsd2Xz-9kex6ucfK6MDmftPVCfiOGQICWDKrgxMJ6fOj0EttLP2kpYBDv4xSYdrEXt8Wntz916Oa2tyrMnaSHDLH9vb5RF4ncjvwdkeFU8GwaqWvT6zLHRTKIF-BOGK8p24Im4NwqlqZxTokMsYOfXSBdA0-jXxMbMozfjdK-iyyavdAywjAAh/s1600/vmware-host.jpg",
+    "published": "2026-09-05T16:05:08+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions.\n\n\u2026",
+    "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code"
+  },
   "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjT6gZEQ09i7WPG39V2zwJLuC6M3N7mvjMQC0aVmtON24RfDshYfzqKyGKWXrTMC_bGPyNn43NPLWaufMe0MSlanyUCeZENy6XXmYCC8NzcHpCiK8rv-bpke7sKMpmfkWFVv6GB9WUO46KXMzNRlmCm8x_WYaNZelDk5BBrVCnUswpWJzA_IZMQj86wFI/s1600/russian-hacker.jpg",
@@ -15709,6 +15736,15 @@
     "source": "The Hacker News",
     "summary": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers.\n\n\"The campaign has targeted users looking to download popular sof\u2026",
     "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender"
+  },
+  "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpRcdfXd6kYnqLLWSFdzGKICUzSr90MsV2f3PXtw8VDVcT-xOP2w4HwnVzrRI4bdJqhboQMFIm9BZ393b89IOqgYx-VVmb_B8-XJCsZ9SAIymdlBpEf5ARizHvn32t8Mr9stzV6nMVcn3utUYI1xSRxhaC29QZjS-C3haNSRPfQI_eBYzXCrwn5rl18Nw/s1600/rev.jpg",
+    "published": "2026-09-06T08:34:20+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stea\u2026",
+    "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner"
   },
   "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html": {
     "categories": [],
@@ -15916,6 +15952,24 @@
     "source": "The Hacker News",
     "summary": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click \u201cAllow.\u201d Why break in when someone might open the door?\n\nThat idea runs \u2026",
     "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories"
+  },
+  "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIuPjOUFz-c7o9qipnKr4soYR6NxJJxAYgcDqwTPl3LB5XXiag7UpIq8-qFzCbiC1cnlpWfyaRvAt9MVxIlSXeuEN_97devL_mSI25Ee73cO47vDq4dqsM8Nq08d7FogI7sVIPWlnMTD-Una_rRwyTyXqKG6am2DrU_EoIESLicWgDvpxsw6e8yAHmJnGI/s1600/trezor.jpg",
+    "published": "2026-09-05T14:17:02+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk.\n\nThe exposed information inclu\u2026",
+    "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted"
+  },
+  "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjghsT_skiIfdOHK2B0WWDfWnSK0G5Ih7BqsX98tKrY4TH7I77oLEmnldtVHuUMEQaIiZZBSPJGI2t8Me7h9kDtE4YGZ9-5NypnAu2-yFFrXsWYkR6OJPlbqkZDEHBAXCmRjWm6Mk4h0Ni48JT0nrDWMYygztjoi4HuHPbe2y-2jreFVkzrxO8r4IhHIEU/s1600/adobe-exploit.jpg",
+    "published": "2026-09-05T20:14:47+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce se\u2026",
+    "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores"
   },
   "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html": {
     "categories": [],
@@ -34029,6 +34083,17 @@
     "summary": "Open VSX rotates access tokens used in supply-chain malware attack The Open VSX registry rotated access tokens after they were accidentally leaked by developers in public repositories and allowed threat actors to publish malicious extensions in an attempted supply-chain attack. [\u2026",
     "title": "Open VSX rotates access tokens used in supply-chain malware attack"
   },
+  "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-05T11:11:50+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignmen\u2026",
+    "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident"
+  },
   "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/": {
     "categories": [
       "Security",
@@ -34335,6 +34400,17 @@
     "source": "BleepingComputer",
     "summary": "Over 400 Arch Linux packages compromised to push rootkit, infostealer More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
     "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer"
+  },
+  "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-05T14:29:13+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
+    "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain"
   },
   "https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/": {
     "categories": [
