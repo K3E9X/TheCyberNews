@@ -15800,6 +15800,15 @@
     "summary": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its target\u2026",
     "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests"
   },
+  "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilF0_vQTn1mpUhivH8aX0vt8SA_Y5wkJqpHriuAdDQKVuWON7ZSzOAbWlwm50oxWlOJ5wMdzBjzy1wRVGNL6IqY8eYFUlIyayK6aiwcXK1fTO9JWZ9hG_QYrNnY_fdm2Lu7Z87p0JOR4WkYD2HNK-6WlcJQgxmUsG1k8k3ye5AT1ggaoiIDAm0kHxYQJ6V/s1600/chrome-cookies.jpg",
+    "published": "2026-09-07T07:53:04+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities.\n\n\"The payloads are pr\u2026",
+    "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies"
+  },
   "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixn-0jJvMDlL85UUyW0E5PUDeUnMbGMxZJEnJMOAXXAuiqD-e1D9IoZdYsNwwDY16NA7x7GFHzVrx6LqJU7u7ywR50UWP4DGybNAhTlLPeAiBcVwVUJPgV1KbD1u0aUNy_468Y6gMQJ8FlnfGFlz_iCJcAeOeTiPViV1195lHwovULdtSBlsvPWOGpNU8/s1600/check.jpg",
@@ -15826,6 +15835,15 @@
     "source": "The Hacker News",
     "summary": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and\u2026",
     "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control"
+  },
+  "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtysh_bb-hej1pQzey0RUhPD2w29ONlPDQMzE9Nc4lM529hKaHhuLKfGXEnqVZyUkMKhJchEeoN1clSKo3-opm2_BQkN6FJ72xBZOZwxX6sTwU4Zzk_j6taOwBpioZOnolR9idUjpydUlQ84TQ9pdWUlUm61JH0Xh8-6_0fo3VieeW3xVQwk4UvXcSu4/s1600/nable.jpg",
+    "published": "2026-09-07T08:31:12+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw Every on-premises N-central build below 2026.3.1.14 \u2014 including servers updated to Hotfix 3 a day earlier \u2014 needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its \u2026",
+    "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw"
   },
   "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html": {
     "categories": [],
@@ -15899,6 +15917,15 @@
     "summary": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another\u2026",
     "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another"
   },
+  "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWA_nxvqJuKkqq0ab1I-XR1YtpsM6BadhHDNOIheZmBflLWaQ018JFJsAUBVuyWWTYI4pyT8OQNXhui8Annde3SnOIScH9B0ohMq-OzXLjvPeAXQnz4mAUdEMS_07i7gLaWqPVpHaPvyLJdZQKUTs2MLGhjB9UZ0A83CGcSeDCJFKn7hNjiyf6dbzbHogp/s1600/screen.jpg",
+    "published": "2026-09-07T11:36:39+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected s\u2026",
+    "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts"
+  },
   "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS-2JWiSkzpLkhR3nGp917yyeS4NATTlFhnDXcvmQdrc42BPgObEnlmwXMDP7fN8ruoEJ13Zru_lTVjPwTfU8aeSfK9uGt5H9dYK0s-STCiRMe4Wai1tgbeAU9CaaYZ9aIAZSDv3hVTD5UHKdCGNXGRkkrXDgsc0_3wHruuxZg4uRJDMhuSWSXKfgFanBb/s1600/russian.jpg",
@@ -15916,6 +15943,15 @@
     "source": "The Hacker News",
     "summary": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Int\u2026",
     "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means"
+  },
+  "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwlnNFKd-mH5uyY-AjtXSVx57m9MDT4WRtoQStPY9HoNxOP3ps7znRzENJAK7ZzF4homlCzVGVPFuFZ1sXYGciKyA3rZN_NYewwTXhwpRxCUFaPmUmdgP_TdJQtf57falTD12A0GJewAS23pnxttANQ1meOeRFnr_IqZqAngg0rc9ov998VwQlANB0cE/s1600/tel.jpg",
+    "published": "2026-09-07T11:20:14+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE \u2014 Public Exploit Released A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution \u2014 but only against applications in a specific non-default\u2026",
+    "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE \u2014 Public Exploit Released"
   },
   "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html": {
     "categories": [],
@@ -15979,6 +16015,15 @@
     "source": "The Hacker News",
     "summary": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries.\n\nArou\u2026",
     "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries"
+  },
+  "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAkHa8CDEfDzL0HknvyLE5eRK8r91iyhgzpCS1GmG3HRtriZYYFzCTP9_H433YsqJ80SAppgs9g6rOhsTWIzHPh_CFcZJS18DIj5ANgzFwSU0vfcyJofTEqEvjGGjNcqZdHU_54PENNzxawWHCZ2r_1K-A63x3P8CbuIiu8OHASjQV3OoglWTefAF2dZw/s1600/intruder.jpg",
+    "published": "2026-09-07T11:45:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations acr\u2026",
+    "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/": {
     "categories": [
@@ -16243,6 +16288,30 @@
     "source": "BleepingComputer",
     "summary": "Brave browser starts testing agentic AI mode for automated tasks Brave has introduced a new AI browsing feature that leverages Leo, its privacy-respecting AI assistant, to perform automated tasks for the user. [...]",
     "title": "Brave browser starts testing agentic AI mode for automated tasks"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-09-07T01:15:43+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "ChatGPT Astra is now rolling out to $20 Plus subscription OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]",
+    "title": "ChatGPT Astra is now rolling out to $20 Plus subscription"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-09-07T10:36:37+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "ChatGPT can now connect to your personal apps to mimic writing style OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
+    "title": "ChatGPT can now connect to your personal apps to mimic writing style"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-finally-rolls-out-thinking-time-toggle-on-mobile/": {
     "categories": [
@@ -21768,6 +21837,17 @@
     "summary": "ATF confirms \u201cmajor incident\u201d after recent Qilin breach claims ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qilin ransomware gang\u2026",
     "title": "ATF confirms \u201cmajor incident\u201d after recent Qilin breach claims"
   },
+  "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-06T14:23:46+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Attackers conceal phishing lures using invisible Unicode characters Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
+    "title": "Attackers conceal phishing lures using invisible Unicode characters"
+  },
   "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/": {
     "categories": [
       "Security"
@@ -24247,6 +24327,17 @@
     "source": "BleepingComputer",
     "summary": "ConnectWise patches new flaw allowing ScreenConnect hijacking ConnectWise is warning ScreenConnect customers of a\u00a0cryptographic signature verification vulnerability that could lead to unauthorized access and privilege escalation. [...]",
     "title": "ConnectWise patches new flaw allowing ScreenConnect hijacking"
+  },
+  "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-07T10:06:38+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "ConnectWise warns of new ScreenConnect flaw without patch ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
+    "title": "ConnectWise warns of new ScreenConnect flaw without patch"
   },
   "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/": {
     "categories": [
@@ -28929,6 +29020,18 @@
     "summary": "Hackers exploit Modular DS WordPress plugin flaw for admin access Hackers are actively exploiting a maximum\u00a0severity flaw in the Modular DS WordPress plugin that allows them to bypass authentication remotely and access the vulnerable sites with\u00a0admin-level privileges. [...]",
     "title": "Hackers exploit Modular DS WordPress plugin flaw for admin access"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/": {
+    "categories": [
+      "Security",
+      "Hardware"
+    ],
+    "image": "",
+    "published": "2026-09-07T10:32:40+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit new MikroTik RouterOS flaws to hijack routers Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
+    "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/": {
     "categories": [
       "Security"
@@ -31299,6 +31402,17 @@
     "summary": "Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match Match Group, the owner of multiple popular online dating services, Tinder, Match.com, Meetic, OkCupid, and Hinge, confirmed a cybersecurity incident that compromised user data. [...]",
     "title": "Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match"
   },
+  "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-07T13:05:11+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Mathspace discloses data breach affecting over 1 million people Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
+    "title": "Mathspace discloses data breach affecting over 1 million people"
+  },
   "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/": {
     "categories": [
       "Security"
@@ -32070,6 +32184,17 @@
     "source": "BleepingComputer",
     "summary": "Musician admits to $10M streaming royalty fraud using AI bots North Carolina musician Michael Smith has pleaded guilty to collecting over $10 million in royalty payments through a massive streaming royalty fraud scheme on Spotify, Apple Music, Amazon Music, and YouTube Music. [..\u2026",
     "title": "Musician admits to $10M streaming royalty fraud using AI bots"
+  },
+  "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-07T06:17:41+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "N-able patches max severity N-central flaw amid ongoing attacks N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]",
+    "title": "N-able patches max severity N-central flaw amid ongoing attacks"
   },
   "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/": {
     "categories": [
@@ -37795,6 +37920,17 @@
     "source": "BleepingComputer",
     "summary": "Trend Micro warns of critical Apex One code execution flaws Trend Micro has patched two critical Apex One vulnerabilities\u00a0that allow attackers to gain remote code execution (RCE) on vulnerable\u00a0Windows systems. [...]",
     "title": "Trend Micro warns of critical Apex One code execution flaws"
+  },
+  "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-07T12:16:32+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Trezor data breach impact now reaches 81,000 customers Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
+    "title": "Trezor data breach impact now reaches 81,000 customers"
   },
   "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/": {
     "categories": [
