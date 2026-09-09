@@ -15584,6 +15584,15 @@
     "summary": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe\u202fCommerce and\u202fMagento Open Source that has come under active exploitation in the wild.\n\nThe vulnerability\u2026",
     "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell"
   },
+  "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfzwXsolZOaoU8mikO234FpoGAc_3wiI_OZ-Acpc-yPphzhUWmDh13CKiEG9xFbotf8RFEBh9jljS6pwUS4gryY-kk5UzPc7Mtb4Ds3mDpAhjyFoJibRDmnGXrLNt4VjGpTs1W5l6la2q4jO7D9hytPbAnLEFCHYVxxpcj7H-XNRDpGLfYSWAYqF7pl54/s1600/alby-warning.jpg",
+    "published": "2026-09-09T10:43:04+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets Bitcoin wallet company Alby has&nbsp;warned of a critical flaw&nbsp;in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub r\u2026",
+    "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets"
+  },
   "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4sbUEhtXF9n1_8s2f6ChnKMmjUv4Ht-DvEtZyLDPuSNhKFoi41aNlu3-u5kJLXUva81rNFwlsprMXE11cnbXc_es968eO-ANvWm0j1Cyi9SaoVUfneQqNINCR7lRs3qkkYdsSoyMu34Mgxs7B4pKclAt4atPw8B-RCFOTChtgeji9NTes_NEdZ2KKu2_/s1600/jet.jpg",
@@ -15710,6 +15719,15 @@
     "summary": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024.\n\nGoogle Thr\u2026",
     "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems"
   },
+  "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZvl2DE9GFM-4rdFgtQOOp1Dk3Xgp7xWysUv5zKTFwxqWYTurcgXgE-PDMn3_2AAIihh4YeiRvmwpb6GVDB1-8kxqasUWwX-FFa4mA41kXpFbzdt9hOvzW4xcyKBFttqIzbFSl-1SSSO0P_URv3Sy9QamkQZ55qzX5Y9Kmv5NdBCBHXCcUziiO6mfrqURE/s1600/chrome-zeroday.jpg",
+    "published": "2026-09-09T09:11:03+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe medium-severity vulnerability, assigned the CVE identi\u2026",
+    "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox"
+  },
   "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaGEC2JQn3dU5muXzZhp9ouduHJ5hE4vWW4zHDomXp7hJ3hHafGPmMU33aKs7A8dwhvqsMiwh8PNi4GUNzH635enPZT3oPdcZejqkA9vpPYbQTLZaAhzAVAuUFksC4mCNX6SRUzUx1vhSxokKBz9RBGXXOBJshSXfYLIox2OCi2htQdcmyDJDMvWTamC8/s1600/cisa.jpg",
@@ -15737,6 +15755,15 @@
     "summary": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions.\n\n\u2026",
     "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code"
   },
+  "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0fUTc6rz4ZeeaMmjDLOfb2qNhnJf_TdNHK3F3qbNCQLLJbaF-nbSw5YPdeSAwg1HjoGwfQJZaXBpwvEbasFDhQb5ZkUm158shateq7uubMyrlejW4SDZAAzNQGUYkYdsxHupipxzRA7dQwTwTt9ArVJgU-wA5bGxIXduJj3CdyBF69Ixp6_qAU1LGzfI/s1600/deepseek.jpg",
+    "published": "2026-09-09T11:17:07+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command.\n\nThe tool runs \u2026",
+    "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval"
+  },
   "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjT6gZEQ09i7WPG39V2zwJLuC6M3N7mvjMQC0aVmtON24RfDshYfzqKyGKWXrTMC_bGPyNn43NPLWaufMe0MSlanyUCeZENy6XXmYCC8NzcHpCiK8rv-bpke7sKMpmfkWFVv6GB9WUO46KXMzNRlmCm8x_WYaNZelDk5BBrVCnUswpWJzA_IZMQj86wFI/s1600/russian-hacker.jpg",
@@ -15745,6 +15772,15 @@
     "source": "The Hacker News",
     "summary": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced\u2026",
     "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands"
+  },
+  "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIA552mINL2oyFm7mf9nHTwjJGJUVAtfYnMXbqYsowSEsDMzVsAgHG8MHKn5_EmwZ9bgRmhEndE20FhQAN4rvOLv5ESSAu0kHTV4QyygvUePYCJ1fvda0bU0Mzi5B9J8LHhULDeRRI9HGC84dntx8jaLu6WFLOz6OOhEwKNnSf6zzFRyAtlLKDQzHvygg/s1600/f5-malware.jpg",
+    "published": "2026-09-09T07:36:49+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an&nbsp;analysis published on September 7.\n\nWhen Ap\u2026",
+    "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans"
   },
   "https://thehackernews.com/2026/09/fake-software-installers-disable.html": {
     "categories": [],
@@ -15881,6 +15917,15 @@
     "summary": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information tech\u2026",
     "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks"
   },
+  "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDwCsAOIvmVbfeFtRi5yvEPa3_Nm-rryDAF-CdttSghokSjh6oKz-ECapacQiIBNW9zsIh6LQ8B61LgpR2di6819PHU1vrIT6Mj4xKihzGcz29KydoYVw8lFKbrAXYs2MNv-FMRS8GnrmlfVQTAZ0ondViX8N9uy_dCgJywMQMnXlWBmzrXw9BR2zZ0HWo/s1600/ms-windows.jpg",
+    "published": "2026-09-09T04:41:29+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in t\u2026",
+    "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days"
+  },
   "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtysh_bb-hej1pQzey0RUhPD2w29ONlPDQMzE9Nc4lM529hKaHhuLKfGXEnqVZyUkMKhJchEeoN1clSKo3-opm2_BQkN6FJ72xBZOZwxX6sTwU4Zzk_j6taOwBpioZOnolR9idUjpydUlQ84TQ9pdWUlUm61JH0Xh8-6_0fo3VieeW3xVQwk4UvXcSu4/s1600/nable.jpg",
@@ -15889,6 +15934,24 @@
     "source": "The Hacker News",
     "summary": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw Every on-premises N-central build below 2026.3.1.14 \u2014 including servers updated to Hotfix 3 a day earlier \u2014 needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its \u2026",
     "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw"
+  },
+  "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMxDWMjpVE5kkeTzvYQ-YAyekZZ6U6CzCYj462wNRwiMna-44-sJo8kY5Nz2-f_D1N7c0lkhR8Hr2BoAvsP6vVb7ea_R5s-UxdKkwnv6apOIM8sIxEoBRQXek7U5lrR0VaP9q_W8hFULVW7qyvskPiGvZN9wyC_FAUm23HdPcLw_wsmfU0-GoQ3PVkNNyJ/s1600/n-able.jpg",
+    "published": "2026-09-09T04:27:51+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian \u2026",
+    "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild"
+  },
+  "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM_YdNiqGpEWkDm5hEkF-RhZ94vv84sJmONomdRsksJ65GwI388Va-uVIzXWhwZtHmBTF3oze2l4Sscj2zpTsn6lqdPWPKAeL1iP6SSyzvNBOA4dLAKxfSmfThhmQgIc_1AYGWG9dbrCLFg_dk4m8pCHxFcJBRnThru8PtB7UJqUy3VjW15-vQlRvuwpc/s1600/cpanel-bug.jpg",
+    "published": "2026-09-09T08:19:32+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on t\u2026",
+    "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root"
   },
   "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html": {
     "categories": [],
@@ -15953,6 +16016,15 @@
     "summary": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database ser\u2026",
     "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution"
   },
+  "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZtPq88H-iuD1vEn_DT-1UgFvWXy-P5eKMUm280xVsPt3_Dja1q22icfvF49OduVCGmazXmVmi51Oj58t-2H6JMA4e89X_-obRVRVORjeAZoQzNnw3Io6ad_LofQ1kfum9XeiHC9cijCgAiRL-RsRYjECDVPD_ZT3w61CFj1lkwe2sSZ_1_eSn6Oruh9MJ/s1600/windows-poc.jpg",
+    "published": "2026-09-09T06:47:27+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender.\n\nThe vulnerability, codenamed ShieldCrash, is assessed to be\u2026",
+    "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed"
+  },
   "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmg6caSDWQVOPIIl9NAXS4ofXmOdWz1eIGPMKMLCbHXc_uWiv11QNh2k-f43JAoVVQNMQj54d2yqJ_iO9vzwIO8nvQIyxr7N6GDCKsYDmSJEpyjiUBsY-zhMcmfEsWcEqDrKvrEkXxQC1LPldFXkqbJHO81V7oHnsRtuyjMZKzubBjwrK_yQ2xT2om89Ja/s1600/windows-exploit.jpg",
@@ -15989,6 +16061,15 @@
     "summary": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to\u2026",
     "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis"
   },
+  "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwUnFS6EAvkjYM7AC_3-k8C6QSAmpatuThkiXaa1WxvtiZU7M-n384kpPN4-VSAQfwL8PCTPUVd3iYeTDn_V5ZoZGEfuizJSZghdAw4Ldq_wFg7rxWyKBbwdMctiiBaykAmL40L6wappUeeyIr58u8SFFSszCP-rszf5ioHsaz0dtKilEpkw1LTEmtaCtZ/s1600/sap-flaws.jpg",
+    "published": "2026-09-09T06:25:45+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution SAP has released security updates to address multiple vulnerabilities, including a maximum-severity flaw in SAP Extended Passport (EPP) Processing that could have a severe impact on the confidentiali\u2026",
+    "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution"
+  },
   "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfx0JCqLgANXGkgF5NMg__RxJg5IJ8HgQcvr_2zxEM6HSYzesKdLjKbrqmtAegyIpBmLxnryF5CeJlRh4J09q3e1kOo8dEzGXjhQpunnmGoL6wzEW_6R7lsN4zE5IybADP50VCjGGrBercYm6OIMCYsSgbHJ6sN9AYY3v6kCqPof8TWzR2O_ybViE1aYo/s1600/Shai-Hulud.gif",
@@ -15997,6 +16078,15 @@
     "source": "The Hacker News",
     "summary": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Int\u2026",
     "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means"
+  },
+  "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6TzHNI7Stg7pvo_Pu0vMltU2jmnIr922wxLWIYFfaRpN3G7rVZCy76FgWwyZUCT36dRygtzxVmZPFTPSm1FuRrmqXwuvTjJhxwJE7zl34ZHuwZUEDdlrnunlem-Xo7KS6Buy1xlHYYxf-0u-d3qWer-o64MrNvrsh5V1WC7dVtGVwubINEgB1AtfQBNC/s1600/brazil-hackers.jpg",
+    "published": "2026-09-08T16:20:23+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026.\n\nCybersecurity company CrowdStrike is track\u2026",
+    "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution"
   },
   "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html": {
     "categories": [],
@@ -16060,6 +16150,15 @@
     "source": "The Hacker News",
     "summary": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce se\u2026",
     "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores"
+  },
+  "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL63HDvTiCn3B33K6DsfIbMLjHqXlJAUtoh6euiAwcooJCTdK4Zdkoh8rZ93iQsAAkscB3CmOH6TUQJPor4yH4wN97ABinyCN_5hcHNZ2gAMZH4YtTO3kon5Ws7MZGI5CULnH4SpafnrFsfZO_8j8wfaOFEinAnLIP-LHom_9LNQRJ2wrlYy66bO1RNpwg/s1600/ai-china.jpg",
+    "published": "2026-09-09T09:32:26+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of Am\u2026",
+    "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok"
   },
   "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html": {
     "categories": [],
@@ -17704,6 +17803,18 @@
     "summary": "Microsoft accelerates quantum-safe roadmap as risks grow Microsoft announced today that it is accelerating its quantum-safe security roadmap, saying advances in quantum computing are bringing the need to replace today's encryption standards sooner than previously expected. [...]",
     "title": "Microsoft accelerates quantum-safe roadmap as risks grow"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-09-09T01:16:27+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]",
+    "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/": {
     "categories": [
       "Microsoft"
@@ -19249,6 +19360,17 @@
     "summary": "Microsoft releases Windows 10 KB5099539 extended security update Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerabilities, along with additional security fixes. [...]",
     "title": "Microsoft releases Windows 10 KB5099539 extended security update"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-08T18:49:19+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft releases Windows 10 KB5122878 extended security update Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes. [...]",
+    "title": "Microsoft releases Windows 10 KB5122878 extended security update"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/": {
     "categories": [
       "Microsoft",
@@ -19484,6 +19606,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
     "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-08T18:18:05+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]",
+    "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/": {
     "categories": [
@@ -20369,6 +20503,18 @@
     "source": "BleepingComputer",
     "summary": "Windows 11 cumulative updates KB5083769 & KB5082052 released Microsoft has released Windows 11\u00a0KB5083769\u00a0and\u00a0KB5082052\u00a0cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
     "title": "Windows 11 cumulative updates KB5083769 & KB5082052 released"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-09-08T17:57:03+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 cumulative updates KB5124008 & KB5122880 released Microsoft has released Windows 11\u00a0KB5124008\u00a0and\u00a0KB5122880 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+    "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released"
   },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/": {
     "categories": [
@@ -25723,6 +25869,17 @@
     "summary": "DoorDash hit by new data breach in October exposing user information DoorDash\u00a0has disclosed a\u00a0data breach that hit the food delivery platform\u00a0this October. Beginning yesterday evening, DoorDash, which serves millions of customers across the U.S., Canada, Australia, and New Zealan\u2026",
     "title": "DoorDash hit by new data breach in October exposing user information"
   },
+  "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-08T20:35:14+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards A massive operation dubbed \"DoppelCart\" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]",
+    "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards"
+  },
   "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/": {
     "categories": [
       "Security"
@@ -28303,6 +28460,18 @@
     "summary": "Google patches first Chrome zero-day exploited in attacks this year Google has released emergency updates to fix a high-severity Chrome vulnerability exploited in zero-day attacks, marking the first such security flaw patched since the start of the year. [...]",
     "title": "Google patches first Chrome zero-day exploited in attacks this year"
   },
+  "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/": {
+    "categories": [
+      "Security",
+      "Google"
+    ],
+    "image": "",
+    "published": "2026-09-09T06:25:48+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Google warns of new Chrome zero-day bug exploited in attacks Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]",
+    "title": "Google warns of new Chrome zero-day bug exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/": {
     "categories": [
       "Security"
@@ -28783,6 +28952,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers backdoor Jscrambler npm package with infostealer malware The Jscrambler client-side web security company disclosed that a threat actor published a malicious version of its npm package that has been downloaded almost 1,500 times. [...]",
     "title": "Hackers backdoor Jscrambler npm package with infostealer malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-08T20:08:55+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]",
+    "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/": {
     "categories": [
@@ -31341,6 +31521,17 @@
     "summary": "Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison A 44-year-old man was sentenced to seven years and four months in prison for operating an \"evil twin\" WiFi network to steal the data of unsuspecting travelers at various airports across Australia. [...]",
     "title": "Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison"
   },
+  "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-09T08:44:22+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Man gets 15 years for extorting women with AI-generated porn videos An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]",
+    "title": "Man gets 15 years for extorting women with AI-generated porn videos"
+  },
   "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/": {
     "categories": [
       "Security"
@@ -33309,6 +33500,18 @@
     "summary": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
     "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges"
   },
+  "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-09T07:30:15+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access An anonymous\u00a0security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Microsoft rolled out its September 2026 Patch Tuesday security upd\u2026",
+    "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access"
+  },
   "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/": {
     "categories": [
       "Security",
@@ -34621,6 +34824,17 @@
     "source": "BleepingComputer",
     "summary": "Over 25,000 FortiCloud SSO devices exposed to remote attacks Internet security watchdog Shadowserver has found over 25,000 Fortinet devices exposed online with FortiCloud SSO enabled, amid ongoing attacks targeting a critical authentication bypass vulnerability. [...]",
     "title": "Over 25,000 FortiCloud SSO devices exposed to remote attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-09T10:11:29+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Over 36,000 exposed Plex servers vulnerable to recent flaws Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
+    "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws"
   },
   "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/": {
     "categories": [
@@ -36643,6 +36857,17 @@
     "summary": "ShinyHunters extortion gang claims Odido breach affecting millions The ShinyHunters extortion gang has claimed responsibility for breaching Dutch telecommunications provider Odido and stealing millions of user records from its compromised systems. [...]",
     "title": "ShinyHunters extortion gang claims Odido breach affecting millions"
   },
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-08T16:35:47+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state. [...]",
+    "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database"
+  },
   "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/": {
     "categories": [
       "Security",
@@ -37610,6 +37835,17 @@
     "source": "BleepingComputer",
     "summary": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss Critical vulnerabilities can exist in open source software your scanners don't check. HeroDevs reveals how EOL software creates blind spots in CVE feeds and SCA tools, and how you can receive a free end-of-life scan for you\u2026",
     "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-08T20:24:16+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "The EU CRA's Real Question: What Shipped, and When Did You Know? The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly\u2026",
+    "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?"
   },
   "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/": {
     "categories": [
@@ -40541,6 +40777,17 @@
     "source": "BleepingComputer",
     "summary": "Nvidia confirms October Windows updates cause gaming issues Nvidia has confirmed that last month's security updates are causing gaming performance issues on Windows 11 24H2 and Windows 11 25H2\u00a0systems. [...]",
     "title": "Nvidia confirms October Windows updates cause gaming issues"
+  },
+  "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/": {
+    "categories": [
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-09-08T16:28:42+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI says ChatGPT outage causes image generation errors OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]",
+    "title": "OpenAI says ChatGPT outage causes image generation errors"
   },
   "https://www.darkreading.com/application-security/150000-packages-flood-npm-registry-token-farming": {
     "categories": [],
@@ -43627,6 +43874,15 @@
     "summary": "Attackers Hit Cisco SD-WAN Flaw 2 Months Before Disclosure Researchers believe rogue peering was used to connect to the victim's SD-WAN devices to gain admin privileges and root-level access.",
     "title": "Attackers Hit Cisco SD-WAN Flaw 2 Months Before Disclosure"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt03ee880bdb37bd5a/6aa06071aa16bb4982ce6be0/hopscotch-LeoPatrizi-GettyImages-1303877346.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-08T21:03:46+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access.",
+    "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt788d90ba1818143b/6a4697d699a6c999ae9e947e/smb_Andrey_Popov_shutterstck.jpg?width=720&quality=80&disable=upscale",
@@ -44436,6 +44692,15 @@
     "source": "darkreading",
     "summary": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency Threat actors exploited commodity in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.",
     "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt498dd0b9b6ab45c6/6a9ffd284648d9bc55cdf333/Robot_escape-gremlin-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-08T20:36:15+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack Researchers and OpenAI disagree on whether the earlier incident involving DseWiki was a \u201chack\u201d that the company did not disclose.",
+    "title": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/operation-doppelbrand-weaponizing-fortune-500-brands": {
     "categories": [],
@@ -46358,6 +46623,15 @@
     "source": "darkreading",
     "summary": "ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain The campaign uses EtherHiding to dynamically update its command-and-control server, abusing the blockchain as an attacker-controlled address book.",
     "title": "ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain"
+  },
+  "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt96e63b09ee56a517/6aa00b69572e2132fa0a49b3/Womantyping_Rawpixel.com_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-08T17:25:37+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "ClickFix Campaigns Abuse Legitimate Services for Persistent Access Two separate attacks demonstrate how threat actors are finding new ways to compromise organizations by using the popular social engineering tactic.",
+    "title": "ClickFix Campaigns Abuse Legitimate Services for Persistent Access"
   },
   "https://www.darkreading.com/endpoint-security/coruna-darksword-democratizing-nation-state-exploit-kits": {
     "categories": [],
@@ -49284,6 +49558,15 @@
     "source": "darkreading",
     "summary": "Patch Now: Oracle's Fusion Middleware Has Critical RCE Flaw Attackers can execute arbitrary code without authentication if Oracle's Identity or Web Services Managers are exposed to the Web.",
     "title": "Patch Now: Oracle's Fusion Middleware Has Critical RCE Flaw"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd98de777797b4199/6aa074f14648d949d3cdf38d/ptchtuesday_bombermoon_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-08T21:26:02+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Patch Tuesday Sets Another Record With 974 CVEs Attackers are actively exploiting two of the vulnerabilities and another 58 are more likely to be exploited, according to Microsoft.",
+    "title": "Patch Tuesday Sets Another Record With 974 CVEs"
   },
   "https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update": {
     "categories": [],
