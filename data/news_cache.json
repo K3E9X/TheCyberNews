@@ -15611,6 +15611,15 @@
     "summary": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vuln\u2026",
     "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials"
   },
+  "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX61WXln9MMGAzqzflpRDt_LZGfB7ZJ_u1fsQhr5FRnml48-E-V-uxtCIF-GERZlt-eBhw3MDT7_6jFgwEDF1ppC7YZlB_CZn-q4_nKD9S3fQTI3kDQFe2Izsq6_NoGnCRtRZckr8Irg9kOJ8Fwghl3qHqwg1zWoN6ff-VsmlCaojw2Divb6L00F34lJk/s1600/jfrog-art.jpg",
+    "published": "2026-09-11T07:31:05+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud securit\u2026",
+    "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors"
+  },
   "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0o8dDcHW4CJBLnXfYzfofbG1w0Fi4zCPqcjEgASsL0gXnESv5isMONZgXzek2rM3VwkhnEqz2K4whDwB_lFylCYvfXASQmsQSPA-8U25998PBT2Xopdaaj9_iG0XqdBPu6iXRmtlN2CGc8b5mv3t68CVxV2HYneRkiUhUu3EIgSogEgipzJUiymLfl0NQ/s1600/jfrog.jpg",
@@ -15728,6 +15737,24 @@
     "summary": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024.\n\nGoogle Thr\u2026",
     "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems"
   },
+  "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyc0Kqar7_6N4y9ymGxw8ukQCQbqQ_pGCfnoXYMBZoNZK1w3ljkO26S_rhVhJaIVcx8rcEK95njKyaYj5g63VByKh8ncf_s84nUBWoyEbWZH6uaLYjnu5fNt_TC9wz-r6P_RTJgZ83Z5wmurzSb9_lHVfV1t9STts4WCZr18AH-3XRHTn5pj15uURIM-0/s1600/checkpoint.jpg",
+    "published": "2026-09-10T11:45:05+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacke\u2026",
+    "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE"
+  },
+  "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp8vDxYtUGwWuRZlSSBh2ghvSf6GTi_VlTQSQXTaIWSlQgHY_imEfl4hyAcrhPz9w3_ejmdAKK7ZeOt5gBsNZI7mhxJsnbyLT8Bo6O6HdM01yCNuDjuz-IU64LRuAuVDOzh2Z0vLhvzwP9PUUBKE_OLn0YD7m74-kZpo1dr5c0hzCMRHxrgfIzjk9MnR4/s1600/chinese.jpg",
+    "published": "2026-09-11T07:14:09+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, secur\u2026",
+    "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor"
+  },
   "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZvl2DE9GFM-4rdFgtQOOp1Dk3Xgp7xWysUv5zKTFwxqWYTurcgXgE-PDMn3_2AAIihh4YeiRvmwpb6GVDB1-8kxqasUWwX-FFa4mA41kXpFbzdt9hOvzW4xcyKBFttqIzbFSl-1SSSO0P_URv3Sy9QamkQZ55qzX5Y9Kmv5NdBCBHXCcUziiO6mfrqURE/s1600/chrome-zeroday.jpg",
@@ -15754,6 +15781,15 @@
     "source": "The Hacker News",
     "summary": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catal\u2026",
     "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline"
+  },
+  "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJizB5uHZncQAbfKm3-k256bJHufHNcClzKqXH2XK79HlAw8egcuz3abU_gxrTbR2zrWqpMmFcHApBqp5AvC2uox6vEeOlDt1JdRy-A6WAqpFPfVeZ4hM4gp-lCqqY_hIXMu2VVupFLGzbv1sBXLjQGSPlORsnaEdcOqjLJQKAKfDMHJqGY6KY1NZCLth0/s1600/cisco-ransomware.jpg",
+    "published": "2026-09-11T06:19:59+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities.\n\nT\u2026",
+    "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware"
   },
   "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html": {
     "categories": [],
@@ -15845,6 +15881,15 @@
     "summary": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency \u2026",
     "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends"
   },
+  "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJHT3nuLNpTkrzjiictjYuKsyepFXuDoZVUZB_Gz6yQFCP4CYdOIpSDon_tEsZ43eVe2_qiPXs7V9byKtyoYZ7HE7QltUfQgEUTnSSjmclQH27vVm5JjVIcrvANMIEOxUDmOWy0dPeHVOkiYoFZMgubtGqZJKfgft34Z-q5F7dyqPoJ6iInpgMwyIL3l8/s1600/android-work.jpg",
+    "published": "2026-09-10T11:33:43+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a&nbsp;report pub\u2026",
+    "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks"
+  },
   "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu5sAuC-e7tUigtaAj0gicqzy_kWZTZRujpV3IxqGW1wr_VCuXbKXG7M-nNIac5QO2GY_KtEQ8HfnUENc6JZpS8haeGQIvOH4EddDvrQTJwXY2kkZcz41JbeT1_YhVuyrArJV4sUB3hrT9dFIazMbT-_8hLxg0jrQzHLPLv_h3bNb98puP5yVwgA1zoIsQ/s1600/aiai.jpg",
@@ -15853,6 +15898,15 @@
     "source": "The Hacker News",
     "summary": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative cal\u2026",
     "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs"
+  },
+  "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4vbRDTWaQnxiILexae9P_rAk0hzx-re0czK2tM_WNQcoVDPlKblD4M5qOy8FZ9hHJBDLGjHHAyYutmaiacI54o5q1SH5qSbsptviRF16T2r6i8Iywvzk4GJprCm60p12qrK7t3R8h_ZR7CUoG47YfdeOb0iKY0WRapDeObI8_poWklMtKXrmr421Scjzi/s1600/play.jpg",
+    "published": "2026-09-10T14:36:47+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content.\n\nEarly Access apps are apps that haven't been re\u2026",
+    "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps"
   },
   "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html": {
     "categories": [],
@@ -16016,6 +16070,24 @@
     "summary": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.\n\nThe vulnerabilities in question are -\n\n\n  CVE-2026-1489\u2026",
     "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws"
   },
+  "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkLW3i6mB4uE2g7Ze6CDAess3UTTeol7YmRP-N3uTkLJHPglZc0BHvTlESyulvcTp05ObPwuGY5XHqV9q599pqLmK-ypamAPNUdHa9y-34Q4IEE3EBId9UrN9L0J3zK1TTf1Atovhkz51Gk_2gul7DmjvLmJd7BbwgqMhmVODTiQUuqu_IdFFGJt0WAiC_/s1600/paper.jpg",
+    "published": "2026-09-10T11:41:53+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break i\u2026",
+    "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances"
+  },
+  "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6b7k7Y60TgLLmuruqSocYNfZoYEmONgga8CidWSXIdOZLWlgCYLuXOe9bWQRi_3BRkOmJvPNANZAOS85Xx6RtuQTVCg2-QNi3dXfELQm8bglTMUK9rn54e-sLoslCkVYlPGiyGSnsu58yxo9EkC3PvXDWVTYhTRgDQqTDAQTs69vPBh7xjq0Fwm7bY40/s1600/papercut-flaws.jpg",
+    "published": "2026-09-11T06:46:18+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exp\u2026",
+    "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws"
+  },
   "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA3-5bNylOMc_s8MAT2ibQnV33cnJXadwKPRXjYgAL0GcZWOXuwtM-s5HS4ryVu5ewnhfAqBtOiuSseLcUSyDIfxf5XKF6mAwrpyG-v3Y-siqjJY8I5zVEMXwfkKPwBNAqaO2sQFI-q2oA4MWiagZFUlknIPKADDfvOo8s2Ifsa_xBAojg1rD5ZGUErC85/s1600/chrome-malware.jpg",
@@ -16168,6 +16240,15 @@
     "source": "The Hacker News",
     "summary": "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones The most common way into a company last year was to ask.\n\nA web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks\u2026",
     "title": "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones"
+  },
+  "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFNPIVe_Yx__WtfjnMTnoJSKPMcGPiMCP5NxEyv1gRcGSlnozG41TeGldWhQi7Hsc0XgcmC9tfTEBS-CdLLAz8cOskVbBOsghdSM9kg_AhQmhfMada8rs4l7O7Py8YJErqK54BIt0r06Sm1l62fy8yv6H8PJrEXWxjnvyLkyFKzzXcGI_h00yeBqck5v9L/s1600/td-main.jpg",
+    "published": "2026-09-10T17:47:38+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories A lot of this week\u2019s security news has the same awkward answer to one question: \u201cWhy was that allowed to work?\u201d\n\nAn extension asks for access and takes too much. A trusted service becomes par\u2026",
+    "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories"
   },
   "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html": {
     "categories": [],
@@ -18402,6 +18483,17 @@
     "summary": "Microsoft Entra ID gets passkeys default authentication starting September Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026. [...]",
     "title": "Microsoft Entra ID gets passkeys default authentication starting September"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-10T19:07:33+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Excel KB5002914 update breaks copy and paste for some users Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update res\u2026",
+    "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/": {
     "categories": [
       "Microsoft",
@@ -18726,6 +18818,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft pulls service update causing Teams launch failures Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client. [...]",
     "title": "Microsoft pulls service update causing Teams launch failures"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-11T09:39:37+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]",
+    "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/": {
     "categories": [
@@ -20489,6 +20592,17 @@
     "summary": "New Windows RasMan zero-day flaw gets free, unofficial patches Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service. [...]",
     "title": "New Windows RasMan zero-day flaw gets free, unofficial patches"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-10T20:34:37+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "September Windows Server updates break Remote Desktop Services Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and, in some cases, re\u2026",
+    "title": "September Windows Server updates break Remote Desktop Services"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/still-on-windows-10-enroll-in-free-extended-security-updates/": {
     "categories": [
       "Microsoft",
@@ -21513,6 +21627,19 @@
     "source": "BleepingComputer",
     "summary": "AI platforms can be abused for stealthy malware communication AI assistants like Grok and Microsoft Copilot with web browsing and URL-fetching capabilities can be abused to intermediate command-and-control (C2) activity. [...]",
     "title": "AI platforms can be abused for stealthy malware communication"
+  },
+  "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence",
+      "Education"
+    ],
+    "image": "",
+    "published": "2026-09-10T15:55:56+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "AI-powered attack exploited PaperCut flaws to hack 395 organizations A threat actor, likely\u00a0Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
+    "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations"
   },
   "https://www.bleepingcomputer.com/news/security/ai-slop-ransomware-test-sneaks-on-to-vs-code-marketplace/": {
     "categories": [
@@ -24159,6 +24286,17 @@
     "summary": "Cisco flags more SD-WAN flaws as actively exploited in attacks \u200bCisco has flagged two Catalyst SD-WAN Manager security flaws as actively exploited in the wild, urging administrators to upgrade vulnerable devices. [...]",
     "title": "Cisco flags more SD-WAN flaws as actively exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-10T15:43:58+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]",
+    "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers"
+  },
   "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/": {
     "categories": [
       "Security"
@@ -24732,6 +24870,17 @@
     "source": "BleepingComputer",
     "summary": "ConsentFix v3 attacks target Azure with automated OAuth abuse A new attack type, dubbed ConsentFix v3, has been circulating on hacker forums, building on the previous technique by adding automation and scaling potential. [...]",
     "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse"
+  },
+  "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-11T06:48:37+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Conti ransomware gang member sentenced to 4 years in prison A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
+    "title": "Conti ransomware gang member sentenced to 4 years in prison"
   },
   "https://www.bleepingcomputer.com/news/security/continuous-purple-teaming-turning-red-blue-rivalry-into-real-defense/": {
     "categories": [
@@ -28131,6 +28280,17 @@
     "summary": "GitHub, PyPI add time-based defenses against supply chain attacks GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
     "title": "GitHub, PyPI add time-based defenses against supply chain attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-11T11:15:22+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "GitLab urges users to patch max severity path traversal flaw GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
+    "title": "GitLab urges users to patch max severity path traversal flaw"
+  },
   "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-high-severity-2fa-bypass-denial-of-service-flaws/": {
     "categories": [
       "Security"
@@ -30314,6 +30474,17 @@
     "source": "BleepingComputer",
     "summary": "Identity-First AI Security: Why CISOs Must Add Intent to the Equation AI agents now provision infrastructure and approve actions, but many inherit over-scoped privileges without proper governance. Token Security explains why CISOs must treat agents as identities and add intent-ba\u2026",
     "title": "Identity-First AI Security: Why CISOs Must Add Intent to the Equation"
+  },
+  "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-10T14:55:33+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "IDScan confirms breach tied to 153 million stolen driver\u2019s licenses Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 153 million dr\u2026",
+    "title": "IDScan confirms breach tied to 153 million stolen driver\u2019s licenses"
   },
   "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/": {
     "categories": [
@@ -32824,6 +32995,18 @@
     "summary": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web br\u2026",
     "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control"
   },
+  "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/": {
+    "categories": [
+      "Security",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-09-10T21:40:43+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New Android malware encrypts files, steals data, and harasses victims A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]",
+    "title": "New Android malware encrypts files, steals data, and harasses victims"
+  },
   "https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/": {
     "categories": [
       "Security"
@@ -32917,6 +33100,17 @@
     "source": "BleepingComputer",
     "summary": "New Bluekit phishing service includes an AI assistant, 40 templates A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign drafts. [...]",
     "title": "New Bluekit phishing service includes an AI assistant, 40 templates"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-10T14:11:34+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws Multiple cyber-espionage groups deployed an exploit kit dubbed \"BlueMoon\" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]",
+    "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws"
   },
   "https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/": {
     "categories": [
@@ -37645,6 +37839,18 @@
     "summary": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads Hackers gained access to an API for the CPUID project and\u00a0changed the download links on the official website to serve malicious executables for the popular CPU-Z and HWMonitor tools. [...]",
     "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads"
   },
+  "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/": {
+    "categories": [
+      "Security",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-09-10T19:15:07+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Surfshark VPN says hackers breached internal testing, proxy servers Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]",
+    "title": "Surfshark VPN says hackers breached internal testing, proxy servers"
+  },
   "https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/": {
     "categories": [
       "Security"
@@ -38184,6 +38390,17 @@
     "summary": "The Top 3 Browser Sandbox Threats That Slip Past Modern Security Tools Attackers exploit web browsers' built-in behaviors to steal credentials, abuse extensions, and move laterall, slipping past traditional defenses. Learn from Keep Aware how browser-layer visibility and policy e\u2026",
     "title": "The Top 3 Browser Sandbox Threats That Slip Past Modern Security Tools"
   },
+  "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-10T14:00:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and explains \u2026",
+    "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter"
+  },
   "https://www.bleepingcomputer.com/news/security/the-tycoon-2fa-phishing-platform-and-the-collapse-of-legacy-mfa/": {
     "categories": [
       "Security"
@@ -38404,6 +38621,17 @@
     "source": "BleepingComputer",
     "summary": "Trend Micro warns of critical Apex One code execution flaws Trend Micro has patched two critical Apex One vulnerabilities\u00a0that allow attackers to gain remote code execution (RCE) on vulnerable\u00a0Windows systems. [...]",
     "title": "Trend Micro warns of critical Apex One code execution flaws"
+  },
+  "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-11T07:55:15+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]",
+    "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach"
   },
   "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/": {
     "categories": [
@@ -47662,6 +47890,15 @@
     "summary": "Fake Bahrain Alert App Deploys Android Surveillance Malware A malicious application delivers four-stage Android spyware via phony Google Play sites, exploiting civilian fear during Iranian missile strikes.",
     "title": "Fake Bahrain Alert App Deploys Android Surveillance Malware"
   },
+  "https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf1f330952367016/6aa3075b6e51441d4542eee8/indonesia_flag-peng_song-GettyImages-1371211038.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-11T01:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Indonesia Hit by Android Banking App-Cloning Campaign The GoldFactory threat group exploits the Android Work Profile feature to deliver the Gigabud Trojan, while Mantax Otax spreads separately.",
+    "title": "Indonesia Hit by Android Banking App-Cloning Campaign"
+  },
   "https://www.darkreading.com/mobile-security/landfall-malware-targeted-samsung-galaxy-users": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltafc10d816f4a797b/690e567abae067cac2a9159e/andoid_Tero_Vesalainen_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -49002,6 +49239,15 @@
     "summary": "Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut Verizon's &quot;2026 Data Breach Investigations Report&quot; (&quot;DBIR&quot;) finds that exploits are now involved in 31% of initial access for breaches, while patching lags too far behind the bad guys.",
     "title": "Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut"
   },
+  "https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte683970072b53815/6aa308b0b1def869502ac7be/Phone_passcode-Tero_Vesalainen-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-10T20:36:03+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data Threat actors are leveraging Microsoft's Graph API to identify lucrative targets, then passing their access to extortion groups like ShinyHunters.",
+    "title": "Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data"
+  },
   "https://www.darkreading.com/threat-intelligence/voidlink-linux-malware-ai": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1880c47c131e8c5/6970bd763974e86f534678e3/AI(1800)_NicoElNino_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale",
@@ -49736,6 +49982,15 @@
     "source": "darkreading",
     "summary": "Nightmare-Eclipse Drops Yet Another Microsoft Exploit, RoguePlanet The disgruntled researcher released yet another PoC for a Windows Defender bug that allows for system takeover, showing no signs of abandoning their ongoing feud with Microsoft.",
     "title": "Nightmare-Eclipse Drops Yet Another Microsoft Exploit, RoguePlanet"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd6923f7af78d46ee/6aa28ac3d94910375384f4f1/Hacker_(1800)_Andriy_Popov_Alamy.png?width=720&quality=80&disable=upscale",
+    "published": "2026-09-10T15:29:12+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit The disgruntled researcher continued their vendetta against Microsoft by publishing yet another zero-day exploit for Windows Defender.",
+    "title": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit"
   },
   "https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities": {
     "categories": [],
