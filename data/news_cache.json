@@ -15602,6 +15602,15 @@
     "summary": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6 Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns\u2026",
     "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6"
   },
+  "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIEiaJBfFrHCrYlSFKWGSRYD6CW_EeKfmYWCZw4jm5c9hyphenhyphenDVbaSIhyphenhyphenXwFB0ncQOoB10crmwgJV9nsvhQzJNuVMsDh6jPVt2ep23r0A2PB7ZhLfTroa0Ff__kyjjX2MjP4ok4DtBwFEF1VZC7b5OOCkibJBbwECsR0Y_9S1-NpdEIw04J5FtY9OloB084t_/s1600/claude-china.jpg",
+    "published": "2026-09-11T16:15:29+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.a\u2026",
+    "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks"
+  },
   "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4sbUEhtXF9n1_8s2f6ChnKMmjUv4Ht-DvEtZyLDPuSNhKFoi41aNlu3-u5kJLXUva81rNFwlsprMXE11cnbXc_es968eO-ANvWm0j1Cyi9SaoVUfneQqNINCR7lRs3qkkYdsSoyMu34Mgxs7B4pKclAt4atPw8B-RCFOTChtgeji9NTes_NEdZ2KKu2_/s1600/jet.jpg",
@@ -15791,6 +15800,15 @@
     "summary": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities.\n\nT\u2026",
     "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware"
   },
+  "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG0iCBQ4Eqxn0QOtvYZSysksPzr5fT0m8aLqNTa0a7Gcz3A5ikRt1oAenJwzo8rxcLERq54SNLtRvkYXKMTo0nMOmV8pWh4It3T0vP7q4J5Z23tdDkbBf3j7v317S7sQbBBbN6j6MuHusofo3qcbm2Y3DWT76gHp4Z1_En2QnJMCyEpvCo1sCcXoRZVw5-/s1600/claudeai.jpg",
+    "published": "2026-09-11T14:29:47+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August\u2026",
+    "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims"
+  },
   "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj9su2Wd6Yb88IvMpg5v1P8IyPg4KWKTeBXjerFgxz0U5WLKO2U50jymR-fKujsKeMFZ3q1VEupMRFZUz5gD47JRzVceagYJJ3bCTT8t532rY63po54kanBCPX4_hmKsxe-1b52IGrYc__TH5Y2F13G6L32HNKPQxL34iqzEPuBGynDCu6xFdKHplXvdY/s1600/cisco-flaws.jpg",
@@ -15889,6 +15907,15 @@
     "source": "The Hacker News",
     "summary": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a&nbsp;report pub\u2026",
     "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks"
+  },
+  "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioFH6aWhF9NgRW1O3yFExc7paTA9akN5-3IUQF8mvEiSTaFJjKvm6YQzFX6MP2uimYplHe1MJXz6eZtPtnxaLy25jJBhU6KuhsWFpIlnqhbn6OI6QTcfp6Olp1-VDUEF4KEYFF7hQDBdmgtxibsg9MkvbcOJIlR8Of2Flyw2m9zYfXC6gUm-TV8XA6vU43/s1600/gitlab-wild.jpg",
+    "published": "2026-09-11T16:30:18+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure.\n\nThe vulnerability in questi\u2026",
+    "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure"
   },
   "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html": {
     "categories": [],
@@ -16061,6 +16088,15 @@
     "summary": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served al\u2026",
     "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic"
   },
+  "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSyR4P1ZPtVeXKeb60Ut1xdO4OhRvHWFmoYNgM7SI3NEwfwcTi3Ut60xwcqIfP56OzGFtixKW4Aeo14cVZNE6TPmpC-x8qFgofgMToETQ82bp1aMIMBuaOER2Rq6PkhONMhZPGLFSKFfxVjY4_zDNJOXYHPbQaorfgr74o2PimTPeCf1hgZQ0spe-nJoiU/s1600/rubygems-openai.jpg",
+    "published": "2026-09-12T09:07:56+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von A\u2026",
+    "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers"
+  },
   "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9jQ8JSakEpnqxzsAZhwXnVvTMB0Lrbj7shOcXtSJzA30wcMTbkAIUGvSZPiBXOLeAW66Jpuysxn56W8YWD00hsCNB742oLqeyvgD8MXdIHHqwyeehyoyXx9G9c6XjxwN10Co_XVZuBkRjMquzgf9V17gh2Gw-xff0qJ9rh3sPO4tBq4OjjS0dxsl73WKT/s1600/wp-main.jpg",
@@ -16177,6 +16213,15 @@
     "source": "The Hacker News",
     "summary": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to\u2026",
     "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis"
+  },
+  "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtfzeoSe_6tXrJiKsyJfN4vYk6suLsJPF3-SOJWE8LAaZ6_WixrsJVjZ0T8O6jdtB1d08IR8swK6H0B4S_m7-0YfIiJlVPHuL7guxwC-4ANLXUyNsEWfIusPzvOMPOKSBmFcBT1NBBVWIglIRlT8fs6O9Uc6ZRBRgWZNPbvgAVIj8gIXfusRwZh0tndhni/s1600/claude-malware.jpg",
+    "published": "2026-09-11T14:10:20+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve.\n\nT\u2026",
+    "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection"
   },
   "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html": {
     "categories": [],
@@ -16322,6 +16367,15 @@
     "summary": "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, b\u2026",
     "title": "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More"
   },
+  "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx03NP3tJYBFro8_pZ2g6irfvMJFy0HGYqvUu9kkRJZBnMJ-BcA9aWGZZ1vS4a71YOgpB5qLBDkoNnMyOBJXGhfsyQQMK0IgaGunMOUTLnFUSFddG_5NwlnXsUCWJpGh3bGOcWLHpxXTAqv0i4QAYyRZPXcm0Rcp5K9Yfc7o7SEeLZXNtGp3NZVMzlv1M/s1600/in.jpg",
+    "published": "2026-09-12T10:24:44+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "When the Whole Company Adopts AI: What It Does to Your SOC Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against\u2026",
+    "title": "When the Whole Company Adopts AI: What It Does to Your SOC"
+  },
   "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAkHa8CDEfDzL0HknvyLE5eRK8r91iyhgzpCS1GmG3HRtriZYYFzCTP9_H433YsqJ80SAppgs9g6rOhsTWIzHPh_CFcZJS18DIj5ANgzFwSU0vfcyJofTEqEvjGGjNcqZdHU_54PENNzxawWHCZ2r_1K-A63x3P8CbuIiu8OHASjQV3OoglWTefAF2dZw/s1600/intruder.jpg",
@@ -16330,6 +16384,15 @@
     "source": "The Hacker News",
     "summary": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations acr\u2026",
     "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does"
+  },
+  "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPPe_ve3Cylrq2fJ8HTFPebWF7lR7tvzMvL3mwFcGZNF2KWesOGc66BfO7NbiPxmsiao8jcItyikguKNqsEGfpJEcAvacbP7rflAaAT-e0Y1IbsNCNvdqvXMbwERLlPpV0PMhk9c5esoEjCE97wglh8rU9xZ7eGz2N4BOpzFYTb9-Ln3FaBRQiscqzK7U/s1600/breachlock.jpg",
+    "published": "2026-09-11T11:30:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk Security teams have become exceptionally talented at finding vulnerabilities. Now, it\u2019s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compr\u2026",
+    "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/": {
     "categories": [
@@ -22217,6 +22280,17 @@
     "summary": "Arkanix Stealer pops up as short-lived AI info-stealer experiment An information-stealing malware operation named\u00a0Arkanix Stealer, promoted on multiple dark web forums towards the end\u00a0of 2025, was likely developed as an AI-assisted experiment. [...]",
     "title": "Arkanix Stealer pops up as short-lived AI info-stealer experiment"
   },
+  "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-11T16:29:44+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Artifactory flaws chained in attacks deploying backdoor malware Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [..\u2026",
+    "title": "Artifactory flaws chained in attacks deploying backdoor malware"
+  },
   "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/": {
     "categories": [
       "Security"
@@ -27598,6 +27672,17 @@
     "summary": "Flipper Zero firmware development continues with community help Flipper Devices says development of the Flipper Zero firmware will continue, albeit with a smaller internal team and greater reliance on community contributions. [...]",
     "title": "Flipper Zero firmware development continues with community help"
   },
+  "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-11T19:00:29+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Florida confirms DMV database breached via stolen police account The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police de\u2026",
+    "title": "Florida confirms DMV database breached via stolen police account"
+  },
   "https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/": {
     "categories": [
       "Security",
@@ -29164,6 +29249,18 @@
     "summary": "Hackers abuse ViPNet software to target Russian govt agencies An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
     "title": "Hackers abuse ViPNet software to target Russian govt agencies"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-09-11T20:19:09+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Hackers abused Claude to extract secrets from 1.8M Android apps Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
+    "title": "Hackers abused Claude to extract secrets from 1.8M Android apps"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/": {
     "categories": [
       "Security"
@@ -30266,6 +30363,17 @@
     "source": "BleepingComputer",
     "summary": "How strong password policies secure OT systems against cyber threats OT environments rely on aging systems, shared accounts, and remote access, making weak or reused passwords a major attack vector. Specops Software explains how stronger password policies and continuous checks fo\u2026",
     "title": "How strong password policies secure OT systems against cyber threats"
+  },
+  "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-11T14:01:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Cl\u2026",
+    "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface"
   },
   "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/": {
     "categories": [
@@ -35346,6 +35454,17 @@
     "source": "BleepingComputer",
     "summary": "PaperCut warns of NG, MF flaw exploited in zero-day attacks PaperCut is warning\u00a0that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]",
     "title": "PaperCut warns of NG, MF flaw exploited in zero-day attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-11T17:26:50+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Passkey-themed phishing attacks lead to Microsoft 365 data theft Microsoft says threat actors linked to ShinyHunters, Helix,\u00a0and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data \u2026",
+    "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft"
   },
   "https://www.bleepingcomputer.com/news/security/password-guessing-without-ai-how-attackers-build-targeted-wordlists/": {
     "categories": [
@@ -42914,6 +43033,15 @@
     "summary": "AI-Generated Workflows Are a Silent Security Disaster Teams are dealing with a truly dangerous problem \u2014 automation that works, but that no one understands.",
     "title": "AI-Generated Workflows Are a Silent Security Disaster"
   },
+  "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8ddbf63a10c918d0/6aa43a1b4a5cb4f4c4b367ba/AI_governance_-_DK_Studio_-_Getty-2285216695.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-11T17:10:56+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "AI Governance Can't Wait Adversaries can manipulate AI defensive reasoning to silently compromise target networks.",
+    "title": "AI Governance Can't Wait"
+  },
   "https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6da71c7236b44e30/694ae29f19b0239070b0480f/AI_brain_sleepyellow_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -42931,6 +43059,15 @@
     "source": "darkreading",
     "summary": "AI Risk Worries Insurers and Businesses Alike As companies adopt AI, many insurance firms are explicitly excluding AI risks, while others are forging ahead to create the right framework. What risks can firms reasonably manage?",
     "title": "AI Risk Worries Insurers and Businesses Alike"
+  },
+  "https://www.darkreading.com/cyber-risk/ai-scamming-humans": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6d66507ff638e8a0/6aa431c763177a6fe1776c1a/fredheiding.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-11T18:14:06+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Why AI Is So Good at Scamming Humans Fred Heiding of Menlo Park Intelligence talks with the Dark Reading News Desk about his research on frontier models, and their ability to influence human behavior and create emotional dependency.",
+    "title": "Why AI Is So Good at Scamming Humans"
   },
   "https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps": {
     "categories": [],
@@ -43075,6 +43212,15 @@
     "source": "darkreading",
     "summary": "260K+ Chrome Users Duped by Fake AI Browser Extensions 30 copycat apps tricked users, and Google itself, into thinking they're legitimate AI tools.",
     "title": "260K+ Chrome Users Duped by Fake AI Browser Extensions"
+  },
+  "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8adea69aa40a4f52/6aa3151ad2a293fb0a02efea/GettyImages-2220810557.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-11T18:44:03+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
+    "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate"
   },
   "https://www.darkreading.com/cyber-risk/cisa-rewrites-federal-patching-requirements-ai-threat-era": {
     "categories": [],
@@ -44180,6 +44326,15 @@
     "summary": "Zombie Projects Rise Again to Undermine Security Companies left them for dead, but the remnants of old infrastructure and failed projects continue to haunt businesses' security teams.",
     "title": "Zombie Projects Rise Again to Undermine Security"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta544980c27f53cb0/6aa439f3f857854e31bd9c8a/Email_trap-sesame-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-11T19:21:08+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI.",
+    "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7f40f3c081eecf91/69dd9708c01884640b682358/Turkey-Ivan_Tsyrkunovich-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -45150,6 +45305,15 @@
     "source": "darkreading",
     "summary": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
     "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8cf4e55b02be84ac/6aa41d1ff4f5704c3b28690b/bees-Trevor_Srednick-GettyImages-2204460367.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-11T15:48:27+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain From creating lab environments for staging and testing agentic attacks to reconnaissance to lateral movement and exfiltration, the most innovative attackers are widely incorporating AI.",
+    "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/phishers-persistence-eu-asia-hospitality-orgs": {
     "categories": [],
