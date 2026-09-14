@@ -15584,6 +15584,15 @@
     "summary": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe\u202fCommerce and\u202fMagento Open Source that has come under active exploitation in the wild.\n\nThe vulnerability\u2026",
     "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell"
   },
+  "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid_ratIPK3F0IGyzyDTTPaV26Nnh4gQoFjS0ejR49J_tbGb92GgukT-Mnr9xv9mK7h0QSdeXujxiEtD0AqVKNmrKoG9BMEuut7CB1368iyt3Gr6Xu5mAdkDsUQC86K9GZ-Uw6qfPvYYr9BUvHzn014_rzQeMS5dCVXEwkRLs3eViylo5ChmZs6QQygxE4/s1600/picus-main.jpg",
+    "published": "2026-09-14T11:58:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "AI Changed the Exposure Problem. Validation Needs to Change With It. There's a lot of noise around AI and cybersecurity right now. What\u2019s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scal\u2026",
+    "title": "AI Changed the Exposure Problem. Validation Needs to Change With It."
+  },
   "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfzwXsolZOaoU8mikO234FpoGAc_3wiI_OZ-Acpc-yPphzhUWmDh13CKiEG9xFbotf8RFEBh9jljS6pwUS4gryY-kk5UzPc7Mtb4Ds3mDpAhjyFoJibRDmnGXrLNt4VjGpTs1W5l6la2q4jO7D9hytPbAnLEFCHYVxxpcj7H-XNRDpGLfYSWAYqF7pl54/s1600/alby-warning.jpg",
@@ -16033,6 +16042,15 @@
     "source": "The Hacker News",
     "summary": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the de\u2026",
     "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code"
+  },
+  "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguNgykDjufnR6xGrMUSq67eZ5sCFxbYjf8J6pEXekhUnt-zCt2xaJ4jzj6I0wPMYjps9z2ufKJ-JSJ8ZqhGe4BcbtNWfRETdaB6QgIRVLw0CtnsM5q2qCpyI3kL7oBXmNixcTTcumZJHFgCKaoLY8kRIBDbPHslMmmzzb25TlESGooJuaxtXEL5qrUzkop/s1600/twitch.jpg",
+    "published": "2026-09-14T07:24:39+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service.\n\nThe extension, named \"Twitch\u2026",
+    "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users"
   },
   "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html": {
     "categories": [],
@@ -19888,6 +19906,28 @@
     "summary": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]",
     "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-14T08:08:16+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: September updates break audio on some Windows PCs Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]",
+    "title": "Microsoft: September updates break audio on some Windows PCs"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-14T09:50:25+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: September updates cause RDS failures on Windows Server Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]",
+    "title": "Microsoft: September updates cause RDS failures on Windows Server"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/": {
     "categories": [
       "Microsoft"
@@ -23502,6 +23542,17 @@
     "source": "BleepingComputer",
     "summary": "CISA gives govt agencies 7 days to patch new Fortinet flaw CISA has ordered U.S. government agencies to secure their systems within a week against another vulnerability in Fortinet's FortiWeb web application firewall, which was exploited in zero-day attacks. [...]",
     "title": "CISA gives govt agencies 7 days to patch new Fortinet flaw"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-14T07:06:27+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "CISA: Hackers now exploit max severity GitLab flaw in attacks The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks. [...]",
+    "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/": {
     "categories": [
@@ -29781,6 +29832,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers exploit security testing apps to breach Fortune 500 firms Threat actors are exploiting misconfigured\u00a0web applications used for security training and internal penetration testing, such as DVWA, OWASP Juice Shop, Hackazon, and bWAPP, to gain\u00a0access to cloud environments of \u2026",
     "title": "Hackers exploit security testing apps to breach Fortune 500 firms"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-13T14:26:32+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
+    "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/": {
     "categories": [
@@ -36608,6 +36670,17 @@
     "summary": "Retail giant Coupang data breach impacts 33.7 million customers South Korea's\u00a0largest retailer, Coupang, has suffered a data breach that exposed the personal information of 33.7 million customers. [...]",
     "title": "Retail giant Coupang data breach impacts 33.7 million customers"
   },
+  "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-14T08:48:24+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Revolut discloses data breach exposing financial info, passports Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]",
+    "title": "Revolut discloses data breach exposing financial info, passports"
+  },
   "https://www.bleepingcomputer.com/news/security/rhadamanthys-infostealer-disrupted-as-cybercriminals-lose-server-access/": {
     "categories": [
       "Security"
@@ -40148,6 +40221,17 @@
     "source": "BleepingComputer",
     "summary": "Webinar: How Google Workspace breaches happen and what to do next Google Workspace breaches can begin with social engineering or forgotten third-party integrations rather than sophisticated exploits. This webinar examines real-world breaches, what happens during the critical firs\u2026",
     "title": "Webinar: How Google Workspace breaches happen and what to do next"
+  },
+  "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-14T12:15:23+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how the\u2026",
+    "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches"
   },
   "https://www.bleepingcomputer.com/news/security/webinar-modern-patch-management-strategies-to-patch-faster-with-less-risk/": {
     "categories": [
@@ -47507,6 +47591,15 @@
     "source": "darkreading",
     "summary": "Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia More than 1,600 socially engineered messages from the China-backed advanced persistent threat (APT) group target various sectors to deliver the previously undocumented ABCDoor backdoor, ValleyRAT, and other malware.",
     "title": "Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia"
+  },
+  "https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2d987d8e587258e4/67891f726d4ecea6eb99f63d/Threat_detection_(1800)_Luis_Moreira_Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-11T18:27:28+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "SpiderSilk Hunts External Threats With AI-Based Scanner The Dubai-based threat detection startup uses artificial intelligence tools to scan billions of IP addresses to find exposed assets, leaked data, and zero-day vulnerabilities.",
+    "title": "SpiderSilk Hunts External Threats With AI-Based Scanner"
   },
   "https://www.darkreading.com/endpoint-security/startup-trends-shaking-up-browsers-soc-automation-appsec": {
     "categories": [],
