@@ -15575,6 +15575,15 @@
     "summary": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that i\u2026",
     "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds"
   },
+  "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9khzZCrFkNfQ1fOYHT8A4LJrIsfc52ppe6xZffdUrfRacqTVQ76P0VPDZhqC2UfKM32jdbEiQfaCZDbrV2F0_dssOM8V8nT3ZZYvwhflLdfEhJhdNa0-UntK9XHkFJ4R5RthFMOM2X5kDZxUKW1RnRLmmQ0xLh5foMldMZovB0ZPdafoRf9cEb_w9Hwk/s1600/3bb.jpg",
+    "published": "2026-09-14T18:01:49+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called\u2026",
+    "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials"
+  },
   "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_xdakttovno7kFgFYIw5XGFGcSZibVvXYB64vih4iZpc4_WY_t7oe1X3igSPGXBa8UTkf4z4xn_GzZ_n7PmuFFvYC8Wsmb04PxYP5z-XHjZZFe_SASihwZNg1dxHXQzz8hBRo-6LhvQmwyo_MA9Kj6hrcci6ouvOX1D4f-0dNvs57M6WneQHC61yZkF_o/s1600/magento.jpg",
@@ -15619,6 +15628,15 @@
     "source": "The Hacker News",
     "summary": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.a\u2026",
     "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks"
+  },
+  "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5FtIC97mlzzBT1tKZW7igSSWnJsEI-gEDuUjX-_smFr3Q-loPw-bYG2rEqPBOFPOm0SeL3Go5NvyiJo_DbqnF7ECWdg1EA0DaUML5koDFnXi_lTpJ_Vuow5bsBeQvqLTN25x3O0seE7Qxv5o3S9KoIKuQAVIu7FTPPoZm6ly5XtS97tng5LAaw3tCCY/s1600/live.jpg",
+    "published": "2026-09-15T11:26:36+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point Introduction\n\nSecurity teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does t\u2026",
+    "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point"
   },
   "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html": {
     "categories": [],
@@ -15773,6 +15791,15 @@
     "summary": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacke\u2026",
     "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE"
   },
+  "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5aJxmkQeaEoRUyxjlnH4uMELX24ICkHN1UpJaF3kM181M-V32GMskTo1YCRAf-8m4rsHw0nEYM53AC1CAZekv6yOEfBkj1ZNxL3lWatq_F5Bpuwsvw7snHIiIz62EA1pX-bPaawFgIwbvtUH020WdVwEupWi_CkYJVDog_w0LVEnMMvRYo0D7giAdtuGK/s1600/chrome-windows.jpg",
+    "published": "2026-09-15T05:31:05+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor c\u2026",
+    "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE"
+  },
   "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp8vDxYtUGwWuRZlSSBh2ghvSf6GTi_VlTQSQXTaIWSlQgHY_imEfl4hyAcrhPz9w3_ejmdAKK7ZeOt5gBsNZI7mhxJsnbyLT8Bo6O6HdM01yCNuDjuz-IU64LRuAuVDOzh2Z0vLhvzwP9PUUBKE_OLn0YD7m74-kZpo1dr5c0hzCMRHxrgfIzjk9MnR4/s1600/chinese.jpg",
@@ -15826,6 +15853,15 @@
     "source": "The Hacker News",
     "summary": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities.\n\nT\u2026",
     "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware"
+  },
+  "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu8z5yuk0NLq0i2IvKx9dibCdw5at8BanYNBhjn665PLV0EanY_s0UV0D4D0wcPijyd5r8sS4eCMDwKdsVQ9GktnqcPRympe7ZqI7Bh8ZSBukLsxFSQ3-SFRb10ylKsDPl7tU2-M3w_E0eNSe_ytrRE-JZ62fvAExuQCawQJZFjYwArFC550Ri8mOQ1q1s/s1600/cisco-email.jpg",
+    "published": "2026-09-15T06:11:11+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-20\u2026",
+    "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution"
   },
   "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html": {
     "categories": [],
@@ -15998,6 +16034,15 @@
     "summary": "How to Secure Enterprise AI: From Adoption to Incident Readiness The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus\u2026",
     "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness"
   },
+  "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzWVpv5OsfVGAYPz4or_uMgVNDXTSzyXpTB8XLtCFHdzk9IliH8Aydez_Zo9hDGSj7__A0cFwnjKUpRWn5nn4CSd5wlaIJ1-BpU29tUyeh3pC63H_kXIn9ANQna1FBENp-td6TCC6z50ZEcAeNjAZMA-tIA9_x9nYrlHqbnJOijQpbeHsQmW5tKMczy4ek/s1600/marimo%20%281%29.jpg",
+    "published": "2026-09-15T11:52:28+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human oper\u2026",
+    "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds"
+  },
   "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYP_zrhRTZRWnPPcDkUrE7dBh2Bf5eaQmlBxyl7euTRGjS0C8boQppnrmjY0CIVjGrS_PF13V1W3BPVI3RDPZY59s_7xIkI8LnFkg3Tn_Q0x7_tbCs_sMkvhZMREtFLW3IOJSNNmQrKCDI88FCWhfymdWkEWtdMMRzivv3lZXImjreAz0d74VXt2K80ipH/s1600/tokens.jpg",
@@ -16025,6 +16070,15 @@
     "summary": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities.\n\n\"The payloads are pr\u2026",
     "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies"
   },
+  "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRVzSne-2lfRX57xj9CbnkpX1fjEWXYoPN0tDsXwgBwaE_LVqYBKtWbO1nudNLKp89aR90EeszJUqsNvZN4ZLzU1i7hm89ihV-lK1mIKiNXl6GWAWkn6uz7WlRVfIdJrS7Nfn6x-1Cclf6oTs3RxVNWxQSVBsvhzDjMBnmU3l3oERVu3b5hqag5mSeKoU/s1600/litespeed.jpg",
+    "published": "2026-09-15T06:52:16+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an&nbsp;advisory published \u2026",
+    "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server"
+  },
   "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixn-0jJvMDlL85UUyW0E5PUDeUnMbGMxZJEnJMOAXXAuiqD-e1D9IoZdYsNwwDY16NA7x7GFHzVrx6LqJU7u7ywR50UWP4DGybNAhTlLPeAiBcVwVUJPgV1KbD1u0aUNy_468Y6gMQJ8FlnfGFlz_iCJcAeOeTiPViV1195lHwovULdtSBlsvPWOGpNU8/s1600/check.jpg",
@@ -16051,6 +16105,15 @@
     "source": "The Hacker News",
     "summary": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service.\n\nThe extension, named \"Twitch\u2026",
     "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users"
+  },
+  "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDvoBVfJIN7YwGuf64F0CQWt9GrAVzaxDWGJetCrAGM_QgGEfpZm_I7f3FTkWBydY7v_iV4n8RWPAr4jfp7ZhN9DVbVZGDryBYlZiL6dn5RuYzLd811NH_sARdjbwWIpf9kOj-jtXfLzb7BTuy-iMpHbsgB9n8J5T7Hx0qp0D1_XeJR-ANcGQ5p88YH3fE/s1600/vite.jpg",
+    "published": "2026-09-15T11:12:32+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data.\n\nThe first is an automated effort aimed at intern\u2026",
+    "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers"
   },
   "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html": {
     "categories": [],
@@ -16114,6 +16177,15 @@
     "source": "The Hacker News",
     "summary": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on t\u2026",
     "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root"
+  },
+  "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4IfzHWVZbbX-Jlw_WME4viVgnupLfVdkxzfZ0skzjQpB5I32f-nua5-Gt6UJGJ9-cwTyrHqaCxBFndtNkIFx_Tj9sf3LnxfrqlecJ0zh0N83i5YRdukZRTpTiUP-kVrkpF4gMJZN-tONZy7jjk2gqdq87ELsUHDlyjQDFCIX6Rioz3ljHItZ2IeLDqb-w/s1600/DDRop.gif",
+    "published": "2026-09-14T18:02:13+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor ke\u2026",
+    "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing"
   },
   "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html": {
     "categories": [],
@@ -16205,6 +16277,15 @@
     "summary": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database ser\u2026",
     "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution"
   },
+  "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijvj2lBIP05rWNCbhHf0wzhfJ35HBSL0rrr99VOwBa-AzBrvlz0hpopABC1zCHMLj6mqJTNSiij7cFcocgbHUyRbh1QV3V7OCWDLXn3fJ_fRJQxaj63BC8UOjjNlcBdwZ0jdD3zWDA6XpA3Xt2an-6vAE-kyo3sPOpjNa5tzWnntDxaeia-0zzKa-PuywC/s1600/gitea-hacked.jpg",
+    "published": "2026-09-14T16:56:30+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as \u2026",
+    "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries"
+  },
   "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZtPq88H-iuD1vEn_DT-1UgFvWXy-P5eKMUm280xVsPt3_Dja1q22icfvF49OduVCGmazXmVmi51Oj58t-2H6JMA4e89X_-obRVRVORjeAZoQzNnw3Io6ad_LofQ1kfum9XeiHC9cijCgAiRL-RsRYjECDVPD_ZT3w61CFj1lkwe2sSZ_1_eSn6Oruh9MJ/s1600/windows-poc.jpg",
@@ -16285,6 +16366,15 @@
     "source": "The Hacker News",
     "summary": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026.\n\nCybersecurity company CrowdStrike is track\u2026",
     "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution"
+  },
+  "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7YYT-Mf718wZ9kLasqkkPZ1Drw4dlLUMaHtOPuWRltuG7bOcA-d4bFr4GRmer0MMohBwgv7HFVFADi-EeDvIMcbEaJUiyn8t-iLxtR8PVRDWHLmxKnofrZgoPOH_RS7qaUkzd0Ery8Rr7oWlgoPJligCMSSywXmXdMHgzuER6M77sWisfdMOo_rqudmk/s1600/telehgram.jpg",
+    "published": "2026-09-14T17:58:16+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a&nbsp;writeup&nbsp;published on Septe\u2026",
+    "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports"
   },
   "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html": {
     "categories": [],
@@ -16403,6 +16493,15 @@
     "summary": "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, b\u2026",
     "title": "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More"
   },
+  "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgubijVX34VFFHDXzT2j2iTTWrHaElVXjylLKHKAjeSU59q3jTZvRM_O35zw5QOCnrT8ejrYHTG-kjYyt0-R127H_2qEgIWJNuKynEL1FcM9JLyPbsJPY5OZW9rrkJpRprrxpWP8oAGZA2ARZ3xg_0DvBw1I2wbIoXKItcVEjNXQH-CXCMRyuqp1u53ALj7/s1600/recap-cyber.jpg",
+    "published": "2026-09-14T14:40:34+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is \u2026",
+    "title": "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits"
+  },
   "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx03NP3tJYBFro8_pZ2g6irfvMJFy0HGYqvUu9kkRJZBnMJ-BcA9aWGZZ1vS4a71YOgpB5qLBDkoNnMyOBJXGhfsyQQMK0IgaGunMOUTLnFUSFddG_5NwlnXsUCWJpGh3bGOcWLHpxXTAqv0i4QAYyRZPXcm0Rcp5K9Yfc7o7SEeLZXNtGp3NZVMzlv1M/s1600/in.jpg",
@@ -16411,6 +16510,15 @@
     "source": "The Hacker News",
     "summary": "When the Whole Company Adopts AI: What It Does to Your SOC Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against\u2026",
     "title": "When the Whole Company Adopts AI: What It Does to Your SOC"
+  },
+  "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6NRxf0-3Ca12cwdQVS-bicsxwk-06KQZJaLMbd2d217NkuO82Bld3P_E96WP8OEqZXSjDoLtW0JfnRYkQSyl0BlQDNkQoBOf7x-Q5wOmpc59Z4v1ycux0YWShQpPIyvYmMmIRJ0c5Zv_38VFrhwtdcdoxycqIm0b5Df7AeYjbr-8KCJlbujHVhmpvdtrk/s1600/wordpress-auto.jpg",
+    "published": "2026-09-14T16:00:04+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential \u2026",
+    "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution"
   },
   "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html": {
     "categories": [],
@@ -19519,6 +19627,17 @@
     "summary": "Microsoft releases emergency updates to fix Windows Server issues Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]",
     "title": "Microsoft releases emergency updates to fix Windows Server issues"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-14T20:52:18+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft releases emergency Windows updates to fix RDS failures Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]",
+    "title": "Microsoft releases emergency Windows updates to fix RDS failures"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-kb5068781-the-first-windows-10-extended-security-update/": {
     "categories": [
       "Microsoft",
@@ -19905,6 +20024,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]",
     "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-15T08:40:20+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft confirms KB5002914 Excel update breaks copy and paste Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
+    "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/": {
     "categories": [
@@ -22773,6 +22903,17 @@
     "summary": "Bitwarden introduces \u2018Cupid Vault\u2019 for secure password sharing Bitwarden has launched a new system called 'Cupid Vault' that allows users to safely share\u00a0passwords with trusted email addresses. [...]",
     "title": "Bitwarden introduces \u2018Cupid Vault\u2019 for secure password sharing"
   },
+  "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-15T09:50:25+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Suspected Black Axe gang leaders face cybercrime charges in the US Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money launderin\u2026",
+    "title": "Suspected Black Axe gang leaders face cybercrime charges in the US"
+  },
   "https://www.bleepingcomputer.com/news/security/black-basta-boss-makes-it-onto-interpols-red-notice-list/": {
     "categories": [
       "Security",
@@ -23408,6 +23549,17 @@
     "source": "BleepingComputer",
     "summary": "CISA confirms active exploitation of four enterprise software bugs The Cybersecurity and\u00a0Infrastructure Security Agency (CISA) in the U.S. warned of active exploitation of four vulnerabilities impacting enterprise software from Versa and Zimbra, the Vite frontend tooling framewor\u2026",
     "title": "CISA confirms active exploitation of four enterprise software bugs"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-15T12:16:32+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
+    "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/": {
     "categories": [
@@ -29910,6 +30062,17 @@
     "summary": "Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation A malicious campaign is actively targeting\u00a0exposed LLM (Large Language Model) service endpoints to commercialize unauthorized access to\u00a0AI infrastructure. [...]",
     "title": "Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-14T18:34:16+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
+    "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/": {
     "categories": [
       "Security"
@@ -30021,6 +30184,17 @@
     "source": "BleepingComputer",
     "summary": "Critical Citrix NetScaler auth bypass now leveraged in attacks Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
     "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-14T16:15:58+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
+    "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/": {
     "categories": [
@@ -30279,6 +30453,18 @@
     "source": "BleepingComputer",
     "summary": "Home security giant ADT data breach affects 5.5 million people The ShinyHunters extortion group stole the personal information of 5.5 million individuals after breaching the systems of home security giant ADT earlier this month, according to data breach notification service Have \u2026",
     "title": "Home security giant ADT data breach affects 5.5 million people"
+  },
+  "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/": {
+    "categories": [
+      "Security",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-09-14T19:51:04+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Homebrew 7.0.0 gets built-in GUI, better security controls Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
+    "title": "Homebrew 7.0.0 gets built-in GUI, better security controls"
   },
   "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/": {
     "categories": [
@@ -31246,6 +31432,18 @@
     "source": "BleepingComputer",
     "summary": "Telco giant KDDI says data breach affects over 12 million people Japanese telecommunications giant KDDI says that millions of people had their email addresses and passwords exposed after attackers breached an email platform used by five internet service providers (ISPs) in the co\u2026",
     "title": "Telco giant KDDI says data breach affects over 12 million people"
+  },
+  "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/": {
+    "categories": [
+      "Security",
+      "Government"
+    ],
+    "image": "",
+    "published": "2026-09-14T20:36:02+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
+    "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records"
   },
   "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/": {
     "categories": [
@@ -33400,6 +33598,17 @@
     "source": "BleepingComputer",
     "summary": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively\u00a0exploited in attacks enabling root privilege escalation. [...]",
     "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-15T07:31:09+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Cisco patches Secure Email Gateway zero-day exploited in attacks Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
+    "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/": {
     "categories": [
@@ -39008,6 +39217,17 @@
     "summary": "TV streaming piracy service with 26M yearly visits shut down Photocall, a TV piracy streaming platform with over 26 million users annually, has ceased operations following a joint investigation by the Alliance for Creativity and Entertainment (ACE) and DAZN. [...]",
     "title": "TV streaming piracy service with 26M yearly visits shut down"
   },
+  "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-14T19:03:51+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Twitch extension with 30K installs exposes users\u2019 OAuth tokens A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
+    "title": "Twitch extension with 30K installs exposes users\u2019 OAuth tokens"
+  },
   "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/": {
     "categories": [
       "Security"
@@ -40779,6 +40999,17 @@
     "source": "BleepingComputer",
     "summary": "Why password controls still matter in cybersecurity Passwords still matter \u2014 and weak policies leave the door wide open. Specops Software explains how longer passphrases, smarter banned-password lists, and adaptive rotation strategies can strengthen security without frustrating u\u2026",
     "title": "Why password controls still matter in cybersecurity"
+  },
+  "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-14T14:01:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Why Patch Automation Needs Brakes, Not Just an Accelerator Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight \u2026",
+    "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator"
   },
   "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/": {
     "categories": [
@@ -43192,6 +43423,15 @@
     "summary": "Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues Last month's incidents in which the AI model breached real-world systems derived from over-permissioning, especially with Internet access.",
     "title": "Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues"
   },
+  "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc1ceecd5c1e4406/6aa7f8ab9253248bcbbd9bdb/AI_agent_concept_Brain_light_Alamy.png?width=720&quality=80&disable=upscale",
+    "published": "2026-09-14T16:41:10+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Anthropic CEO: Time to Shift From Improving to Controlling AI Dario Amodei says it's time to slow the pace of frontier AI improvements so that security and risk prevention efforts can catch up. What does this mean for enterprises?",
+    "title": "Anthropic CEO: Time to Shift From Improving to Controlling AI"
+  },
   "https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt301abc846275d0a4/6a1de7c8479f3e4dd25cf448/enisa_ricochet64_shuttrstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -45322,6 +45562,15 @@
     "summary": "Malicious Next.js Repos Target Developers Via Fake Job Interviews Linked to North Korean fake job-recruitment campaigns, the poisoned repositories are aimed at establishing persistent access to infected machines.",
     "title": "Malicious Next.js Repos Target Developers Via Fake Job Interviews"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1a9ed3a258b13f14/6aa83d3cc934fc9f7a138382/supplychain-Infinite_Creations-Getty-2289795401.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-14T20:19:22+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk CVE-2026-85706 is a path traversal vulnerability with a 10 out of 10 CVSS score, affecting both GitLab Community Edition and Enterprise Edition instances.",
+    "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/meta-ai-escapes-lab-hacking-joyride": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8e864537fec413db/6a74f1f43413ca898c4c0341/Jailbreak-tiero-Getty.jpg?width=720&quality=80&disable=upscale",
@@ -45596,6 +45845,15 @@
     "source": "darkreading",
     "summary": "Salesforce Data Thefts Continue via Klue App Compromise Klue's Battlecards is now the third integrated application that has been compromised to steal customers' Salesforce data, and victims include Huntress, the cybersecurity vendor.",
     "title": "Salesforce Data Thefts Continue via Klue App Compromise"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc3c48d3f94f040d1/6aa866a635d26cae06cd28c4/cyclops-ratpack223-Getty-2194261969.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-14T21:37:28+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022.",
+    "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/scope-salesforce-attacks-expands-icarus-leaks-data": {
     "categories": [],
