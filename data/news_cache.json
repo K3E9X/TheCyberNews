@@ -15584,6 +15584,24 @@
     "summary": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called\u2026",
     "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials"
   },
+  "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOvbeWtAztd1-F4zbNa4Ei7kEh-C7s4QGW-rmB8ug7-mXRIcdL_mAqtAA_hqAG7QtaHUMTxSYa5dFw0080LoR66SUCPLGybqueRLeUJvQQ6unmg4WqExx08rrv0NZaZkQldGURtIDMZRpregBaFLhjws2d_eRt0I0VcZdaSGZS6twj0AvBK74TAJx-veBz/s1600/acronis.jpg",
+    "published": "2026-09-16T11:08:54+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild.\n\nThe vulnerability, tracked as CVE-2026-87886 (CVS\u2026",
+    "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks"
+  },
+  "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjenXPNzZ8-fnZOSWlAtRwfZVCV0iy-vnK86gK4vmTGsWSjSS7x9a3k80NLsiEZUym2AjBaYj7pLtxyQju7Hiyl6ttQPyXEPMy7Gwn_bQTTTaUOB-8HbhJfYxl54Z3WE5yqKEoW1vvkCBukKwea-6DlpBiO6i08Zo0GhBoqgRsGGXadsOYy8COPUPQ7rn2w/s1600/jwt-api.jpg",
+    "published": "2026-09-16T05:18:06+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr.\n\nThe vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.\u2026",
+    "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens"
+  },
   "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_xdakttovno7kFgFYIw5XGFGcSZibVvXYB64vih4iZpc4_WY_t7oe1X3igSPGXBa8UTkf4z4xn_GzZ_n7PmuFFvYC8Wsmb04PxYP5z-XHjZZFe_SASihwZNg1dxHXQzz8hBRo-6LhvQmwyo_MA9Kj6hrcci6ouvOX1D4f-0dNvs57M6WneQHC61yZkF_o/s1600/magento.jpg",
@@ -15701,6 +15719,15 @@
     "summary": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks.\n\nThe vulnerabil\u2026",
     "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain"
   },
+  "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaDJy8WPrkf8CE0D66EluNlAxZjtSyl-SeLt9BmCzqINPxm9H08ACj6o1nZWYQxcR5FYK-RrzDRXe014EEAMDH1wBa-SSXV1HNXJyLZsOWzNxU533Err9iI0Z_PQwy2Z6pY3LkGMSB2xKwQPIJe5mXgCJFeeUGj8qDKSmA9I9RS0MNl7jtlUhqkVPOkIfL/s1600/wordpress-shell.jpg",
+    "published": "2026-09-16T05:48:28+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs.\n\n\"This vulnerability can be leverage\u2026",
+    "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells"
+  },
   "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiSiBDO5j21gorWS-UjrLlDl0RzniibBPjfO4xfPBBLbH1yTQIB88G-hUBRtYNufYwkPpVjWWLu0GXk1TB7pv_x8KbQCbfsL5Ft8JlZLa6iZfvuHU-vKSPNq5Li-e9DtoOvZIOXPYmibx9uc_imnug4ZJUog31KwlA3YKmY8ghOpROVQR8mwPj9qb-1kA/s1600/micro.jpg",
@@ -15745,6 +15772,15 @@
     "source": "The Hacker News",
     "summary": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation.\n\nThe effo\u2026",
     "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads"
+  },
+  "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7hFIl_GRAlPuegwLGZ2PzXVsPEUTEevpEYhkU2Va9isB7aC8a0jJCLVszVOUc_CAIb4IkIkmRjkvyaTIadUizNNEhHTxvzlPX0EUN6UQutjyrauyi35fzRtBjFudyOW4HlAnTRNC9XDj39uNBMKUWHUV2g0Rt8o3aSADZAeAIYgLN-dT0q8gIH9cWUDBF/s1600/windows-linux.jpg",
+    "published": "2026-09-15T15:23:19+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems.\n\nTh\u2026",
+    "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems"
   },
   "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html": {
     "categories": [],
@@ -15989,6 +16025,15 @@
     "summary": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative cal\u2026",
     "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs"
   },
+  "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdVCezHTU2PU4DuL9ysF0nQFJLLR2QyxyexdJN5iv1QQnl4-mFFupADzryOhW_lsM_nI5OgHH5krMBLOErLl9GNmyJeaGEDGQNnhhyphenhyphenNs2ZXIwBLTIY8poIVxLKPNRRAipPFbKv_a7CPzE86rB_nItrsiirydPRuCZrvkDymktX28d1O7kSbEhIgmEPh6oy/s1600/pixel.jpg",
+    "published": "2026-09-16T11:15:58+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege\u2026",
+    "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation"
+  },
   "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4vbRDTWaQnxiILexae9P_rAk0hzx-re0czK2tM_WNQcoVDPlKblD4M5qOy8FZ9hHJBDLGjHHAyYutmaiacI54o5q1SH5qSbsptviRF16T2r6i8Iywvzk4GJprCm60p12qrK7t3R8h_ZR7CUoG47YfdeOb0iKY0WRapDeObI8_poWklMtKXrmr421Scjzi/s1600/play.jpg",
@@ -16061,6 +16106,15 @@
     "summary": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its target\u2026",
     "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests"
   },
+  "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZTZstgI7jZKSq2kVj82ewI26neoU-YsSa1z0LIJdjqdsCSk8zS3VYdvhFyfE0rq75UOlst77oTDBZ-mVzRDaqljLl-jJrvxWzLBmj74k8kWFjld5o2uTB59tskHlBqM0JTuf5yuTMsWMBuE-Y_2LtkIfKT-l9C-h5Y5rvkAJKlIGD5rQLbUuWRNx8y5k/s1600/iran-malware.jpg",
+    "published": "2026-09-15T16:29:51+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalis\u2026",
+    "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists"
+  },
   "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilF0_vQTn1mpUhivH8aX0vt8SA_Y5wkJqpHriuAdDQKVuWON7ZSzOAbWlwm50oxWlOJ5wMdzBjzy1wRVGNL6IqY8eYFUlIyayK6aiwcXK1fTO9JWZ9hG_QYrNnY_fdm2Lu7Z87p0JOR4WkYD2HNK-6WlcJQgxmUsG1k8k3ye5AT1ggaoiIDAm0kHxYQJ6V/s1600/chrome-cookies.jpg",
@@ -16069,6 +16123,15 @@
     "source": "The Hacker News",
     "summary": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities.\n\n\"The payloads are pr\u2026",
     "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies"
+  },
+  "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPTs6qupSdjinGg233zkoldOvlD4cva51loWufV3l9GrlDopNRIKsV9yluCDjbGELBAAvVGx_h4R-sjx4jvDp290Znzhv6j546sq5JB0NJUShGVV3w0gKU7nu4dBVCosaPeKW-Pr1_WHn4FV26aEJRgEo7oSJsgUE5_ZGCMKWPPBdZ7NMh5XRr04Cs6qTh/s1600/browser-malware.jpg",
+    "published": "2026-09-15T18:54:14+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.\n\nElastic Security Labs is tracking the activi\u2026",
+    "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens"
   },
   "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html": {
     "categories": [],
@@ -16411,6 +16474,15 @@
     "source": "The Hacker News",
     "summary": "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones The most common way into a company last year was to ask.\n\nA web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks\u2026",
     "title": "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones"
+  },
+  "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNTaZ2mJpwks9AMkwh4I_Q5sK5sgj01Fd4eW4c47_ZsHN_8hKPjptnlJ_P0RboejQy7PB6Ad4UXLFggJXAGlVsBigp46txL8LoSlpMuwQ0sXkAPQZ4TYtg89jNIa6SLPxuv-YC-_LlNZq2FZdNHRnrP_iQUYPSj2-MzugjnlL_CrIJw80lMzbVCZEf0x8/s1600/pentera.jpg",
+    "published": "2026-09-16T11:15:48+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Threat Intelligence Alone Won't Close the Exploitation Gap A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers ar\u2026",
+    "title": "Threat Intelligence Alone Won't Close the Exploitation Gap"
   },
   "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html": {
     "categories": [],
@@ -20103,6 +20175,17 @@
     "summary": "Microsoft shares temporary fix for Windows 11 gaming issues Microsoft has shared a temporary fix for ongoing\u00a0gaming issues caused by Windows 11\u00a0updates released during the\u00a0August 2026 Patch Tuesday. [...]",
     "title": "Microsoft shares temporary fix for Windows 11 gaming issues"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-16T12:16:32+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft says Copilot buttons still missing in classic Outlook Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]",
+    "title": "Microsoft says Copilot buttons still missing in classic Outlook"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-outlook-freezes-after-windows-update/": {
     "categories": [
       "Microsoft"
@@ -21249,6 +21332,17 @@
     "summary": "Windows Server 2022 reaches end of mainstream support in 60 days Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
     "title": "Windows Server 2022 reaches end of mainstream support in 60 days"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-16T09:10:20+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows Server 2022 reaches end of mainstream support next month Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]",
+    "title": "Windows Server 2022 reaches end of mainstream support next month"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/": {
     "categories": [
       "Microsoft"
@@ -21653,6 +21747,17 @@
     "source": "BleepingComputer",
     "summary": "ACF plugin bug gives hackers admin on 50,000 WordPress sites A critical-severity vulnerability in the Advanced Custom Fields: Extended (ACF Extended) plugin for WordPress can be exploited remotely by unauthenticated attackers to obtain administrative permissions. [...]",
     "title": "ACF plugin bug gives hackers admin on 50,000 WordPress sites"
+  },
+  "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-15T21:37:35+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Acronis warns of actively exploited flaw in its cPanel backup plugin Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
+    "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin"
   },
   "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/": {
     "categories": [
@@ -22718,6 +22823,17 @@
     "summary": "Baker University says 2024 data breach impacts 53,000 people Baker University has disclosed a data breach after attackers gained access to its network one year ago and stole the personal, health, and financial information of over 53,000 individuals. [...]",
     "title": "Baker University says 2024 data breach impacts 53,000 people"
   },
+  "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-15T15:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "BambooToken malware controls Windows and Linux systems via MQTT A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]",
+    "title": "BambooToken malware controls Windows and Linux systems via MQTT"
+  },
   "https://www.bleepingcomputer.com/news/security/barts-health-nhs-discloses-data-breach-after-oracle-zero-day-hack/": {
     "categories": [
       "Security",
@@ -23172,6 +23288,17 @@
     "source": "BleepingComputer",
     "summary": "Cellik Android malware builds malicious versions from Google Play apps A new Android malware-as-a-service (MaaS) named Cellik is being advertised on underground cybercrime forums offering a robust set of capabilities that include\u00a0the option to embed it in any app available on the\u2026",
     "title": "Cellik Android malware builds malicious versions from Google Play apps"
+  },
+  "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-15T16:40:14+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "CenterPoint Energy confirms customer data stolen in cyberattack CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
+    "title": "CenterPoint Energy confirms customer data stolen in cyberattack"
   },
   "https://www.bleepingcomputer.com/news/security/central-maine-healthcare-breach-exposed-data-of-over-145-000-people/": {
     "categories": [
@@ -24406,6 +24533,17 @@
     "source": "BleepingComputer",
     "summary": "CISA warns of hackers exploiting critical MLflow vulnerability The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
     "title": "CISA warns of hackers exploiting critical MLflow vulnerability"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-16T11:14:28+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Critical ScreenConnect flaw now actively exploited in attacks Attackers now exploit\u00a0a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+    "title": "Critical ScreenConnect flaw now actively exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/": {
     "categories": [
@@ -28903,6 +29041,18 @@
     "summary": "Google exposes BadAudio malware used in APT24 espionage campaigns China-linked APT24 hackers have been using a previously undocumented malware called BadAudio in a\u00a0three-year espionage campaign that recently switched to more sophisticated attack methods. [...]",
     "title": "Google exposes BadAudio malware used in APT24 espionage campaigns"
   },
+  "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/": {
+    "categories": [
+      "Security",
+      "Google"
+    ],
+    "image": "",
+    "published": "2026-09-16T07:00:19+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Google fixes actively exploited Android zero-day on Pixel devices Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]",
+    "title": "Google fixes actively exploited Android zero-day on Pixel devices"
+  },
   "https://www.bleepingcomputer.com/news/security/google-fixes-eighth-chrome-zero-day-exploited-in-attacks-in-2025/": {
     "categories": [
       "Security",
@@ -30262,6 +30412,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers target WordPress sites in miniOrange auth bypass attacks Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrato\u2026",
     "title": "Hackers target WordPress sites in miniOrange auth bypass attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-15T14:45:10+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Hackers target WordPress sites via third-party WooCommerce plugin Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
+    "title": "Hackers target WordPress sites via third-party WooCommerce plugin"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/": {
     "categories": [
@@ -31986,6 +32147,17 @@
     "source": "BleepingComputer",
     "summary": "Make Identity Threat Detection your security strategy for 2026 Identity-based attacks are one of the primary paths attackers use to breach corporate networks. Tenfold shows how Identity Threat Detection helps spot suspicious account activity before real damage occurs. [...]",
     "title": "Make Identity Threat Detection your security strategy for 2026"
+  },
+  "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-15T20:34:15+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a \u2026",
+    "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites"
   },
   "https://www.bleepingcomputer.com/news/security/malicious-7-zip-site-distributes-installer-laced-with-proxy-tool/": {
     "categories": [
@@ -40540,6 +40712,17 @@
     "summary": "Webinar: Too many tools are slowing network incident response IT teams often need to jump between monitoring dashboards, infrastructure tools, ticketing systems, and communication platforms during network incidents. This webinar explores how automation and AI-assisted workflows c\u2026",
     "title": "Webinar: Too many tools are slowing network incident response"
   },
+  "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-16T12:11:19+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Webinar: What happens in the first hours of a Google Workspace breach The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which\u2026",
+    "title": "Webinar: What happens in the first hours of a Google Workspace breach"
+  },
   "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/": {
     "categories": [
       "Security"
@@ -40715,6 +40898,17 @@
     "source": "BleepingComputer",
     "summary": "What Happens in the First 24 Hours After a New Asset Goes Live When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise in under 24 hours. [...]",
     "title": "What Happens in the First 24 Hours After a New Asset Goes Live"
+  },
+  "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-15T13:45:54+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "What Zero-Day Response Should Be in the Post-Mythos Era AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control testing,\u2026",
+    "title": "What Zero-Day Response Should Be in the Post-Mythos Era"
   },
   "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/": {
     "categories": [
@@ -42403,6 +42597,15 @@
     "source": "darkreading",
     "summary": "Microsoft &amp; Anthropic MCP Servers At Risk of RCE, Cloud Takeovers Researchers found the popular model context protocol (MCP) servers, which are integral components of AI services, carry serious vulnerabilities.",
     "title": "Microsoft &amp; Anthropic MCP Servers At Risk of RCE, Cloud Takeovers"
+  },
+  "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf29a4f8e7f31399c/6aa99ef8490d641d3386d500/patching-da-kuk-Getty-2219524542.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-15T20:16:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches.",
+    "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday"
   },
   "https://www.darkreading.com/application-security/microsoft-fixes-exploited-zero-day-light-patch-tuesday": {
     "categories": [],
@@ -45107,6 +45310,15 @@
     "source": "darkreading",
     "summary": "CSS: The Hidden Threat Lurking in Your Inbox CSS was once just about design. Now researchers warn it's powerful enough to exfiltrate data from webmail \u2014 and some vendors aren't prepared.",
     "title": "CSS: The Hidden Threat Lurking in Your Inbox"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd024a0beb5b45fd6/6aa9b79b31811693de070eeb/dprk-rok-tech-security-QQMinh88-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-16T01:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Cyber Op Targets South Korean Media &amp; Automotive Sectors A likely North Korean advanced persistent threat (APT) group used a previously undocumented Linux espionage toolkit to compromise load balancers, gain access to communications, and further exploit networks.",
+    "title": "Cyber Op Targets South Korean Media &amp; Automotive Sectors"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue": {
     "categories": [],
@@ -47877,6 +48089,15 @@
     "summary": "Two-Factor Authentication Breaks Free from the Desktop Threat actors know how to bypass security systems outside of traditional IT environments. Implementing 2FA could provide a needed extra security barrier in the physical world.",
     "title": "Two-Factor Authentication Breaks Free from the Desktop"
   },
+  "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdd19a1ede5fda05d/6aa9273ab525586149ce55e2/rat-David_Chapman-Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-15T16:45:37+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "VectraRAT Can Hack Windows Enterprises for $250 per Month The full-service malware-as-a-service (MaaS) platform offers a Windows implant, command-and-control (C2) infrastructure, and an operator panel for comprehensive remote access.",
+    "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month"
+  },
   "https://www.darkreading.com/endpoint-security/venom-stealer-maas-commoditizes-clickfix-attacks": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9b317f5ffbb0f24e/69ccf217d3f84532a9e458ab/snake_Gerry_Pearce_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -50004,6 +50225,15 @@
     "source": "darkreading",
     "summary": "Beauty in Destruction: Exploring Malware's Impact Through Art Artistic initiatives turn cybersecurity into immersive exhibits at the Museum of Malware Art, transforming digital threats into thought-provoking experiences.",
     "title": "Beauty in Destruction: Exploring Malware's Impact Through Art"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt886d5ec4d2c71007/6aa99c49ca8ea7e099dd4980/huggingfacescreenshot.png?width=720&quality=80&disable=upscale",
+    "published": "2026-09-15T19:27:19+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI\u2013Hugging Face Incident <p>The 'Breaking' News: The OpenAI\u2013Hugging Face Incident - A Technical Reconstruction and Its Implications for AI</p>\n<p>At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reco\u2026",
+    "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI\u2013Hugging Face Incident"
   },
   "https://www.darkreading.com/vulnerabilities-threats/blame-ai-patch-tuesday-record-206-cves": {
     "categories": [],
