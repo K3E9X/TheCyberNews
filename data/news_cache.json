@@ -15656,6 +15656,15 @@
     "summary": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point Introduction\n\nSecurity teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does t\u2026",
     "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point"
   },
+  "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghZsSi9JbsiALEhfWv_49vjKw2uHa-lBOUWCwhyphenhyphensppIZLuNgoQ-VQTs2EjRmXjemfvM0Fj9knUSdDIYbSWg5Pf_sqKBOGV5BA67GVYn_lNreIN_Kwpp3u0yxKgF4dIHXRj-NKcCyimE0kwHUWHqxP7SHUd-Tu31S3jfzxOPmN8_Xk8d5GYRce2N4MdmYY/s1600/shai.jpg",
+    "published": "2026-09-16T13:37:07+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread&nbsp;Shai-Hulud&nbsp;across about 100 internal cod\u2026",
+    "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories"
+  },
   "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4sbUEhtXF9n1_8s2f6ChnKMmjUv4Ht-DvEtZyLDPuSNhKFoi41aNlu3-u5kJLXUva81rNFwlsprMXE11cnbXc_es968eO-ANvWm0j1Cyi9SaoVUfneQqNINCR7lRs3qkkYdsSoyMu34Mgxs7B4pKclAt4atPw8B-RCFOTChtgeji9NTes_NEdZ2KKu2_/s1600/jet.jpg",
@@ -15700,6 +15709,15 @@
     "source": "The Hacker News",
     "summary": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution.\n\nThe vulnerability in que\u2026",
     "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials"
+  },
+  "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aXi8Vt3MH8e38-ViNXz-m4hRPrbqDMGcpbMtOc3b-cDLIyEZEjqGvSscW6mR34ZrmPM4lSnv6C9XFTHlgq3UyGLA24gySGqcCzdKr-hIY2QZO8VSXnC-KAsdEz6vTkgdRnVxAZVM7NyrhgpL2xDWR8lcvPInEwgvj0pTgHkC7KStUFglwcLext7eb3w5/s1600/issa.jpg",
+    "published": "2026-09-16T15:50:59+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.\n\nThe vulnerability in question \u2026",
+    "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution"
   },
   "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html": {
     "categories": [],
@@ -16223,6 +16241,15 @@
     "summary": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian \u2026",
     "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild"
   },
+  "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji_HlxXvIPYjLUnTTNbkIHzO8UKX2MISan0W6hxfEB55j5U8GUlvJexOakfaxqEyihcT1mluW0C2l2X73wbAk8V3K514rf7X4N0Iojw-JrbimvmTAAOQ-3aawWLHywrmGYkwyCzl_zZI5FjVdlY2GIVIPIDn0v1EEh4PqQlAh9tkNk5NjRyoILB5-D7gI/s1600/N0va.jpg",
+    "published": "2026-09-16T11:58:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threa\u2026",
+    "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security"
+  },
   "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfjbI1DXHJ4wQzSRFbddkmgQ9CTLSPPGP8fcQ6a37qbwKvgd4JxU51YhADR8S4IsWaiQ4fRApn-ih4m0AhsizM3wa6aJ3P8MlgBztNQm-oH4bE_TkPsmUZHhblcNMrQFxGdWnDHePCQDcSz-AJeWMoKH6YVcXXFCjK2ajZfbmObdeVkWmvv8O_fufqsl0/s1600/litellm.jpg",
@@ -16259,6 +16286,15 @@
     "summary": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served al\u2026",
     "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic"
   },
+  "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnDFTLauyvgkyhmqrKcQ3QI3yCM1vbu_L8iwQK997zJz25tL7Gkm50y5S_wiSVF7hSJ7sLUMJEwXzxaubfjQc9JTdwttimIg5POxADfGNPLZEWbplFqzlKn2SZPvPuAyN0BhFtsc8PCzV2bZdBtx3z6qnRdRfw9tj-zk3aWL3t4TufGwksVdAjBuhVdO0/s1600/jack.jpg",
+    "published": "2026-09-16T14:36:44+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude Security researchers at&nbsp;Forever Security&nbsp;have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Liv\u2026",
+    "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude"
+  },
   "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSyR4P1ZPtVeXKeb60Ut1xdO4OhRvHWFmoYNgM7SI3NEwfwcTi3Ut60xwcqIfP56OzGFtixKW4Aeo14cVZNE6TPmpC-x8qFgofgMToETQ82bp1aMIMBuaOER2Rq6PkhONMhZPGLFSKFfxVjY4_zDNJOXYHPbQaorfgr74o2PimTPeCf1hgZQ0spe-nJoiU/s1600/rubygems-openai.jpg",
@@ -16294,6 +16330,15 @@
     "source": "The Hacker News",
     "summary": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exp\u2026",
     "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws"
+  },
+  "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjExQfYsCTPbCiUrkVUWdKhrZNgpAVRtutRYt2c4x-f5ClJdNYjERcet4Fctan3gEOl0DPk64GUGZv5IK3Cd_pi3Jk1cyH3tdYig9mpc2XTLjJaK0KM3aiqE6W1OeGiKr_kRWNRmty1u4Cwf_9-S1KrKdqUeL25YwL6tt5Z-nUcvzj0F8NemzMbSUmvTJ4/s1600/parashells.jpg",
+    "published": "2026-09-16T13:14:05+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week.\n\nThe attack needs co\u2026",
+    "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix"
   },
   "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html": {
     "categories": [],
@@ -16501,6 +16546,15 @@
     "source": "The Hacker News",
     "summary": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click \u201cAllow.\u201d Why break in when someone might open the door?\n\nThat idea runs \u2026",
     "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories"
+  },
+  "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMZZrs8eh-baUC-73E9tejQYA0JZzWyoElUJGhCi0N4_f2EzmPPhQW3xY0kmNZv775T26ywu4czdta-vHaLp1gaI03eqho2SSe3riHMZP8hLTrU1ETnIv-k1ywOpnBFvbkyQJNZt7F4Xx4NndvvS8esTt1jzaCdeN9JZNkNB8sBU1vytibSRAjMsLZzc6/s1600/russian-groups.jpg",
+    "published": "2026-09-16T15:27:49+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky.\n\nThe cybersec\u2026",
+    "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers"
   },
   "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html": {
     "categories": [],
@@ -16837,6 +16891,18 @@
     "source": "BleepingComputer",
     "summary": "Anthropic: Viral Claude \u201cBanned and reported to authorities\u201d message isn\u2019t real Anthropic has denied reports of banning legitimate accounts, after a viral post on X claimed the creator of Claude had banned a user. [...]",
     "title": "Anthropic: Viral Claude \u201cBanned and reported to authorities\u201d message isn\u2019t real"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-09-17T00:35:48+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Anthropic wants Claude to analyze your bank account and financial data Anthropic is testing a new personal finance feature called\u00a0\"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
+    "title": "Anthropic wants Claude to analyze your bank account and financial data"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/": {
     "categories": [
@@ -19862,6 +19928,17 @@
     "summary": "Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw Microsoft has released an out-of-band (OOB) update to fix a security vulnerabilities affecting Windows 11 Enterprise devices that receive hotpatch updates instead of the regular Patch Tuesday cumulative updates. [...\u2026",
     "title": "Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-17T08:24:48+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft shares workaround for Windows domain login issues Microsoft shared a temporary fix on Wednesday for\u00a0a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
+    "title": "Microsoft shares workaround for Windows domain login issues"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/": {
     "categories": [
       "Microsoft"
@@ -21276,6 +21353,17 @@
     "source": "BleepingComputer",
     "summary": "Windows 11 KB5121003 & KB5120240 cumulative updates released Microsoft has released Windows 11\u00a0KB5121003\u00a0and\u00a0KB5120240\u00a0cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
     "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-16T20:39:29+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 KB5124008 update breaks domain trust for some users Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]",
+    "title": "Windows 11 KB5124008 update breaks domain trust for some users"
   },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/": {
     "categories": [
@@ -23599,6 +23687,18 @@
     "summary": "Chinese hackers use new Atlas RAT malware in European cyberattacks A Chinese-speaking cybercrime group has expanded its targeting to the European space, deploying previously undocumented malware and the Atlas backdoor. [...]",
     "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks"
   },
+  "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/": {
+    "categories": [
+      "Security",
+      "Government"
+    ],
+    "image": "",
+    "published": "2026-09-17T09:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Chinese hackers use SparroWocky malware in govt espionage attacks The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
+    "title": "Chinese hackers use SparroWocky malware in govt espionage attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/": {
     "categories": [
       "Security"
@@ -24839,6 +24939,17 @@
     "source": "BleepingComputer",
     "summary": "Cisco warns of Identity Service Engine flaw with exploit code Cisco has patched an ISE vulnerability with public proof-of-concept exploit code that can be abused by attackers with admin privileges. [...]",
     "title": "Cisco warns of Identity Service Engine flaw with exploit code"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-17T07:20:54+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Cisco warns of max severity ISE zero-day exploited in attacks Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
+    "title": "Cisco warns of max severity ISE zero-day exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-secure-fmc-flaws-giving-root-access/": {
     "categories": [
@@ -27752,6 +27863,17 @@
     "source": "BleepingComputer",
     "summary": "FBI seizes LeakBase cybercrime forum, data of 142,000 members The FBI has seized the LeakBase cybercrime forum, a major online forum used by cybercriminals buy and sell hacking tools and stolen data. [...]",
     "title": "FBI seizes LeakBase cybercrime forum, data of 142,000 members"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-17T11:33:35+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "US takes down NightmareStresser DDoS-for-hire platform The U.S. Federal Bureau of Investigation (FBI) seized the domains used by NightmareStresser, one of the world's longest-running distributed denial-of-service (DDoS) platforms. [...]",
+    "title": "US takes down NightmareStresser DDoS-for-hire platform"
   },
   "https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/": {
     "categories": [
@@ -31382,6 +31504,17 @@
     "summary": "Iranian hackers targeted major South Korean electronics maker The Iran-linked hacking group MuddyWater (a.k.a. Seedworm, Static Kitten) launched a broad cyber-espionage campaign targeting at least nine high-profile organizations across multiple sectors and countries. [...]",
     "title": "Iranian hackers targeted major South Korean electronics maker"
   },
+  "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-16T20:24:55+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]",
+    "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets"
+  },
   "https://www.bleepingcomputer.com/news/security/ireland-now-also-investigating-x-over-grok-made-sexual-images/": {
     "categories": [
       "Security"
@@ -32346,6 +32479,17 @@
     "source": "BleepingComputer",
     "summary": "Malicious VSCode Marketplace extensions hid trojan in fake PNG file A stealthy campaign with 19 extensions on the VSCode Marketplace has been active since February, targeting developers with malware hidden inside dependency folders. [...]",
     "title": "Malicious VSCode Marketplace extensions hid trojan in fake PNG file"
+  },
+  "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-16T18:50:53+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Malware bypasses browser checks to force install Chrome, Edge extensions A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+    "title": "Malware bypasses browser checks to force install Chrome, Edge extensions"
   },
   "https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/": {
     "categories": [
@@ -38215,6 +38359,18 @@
     "summary": "Spain dismantles major $4.7M manga piracy platform, arrests four The Spanish police have dismantled the largest Spanish-language manga piracy platform, operating since 2014, with millions of monthly users from around the globe. [...]",
     "title": "Spain dismantles major $4.7M manga piracy platform, arrests four"
   },
+  "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-09-16T17:26:41+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Spain's data agency gets first report of AI-powered data breach The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
+    "title": "Spain's data agency gets first report of AI-powered data breach"
+  },
   "https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/": {
     "categories": [
       "Security",
@@ -39003,6 +39159,17 @@
     "source": "BleepingComputer",
     "summary": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and explains \u2026",
     "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-16T14:00:10+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "The true cost of a ransomware attack, with and without BCDR The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can re\u2026",
+    "title": "The true cost of a ransomware attack, with and without BCDR"
   },
   "https://www.bleepingcomputer.com/news/security/the-tycoon-2fa-phishing-platform-and-the-collapse-of-legacy-mfa/": {
     "categories": [
@@ -46475,6 +46642,15 @@
     "summary": "What Will Make AI BOMs Real? A brief overview of the forces at play that will get more organizations on board with creating and consuming AI bill of materials (BOMs).",
     "title": "What Will Make AI BOMs Real?"
   },
+  "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-16T18:00:54+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Fighting Your Dragons Through Tough Tech Times Cybersecurity industry veteran Hal Pomeranz gives a pep talk on career anxiety and self-doubt and shares how to build meaningful connections during historical tech industry downturns.",
+    "title": "Fighting Your Dragons Through Tough Tech Times"
+  },
   "https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8e5cfc50a562f286/69456796bbf6bc28b7111ebb/plants1800_Perry_van_Munster_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -46614,6 +46790,15 @@
     "source": "darkreading",
     "summary": "AI Security Agents Get Persona Makeovers New synthetic security staffers promise to bring artificial intelligence comfortably into the security operations center, but they will require governance to protect security.",
     "title": "AI Security Agents Get Persona Makeovers"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcb03b6fd2d90125e/6aab0ffae6306a5a1058a24b/aiinvestment-chiewr-Getty-2220824575.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-16T21:26:55+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI Security Spending Jumps as Fear Outpaces Proof of Value CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move?",
+    "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value"
   },
   "https://www.darkreading.com/cybersecurity-operations/ai-soc-go-wrong": {
     "categories": [],
@@ -47722,6 +47907,15 @@
     "source": "darkreading",
     "summary": "Booz Allen Announces General Availability of Vellox Reverser to Automate Malware Defense The AI-powered product delivers expert-grade malware analysis and reverse engineering in minutes.",
     "title": "Booz Allen Announces General Availability of Vellox Reverser to Automate Malware Defense"
+  },
+  "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt64d615142d7be882/6882572f618f869f048e5227/Agentic_AI_(1800)_Pattara_Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-16T16:43:37+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "BragJack Attack Can Turn a Browser's Agentic AI Against It A new type of attack hijacks the AI assistant built directly into various browsers to access sensitive information, execute malicious actions, and exfiltrate data.",
+    "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It"
   },
   "https://www.darkreading.com/endpoint-security/bug-google-gemini-ai-panel-hijacking": {
     "categories": [],
