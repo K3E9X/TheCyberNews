@@ -15818,6 +15818,15 @@
     "summary": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor packag\u2026",
     "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access"
   },
+  "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEd6WLqBvkSx9Y2P6HrNL-VApj7Xb05Wlhnw4pPW6-X9NwGiAeAm_Hf4KYj_1hEy6uITGe8kh3xgYeTAha8nR5inx0snMzfWGP2Qd8kRuiOp0h4O49J-33kPpA1cuGhClV2qAvPyhyr2BqSYj9ZIvI6c-wncUNGESpGK-3tivnS-HIrOj9ZdSJALq_8Ts/s1600/bind9.jpg",
+    "published": "2026-09-17T08:00:29+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS The Internet Systems Consortium (ISC) has released&nbsp;BIND 9.20.29 and 9.21.26&nbsp;to fix fourteen security flaws it&nbsp;disclosed&nbsp;on 16 September in BIND 9, its open-source DNS server s\u2026",
+    "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS"
+  },
   "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9vYkFCrVzaEl0WQj4XBILj6pIxDJ92eWgVrkOa_pdvJJoKF95JCX7VmQzY0HPZkhg5IMvjfCu15YCs5AMJ22NM6SBX7j7sCgpfiaUZZAL4Uc5vP0-q9VKN4LNSY4a701mmRCgLJQxCjnmnsSAxD7gFnyf9-dRaSxPZuGqLuOIQ415vCOjH-DZRtYSBHA/s1600/access-for-sale.jpg",
@@ -15836,6 +15845,15 @@
     "summary": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024.\n\nGoogle Thr\u2026",
     "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems"
   },
+  "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgJqM9WZF6u_WZBeTJKqe35CDnh_4kxjLjZa3w63XbqfKBRNUENbTh5HGVrgYUGtmLRW9Px3GGzNcewMJWzd7CRxsk66eY1D70or8gasHUroPNdbUJ6ordqjxb7s8gKqQwuyWxCWC2BT0Matusn6PLXV9xus1PlqqqD3JITL_Unxt2xP8UK6zlX9Tmr0A/s1600/cves.jpg",
+    "published": "2026-09-17T11:50:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar A new CVE drops. Your scanner finds it. The severity score looks ugly.\n\nBut that still does not answer the question that matters: Can it actually be exploited in your environment?\n\nMythos-class \u2026",
+    "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar"
+  },
   "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyc0Kqar7_6N4y9ymGxw8ukQCQbqQ_pGCfnoXYMBZoNZK1w3ljkO26S_rhVhJaIVcx8rcEK95njKyaYj5g63VByKh8ncf_s84nUBWoyEbWZH6uaLYjnu5fNt_TC9wz-r6P_RTJgZ83Z5wmurzSb9_lHVfV1t9STts4WCZr18AH-3XRHTn5pj15uURIM-0/s1600/checkpoint.jpg",
@@ -15844,6 +15862,15 @@
     "source": "The Hacker News",
     "summary": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacke\u2026",
     "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE"
+  },
+  "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOuXwG1YyG0uUU23HOcrfuGGEs6q0HvIDe8f7tcoTc3Vg049ITdUDCK_oyfFs8F68GEANNMqayc_75ARq5bBdbIu8qplp_nwC8hWxALOjCCGyf_Pb76GvNjEEfoWybq1nM9WXuxoPvYiRN_vJewkghj5IAYOaCh9JulsW4DnZLCEOhg_mXL_ykI0_oJwah/s1600/chinese-hackers.jpg",
+    "published": "2026-09-17T10:05:45+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin Ame\u2026",
+    "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America"
   },
   "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html": {
     "categories": [],
@@ -15917,6 +15944,33 @@
     "summary": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-20\u2026",
     "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution"
   },
+  "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKC3hrw_VedPPLj2lAD6qhUn-7eJuJ8dqSBMAOwTEjUdYxlwnOla9dFF4pwOBNr-QsjzJPuXEtkA6orbkLHUqHI3RbWMBR0VeNaYvZqSnkNnM5HH-T9ofLeBzrZcOXn5nbZyNC2YeQjANmTzBAhaAwhDoGoXLJOeB1nFbIr-TJuFTHM8y0TAzj6Hxd0MYM/s1600/cisco-0-day.jpg",
+    "published": "2026-09-17T06:39:40+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation.\n\nThe vulnerability, tracked as CVE-2026-76460 (CVSS sco\u2026",
+    "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks"
+  },
+  "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqOqtV_80Gn3utPVzonjyU94CgrwrcRNCUvdMEMZbOJGmKGOGD_ly8yH-V5AVwUtyNADgEPXySLFga7FZiWBSHCESverdknL-LS6MJSrkv6ejTaFkDM087mWkfBfur7UQ_vXsM8gcBByxyYyn0g3rAENhqJamGszCkPf2LM31d3wDgEUpCuFrGt4mZnUE/s1600/REFF.jpg",
+    "published": "2026-09-17T10:50:53+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "CISO's Expert Guide to Agentic Pentesting for Websites Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents are c\u2026",
+    "title": "CISO's Expert Guide to Agentic Pentesting for Websites"
+  },
+  "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyW8DcUYeyW1LOG-Gc3uqyV8_5rO4iwyEIM6FbRFwuvilvbfC7RSTjueJ4lEELpGvXX-22zzWuNCusN2qdODymiKNOQSz_8f1Q4u59bH7HCEZFT5PVsyBjj2NhWtlYiwvhXzXbwG_n3P_DCloZvMdajsc93hvqbJo6HCJy5wjNevUyN46ODFo7AlYsj499/s1600/npm-cicd.jpg",
+    "published": "2026-09-18T09:18:03+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry.\n\n\"The developer \u2026",
+    "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer"
+  },
   "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG0iCBQ4Eqxn0QOtvYZSysksPzr5fT0m8aLqNTa0a7Gcz3A5ikRt1oAenJwzo8rxcLERq54SNLtRvkYXKMTo0nMOmV8pWh4It3T0vP7q4J5Z23tdDkbBf3j7v317S7sQbBBbN6j6MuHusofo3qcbm2Y3DWT76gHp4Z1_En2QnJMCyEpvCo1sCcXoRZVw5-/s1600/claudeai.jpg",
@@ -15926,6 +15980,15 @@
     "summary": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August\u2026",
     "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims"
   },
+  "https://thehackernews.com/2026/09/critical-check-point-management-server.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuFSb4LQQ7e_Iz1RS0JfQEDY9G9LcQZ23RM0h6ladr56GJ6nN3kPwVoZPpNVJUyJEBmLVEyMaIxytF2XqyQs8fGjIdd_ymPjwaZA8Q8R7JiXC-srMFj0_YBd-a94juv46HZm4ie72j7PTj45veyTgOBaeuN53HvktSH3JTgasvV_Mo-RwjsTPnRLlHFVk/s1600/cp-main.jpg",
+    "published": "2026-09-17T18:08:28+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network.\n\nThe Securit\u2026",
+    "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root"
+  },
   "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj9su2Wd6Yb88IvMpg5v1P8IyPg4KWKTeBXjerFgxz0U5WLKO2U50jymR-fKujsKeMFZ3q1VEupMRFZUz5gD47JRzVceagYJJ3bCTT8t532rY63po54kanBCPX4_hmKsxe-1b52IGrYc__TH5Y2F13G6L32HNKPQxL34iqzEPuBGynDCu6xFdKHplXvdY/s1600/cisco-flaws.jpg",
@@ -15934,6 +15997,24 @@
     "source": "The Hacker News",
     "summary": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, al\u2026",
     "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root"
+  },
+  "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJbYvRH1MRTGK43JYSWe2X3djxWAuNa3_r94FvOPBjt9sWrkRiEQi7D0DPksj3NH9vDPjm7MGSGY9UEc7JqePjd4aA-c4zuMzLZXH0Y5NWKWGnzNgbFe0tYlEFSFLrJFWVRuRKs_PQN8IKkdzYYNn8T7YWuUkZC4_2skq3deXYAw7i0aqWdx6G0FQwVzs/s1600/docker-macos.jpg",
+    "published": "2026-09-17T15:37:56+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns i\u2026",
+    "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files"
+  },
+  "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiFNFekCjM7qSAMNaeoNatwUPsjJY0Nj67yGKdlhq_zzLH9tyjQrXAByn9B6BvXEcMabyWnO5oWWE11_orN2h7G-7jRjGPSW48xtd4HySWIkI1fQzCbUDCVzRyc_KG3curUoXk4LgyckPwUO8aP65kR0CYnc90pkfXctHKXVQ7grKsc43drFZ63yRur20/s1600/dns-admin.jpg",
+    "published": "2026-09-17T12:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an&nbsp;advisory&nbsp;on Wednesday.\n\nAn attacker who control\u2026",
+    "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone"
   },
   "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html": {
     "categories": [],
@@ -16088,6 +16169,15 @@
     "summary": "Grindr to Pay \u00a326 Million to Settle U.K. Claims Over HIV Status Data Sharing Online dating app Grindr has opted to pay \u00a326 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-p\u2026",
     "title": "Grindr to Pay \u00a326 Million to Settle U.K. Claims Over HIV Status Data Sharing"
   },
+  "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_VMcM5A8FocwrVqXOjmk-BvMd3D_JA6RIur9wT4Gca5jQjiLLinldpcu3u2hWmJQeJZg5nhVRBwxHe2y0BHg1TZEd046RkPLatyX5JN-7_WtuRyPMX3VnMCAs7tfCYOSghFuBCUT6HFyCBH-bLeAPWlAj9TPtAn1sitCktd2vp_pJr6VtzHd2_EFDpo/s1600/gyazo.jpg",
+    "published": "2026-09-17T07:30:01+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a&nbsp;not\u2026",
+    "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records"
+  },
   "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3ZMbYZ20M3vMq_61k1PH7V-0evy5iTQQAGHDcA5khnJ304G746XRgkusnpa7Z31yIJLA7SX5ShzsKdvk1JfTwpVTSm4VPlkYoYVdwW9TaBULJ5363G0e-Z7ff86vvSGBiZTzaZeC6O4RRvJYuP7CrsAz4MeaX53UO0PICXuoa0H-u0qxXJHJcCM_Ovrg/s1600/ss.jpg",
@@ -16114,6 +16204,15 @@
     "source": "The Hacker News",
     "summary": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others\u2026",
     "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA"
+  },
+  "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdqFZ07lueoUFevcbuCOBavlR6CaAxmFqFs7hLpyqw-maKbLcISxW0Q-y7JwvoRrhDumRNaJo_Z4T6QRrGLUTDEE8yYqFfoRLmkoc_J4omdeCAmew1_5k-NwnNWJyYawal5nni-TVZu8M4aDsGNhbwlpp1Y7wLUSjsFR-olY89Mls9hD4CiL9jq0roUpzA/s1600/telegram-handala.jpg",
+    "published": "2026-09-17T14:03:13+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords The Iran-linked \"hacktivist\" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE.\n\n\"HEAV\u2026",
+    "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords"
   },
   "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html": {
     "categories": [],
@@ -16304,6 +16403,15 @@
     "summary": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von A\u2026",
     "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers"
   },
+  "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz2xdqQbSjGZGGkNO0hRMgoEWNFpWVp0DDsBvsbQekWezeScq_sLAPfzY-kJenfNHYFnSqDcU93F30gmINBYYobl0Jf1thyPsXm34lbJPqMfZwPXoRy1UvpQcS_eHwF_nVqk-rDBTd83B8iteh4e23r2pnbtUsOgFPmYVRi-IlrW6-9FFUf7-DiZ8yyAOJ/s1600/openai-models.jpg",
+    "published": "2026-09-17T09:53:38+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads OpenAI on Wednesday disclosed six new instances of \"unexpected or concerning model behavior\" that took place over the past six months, while sharing a new framework for reporting, tracking, inve\u2026",
+    "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads"
+  },
   "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9jQ8JSakEpnqxzsAZhwXnVvTMB0Lrbj7shOcXtSJzA30wcMTbkAIUGvSZPiBXOLeAW66Jpuysxn56W8YWD00hsCNB742oLqeyvgD8MXdIHHqwyeehyoyXx9G9c6XjxwN10Co_XVZuBkRjMquzgf9V17gh2Gw-xff0qJ9rh3sPO4tBq4OjjS0dxsl73WKT/s1600/wp-main.jpg",
@@ -16384,6 +16492,15 @@
     "source": "The Hacker News",
     "summary": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database ser\u2026",
     "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution"
+  },
+  "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Psm8tS3JWb6ev7nZoz7YQDPIgoHj9gwbNjgjxbokxICdzRIUb5YJI-XfDx0NQgm8afhayc-Zd51hjuxqi7Sk_XxCNXoTNt7nIZWpxCBcDMLjSm3uW38HRciOu3WNtaUT0a-2NSsOX91GbXpCScryNirImMMC4lkuVysHku58maTbm9XvAwJ0-X6O_wDE/s1600/1000109602.jpg",
+    "published": "2026-09-18T06:17:25+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate \u2026",
+    "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall"
   },
   "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html": {
     "categories": [],
@@ -16547,6 +16664,15 @@
     "summary": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click \u201cAllow.\u201d Why break in when someone might open the door?\n\nThat idea runs \u2026",
     "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories"
   },
+  "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizRobrCcZcWNzLjEmyk91HaJj5g2vkMbOgX_lP1vNQqfvh8krm4975WJ5zi9VFY1FsF44ZTJ5znBY5sBuKYiN-riJQspK3iLLnvhW5crViG9fJMPF_SCEN3dKPk-ypSjFQfD_gN1zA-KbryzexASNOVcKRHf4hf3iZ1XBuvYG9WKWhBdVWbs1dzJS9BUIQ/s1600/threatsday-main.jpg",
+    "published": "2026-09-17T17:32:22+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them.\n\nThis week, those keys sit in AI tools, exposed services, old bugs, weak logins, \u2026",
+    "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories"
+  },
   "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMZZrs8eh-baUC-73E9tejQYA0JZzWyoElUJGhCi0N4_f2EzmPPhQW3xY0kmNZv775T26ywu4czdta-vHaLp1gaI03eqho2SSe3riHMZP8hLTrU1ETnIv-k1ywOpnBFvbkyQJNZt7F4Xx4NndvvS8esTt1jzaCdeN9JZNkNB8sBU1vytibSRAjMsLZzc6/s1600/russian-groups.jpg",
@@ -16600,6 +16726,15 @@
     "source": "The Hacker News",
     "summary": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram cha\u2026",
     "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto"
+  },
+  "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZypkEn_5V1qllBxmH8UMxTPyA9qoXxQtKpBpJlFq2rtHgMM1wnknkyq4Vmmy0NiCHn2IjS0nyvtmiZpJ-vYOd6VxMFBexh_p6GXuq3Cjda-YfjDOUE5u5V5HfBBAQzEm5DLX3jg_ZrIfEBFlpcBod65T3Q0pXVR7vERfitlS6cBHYVG2K7ek5ivweYTRq/s1600/npm-chrome.jpg",
+    "published": "2026-09-18T10:40:06+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit.\n\nThe new malware fami\u2026",
+    "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage"
   },
   "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html": {
     "categories": [],
@@ -18986,6 +19121,17 @@
     "summary": "Microsoft fixes BitLocker recovery issue only for Windows 11 users Microsoft has addressed a known issue causing some Windows 11 systems to boot into BitLocker recovery after installing the April 2026 Windows security updates. [...]",
     "title": "Microsoft fixes BitLocker recovery issue only for Windows 11 users"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-18T07:35:31+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft fixes broken copy and paste for Excel 2016 users Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update. [...]",
+    "title": "Microsoft fixes broken copy and paste for Excel 2016 users"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/": {
     "categories": [
       "Microsoft"
@@ -21092,6 +21238,17 @@
     "summary": "Windows 11 24H2 Home and Pro reach end of support in 90 days Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months. [...]",
     "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-17T13:09:09+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 24H2 Home and Pro reach end of support in October Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]",
+    "title": "Windows 11 24H2 Home and Pro reach end of support in October"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/": {
     "categories": [
       "Microsoft",
@@ -23186,6 +23343,17 @@
     "summary": "BreachForums hacking forum database leaked, exposing 324,000 accounts The latest incarnation of the notorious BreachForums hacking forum has suffered a data breach, with its user database table leaked online. [...]",
     "title": "BreachForums hacking forum database leaked, exposing 324,000 accounts"
   },
+  "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-17T17:11:34+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Brevo supply-chain attack injected ClickFix scripts on customer sites Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
+    "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites"
+  },
   "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/": {
     "categories": [
       "Security",
@@ -23487,6 +23655,17 @@
     "source": "BleepingComputer",
     "summary": "Check Point warns of SmartConsole zero-day exploited in attacks Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel. [...]",
     "title": "Check Point warns of SmartConsole zero-day exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-18T09:34:33+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New Check Point flaw lets hackers execute code with root privileges Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
+    "title": "New Check Point flaw lets hackers execute code with root privileges"
   },
   "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/": {
     "categories": [
@@ -34742,6 +34921,19 @@
     "summary": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks Two vulnerabilities in Progress ShareFile, an enterprise-grade secure file transfer solution, can be chained to enable unauthenticated file exfiltration from affected environments. [...]",
     "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-09-17T21:50:26+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New RatHat Android malware uses AI to automate device control A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
+    "title": "New RatHat Android malware uses AI to automate device control"
+  },
   "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/": {
     "categories": [
       "Security"
@@ -35613,6 +35805,18 @@
     "source": "BleepingComputer",
     "summary": "OpenAI confirms security breach in TanStack supply chain attack OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its application\u2026",
     "title": "OpenAI confirms security breach in TanStack supply chain attack"
+  },
+  "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-09-17T18:55:12+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI details more cases of AI agents taking unauthorized actions OpenAI has presented new examples of what they call \"AI model misalignment\"\u00a0from the past six months,\u00a0including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exp\u2026",
+    "title": "OpenAI details more cases of AI agents taking unauthorized actions"
   },
   "https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/": {
     "categories": [
@@ -41066,6 +41270,17 @@
     "summary": "What Happens in the First 24 Hours After a New Asset Goes Live When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise in under 24 hours. [...]",
     "title": "What Happens in the First 24 Hours After a New Asset Goes Live"
   },
+  "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-17T14:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "What Recent AI-Powered Attacks Mean for Your Identity Security AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying tha\u2026",
+    "title": "What Recent AI-Powered Attacks Mean for Your Identity Security"
+  },
   "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/": {
     "categories": [
       "Security"
@@ -43946,6 +44161,15 @@
     "summary": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
     "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate"
   },
+  "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltff913968a26e2946/6aac4af4108059de52c02196/cisa_Jack_the_sparow_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-17T21:23:50+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter.",
+    "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus"
+  },
   "https://www.darkreading.com/cyber-risk/cisa-rewrites-federal-patching-requirements-ai-threat-era": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf078d399b77e8beb/6a29cba95f1b730af79d399f/usecyber_DC_Studio_shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -45076,6 +45300,15 @@
     "summary": "Advanced Security Isn't Stopping Ancient Phishing Tactics New research reveals that sophisticated phishing attacks consistently bypass traditional enterprise security measures.",
     "title": "Advanced Security Isn't Stopping Ancient Phishing Tactics"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd2c0cfe5f9c4744c/6aac3ea5108059d6dac02186/Digital_trap-Moor_Studio-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-18T07:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "AI Agent Breaches Spanish Organization, Modifies Personal Data AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding.",
+    "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b19e9ee4e36d14d/6a67b3e6b75c8234608ace20/Thai_Baht-PATCHARIN_SAENLAKON-Getty-2262450613.jpg?width=720&quality=80&disable=upscale",
@@ -45291,6 +45524,15 @@
     "source": "darkreading",
     "summary": "China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm The cyberthreat group targets an Azerbaijani oil and gas firm with repeated attacks, as the China-linked actors extend targeting beyond hospitality, telecom, and government sectors.",
     "title": "China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdb2f18082a854a7f/6aac39581080593b25c02180/sparrow-KenCanning-GettyImages-157477304_(1).jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-17T19:15:38+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "China's FamousSparrow APT Spies on US Politics in Latin America Amid the US and China's fight for eco-colonial influence in Latin America, a stealthy backdoor has taken flight.",
+    "title": "China's FamousSparrow APT Spies on US Politics in Latin America"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack": {
     "categories": [],
@@ -48416,6 +48658,15 @@
     "source": "darkreading",
     "summary": "[Virtual Event] Building a Secure AI Strategy for the Enterprise",
     "title": "[Virtual Event] Building a Secure AI Strategy for the Enterprise"
+  },
+  "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-12-03T16:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "[Virtual Event] Cybersecurity Outlook 2027",
+    "title": "[Virtual Event] Cybersecurity Outlook 2027"
   },
   "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026": {
     "categories": [],
