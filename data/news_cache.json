@@ -16250,6 +16250,15 @@
     "summary": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human oper\u2026",
     "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds"
   },
+  "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTFTNQKV-yV8FRZZRLBPRxZDhk6E7s3v8SpP5xW_aeDyMz-xMvi-xAVUmvDvMC-CnU1kddKpVGN9BBzeoH4xeq8zE3OAqUq5441sYhC4tfYcyU1-3_yPkVphC-20dCQX_e5kN_G-Ji42wbYuxavkjczHwYn9QP0WRXnN16KUA33kizHwh38yQl7clZAA0/s1600/ORCHID-1.jpg",
+    "published": "2026-09-19T13:28:41+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Identity Visibility in 2026: The Foundation of Identity Security Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annu\u2026",
+    "title": "Identity Visibility in 2026: The Foundation of Identity Security"
+  },
   "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYP_zrhRTZRWnPPcDkUrE7dBh2Bf5eaQmlBxyl7euTRGjS0C8boQppnrmjY0CIVjGrS_PF13V1W3BPVI3RDPZY59s_7xIkI8LnFkg3Tn_Q0x7_tbCs_sMkvhZMREtFLW3IOJSNNmQrKCDI88FCWhfymdWkEWtdMMRzivv3lZXImjreAz0d74VXt2K80ipH/s1600/tokens.jpg",
@@ -23416,6 +23425,17 @@
     "source": "BleepingComputer",
     "summary": "Bluekit phishing kit adopts browser-in-the-middle for login theft The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week and by adding browser-in-the-middle capabilities for improved data theft. [...]",
     "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft"
+  },
+  "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-19T14:56:31+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "BragJack attacks hijack AI browser agents through malicious extensions BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt \u2026",
+    "title": "BragJack attacks hijack AI browser agents through malicious extensions"
   },
   "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/": {
     "categories": [
@@ -35669,6 +35689,18 @@
     "summary": "North Korean Lazarus group linked to Medusa ransomware attacks North Korean state-backed hackers associated with the Lazarus threat group are targeting U.S. healthcare organizations in extortion attacks using the Medusa ransomware. [...]",
     "title": "North Korean Lazarus group linked to Medusa ransomware attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-09-19T14:05:15+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "North Korean WaterPlum hackers infected 30,000 devices worldwide A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stol\u2026",
+    "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide"
+  },
   "https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/": {
     "categories": [
       "Security"
@@ -37530,6 +37562,17 @@
     "summary": "Researcher reveals evidence of private Instagram profiles leaking photos A researcher has released detailed evidence showing some Instagram private accounts exposed photo links to unauthenticated visitors. The issue was later fixed, but Meta closed the report as not applicable an\u2026",
     "title": "Researcher reveals evidence of private Instagram profiles leaking photos"
   },
+  "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-20T12:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Researchers escape OpenAI Codex sandbox to run commands on host Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
+    "title": "Researchers escape OpenAI Codex sandbox to run commands on host"
+  },
   "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/": {
     "categories": [
       "Security"
@@ -38317,6 +38360,17 @@
     "source": "BleepingComputer",
     "summary": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state. [...]",
     "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database"
+  },
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-19T13:48:32+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
+    "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang"
   },
   "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/": {
     "categories": [
@@ -40925,6 +40979,17 @@
     "source": "BleepingComputer",
     "summary": "Vimeo data breach exposes personal information of 119,000 people The ShinyHunters extortion gang stole personal information belonging to over 119,000 people after hacking the Vimeo online video platform in April, according to data breach notification service Have I Been Pwned. [.\u2026",
     "title": "Vimeo data breach exposes personal information of 119,000 people"
+  },
+  "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-19T11:38:20+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Viral AI actress' hotline face-scans every caller, watches their mood AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods\u2026",
+    "title": "Viral AI actress' hotline face-scans every caller, watches their mood"
   },
   "https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/": {
     "categories": [
