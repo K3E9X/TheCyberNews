@@ -16007,6 +16007,15 @@
     "summary": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August\u2026",
     "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims"
   },
+  "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-cgmwQRZh142Z19A3s7K7tpaXtsyy6Imy9cYGM7nFP1DAZoSK9gDw8T0dGXlkFWOGDFShJWMNjC7jbwoSvLokr1pX27u2B1SABpBL-aWtaXj2hYYrqVwTE7LpEDn_iIbRYCro8sH2hzAEsjHLGkpFqTjEKlFHi2o2pgacFJQvYkPDCKVEhkJgW8OWhpZA/s1600/poly.jpg",
+    "published": "2026-09-21T08:39:38+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript.\n\n\"ChainScript has appeared under multiple build names, including Co\u2026",
+    "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure"
+  },
   "https://thehackernews.com/2026/09/critical-check-point-management-server.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuFSb4LQQ7e_Iz1RS0JfQEDY9G9LcQZ23RM0h6ladr56GJ6nN3kPwVoZPpNVJUyJEBmLVEyMaIxytF2XqyQs8fGjIdd_ymPjwaZA8Q8R7JiXC-srMFj0_YBd-a94juv46HZm4ie72j7PTj45veyTgOBaeuN53HvktSH3JTgasvV_Mo-RwjsTPnRLlHFVk/s1600/cp-main.jpg",
@@ -16294,6 +16303,15 @@
     "source": "The Hacker News",
     "summary": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalis\u2026",
     "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists"
+  },
+  "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-xFiujwBJLdl6_4wZSMCWdeyCgev2EqszOLkIJ5I9Kbanu6YNmQ36nM615XmLQ-sq2aqldOHfl47jaMNRtDd80RT8k5f6I7eQuszf7wsIg49sEdMW36hsEKUtVUkZabRlGvvDxn7H7COmRCV8qP2pzQm9LNo5QKRnnptxmxTlJ8BMcPxuiqdaMjn-are0/s1600/it-services.jpg",
+    "published": "2026-09-21T06:06:44+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once aga\u2026",
+    "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors"
   },
   "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html": {
     "categories": [],
@@ -20202,6 +20220,18 @@
     "summary": "Microsoft shares workaround for Windows domain login issues Microsoft shared a temporary fix on Wednesday for\u00a0a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
     "title": "Microsoft shares workaround for Windows domain login issues"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-21T13:16:20+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft reminds admins to migrate Entra ID users to passkeys Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]",
+    "title": "Microsoft reminds admins to migrate Entra ID users to passkeys"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/": {
     "categories": [
       "Microsoft"
@@ -20458,6 +20488,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: September updates break audio on some Windows PCs Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]",
     "title": "Microsoft: September updates break audio on some Windows PCs"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-21T11:45:54+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: September updates break File History backup feature Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
+    "title": "Microsoft: September updates break File History backup feature"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/": {
     "categories": [
@@ -32765,6 +32806,17 @@
     "source": "BleepingComputer",
     "summary": "Malicious NPM packages abuse Adspect redirects to evade security Seven\u00a0packages published on the\u00a0Node Package Manager (npm) registry\u00a0use the Adspect cloud-based service to separate researchers from potential victims and lead them to malicious locations. [...]",
     "title": "Malicious NPM packages abuse Adspect redirects to evade security"
+  },
+  "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-20T14:11:21+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Malicious npm packages evade install-script defenses at runtime An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation s\u2026",
+    "title": "Malicious npm packages evade install-script defenses at runtime"
   },
   "https://www.bleepingcomputer.com/news/security/malicious-nuget-packages-drop-disruptive-time-bombs/": {
     "categories": [
