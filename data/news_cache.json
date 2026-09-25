@@ -15890,6 +15890,15 @@
     "summary": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS The Internet Systems Consortium (ISC) has released&nbsp;BIND 9.20.29 and 9.21.26&nbsp;to fix fourteen security flaws it&nbsp;disclosed&nbsp;on 16 September in BIND 9, its open-source DNS server s\u2026",
     "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS"
   },
+  "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpydVf-1UN81MyiMH8sAYBd4xiIBuM52UV7kyWmhhBlqohwuaFwgnP5wVx35gG3dHMWrtw0aoPh2zPLW-NaUI4qc_nmpybfA87lo6bzZmLb4WXnpNkYyEYEYMk7kaHeKH4G01yOeEBm44R8a7uAQmabg1k2pEd7MBRp9FM4QN4uA3rsXxkAfuKLWBUxQd_/s1600/bitget.jpg",
+    "published": "2026-09-25T10:35:55+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets.&nbsp;\n\n\"At 18:31 UTC on September 24, 2026, Bitget's security syste\u2026",
+    "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise"
+  },
   "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9vYkFCrVzaEl0WQj4XBILj6pIxDJ92eWgVrkOa_pdvJJoKF95JCX7VmQzY0HPZkhg5IMvjfCu15YCs5AMJ22NM6SBX7j7sCgpfiaUZZAL4Uc5vP0-q9VKN4LNSY4a701mmRCgLJQxCjnmnsSAxD7gFnyf9-dRaSxPZuGqLuOIQ415vCOjH-DZRtYSBHA/s1600/access-for-sale.jpg",
@@ -16087,6 +16096,15 @@
     "source": "The Hacker News",
     "summary": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript.\n\n\"ChainScript has appeared under multiple build names, including Co\u2026",
     "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure"
+  },
+  "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJuj6tshfElqbwJCAvJf00nvl1Tng8D3yBW5uZZyVpwOqXJuzBB1df67IlNM1OSkHdGH11R6G8rseykpeXWUBu24sJvyxDL-uiqA7NC2ItwUUN2fMdaTWhqcHR2WYfpI6ihc0EVpEXfep1VFBygmh2-F6cAL1lwin0qQbmSebV5OmhqFmgBs3i0_WtdGI/s1600/cf-escape.jpg",
+    "published": "2026-09-25T04:49:22+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursda\u2026",
+    "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data"
   },
   "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html": {
     "categories": [],
@@ -16393,6 +16411,15 @@
     "source": "The Hacker News",
     "summary": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a&nbsp;not\u2026",
     "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records"
+  },
+  "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1xvw3iNKwWUngfdShXBAPKrbRDMZSCQ3_FdiHNKvwrLkip9fUiikko0FKN-cfgzBIgkLvKDR9xIlnfEZVQgHgOW2qTz8Pd4Ur0-DCYdUssgN_9vglgxRU6u5ZRK_FlQYmgV_sbv8pfA1YnSJcojUOhWC-7lkPbA07An_X-vNHmZ8xT2Okq9HiRfTBVt1h/s1600/UK-CLICK.jpg",
+    "published": "2026-09-24T14:29:06+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undo\u2026",
+    "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer"
   },
   "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html": {
     "categories": [],
@@ -16799,6 +16826,15 @@
     "summary": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters.\n\n\"Instead of using these characters to hide instructions from peop\u2026",
     "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters"
   },
+  "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4aXDWSC5cKzOZO8lRbk8o5I1fHPlCGbfxxYL6tyJxauEL-8EVj7-AypDhYt_Wg6bDLqlj0UK4LrGJdeI4ChsksaB6tTZxo8ikCLdwC0wjRfJPE_Z1qM_CVUg7s1ORdmWW2XTDtlPPDcI8JvelrbmJhcjVthnqYWQrZ7ySnIMMPRZfa_VzgaBCWyWc_JJ/s1600/third.jpg",
+    "published": "2026-09-24T15:27:32+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other \u2026",
+    "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content"
+  },
   "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7RQQCR9QxY1NZ80GCfpUjvGGcw9QDirshH7KrSyc097EIaNqLLVGgnnlOE095qTOt2q9CTu91gJ_Pf7Y9-AcZahb35e7XG2YrA8D4O0FPwVRSzBzMT5ecKzu0bnAxP603K5q8R_7IZrE-iSAAJQsmMWXBt8IPwHIIz3u6Kf-okZyo0G1fLoe9VOzZEEQF/s1600/plex.jpg",
@@ -16888,6 +16924,15 @@
     "source": "The Hacker News",
     "summary": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected s\u2026",
     "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts"
+  },
+  "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8MACS_IO_gIvzTjppTIaHyXZKPha3ZR13_sXQS7u9Ajphpz-FRL5GNIQzhpbveUPPLuMCq72MYNtdX5o6gF-9MZZg4rPF7mbOP_pjSXyTVOFy3XtzlQiMH6sIdTdsqgZpgQf-yZmk688M6BiOWdUNYZswJVQETAInFkZVZCl99ZoYoGhhgtpJZ0hs9JmV/s1600/roundcube.jpg",
+    "published": "2026-09-25T10:14:02+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild.\n\nThe vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a\u2026",
+    "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild"
   },
   "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html": {
     "categories": [],
@@ -17060,6 +17105,15 @@
     "summary": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories A lot of this week\u2019s security news has the same awkward answer to one question: \u201cWhy was that allowed to work?\u201d\n\nAn extension asks for access and takes too much. A trusted service becomes par\u2026",
     "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories"
   },
+  "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQeh1uEFjgxcgPPJkrXkAnJxZRxA9_ZolFQXNONWmfMGLViusszn4KTiJ9-8_r-AV94NS5BQlZ5eOrFnTvinPXcJB_G4o_BEZdv7xXMdAqfvZPfiUzKjlE70q2V6C9ze8H58pqYh-suKm_Yu1q3LoevignMd7nfjbjV7qx_vEad6BEFKUHwV5UlTFW1-dh/s1600/threatsday-sep.jpg",
+    "published": "2026-09-24T17:52:43+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times b\u2026",
+    "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories"
+  },
   "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUcEnh-e0_L2Oz7JQcSCFBd90F29Z7_wHbJYiWOxWeZTeLLHbRZYK6vt1PrcUOgSFei7fxLMnP2lp0QyEOW2rzfcsnBFhayNHtKLPtHJFsu55w_GxuA3XLkZf-kleynMxXjc8zELZt7FBZFdqCAtesj3Fj148fwlGitAxZxu6t1wZDb7wgZQ1MR-Vmc4FL/s1600/threats-main.jpg",
@@ -17113,6 +17167,15 @@
     "source": "The Hacker News",
     "summary": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce se\u2026",
     "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores"
+  },
+  "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiGu2guziH88Cs_LnFsPkCJ4zuxqgSX7q3SRrBXdSAEeJPhmYnpNp-c0WCNCqoOoyCv6NcnmCKm20rhqSb2rjw7KZ6Kh6UssR2fZG5SZX9Pjhb_fjONdBfgpxqpWNABPDvSmD9Hp913nErgH4PQm1ehlyspJt5RXASYckP6jHE3G0V2ou5fwkG7JOZyBY/s1600/oneplus.jpg",
+    "published": "2026-09-24T18:10:18+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats,&nbsp;chained two flaws in OnePlus\u2026",
+    "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions"
   },
   "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html": {
     "categories": [],
@@ -17230,6 +17293,15 @@
     "source": "The Hacker News",
     "summary": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders.\n\nOn some servers, that can go further\u2026",
     "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers"
+  },
+  "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqTAzyCx7Cezy4z5oRz-uAHvdvW1IZDrQlfIqT_ZDJ22Hvarb4lmYWkjqBDI_CngiSy2wuot68b2CgMS_0CWVZS93lYo5wqJsd5-WdFQgO3dieodXpVQiizcFjQsPzUOlVrs32zkBaHAwOyD7S4GCZ3b1d-Jyt4-ZTaMltfU0jG5dwBw5cxj880D4Cx8W0/s1600/ADOBE-CISA.jpg",
+    "published": "2026-09-25T04:46:34+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalo\u2026",
+    "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV"
   },
   "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html": {
     "categories": [],
@@ -20346,6 +20418,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Recent Windows updates break RemoteApp connections Microsoft has confirmed that recent Windows updates trigger RemoteApp connection failures on Windows 11 24H2/25H2 and Windows Server 2025 devices in Azure Virtual Desktop environments. [...]",
     "title": "Microsoft: Recent Windows updates break RemoteApp connections"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-25T10:30:38+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Recent Windows updates cause desktop loading issues Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
+    "title": "Microsoft: Recent Windows updates cause desktop loading issues"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-wsl-networking-issues/": {
     "categories": [
@@ -26726,6 +26809,17 @@
     "summary": "Critical React, Next.js flaw lets hackers execute code on servers A maximum severity vulnerability,\u00a0dubbed 'React2Shell',\u00a0in the React Server Components (RSC) 'Flight' protocol\u00a0allows remote code execution without authentication in React and Next.js applications. [...]",
     "title": "Critical React, Next.js flaw lets hackers execute code on servers"
   },
+  "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-24T13:27:57+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Hackers now exploit critical Roundcube flaw in code injection attacks A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
+    "title": "Hackers now exploit critical Roundcube flaw in code injection attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/critical-sandbox-escape-flaw-discovered-in-popular-vm2-nodejs-library/": {
     "categories": [
       "Security"
@@ -28184,6 +28278,17 @@
     "summary": "Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed A severe vulnerability affecting multiple MongoDB versions, dubbed MongoBleed (CVE-2025-14847), is being actively exploited in the wild, with over 80,000 potentially vulnerable servers exposed on the public web.\u2026",
     "title": "Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed"
   },
+  "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-24T17:47:44+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Exposed GitLab project email addresses let attackers push code Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
+    "title": "Exposed GitLab project email addresses let attackers push code"
+  },
   "https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/": {
     "categories": [
       "Security"
@@ -28881,6 +28986,17 @@
     "source": "BleepingComputer",
     "summary": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires FedRAMP 20X replaces point-in-time assessments with continuous, machine-readable evidence that demonstrates security controls are working. Anecdotes explains what the transition from Rev5 to FedRAMP 20X means and how\u2026",
     "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires"
+  },
+  "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-24T14:02:12+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is j\u2026",
+    "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning"
   },
   "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/": {
     "categories": [
@@ -31331,6 +31447,18 @@
     "summary": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack The Ostium trading platform announced that an attacker stole $23.75 million from its liquidity provider vault last week, after compromising off-chain infrastructure used to feed prices into the protocol. [...]",
     "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-09-25T08:33:44+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Hackers steal $351.6 million in Bitget crypto exchange hack \u200bCryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
+    "title": "Hackers steal $351.6 million in Bitget crypto exchange hack"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/": {
     "categories": [
       "Security"
@@ -33121,6 +33249,17 @@
     "summary": "LummaStealer infections surge after CastleLoader malware campaigns A\u00a0surge in LummaStealer infections has been observed, driven by social engineering campaigns leveraging the ClickFix technique to deliver the CastleLoader malware. [...]",
     "title": "LummaStealer infections surge after CastleLoader malware campaigns"
   },
+  "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-24T20:53:35+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "MacSync malware uses public iCloud calendars to deliver new payloads A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
+    "title": "MacSync malware uses public iCloud calendars to deliver new payloads"
+  },
   "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/": {
     "categories": [
       "Security"
@@ -34789,6 +34928,18 @@
     "source": "BleepingComputer",
     "summary": "New Booking.com data breach forces reservation PIN resets Booking.com has confirmed via a statement to BleepingComputer that it has detected unauthorized access to its systems that has exposed sensitive reservation and user data. [...]",
     "title": "New Booking.com data breach forces reservation PIN resets"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-09-24T20:10:48+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New Carbonato malware uses AI agents to hijack exposed Docker hosts A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install\u00a0the Hermes Agent AI framework and take control. [...]",
+    "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts"
   },
   "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/": {
     "categories": [
@@ -38570,6 +38721,17 @@
     "source": "BleepingComputer",
     "summary": "Manager of botnet used in ransomware attacks gets 2 years in prison A Russian national has been sentenced to two years in prison after admitting that the phishing botnet he managed was used to launch BitPaymer ransomware attacks against 72 U.S. companies. [...]",
     "title": "Manager of botnet used in ransomware attacks gets 2 years in prison"
+  },
+  "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-25T11:35:14+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Rydox marketplace admin pleads guilty, faces 22 years in prison A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]",
+    "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison"
   },
   "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/": {
     "categories": [
@@ -44188,6 +44350,15 @@
     "summary": "Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS Attackers fingerprint victims through user-agent data to deliver OS-specific payloads, increasing compromise rates and campaign profitability.",
     "title": "Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS"
   },
+  "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6cc4d4a12e6b7c68/6ab0590fdb2c1e1226ff0b0f/Hand_snap-Viktar_Sarkisian-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-24T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Prompt-Injection Bug Hits $4B Agentic AI App 'Manus' AI apps that interpret external data (read: most AI apps) need exceptionally rigorous security filters, or attackers can take advantage.",
+    "title": "Prompt-Injection Bug Hits $4B Agentic AI App 'Manus'"
+  },
   "https://www.darkreading.com/application-security/prompt-injections-loom-large-over-chatgpt-atlas-launch": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt773b39b569af50a2/6925fbb1db48105c9783cb0f/Atlas_Michael_Brooks_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -44265,6 +44436,15 @@
     "source": "darkreading",
     "summary": "Rust Code Delivers Better Security, Also Streamlines DevOps Software teams at Google and other Rust adopters see safer code when using the memory-safe language, and also fewer rollbacks and less code review.",
     "title": "Rust Code Delivers Better Security, Also Streamlines DevOps"
+  },
+  "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte47deb12795d1329/6ab55cc6323c1e2e79062eb7/Cloud_painting-Igor_Miller-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-24T21:04:03+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels.",
+    "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing"
   },
   "https://www.darkreading.com/application-security/sboms-in-2026-some-love-some-hate-much-ambivalence": {
     "categories": [],
@@ -44642,6 +44822,15 @@
     "source": "darkreading",
     "summary": "Here's What Cloud Security's Future Holds for the Year Ahead Here are the top cloud security trends I'm seeing in my crystal ball for the New Year \u2014 particularly arming us for AI adoption.",
     "title": "Here's What Cloud Security's Future Holds for the Year Ahead"
+  },
+  "https://www.darkreading.com/cloud-security/how-to-build-sase-framework": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb78cadaedd123808/6728c89f936b643041fefd4a/framework-jozef_sedmak-Alamy-resized.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-24T14:02:43+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "How to Build A SASE Framework for Modern Cybersecurity Keeping edge computing safe requires organizations to fundamentally rethink security governance. Here is a path forward: a step-by-step guide to building a SASE framework.",
+    "title": "How to Build A SASE Framework for Modern Cybersecurity"
   },
   "https://www.darkreading.com/cloud-security/hugging-face-packages-weaponized-single-file-tweak": {
     "categories": [],
@@ -46304,6 +46493,15 @@
     "summary": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI.",
     "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcaceb4dbae83cc73/6ab2a824f707d014a4ded803/GettyImages-2212090355.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-24T14:44:12+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "3 Cyber Threats That Defined the Summer of 2026 This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It was a busy s\u2026",
+    "title": "3 Cyber Threats That Defined the Summer of 2026"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7f40f3c081eecf91/69dd9708c01884640b682358/Turkey-Ivan_Tsyrkunovich-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -46936,6 +47134,15 @@
     "summary": "Fuel Tank Breaches Expand Scope of Iran's Cyber Offensive Security experts have long warned that insecure automatic tank gauge (ATG) systems exposed on the Internet can be tampered with by threat actors.",
     "title": "Fuel Tank Breaches Expand Scope of Iran's Cyber Offensive"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ghost-service-accounts-m365-data-theft-chile": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt616fa081889caa0c/6ab405d757365f201ef41265/Chile-Gwengoat-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-24T13:30:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Ghost Service Accounts Enable M365 Data Theft in Chile Even if the organization locks down employee accounts, forgotten and lost service accounts can still undo the organization's entire M365 environment.",
+    "title": "Ghost Service Accounts Enable M365 Data Theft in Chile"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteeacc770d8fb720d/6a54d144763fdbda3db4e01e/destruction-MasPix-alamy.jpg?width=720&quality=80&disable=upscale",
@@ -47532,6 +47739,15 @@
     "source": "darkreading",
     "summary": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well.",
     "title": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb62b34e9ee11beba/6ab57fc3bdd2950319376ffa/rat-maljalen-Getty-186306387.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-24T20:32:50+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "SectopRAT Returns, Hiding Inside a Legitimate Application The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say.",
+    "title": "SectopRAT Returns, Hiding Inside a Legitimate Application"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/sesameop-backdoor-openai-api-covert-c2": {
     "categories": [],
@@ -50282,6 +50498,15 @@
     "source": "darkreading",
     "summary": "New CUSTODY Framework Constrains AI Agents Inside the Network Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face.",
     "title": "New CUSTODY Framework Constrains AI Agents Inside the Network"
+  },
+  "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8a27dbac2edf719a/6ab57742417cfced0b651132/Cyber_Russia-traffic_analyzer-GettyImages-952919134.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-25T07:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Russia's Hybrid Cyber-Physical War in Europe Heats Up A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material support to Ukraine.",
+    "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up"
   },
   "https://www.darkreading.com/remote-workforce/advisor360-gets-handle-on-shadow-ai-via-automation": {
     "categories": [],
