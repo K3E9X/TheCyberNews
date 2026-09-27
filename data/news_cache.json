@@ -15719,6 +15719,15 @@
     "summary": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vuln\u2026",
     "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials"
   },
+  "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYN2VWIT2g8mQkV0GeZWzYErKcubb0-baI8J__2nmdElucECc7HrLkdPsR1dz93qjMBI5sr_dL8yPWHf2bwWCBXa3YfutHAeJ-70UCSMuJrHhyOB3RO4OkuDjuw7gxRLXUnK-CeK9jZO0uOJRy-N3w-rV7uZ4t1FnFIWNjEsKtSYQINUvPX31mKzV_5Ert/s1600/oracle-flaw.jpg",
+    "published": "2026-09-26T11:46:40+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally.\n\nThe ShinyHunters-linked activity involve\u2026",
+    "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells"
+  },
   "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX61WXln9MMGAzqzflpRDt_LZGfB7ZJ_u1fsQhr5FRnml48-E-V-uxtCIF-GERZlt-eBhw3MDT7_6jFgwEDF1ppC7YZlB_CZn-q4_nKD9S3fQTI3kDQFe2Izsq6_NoGnCRtRZckr8Irg9kOJ8Fwghl3qHqwg1zWoN6ff-VsmlCaojw2Divb6L00F34lJk/s1600/jfrog-art.jpg",
@@ -16547,6 +16556,15 @@
     "summary": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an&nbsp;advisory published \u2026",
     "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server"
   },
+  "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlKEfNLMvV7mEVtxmw1nS48l0bWRxvhvRH5MHdn20FjDTm6B0_5okfLjQ49AamYo9DPVC1aV1O2bl11Vd8776ziWsV96tcxQviDK0RjOnGK_Dyx_Zs2e2VBjgChf91_H2cHH0u_UoyAGlGlJkKnozWFqf-sxmXNW0QlnfY3Ilgdkg3p4qG7p3Z0SmdnJMq/s1600/stealer-malware.jpg",
+    "published": "2026-09-26T18:22:52+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform \u2026",
+    "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials"
+  },
   "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixn-0jJvMDlL85UUyW0E5PUDeUnMbGMxZJEnJMOAXXAuiqD-e1D9IoZdYsNwwDY16NA7x7GFHzVrx6LqJU7u7ywR50UWP4DGybNAhTlLPeAiBcVwVUJPgV1KbD1u0aUNy_468Y6gMQJ8FlnfGFlz_iCJcAeOeTiPViV1195lHwovULdtSBlsvPWOGpNU8/s1600/check.jpg",
@@ -17258,6 +17276,15 @@
     "summary": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram cha\u2026",
     "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto"
   },
+  "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrnnWi_EE_zogEngdPWZDYXQTXqcArqvXtXYDj7_yLDzfVamEw9Nx7taRyM1SQf8-78qtxnt3nhNzcn36WnzYwZvFDQNvglCilw0Ltb4NjVkjjC8GH2nOUTnxIBPvRn8JVPcXJaidmbU0A6z-1RiX_OKgcpkzvL6xV7aM_YpQj6XdYIfalQH3h6o3b7pQ/s1600/citrix-zero-day.jpg",
+    "published": "2026-09-27T07:47:57+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr s\u2026",
+    "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation"
+  },
   "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZypkEn_5V1qllBxmH8UMxTPyA9qoXxQtKpBpJlFq2rtHgMM1wnknkyq4Vmmy0NiCHn2IjS0nyvtmiZpJ-vYOd6VxMFBexh_p6GXuq3Cjda-YfjDOUE5u5V5HfBBAQzEm5DLX3jg_ZrIfEBFlpcBod65T3Q0pXVR7vERfitlS6cBHYVG2K7ek5ivweYTRq/s1600/npm-chrome.jpg",
@@ -17374,6 +17401,15 @@
     "source": "The Hacker News",
     "summary": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk Security teams have become exceptionally talented at finding vulnerabilities. Now, it\u2019s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compr\u2026",
     "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk"
+  },
+  "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbfTXTCeNSvaPIRWOUJJxKPfYp45QnSjl24XZ1Set210zScJhg03o_TYX0QKPQdcSq-vkiWnymSqBu-bSwcCm1Kb2Te5do1VIcbCQjc_-TOOR6VwqRiHu5LE-tBb0gdrDjmPuDADfUraASQenGh-1gI4PF_xa2GwREsDM4vq4_C-aEU8EJsBBvhykJ1E0/s1600/sans-article.jpg",
+    "published": "2026-09-26T10:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Zero Trust for AI Agents Starts With Fixing Zero Visibility The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much producti\u2026",
+    "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility"
   },
   "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html": {
     "categories": [],
@@ -17876,6 +17912,18 @@
     "summary": "Claude Fable relaunch disappoints users with nerfed performance Claude Fable, the company's most powerful model, is now available to all users, but early impressions are disappointing, as it appears to be nowhere near the original release. [...]",
     "title": "Claude Fable relaunch disappoints users with nerfed performance"
   },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-09-26T16:26:58+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
+    "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer"
+  },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/eu-launches-investigation-into-x-over-grok-generated-sexual-images/": {
     "categories": [
       "Artificial Intelligence",
@@ -18358,6 +18406,18 @@
     "source": "BleepingComputer",
     "summary": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models OpenAI says it's rolling out a new update that improves the existing GPT-5.5 Instant model, and this move comes ahead of the scheduled retirement of multiple legacy models, including o3. [...]",
     "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-26T12:28:41+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
+    "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ad-costs-are-on-par-with-live-nfl-broadcasts/": {
     "categories": [
@@ -19000,6 +19060,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft 365 Backup to add file-level restore for faster recovery Microsoft will soon begin rolling out a significant upgrade to Microsoft 365 Backup to speed up recovery by allowing administrators to restore individual files and folders. [...]",
     "title": "Microsoft 365 Backup to add file-level restore for faster recovery"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-26T15:50:38+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft pauses KB5002907 update after Office license deactivations Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report\u00a0that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
+    "title": "Microsoft pauses KB5002907 update after Office license deactivations"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/": {
     "categories": [
@@ -29846,6 +29917,17 @@
     "summary": "GIGABYTE Control Center vulnerable to arbitrary file write flaw The GIGABYTE Control Center is vulnerable to an arbitrary file-write flaw that could allow a remote, unauthenticated attacker to access files on vulnerable hosts. [...]",
     "title": "GIGABYTE Control Center vulnerable to arbitrary file write flaw"
   },
+  "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-26T14:19:46+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
+    "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active"
+  },
   "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/": {
     "categories": [
       "Security",
@@ -39358,6 +39440,17 @@
     "source": "BleepingComputer",
     "summary": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
     "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang"
+  },
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-26T19:03:34+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploita\u2026",
+    "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks"
   },
   "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/": {
     "categories": [
