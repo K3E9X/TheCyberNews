@@ -15935,6 +15935,15 @@
     "summary": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar A new CVE drops. Your scanner finds it. The severity score looks ugly.\n\nBut that still does not answer the question that matters: Can it actually be exploited in your environment?\n\nMythos-class \u2026",
     "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar"
   },
+  "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3O4ih8J3-A5sGh57xyYKMGbnSqaXbWhu2g9HBE_mG11gEdedMUmYyeeYpA9TnNPwRsB4t-5V9UTW54iOR0VNzyaaa0fWhOG4Oi46KwGvrrVQRdWIDS7GX6YxjaMrA6sF9RHWNyO8gBttCQ7Nc8LUmrhhH24jSp1lPDuhok9r3CfKxgGJRObZRqRTW-5Gf/s1600/hermes-telegram.jpg",
+    "published": "2026-09-28T11:46:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent fr\u2026",
+    "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent"
+  },
   "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyc0Kqar7_6N4y9ymGxw8ukQCQbqQ_pGCfnoXYMBZoNZK1w3ljkO26S_rhVhJaIVcx8rcEK95njKyaYj5g63VByKh8ncf_s84nUBWoyEbWZH6uaLYjnu5fNt_TC9wz-r6P_RTJgZ83Z5wmurzSb9_lHVfV1t9STts4WCZr18AH-3XRHTn5pj15uURIM-0/s1600/checkpoint.jpg",
@@ -16033,6 +16042,15 @@
     "source": "The Hacker News",
     "summary": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exp\u2026",
     "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild"
+  },
+  "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG1pBfETB-EOlAvKfZwROp5B3Nr3d00xBbxRPhsq5hDBvK8QTVYmc2r8tR8RNz7omvXWoufetWbVk1S-tZ74b-z0nxsHS_Zz7XnN4Vs7VGvDtlnOhsfG0ecx-LX_kuRwBLJwkIMN-26auGXjzdcAS2Yz8sdQ2U_kDtKpQOnOYD18r6WEu1twQ79p_ZJGhD/s1600/ct.jpg",
+    "published": "2026-09-28T07:21:49+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Sunday added two critical Citrix NetScaler ADC and Gateway flaws to its Known Exploited Vulnerabilities (KEV) catalog, following rep\u2026",
+    "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally"
   },
   "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html": {
     "categories": [],
@@ -16519,6 +16537,15 @@
     "source": "The Hacker News",
     "summary": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once aga\u2026",
     "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors"
+  },
+  "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHYvL1hsEQjB3x7u-jNflFT0QK3a9IEFse8ghWqV9SxkawlFerAn8pzjfYgztccVleVlLzZcDlOSvu7gqJhHP_XLWL1lqZkeIVCifya8Ohinriqk_o-kpzzdtv4x7NinDhQgWbE9B7yJliuJPGZ2x0qh9jRgkWfyNyPexujdTWpLTbfe7MKRVQT1Z3BAQ9/s1600/azure-ai.jpg",
+    "published": "2026-09-28T09:08:21+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals.\n\nMicrosoft, which is track\u2026",
+    "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources"
   },
   "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html": {
     "categories": [],
@@ -17294,6 +17321,15 @@
     "summary": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit.\n\nThe new malware fami\u2026",
     "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage"
   },
+  "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibRtgg2jeMV3szE5OkdAQtqtUYgPjYEf96vKrzXPpd8_9XDiXOC9iTBfh-neWto1RsFBY0qXpLpc71bz9OwQQ8agSkvr6zYzcqwI157keOyKgX-_L-mwGdLJxLrGhbV_yK4wQn2Jc4E72zhY7XPa05O61GOgFR3-9cpbgYbACE-dR9CqqHuavdrJV8GVg/s1600/webinar-agents.jpg",
+    "published": "2026-09-28T11:58:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems\u2014often without the same co\u2026",
+    "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI"
+  },
   "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6J-Pt0v8CDXEvzMCsK37Gumde1WYysaqiuzK3Rg_dGXBeFEhbxFpLRbwaFSMOVcAz5XsbJXD9977trBg0eHEY-x4mZiu9W4ASLWGnIIA4kWkTmtIF-uBYlQWfLhQjAUL0llbl1Jn2hKfz5Wr78TR4Retzt9PlGD4mEGifQCvrEfFfqMy5966fDGvFHgY/s1600/tines-webinar.jpg",
@@ -17302,6 +17338,15 @@
     "source": "The Hacker News",
     "summary": "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?\n\nFor many security teams, answering that means jumping between vulnerability scanners, e\u2026",
     "title": "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE"
+  },
+  "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-eWVCAN2nvZGZrKlwm-wminZE56MzJ_bVRK6CJfdBw9TXU4yQy6t9T0hDi0hSOskE9Xs6M-KCVEbVvBuL2DLDkew97W2iobOPZa9zqEBeGPWBnW8cftdD1FwzBLz7CIGVhJb1FwnS-35B62Jqc331zNQ67hZP-V2jKBT7yUxUV4rn8jMr27QCommYp-j/s1600/c-recap.jpg",
+    "published": "2026-09-28T14:00:53+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: fo\u2026",
+    "title": "\u26a1 Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats"
   },
   "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html": {
     "categories": [],
@@ -17647,6 +17692,18 @@
     "source": "BleepingComputer",
     "summary": "Anthropic to restore Claude Fable access on Wednesday Anthropic has confirmed that the\u00a0Department of Commerce has lifted export controls on Claude's two most powerful models,\u00a0Fable 5 and Mythos 5. [...]",
     "title": "Anthropic to restore Claude Fable access on Wednesday"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-09-27T13:38:40+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
+    "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/": {
     "categories": [
@@ -18205,6 +18262,18 @@
     "source": "BleepingComputer",
     "summary": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
     "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-09-27T23:40:39+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI is preparing \u201co,\u201d an always-on ChatGPT assistant that could handle email OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
+    "title": "OpenAI is preparing \u201co,\u201d an always-on ChatGPT assistant that could handle email"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-getting-ready-to-test-ads-in-chatgpt/": {
     "categories": [
@@ -22707,6 +22776,17 @@
     "summary": "77 Open VSX extensions found harvesting developer info 77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
     "title": "77 Open VSX extensions found harvesting developer info"
   },
+  "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-28T14:00:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market f\u2026",
+    "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking"
+  },
   "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/": {
     "categories": [
       "Security"
@@ -24018,6 +24098,18 @@
     "summary": "\u201cBitcoin Queen\u201d gets 11 years in prison for $7.3 billion Bitcoin scam A Chinese woman\u00a0known as the \"Bitcoin Queen\" was sentenced in London to 11 years and eight months in jail for laundering Bitcoin from a \u00a35.5 billion ($7.3 billion) cryptocurrency investment scheme. [...]",
     "title": "\u201cBitcoin Queen\u201d gets 11 years in prison for $7.3 billion Bitcoin scam"
   },
+  "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-09-28T09:25:29+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
+    "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist"
+  },
   "https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/": {
     "categories": [
       "Security",
@@ -25204,6 +25296,17 @@
     "summary": "CISA orders feds to patch DarkSword iOS flaws exploited attacks CISA ordered U.S. government agencies to patch three iOS vulnerabilities targeted in cryptocurrency theft and cyberespionage attacks using the DarkSword exploit kit. [...]",
     "title": "CISA orders feds to patch DarkSword iOS flaws exploited attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-28T06:24:19+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "CISA orders feds to patch exploited Citrix flaws by Wednesday The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
+    "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/": {
     "categories": [
       "Security"
@@ -26055,6 +26158,17 @@
     "summary": "Cisco warns of unpatched AsyncOS zero-day exploited in attacks \u200bCisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) appliances. [...]",
     "title": "Cisco warns of unpatched AsyncOS zero-day exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-27T16:02:37+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Citrix confirms two NetScaler RCE zero-days exploited in attacks Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix t\u2026",
+    "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/": {
     "categories": [
       "Security"
@@ -26285,6 +26399,18 @@
     "source": "BleepingComputer",
     "summary": "Cloudflare blames today's outage on React2Shell mitigations Cloudflare has blamed today's outage on the emergency patching of a critical React remote code execution vulnerability, which is now actively exploited in attacks. [...]",
     "title": "Cloudflare blames today's outage on React2Shell mitigations"
+  },
+  "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/": {
+    "categories": [
+      "Security",
+      "Cloud"
+    ],
+    "image": "",
+    "published": "2026-09-27T14:13:31+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Cloudflare fixes Containers cross-tenant flaw exposing customer data Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
+    "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data"
   },
   "https://www.bleepingcomputer.com/news/security/cloudflare-misconfiguration-behind-recent-bgp-route-leak/": {
     "categories": [
@@ -41885,6 +42011,17 @@
     "summary": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown The U.S. Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization. [...]",
     "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown"
   },
+  "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-28T07:30:15+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
+    "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms"
+  },
   "https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/": {
     "categories": [
       "Security"
@@ -46015,6 +46152,15 @@
     "source": "darkreading",
     "summary": "How Cyber Insurance MGAs Shape Policies for Evolving Cyber Risks Managing general agents help insurers navigate sectors where they lack expertise. A cybersecurity policy written by an MGA is more likely to reflect an understanding of the risks CISOs deal with.",
     "title": "How Cyber Insurance MGAs Shape Policies for Evolving Cyber Risks"
+  },
+  "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1682014f9a4fac6c/6762e3fbfe28e22e7d279cce/CFO_(1800)_Dzmitry_Skazau_Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-25T20:28:10+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Why the CISO-CFO Relationship Is a Key to Cybersecurity Success Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk, and enable business growth are better prepared to face today's threat landscape.",
+    "title": "Why the CISO-CFO Relationship Is a Key to Cybersecurity Success"
   },
   "https://www.darkreading.com/cyber-risk/illicit-crypto-economy-surges-nation-states": {
     "categories": [],
