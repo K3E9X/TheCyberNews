@@ -15566,6 +15566,15 @@
     "summary": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's.\n\nThe flaw sat in the annotation t\u2026",
     "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client"
   },
+  "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhUmW5o4XCEsBlPE2MKecTG-IHCrk1WHeLajiNnRTpGtT-DDhpYVID3Pon7cseFiJN24GulDnjR7TPRe6h-kQEuJBPRl87atgBytMvKbiRV4h_DHWtxQEtogyy3U-aAD6ErNCrYiOQV-tHvHcw_P4W8z37PpR-jo70sePvtLIvMwKx7MJuE8Fazhyphenhyphen7_KI5/s1600/npm-whatsapp.jpg",
+    "published": "2026-09-29T13:45:10+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub.\n\n\"The malicious packages ab\u2026",
+    "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent"
+  },
   "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB8expOvrNoEO7Mb5MSWWRnW2eVksJz4NGRldHmcBuWZ76ojuMDD6HJk_i043g-KHOi2zjcYQtsvYGXL2lyzPNy-vwRTD5jzMz5qdEXwfvYqt9K1Uu0Z5fpEMV2EVh9Ap0JRUD391nDM_TjgEXXGnI_dHRpxwv1H5VLiyQN4F3LBpRaEnmtbmCqdllIob2/s1600/iphone.jpg",
@@ -15646,6 +15655,15 @@
     "source": "The Hacker News",
     "summary": "AI Changed the Exposure Problem. Validation Needs to Change With It. There's a lot of noise around AI and cybersecurity right now. What\u2019s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scal\u2026",
     "title": "AI Changed the Exposure Problem. Validation Needs to Change With It."
+  },
+  "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqbuWmNSxYv66udOpYi9NRKukBSDiTroF54tDrBaVYBBTfDC7PMMr26tRoFatdmmRPsPy3MCdoUNLr8YN9mC2ni3pvDWfBNsoKz12evoNrZggcUI4izEc7-hEAr_2wFv4IInBnon19PcEPSXlJU-AMahLHFNAk_5FiVbV7EhfdiLKHcUc8Tiso63xca2c/s1600/git-images.jpg",
+    "published": "2026-09-30T11:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said.\n\nIts researchers found more tha\u2026",
+    "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub"
   },
   "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html": {
     "categories": [],
@@ -15781,6 +15799,15 @@
     "source": "The Hacker News",
     "summary": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.\n\nThe vulnerability in question \u2026",
     "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution"
+  },
+  "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgjeU_A9ijIuOqFirHL74nU4k_HktRhcj5hx3goc6SfQKIeG9XA_GpZaZQVpCdUYbho_gZT4LoB-MjNJO0FZrV3q6MxXoUzg8bdbHmr2r-8rKxP1_XCMUVKq3IntFoR4aFFSdDPyBQI4Z1-jn8uNaWn4c4ohpPflBYx8M0GPFnAVziUo3Mtap0fzBBU9f_/s1600/citrix-shell.jpg",
+    "published": "2026-09-30T08:24:35+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe.\n\nThe acti\u2026",
+    "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT"
   },
   "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html": {
     "categories": [],
@@ -16106,6 +16133,15 @@
     "summary": "CISO's Expert Guide to Agentic Pentesting for Websites Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents are c\u2026",
     "title": "CISO's Expert Guide to Agentic Pentesting for Websites"
   },
+  "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcFl1djJdJQkamdMtV0xibSpzc4ahUKNoVKtVoDSeKFJAYUkH2SnmxalYIJpaVZ9cywBJqyUflBrXWbhTIzpwL51iIyfINyH7z7YUHqDl3IbAJJmpCANlw8YvFFtmLa3T2es4rdE70Jd9tEUYAbuWFuXVBsx6Ar2radG2ZhgkqjBA5ZErCm0xVhNPv6d3F/s1600/watch-exploit.jpg",
+    "published": "2026-09-30T05:30:30+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wil\u2026",
+    "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution"
+  },
   "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyW8DcUYeyW1LOG-Gc3uqyV8_5rO4iwyEIM6FbRFwuvilvbfC7RSTjueJ4lEELpGvXX-22zzWuNCusN2qdODymiKNOQSz_8f1Q4u59bH7HCEZFT5PVsyBjj2NhWtlYiwvhXzXbwG_n3P_DCloZvMdajsc93hvqbJo6HCJy5wjNevUyN46ODFo7AlYsj499/s1600/npm-cicd.jpg",
@@ -16376,6 +16412,15 @@
     "summary": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says.\n\nFreeIPA is the syste\u2026",
     "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials"
   },
+  "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9h550xeoGqzMnMqY6B6Ejo9xeSvbx4fnnu1OmLWvhYAvYeLNB1zeik8F8yYB82oW685qieusoRaI27P68ugA34Vg0720ZZdLfQUJtuIjxkUYRgq_hQtivtsopRYYoddpwb4mICLERqQrVKtZv5EHg78rU14dlQmgevB0KsOR0ePvG4E8cpqKB1TyliaE/s1600/france.jpg",
+    "published": "2026-09-29T17:47:01+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July.\n\nNeither the tax administration nor\u2026",
+    "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks"
+  },
   "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWjRcj8Bn8kWovv1-oDjSP61hMxx5U8u28qVJSPdP7mRBCNbs5EJjjDrWWk7SFC2FraZe_j3T-oouRqSRtoTr-YMPGGuOphIGNRj4-Fx0eVgMahD3-L62vWUxYLg7TpH7plqVqnAb1e3k0-G8Vertd-WUyt994d-nJKA8bcY9QozeWJ6ad4ozwVOf0fnE/s1600/geone.gif",
@@ -16601,6 +16646,15 @@
     "summary": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities.\n\n\"The payloads are pr\u2026",
     "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies"
   },
+  "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv9oZ7uWtniIGlzNM3FXdS2v4WjdHi8ajTw0evMWbzhC9ihnkOwrxAqV7sgJou4SMDrJo2z5uDOQPRX1Bb0Hx1P1Str7iZQ4wssATmqsb6o0IfOPafzmnX6UXgkweBDB_QKqBVJZsNdMibEvAykjIzluSiJEnxnhFehzw-q2bhZ7heCFv97on69dZMjPrb/s1600/kiteworks.jpg",
+    "published": "2026-09-29T14:13:20+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown.\n\n\"Du\u2026",
+    "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown"
+  },
   "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv53vaJYNeZNicsGcrBICKzTEXfHanPN-VR6-pTFsSJEV2IGpJn2MainwfMgqV2k96VN_ocXYLbmykTSVpwTPZr16tauFV37hU3g-lA4X31aqJQFYIsdwlHwNUIhNn9euB8SddL8d7wRKa7Ira2vNi51WNHyJivZ2Z3kkRDcAZtCQfSyvZHNLrZbqbF7jr/s1600/kite.jpg",
@@ -16609,6 +16663,15 @@
     "source": "The Hacker News",
     "summary": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent c\u2026",
     "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack"
+  },
+  "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHy63Qp6WLBgRhCGaWARbZzjcdu6DhFo9JxZXTE9Rt4B42ImiW_cB0Fdq2yV_HYiZohMmVMRxTu1DxcbiOE9GNu4lAF2HZZ61QiCrWSEKGJFjEt5E5pKpXhjGK9DsZrqTxHFqF2IIaToRSTItghSELEiA_kgTP69_iOwbHdT35ht3yLCqIiNb5ysgDeuM/s1600/push-phish.jpg",
+    "published": "2026-09-30T11:58:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Know Your Enemy: Browser-Based Attack Techniques in 2026 Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire attack ch\u2026",
+    "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026"
   },
   "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html": {
     "categories": [],
@@ -16817,6 +16880,15 @@
     "summary": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled.\n\nThe \u2026",
     "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory"
   },
+  "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCNHT9zDz8oOamcA5EH8a3KGAtk9R9bE_UxGY_uPThgxZJu9vX-YG1olbgiX5WBVdwDd52LpDfSyryC6GZ45tUi2bKLe_aWnbj0Ir3WQZeGYF8Vr7U7icoPn4tcuwfpOZagVfry-KG5_jzLPb-fbPiFBlv142UOgqAPpC193t6BslvCE1l1XWo2z5_mFYV/s1600/linux-intel.jpg",
+    "published": "2026-09-29T17:20:17+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtim\u2026",
+    "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses"
+  },
   "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLyhHupZwRy1pOQzT93Qhs5waZ8gqtlgDJUKgt1f37dz3KqIDDZY8uNo8QguZNccBHivdA_ecnY8cQUyhZQAvLH4APu3imxP-rwo2dYLZtKnJ92IkRPFmwepmJgRk9GrLrJiN_IbInwvNXaW7N5761YfEB1IIK4uDdNBTy6Koz8uXgOSXaQWixXM1Wts/s1600/HAProxy.jpg",
@@ -16906,6 +16978,15 @@
     "source": "The Hacker News",
     "summary": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment aud\u2026",
     "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions"
+  },
+  "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0Po53IuyRAhsYzbs5KKPp_UBpklONBiOzoLWgXrklvrgDn5xnpjuRjU8UYoyLuImSmiPtOHQK3ExgQk5zhxlqsAcUmTLRFowkQXzan2RD955Gw-sumsvmwzLBTViUBRhyphenhyphenHCnETV23Qbt01RwaovTe1ogMeMYDSGxmF5n84NKZOB3EiWz6VAHUlfDm5YE/s1600/openssl-memory.jpg",
+    "published": "2026-09-30T08:09:28+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program,&nbsp;OpenSSL said&nbsp;on September 29 as it released fixes.\n\nDTLS, the TLS variant used for \u2026",
+    "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted"
   },
   "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html": {
     "categories": [],
@@ -17113,6 +17194,15 @@
     "source": "The Hacker News",
     "summary": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve.\n\nT\u2026",
     "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection"
+  },
+  "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQDuuJUT-WU7XzUYYoKEDtFKt7QAra8I4G0ptQRyveku8G6fD6R0aSWw32hi-2fd0L28qUxjqJoTlQoJbLiBYH6NBOVYirQZ9LfH-UvD8JG5uiL_m4ZkBVnPLiArcivCsdMNegW1XGxFEzas4cwkzFVeY4r22qTqSp2U1Fo3Nw7urOlnWRKGFHW8pW91E/s1600/ms-invite.jpg",
+    "published": "2026-09-29T17:20:08+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers,&nbsp;according to Microsoft.\n\nT\u2026",
+    "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor"
   },
   "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html": {
     "categories": [],
@@ -17383,6 +17473,15 @@
     "source": "The Hacker News",
     "summary": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram cha\u2026",
     "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto"
+  },
+  "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5fq_zpvT8d0bG8IIotVRgIHIXCNOTPBhfIBUIWxLlg1X4bDmzf0PRgt_0UaHhvTIznPU4nOCCuLJ6JbJ3Tx22FPY2Ox93L_HNhA7XjQEvOcsXfw3NIixeGcy9DywlAx_SuEhCM6DRjgP3NBQrdHnJrFOCEFHFR8bFyF4YFWYtYEuPbG7kvWrgAsotLWI/s1600/rmm.jpg",
+    "published": "2026-09-30T10:45:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, governm\u2026",
+    "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access"
   },
   "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html": {
     "categories": [],
@@ -20320,6 +20419,18 @@
     "summary": "Microsoft is retiring the Lens scanner app for iOS, Android Microsoft has started retiring the Microsoft Lens PDF scanner app for Android and iOS devices on Friday, January 9th, with plans to remove it from app stores next month. [...]",
     "title": "Microsoft is retiring the Lens scanner app for iOS, Android"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-09-30T00:40:57+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft is rolling out Linux container support to WSL Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]",
+    "title": "Microsoft is rolling out Linux container support to WSL"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2026-patch-tuesday-fixes-3-zero-days-114-flaws/": {
     "categories": [
       "Microsoft",
@@ -22134,6 +22245,18 @@
     "source": "BleepingComputer",
     "summary": "Windows 10 update bug triggers incorrect end-of-support alerts \u200bMicrosoft says the October 2025 updates trigger incorrect end-of-support warnings on Windows 10 systems with active security coverage or still under active support. [...]",
     "title": "Windows 10 update bug triggers incorrect end-of-support alerts"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-09-29T17:37:40+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 2026 Update released, here's everything you need to know Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]",
+    "title": "Windows 11 2026 Update released, here's everything you need to know"
   },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/": {
     "categories": [
@@ -23955,6 +24078,18 @@
     "summary": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins An international operation from law enforcement authorities in partnership with private companies has disrupted FrostArmada, an APT28 campaign hijacking local traffic from MikroTik and TP-Link routers to st\u2026",
     "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins"
   },
+  "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-09-29T15:39:19+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Automated AI agent used to breach cybersecurity nonprofit DIVD The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
+    "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD"
+  },
   "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/": {
     "categories": [
       "Security"
@@ -24190,6 +24325,18 @@
     "source": "BleepingComputer",
     "summary": "\u201cBitcoin Queen\u201d gets 11 years in prison for $7.3 billion Bitcoin scam A Chinese woman\u00a0known as the \"Bitcoin Queen\" was sentenced in London to 11 years and eight months in jail for laundering Bitcoin from a \u00a35.5 billion ($7.3 billion) cryptocurrency investment scheme. [...]",
     "title": "\u201cBitcoin Queen\u201d gets 11 years in prison for $7.3 billion Bitcoin scam"
+  },
+  "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-09-30T11:11:46+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Bitget hacked via zero-day in third-party security products Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]",
+    "title": "Bitget hacked via zero-day in third-party security products"
   },
   "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/": {
     "categories": [
@@ -24541,6 +24688,17 @@
     "source": "BleepingComputer",
     "summary": "Carnival Cruise confirms data breach affecting nearly 6 million people Carnival Corporation, the world's largest cruise line operator, has confirmed a data breach affecting nearly 6 million people claimed by the ShinyHunters extortion gang in April 2026. [...]",
     "title": "Carnival Cruise confirms data breach affecting nearly 6 million people"
+  },
+  "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-29T14:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Catch threats before they escalate with real-time Identity Telemetry Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams inve\u2026",
+    "title": "Catch threats before they escalate with real-time Identity Telemetry"
   },
   "https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/": {
     "categories": [
@@ -27476,6 +27634,17 @@
     "summary": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findin\u2026",
     "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes"
   },
+  "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-29T20:59:39+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
+    "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware"
+  },
   "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/": {
     "categories": [
       "Security"
@@ -29253,6 +29422,17 @@
     "summary": "FBI takedown of W3LL phishing service leads to developer arrest The FBI\u00a0Atlanta Field Office and Indonesian authorities have dismantled the \"W3LL\" global phishing platform, seizing infrastructure and arresting the alleged developer in what is described as the first coordinated en\u2026",
     "title": "FBI takedown of W3LL phishing service leads to developer arrest"
   },
+  "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-29T20:09:55+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "FBI tells ShinyHunters members to turn themselves in after recent arrest The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
+    "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest"
+  },
   "https://www.bleepingcomputer.com/news/security/fbi-warns-about-kimsuky-hackers-using-qr-codes-to-phish-us-orgs/": {
     "categories": [
       "Security"
@@ -29600,6 +29780,17 @@
     "source": "BleepingComputer",
     "summary": "Former ransomware negotiator pleads guilty to BlackCat attacks 41-year-old Angelo Martino, a former employee of cybersecurity incident response company DigitalMint, has pleaded guilty to targeting U.S. companies in BlackCat (ALPHV) ransomware attacks in 2023. [...]",
     "title": "Former ransomware negotiator pleads guilty to BlackCat attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-29T18:09:39+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Former US Air Force members sent to prison over BEC attacks Two former members of the United States Air Force were sentenced to a combined 189 months in federal prison for their roles in a multi-year series of business email compromise (BEC) scams and phishing campaigns. [...]",
+    "title": "Former US Air Force members sent to prison over BEC attacks"
   },
   "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/": {
     "categories": [
@@ -31435,6 +31626,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin Hackers are leveraging a critical authentication bypass vulnerability in the WordPress plugin Burst Statistics to obtain admin-level access to websites. [...]",
     "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-29T18:37:12+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit Citrix NetScaler zero-day to deploy web shells Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
+    "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/": {
     "categories": [
@@ -36460,6 +36662,19 @@
     "summary": "New SonicWall SonicOS flaw allows hackers to crash firewalls American cybersecurity company SonicWall urged customers today to patch a high-severity SonicOS SSLVPN security flaw that can allow attackers to crash vulnerable firewalls. [...]",
     "title": "New SonicWall SonicOS flaw allows hackers to crash firewalls"
   },
+  "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/": {
+    "categories": [
+      "Security",
+      "Hardware",
+      "Linux"
+    ],
+    "image": "",
+    "published": "2026-09-29T17:10:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "New Spectre v2 attack variant leaks Linux root password hash in minutes A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
+    "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes"
+  },
   "https://www.bleepingcomputer.com/news/security/new-spiderman-phishing-service-targets-dozens-of-european-banks/": {
     "categories": [
       "Security"
@@ -39750,6 +39965,18 @@
     "summary": "SickKids data breach exposes employee and job applicant info Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clini\u2026",
     "title": "SickKids data breach exposes employee and job applicant info"
   },
+  "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/": {
+    "categories": [
+      "Security",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-09-29T21:30:08+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Signal adds encypted local backup support to iOS, desktop apps Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
+    "title": "Signal adds encypted local backup support to iOS, desktop apps"
+  },
   "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/": {
     "categories": [
       "Security"
@@ -40555,6 +40782,17 @@
     "source": "BleepingComputer",
     "summary": "TeamPCP hackers advertise Mistral AI code repos for sale The TeamPCP hacker group is threatening to leak source code from the Mistral AI project unless a buyer is found for the data. [...]",
     "title": "TeamPCP hackers advertise Mistral AI code repos for sale"
+  },
+  "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-30T12:25:10+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "TeamViewer urges users to patch severe flaws \u201cas soon as possible\u201d Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]",
+    "title": "TeamViewer urges users to patch severe flaws \u201cas soon as possible\u201d"
   },
   "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/": {
     "categories": [
@@ -45107,6 +45345,15 @@
     "summary": "'TrustFall' Convention Exposes Claude Code Execution Risk Malicious repositories can trigger code execution in Claude Code, Cursor CLI, Gemini CLI, and CoPilot CLI with minimal or no user interaction, thanks to skimpy warning dialogs.",
     "title": "'TrustFall' Convention Exposes Claude Code Execution Risk"
   },
+  "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8798a931788fea60/6abc103774949935866a41da/sloth-webguzs-GettyImages-2249770137.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-29T21:08:42+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting.",
+    "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution"
+  },
   "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33b13b556aa2e63e/6aa1a92888ea9adc3dabaf29/distillery-ArtistGNDphotography-GettyImages-2195175104.jpg?width=720&quality=80&disable=upscale",
@@ -45268,6 +45515,15 @@
     "source": "darkreading",
     "summary": "Attackers Use Stolen AWS Credentials in Cryptomining Campaign Threat actors wielding stolen AWS Identity and Access Management (IAM) credentials leverage Amazon EC and EC2 infrastructure across multiple customer environments.",
     "title": "Attackers Use Stolen AWS Credentials in Cryptomining Campaign"
+  },
+  "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+    "published": "2026-09-29T17:02:16+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web Automated certificates for everyone, built for today, and hardened for the era of quantum computing.",
+    "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web"
   },
   "https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure": {
     "categories": [],
@@ -47199,6 +47455,15 @@
     "summary": "Anthropic Users Hit by Infostealer Attacks, Session Thefts A threat actor used a variety of infostealers to collect session information and access Claude accounts belonging to an unknown number of users.",
     "title": "Anthropic Users Hit by Infostealer Attacks, Session Thefts"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd977dfac5d79a983/6abc2f1fdbde378922f45c35/apple_tetrisfun_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-29T21:31:29+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.",
+    "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zero-day-end-of-life-d-link-routers": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdf7602b12704fd43/695eca6a055b63442c4f4065/eol_Colored_Lights_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -48426,6 +48691,15 @@
     "source": "darkreading",
     "summary": "SonicWall Firewall Backups Stolen by Nation-State Actor The network security vendor said the MySonicWall breach was unrelated to the recent wave of Akira ransomware attacks targeting the company's devices.",
     "title": "SonicWall Firewall Backups Stolen by Nation-State Actor"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4eff7c6bb4fca152/6abc296fa6381769c5d9ff08/johannesburg-airport-south-africa-EQRoy-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-30T07:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control As aviation infrastructure suffers more cyberattacks, air traffic systems are the latest target, with a ransomware toolkit installed on at least one operational network.",
+    "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/storm-0249-edr-processes-stealthy-attacks": {
     "categories": [],
@@ -52025,6 +52299,15 @@
     "summary": "'MuddyWater' Hackers Target Israeli Orgs With Retro Game Tactic Iran's top state-sponsored APT is usually rather crass. But in a recent spate of attacks, it tried out some interesting evasion tactics, including delving into Snake, an old-school mobile game.",
     "title": "'MuddyWater' Hackers Target Israeli Orgs With Retro Game Tactic"
   },
+  "https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt587de2f4ce0cd974/6abba097ef266a69c6555f1a/Valentin_Baciu-preying-mantis-shutterstock.png?width=720&quality=80&disable=upscale",
+    "published": "2026-09-29T15:12:39+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "'NeedyMantis' Provides Long-Term Access to Compromised Networks Microsoft observed a China-based actor using a previously unidentified malware framework in targeted intrusions against telcos, universities, medical, and government-related organizations.",
+    "title": "'NeedyMantis' Provides Long-Term Access to Compromised Networks"
+  },
   "https://www.darkreading.com/threat-intelligence/nist-cutbacks-nvd-handling-impacts-cyber-teams": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf63750cb2e1d5266/69e26d60df4579bd291869e2/NIST_HQ_Grandbrothers_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -53165,6 +53448,15 @@
     "source": "darkreading",
     "summary": "N-able Bug Exposes Password Vault Master Keys The popular &quot;Passportal&quot; password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?",
     "title": "N-able Bug Exposes Password Vault Master Keys"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5de91a8011e409dc/68ae00c0ae4a7a4290bef1c1/citrix_JHVEPhoto_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-29T14:19:43+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers The critical vulnerabilities, which impact default configurations of NetScaler products, essentially give attackers a skeleton key to customers' networks.",
+    "title": "Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers"
   },
   "https://www.darkreading.com/vulnerabilities-threats/new-raptor-framework-uses-agentic-ai-create-patches": {
     "categories": [],
