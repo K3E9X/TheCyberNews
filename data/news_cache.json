@@ -15737,6 +15737,24 @@
     "summary": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread&nbsp;Shai-Hulud&nbsp;across about 100 internal cod\u2026",
     "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories"
   },
+  "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-E2KBc2Kl1xfsJ_ayeCwrbYODEJELskOif8C_YQFyt7DoGklZczzFD3IetvE9mFBUeQN9SQWCE41WtJA-NkE6dya1xAOznACZzeRCMRhvfSQaGipfmD-z1F2rWFPFGLvYSJwrfKhUrbdzwMc_b4OkpTA8huBozpABL2OBcxCM1cod7Hvr0eH23GgE1sEo/s1600/custom-gpt.jpg",
+    "published": "2026-09-30T15:00:15+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.\n\nHuntress, which \u2026",
+    "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures"
+  },
+  "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOOpLuI3TSRRvKO7zux2AsJKVNjC36RcaAJCYelekCSQRhpMSABekI8kmMGLZRBZN2biNqDGyKYY_0AqsXb2PMKS6M3sjeLBlt7UQ_IWhXPQ3_q9DGhetIgFeGkF1d_ZE-l2HZPTDID5FkqdLsv3G_wJ-Yckb-Q2I6FdCLo3-AS-pPbCIDRfgFiRzofpaA/s1600/windows-rmm.jpg",
+    "published": "2026-09-30T16:32:59+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software updat\u2026",
+    "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks"
+  },
   "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4sbUEhtXF9n1_8s2f6ChnKMmjUv4Ht-DvEtZyLDPuSNhKFoi41aNlu3-u5kJLXUva81rNFwlsprMXE11cnbXc_es968eO-ANvWm0j1Cyi9SaoVUfneQqNINCR7lRs3qkkYdsSoyMu34Mgxs7B4pKclAt4atPw8B-RCFOTChtgeji9NTes_NEdZ2KKu2_/s1600/jet.jpg",
@@ -15844,6 +15862,15 @@
     "source": "The Hacker News",
     "summary": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure.\n\nThe vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an una\u2026",
     "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure"
+  },
+  "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxFzgwNCn6YTNDvFIlEUKsnNOR9Y8UF__1rQ8N5BuMTKmJRPs-d_ilYcoeXwb03y07EXxnGyf5Ka8gyrKbFtzM2GoqYfrp79A-ZwHZyQDHEIU9twKFM67Glqk8eE4_j3fiHxNnPFl0euvHnKKfrmTd2aKcsMnebFQ4z73INLZfIdT66yH3MV5vOIBaMV5/s1600/zimbra-email.jpg",
+    "published": "2026-09-30T16:46:29+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Rese\u2026",
+    "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets"
   },
   "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html": {
     "categories": [],
@@ -16114,6 +16141,15 @@
     "source": "The Hacker News",
     "summary": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-20\u2026",
     "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution"
+  },
+  "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDRBMRmTwQer5G9fB3V6UvczV_QEpVLnIpRMEjpkiSKOC1vvem-ZkM9zP2vgBIYDlH-jveY5oeV2qcYJ2YiVD1-z1q4bJNBrPYpewyUqOOgbl89xV3JCsQeor1fhrWLS6EEvtNCIHlyuNB8jRnDzqdO9bQZ4hNN0yvEE6ceXw0A43onar4xorpsnM1qog/s1600/cisco-admin.jpg",
+    "published": "2026-09-30T15:24:54+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on Sept\u2026",
+    "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager"
   },
   "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html": {
     "categories": [],
@@ -17644,6 +17680,78 @@
     "source": "The Hacker News",
     "summary": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog,\u2026",
     "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access"
+  },
+  "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5u07cHr0A83x9aQdJE-_Emw6K1GzjR2eybdv9Rq_qi43Oi-M2U4eWqCkjvH5fUhw5wKSa-rvQ81gePKLYCqJXyrZpWHXOehEFq_QaTdYpy0O3LLUQGGYn1pxlUGUXwplloAHT3ZP7oMcF6al9A7q9XfnYNUhtBD0qw-GOWuKiyZl8zbrudyjWtEzHXC0/s1600/apple-whatsapp.jpg",
+    "published": "2026-10-01T05:54:41+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals\u2026",
+    "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path"
+  },
+  "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzu32AOghfPrV4ViB5puy-1o8shfq77FdmxU5eS9i4x8SCLNzm6xQYn56KGKivAGFoIwa3yYWat5vZMQsdOqPp0ZoEcVst6fs3llaB88jz1IcH6ctmEUEoXcCQOWJs599jVZDnNlHYYww22fnm6KnorG7q16rSGcx3P_Isku8NOODjdV4A5Dee4HiPnmu7/s1600/crypto-theft.jpg",
+    "published": "2026-10-01T05:21:10+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation finding\u2026",
+    "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft"
+  },
+  "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8jgm3LMY2zr1S1DmXnvVEPDiTKYR5FXHW7q_6duG1lVPhzbW2ZfJwRM9glqAJrQhBX3HAAiksz-tUpRN4pfT9VWHUksa-1SgHZmKcNUd1tJfsyFiwhtezZN_zBM_cEmqjkECI_2gfWhnqZ1ry2hgDou-qQCB21zbl1RzYN9JB0bRjqzhB2m6gBomg-ow9/s1600/cisa-wan.jpg",
+    "published": "2026-10-01T10:33:16+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), fol\u2026",
+    "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV"
+  },
+  "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAuODp7WTARNyJa6hiyuveQ1LUgYlaYQXGDDfRAYUA7Zkwwb7vMriA7VIh5HmBJwWWR0kALhQkijvT43ke2ajjOQHk6YxQb2rAgsB0PYcbMKPdm-JezjILBH8j3kY29iATKhZLQhVIyAjwNj9XFBTeenqPCHM1AzKMKRCVlMME3jQs5yIYSoVtrbRnVSY7/s1600/citrix-css-shell.jpg",
+    "published": "2026-10-01T04:35:34+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt the\u2026",
+    "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs"
+  },
+  "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYk4zu5KwFghyphenhyphenGNFmUKfmtScZfRpYSwO3huCn6VYY6EiFZH7t7zWwr6Agn-AqOHA19-uc6wQMnoOHXGY3V8F2ZWfxoTNiTp8VV1ePAvDGYlW3ocD8tXLN-tPuqvzwf7YRX9CXl1_Zj2b0ZcMqbZAo_5Ut3uG3gTTEXTCVxJyyTtcUlbfwXkdqCu8PpY4l6/s1600/gemini-4.jpg",
+    "published": "2026-10-01T07:49:36+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind\u2026",
+    "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version"
+  },
+  "https://thehackernews.com/2026/10/how-financial-services-companies-can.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwJsDvv_9QEV86mmDsIBPpGS2Kt2o8WPu2L6kUb9IExDqX-2lDKksEMMJp3NqFwDUqplX6JCeUpJfI_8rt_febX1CjMorRii_RpDccPPynWQHW_abdrNSWj774Ad0XH-RmiP-Lzki-Btsu6mh1cUsIffeSIOfUQ29qEJJwBTsaL-olM3GK18D2LYoxJlg/s1600/chain.png.jpg",
+    "published": "2026-10-01T11:45:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "How Financial Services Companies Can Modernize Their Software Supply Chain Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade\u2026",
+    "title": "How Financial Services Companies Can Modernize Their Software Supply Chain"
+  },
+  "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1600/metamask-main.jpg",
+    "published": "2026-10-01T05:10:09+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators MetaMask on Thursday said it's responding to what it described as an \"ongoing security incident\" impacting part of its infrastructure.\n\n\"We are actively addressing and remediating the issue internally, in coo\u2026",
+    "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators"
+  },
+  "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVoOullmVukPDhwbQ10zXHA-IqDVeMp55dybdLAhT-kkPDdJADbw8BETggWjHN3WF4HHpXLV8RDk4jHLVYlS9wWxZcbHMtEGGfGu-dGv2lFRzv3lJ1csgozieAguSQeE2Nhw5ZXBi1YIjaBbF5Al_kakh4wNXfjr4PJ-Q4QZxaHm4_Lha_aMxdQ3NPKRm0/s1600/moonshot.jpg",
+    "published": "2026-10-01T10:42:36+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models.\n\nA \"cor\u2026",
+    "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/": {
     "categories": [
@@ -19856,6 +19964,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Emergency Windows 10 update fixes ESU enrollment bug Microsoft has released an emergency out-of-band update to address a known issue preventing Windows 10 users from enrolling in the Extended Security Updates (ESU) program. [...]",
     "title": "Microsoft: Emergency Windows 10 update fixes ESU enrollment bug"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-10-01T11:14:28+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft enables Windows settings backup by default for orgs Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
+    "title": "Microsoft enables Windows settings backup by default for orgs"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/": {
     "categories": [
@@ -23328,6 +23447,17 @@
     "summary": "AI 'watermark removers' flood the web. Almost none can prove they work. Multiple 'watermark removers' have surfaced days after Anthropic began watermarking text generated by Claude, including an open source project with over 4,500 GitHub stars and paid AI detection evasion servic\u2026",
     "title": "AI 'watermark removers' flood the web. Almost none can prove they work."
   },
+  "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-30T14:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their\u2026",
+    "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents"
+  },
   "https://www.bleepingcomputer.com/news/security/aisuru-botnet-behind-new-record-breaking-297-tbps-ddos-attack/": {
     "categories": [
       "Security"
@@ -25993,6 +26123,18 @@
     "summary": "CISA warns of critical CentOS Web Panel bug exploited in attacks The U.S. Cybersecurity & Infrastructure Security Agency (CISA) is warning that threat actors are exploiting a\u00a0critical remote command execution flaw in CentOS Web Panel (CWP). [...]",
     "title": "CISA warns of critical CentOS Web Panel bug exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/": {
+    "categories": [
+      "Security",
+      "Hardware"
+    ],
+    "image": "",
+    "published": "2026-09-30T15:49:29+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
+    "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/": {
     "categories": [
       "Security"
@@ -26397,6 +26539,17 @@
     "source": "BleepingComputer",
     "summary": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks Cisco is warning that a critical Catalyst SD-WAN Controller authentication bypass flaw, tracked as CVE-2026-20182, was actively exploited in zero-day attacks that allowed attackers to gain administrative privil\u2026",
     "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-30T14:46:40+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Cisco warns of new SD-WAN zero-day exploited in attacks Cisco\u00a0released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as\u00a0CVE-2026-76504) that attackers are actively exploiting to\u00a0escalate to admin privileges. [...]",
+    "title": "Cisco warns of new SD-WAN zero-day exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/": {
     "categories": [
@@ -28094,6 +28247,18 @@
     "source": "BleepingComputer",
     "summary": "Disney will pay $10 million to settle children's data privacy lawsuit Disney has agreed to pay a $10 million civil penalty to settle claims that it violated the Children's Online Privacy Protection Act by mislabeling videos and allowing data collection for targeted advertising. [\u2026",
     "title": "Disney will pay $10 million to settle children's data privacy lawsuit"
+  },
+  "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-09-30T19:49:15+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "DIVD says Zammad zero-days enabled AI-driven network breach The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
+    "title": "DIVD says Zammad zero-days enabled AI-driven network breach"
   },
   "https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/": {
     "categories": [
@@ -31471,6 +31636,17 @@
     "summary": "Hackers breach govt webmail while running parallel crypto fraud The\u00a0Jewelbug hacker group\u00a0has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]",
     "title": "Hackers breach govt webmail while running parallel crypto fraud"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-01T09:44:28+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers stole Pentagon personnel records of over 3 million people The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [\u2026",
+    "title": "Hackers stole Pentagon personnel records of over 3 million people"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-breach-smartertools-network-using-flaw-in-its-own-software/": {
     "categories": [
       "Security"
@@ -33544,6 +33720,17 @@
     "summary": "Kiteworks patches critical flaw, brings customer systems online American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
     "title": "Kiteworks patches critical flaw, brings customer systems online"
   },
+  "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-01T13:51:08+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Kiteworks patches max severity code injection vulnerability Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
+    "title": "Kiteworks patches max severity code injection vulnerability"
+  },
   "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/": {
     "categories": [
       "Security"
@@ -34698,6 +34885,18 @@
     "summary": "Over 20,000 Instagram accounts stolen in Meta AI support hack Meta has revealed that 20,225 Instagram users had their accounts hijacked in a recent incident where attackers\u00a0used Meta's AI-powered support system to reset passwords. [...]",
     "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack"
   },
+  "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-10-01T07:33:57+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Metamask discloses security incident affecting its infrastructure On Thursday, cryptocurrency wallet provider MetaMask has disclosed an ongoing infrastructure security incident affecting some of its infrastructure. [...]",
+    "title": "Metamask discloses security incident affecting its infrastructure"
+  },
   "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/": {
     "categories": [
       "Security"
@@ -35019,6 +35218,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft Teams will let admins block custom file extensions Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet\u00a0their company's security requirements. [...]",
     "title": "Microsoft Teams will let admins block custom file extensions"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-09-30T13:37:15+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft to block Entra ID script injection attacks starting October Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
+    "title": "Microsoft to block Entra ID script injection attacks starting October"
   },
   "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/": {
     "categories": [
@@ -37789,6 +38000,17 @@
     "summary": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
     "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain"
   },
+  "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-30T18:08:34+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Over 543,000 valid credentials exposed in public GitHub repositories More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
+    "title": "Over 543,000 valid credentials exposed in public GitHub repositories"
+  },
   "https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/": {
     "categories": [
       "Security"
@@ -39416,6 +39638,17 @@
     "summary": "Manager of botnet used in ransomware attacks gets 2 years in prison A Russian national has been sentenced to two years in prison after admitting that the phishing botnet he managed was used to launch BitPaymer ransomware attacks against 72 U.S. companies. [...]",
     "title": "Manager of botnet used in ransomware attacks gets 2 years in prison"
   },
+  "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-09-30T20:34:01+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Russian state hackers use new RedFlick technique to push malware The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
+    "title": "Russian state hackers use new RedFlick technique to push malware"
+  },
   "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/": {
     "categories": [
       "Security"
@@ -40958,6 +41191,17 @@
     "source": "BleepingComputer",
     "summary": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls Your security controls aren't failing, they're missing where most of today's work actually happens. Keep Aware shows how browser activity like copy/paste and AI prompts bypass traditional protections. [...]",
     "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-01T14:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "The Day-One Hole in Zero Trust Architecture Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begin before credent\u2026",
+    "title": "The Day-One Hole in Zero Trust Architecture"
   },
   "https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/": {
     "categories": [
@@ -47171,6 +47415,15 @@
     "summary": "TransUnion's Real Networks Deal Focuses on Robocall Blocking The acquisition allows the credit reporting agency to add SMS spam and scam prevention to its robocall blocking capabilities.",
     "title": "TransUnion's Real Networks Deal Focuses on Robocall Blocking"
   },
+  "https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted75aa7be03abe55/6abd84dda482eccacf21ff51/whitehouse_VideoFlow_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-30T20:51:15+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Trump, Tech Giants Strike Voluntary AI Safety Accord The new White House Accord on so-called &quot;Super Intelligence&quot; calls on companies to implement greater controls and oversight over AI safety.",
+    "title": "Trump, Tech Giants Strike Voluntary AI Safety Accord"
+  },
   "https://www.darkreading.com/cyber-risk/uk-social-media-ban-privacy-experts-worried": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt383eb6c33af28ca3/6a31c223a9a64d0008e86652/social-media-ban-UK-Samuel_Boivin-shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -48284,6 +48537,15 @@
     "summary": "'Lorem Ipsum' Malware Pivots to ClickFix Delivery New analysis shows the campaign, which uses compromised WordPress sites, may be linked to the ransomware and data extortion group Vice Society.",
     "title": "'Lorem Ipsum' Malware Pivots to ClickFix Delivery"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38e8d6d5f0f61c59/6abd6454845395465ad1a6df/rat-GlobalP-GettyImages-1413873422.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-09-30T21:25:47+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users.",
+    "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/malicious-nextjs-repos-developers-fake-job-interviews": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1451fb532a165f33/699ee8725a46010008b62fb3/developer-everythingpossible-AdobeStock.png?width=1280&auto=webp&quality=80&disable=upscale",
@@ -48850,6 +49112,15 @@
     "summary": "Vision Language Models Keep an Eye on Physical Security Advancements in vision language models expanded models reasoning capabilities to help protect employee safety.",
     "title": "Vision Language Models Keep an Eye on Physical Security"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9bb24e8bd32cc751/6abd41d4a6381712feda02db/Warlock-Grandfailure-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-01T13:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs A year-old Chinese threat actor looks like a cybercrime gang, acts like a state-associated APT, and attacks organizations in unexpected places.",
+    "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/why-better-breach-transparency-matters": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8573343ff854f3db/69a1b3609de4893702ecb220/Breach_NicoElNino_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -49038,6 +49309,15 @@
     "source": "darkreading",
     "summary": "What Will Make AI BOMs Real? A brief overview of the forces at play that will get more organizations on board with creating and consuming AI bill of materials (BOMs).",
     "title": "What Will Make AI BOMs Real?"
+  },
+  "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+    "published": "2026-09-30T18:56:56+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half New Swimlane research underscores a paradox: While AI detection and response is essential to giving defenders an edge, one in four security pros say AI limits their skill devel\u2026",
+    "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half"
   },
   "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market": {
     "categories": [],
@@ -52469,6 +52749,15 @@
     "source": "darkreading",
     "summary": "Russia's Forest Blizzard Nabs Rafts of Logins Via SOHO Routers Heard of fileless malware? How about malwareless cyber espionage? Russia's APT28 is spying on global organizations by modifying just one DNS setting in vulnerable routers.",
     "title": "Russia's Forest Blizzard Nabs Rafts of Logins Via SOHO Routers"
+  },
+  "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6f6d60565804fe81/6abcff0189b51bddd40e0d6e/snowflakes-Ulrick-T-Alamy.png?width=720&quality=80&disable=upscale",
+    "published": "2026-09-30T15:02:25+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net The APT actor is using a new tactic, dubbed &quot;RedFlick,&quot; against Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy its CosmicPulse backdoor.",
+    "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net"
   },
   "https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught": {
     "categories": [],
