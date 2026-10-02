@@ -17681,6 +17681,15 @@
     "summary": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog,\u2026",
     "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access"
   },
+  "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5MS0sgdeAX_o_HWccABZaieMupy9x1vp2YHXeUfCod9bQMOAfEufGcm59eXhz4cQnwur_AjUhL1ER6FkR4nacwK2pn8K8ojfyZ254B_1Jfjk1OXwBi4VzqhPXgHukmnvVP5ItRHUeez8TcJVXvPlXRBIj0-h6YrI0rhn1G6RFyeZPT9jJf6y4Ng8D_1OD/s1600/android17.jpg",
+    "published": "2026-10-02T08:01:30+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is en\u2026",
+    "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools"
+  },
   "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5u07cHr0A83x9aQdJE-_Emw6K1GzjR2eybdv9Rq_qi43Oi-M2U4eWqCkjvH5fUhw5wKSa-rvQ81gePKLYCqJXyrZpWHXOehEFq_QaTdYpy0O3LLUQGGYn1pxlUGUXwplloAHT3ZP7oMcF6al9A7q9XfnYNUhtBD0qw-GOWuKiyZl8zbrudyjWtEzHXC0/s1600/apple-whatsapp.jpg",
@@ -17717,6 +17726,15 @@
     "summary": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt the\u2026",
     "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs"
   },
+  "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhcZguz-U3FsSD6t4YQ45EeFbgnWAy9lM28OAFydsLXZYzOS00aOD7pxUZcgvLMfMAO3SJV_Amu9SoNezLNQOvx823Z92CpqC5ow9XO3d7HJhEKZlwQt4H4Z7kirDwGcSrUyi1ONs_PuULNYjEjzae2c1mncDviOT9iqxD-PhmXCYpulTUNO2rtW5c9AAx/s1600/fortimail.jpg",
+    "published": "2026-10-02T05:49:50+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KE\u2026",
+    "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes"
+  },
   "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYk4zu5KwFghyphenhyphenGNFmUKfmtScZfRpYSwO3huCn6VYY6EiFZH7t7zWwr6Agn-AqOHA19-uc6wQMnoOHXGY3V8F2ZWfxoTNiTp8VV1ePAvDGYlW3ocD8tXLN-tPuqvzwf7YRX9CXl1_Zj2b0ZcMqbZAo_5Ut3uG3gTTEXTCVxJyyTtcUlbfwXkdqCu8PpY4l6/s1600/gemini-4.jpg",
@@ -17752,6 +17770,51 @@
     "source": "The Hacker News",
     "summary": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models.\n\nA \"cor\u2026",
     "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates"
+  },
+  "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvjuuIAEhjBjrbXQna97zki-AKSZ9hVcu2CHSFRronvsVxEcHsfg66bldy7UzBETlNj1wTjKhkE11aFSmOxTjmR-XVp7qwzM2rBM745vy0Jy2n_CDoWQowbrzcQ7pVMubxWXNxVhOptHQiV5nMSGf24ZpI2wdpr40A0ez16cO3IH6peI6A2L07_UuOHbaJ/s1600/openai-servers.jpg",
+    "published": "2026-10-02T12:23:15+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported.\n\n\"We have parted ways with\u2026",
+    "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling"
+  },
+  "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy6XYYOXNZNjc51viw5FvCk49pWIXCCRS6yr_hl0ZKdwhBWRfYrCQ7bM6AJZJdmI_W3AEz1V3X0DAP6k39KfgjlKFfB5JcFaKN9zzIl1-7c49Vnuaz55yhRXjdmY5K2kIPuY_-7624KyVHqkHzikJIi11iClljnXv_3i2X21JiRCMU8ElmiHiZdHVQ7ws/s1600/killsec-ransomware.jpg",
+    "published": "2026-10-01T16:55:57+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to\u2026",
+    "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers"
+  },
+  "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOZPv0LS8-qPBgL_d1m8BLNikw8psPt9qtB_HiFNoYnVwBacYvwz4DdEixukdlHcy7IXmUB9dI9E_Hcx48HJIL7sQzmDeextP-Y_tHO9SX51i_SditMkVsRgWxyMekufW3yZFn2jI9nf29y3JEM2a_yFv8iTLDb6d3r1roNsea_Yk5TWCiMcvkmE5ZbP6B/s1600/oct-threatsday.jpg",
+    "published": "2026-10-01T16:45:38+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people\u2026",
+    "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories"
+  },
+  "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0hKMtHvRqPQiVRgaUAvYQ1XOUA_EToiZ3Tx-v7pSvbqwlnoo7qr5jQ_5KJuYpRFW0MzE3bLPePNT-rn4m8bEz7eTMVysO0OcfFwNKKFgKIo6tiT0JKKauf9MFxYTet3LiqJ2lXxfxVuKzRIPloaGR-_bOUEXOz_-ONc3AXfHKZV-PhAW8wEfayC-iwZE/s1600/ciso-ready.jpg",
+    "published": "2026-10-02T11:30:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR conso\u2026",
+    "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report"
+  },
+  "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbdAzWwJ7WC6PL7vtBZDUWfVyYu9iIBlT3X5gZn-Yl9aRuZAEeW3RjEU81RQWsvH_7og6v7-somVgG-fR35drKy6bxLMcHdpJQAi6ydXw-m3oMxZ1hlDC7kr8Wsu0dOfRt6ZLEasAsYNGq-pzmQiBNWMbEBzqa9zYdAu16NtgIfDe3PpOvCVzGj6yFqmet/s1600/wordpress-exploit.jpg",
+    "published": "2026-10-01T14:37:35+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without ha\u2026",
+    "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/": {
     "categories": [
@@ -24220,6 +24283,17 @@
     "summary": "Automated AI agent used to breach cybersecurity nonprofit DIVD The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
     "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD"
   },
+  "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-01T20:52:50+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Autonomous AI agents tried to hack US, Canadian government websites Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
+    "title": "Autonomous AI agents tried to hack US, Canadian government websites"
+  },
   "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/": {
     "categories": [
       "Security"
@@ -30066,6 +30140,17 @@
     "summary": "Fortinet warns of critical FortiCloud SSO login auth bypass flaws Fortinet has released security updates to address two critical vulnerabilities in FortiOS, FortiWeb, FortiProxy, and FortiSwitchManager that could allow attackers to bypass FortiCloud SSO authentication. [...]",
     "title": "Fortinet warns of critical FortiCloud SSO login auth bypass flaws"
   },
+  "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-01T22:42:49+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable dev\u2026",
+    "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/": {
     "categories": [
       "Security"
@@ -35081,6 +35166,17 @@
     "summary": "Microsoft says backend change broke Teams Free chat and calls Microsoft is working to resolve a known issue that prevents some Microsoft Teams Free users from chatting and calling others. [...]",
     "title": "Microsoft says backend change broke Teams Free chat and calls"
   },
+  "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-01T19:32:47+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft says threat actors are ahead in the early AI race Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity whi\u2026",
+    "title": "Microsoft says threat actors are ahead in the early AI race"
+  },
   "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/": {
     "categories": [
       "Security"
@@ -35288,6 +35384,19 @@
     "source": "BleepingComputer",
     "summary": "Microsoft working on Defender patch for ShieldBreak zero-day Microsoft is working on a security patch for the \"ShieldBreak\" zero-day vulnerability disclosed last week by security researcher \"Nightmare Eclipse\" and now tracked as CVE-2026-69414. [...]",
     "title": "Microsoft working on Defender patch for ShieldBreak zero-day"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-10-02T09:29:56+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft\u2019s X account hacked in crypto pump-and-dump scheme On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
+    "title": "Microsoft\u2019s X account hacked in crypto pump-and-dump scheme"
   },
   "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/": {
     "categories": [
@@ -36533,6 +36642,17 @@
     "source": "BleepingComputer",
     "summary": "New 'Massiv' Android banking malware poses as an IPTV app A newly identified Android banking trojan named Massiv has been under active distribution across south Europe, disguised as an IPTV app. [...]",
     "title": "New 'Massiv' Android banking malware poses as an IPTV app"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-02T12:37:40+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Dell asks admins to patch max severity CSM flaws as soon as possible Dell has patched two maximum severity vulnerabilities in the Container Storage Modules (CSM) that connect Dell enterprise storage arrays to Kubernetes environments. [...]",
+    "title": "Dell asks admins to patch max severity CSM flaws as soon as possible"
   },
   "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/": {
     "categories": [
@@ -38560,6 +38680,17 @@
     "source": "BleepingComputer",
     "summary": "Europol-led crackdown on The Com hackers leads to 30 arrests A yearlong Europol-coordinated operation dubbed \"Project Compass\" has led to 30 arrests and 179 suspects being tied to \"The Com,\" an online cybercrime collective that targets children and teenagers. [...]",
     "title": "Europol-led crackdown on The Com hackers leads to 30 arrests"
+  },
+  "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-01T14:25:14+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's allege\u2026",
+    "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old"
   },
   "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/": {
     "categories": [
@@ -48465,6 +48596,15 @@
     "summary": "Japanese Firms Suffer Long Tail of Ransomware Damage Ransomware actors have targeted manufacturers, retailers, and the Japanese government, with many organizations requiring months to recover.",
     "title": "Japanese Firms Suffer Long Tail of Ransomware Damage"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte0fa3e38d4138a30/6abed0fa51ca57ceead99604/europol_PixelBiss_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-01T21:37:50+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Alleged KillSec Ransomware Mastermind a 16-Year-Old Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years.",
+    "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt006c86eb4bc5e69b/6a99c21172642e574d2f52ff/NDA-William_Potter-Getty.jpg?width=720&quality=80&disable=upscale",
@@ -52526,6 +52666,15 @@
     "source": "darkreading",
     "summary": "LongNosedGoblin Caught Snooping on Asian Governments New China-aligned APT group is deploying Group Policy to sniff through government networks across Southeast Asia and Japan.",
     "title": "LongNosedGoblin Caught Snooping on Asian Governments"
+  },
+  "https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6ae8adbdedb5109a/6abeaf448f0ddb6d837f64ef/Fake_mustache-Liudmila_Chernetska-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-02T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Malicious Linux Implants Mimic Asian Mail Security Products A trio of newly discovered backdoors walk and quack like legitimate edge solutions, so it's hard to tell they're not.",
+    "title": "Malicious Linux Implants Mimic Asian Mail Security Products"
   },
   "https://www.darkreading.com/threat-intelligence/malware-authors-incorporate-llms-evade-detection": {
     "categories": [],
