@@ -17708,6 +17708,24 @@
     "summary": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals\u2026",
     "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path"
   },
+  "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDBg5lUcW7uXfKt2vo4Pq5MQUxOty2Xq3pApCIyhUAuSpTzu1jR_CGkNNS2UkAKxYvqk4KCyP1Ehr0PYcW6xVolcSuSdfRPx4rSDDnkuAKaCkgBii_l7kH-s9u7oEhyK2FpvAnaTRWDV48t9XBXEv-MpUIWhBaZYIBx3CFY_zSUXxdw-3C5rB_30Y0VEtf/s1600/macos-ai.jpg",
+    "published": "2026-10-05T10:38:50+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents.\n\n\"Some developers \u2026",
+    "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access"
+  },
+  "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTCvFj7lVSH1eLS0oYdxqBa4wQkNQvuemuCAL5XqwKueywAUl8Fg6zY-5UT9cdx3fZZ81DHX_emE9JXthW_OfH-axyWn3bE5CpCp4CDs4HREWjv_1uBtt5iJE947S-Bkn-4Mn1Shwt1kV9FF4RO9Wa7_4jmUtvbWrx2zs4-cdSg-FkUtxW-erVx2CXKhU3/s1600/hfs-rce-main.jpg",
+    "published": "2026-10-05T08:09:23+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck.\n\nThe vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a\u2026",
+    "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE"
+  },
   "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzu32AOghfPrV4ViB5puy-1o8shfq77FdmxU5eS9i4x8SCLNzm6xQYn56KGKivAGFoIwa3yYWat5vZMQsdOqPp0ZoEcVst6fs3llaB88jz1IcH6ctmEUEoXcCQOWJs599jVZDnNlHYYww22fnm6KnorG7q16rSGcx3P_Isku8NOODjdV4A5Dee4HiPnmu7/s1600/crypto-theft.jpg",
@@ -17807,6 +17825,15 @@
     "summary": "MI5 Says China\u2019s MSS Funded Research Involving 100+ U.K.-Linked Academics The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service.\n\nIn a \"\u2026",
     "title": "MI5 Says China\u2019s MSS Funded Research Involving 100+ U.K.-Linked Academics"
   },
+  "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV4of0Q-gWaIOffgWXdEfAxmI1ENcyrpDSSDjBurAHSpUuAI8lASQI5wrUvL3Evb0iqA31rRywo51olFOzoWe_lQ9cwN7Sp5QQw_2h-y44n0Va4vwlRQZipZ5fkm98BRmTOoVDPTs8pUMW_ClnH2GlPobgQQ33rNzL8EBnBW84aacH3dLXdyyLW9bBEqG5/s1600/citrix-offline.jpg",
+    "published": "2026-10-05T06:40:19+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks.\n\nThe vulnerab\u2026",
+    "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline"
+  },
   "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVoOullmVukPDhwbQ10zXHA-IqDVeMp55dybdLAhT-kkPDdJADbw8BETggWjHN3WF4HHpXLV8RDk4jHLVYlS9wWxZcbHMtEGGfGu-dGv2lFRzv3lJ1csgozieAguSQeE2Nhw5ZXBi1YIjaBbF5Al_kakh4wNXfjr4PJ-Q4QZxaHm4_Lha_aMxdQ3NPKRm0/s1600/moonshot.jpg",
@@ -17834,6 +17861,15 @@
     "summary": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to\u2026",
     "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers"
   },
+  "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeczuQyi5eCbsZFxILJKWiHZ8_JC8gnKqr2sExCgq_Dk-7879VVbd8qcA475L-uEn3X30CIyqn-iDilE7Sl9T5FM3XGFPU6LbyE7KUH8OpWTjlirCFq8EaY-MuielVGOXFuECLLpehX9R8HQrniMulUnAUd2f_uRbZ1Fget8hT0Tf19c1N-q06dtFpAZPj/s1600/botnet.jpg",
+    "published": "2026-10-05T11:46:25+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2 Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling.\n\n\"Cling is \u2026",
+    "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2"
+  },
   "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkLNgAfzHHwGX_2W-2iGuIMpKX_ZOPM0xFYMFDUp5kxBp3XfaRHV0EUwHsbvh45q8wVSYvblXfru1NzEKovvRqXHDNA82iWx6IbY_ihCrucvF5Bkr1JU8bVJ9KDzUi0wG1GRYvyPNb-1LcXTWzBhqLS5kRo9o2zf3DnqqcTNqk5gTtfbdC57w5SZnomx5U/s1600/shinyhunters-arrested.jpg",
@@ -17842,6 +17878,15 @@
     "source": "The Hacker News",
     "summary": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three peop\u2026",
     "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members"
+  },
+  "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcMENqm_uSfWzk7VlgN5LXTaqUnYGOAelJ9aFsc6s57oUV43awGRScfhyphenhyphenaOYpv1eWkCfunH00lWMH6uUS9sUav8nBmwSHh9w_e3VL1F5AvjF9tpbUeFHCu6ohHZbqOqujA75PEZo_DbtWTv1NtQOKLwaIwJvGZw8rdFDEMcCm_0DvIOfeVPzW8ITMmVwg/s1600/git.gif",
+    "published": "2026-10-05T11:55:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "The Credential Layer Is Expanding Faster Than Security Teams Can See It Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three co\u2026",
+    "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It"
   },
   "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html": {
     "categories": [],
@@ -17869,6 +17914,15 @@
     "source": "The Hacker News",
     "summary": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portugu\u2026",
     "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware"
+  },
+  "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbylNkbHSjWFkh2Ms0FmUT7jm2Qp-l5l9XwzA-O0LeP6LLE2WY9Z5yTiZ6AjikPfdOuId00XC9R_m_HYap_zbOAxUpLNKMK8UAVGiQHr-1zb_IOLyuhyMo_dhlqB5SM6p9b5qabPdThNFnyaHBznmq3H66qlbHxPAzCSuA_glVaWuKcJy51sOkoZp7BIuf/s1600/infosec-recap.jpg",
+    "published": "2026-10-05T14:20:43+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week\u2019s threats keep finding leverage in smal\u2026",
+    "title": "\u26a1 Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests"
   },
   "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html": {
     "categories": [],
@@ -18911,6 +18965,18 @@
     "summary": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models OpenAI says it's rolling out a new update that improves the existing GPT-5.5 Instant model, and this move comes ahead of the scheduled retirement of multiple legacy models, including o3. [...]",
     "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models"
   },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-10-05T10:28:45+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI will show visual ads in ChatGPT while you generate images OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images. [...]",
+    "title": "OpenAI will show visual ads in ChatGPT while you generate images"
+  },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/": {
     "categories": [
       "Artificial Intelligence",
@@ -19154,6 +19220,18 @@
     "source": "BleepingComputer",
     "summary": "Google Gemini could soon get full access to your Mac\u2019s files, apps and the web Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
     "title": "Google Gemini could soon get full access to your Mac\u2019s files, apps and the web"
+  },
+  "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/": {
+    "categories": [
+      "Google",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-05T08:27:46+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Google halts open-source bug bounty program amid AI spam surge Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...]",
+    "title": "Google halts open-source bug bounty program amid AI spam surge"
   },
   "https://www.bleepingcomputer.com/news/google/google-is-shutting-down-its-dark-web-report-feature-in-january/": {
     "categories": [
@@ -22275,6 +22353,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Windows bug blocks Microsoft 365 desktop app installs \u200bMicrosoft is working to resolve a known issue preventing users from installing the Microsoft 365 desktop apps on Windows devices. [...]",
     "title": "Microsoft: Windows bug blocks Microsoft 365 desktop app installs"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/": {
+    "categories": [
+      "Microsoft",
+      "Gaming"
+    ],
+    "image": "",
+    "published": "2026-10-05T09:37:56+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Windows KB5124010 update crashes some games and apps Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [...]",
+    "title": "Microsoft: Windows KB5124010 update crashes some games and apps"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/": {
     "categories": [
@@ -26743,6 +26833,17 @@
     "summary": "Citrix confirms two NetScaler RCE zero-days exploited in attacks Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix t\u2026",
     "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-04T21:58:01+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Citrix patches NetScaler SAML zero-day exploited in attacks Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be explo\u2026",
+    "title": "Citrix patches NetScaler SAML zero-day exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/": {
     "categories": [
       "Security"
@@ -28349,6 +28450,18 @@
     "source": "BleepingComputer",
     "summary": "Denmark blames Russia for destructive cyberattack on water utility Danish intelligence officials blamed Russia for orchestrating cyberattacks against Denmark's critical infrastructure, as part of Moscow's hybrid attacks against Western nations. [...]",
     "title": "Denmark blames Russia for destructive cyberattack on water utility"
+  },
+  "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/": {
+    "categories": [
+      "Security",
+      "Government"
+    ],
+    "image": "",
+    "published": "2026-10-05T15:21:10+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Denmark population registry data breach affects 8.8 million people Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
+    "title": "Denmark population registry data breach affects 8.8 million people"
   },
   "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/": {
     "categories": [
@@ -36298,6 +36411,17 @@
     "summary": "New \u201cDarksword\u201d iOS exploit used in infostealer attack on iPhones A new exploit kit for iOS devices and delivery framework dubbed \"Darksword\" has been used to steal a wide range of personal information, including data from cryptocurrency wallet app. [...]",
     "title": "New \u201cDarksword\u201d iOS exploit used in infostealer attack on iPhones"
   },
+  "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-05T14:53:06+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New Dell System Update flaw lets hackers gain root privileges Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
+    "title": "New Dell System Update flaw lets hackers gain root privileges"
+  },
   "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/": {
     "categories": [
       "Security"
@@ -40789,6 +40913,18 @@
     "summary": "Coupang hit with record $409 million data breach fine in Korea \u200b\u200bThe Personal Information Protection Commission (PIPC), South Korea's data protection regulator, has fined e-commerce giant Coupang a record 624.6 billion won (roughly $409 million) following a massive data breach af\u2026",
     "title": "Coupang hit with record $409 million data breach fine in Korea"
   },
+  "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/": {
+    "categories": [
+      "Security",
+      "Government"
+    ],
+    "image": "",
+    "published": "2026-10-05T14:22:12+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "South Korea probes bank breaches amid suspected AI-powered attacks South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
+    "title": "South Korea probes bank breaches amid suspected AI-powered attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/south-korean-giant-kyowon-confirms-data-theft-in-ransomware-attack/": {
     "categories": [
       "Security"
@@ -41129,6 +41265,17 @@
     "summary": "Surfshark VPN says hackers breached internal testing, proxy servers Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]",
     "title": "Surfshark VPN says hackers breached internal testing, proxy servers"
   },
+  "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-05T13:01:45+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Alleged dev of Ploutus ATM malware appears in US court after arrest The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]",
+    "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest"
+  },
   "https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/": {
     "categories": [
       "Security"
@@ -41341,6 +41488,17 @@
     "source": "BleepingComputer",
     "summary": "Telus Digital confirms breach after hacker claims 1 petabyte data theft Canadian business process outsourcing\u00a0giant Telus Digital has confirmed it suffered a security incident after threat actors claimed to have stolen nearly 1 petabyte of data from the company in a multi-month b\u2026",
     "title": "Telus Digital confirms breach after hacker claims 1 petabyte data theft"
+  },
+  "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-05T13:33:42+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "tenfold CE: Our free Identity Governance tool just got 2 new features tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and invest\u2026",
+    "title": "tenfold CE: Our free Identity Governance tool just got 2 new features"
   },
   "https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/": {
     "categories": [
@@ -46467,6 +46625,15 @@
     "source": "darkreading",
     "summary": "AI Agents Are Going Rogue: Here's How to Rein Them In Human-centered identity frameworks are incorrectly being applied to AI agents, creating the potential for catastrophe at machine speed, Poghosyan argues.",
     "title": "AI Agents Are Going Rogue: Here's How to Rein Them In"
+  },
+  "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt805a291660c85e6c/6abfd753b06065c7488d51a1/fighterjet-Asanka_Ratnayake-GettyImages-2207309883.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-05T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Need for Speed: AI-Driven Attacks Are Changing Security Strategies AI-powered attacks are fast, relentless, and automated. How security teams can keep up is top of mind, according to the latest Dark Reading reader poll.",
+    "title": "Need for Speed: AI-Driven Attacks Are Changing Security Strategies"
   },
   "https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking": {
     "categories": [],
