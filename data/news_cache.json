@@ -17762,6 +17762,24 @@
     "summary": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt the\u2026",
     "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs"
   },
+  "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Vjgif5jASBMNSuYjBnVZcm9vGO378mJ7VTFTNo9HRROtViKbP_Nm0F0vf626be5n4cwnfDdqgfWVzjKrKboh0BnbM8ALWzt-W7kNq4PSc_TOUbNlwps6sCQgfNyK5DhXk3FHZCuJSo8D2eMOm4r89VmhNa6l5gPpadRZSgTuB_N2yPZlwj0voYddOoVr/s1600/clickfix.jpg",
+    "published": "2026-10-06T05:22:55+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache.\n\n\"Instead of downloading and executing remote payloads like\u2026",
+    "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits"
+  },
+  "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGQge2pd9O29G6qjsswRMYKnpM66wzyEWHOnRljkIZUZpCGVGACovyKIiji1HQ4jZOsypuaveJUBxx0r7-tT-Icd3COeo_prgm0TbMWDJBYFYpWHOC3lBjb8sZo6f2qWPkzeztOAjMW1CjrE_fDe3nWBU2FEOOjUWDpNUbtY1okTyx_iFE7xcI5jxOeiQ/s1600/file.jpg",
+    "published": "2026-10-06T06:58:56+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root di\u2026",
+    "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products"
+  },
   "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhcZguz-U3FsSD6t4YQ45EeFbgnWAy9lM28OAFydsLXZYzOS00aOD7pxUZcgvLMfMAO3SJV_Amu9SoNezLNQOvx823Z92CpqC5ow9XO3d7HJhEKZlwQt4H4Z7kirDwGcSrUyi1ONs_PuULNYjEjzae2c1mncDviOT9iqxD-PhmXCYpulTUNO2rtW5c9AAx/s1600/fortimail.jpg",
@@ -17780,6 +17798,24 @@
     "summary": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems.\n\nThe vuln\u2026",
     "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes"
   },
+  "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyl-dsAiVrN_a0ie2xM1-2S8GDtnp-OYIAY1Cd_nhYhGkY3q0VeVEvEInjHAYCJTtnRYkXag2mY_iFjcEkFjeLQ7LrF6JqbTQ6eLZQM7aVzTHQsZ37a7PMIWPNkPvc8yTvHgWRLhdnoXbHZSlYfXJMAgfKkPcgSWD6JVb6kBYfzz9LB3SQPx357xqsr8o/s1600/cpr.jpg",
+    "published": "2026-10-06T06:00:30+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the co\u2026",
+    "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account"
+  },
+  "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVB4YaCEMdO6UU6llRwDBMNe82j6s6myWlT8Y92f808ntjdWsPEFgXBpFhGxoAZdkFq5DVA4_XaQpbwvJFjpEUxrRjjRVITahCSGSxmi3qkad2fk-kZ1oXnoxKaFHNs2aRQl7LQ6r2Ljt57IZNaFvwejEQ20us7fMVpNYptJxoVCyol8BlVaXyLkkaeHQI/s1600/fbi-breach.jpg",
+    "published": "2026-10-06T06:56:57+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau empl\u2026",
+    "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach"
+  },
   "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXhnbLdlAtkMBrrXYLiOxfbEdXI4PrEIq6dy3SL8Xa5SzPF6if9sf8GGu4PtkUTI3EYQHqBde4cDp4Y60OjgQBmqtZHTlL_gvgvlxNSeZ6nrRnriOmH3m23vq7f2bpylilVl39c_X-RNpvYQlRrC91gU_oHbk6e_ZbZ-7_fglpsQCFoLFp3sHkcn44960/s1600/gitlab-rce.jpg",
@@ -17788,6 +17824,15 @@
     "source": "The Hacker News",
     "summary": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory.\n\nT\u2026",
     "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers"
+  },
+  "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCWoelMB7H9bFZJdDV7vP5M3a1ByvpHs8ub2SrBGOM1gz6r0Fg9cV1fplW5Q6mNBFtRlW99wDCSC-_6_sZBw0l4HsFvUDP5cCH2zmgcF4NK5wCOInv05K4hH2WMlKCA_G_psX4zB_hUcXid2MWx5fGDjaJvD1YjWBechwUdrhXK51dJYZ3PGsu0JQcT1U/s1600/google-bug-bounty.jpg",
+    "published": "2026-10-06T09:21:47+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software.\n\nThe change, in effect since October 1, means researchers can no longer su\u2026",
+    "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports"
   },
   "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html": {
     "categories": [],
@@ -17807,6 +17852,15 @@
     "summary": "How Financial Services Companies Can Modernize Their Software Supply Chain Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade\u2026",
     "title": "How Financial Services Companies Can Modernize Their Software Supply Chain"
   },
+  "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYVdFxWk-OP9_vpIdzp0S9ffqMNnyAMbRWKklSryVockcistDlpX5ZcfLGluaqpHqdsu_DoOaFq2J1z5jTVNatxS8aoQjMNS1PoEYOAZrj1V1Spdk67LUZgSlSPlqeEULSVSbHZfkCimWV56E2HKs_IUNrJaYFrPPq0YaXS2sEMBVZNJM0f2ydfUMFREw/s1600/office-sheet.jpg",
+    "published": "2026-10-06T11:57:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the \u2026",
+    "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings"
+  },
   "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1600/metamask-main.jpg",
@@ -17824,6 +17878,15 @@
     "source": "The Hacker News",
     "summary": "MI5 Says China\u2019s MSS Funded Research Involving 100+ U.K.-Linked Academics The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service.\n\nIn a \"\u2026",
     "title": "MI5 Says China\u2019s MSS Funded Research Involving 100+ U.K.-Linked Academics"
+  },
+  "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBNa12GUjRngANug2kbws6i9X_HPN2PRVbOcxr7GtaXMKq9PloaCTD7DuYC8zZIcrg5Wa-F5pDv9y-00EMX4QWvovMz-ZWK5vNZ-gkIdEA7UiZQ1SqBCZof411VOQt6nQrvZCYxZpmzPA3hUeFia9KVP45Q1J1OPkiIH_Fhy5hoiOo9z6eYw1H16RgvKs5/s1600/ms-emails.jpg",
+    "published": "2026-10-05T16:21:52+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions.\n\nThe vul\u2026",
+    "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes"
   },
   "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html": {
     "categories": [],
@@ -17924,6 +17987,15 @@
     "summary": "\u26a1 Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week\u2019s threats keep finding leverage in smal\u2026",
     "title": "\u26a1 Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests"
   },
+  "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd9ijWk9zlAlr4Ogzkb3OyeREM6GDYe0AZx5DQ-TmdUPN5ogFXFM0Z9Lh-qdG1CAIVdBX7cV7NSfgEk_yBtaTFCPdIjAo23ixCfHqa4j1m8FY2cRfmdcrd4GZNn-5QQScWonyO6GDRx6RA1ZRcuW9tAmCOFG9u7KQbWx3fftJ921w8rUqHx4ya_5CFuJM/s1600/ox.png.jpg",
+    "published": "2026-10-06T11:02:30+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, an\u2026",
+    "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers"
+  },
   "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0hKMtHvRqPQiVRgaUAvYQ1XOUA_EToiZ3Tx-v7pSvbqwlnoo7qr5jQ_5KJuYpRFW0MzE3bLPePNT-rn4m8bEz7eTMVysO0OcfFwNKKFgKIo6tiT0JKKauf9MFxYTet3LiqJ2lXxfxVuKzRIPloaGR-_bOUEXOz_-ONc3AXfHKZV-PhAW8wEfayC-iwZE/s1600/ciso-ready.jpg",
@@ -17932,6 +18004,15 @@
     "source": "The Hacker News",
     "summary": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR conso\u2026",
     "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report"
+  },
+  "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWN60cSxpzLhK9K0oXjbeGNCoMl79wSkfW1h7dVHHi3dQPeRx2QUvM9dNGF3qKELV9xwkn8N_FBHk0WgftQryFzkKWyEf0jGbPb6ffor00ZQQnVPSrSSWKDfL10Shpkm2Q_LRFb85BarRqvdDE8eIksiGSrRy6hk8CD2cGf4xIIALAbOZEfHWMHWc7LfhA/s1600/wiki.jpg",
+    "published": "2026-10-06T11:26:25+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a\u2026",
+    "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies"
   },
   "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html": {
     "categories": [],
@@ -18717,6 +18798,18 @@
     "source": "BleepingComputer",
     "summary": "OpenAI hostname hints at a new ChatGPT feature codenamed \"Sonata\" OpenAI is reportedly testing a new feature or product codenamed \"Sonata,\" and it could be related to music or audio-related experiences on ChatGPT. [...]",
     "title": "OpenAI hostname hints at a new ChatGPT feature codenamed \"Sonata\""
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-10-05T22:46:33+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU OpenAI is preparing to add invisible watermarks to text generated by ChatGPT and Codex in the European Union. [...]",
+    "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-going-meta-route-as-it-considers-memory-based-ads-on-chatgpt/": {
     "categories": [
@@ -28912,6 +29005,17 @@
     "summary": "Empire cybercrime market owner pleads guilty to drug conspiracy \u200bA Virginia man who co-created Empire Market, one of the largest dark web marketplaces at the time, pleaded guilty to federal drug conspiracy charges for facilitating $430 million in illegal transactions from 2018 to\u2026",
     "title": "Empire cybercrime market owner pleads guilty to drug conspiracy"
   },
+  "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-06T08:19:24+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Engineer sentenced for locking over 3,000 devices on employer network A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style a\u2026",
+    "title": "Engineer sentenced for locking over 3,000 devices on employer network"
+  },
   "https://www.bleepingcomputer.com/news/security/england-hockey-investigating-ransomware-data-breach/": {
     "categories": [
       "Security"
@@ -33656,6 +33760,19 @@
     "summary": "INTERPOL \u2018Operation Ramz\u2019 seizes 53 malware, phishing servers More than 200 individuals were arrested for cybercrime activities during INTERPOL's Operation Ramz, which focused on the Middle East and North Africa. [...]",
     "title": "INTERPOL \u2018Operation Ramz\u2019 seizes 53 malware, phishing servers"
   },
+  "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/": {
+    "categories": [
+      "Security",
+      "Healthcare",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-10-05T17:19:53+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "IQVIA fined $7.8 million for failing to properly anonymize health data Italy's Data Protection Authority (GPDP) has fined IQVIA \u20ac7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-\u2026",
+    "title": "IQVIA fined $7.8 million for failing to properly anonymize health data"
+  },
   "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/": {
     "categories": [
       "Security"
@@ -37598,6 +37715,17 @@
     "summary": "Nike investigates data breach after extortion gang leaks files Nike is investigating what it described as a \"potential cyber security incident\" after the World Leaks ransomware gang leaked 1.4 TB of files allegedly stolen from the sportswear giant. [...]",
     "title": "Nike investigates data breach after extortion gang leaks files"
   },
+  "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-06T09:25:50+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Nikkei discloses breaches of employees\u2019 Microsoft, Google email accounts Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
+    "title": "Nikkei discloses breaches of employees\u2019 Microsoft, Google email accounts"
+  },
   "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/": {
     "categories": [
       "Security"
@@ -39638,6 +39766,17 @@
     "summary": "Regular Password Resets Aren\u2019t as Safe as You Think Password resets are one of the easiest ways for attackers to bypass security controls. Specops Software shows how helpdesk social engineering turns a seemingly legitimate reset request into full account compromise. [...]",
     "title": "Regular Password Resets Aren\u2019t as Safe as You Think"
   },
+  "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-05T20:20:05+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Rejetto HFS servers now actively scanned for critical RCE flaw Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]",
+    "title": "Rejetto HFS servers now actively scanned for critical RCE flaw"
+  },
   "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/": {
     "categories": [
       "Security"
@@ -39769,6 +39908,17 @@
     "source": "BleepingComputer",
     "summary": "Rogue external MFA providers can steal passwords during logins Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]",
     "title": "Rogue external MFA providers can steal passwords during logins"
+  },
+  "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-06T11:31:48+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
+    "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits"
   },
   "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/": {
     "categories": [
@@ -48376,6 +48526,15 @@
     "summary": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm Researchers intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking to launch further attacks.",
     "title": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf878ef49e6dc7feb/6ac3a43f41e90542981ec9b7/chinaiptheft_Pixels_Hunter_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-05T15:52:59+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage An emerging threat group known as TA419 established seemingly legitimate professional relationships with AI policy experts working for US think tanks, universities, and legal organizations.",
+    "title": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt17fc2cec7ba9f5b3/69e90f257417a71b03305c14/Beijing_Ulaanbaatar-Trevor_Mogg-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -52087,6 +52246,15 @@
     "source": "darkreading",
     "summary": "Red Flags That Expose Fake North Korean IT Workers North Korean operatives posing as IT workers are improving their tactics, but researchers say there are still ways to spot them before they do damage.",
     "title": "Red Flags That Expose Fake North Korean IT Workers"
+  },
+  "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt233af9606aed0447/6ac404da1ba7958c12dbbcbc/stungun_Nikola_Fific_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-05T21:25:08+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes The Linux backdoor exploits 24 known flaws to compromise IoT devices and uses legitimate public STUN servers to obscure communications.",
+    "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes"
   },
   "https://www.darkreading.com/iot/connected-compromised-iot-devices-turn-threats": {
     "categories": [],
