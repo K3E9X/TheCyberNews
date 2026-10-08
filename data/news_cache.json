@@ -17690,6 +17690,15 @@
     "summary": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware call\u2026",
     "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer"
   },
+  "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh25slDP7PhWH155CxM4JUNITLHKzjfSXpuF4WWZJmkycx5UQUIjLJd5Jg_mEDQi62FwRkfpLV14DBpVu2pybVwacKkHpc2MABge_OjMCn3ISyUTsh_JS0fM3wgzv4hbR1du-9fp7cmd0vvB33xeCv7RD7-o4A66gCoKtuCQxmmQL2jM2ljZOMyude3uhOb/s1600/firefox-plugins.jpg",
+    "published": "2026-10-08T09:46:32+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys.\n\n\"The exten\u2026",
+    "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases"
+  },
   "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5MS0sgdeAX_o_HWccABZaieMupy9x1vp2YHXeUfCod9bQMOAfEufGcm59eXhz4cQnwur_AjUhL1ER6FkR4nacwK2pn8K8ojfyZ254B_1Jfjk1OXwBi4VzqhPXgHukmnvVP5ItRHUeez8TcJVXvPlXRBIj0-h6YrI0rhn1G6RFyeZPT9jJf6y4Ng8D_1OD/s1600/android17.jpg",
@@ -17743,6 +17752,15 @@
     "source": "The Hacker News",
     "summary": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions.\n\nTh\u2026",
     "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details"
+  },
+  "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlqu6e-ijwp1hAEuYyfUUL9hV5kwu0cIe1cMibzayov0GdV2FkSpwvF10YKcxLyw1AUNdKF54RV9o3bfeshwWIWdda1AvgNm4iu6t9F16pb1jOVDQRXBoRjw2uueD4Ov7oEzjPJV7pXgK1U-MzkkqRKgHqP207GG2pqtkRQ09IVZ94HvSlBVArvu7tkNE/s1600/google-tls.jpg",
+    "published": "2026-10-07T18:48:17+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&nbsp;said on October 6.\n\nGoogle's own system\u2026",
+    "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains"
   },
   "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html": {
     "categories": [],
@@ -17833,6 +17851,15 @@
     "source": "The Hacker News",
     "summary": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the co\u2026",
     "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account"
+  },
+  "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgopANe3MXyNNOXog__x1pF53wYoQxinI47tN9gLrZSzJfumz-Dg05ZfyjiGsqF47Pugj71iZ1buX7OEiupWYa09xVQdu7DKOMX5NO-uGKCF0UjNila0x5fNiYw5NWEX1TUQTPidjT5NnGmPwM_6mGfKcOxqcjZuPAZLdzRX5u_TXJM76GQ6mQOkikw_kxo/s1600/npm-malware.jpg",
+    "published": "2026-10-07T17:43:20+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts.\n\nThe c\u2026",
+    "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer"
   },
   "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html": {
     "categories": [],
@@ -17942,6 +17969,15 @@
     "summary": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions.\n\nThe vul\u2026",
     "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes"
   },
+  "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Hxj4Ir77Q0O6Rp9Sl0KYLSls340zQ9WBZYebBilMmz0l_V2uLs76lrTrFnLxVfjx_FhV6wGm9rRxUTxCE-f3aZwo-DTYvYoSEd4AuW0qFFKOmrHFO44mToyUy7yzpvSnAmaUUUs4yEg_91GBxijxbPxhYcB22TX7c4WdmekZaddHxvs_V89WUdgM3dte/s1600/rasnomware-fees.jpg",
+    "published": "2026-10-08T07:41:44+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the att\u2026",
+    "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data"
+  },
   "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV4of0Q-gWaIOffgWXdEfAxmI1ENcyrpDSSDjBurAHSpUuAI8lASQI5wrUvL3Evb0iqA31rRywo51olFOzoWe_lQ9cwN7Sp5QQw_2h-y44n0Va4vwlRQZipZ5fkm98BRmTOoVDPTs8pUMW_ClnH2GlPobgQQ33rNzL8EBnBW84aacH3dLXdyyLW9bBEqG5/s1600/citrix-offline.jpg",
@@ -17969,6 +18005,15 @@
     "summary": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported.\n\n\"We have parted ways with\u2026",
     "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling"
   },
+  "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDjQ8O0UFcl1dpOxEJoAM0s1mXXZHJNpJF4uJV_4jg7UPhHlDEvGHVxHKtyZQpnFC4HC3stGB-jJOSYUB5vdayfwx_eWPq-0F_l_ViYZNcA768t1N95JWhhbhUzY8anGOjVSL06QtsKVv_mz4lKgGrBMNBckAtFPxaW-KuG3mbWuUJrsyJP2vdWVbq8r9P/s1600/crypto.jpg",
+    "published": "2026-10-07T15:33:51+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy c\u2026",
+    "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet"
+  },
   "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy6XYYOXNZNjc51viw5FvCk49pWIXCCRS6yr_hl0ZKdwhBWRfYrCQ7bM6AJZJdmI_W3AEz1V3X0DAP6k39KfgjlKFfB5JcFaKN9zzIl1-7c49Vnuaz55yhRXjdmY5K2kIPuY_-7624KyVHqkHzikJIi11iClljnXv_3i2X21JiRCMU8ElmiHiZdHVQ7ws/s1600/killsec-ransomware.jpg",
@@ -17995,6 +18040,24 @@
     "source": "The Hacker News",
     "summary": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three peop\u2026",
     "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members"
+  },
+  "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg93cv3mDcrVCz0IYIpCH3eRNzbDYkM2Z_N2acg9D6bCFGvE3cr3eJ1uGJblGasKplvyvuO6pSuMCxamTwHJSP2ztJ7WBswe1igBdzoadRJPZSDfs5K2og83_iMDMZYuh-LpFdA4qb4Pv7SyJ1A4EQtO_gi6nuxV5ioid32rXABiS0Il9t8boUATp2lTes/s1600/sonicwall.png",
+    "published": "2026-10-07T16:17:44+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker \u2026",
+    "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances"
+  },
+  "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ZJrw-vCazDC3YJlfmY9WewJ170my9lYex6Ccg7VTa8UQCrXWoCiy_F9w_LoP-GDEarC_RoYnx63fAa_i_RmR5564MS6tgcoqi77wlcqPzX7kambOt4Gga7rsMlWWBwyHKZtCb1lAowiE4bf5up8aIJuwoVsZSKTq15TTynJ-uNPirAGnY8uwMMGqBsgU/s1600/npm-hack.jpg",
+    "published": "2026-10-08T05:46:20+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm The npm package known as \"tensorlake,\" a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud sup\u2026",
+    "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm"
   },
   "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html": {
     "categories": [],
@@ -18032,6 +18095,24 @@
     "summary": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people\u2026",
     "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories"
   },
+  "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyMSiFF8XNm1OpF4uWou7e4nt4fqsuPc0IXyUXhHky9w8ydKkauWm_j0yxdpMsRFlDx-5PHhtAxYNg3Z-rYqvexgILhokXO8tARRTtDHn2P83GOlUhiD6jN7rtkf3Ul1-Hp7O4VyvwV6EGNUgjmcC-B_o_P-xQy9eD7RaTnO_RoDpDwgjTePDvkjC9xso/s1600/lm.jpg",
+    "published": "2026-10-07T15:34:53+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixe\u2026",
+    "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely"
+  },
+  "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgFF6VpR3wVqISJUhvijTLl00h_uH1hImVFzJiqEyaGpgFqwRMQxT1VEbay1QbGWehkEmZXIa5rAvkjA5K326ZRtVY7OKq9luzZo1gRXX6jUPX3ajFp6gLfpFf6tQg6D5wBgsctILhw7Ma_dpUgswrwXUYTphyphenhyphenj2rT9nfz3zURxMwvma9EZvKYEzkqlIk/s1600/reward.jpg",
+    "published": "2026-10-08T07:42:04+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 \u2026",
+    "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks"
+  },
   "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZSaqs29yWFrct8zgOikM9e4CS0xuAXppzGJ1tskKpKC2gbGuITsYlHYNcnXDMvrFpPuAVS_ZlyEF8Obp7Mgw7CUXe4UsKP3pNEvZWNfszKQVxogslYpoWBZG-QQbEvmS6SDcbgVtXiFFGIEjreD_HSkCYZTfcwL1Rt90qDbbPj946SbMX0FR5CEKRt_H/s1600/sharepoint-ransomware.jpg",
@@ -18040,6 +18121,15 @@
     "source": "The Hacker News",
     "summary": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portugu\u2026",
     "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware"
+  },
+  "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnlTrJzuyuM3FgdyTkx-JLieOXeR9fK_hENZFrdItZ09E4ZFhk8UYOPslpbGGidTUGCDgcTHqY7wvYrThg-Hwl24MQhL63GIfmRsBLy9MJ7iDXn1XbbX1W_EgGFw9eRyT4LOJq0aoyWhmOHF3O5a9L5LcKNS1IJxQqs_UBwmOnPRmx3fXwUPpKeYdARVE/s1600/anyrun.jpg",
+    "published": "2026-10-08T10:30:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, an\u2026",
+    "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia"
   },
   "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html": {
     "categories": [],
@@ -21188,6 +21278,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Outlook for iOS crashes, freezes due to coding error Microsoft confirmed today that Outlook mobile may crash or freeze when launched on iPad devices due to a coding error. [...]",
     "title": "Microsoft: Outlook for iOS crashes, freezes due to coding error"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-07T15:44:22+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Outlook to block MSIX attachments starting November Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]",
+    "title": "Microsoft Outlook to block MSIX attachments starting November"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-patch-for-wsus-flaw-disabled-windows-server-hotpatching/": {
     "categories": [
@@ -24514,6 +24616,17 @@
     "source": "BleepingComputer",
     "summary": "ASOS confirms data breach after \u201cHACKED\u201d in-app notifications UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [\u2026",
     "title": "ASOS confirms data breach after \u201cHACKED\u201d in-app notifications"
+  },
+  "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-08T11:42:46+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "ASOS links data breach to social engineering attack, credential theft ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]",
+    "title": "ASOS links data breach to social engineering attack, credential theft"
   },
   "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/": {
     "categories": [
@@ -30001,6 +30114,17 @@
     "summary": "FBI links Signal phishing attacks to Russian intelligence services The FBI has issued a public service announcement warning that Russian intelligence-linked threat actors are actively targeting users of encrypted messaging apps such as Signal and WhatsApp in\u00a0phishing campaigns th\u2026",
     "title": "FBI links Signal phishing attacks to Russian intelligence services"
   },
+  "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-07T21:28:54+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
+    "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins"
+  },
   "https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/": {
     "categories": [
       "Security"
@@ -32694,6 +32818,18 @@
     "source": "BleepingComputer",
     "summary": "Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation A malicious campaign is actively targeting\u00a0exposed LLM (Large Language Model) service endpoints to commercialize unauthorized access to\u00a0AI infrastructure. [...]",
     "title": "Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/": {
+    "categories": [
+      "Security",
+      "Google"
+    ],
+    "image": "",
+    "published": "2026-10-07T20:50:13+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers hijack Google domains after breaching ccTLD registries Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-part\u2026",
+    "title": "Hackers hijack Google domains after breaching ccTLD registries"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/": {
     "categories": [
@@ -35790,6 +35926,17 @@
     "summary": "Microsoft Teams phishing targets employees with A0Backdoor malware Hackers contacted employees at\u00a0financial and healthcare organizations over Microsoft Teams to trick them into granting remote access through Quick Assist and deploy a new piece of malware called A0Backdoor. [...]",
     "title": "Microsoft Teams phishing targets employees with A0Backdoor malware"
   },
+  "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-08T12:08:16+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Teams to get support for third-party deepfake detection tools Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
+    "title": "Microsoft Teams to get support for third-party deepfake detection tools"
+  },
   "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-warn-of-suspicious-traffic-with-external-domains/": {
     "categories": [
       "Security"
@@ -38171,6 +38318,17 @@
     "summary": "OAuth Device Code Phishing: Azure vs. Google Compared Device code phishing abuses the OAuth device flow, and Google and Azure produce strikingly different attack surfaces. Register for Huntress Labs' Live Hack to learn about attack techniques, defensive tactics, and get an Identi\u2026",
     "title": "OAuth Device Code Phishing: Azure vs. Google Compared"
   },
+  "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-08T14:00:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "OAuth grants pile up faster than you can review them. Here's how to keep up. OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are t\u2026",
+    "title": "OAuth grants pile up faster than you can review them. Here's how to keep up."
+  },
   "https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/": {
     "categories": [
       "Security"
@@ -38739,6 +38897,17 @@
     "summary": "ownCloud urges users to enable MFA after credential theft reports File-sharing platform ownCloud warned users today to enable multi-factor authentication (MFA) to block attackers using compromised credentials from stealing their data. [...]",
     "title": "ownCloud urges users to enable MFA after credential theft reports"
   },
+  "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-08T10:29:19+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Owner of Empire cybercrime market gets 40 years in prison The co-creator of Empire Market, one of the largest dark web marketplaces before its shutdown, has been sentenced to 40 years in prison for facilitating $430 million in illegal transactions from 2018 to 2020. [...]",
+    "title": "Owner of Empire cybercrime market gets 40 years in prison"
+  },
   "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/": {
     "categories": [
       "Security"
@@ -39122,6 +39291,18 @@
     "source": "BleepingComputer",
     "summary": "\u2018PlushDaemon\u2019 hackers hijack software updates in supply-chain attacks The China-aligned advanced persistent threat (APT) tracked as 'PlushDaemon' is hijacking software update traffic to deliver malicious payloads to its targets. [...]",
     "title": "\u2018PlushDaemon\u2019 hackers hijack software updates in supply-chain attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-10-07T15:04:08+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "PoeLLM malware infects exposed AI servers in cryptomining attacks A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit\u00a0launchpads. [...]",
+    "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks"
   },
   "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/": {
     "categories": [
@@ -39817,6 +39998,17 @@
     "summary": "Ransomware protection for MSPs: A 6-point checklist for faster recovery Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to pre\u2026",
     "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery"
   },
+  "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-07T23:04:37+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Ransomware recovery CEO charged over secret ransom payments The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to rec\u2026",
+    "title": "Ransomware recovery CEO charged over secret ransom payments"
+  },
   "https://www.bleepingcomputer.com/news/security/rce-flaw-in-imunifyav-puts-millions-of-linux-hosted-sites-at-risk/": {
     "categories": [
       "Security"
@@ -40453,6 +40645,17 @@
     "source": "BleepingComputer",
     "summary": "Crypto mixer founders sent to prison for laundering over $237 million The founders of the Samourai Wallet (Samourai) cryptocurrency mixing service have been sent to prison for helping criminals launder over $237 million. [...]",
     "title": "Crypto mixer founders sent to prison for laundering over $237 million"
+  },
+  "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-08T06:32:16+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland \u200b\u200b\u200bOn the second day of Pwn2Own Ireland 2026, security researchers collected $232,500 in cash awards after exploiting 45 unique zero-day vulnerabilities. [...]",
+    "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland"
   },
   "https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/": {
     "categories": [
@@ -43099,6 +43302,17 @@
     "source": "BleepingComputer",
     "summary": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives 7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
     "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives"
+  },
+  "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-08T13:18:36+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Uranium crypto exchange hacker convicted for stealing $53 million A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]",
+    "title": "Uranium crypto exchange hacker convicted for stealing $53 million"
   },
   "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/": {
     "categories": [
@@ -47285,6 +47499,15 @@
     "summary": "Cities Hosting Major Events Need More Focus on Wireless, Drone Defense Major events like the FIFA World Cup need to look beyond traditional physical and cyber security to active and passive wireless threats, say experts.",
     "title": "Cities Hosting Major Events Need More Focus on Wireless, Drone Defense"
   },
+  "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1c15df6e8c5aa81c/6ac6ac875987721c1d044af4/masssurveillance-J_Studios-Getty-2259137560.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-07T21:25:13+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives The Citizen Lab's Ron Deibert warns the US government is pushing for pervasive surveillance and says certain technology executives are all too happy to help.",
+    "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives"
+  },
   "https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12df424bcfca2d2e/69f25c31d96b17efbb20a411/Claude_Mythos-GK_Images-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -49486,6 +49709,15 @@
     "summary": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency Threat actors exploited commodity in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.",
     "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2541a007c47b0f0b/6ac62adf05f346dc373093cd/rogue_AO_bot_Chris_Light_Alamy.png?width=720&quality=80&disable=upscale",
+    "published": "2026-10-07T19:34:08+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "OpenAI Agent Escape Causes Wikimedia Service Outage Autonomous agents also tried to abuse other websites and services hosted by the foundation, using them as proxies for unauthorized activities.",
+    "title": "OpenAI Agent Escape Causes Wikimedia Service Outage"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt498dd0b9b6ab45c6/6a9ffd284648d9bc55cdf333/Robot_escape-gremlin-Getty.jpg?width=720&quality=80&disable=upscale",
@@ -50408,6 +50640,15 @@
     "source": "darkreading",
     "summary": "Asia's Cyber Insurance Market Shows Signs of Life The cyber insurance industry has made relatively weak inroads into Asia due to a a variety of factors, but that could be changing.",
     "title": "Asia's Cyber Insurance Market Shows Signs of Life"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1644f040bd4e95e/6ac6a02424b6126216f8e422/Australia_NSW_parliament-Adrian_Wojcik-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-07T21:42:55+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Australian Gov't Weighs Mandatory AI Incident Reporting In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for frontier AI companies.",
+    "title": "Australian Gov't Weighs Mandatory AI Incident Reporting"
   },
   "https://www.darkreading.com/cybersecurity-operations/blunders-level-up-security-programs": {
     "categories": [],
@@ -51381,6 +51622,15 @@
     "source": "darkreading",
     "summary": "Why You Should Train Your SOC Like a Triathlete The key elements in a security operations center's strategy map very closely to the swim/bike/run events in a triathlon. SOCs, like triathletes, perform well when their &quot;inputs&quot; are strong.",
     "title": "Why You Should Train Your SOC Like a Triathlete"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2f221f33ee9fe4e1/6ac6b6b1015fc88b126ddd85/New_Chapter_CharlieAJA_Getty_Images.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-08T12:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Writing the Next Chapter Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.",
+    "title": "Writing the Next Chapter"
   },
   "https://www.darkreading.com/cybersecurity-operations/yellow-teams-defining-future-ai-security": {
     "categories": [],
@@ -54100,6 +54350,15 @@
     "source": "darkreading",
     "summary": "Anthropic's AI Finds Bugs. IBM Bets $5B It Can Fix Them. IBM and Red Hat assign 20,000 engineers to the new Project Lightwell service as Anthropic's Mythos findings ignite debate over how to secure the open-source software supply chain.",
     "title": "Anthropic's AI Finds Bugs. IBM Bets $5B It Can Fix Them."
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc7808659e0089ed6/6ac69946a654a8a160addf33/robot_working-demaerre-GettyImages-1467878602.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-07T20:51:25+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails Anthropic has merged Project Glasswing into a tiered access program for its advanced cyber LLMs, including Opus, Sonnet, and Mythos.",
+    "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails"
   },
   "https://www.darkreading.com/vulnerabilities-threats/apple-patches-more-zero-days-sophisticated-attack": {
     "categories": [],
