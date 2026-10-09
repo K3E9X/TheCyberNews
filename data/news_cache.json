@@ -17744,6 +17744,15 @@
     "summary": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents.\n\n\"Some developers \u2026",
     "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access"
   },
+  "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrg8bHUppR3zYriUhWwJig9yJq8F69XCeJrtY040zk39DNhblhBRkcTcQSqRo6K3PwnMVoygOCmbWf2X7ySQDxpfDlgmXFBDGhoiicnG3_5E84RhV6muyzgGacKye5eiB5dLcvsNfny5yS-4TlrypAdPcU1PVfT-jMxWvdfg9algqsvxycUV1Jy1xUjGiT/s1600/ai-hacker.jpg",
+    "published": "2026-10-08T14:12:34+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carr\u2026",
+    "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms"
+  },
   "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEityRbZfy1N9Y0SuqWl7yeWTYMjeirrTbDx719fM65Be6yXOt2Zl0YweAi0hAfswNzV_LrHa4eFCpcCemC3FNwxZve4bPkSelQiRnCdXpZofAnI7Si96nULBV6i25jgFaZkEY1T3LuPRhj6QzTSsWHZtLuoH1zXlLKZN3WwSiKS7QoY_Zug0CtaaCGozT6N/s1600/jira-attack.jpg",
@@ -17806,6 +17815,15 @@
     "source": "The Hacker News",
     "summary": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt the\u2026",
     "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs"
+  },
+  "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifRR7IQ4Ngqm8ANJ-DKwW60qeemJlrfrtvhaAwtpzW37_jAkbdctxJEqjw8k_m1KT32ryqoxa1dNYoEPG-E9xNwrbtXqbOjbzmgs3JM9RW68FZMNA8ky14QKTLpEfHop9A4xmXO46fxQaeXZMZzzMQ-qoIXLpMrr8Gbekn3cgNX5xc7bYvMRDYKjDeLf4o/s1600/cit.jpg",
+    "published": "2026-10-09T08:11:33+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain co\u2026",
+    "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments"
   },
   "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html": {
     "categories": [],
@@ -17879,6 +17897,24 @@
     "summary": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau empl\u2026",
     "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach"
   },
+  "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyj_ek8VTEYw5CpVqkAK63I01D84oGBvRsHmwpjeAfat3TCDqzhXqRWXWCGkNZKwH3rF0uyeuowCSGcBT-mLkdw-174FA0gGh8ZIVKOXUbXt9w0eTZZTlMGE-ySkZIIkswfxe0-cEU9ww6E8iIpWI2eDQU_NrsezDxIoE2WNBt8mDtG6nYeke9Ut17_JY/s1600/china-email.jpg",
+    "published": "2026-10-08T18:32:21+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and\u2026",
+    "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails"
+  },
+  "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8SUqM44FwmONOU6YH1yTi4I8iGU_UiDk42WA2vB_qjqzCN3xtWE_AVyF2xXmlrP68vAXN3Pe_J6f8h9B6M8vgEmcImGt55z2FRc0638eta0V-P2FvbI6O0h3TWBaOlxw72-0cnMH91J2wNykDTSpQM8cvKYPbQ-YBrnb7e2xxSJuC7B9sU4hoGBXs8KnO/s1600/china-hacker.jpg",
+    "published": "2026-10-09T06:39:29+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group kno\u2026",
+    "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions"
+  },
   "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQZeKQIcHTVLgqnHpZYN73YclFawl51QxpykrKEb97sAJjA8qtN7FaUJaS0jLMeSS29cTB0nR_yFzsITX_e5SI8Xa8BfM1LDOGsEEEpDmVC8YNqOcEYEuep1UbHovyLlxrwRmYZ3FrbaaKq9eKwICiUTkkPleIibOHdWnbV5cpwYPCrHQasrTxVFA9seQ-/s1600/forti-admin.jpg",
@@ -17888,6 +17924,15 @@
     "summary": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fo\u2026",
     "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials"
   },
+  "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7eHv-Bv5ZZISuomW-aV50jkJ7Aqg-S56iEuV2y8Kl9w7SB4cp-zTDj8WicvMzPcw5tXuq-o5rIG0KPPmKxPZPcR5V47hVwbGvi7aLNE_1wgq_iDkNERTzz5kc9ivagiHEKM9BcsYjJRRB0_HWk_gsi9jzHudV_-4Ax4dUFaV5vpDlUnW2PywmEZHzN8mm/s1600/kevs.jpg",
+    "published": "2026-10-09T12:21:51+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-lin\u2026",
+    "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies"
+  },
   "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXhnbLdlAtkMBrrXYLiOxfbEdXI4PrEIq6dy3SL8Xa5SzPF6if9sf8GGu4PtkUTI3EYQHqBde4cDp4Y60OjgQBmqtZHTlL_gvgvlxNSeZ6nrRnriOmH3m23vq7f2bpylilVl39c_X-RNpvYQlRrC91gU_oHbk6e_ZbZ-7_fglpsQCFoLFp3sHkcn44960/s1600/gitlab-rce.jpg",
@@ -17896,6 +17941,15 @@
     "source": "The Hacker News",
     "summary": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory.\n\nT\u2026",
     "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers"
+  },
+  "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJ8xcgqF85kQru4JEuCv6OipwHlff6IEp3r1zhFOY9tYpbwEeWYSqzPTILX4uqM97Cc9ZfNfb3HB4lZbecN48fqKgKryAL60KqqZU4HmdfTMsRYaDcFjNL7aE8vk7G0D_-mqY_B2Jk_3kXMsx2ABpgbWixg1GHZ2l7V0MSzqtEWnYZ_ymkOTf0j8yq2c/s1600/onion.jpg",
+    "published": "2026-10-09T09:03:24+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and th\u2026",
+    "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys"
   },
   "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html": {
     "categories": [],
@@ -17923,6 +17977,15 @@
     "source": "The Hacker News",
     "summary": "How Financial Services Companies Can Modernize Their Software Supply Chain Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade\u2026",
     "title": "How Financial Services Companies Can Modernize Their Software Supply Chain"
+  },
+  "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCKjRUY0kVdYD5knK69g1IBPPL21WViperTcXNtjnWiYjNuL6GsohD9A6Q_SpyDpAT6mNMjLTZGOJ_eB1FIMUllxUVEnkUXA1zTWGU1aw5LYJrVZu5gNxH1zSpxX5elSBB-f2OG4LjdhzWTX97lT16uAdvKClT_gP4ucRJjKAXKU4a-3KxbbNLU5RdwKc/s1600/japan.jpg",
+    "published": "2026-10-08T15:45:56+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said.\n\nThe \u2026",
+    "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks"
   },
   "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html": {
     "categories": [],
@@ -18059,6 +18122,15 @@
     "summary": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm The npm package known as \"tensorlake,\" a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud sup\u2026",
     "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm"
   },
+  "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibn_fvM8uZUZWhBhgCeggTmULC4rEZ68qb-99aKdn9RNOXIg8egC2vTwn9_-cLcs3vTam1i_g61RbAjXfoVTA1HiGYGKZeeG5nnNu03GcOE6X5aqOB3O60MppHQvTvWFdaEWZl1HhIIGl5zc8_8_lhlqtrmRa5-DAqldfJ6EjmM8mq8rCAp_MHdUrPAt4/s1600/sailpoint.jpg",
+    "published": "2026-10-09T11:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity Security\" report fr\u2026",
+    "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition"
+  },
   "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcMENqm_uSfWzk7VlgN5LXTaqUnYGOAelJ9aFsc6s57oUV43awGRScfhyphenhyphenaOYpv1eWkCfunH00lWMH6uUS9sUav8nBmwSHh9w_e3VL1F5AvjF9tpbUeFHCu6ohHZbqOqujA75PEZo_DbtWTv1NtQOKLwaIwJvGZw8rdFDEMcCm_0DvIOfeVPzW8ITMmVwg/s1600/git.gif",
@@ -18094,6 +18166,33 @@
     "source": "The Hacker News",
     "summary": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people\u2026",
     "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories"
+  },
+  "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR_DE5ORKWCpLgZgXBuH-MFmuqfxFNnkGQxremc0ffY4dopMHnx-2HvgZTMh48BvVr8k22lGaM__jTS83DuXnLpF4NC9u4bsQF-8_K34gZU0kJS_-10pUSL7WNxecJG0pCiHyNFiqxXEqWP7NqUK2-uvwzo8-ETqwZkPWdNOjhNn5S1Y0uFQX2HGBE5_5J/s1600/t-day.jpg",
+    "published": "2026-10-08T17:58:02+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and t\u2026",
+    "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories"
+  },
+  "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqGob0G-EHmqSYe9ZFWu_Pqg2ZivxomC2c4TSsW_k2yx0eZClRf8rgYVhDJTUrrhyzKr8yQr00rjzvVCRc7EsZjELELmKTWVxzLLsvx0DV5Q0rLWGd1eczFcVKTIBweBiuxIpfnB9HnT-1_DPUpxqagt4sXvjLvPiY1bZOz36oJnXV84KoOHVW8ZYY8es/s1600/pwn2own.jpg",
+    "published": "2026-10-09T08:26:17+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show\u2026",
+    "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own"
+  },
+  "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZWPW7zD0DZUCKyeRcD-sBZtZ28n4PPaJDPjiskf9ghOI7b3aYbYCEbNvITxaYjCkejq8Vfuc0xeZtJ7p2R4j4dEqGXwfb1JLqQVHrgE4uxdSCq-JJgAeLA0WZbz5Fi98LQbxr3ncRXodrBd83xaX2UpXtDb-Q55ryWBPeXGAQlDBykN_BYecleld5rxJM/s1600/uk.jpg",
+    "published": "2026-10-08T15:26:56+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN.\n\nAccording to TrendAI, th\u2026",
+    "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML"
   },
   "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html": {
     "categories": [],
@@ -21267,6 +21366,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop Microsoft has released an out-of-band cumulative update to fix a known issue causing the November 2025 KB5068966 hotpatch update to reinstall on Windows 11 systems repeatedly. [...]",
     "title": "Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-09T10:12:24+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Outdated Windows devices will stop receiving security updates Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
+    "title": "Microsoft: Outdated Windows devices will stop receiving security updates"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/": {
     "categories": [
@@ -27034,6 +27145,18 @@
     "summary": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
     "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices"
   },
+  "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/": {
+    "categories": [
+      "Security",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-10-08T15:26:33+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Cisco warns of critical flaws allowing Nexus switch takeover Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
+    "title": "Cisco warns of critical flaws allowing Nexus switch takeover"
+  },
   "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/": {
     "categories": [
       "Security"
@@ -27176,6 +27299,17 @@
     "source": "BleepingComputer",
     "summary": "Citrix urges admins to patch new NetScaler flaws as soon as possible Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
     "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible"
+  },
+  "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-09T08:27:42+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Citrix warns admins to patch new NetScaler RCE flaw immediately Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
+    "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately"
   },
   "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/": {
     "categories": [
@@ -30000,6 +30134,17 @@
     "summary": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]",
     "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware"
   },
+  "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-08T17:10:55+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "FakeGit malware campaign returns with 17,610 malicious GitHub repos More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
+    "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos"
+  },
   "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/": {
     "categories": [
       "Security"
@@ -30055,6 +30200,17 @@
     "source": "BleepingComputer",
     "summary": "FBI: Cybercriminals stole $262M by impersonating bank support teams The FBI warns of a surge in account takeover (ATO) fraud schemes and says that cybercriminals impersonating various financial institutions have stolen over $262 million in ATO attacks since the start of the year.\u2026",
     "title": "FBI: Cybercriminals stole $262M by impersonating bank support teams"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-08T21:42:51+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "FBI disrupts Chinese hacking tools used to breach critical infrastructure The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and \u2026",
+    "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure"
   },
   "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/": {
     "categories": [
@@ -32453,6 +32609,17 @@
     "summary": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026 The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws. [...]",
     "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-09T05:41:04+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]",
+    "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/": {
     "categories": [
       "Security"
@@ -33521,6 +33688,17 @@
     "source": "BleepingComputer",
     "summary": "How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking AI SOC agents can reduce alert fatigue, but most teams fail to measure real outcomes. Prophet Security breaks down Gartner's questions for evaluating AI SOC agents and separating real impact from hype. [\u2026",
     "title": "How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking"
+  },
+  "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-09T14:01:11+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "How to keep AI agents within their permissions AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies \u2026",
+    "title": "How to keep AI agents within their permissions"
   },
   "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/": {
     "categories": [
@@ -34825,6 +35003,18 @@
     "summary": "Louis Vuitton, Dior, and Tiffany fined $25 million over data breaches South Korea has fined luxury fashion brands Louis Vuitton, Christian Dior Couture, and Tiffany $25 million for failing to implement adequate security measures, which facilitated unauthorized access and the expo\u2026",
     "title": "Louis Vuitton, Dior, and Tiffany fined $25 million over data breaches"
   },
+  "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/": {
+    "categories": [
+      "Security",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-10-08T19:20:33+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Low-cost Android phones ship with residential proxy malware A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud,\u2026",
+    "title": "Low-cost Android phones ship with residential proxy malware"
+  },
   "https://www.bleepingcomputer.com/news/security/lummastealer-infections-surge-after-castleloader-malware-campaigns/": {
     "categories": [
       "Security"
@@ -35448,6 +35638,17 @@
     "source": "BleepingComputer",
     "summary": "Max severity SAP Commerce Cloud flaw now targeted in attacks A maximum-severity SAP Commerce Cloud\u00a0remote code execution vulnerability patched three days ago\u00a0is already being targeted in attacks, according to threat intelligence company Defused. [...]",
     "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-09T12:32:16+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Max severity SonicWall SMA1000 flaw now exploited in attacks Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
+    "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/": {
     "categories": [
@@ -39920,6 +40121,18 @@
     "summary": "RansomHouse upgrades encryption with multi-layered data processing The RansomHouse ransomware-as-a-service (RaaS) has recently upgraded its encryptor, switching\u00a0from a relatively simple single-phase linear technique to a more complex, multi-layered method. [...]",
     "title": "RansomHouse upgrades encryption with multi-layered data processing"
   },
+  "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/": {
+    "categories": [
+      "Security",
+      "Cloud"
+    ],
+    "image": "",
+    "published": "2026-10-08T20:09:45+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern\u2026",
+    "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients"
+  },
   "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/": {
     "categories": [
       "Security"
@@ -43124,6 +43337,17 @@
     "source": "BleepingComputer",
     "summary": "Ukrainian national pleads guilty to role in Conti ransomware operation A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]",
     "title": "Ukrainian national pleads guilty to role in Conti ransomware operation"
+  },
+  "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-09T11:14:28+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Man admits to running network of 15,000 money mules for cybercriminals \u200bA Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide. [...]",
+    "title": "Man admits to running network of 15,000 money mules for cybercriminals"
   },
   "https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/": {
     "categories": [
@@ -46717,6 +46941,15 @@
     "summary": "8-Minute Access: AI Accelerates Breach of AWS Environment The AI-assisted attack, which started with exposed credentials from public S3 buckets, rapidly achieved administrative privilges.",
     "title": "8-Minute Access: AI Accelerates Breach of AWS Environment"
   },
+  "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7fb7357c5c7dbc54/6ac7f27aebe12bcaad81c134/aichatbot-_jittawit.21-Getty-1432457969.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-08T20:39:44+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt A now-patched vulnerability in AWS Bedrock AgentCore could've allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
+    "title": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt"
+  },
   "https://www.darkreading.com/cloud-security/ai-agent-workload-identity-crisis": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d24be5a5d5eede1/69a5f3508999bf720c9d53ee/Authentication_Zoonar_GmbH_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -49905,6 +50138,15 @@
     "summary": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets A state-sponsored threat group, dubbed &quot;Laundry Bear,&quot; sends &quot;half-click&quot; phishing emails that require a victim only to open or preview the message.",
     "title": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte9326a6a1bce6d31/6ac6bf347f984a40d88b6862/matchboil_Gorodenkoff_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-08T18:01:50+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift Cyber-espionage actor UAC-0099 has been steadily refining its flagship dropper in campaigns targeting Ukrainian organizations.",
+    "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/rust-written-ironworm-npm-supply-chain": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt705e8d4cc3766735/6a21e18d9f92ca732208c2ed/supplychain_Efkaysim_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -50186,6 +50428,15 @@
     "source": "darkreading",
     "summary": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks The new program expands Vectra AI's partner strategy as increasingly complex security environments and the growing use of AI create demand for broader AI expertise, services, and security outcomes.",
     "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef4e90a751faf3e5/6ac64ed06770201d6d216b2a/atm-keypad-pressing-buttons-Makhh-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-08T19:08:16+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting The first cybercriminal to ever make the FBI's &quot;10 Most Wanted Fugitives&quot; list allegedly infused Tren de Aragua's violent criminal operations with cash.",
+    "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/vidar-infostealer-smb-malvertising-campaign": {
     "categories": [],
@@ -51435,6 +51686,15 @@
     "source": "darkreading",
     "summary": "ServiceNow Buys Armis for $7.75B, Boosts 'AI Control Tower' Its latest cybersecurity acquisition will help further ServiceNow's plans for autonomous cybersecurity, and building a security stack to proactively manage AI.",
     "title": "ServiceNow Buys Armis for $7.75B, Boosts 'AI Control Tower'"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt509529652bae6ba5/6ac7de6c3ada349d7f093787/Digital_face-imaginima-GettyImages-2228383398.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-09T13:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Social Engineering AI Agents: The New BEC for 2026 As AI agents gain authority over business systems, attackers can manipulate them like business email compromise (BEC) victims.",
+    "title": "Social Engineering AI Agents: The New BEC for 2026"
   },
   "https://www.darkreading.com/cybersecurity-operations/software-development-practices-help-enterprises-tackle-real-life-risks": {
     "categories": [],
