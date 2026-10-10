@@ -17708,6 +17708,15 @@
     "summary": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is en\u2026",
     "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools"
   },
+  "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk6Q5kUrLA2Pfuqcghyphenhyphen1q3pECWSE72HYp9BB9GM5i3b_6XxNHMtwlR7yrPj_xTpcwoIaMy0vJt8A1g_D9Riz6JhbU5WyVPV69DFvk1oIzv2jp-eG-qbfx8lIHF2zX_XEAxz5gC51xn2hPUwYVh9thUuQslxqfIp1Pg3bgmWQYaXXW4LuUxTdUZzUo2R22C/s1600/claude-internet.jpg",
+    "published": "2026-10-10T09:18:45+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) model\u2026",
+    "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws"
+  },
   "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimg1tAvNh5aMWuNTZXjb4kKfxIQ0iWkuo2bCznozA8oz2Fm36WzbPnBI1bBDX5Mc3hpyOMIcjS_fcdYzzpQnrtUkex17u0_fn7r3bgcRYEN4o2hoGf4vlw5hQKEgcDd2VoVT2P9unKzsVOlly1QFlu6WfySqGPZ4Pf7xrZXaL4pEy1vrhWQBHR7SiqHHvf/s1600/claude-flaws.jpg",
@@ -17716,6 +17725,15 @@
     "source": "The Hacker News",
     "summary": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking \u2026",
     "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws"
+  },
+  "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiio2imi6QlJLQlD8KAZaktPeycFFCAWdkRp7q1TNwNHKUibXYACipc5GG2rDcZtmUR8TftkRHNTrdEXLXsGxcGoTDrTY5Eye77n1OFyeFbHP-VGUTwlhIoaHNoMGVIsUWBk07kSc-Gi3y_U0OuS-6gWBjYJEj8pxJVQ9lkEJfI_we3rVvZtAMXp0i8qs7t/s1600/oss-scanner.jpg",
+    "published": "2026-10-09T12:47:28+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI).\n\n\"It's an opt-in service informed by our experience\u2026",
+    "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects"
   },
   "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html": {
     "categories": [],
@@ -17761,6 +17779,15 @@
     "source": "The Hacker News",
     "summary": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions.\n\nTh\u2026",
     "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details"
+  },
+  "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMpbMY9pFBnt6TekKFIlEqpeqQoPBjBuhu8rYuYtU7ce5P3LTFKwlv_F_BUDzfuuMu0gRU645YStocoUQnNtS11MoEIRrfxrgPZtShsFgr8YH1VYTtjPr2l6aHPFDBYPHJKLT-fa-KqaHGSJHeiDPKzUgA12IJH5zhAHpMnoGZc5Qsz9sJhCOB_3gYHQar/s1600/edge.jpg",
+    "published": "2026-10-09T12:47:26+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners.\n\u2026",
+    "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge"
   },
   "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html": {
     "categories": [],
@@ -17834,6 +17861,15 @@
     "summary": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache.\n\n\"Instead of downloading and executing remote payloads like\u2026",
     "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits"
   },
+  "https://thehackernews.com/2026/10/credential-stealing-github-actions.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoJXBEAVVijhwsYs32WSejvp0sG3ej-Qoi7Z6qHDp8rY5IZENkKOpexrbbU1BNyiCbbB0ZXHjEDL-UYqu7CDpPpoYLiGXkuLCZJTItgP5XeLD_Sb1galPzOGtrFZigEM5CGUbwi9gcL_-XCYY6NKu9j5FiakIWn5s66DZE-OjrLZO3sMGka3YNFvGUecJT/s1600/gitworm.jpg",
+    "published": "2026-10-09T19:14:28+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow in\u2026",
+    "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories"
+  },
   "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGQge2pd9O29G6qjsswRMYKnpM66wzyEWHOnRljkIZUZpCGVGACovyKIiji1HQ4jZOsypuaveJUBxx0r7-tT-Icd3COeo_prgm0TbMWDJBYFYpWHOC3lBjb8sZo6f2qWPkzeztOAjMW1CjrE_fDe3nWBU2FEOOjUWDpNUbtY1okTyx_iFE7xcI5jxOeiQ/s1600/file.jpg",
@@ -17887,6 +17923,15 @@
     "source": "The Hacker News",
     "summary": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Cl\u2026",
     "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes"
+  },
+  "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTRCTw1H9kT8UEVJYmaRrhHvMQEYFuE2TZqB62Wnxz8y4RIYOMald4OYO45ujfgSp0ixhgWVKb3_nJzoKV6gNuu_cKaN2Evnr9u7FlnwsPTPm9TPpikkUR-83UL3VrknNBzITPeFC8f1PKpYMwvH_AbBAFWcbPl61vUXJK1m0xJ_C5QYDIAGi_Ya-A5Tc/s1600/kash.jpg",
+    "published": "2026-10-09T17:45:26+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a&nbsp;post on X.\n\nShinyHunters is the extortion group that said in September i\u2026",
+    "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack"
   },
   "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html": {
     "categories": [],
@@ -18068,6 +18113,15 @@
     "summary": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported.\n\n\"We have parted ways with\u2026",
     "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling"
   },
+  "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-SCb1qpP1Z0zyo_WOtyHzQKUiqJ3RudpC9uowSePmGcLZ9sPHcE-lvDGMZTHeB7YckgDmaBA775L13GvrYHl_gAVSg46-5sUJWzcA7Q3ec5h8WIuKO5l0Td2CCk5nlSvNByqPL22qlTNwHms3rbdXsJYoEe7gRqHiqmM8DHtvEkKniOP4Q70Dq_5Dr8I/s1600/ios.jpg",
+    "published": "2026-10-09T16:29:55+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword.\n\n\"Compared with the variants we usually observe, P7 reduces its on-\u2026",
+    "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands"
+  },
   "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDjQ8O0UFcl1dpOxEJoAM0s1mXXZHJNpJF4uJV_4jg7UPhHlDEvGHVxHKtyZQpnFC4HC3stGB-jJOSYUB5vdayfwx_eWPq-0F_l_ViYZNcA768t1N95JWhhbhUzY8anGOjVSL06QtsKVv_mz4lKgGrBMNBckAtFPxaW-KuG3mbWuUJrsyJP2vdWVbq8r9P/s1600/crypto.jpg",
@@ -18094,6 +18148,15 @@
     "source": "The Hacker News",
     "summary": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2 Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling.\n\n\"Cling is \u2026",
     "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2"
+  },
+  "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUnGcAOHQNX9naCpXjsvEAI4YXmS_pbFwgn9i_YTjR8esP-PpNXc0s-jOWo3r_M4S-an0mnZA4PwDjt3lOihJqWP60TMj3F37iIno8hynwj5xXex2Voy3Khj3QraiYO7oyeEgNtZtjB5q-FYXg9E0hNk93q7mTKdhBdPNGr0p1I35R0wxuY0IOmAlG_E/s1600/anyrun.gif",
+    "published": "2026-10-09T12:59:22+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access Security researchers have&nbsp;published a full working exploit&nbsp;for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone appr\u2026",
+    "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access"
   },
   "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html": {
     "categories": [],
@@ -18158,6 +18221,15 @@
     "summary": "The State of Cybersecurity in 2026:\u00a0Key Segments, Insights, and Innovations Featuring:\n\nCybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devic\u2026",
     "title": "The State of Cybersecurity in 2026:\u00a0Key Segments, Insights, and Innovations"
   },
+  "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghemGbtxM2amUYAlxUPHPdMiyDMQJFWZeY-dDODRqCRD0phZXXQv0rrKHiOsLPW3t0Fq2XxvvFyCC-OmNs7TXhXXKSRVMPpC1GPKSUsyzN9t-W6L4jtiA2DUiTLgou4iyw0QXN-6Wfz0H2zWYGgC6-OxtlQrfb0PygOeBWwDnR11nl3Gl8W5pL07sExNc/s1600/reco.gif",
+    "published": "2026-10-10T11:00:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand ar\u2026",
+    "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't"
+  },
   "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOZPv0LS8-qPBgL_d1m8BLNikw8psPt9qtB_HiFNoYnVwBacYvwz4DdEixukdlHcy7IXmUB9dI9E_Hcx48HJIL7sQzmDeextP-Y_tHO9SX51i_SditMkVsRgWxyMekufW3yZFn2jI9nf29y3JEM2a_yFv8iTLDb6d3r1roNsea_Yk5TWCiMcvkmE5ZbP6B/s1600/oct-threatsday.jpg",
@@ -18184,6 +18256,15 @@
     "source": "The Hacker News",
     "summary": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show\u2026",
     "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own"
+  },
+  "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigXm446RUyCxv1-oRtdkXFCb2Hax0UsQEnanQtli1OViTiFpjV4Jb96qpsy94Td6DK6LDrre8q2masVzeA9X1hQE8ct3TEChlzZmNTaqux1CDT52o1A_6cuQYY4-inbvKDNYN4rqTGNrmrit-YcGBZbTppW5RUxNvcom2OV9pS8jU8twPWsj_Vtwgjqvg/s1600/tp.jpg",
+    "published": "2026-10-09T13:22:53+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with &nbsp;Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California compan\u2026",
+    "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties"
   },
   "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html": {
     "categories": [],
@@ -27930,6 +28011,17 @@
     "summary": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations Raw threat intel isn't enough without real-world context. Criminal IP has partnered with Securonix to integrate exposure-based intelligence into ThreatQ, automating analysis and speeding up in\u2026",
     "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations"
   },
+  "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-10T12:30:39+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that conn\u2026",
+    "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management"
+  },
   "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/": {
     "categories": [
       "Security"
@@ -30168,6 +30260,17 @@
     "summary": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025 The FBI says Americans have lost over $388 million last year to scams using cryptocurrency kiosks, also known as crypto ATMs or Bitcoin ATMs. [...]",
     "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025"
   },
+  "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-09T17:02:29+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "FBI arrests another suspected ShinyHunters hacker after agency breach The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
+    "title": "FBI arrests another suspected ShinyHunters hacker after agency breach"
+  },
   "https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/": {
     "categories": [
       "Security",
@@ -31241,6 +31344,18 @@
     "summary": "German authorities identify REvil and GandCrab ransomware bosses The Federal Police in Germany (BKA) has identified two Russian nationals as the leaders of GandCrab and REvil\u00a0ransomware operations between 2019 and 2021. [...]",
     "title": "German authorities identify REvil and GandCrab ransomware bosses"
   },
+  "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-10-09T15:38:56+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Germany arrests alleged core Qilin ransomware member after extradition Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
+    "title": "Germany arrests alleged core Qilin ransomware member after extradition"
+  },
   "https://www.bleepingcomputer.com/news/security/germany-warns-of-signal-account-hijacking-targeting-senior-figures/": {
     "categories": [
       "Security"
@@ -32284,6 +32399,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers abuse FTP server banners to deliver new Windows malware Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
     "title": "Hackers abuse FTP server banners to deliver new Windows malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-09T20:31:37+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
+    "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/": {
     "categories": [
@@ -43482,6 +43608,17 @@
     "summary": "Unlimited Technology Systems breach impacts 3.8 million people Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
     "title": "Unlimited Technology Systems breach impacts 3.8 million people"
   },
+  "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-09T17:17:23+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
+    "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto"
+  },
   "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/": {
     "categories": [
       "Security",
@@ -48534,6 +48671,15 @@
     "summary": "Get Out of Security Debt by Tackling the Exposure Problem Teams digging out of security debt need to answer only two simple questions: Which vulnerabilities in our systems are exposed, and how long should they stay that way?",
     "title": "Get Out of Security Debt by Tackling the Exposure Problem"
   },
+  "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38c86b96657cb954/64f152a12e2a138ddece5db3/remotework-family-insta_photos-Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-09T16:25:05+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks.",
+    "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too"
+  },
   "https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfcc8475497281343/67e40db954e011810a508de7/threat_intelligence_(1800)_Futuristic_overlay_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -49005,6 +49151,15 @@
     "source": "darkreading",
     "summary": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.",
     "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2b112712c8bb12fb/6ac941a985fe76474e2a9b2b/Clothes-triocean-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-09T20:58:32+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "ASOS Breach Reveals the Risks in Customer-Facing SaaS The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network.",
+    "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zero-day-end-of-life-d-link-routers": {
     "categories": [],
@@ -50499,6 +50654,15 @@
     "source": "darkreading",
     "summary": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet.",
     "title": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover"
+  },
+  "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt90b8b5144c2f800e/6ac8017e3277a45cef5b830f/Q3-MandA-deals-cybersecurity-Momentum_Cyber.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-09T19:26:26+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI Scramble Drives Cybersecurity M&amp;A Boom Welcome to another gangbuster year for strategic M&amp;A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms.",
+    "title": "AI Scramble Drives Cybersecurity M&amp;A Boom"
   },
   "https://www.darkreading.com/cybersecurity-analytics/are-we-training-ai-too-late": {
     "categories": [],
@@ -52827,6 +52991,15 @@
     "source": "darkreading",
     "summary": "Enterprises Aren't Confident They Can Secure Non-Human Identities (NHIs) More than half of organizations surveyed aren't sure they can secure non-human identities (NHIs), underscoring the lag between the rollout of these identities and the tools to protect them.",
     "title": "Enterprises Aren't Confident They Can Secure Non-Human Identities (NHIs)"
+  },
+  "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd7326c761c708ed3/654e39e8a2ed90040a1595a2/FBI_hoody_jvphoto_Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-09T17:21:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "What We Missed: FBI Strikes Back at ShinyHunters In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center.",
+    "title": "What We Missed: FBI Strikes Back at ShinyHunters"
   },
   "https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion": {
     "categories": [],
