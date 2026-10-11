@@ -28617,6 +28617,17 @@
     "summary": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight Cargo theft now starts with phishing emails and stolen credentials, not hijackings, to reroute and steal freight from supply chains. NMFTA outlines how cyber-enabled cargo crime is changing transportati\u2026",
     "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight"
   },
+  "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-10T15:07:54+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunter\u2026",
+    "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers"
+  },
   "https://www.bleepingcomputer.com/news/security/cyber-theory-vs-practice-are-you-navigating-with-faulty-instruments/": {
     "categories": [
       "Security"
@@ -32343,6 +32354,18 @@
     "source": "BleepingComputer",
     "summary": "Hacker mass-mails HungerRush extortion emails to restaurant patrons Customers of restaurants using the HungerRush point-of-sale (POS) platform say they received emails from a threat actor attempting to extort the company, warning that restaurant and customer data could be exposed\u2026",
     "title": "Hacker mass-mails HungerRush extortion emails to restaurant patrons"
+  },
+  "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-10-10T14:16:17+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
+    "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks"
   },
   "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/": {
     "categories": [
