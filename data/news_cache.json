@@ -17789,6 +17789,15 @@
     "summary": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners.\n\u2026",
     "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge"
   },
+  "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrKeT1xQm0N8zjNRqWwsoqMm3kESRMqYnUJ9Wy6x9dEKlRVgZYDVqKqhu_2ZT7ZcCNd_RegNu2LtnUUQgL8R2OlK5LTyu9vKaCBRGTVrp05hGdB5wQrxFNi_eHnGxx-8yFR7maKT3tD_WBMVVBSeTyuku392tKdoOHIgvnj1tKQYU_Yq9anT5OKxUun4GW/s1600/wp-php.jpg",
+    "published": "2026-10-12T09:02:14+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack.\n\nThe critical vulnerability in question is \u2026",
+    "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE"
+  },
   "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlqu6e-ijwp1hAEuYyfUUL9hV5kwu0cIe1cMibzayov0GdV2FkSpwvF10YKcxLyw1AUNdKF54RV9o3bfeshwWIWdda1AvgNm4iu6t9F16pb1jOVDQRXBoRjw2uueD4Ov7oEzjPJV7pXgK1U-MzkkqRKgHqP207GG2pqtkRQ09IVZ94HvSlBVArvu7tkNE/s1600/google-tls.jpg",
@@ -17815,6 +17824,15 @@
     "source": "The Hacker News",
     "summary": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation finding\u2026",
     "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft"
+  },
+  "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfIDT5M3MmWcxPZrWKZ_8EOy_WZY9iQHv9CQrAKcSZ7_EAadHyWzg9Aa5zQizJiwjNNLp6TDGShed4uvK0iq0d5TQHOV4wqah_jnbuJK-gFuObDCjO_bhwobK9PlO-CmK92s9PueGqpPI_puFGDAS_t4evoyjokLRlaXbql9cGN3d7POdsiXyUYvicVs/s1600/bring.jpg",
+    "published": "2026-10-12T11:55:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the\u2026",
+    "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In"
   },
   "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html": {
     "categories": [],
@@ -17887,6 +17905,24 @@
     "source": "The Hacker News",
     "summary": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KE\u2026",
     "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes"
+  },
+  "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglEbu7YOWX4lrTm_x8p2FnL6B7z2hhGC0fKWPBSCVJqTt8l0rbcXFhQinT3ja0sVyx7hObbCQlmem9y4-wsxrwU6mtgsBIJjvH7rgC8n5w8DpEcv7G1N_u4dtOzA3qxVk22FPvly-ZmjsLJKdJqgTsKPtMHpit1oq-fk7jPFN1gTHLeJdF2JQRZ8yuwjxv/s1600/sonics.jpg",
+    "published": "2026-10-12T10:36:56+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure.\n\nThe vulnerability,\u2026",
+    "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch"
+  },
+  "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjQWPc2H2EsKbjYztfxdp2ffZz6TGQNJ9BuALJB44sWqXbCxEa61fu5CZ4w1rS0llVr3hQP4H_Vg5Fj87Jrs5IoUDpBmochh3rA5bMMr3V4hUT22HTPgLUeX9WhGIQuFm4zF-Kf3zIzSNsQGQlP_gkSSSV-hu5rp5CHX_1T83TOeWsYia_xbuHLlwAxDv/s1600/claude-hacker.jpg",
+    "published": "2026-10-12T07:26:12+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastr\u2026",
+    "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records"
   },
   "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html": {
     "categories": [],
@@ -18031,6 +18067,15 @@
     "source": "The Hacker News",
     "summary": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said.\n\nThe \u2026",
     "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks"
+  },
+  "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4nzJQQovkKtR-dl3ihW4VRAfIxiKwNwwVEHyH06we8iIkQbaxVqhryWIwB9MflLHfBYAd_opklCfnkLxg-GKqB2yt4CisdNcf2lRvOoaYHo9Pa6m1OWatzNsFHmY1ICBH_0P2XX4ykgFE7Gqviz0C0_8J0Qqz36_3gygDyHbot9z5obuYEHunIFsZmPQV/s1600/ledgers.jpg",
+    "published": "2026-10-12T11:21:48+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller.\n\nOn Friday, th\u2026",
+    "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports"
   },
   "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html": {
     "categories": [],
@@ -22770,6 +22815,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Windows 11 23H2 Home and Pro reach end of support Microsoft has reminded customers today that systems running Home and Pro editions of Windows 11 23H2 have stopped receiving security updates. [...]",
     "title": "Microsoft: Windows 11 23H2 Home and Pro reach end of support"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-10-12T11:58:33+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Windows 11 23H2 reaches end of support in 30 days Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security updates next month. [...]",
+    "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-bug-crashes-key-system-components/": {
     "categories": [
@@ -28671,6 +28727,17 @@
     "summary": "Cyberattack on Polish energy grid impacted around 30 facilities The coordinated attack on Poland's power grid in late December targeted multiple distributed energy resource (DER) sites across the country, including combined heat and power (CHP) facilities and wind and solar dispa\u2026",
     "title": "Cyberattack on Polish energy grid impacted around 30 facilities"
   },
+  "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-12T15:23:34+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Cyberattack shuts down refrigerators at French supermarkets Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
+    "title": "Cyberattack shuts down refrigerators at French supermarkets"
+  },
   "https://www.bleepingcomputer.com/news/security/cybercrime-goes-saas-renting-tools-access-and-infrastructure/": {
     "categories": [
       "Security"
@@ -31579,6 +31646,17 @@
     "summary": "GitLab warns of high-severity 2FA bypass, denial-of-service flaws GitLab has patched a high-severity two-factor authentication bypass impacting community and enterprise editions of its software development platform. [...]",
     "title": "GitLab warns of high-severity 2FA bypass, denial-of-service flaws"
   },
+  "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-12T13:09:09+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "GitLab warns of max severity code execution vulnerability GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]",
+    "title": "GitLab warns of max severity code execution vulnerability"
+  },
   "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/": {
     "categories": [
       "Security"
@@ -34215,6 +34293,17 @@
     "summary": "Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops In cybercrime markets, trust isn't assumed, it's verified. Flare reveals how underground guides teach actors to evaluate carding shops based on data quality, reputation, and survivability. [...]",
     "title": "Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops"
   },
+  "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-12T14:00:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix\u2026",
+    "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption"
+  },
   "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/": {
     "categories": [
       "Security"
@@ -35029,6 +35118,18 @@
     "source": "BleepingComputer",
     "summary": "Learning from the Vercel breach: Shadow AI & OAuth sprawl A single third-party OAuth integration can become a direct path into your environment. Push explains how the Vercel breach shows a compromised OAuth app can lead to widespread impact across downstream customers. [...]",
     "title": "Learning from the Vercel breach: Shadow AI & OAuth sprawl"
+  },
+  "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-10-12T16:27:23+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Ledger confirms hardware wallet spy implant behind crypto thefts Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
+    "title": "Ledger confirms hardware wallet spy implant behind crypto thefts"
   },
   "https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/": {
     "categories": [
@@ -38406,6 +38507,17 @@
     "summary": "Nintendo confirms data stolen in WebMD subsidiary cyberattack Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]",
     "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack"
   },
+  "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-11T14:23:46+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]",
+    "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records"
+  },
   "https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/": {
     "categories": [
       "Security"
@@ -40580,6 +40692,17 @@
     "source": "BleepingComputer",
     "summary": "Residential proxies evaded IP reputation checks in 78% of 4B sessions Researchers warn that residential proxies used to route malicious traffic are a big problem for\u00a0IP reputation systems, as there is no clear distinction between attackers and legitimate users. [...]",
     "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions"
+  },
+  "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-12T13:51:07+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Retail giant Ahold Delhaize takes systems offline after cyberattack Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]",
+    "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack"
   },
   "https://www.bleepingcomputer.com/news/security/retail-giant-coupang-suffers-data-breach-impacting-337-million-people/": {
     "categories": [
@@ -48585,6 +48708,15 @@
     "source": "darkreading",
     "summary": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.",
     "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face"
+  },
+  "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1af4e2379ab157d1/6acccef948d88f002c998abc/relay-baton-fstop123-Getty-471909139.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-12T12:30:58+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Passing the Baton: Dark Reading Names New Editor-in-Chief Fahmida Y Rashid will keep the momentum going as she leads Dark Reading.",
+    "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief"
   },
   "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms": {
     "categories": [],
