@@ -17798,6 +17798,15 @@
     "summary": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack.\n\nThe critical vulnerability in question is \u2026",
     "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE"
   },
+  "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64tQNgn3aqDhyphenhyphengoK8NxQG3DPvWWi0fP185meJUr14eUmcX18mKJdkUz6QsMU6bTxmwAtHrd8I0J5FQjvTENA1-N1F60zsR1x2iDzaJNhPbg_6iGYTELpBOwiTbBiaMWLmWQ4naaMfCLCcThNEfC302zF-YCjlev6138DvUrXfr5noGCpZaT9JnGd7hUw/s1600/supermarket.jpg",
+    "published": "2026-10-13T08:48:41+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Attackers Heat French Supermarket Fridges Up to 50\u00b0C by Hijacking Danfoss Controllers Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said\u2026",
+    "title": "Attackers Heat French Supermarket Fridges Up to 50\u00b0C by Hijacking Danfoss Controllers"
+  },
   "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlqu6e-ijwp1hAEuYyfUUL9hV5kwu0cIe1cMibzayov0GdV2FkSpwvF10YKcxLyw1AUNdKF54RV9o3bfeshwWIWdda1AvgNm4iu6t9F16pb1jOVDQRXBoRjw2uueD4Ov7oEzjPJV7pXgK1U-MzkkqRKgHqP207GG2pqtkRQ09IVZ94HvSlBVArvu7tkNE/s1600/google-tls.jpg",
@@ -18023,6 +18032,15 @@
     "summary": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory.\n\nT\u2026",
     "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers"
   },
+  "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOWNiMkzMghhERT5BPyrVI9JdCWExRLtDNHIHPjmT_WnGhLHyWhahW3xPurPPQJUn7Yz0_g9Nk0zWinEKh4J71g9viLtNVx2fM2anNzhA514PAgZBxobRfeP1jSsovLI6iVi9HIUXxv_dLvK8DrKy5vZktoxrxyd0riB83XCR2dlne7lEgTqdXW1Rwhekz/s1600/gitlab-exploit.jpg",
+    "published": "2026-10-13T08:43:37+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution.\n\n\"GitLab ha\u2026",
+    "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code"
+  },
   "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJ8xcgqF85kQru4JEuCv6OipwHlff6IEp3r1zhFOY9tYpbwEeWYSqzPTILX4uqM97Cc9ZfNfb3HB4lZbecN48fqKgKryAL60KqqZU4HmdfTMsRYaDcFjNL7aE8vk7G0D_-mqY_B2Jk_3kXMsx2ABpgbWixg1GHZ2l7V0MSzqtEWnYZ_ymkOTf0j8yq2c/s1600/onion.jpg",
@@ -18077,6 +18095,15 @@
     "summary": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller.\n\nOn Friday, th\u2026",
     "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports"
   },
+  "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs2Z0M9u8vYqE8SBNBzfOGoc4Crog-_PBWeZNY8IprfYaa08ZyZ_PTfMhosBFrQNS_f1JecVbl_HEq7sutExV_92yaZWVIA51YD59JOFa_fKZQyEvpZNUxai8pgDrQX_Kp_wQqJoEFFQIFEwa2c3vhyphenhyphenQtU0U9w5XDwjSAij3BPz_qRs7-t0eu8ZssOZuE/s1600/lg-tv.jpg",
+    "published": "2026-10-13T11:09:10+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner.\n\nLG has issued a fix, according \u2026",
+    "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network"
+  },
   "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYVdFxWk-OP9_vpIdzp0S9ffqMNnyAMbRWKklSryVockcistDlpX5ZcfLGluaqpHqdsu_DoOaFq2J1z5jTVNatxS8aoQjMNS1PoEYOAZrj1V1Spdk67LUZgSlSPlqeEULSVSbHZfkCimWV56E2HKs_IUNrJaYFrPPq0YaXS2sEMBVZNJM0f2ydfUMFREw/s1600/office-sheet.jpg",
@@ -18094,6 +18121,15 @@
     "source": "The Hacker News",
     "summary": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade\u2026",
     "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan"
+  },
+  "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWazS9FTiMttWg9JuwySbOkXe9WBGk6EnDbYXfmFzGaoTsXD3FQKLo7YxjnYk9MIZlfmdt08nW3qRKbLggGv2H7ondflK4CbpXu98CiCxnccJfwnrvUwEhMVIHUdt7GO198VkHXASs12AKWj4r44vpT5mF5BHLqX9spJT24dZmpMGqOKyuqoh25f1UuqpY/s1600/android-malware.jpg",
+    "published": "2026-10-13T06:00:11+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices \u2026",
+    "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies"
   },
   "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html": {
     "categories": [],
@@ -18184,6 +18220,15 @@
     "source": "The Hacker News",
     "summary": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to\u2026",
     "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers"
+  },
+  "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkLz0n_kNY4YMLYNTi1KElj3dkaig5LqA6Koy92X4ndKfwBO8ctC5bNVyII81TUHljc7MGrpMZBsUX5j4126sBd3Sk5fX_DGjIo-yz5qGrRsHgi2qiLNUUbfCSvOHcE-KoYqGzNLBvTVzwEKDt2hZ4dvGK8YYOTeA-f6FHX49GA0myiau9Mqgc_LT7D1k/s1600/bit.jpg",
+    "published": "2026-10-13T10:30:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Product Walkthrough: Bitdefender AI Visibility and Control A user opens a browser tab, pastes data into a chat assistant, and nothing is installed.\n\nA developer adds a coding&nbsp;assistant as an editor extension, and nothing shows up in the installed programs list.\n\nSomeone down\u2026",
+    "title": "Product Walkthrough: Bitdefender AI Visibility and Control"
   },
   "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html": {
     "categories": [],
@@ -18311,6 +18356,15 @@
     "summary": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with &nbsp;Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California compan\u2026",
     "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties"
   },
+  "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvGRzVYOU1S12WE6ja5ZSrhInOGaNdwCGGwWch1oJn_SDtoy90ycGVjd-JeDjwSSH8XDzKlkoKsu_vlND1iW0aWJgEqf3Ti18goDI0yXeaLbF2DHrokj8Qdvm1kHEi8wqdm6_axRi17PVBqtlgFWLpZnv6Eufx_bFMkpWcnz6ymbQI4IDB7lgYi3QrZ7w/s1600/amrk.jpg",
+    "published": "2026-10-13T08:44:01+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control Two of 31 newly disclosed flaws in Progress Software's&nbsp;MarkLogic Server&nbsp;database could let an account given only some management privileges take administrator control of the server, the \u2026",
+    "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control"
+  },
   "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZWPW7zD0DZUCKyeRcD-sBZtZ28n4PPaJDPjiskf9ghOI7b3aYbYCEbNvITxaYjCkejq8Vfuc0xeZtJ7p2R4j4dEqGXwfb1JLqQVHrgE4uxdSCq-JJgAeLA0WZbz5Fi98LQbxr3ncRXodrBd83xaX2UpXtDb-Q55ryWBPeXGAQlDBykN_BYecleld5rxJM/s1600/uk.jpg",
@@ -18355,6 +18409,24 @@
     "source": "The Hacker News",
     "summary": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, an\u2026",
     "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia"
+  },
+  "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIhyphenhyphenHu3P6G99-W2G5NryBVw_aHrwdzZeMvGjoMkyUiKFOtwD_fqUvdytUAQuhg9gPZzpsWSFatNS2LcMylaW4jsMmRR-tmAXkZxokH4WcEqnXTlFnBFgg8-20j4LsTCQMaKRJY-ysNuH8uXg_D3Zb626eqIdGeTkkmvyh95PERJ_mnaPNnnv2maV0q4F2-/s1600/silverfort.jpg",
+    "published": "2026-10-13T11:57:06+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next.\n\nWith AI accelerating reconnaissance, exploitation of vulnerabilities, a\u2026",
+    "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls"
+  },
+  "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv97S5d5aYZZRto-_3AfPjT2TmAcI0KYQm4zY7cXyf1hz-GHIcmuL9wF5IIzmg3D7_F-yh6Z9qtamVwEikSKd3tuy5eGo_mN2Qw-O602x4Abiwuf5Q9G72nX4ZOeFRly8woPJ8EBn2USmFIdDUVg6P-3f8nUPDTbcqrAF5JWsu_NRWTvz6EF5YVVqPrbvY/s1600/cy-cap.jpg",
+    "published": "2026-10-12T15:16:26+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warni\u2026",
+    "title": "\u26a1 Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More"
   },
   "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html": {
     "categories": [],
@@ -18409,6 +18481,15 @@
     "source": "The Hacker News",
     "summary": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without ha\u2026",
     "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory"
+  },
+  "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGjfJJaKUMdLoNBTH2AYUmelL_XonLcf93p8hSgMXRbLGJwReAYV-BUZ2jpBPuvUQktW0PTKi1-21oFnBJF8PfECgT7t5r-S-iMUxjrdoWPf3EDxa2IVrQYjT98HG6s-LfPlJqm8mArrfEOEZS_scT7EYG8eXxMrUaII0UaQ3kAmWDJ3mRTR4JyIJhj-5S/s1600/grindr-data.jpg",
+    "published": "2026-10-13T13:12:32+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, \u20ac8.6 million ($9.62 million) for illegally relaying \u200bGrindr users' sensitive data to adve\u2026",
+    "title": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/": {
     "categories": [
@@ -24558,6 +24639,18 @@
     "source": "BleepingComputer",
     "summary": "Anthropic claims of Claude AI-automated cyberattacks met with doubt Anthropic reports that a Chinese state-sponsored threat group, tracked as GTG-1002, carried out a cyber-espionage operation that was largely automated through the abuse of the company's Claude Code AI model. [...\u2026",
     "title": "Anthropic claims of Claude AI-automated cyberattacks met with doubt"
+  },
+  "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-10-12T18:51:59+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Anthropic takes risky AI tests offline after models breach govt sites Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, \u2026",
+    "title": "Anthropic takes risky AI tests offline after models breach govt sites"
   },
   "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/": {
     "categories": [
@@ -38665,6 +38758,18 @@
     "summary": "North Korean WaterPlum hackers infected 30,000 devices worldwide A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stol\u2026",
     "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide"
   },
+  "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-10-12T20:13:52+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the \u2026",
+    "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing"
+  },
   "https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/": {
     "categories": [
       "Security"
@@ -41240,6 +41345,17 @@
     "summary": "SAP warns of critical flaws in NetWeaver and Commerce Cloud SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter. [...]",
     "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud"
   },
+  "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-13T13:51:02+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "SAP warns of maximum severity OAuth2 SSRF security flaw SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]",
+    "title": "SAP warns of maximum severity OAuth2 SSRF security flaw"
+  },
   "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/": {
     "categories": [
       "Security",
@@ -42794,6 +42910,17 @@
     "source": "BleepingComputer",
     "summary": "The Hidden Security Risks of Reduced Summer IT Coverage Security operations don't slow down when IT teams take vacation, but staffing levels often do. Kaseya explains how AI-driven automation can help organizations maintain consistent security operations and reduce reliance on ma\u2026",
     "title": "The Hidden Security Risks of Reduced Summer IT Coverage"
+  },
+  "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-13T14:01:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "The MFA Gaps Attackers are Still Exploiting Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizati\u2026",
+    "title": "The MFA Gaps Attackers are Still Exploiting"
   },
   "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/": {
     "categories": [
@@ -45516,6 +45643,18 @@
     "source": "BleepingComputer",
     "summary": "XBOW tests Anthropic's Mythos Preview for offensive security Anthropic's Mythos Preview was highly effective at finding vulnerability candidates, especially when analyzing source code. XBOW explores how the model performed across exploit discovery, reverse engineering, and live-s\u2026",
     "title": "XBOW tests Anthropic's Mythos Preview for offensive security"
+  },
+  "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/": {
+    "categories": [
+      "Security",
+      "Cloud"
+    ],
+    "image": "",
+    "published": "2026-10-12T19:23:01+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Yandex confirms service outage as users lose access to cloud files Russian cloud services provider Yandex\u00a0announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
+    "title": "Yandex confirms service outage as users lose access to cloud files"
   },
   "https://www.bleepingcomputer.com/news/security/yanluowang-initial-access-broker-pleaded-guilty-to-ransomware-attacks/": {
     "categories": [
@@ -51431,6 +51570,15 @@
     "summary": "Cribl Adds Agentic Detection Engineering &amp; Boosts SecOps With CardinalOps Deal CardinalOps will give Cribl customers the ability to map detection rules and security controls to the MITRE ATT&amp;CK framework. SecOps teams can identify coverage gaps and operationalize threat i\u2026",
     "title": "Cribl Adds Agentic Detection Engineering &amp; Boosts SecOps With CardinalOps Deal"
   },
+  "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc4e8be3c10aa2950/6acd23ee26d33c046ebc6ef9/resilience-hogehoge511-Getty-2296989476.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-12T18:27:25+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "No Identity, No Recovery: Cyber Resilience Starts With IAM The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink.",
+    "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM"
+  },
   "https://www.darkreading.com/cybersecurity-operations/cyberattacks-part-military-operation-venezuela": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6ade82a147ae120c/695d80d35a9f9636a7902ea3/digital-venezuelan-flag-Skorzewiak-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -53296,6 +53444,15 @@
     "source": "darkreading",
     "summary": "Is It Fair to Blame 'Rogue' AI for Security Failures? &quot;Rogue AI&quot; terminology anthropomorphizes LLMs and shifts risk responsibility from vendors. Defenders should treat agents as untrusted, nondeterministic software systems, not sentient beings with malicious intent.",
     "title": "Is It Fair to Blame 'Rogue' AI for Security Failures?"
+  },
+  "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt86362c732a1ea960/6acd300ce9fd233382c61151/business_negotiation-rudall30-GettyImages-2291181534.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-12T20:00:53+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Prominent Ransomware Negotiator Faces Extortion Charges Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money.",
+    "title": "Prominent Ransomware Negotiator Faces Extortion Charges"
   },
   "https://www.darkreading.com/insider-threats/ransomware-negotiator-pleads-guilty-blackcat-scheme": {
     "categories": [],
@@ -55444,6 +55601,15 @@
     "source": "darkreading",
     "summary": "Max-Severity Ivanti Flaw Exploited 24 Hours After Disclosure Initial methods suggest attackers had likely mapped out Ivanti's asset landscape upfront and acted quickly once the exploit became public.",
     "title": "Max-Severity Ivanti Flaw Exploited 24 Hours After Disclosure"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt03ff00aa0ccf043c/685b010d7bd6c2cb5e6d4834/SonicWall_sign_Michael_Vi_Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-12T21:42:42+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position.",
+    "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack"
   },
   "https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited": {
     "categories": [],
