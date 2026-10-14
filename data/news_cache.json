@@ -17699,6 +17699,24 @@
     "summary": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys.\n\n\"The exten\u2026",
     "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases"
   },
+  "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhavZnpNnmOBy6Wnkh7wfYD4-I32k65R7uyhYW32Doh3YVqtfJaagZZ_uo9JN-cixODo6h846eR89Aa55TGuMKfXmpjZEVZQ0ssFoP4-qVX6qrvSoyfRsu_q3MQcLKwolyKeE3Lw3MByz2Su8O0XOdRWNkJmyBdwpxsAtxi5y2goE7RhOSBPOLh4Evb60c/s1600/linux-exploit.jpg",
+    "published": "2026-10-14T07:46:57+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an unt\u2026",
+    "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host"
+  },
+  "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s1600/case.jpg",
+    "published": "2026-10-14T11:00:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part. The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part.\n\nTL;DR\n\n\n  During an authorized assessment, an AI pentesting agent found\u2026",
+    "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part."
+  },
   "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5MS0sgdeAX_o_HWccABZaieMupy9x1vp2YHXeUfCod9bQMOAfEufGcm59eXhz4cQnwur_AjUhL1ER6FkR4nacwK2pn8K8ojfyZ254B_1Jfjk1OXwBi4VzqhPXgHukmnvVP5ItRHUeez8TcJVXvPlXRBIj0-h6YrI0rhn1G6RFyeZPT9jJf6y4Ng8D_1OD/s1600/android17.jpg",
@@ -17734,6 +17752,15 @@
     "source": "The Hacker News",
     "summary": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI).\n\n\"It's an opt-in service informed by our experience\u2026",
     "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects"
+  },
+  "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigX1U6rARsREVvdJOVd0vGWuybd8470_G2xcVMyp0u_rHrimpzBkv2-Qyo_qcx_9BpQOlndrW-P1tpya8dQwnEscYsg1NYPq3kGXKayoosc20QHDXRyadNlRMTuSa2KKSaI0qoq4gO415S3LTux5cPcUieRF6PW4xzeILW-D80v3jkwWRni7y51t4Y6Hnu/s1600/ai-botnet.jpg",
+    "published": "2026-10-13T18:20:57+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Ant\u2026",
+    "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets"
   },
   "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html": {
     "categories": [],
@@ -17779,6 +17806,15 @@
     "source": "The Hacker News",
     "summary": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions.\n\nTh\u2026",
     "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details"
+  },
+  "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSH26NsXmSsQGaAbhNyJLMaBQKFCmabIbFZ_yi2sUGXjHQOVztQEQfXLarEAx1Fl9lRwGAryBE4zZEooJ4cochODcB4x8wQnPl3MRWiyBcpyEV6i8VPxvwcLHmShQVZVhuOcTjMXRhHAlx4Y0Uo85c74EVU4cea84YgXju02I9jlNzcGOFtLfa_am82Q/s1600/ivanti-hack.jpg",
+    "published": "2026-10-13T17:33:11+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivan\u2026",
+    "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far"
   },
   "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html": {
     "categories": [],
@@ -17951,6 +17987,15 @@
     "summary": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the co\u2026",
     "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account"
   },
+  "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEile879Rmv8zAdU5PMclUp5RnNGDb3h1u3aVZ-VigGjnO0RFcyCQ03s7_lIqMGDiow5ilPumq3B2_bsvewqRlepch4lFwLvOUEDQZPYd9Vv8untJVZFmrv5Zhgvj54cs4J_vCYW4GVY-XsQl7SXD-yrXbED6KpiWbTq-kL_0aNwef3xjV3cBGQ3dsodqAM/s1600/dock.jpg",
+    "published": "2026-10-13T18:03:18+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says i\u2026",
+    "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another"
+  },
   "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgopANe3MXyNNOXog__x1pF53wYoQxinI47tN9gLrZSzJfumz-Dg05ZfyjiGsqF47Pugj71iZ1buX7OEiupWYa09xVQdu7DKOMX5NO-uGKCF0UjNila0x5fNiYw5NWEX1TUQTPidjT5NnGmPwM_6mGfKcOxqcjZuPAZLdzRX5u_TXJM76GQ6mQOkikw_kxo/s1600/npm-malware.jpg",
@@ -18023,6 +18068,24 @@
     "summary": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-lin\u2026",
     "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies"
   },
+  "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNi7OCo6m5vsFkEP85LndyXnfiDgk2h5R0WwW_yHZ7mdK6Uh9xuLaI5ddFQJ45fW7jG8eC4VtIHJT1IQaUJCoAEMClMEiv9dA9kASwDQJj4l61ZSIlqW2bw605LQLL5kNUszoxI8Wkr54oguKY7guQGE9rwUmvzCVUjt19-0pWJpxir366NU5eqopHmk/s1600/enclave.jpg",
+    "published": "2026-10-14T05:52:28+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.\n\nThe protected area is a VBS enclav\u2026",
+    "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave"
+  },
+  "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3aDWaWT6PmRDL9d6tHPDisxclb_Ak7YZIxuS02EUFvNaWrc4_UKwUqW0RI1KT3r8zsneOguD6b85yg8mf3gAzZZOGuLi-mXckG_yzwmXXb3IchTBSVeRvPlUo7QU4Kp4yiM6QqPshmo4p0GQ55XZPTEDc0DZn9N84S_ZibZ4rkXuhZ3OvoHNCYH-wk0k-/s1600/git-npm.jpg",
+    "published": "2026-10-13T16:18:18+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions\u2026",
+    "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking"
+  },
   "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXhnbLdlAtkMBrrXYLiOxfbEdXI4PrEIq6dy3SL8Xa5SzPF6if9sf8GGu4PtkUTI3EYQHqBde4cDp4Y60OjgQBmqtZHTlL_gvgvlxNSeZ6nrRnriOmH3m23vq7f2bpylilVl39c_X-RNpvYQlRrC91gU_oHbk6e_ZbZ-7_fglpsQCFoLFp3sHkcn44960/s1600/gitlab-rce.jpg",
@@ -18067,6 +18130,15 @@
     "source": "The Hacker News",
     "summary": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind\u2026",
     "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version"
+  },
+  "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj010OXrg2ZBrxwqSnpzd8SrIDY_dYOMtdnzIpG7YnCjv1QB58_HylDTkfFmXtZYci90doRcSrPdFfYLowM_S5t2RpD6UkCoWveJrKajQS-7d3sDtyI22FYN0TKy-pQpzWScUB_ROhXRNzZi9dzhgg02kH3WVtdGPNWYBLKv8qZgsa9kREW1SvZ2LTF2AWV/s1600/android-banking.jpg",
+    "published": "2026-10-14T11:08:22+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to \u2026",
+    "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks"
   },
   "https://thehackernews.com/2026/10/how-financial-services-companies-can.html": {
     "categories": [],
@@ -18158,6 +18230,15 @@
     "summary": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions.\n\nThe vul\u2026",
     "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes"
   },
+  "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_wUoSEpf7bMmgL7Aa7NRI6qvluN83g3TcKAONrL5REtzYQIVR4TqrNs0awkDsRCXvaSEaOn83V0t1jpwkrh5FULBjyQJnxe-m4gkgjMHRC0SZHpkBDNjOSuZUrOXU5R6JGt4dwZXXn4JHYSoc4n22nIXcFIYtC51Vv89hGimRebEKzQ9-PX1U7M4Lk4ST/s1600/windows-patch.jpg",
+    "published": "2026-10-14T04:34:43+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation.\n\nThese include 1,102 fl\u2026",
+    "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug"
+  },
   "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Hxj4Ir77Q0O6Rp9Sl0KYLSls340zQ9WBZYebBilMmz0l_V2uLs76lrTrFnLxVfjx_FhV6wGm9rRxUTxCE-f3aZwo-DTYvYoSEd4AuW0qFFKOmrHFO44mToyUy7yzpvSnAmaUUUs4yEg_91GBxijxbPxhYcB22TX7c4WdmekZaddHxvs_V89WUdgM3dte/s1600/rasnomware-fees.jpg",
@@ -18184,6 +18265,15 @@
     "source": "The Hacker News",
     "summary": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models.\n\nA \"cor\u2026",
     "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates"
+  },
+  "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE6tXAfDSv5HwaNsBdrtgbjvOoTMYJuMGQPGpLM5auUfz9dUSuExG-IY_42zMx-VP8GbM-oXAVGbKjHIqNOHy08-lKsCPrJMbhPrDw-9UlJpapcAMZohyphenhypheng7IZh192IoEGs66NRp6TNCWIFYsO5oh9gKkIeILKD_8zdzCHBmoJCeCi65kZjDvQyZwzicV2I/s1600/opens.jpg",
+    "published": "2026-10-14T01:59:25+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room A Saudi national and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covert\u2026",
+    "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room"
   },
   "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html": {
     "categories": [],
@@ -18247,6 +18337,24 @@
     "source": "The Hacker News",
     "summary": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access Security researchers have&nbsp;published a full working exploit&nbsp;for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone appr\u2026",
     "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access"
+  },
+  "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLXn6RSZOSq2StbSf2fHVaHwVEetIYN0wGfuaIcyaEnwSnXLaY1FBfSKPFzzQuKvtpRygCR7AvNixA-SCkIA98QjnT7gE2UWYtoiZLs5VxQC8KTSJwwlcP0helOb3F4hbSo4uqITjJYPiZHSSuKkm1O_BXFYeyEU7koe_77QSmKbU33o5hteBC5-0dxrs/s1600/chrome-exploit.jpg",
+    "published": "2026-10-14T11:19:02+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company s\u2026",
+    "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days"
+  },
+  "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKBZR5elkBVKRcFO6lyde7XYDVO73IBxDvnx9-UkLst3GhVFuK8Yz3QBVIIEJABDjZuJMn8tyf7RLLPIRV8J8qe-OUULjnQRaQNyWricSsOjlKJoyYu8WOvs5PxBWQpzuiq8hlDlOY7zY-qIYDgQ6NFuifS5GbHbnLBET0OTfmsMC8797Mo5un9_ECyg8/s1600/sap-hacker.jpg",
+    "published": "2026-10-13T17:28:50+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 1\u2026",
+    "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft"
   },
   "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html": {
     "categories": [],
@@ -19254,6 +19362,19 @@
     "source": "BleepingComputer",
     "summary": "OpenAI denies rolling out ads on ChatGPT paid plans ChatGPT is allegedly showing ads to those who pay $20 for the Plus subscription, but OpenAI says this is an app recommendation feature, not an ad. [...]",
     "title": "OpenAI denies rolling out ads on ChatGPT paid plans"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Security",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-10-13T22:33:02+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI engineer arrested for allegedly planting spy device in office A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
+    "title": "OpenAI engineer arrested for allegedly planting spy device in office"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/": {
     "categories": [
@@ -21554,6 +21675,18 @@
     "summary": "Microsoft now lets admins uninstall Copilot on enterprise devices Microsoft says IT administrators can now uninstall the AI-powered Copilot digital assistant from enterprise devices using a new policy setting, which has become broadly available after the April 2026 Patch Tuesday.\u2026",
     "title": "Microsoft now lets admins uninstall Copilot on enterprise devices"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-13T19:56:09+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+    "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-updates-trigger-bitlocker-recovery/": {
     "categories": [
       "Microsoft"
@@ -21964,6 +22097,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft releases Windows 10 KB5122878 extended security update Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes. [...]",
     "title": "Microsoft releases Windows 10 KB5122878 extended security update"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-10-13T19:47:30+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft releases Windows 10 KB5126657 extended security update Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+    "title": "Microsoft releases Windows 10 KB5126657 extended security update"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/": {
     "categories": [
@@ -22918,6 +23062,17 @@
     "summary": "Microsoft: Windows 11 24H2 bug crashes Explorer and Start Menu Microsoft has confirmed a critical Windows 11 24H2 bug that causes the File Explorer, the Start Menu, and other key system components to crash when provisioning systems with\u00a0cumulative updates released since July 2025\u2026",
     "title": "Microsoft: Windows 11 24H2 bug crashes Explorer and Start Menu"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-10-13T19:04:38+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Windows 11 24H2 Home and Pro reached end of support Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]",
+    "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-update-causes-outlook-freezes-for-pop-users/": {
     "categories": [
       "Microsoft"
@@ -23538,6 +23693,18 @@
     "source": "BleepingComputer",
     "summary": "Windows 11 KB5124010 update released with 46 changes and fixes Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]",
     "title": "Windows 11 KB5124010 update released with 46 changes and fixes"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/": {
+    "categories": [
+      "Microsoft",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-10-13T17:49:38+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 KB5127648 & KB5126653 cumulative updates released Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities\u00a0and bugs, and add new features. [...]",
+    "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released"
   },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/": {
     "categories": [
@@ -24651,6 +24818,18 @@
     "source": "BleepingComputer",
     "summary": "Anthropic takes risky AI tests offline after models breach govt sites Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, \u2026",
     "title": "Anthropic takes risky AI tests offline after models breach govt sites"
+  },
+  "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-10-13T21:16:34+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Anthropic warns self-replicating AI could spread to your smart devices Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads wi\u2026",
+    "title": "Anthropic warns self-replicating AI could spread to your smart devices"
   },
   "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/": {
     "categories": [
@@ -29286,6 +29465,17 @@
     "summary": "Docker Hardened Images now open source and available for free More than a 1,000 Docker Hardened Images (DHI) are now freely available and open source\u00a0for software builders, under the Apache 2.0 license. [...]",
     "title": "Docker Hardened Images now open source and available for free"
   },
+  "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-13T15:20:20+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Docker Hub flaw let attackers impersonate users, tamper with images Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]",
+    "title": "Docker Hub flaw let attackers impersonate users, tamper with images"
+  },
   "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/": {
     "categories": [
       "Security",
@@ -31582,6 +31772,17 @@
     "summary": "GhostPoster attacks hide malicious JavaScript in Firefox addon logos A new campaign dubbed 'GhostPoster' is hiding JavaScript code in the image logo of malicious Firefox extensions counting more than\u00a050,000 downloads, to monitor browser activity and plant a backdoor. [...]",
     "title": "GhostPoster attacks hide malicious JavaScript in Firefox addon logos"
   },
+  "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-13T21:33:26+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Ghostscript flaw lets hackers hijack servers via PDF uploads A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow\u00a0remote code execution through specially crafted PDF files. [...]",
+    "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads"
+  },
   "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/": {
     "categories": [
       "Security"
@@ -33710,6 +33911,17 @@
     "summary": "Hims & Hers warns of data breach after Zendesk support ticket breach Telehealth giant Hims & Hers Health is warning that it suffered a data breach after support tickets were stolen from a third-party customer service platform. [...]",
     "title": "Hims & Hers warns of data breach after Zendesk support ticket breach"
   },
+  "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-14T11:41:20+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hirudo Android malware replaces banking apps to evade security checks A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
+    "title": "Hirudo Android malware replaces banking apps to evade security checks"
+  },
   "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/": {
     "categories": [
       "Security",
@@ -34679,6 +34891,17 @@
     "source": "BleepingComputer",
     "summary": "Italy fines Apple $116 million over App Store privacy policy issues Italy's competition authority (AGCM) has fined Apple \u20ac98.6 million ($116 million) for using the App Tracking Transparency (ATT) privacy framework to abuse its dominant market position in mobile app advertising. [\u2026",
     "title": "Italy fines Apple $116 million over App Store privacy policy issues"
+  },
+  "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-13T15:45:50+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Ivanti warns of Connect Secure zero-day exploited in attacks Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
+    "title": "Ivanti warns of Connect Secure zero-day exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-endpoint-manager-code-execution-flaw/": {
     "categories": [
@@ -36308,6 +36531,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft links Medusa ransomware affiliate to zero-day attacks Microsoft says that Storm-1175, a China-based financially motivated cybercriminal group known for deploying Medusa ransomware payloads, has been deploying n-day and zero-day exploits in high-velocity attacks. [...]",
     "title": "Microsoft links Medusa ransomware affiliate to zero-day attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-10-14T10:48:09+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Recent Windows updates may trigger Remote Desktop failures Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
+    "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures"
   },
   "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/": {
     "categories": [
@@ -42715,6 +42950,17 @@
     "summary": "Texas sues TV makers for taking screenshots of what people watch The Texas Attorney General sued five major television manufacturers, accusing them of illegally collecting their users' data by secretly recording what they watch using Automated Content Recognition (ACR) technology\u2026",
     "title": "Texas sues TV makers for taking screenshots of what people watch"
   },
+  "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-13T16:44:18+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]",
+    "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers"
+  },
   "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/": {
     "categories": [
       "Security"
@@ -43592,6 +43838,17 @@
     "source": "BleepingComputer",
     "summary": "UK govt. warns about ongoing Russian hacktivist group attacks The U.K. government is warning of continued malicious activity from Russian-aligned hacktivist groups targeting critical infrastructure and local government organizations in the country in disruptive denial-of-service \u2026",
     "title": "UK govt. warns about ongoing Russian hacktivist group attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-13T18:19:44+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "UK Housing Ombudsman Service investigates 'security incident' The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]",
+    "title": "UK Housing Ombudsman Service investigates 'security incident'"
   },
   "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/": {
     "categories": [
@@ -50382,6 +50639,15 @@
     "summary": "Nikkei Suffers Breach Via Slack Compromise The Japanese media giant said thousands of employee and business partners were impacted by an attack that compromised Slack account data and chat histories.",
     "title": "Nikkei Suffers Breach Via Slack Compromise"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7314e52d65e066f0/6ace87d8c13815714705c3f3/Ukraine_DPRK-MicroStockHub-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-13T21:24:45+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "North Korea Phishes Ukrainians for War Intel The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
+    "title": "North Korea Phishes Ukrainians for War Intel"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt61b6b950560b6729/6a974efda0ff3877b64d75b3/philippines-south-china-sea-map-AustralianCamera-shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -51065,6 +51331,15 @@
     "source": "darkreading",
     "summary": "Phishing Attack Volume Down 20%, but Risk Still Rising Hackers are valuing quality over quantity, using AI to upgrade their phishing attacks rather than multiply them.",
     "title": "Phishing Attack Volume Down 20%, but Risk Still Rising"
+  },
+  "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt87997eb0e0a8cb06/6acda095a3dd4913d099a48b/Wrench_money-KenanOlgun-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-14T05:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Ransomware Gangs Embrace Physical Threats, Family Stalking? Organizations are reporting that employees face threats to their families, stalking, physical violence, and abduction. But these alarming claims are hard to verify.",
+    "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?"
   },
   "https://www.darkreading.com/cybersecurity-analytics/retail-services-industries-oceania": {
     "categories": [],
@@ -53597,6 +53872,15 @@
     "summary": "6 GHz Wi-Fi Flaws Could Disrupt Critical Systems Automated Frequency Coordination systems by default trust client-side data, which could lead to location spoofing and other attacks that disrupt traffic.",
     "title": "6 GHz Wi-Fi Flaws Could Disrupt Critical Systems"
   },
+  "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5a7173d7327bf884/6ace896bf0c55fc247c760d8/sour_gummy_worms-bhofack2-GettyImages-824425918.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-13T20:35:23+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Anthropic Finds Ingredients for Future AI Worms Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be &quot;challenging&quot; to shut down.",
+    "title": "Anthropic Finds Ingredients for Future AI Worms"
+  },
   "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5bccc03f4b27984e/6a8754a988809d97a89eb2b5/Jake_Williams_News_Desk_2026.jpg?width=720&quality=80&disable=upscale",
@@ -55975,6 +56259,15 @@
     "source": "darkreading",
     "summary": "And the Winner in Dominant Malware Delivery? ClickFix Researchers say the highly effective social engineering technique is no longer the exception for malware attacks \u2014 it's now the rule.",
     "title": "And the Winner in Dominant Malware Delivery? ClickFix"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2208c9717985ba6f/6aceb2c101a45e612a7baa2b/harvest-China_Photos-GettyImages-71574532.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-13T22:29:57+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday The scary surprises for the largest security update ever include security bypasses and unauthenticated RCEs.",
+    "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday"
   },
   "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch": {
     "categories": [],
