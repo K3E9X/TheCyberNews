@@ -17699,6 +17699,15 @@
     "summary": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys.\n\n\"The exten\u2026",
     "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases"
   },
+  "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH_5A4EPZ4VVdF4dve5fMe4BwreUmtWCJQrgMiBdiZyoFInoZK_nO6ouOwLMCyyQPrXWE4_n3NE39b4C2UQi-G4uE3ufyv7A9IEYEp9O3ggTu7AyDRzOqwVqhLjISLvOTasPiAcdFafFtL7B5uoKtm8GPeFFxrKDupGCoqZJ2o88sUmaGbjKk6E3sJgIKD/s1600/backup.jpg",
+    "published": "2026-10-15T06:43:08+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners.\n\nTh\u2026",
+    "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches"
+  },
   "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhavZnpNnmOBy6Wnkh7wfYD4-I32k65R7uyhYW32Doh3YVqtfJaagZZ_uo9JN-cixODo6h846eR89Aa55TGuMKfXmpjZEVZQ0ssFoP4-qVX6qrvSoyfRsu_q3MQcLKwolyKeE3Lw3MByz2Su8O0XOdRWNkJmyBdwpxsAtxi5y2goE7RhOSBPOLh4Evb60c/s1600/linux-exploit.jpg",
@@ -17897,6 +17906,24 @@
     "summary": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), fol\u2026",
     "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV"
   },
+  "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBUpsAaH4Pe-HlsDhdSH5KK3VgWm9NEXXLNBOpxxp4d8WMZwSNNyPALzuapR_iUlq3-dLDe2bnPJfh42cdfH5m3LQWGKXZvHF3sYacyDbtZacKIIoluyNgP01-6bjjEz-RBhAQqxw-VHGD7gpn3ToRulgeH0ydeWXOucoK4hLBwvXtlCg81tB1scdjPbKN/s1600/i-h.jpg",
+    "published": "2026-10-14T12:30:42+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployment\u2026",
+    "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts"
+  },
+  "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh__fSqm3p4u0HNpmeikU6Mo4abprP417Zb3pPW3-6IGrTHwqkbz1CqiuqxL2D0O1PH8J4Ho3_ZpNdJ5VFluIj_KHX6qT0WqZYfHQzyu0cVzGee9EmAZ9pNzsZJZx40UxuKjuz9eNHvuzlMANKOkDr6aRdKWxs8SpJqSi6vDBQTP5ZFgpgqn3Yj2TYNJU/s1600/cisco-0day.jpg",
+    "published": "2026-10-14T18:38:56+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco&nbsp;said in an advisory&nbsp;on\u2026",
+    "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability"
+  },
   "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAuODp7WTARNyJa6hiyuveQ1LUgYlaYQXGDDfRAYUA7Zkwwb7vMriA7VIh5HmBJwWWR0kALhQkijvT43ke2ajjOQHk6YxQb2rAgsB0PYcbMKPdm-JezjILBH8j3kY29iATKhZLQhVIyAjwNj9XFBTeenqPCHM1AzKMKRCVlMME3jQs5yIYSoVtrbRnVSY7/s1600/citrix-css-shell.jpg",
@@ -17960,6 +17987,15 @@
     "summary": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure.\n\nThe vulnerability,\u2026",
     "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch"
   },
+  "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4S_5rQ2kApGYmSMOh6PFsgD3yRugV3_nzSexwBhEe3BoSTQeBfSu2-3JSO4wDCnU2LmVMWtgA6AcBEcf2wOpsL2v22woZ5fel0XaSonlbgDWSXMuV3iu5ewohp9kqgf4OwmCvtnRyyYjFEP6Z3RRLT5sX8g7-xI1robnLmWtqFp6SvrGvpBeXI_D4ICo/s1600/curl.jpg",
+    "published": "2026-10-14T12:13:36+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading\u2026",
+    "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution"
+  },
   "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjQWPc2H2EsKbjYztfxdp2ffZz6TGQNJ9BuALJB44sWqXbCxEa61fu5CZ4w1rS0llVr3hQP4H_Vg5Fj87Jrs5IoUDpBmochh3rA5bMMr3V4hUT22HTPgLUeX9WhGIQuFm4zF-Kf3zIzSNsQGQlP_gkSSSV-hu5rp5CHX_1T83TOeWsYia_xbuHLlwAxDv/s1600/claude-hacker.jpg",
@@ -17996,6 +18032,15 @@
     "summary": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says i\u2026",
     "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another"
   },
+  "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWENfwA4xQHfwINduJpVTTiNeAmBkevujxbloFijpq7PQV8xOV-iApTx_f5g9ImW_oKJolO1RuhlNeDc2NwoWKOdPfjfdDzMhCuOsWtdyCZOOs2fTW4vmXYixSIdOCw2CwsvSgvEOPxqHUwSoRpxxoMRKKRqsqezOqVNpF5uQaU3cdI7z9L_Y_2WeTImA/s1600/drupal.jpg",
+    "published": "2026-10-15T12:07:20+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19.\n\nAn atta\u2026",
+    "title": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules"
+  },
   "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgopANe3MXyNNOXog__x1pF53wYoQxinI47tN9gLrZSzJfumz-Dg05ZfyjiGsqF47Pugj71iZ1buX7OEiupWYa09xVQdu7DKOMX5NO-uGKCF0UjNila0x5fNiYw5NWEX1TUQTPidjT5NnGmPwM_6mGfKcOxqcjZuPAZLdzRX5u_TXJM76GQ6mQOkikw_kxo/s1600/npm-malware.jpg",
@@ -18004,6 +18049,15 @@
     "source": "The Hacker News",
     "summary": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts.\n\nThe c\u2026",
     "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer"
+  },
+  "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvF5TcwT7nwh6xcCiXS3I0m6qmvF6EorwitA-7ETGlXzpc89JG-rPZye0FkJfFwunfKHXMTkGyg_pBRkBdJv_qaGX32cUdiqoTAA-sjGmsSlKJsL5LUFpyZLiho955h3EtKUCWvtnHyIJgzG1INTIwkqKsCmv3-vsxGXQq8QH-ue0Vl358XyE33wUhxWs/s1600/fake.jpg",
+    "published": "2026-10-15T11:46:59+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns betwee\u2026",
+    "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early"
   },
   "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html": {
     "categories": [],
@@ -18077,6 +18131,15 @@
     "summary": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.\n\nThe protected area is a VBS enclav\u2026",
     "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave"
   },
+  "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiddFchlm_nV3vywI0BM2-8IaZb-wHXwE8DplGqZYkRmcYkeXiSLfVmnVAU-jM4yikWW7SWokanh_S4hq88cVHjAnaWDGkl3VVAtPdv9SHWp0MNb0CIOAA-I73EuwwUSE-wNMnXEzbIdDYorJn2hIuBZQ5Jh_5I2IntiXuUYZz3sKax-wfRoaxy_pD9kGx0/s1600/ghost-git.jpg",
+    "published": "2026-10-15T08:45:10+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations.\n\nThe spike, according to GitGuardian, was observed\u2026",
+    "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories"
+  },
   "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3aDWaWT6PmRDL9d6tHPDisxclb_Ak7YZIxuS02EUFvNaWrc4_UKwUqW0RI1KT3r8zsneOguD6b85yg8mf3gAzZZOGuLi-mXckG_yzwmXXb3IchTBSVeRvPlUo7QU4Kp4yiM6QqPshmo4p0GQ55XZPTEDc0DZn9N84S_ZibZ4rkXuhZ3OvoHNCYH-wk0k-/s1600/git-npm.jpg",
@@ -18131,6 +18194,15 @@
     "summary": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind\u2026",
     "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version"
   },
+  "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkZLcjmZtzt6NpWa8x4Wz7EdcOQEW6xYv6DA_mBnwy1ctZZeRAyeSYLES-H_mkr1QOBv72WNuGKwKQ-NN179Rw8BRTcYO38sYwxcbDkg1ISW_qWrCRJ9JfUXh3102OmwrF0HQq6dbSc58VXACXoi_EoI8ysPuSlzB_nBcHuFl9r3QakOsGG9GUm6UVOU8/s1600/nextcloud.jpg",
+    "published": "2026-10-14T17:38:31+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue \u2026",
+    "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App"
+  },
   "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj010OXrg2ZBrxwqSnpzd8SrIDY_dYOMtdnzIpG7YnCjv1QB58_HylDTkfFmXtZYci90doRcSrPdFfYLowM_S5t2RpD6UkCoWveJrKajQS-7d3sDtyI22FYN0TKy-pQpzWScUB_ROhXRNzZi9dzhgg02kH3WVtdGPNWYBLKv8qZgsa9kREW1SvZ2LTF2AWV/s1600/android-banking.jpg",
@@ -18149,6 +18221,15 @@
     "summary": "How Financial Services Companies Can Modernize Their Software Supply Chain Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade\u2026",
     "title": "How Financial Services Companies Can Modernize Their Software Supply Chain"
   },
+  "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyJOEj0MfpVvrP-qAXhuoM2BBSjZ6TwPYR-nMG_g-tBvu7Er2cMlvMoVkJOUP1qE2sleu3a21YjvdCQ9u80FSBTx7NNP3cZNfradprnGu-EnIURCxZK4sA0cXbROZpdW8CJxZcxRfhJyhbIXa_Au_sha3mh5pFe-7k5EIimZQlUGIs_mGGKHGKArej6il7/s1600/4g.jpg",
+    "published": "2026-10-15T10:42:16+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1 The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November\u2026",
+    "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1"
+  },
   "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCKjRUY0kVdYD5knK69g1IBPPL21WViperTcXNtjnWiYjNuL6GsohD9A6Q_SpyDpAT6mNMjLTZGOJ_eB1FIMUllxUVEnkUXA1zTWGU1aw5LYJrVZu5gNxH1zSpxX5elSBB-f2OG4LjdhzWTX97lT16uAdvKClT_gP4ucRJjKAXKU4a-3KxbbNLU5RdwKc/s1600/japan.jpg",
@@ -18157,6 +18238,15 @@
     "source": "The Hacker News",
     "summary": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said.\n\nThe \u2026",
     "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks"
+  },
+  "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1tlAL_zc7Hg-gD5PRFa08hoOp2KRDu9kNSJk8nhZ91us8q-K7qGfnoasa6gONBjZoEtGJqPEZY3rKMy4Uqozk89X-L7IQBV8IrDqnJYdtAsCC4d08mmQUI4r_zACmvDVdey82w7FC4lTIoYfqdwYYu2Bp_Ql0AwOB54KRYrHk9ixjo27rKLWEK0dwsfw3/s1600/langflow.jpg",
+    "published": "2026-10-15T07:07:05+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian.\n\nLangflow is an open-source platform that allows developers to build artificial intellig\u2026",
+    "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts"
   },
   "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html": {
     "categories": [],
@@ -18220,6 +18310,15 @@
     "source": "The Hacker News",
     "summary": "MI5 Says China\u2019s MSS Funded Research Involving 100+ U.K.-Linked Academics The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service.\n\nIn a \"\u2026",
     "title": "MI5 Says China\u2019s MSS Funded Research Involving 100+ U.K.-Linked Academics"
+  },
+  "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtmZA0sGFnGRVBoPOHXGNOr-Q1MpdbCUNVrfxBTV6z_URgCka1DOH4xcc_WuismhU3W1BEiostTKZetIhtrFyXrInKdz_jqK6Dtia5TDOqRiu4rkktKmF2Iz1br28coCyU3c5td-yrINUgjYIdwG-7q_n1fEZT_mumUoVBp2HfNPKHnqC3jTryRDL7hxAL/s1600/phish-shop.jpg",
+    "published": "2026-10-14T17:09:15+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the d\u2026",
+    "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages"
   },
   "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html": {
     "categories": [],
@@ -18292,6 +18391,15 @@
     "source": "The Hacker News",
     "summary": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword.\n\n\"Compared with the variants we usually observe, P7 reduces its on-\u2026",
     "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands"
+  },
+  "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4G5JAIF-hCnKf9QyWLzWIWxTrUIjqshujDHf0-_9m84O9f4S0Z-IQ4Jg-T11Ph_rwZvzsFU8Z-pI3uRsnvPSE-FK_VtrUx0pNZgHKf3PuMJCQmwopiE5hyMRSObeV7_VSrF7WC_iiG9T8wMNivOOBC12F7bLK8WI-MNjCffolAJnnhk-X-v1ecxwYtrQz/s1600/palo.jpg",
+    "published": "2026-10-15T11:46:49+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation.\n\nThe vulnerability, tracked as CVE-2026-0322 (CVSS score:\u2026",
+    "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation"
   },
   "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html": {
     "categories": [],
@@ -18500,6 +18608,15 @@
     "summary": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 \u2026",
     "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks"
   },
+  "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRRY0Y0x4bBS7xZHNvUUjosK6tuvOhbBbE9XvaoyiONRttpSxhIwBaCgDpNKo9kMR37n1_8wKUXzpzL6KhmNC0OJsGZapzAaAteSFlbasNFzCM6XZXsSU99yOk6e2oR7tzG_3p_1-V04tnDyhhtGaBUJSviR-xaJh6mg4E-KT5gwR7_x3JmO-DDfM6-7ic/s1600/laptop-farm.jpg",
+    "published": "2026-10-14T16:34:31+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers and KVM devices as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (I\u2026",
+    "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud"
+  },
   "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZSaqs29yWFrct8zgOikM9e4CS0xuAXppzGJ1tskKpKC2gbGuITsYlHYNcnXDMvrFpPuAVS_ZlyEF8Obp7Mgw7CUXe4UsKP3pNEvZWNfszKQVxogslYpoWBZG-QQbEvmS6SDcbgVtXiFFGIEjreD_HSkCYZTfcwL1Rt90qDbbPj946SbMX0FR5CEKRt_H/s1600/sharepoint-ransomware.jpg",
@@ -18562,6 +18679,15 @@
     "source": "The Hacker News",
     "summary": "What Is Agentic Pentesting? What It Proves, and Where It Stops. If you\u2019re evaluating an agentic pentesting solution right now, you\u2019ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a\u2026",
     "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops."
+  },
+  "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMcD8RJr4YbArE7ir74w0wFobrcZI94oJ41w_VwSIFPeQMqG4Ofa6xgtcUqD9op38axL3iAMYu-Y0zv0CEc7LrZAmj7lWLdzZ29ZbL5TD6Up2nGRqJkHGoUF6Hs_QA-A8TVz8f1dfuCcnB4kvzzYrZOu1JqVUE2s2JEkP4E0WjvKptVmvsbyfl4uBwas/s1600/sans-ai.jpg",
+    "published": "2026-10-15T11:04:35+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Why AI Confidence Is Not Validation AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners are developing reliable w\u2026",
+    "title": "Why AI Confidence Is Not Validation"
   },
   "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html": {
     "categories": [],
@@ -21153,6 +21279,17 @@
     "summary": "Microsoft fixes bug causing password sign-in option to disappear Microsoft has fixed a known issue that was causing the password sign-in option to disappear from the lock screen options after installing Windows 11 updates released since August 2025. [...]",
     "title": "Microsoft fixes bug causing password sign-in option to disappear"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-10-15T09:10:20+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft fixes bug causing Windows black screens, Explorer crashes Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
+    "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/": {
     "categories": [
       "Microsoft"
@@ -21298,6 +21435,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]",
     "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-10-14T14:27:01+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft fixes VPN issues caused by September Windows updates Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]",
+    "title": "Microsoft fixes VPN issues caused by September Windows updates"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/": {
     "categories": [
@@ -27080,6 +27228,17 @@
     "summary": "CISA: VMware ESXi flaw now exploited in ransomware attacks CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was previously used in zero-day attacks. [...]",
     "title": "CISA: VMware ESXi flaw now exploited in ransomware attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-14T12:58:07+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
+    "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/": {
     "categories": [
       "Security",
@@ -27498,6 +27657,17 @@
     "source": "BleepingComputer",
     "summary": "Max severity Cisco Secure Workload flaw gives Site Admin privileges Cisco has released security updates to address a maximum-severity vulnerability in Secure Workload that allows attackers to gain Site Admin privileges. [...]",
     "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-14T17:29:14+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Cisco patches new Secure Email Gateway zero-day exploited in attacks Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
+    "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/": {
     "categories": [
@@ -30756,6 +30926,18 @@
     "summary": "FBI: Over $20 million stolen in surge of ATM malware attacks in 2025 The FBI warned that Americans lost more than $20 million last year amid a massive surge in ATM \"jackpotting\" attacks, in which criminals use malware to force cash machines to dispense money. [...]",
     "title": "FBI: Over $20 million stolen in surge of ATM malware attacks in 2025"
   },
+  "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-10-14T19:41:43+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT\u2026",
+    "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested"
+  },
   "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/": {
     "categories": [
       "Security"
@@ -32026,6 +32208,18 @@
     "source": "BleepingComputer",
     "summary": "Glendale man gets 5 years in prison for role in darknet drug ring \u200bA Glendale man was sentenced to nearly five years in federal prison for his role in a darknet drug trafficking operation that sold cocaine, methamphetamine, MDMA, and ketamine to customers across the United States\u2026",
     "title": "Glendale man gets 5 years in prison for role in darknet drug ring"
+  },
+  "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-10-14T13:12:52+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Global takedown hits network behind 1 billion phishing messages A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [.\u2026",
+    "title": "Global takedown hits network behind 1 billion phishing messages"
   },
   "https://www.bleepingcomputer.com/news/security/globallogic-warns-10-000-employees-of-data-theft-after-oracle-breach/": {
     "categories": [
@@ -35434,6 +35628,19 @@
     "source": "BleepingComputer",
     "summary": "Learning from the Vercel breach: Shadow AI & OAuth sprawl A single third-party OAuth integration can become a direct path into your environment. Push explains how the Vercel breach shows a compromised OAuth app can lead to widespread impact across downstream customers. [...]",
     "title": "Learning from the Vercel breach: Shadow AI & OAuth sprawl"
+  },
+  "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency",
+      "Hardware"
+    ],
+    "image": "",
+    "published": "2026-10-14T17:46:50+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Ledger asks sellers across Asia to halt sales after supply-chain attack Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while i\u2026",
+    "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack"
   },
   "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/": {
     "categories": [
@@ -39776,6 +39983,17 @@
     "summary": "Palo Alto Networks warns of DoS bug letting hackers disable firewalls Palo Alto Networks patched a high-severity vulnerability that could allow unauthenticated attackers to disable firewall protections in denial-of-service (DoS) attacks. [...]",
     "title": "Palo Alto Networks warns of DoS bug letting hackers disable firewalls"
   },
+  "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-14T22:56:47+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
+    "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/": {
     "categories": [
       "Security"
@@ -40194,6 +40412,17 @@
     "source": "BleepingComputer",
     "summary": "Police arrests 651 suspects in African cybercrime crackdown African authorities arrested 651 suspects and recovered over $4.3 million in a joint operation targeting\u00a0investment fraud, mobile money scams, and fake loan applications. [...]",
     "title": "Police arrests 651 suspects in African cybercrime crackdown"
+  },
+  "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-15T11:55:38+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Police arrests 95 suspects in international CSAM crackdown action Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through onli\u2026",
+    "title": "Police arrests 95 suspects in international CSAM crackdown action"
   },
   "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/": {
     "categories": [
@@ -43004,6 +43233,17 @@
     "summary": "The Black Friday 2025 Cybersecurity, IT, VPN, & Antivirus Deals Black Friday 2025 is almost here, and early deals are already live across security software, online courses, system administration tools, antivirus products, and VPN services. These discounts are limited-time offers \u2026",
     "title": "The Black Friday 2025 Cybersecurity, IT, VPN, & Antivirus Deals"
   },
+  "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-14T14:00:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "The Blind Spots of Agentic Pentesting and How to Close Them AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting wi\u2026",
+    "title": "The Blind Spots of Agentic Pentesting and How to Close Them"
+  },
   "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/": {
     "categories": [
       "Security"
@@ -43849,6 +44089,17 @@
     "source": "BleepingComputer",
     "summary": "UK Housing Ombudsman Service investigates 'security incident' The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]",
     "title": "UK Housing Ombudsman Service investigates 'security incident'"
+  },
+  "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-15T08:06:47+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "UK Legal Aid Agency: Hackers stole records dating back to 1978 The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to\u2026",
+    "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978"
   },
   "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/": {
     "categories": [
@@ -50853,6 +51104,15 @@
     "summary": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets A state-sponsored threat group, dubbed &quot;Laundry Bear,&quot; sends &quot;half-click&quot; phishing emails that require a victim only to open or preview the message.",
     "title": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12c8556d05b7b46d/6ace9426639c8743112b0213/peru-bolivia-on-map-hyotographics-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-14T13:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Russian Influence Operation Widely Targeting Latin America The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
+    "title": "Russian Influence Operation Widely Targeting Latin America"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte9326a6a1bce6d31/6ac6bf347f984a40d88b6862/matchboil_Gorodenkoff_shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -51214,6 +51474,15 @@
     "source": "darkreading",
     "summary": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet.",
     "title": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9dea48f154a2fb24/6acfd2ceaf9e572367afea5c/fishing_hooks-MicroStockHub-GettyImages-2193660035.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-14T20:57:16+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Yam Store: The Phishing Network Behind a Billion Messages A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide.",
+    "title": "Yam Store: The Phishing Network Behind a Billion Messages"
   },
   "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom": {
     "categories": [],
@@ -53356,6 +53625,15 @@
     "summary": "Analysts Warn of Cybersecurity Risks in Humanoid Robots Think &quot;Blade Runner,&quot; but the robots can be hacked more easily than your home computer.",
     "title": "Analysts Warn of Cybersecurity Risks in Humanoid Robots"
   },
+  "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcfc831a57f67689/6acfbd4be9c311a2c0cf7674/Melted_ice_cream-cagkansayin-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-15T07:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware Hundreds of stores lost millions of dollars because they hired third parties to manage the outdated OT firmware running their cooling systems.",
+    "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware"
+  },
   "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1efd0fa99d504896/66db40230f75ddd226316a68/ICS_PopTika_shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -54817,6 +55095,15 @@
     "summary": "'NeedyMantis' Provides Long-Term Access to Compromised Networks Microsoft observed a China-based actor using a previously unidentified malware framework in targeted intrusions against telcos, universities, medical, and government-related organizations.",
     "title": "'NeedyMantis' Provides Long-Term Access to Compromised Networks"
   },
+  "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltebc5737d9330c848/6acfd08de9c3113a94cf7694/cat_peek_Seregaff_Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-14T20:09:42+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens.",
+    "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat"
+  },
   "https://www.darkreading.com/threat-intelligence/nist-cutbacks-nvd-handling-impacts-cyber-teams": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf63750cb2e1d5266/69e26d60df4579bd291869e2/NIST_HQ_Grandbrothers_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -55868,6 +56155,15 @@
     "source": "darkreading",
     "summary": "The 'Industrial Accidents' Behind Rogue AI Agent Attacks \u2014 and the Sandbox Failures Exposed Rich Mogull, chief analyst with the Cloud Security Alliance, joins the Dark Reading News Desk with what defenders need to take away from AI agents escaping their environments to launch att\u2026",
     "title": "The 'Industrial Accidents' Behind Rogue AI Agent Attacks \u2014 and the Sandbox Failures Exposed"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c7ce56f98018528/6acfd608b8750c62d9a7bd46/patching-Florencio_Horcajo_Alvarez-Getty-2270656800.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-14T21:20:13+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.",
+    "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles"
   },
   "https://www.darkreading.com/vulnerabilities-threats/kimsuky-httptroy-backdoor-south-korea-users": {
     "categories": [],
