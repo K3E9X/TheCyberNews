@@ -17843,6 +17843,15 @@
     "summary": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack.\n\nThe critical vulnerability in question is \u2026",
     "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE"
   },
+  "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMvdc6m999SfUEEWC89wHnBiUX9WAMCSdWtbFP_lrH4DuREHfOJL7G29LkM4uAvittg3XsHxnq6dq_VEX1zB_jCGi5RJDbQZlrq37gHSCXpRrn11FEN-hezQn0Dt4Xcw4DcanklKW_8iLEnQN6JpzkQ7JHBOS1_dMzDAs2h_jJcWDqOGjbkMoeabOCkSFK/s1600/f.jpg",
+    "published": "2026-10-16T04:59:36+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH.\n\nThe attack\u2026",
+    "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions"
+  },
   "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64tQNgn3aqDhyphenhyphengoK8NxQG3DPvWWi0fP185meJUr14eUmcX18mKJdkUz6QsMU6bTxmwAtHrd8I0J5FQjvTENA1-N1F60zsR1x2iDzaJNhPbg_6iGYTELpBOwiTbBiaMWLmWQ4naaMfCLCcThNEfC302zF-YCjlev6138DvUrXfr5noGCpZaT9JnGd7hUw/s1600/supermarket.jpg",
@@ -17888,6 +17897,15 @@
     "summary": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the\u2026",
     "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In"
   },
+  "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyMnLMgZNuoh6c41MPT17IsrvbfocknmRb8sxaolFmTpU9h0b-jyJAe9Ods3iCWligbpcd1a1IThvmpUts5llDkKkScffnItGGrGcneDJ8oUJjuc76syHF8g31ZeTWMunD7LDJjviCRFMf8Zugkg8Z4kgXyhDW4bfrCHtV8Xkt-wJlnUd78z-ab28LrfV5/s1600/certin.jpg",
+    "published": "2026-10-16T06:53:09+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In&nbsp;said in an advisory&nbs\u2026",
+    "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing"
+  },
   "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR69JnEBkz8N6_Nd5K75adIWh8xVmxW8FB21gsKinx9HBzgXQSLWL5sYdKMe9d-cbTSrgc45ZtYhmvhLZJII1H-tPXKn4AiRvj4KrU8ayeZskmMCfiV-mUc2pz10MumKyXKH6ybJ2RsVj9ZZ67l-4u0Y2f5Dl3kX7PLEzCAqogMfHTSfD7gM7QypHi-yos/s1600/china-ms.jpg",
@@ -17896,6 +17914,15 @@
     "source": "The Hacker News",
     "summary": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, univer\u2026",
     "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing"
+  },
+  "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5zD5GBvYxe93igsDOMdwS6eyfDORIWio42Z9UY0enK0XKWYcQlLB9RLx3iO_V1xm8vqBxMVZ_R8Lt-xxOumO5_RIFN3hgB-yZyGGlVMypRx5lm2GJq-1c9cbzfRcjrMAIfBI67L4QUI-MwjjQjKL1RcgPnzFdYuAF3k1y2Ev-ppSmiG8sdQ5dbJkbjKR/s1600/beyond.jpg",
+    "published": "2026-10-16T06:55:55+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a\u2026",
+    "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers"
   },
   "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html": {
     "categories": [],
@@ -17923,6 +17950,15 @@
     "source": "The Hacker News",
     "summary": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco&nbsp;said in an advisory&nbsp;on\u2026",
     "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability"
+  },
+  "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE0PuxlZklu67SsXNfh_vZefiytkMx159npHL_6Ln3dNT0yxzyYE55zZU5SMOFGk39ZqhfWzXpYQfXdoZB0gGYdkoPu3cNactAPL9ZuCWdb_v4Hp4ZkoBLtEnzBovntpudGiQZvIwTucBgDRwNzfVR5SNybyZvTANvdqsDPjHVoUQcV3hrBNm0-YMvZK0/s1600/spyware-ads.jpg",
+    "published": "2026-10-15T16:01:57+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action fro\u2026",
+    "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads"
   },
   "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html": {
     "categories": [],
@@ -17977,6 +18013,15 @@
     "source": "The Hacker News",
     "summary": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KE\u2026",
     "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes"
+  },
+  "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Y0ZP5acV4vjjJV9at7yMnz0frJTAeLd3nGmqMIcifTwGoe2NsB7pDInUjGa6aocyqoM3o-NyXKpsfyy1LRdkH5UG67UVYC_lNZDYArvg-hkmtifcalWo67Mkl3A4_2qwXomi7iJURUjoiSlBdEWtJL5N63jfuMDjI7ewZHLlTZBXlkc4zqwyxKox7eE/s1600/pwnescape-main.jpg",
+    "published": "2026-10-15T20:24:36+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sa\u2026",
+    "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory"
   },
   "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html": {
     "categories": [],
@@ -18203,6 +18248,15 @@
     "summary": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue \u2026",
     "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App"
   },
+  "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp2enQeK-5xZuEo_rLQje9W_odynVLALJCEvTyaMSolIfwVonZGMceQWA8yq9xPMD-C_RkIp-V03EqEBVTM5yMq9IHWRRfSHxWWDS6kCJVcVAsmlFXt5wD2pK7Bk-A6iBIDFS2o811n8e48B1Psni_qvrkJ0HMXtJlhaLwx7jkxEG-e0XDgtcAMUMLiNFV/s1600/hot.jpg",
+    "published": "2026-10-15T14:11:36+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubb\u2026",
+    "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams"
+  },
   "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj010OXrg2ZBrxwqSnpzd8SrIDY_dYOMtdnzIpG7YnCjv1QB58_HylDTkfFmXtZYci90doRcSrPdFfYLowM_S5t2RpD6UkCoWveJrKajQS-7d3sDtyI22FYN0TKy-pQpzWScUB_ROhXRNzZi9dzhgg02kH3WVtdGPNWYBLKv8qZgsa9kREW1SvZ2LTF2AWV/s1600/android-banking.jpg",
@@ -18356,6 +18410,24 @@
     "summary": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks.\n\nThe vulnerab\u2026",
     "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline"
   },
+  "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9mXutJ2QPpC1NUCUZWdHjUDUGPSD3DaDY4b-T1EXbg07sNWADsV43EvUacKzn4Ohp2bRbD93t8kXBpv513XdMZEnMh8eNkY1bBaSuGICWbituq_jgWNCjQa_Cq6Ur0jInsfEwsHfdInKq4Tcp2kmfuYoCIMrgWcWwtzFlRPePDpW9gwemIkQpJXEVaHU/s1600/nextjs-rce.jpg",
+    "published": "2026-10-15T12:28:13+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing Next.js released an&nbsp;out-of-band security update&nbsp;on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-serv\u2026",
+    "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing"
+  },
+  "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEionuV8CAd7SP0bgEbHyb-0hp7JWNkWpPjYtkNH9p86nRQrxDN1T97D1cragnVVzAwCEFCuqrwuysgwzxJLfvTXrYhMSGj5rbBzrpjW-VPvAmrc2-9EAR_hBmPigJUOjynvkm0ArpyasyzCOAWUWFYdCqzsbCJVOsxC09LnYwH2dcV4j4Vm9S9VDelXUlc/s1600/tls.jpg",
+    "published": "2026-10-15T12:58:05+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks NGINX released&nbsp;versions 1.30.6 and 1.31.7&nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005.\n\nThere are three memory bugs that F5, the\u2026",
+    "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks"
+  },
   "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVoOullmVukPDhwbQ10zXHA-IqDVeMp55dybdLAhT-kkPDdJADbw8BETggWjHN3WF4HHpXLV8RDk4jHLVYlS9wWxZcbHMtEGGfGu-dGv2lFRzv3lJ1csgozieAguSQeE2Nhw5ZXBi1YIjaBbF5Al_kakh4wNXfjr4PJ-Q4QZxaHm4_Lha_aMxdQ3NPKRm0/s1600/moonshot.jpg",
@@ -18473,6 +18545,15 @@
     "summary": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three peop\u2026",
     "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members"
   },
+  "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX-Vi04Qyk2-RKyXrnolcZ8TTBRKY43kIB_B7l-1Na3Xta_ed00DJtXclvIdp65s6Sdf3ksabzWKXmYTmKwx9xAlROi6eas704naXFtyx93xru04krAQ9kViM9rjKSgKhdMR0weIs4xOd7htm_gI_7CLg-N16wjCKt59vAoC-3UpMFJf8QawlMkfpRh745/s1600/winrar-hacker.jpg",
+    "published": "2026-10-15T16:00:26+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS).\n\nThe activity, observed f\u2026",
+    "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks"
+  },
   "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg93cv3mDcrVCz0IYIpCH3eRNzbDYkM2Z_N2acg9D6bCFGvE3cr3eJ1uGJblGasKplvyvuO6pSuMCxamTwHJSP2ztJ7WBswe1igBdzoadRJPZSDfs5K2og83_iMDMZYuh-LpFdA4qb4Pv7SyJ1A4EQtO_gi6nuxV5ioid32rXABiS0Il9t8boUATp2lTes/s1600/sonicwall.png",
@@ -18535,6 +18616,15 @@
     "source": "The Hacker News",
     "summary": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand ar\u2026",
     "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't"
+  },
+  "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jHVMYXIjddaTrqHbBuPm3mQ6G_g8qlALwitmiIRM9OplZpPxLPDFet7ySOV0OVxPj6cW1oz0K6rydDvGYQGalR1jSt10bz8kti4dWnM0d3NnUBjuymD77_cReujy6AXmFgJgQQvl2qeICur3VHf5vYyOrxz8OFM-bEunzmK9PGDzCzzTVFVEdQyswYho/s1600/threatsday-oct.jpg",
+    "published": "2026-10-15T18:49:33+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that\u2019s an actual feature. And somehow, it fits right in with this week's security stories.\n\n\u2026",
+    "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More"
   },
   "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html": {
     "categories": [],
@@ -20451,6 +20541,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: March Windows updates break Teams, OneDrive sign-ins Microsoft says the March Windows 11 update breaks sign-ins with Microsoft accounts across multiple Microsoft apps, including Teams and OneDrive. [...]",
     "title": "Microsoft: March Windows updates break Teams, OneDrive sign-ins"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-10-16T08:44:22+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: October Windows update may break Smart App Control Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
+    "title": "Microsoft: October Windows update may break Smart App Control"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/": {
     "categories": [
@@ -23265,6 +23366,17 @@
     "summary": "Microsoft: Windows KB5124010 update crashes some games and apps Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [...]",
     "title": "Microsoft: Windows KB5124010 update crashes some games and apps"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-10-15T13:18:36+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Windows Server 2022 reached end of mainstream support Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
+    "title": "Microsoft: Windows Server 2022 reached end of mainstream support"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/": {
     "categories": [
       "Microsoft"
@@ -24908,6 +25020,21 @@
     "summary": "Android 17 to expand banking scam call and privacy protections Android 17, expected to roll out next month, will introduce several security and privacy features focused on device theft, threat detection, and banking scam calls. [...]",
     "title": "Android 17 to expand banking scam call and privacy protections"
   },
+  "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence",
+      "Cloud",
+      "Google",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-10-15T19:48:43+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Android gets AI defenses against messaging scams, fake calls Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
+    "title": "Android gets AI defenses against messaging scams, fake calls"
+  },
   "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/": {
     "categories": [
       "Security",
@@ -25525,6 +25652,17 @@
     "summary": "'Bad actor' hijacks Apex Legends characters in live matches Apex Legends players over the weekend experienced disruptions during live matches as threat actors hijacked their characters, disconnected them,\u00a0and changed their nicknames. [...]",
     "title": "'Bad actor' hijacks Apex Legends characters in live matches"
   },
+  "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-16T07:37:35+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "BAE Systems cyberattack disrupts US federal court operations The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
+    "title": "BAE Systems cyberattack disrupts US federal court operations"
+  },
   "https://www.bleepingcomputer.com/news/security/baker-university-data-breach-impacts-over-53-000-individuals/": {
     "categories": [
       "Security"
@@ -25628,6 +25766,17 @@
     "source": "BleepingComputer",
     "summary": "Beware: PayPal subscriptions abused to send fake purchase emails An email scam is abusing abusing PayPal's \"Subscriptions\"\u00a0billing feature to send legitimate PayPal emails that contain fake purchase notifications embedded in the Customer service URL field. [...]",
     "title": "Beware: PayPal subscriptions abused to send fake purchase emails"
+  },
+  "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-16T06:18:08+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "BeyondTrust patches zero-day exploited in attacks since August BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
+    "title": "BeyondTrust patches zero-day exploited in attacks since August"
   },
   "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/": {
     "categories": [
@@ -25914,6 +26063,17 @@
     "source": "BleepingComputer",
     "summary": "Bubble AI app builder abused to steal Microsoft account credentials Threat actors are evading phishing detection in campaigns targeting Microsoft accounts by abusing the no-code app-building platform Bubble to generate and host malicious web apps. [...]",
     "title": "Bubble AI app builder abused to steal Microsoft account credentials"
+  },
+  "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-16T12:01:29+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Burger King Japan data breach exposes 11 million customer records Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
+    "title": "Burger King Japan data breach exposes 11 million customer records"
   },
   "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/": {
     "categories": [
@@ -30485,6 +30645,18 @@
     "summary": "Fake AI Chrome extensions with 300K users steal credentials, emails A set of 30 malicious Chrome extensions that have been installed by more than 300,000 users are masquerading as AI assistants to steal credentials, email content, and browsing information. [...]",
     "title": "Fake AI Chrome extensions with 300K users steal credentials, emails"
   },
+  "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/": {
+    "categories": [
+      "Security",
+      "Linux"
+    ],
+    "image": "",
+    "published": "2026-10-15T17:12:31+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Fake Arch Linux packages push malware with root privileges A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
+    "title": "Fake Arch Linux packages push malware with root privileges"
+  },
   "https://www.bleepingcomputer.com/news/security/fake-calendly-invites-spoof-top-brands-to-hijack-ad-manager-accounts/": {
     "categories": [
       "Security"
@@ -33379,6 +33551,17 @@
     "summary": "Hackers exploit Citrix NetScaler zero-day to deploy web shells Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
     "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-15T20:25:04+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
+    "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/": {
     "categories": [
       "Security"
@@ -33688,6 +33871,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers get $1,047,000 for 76 zero-days at Pwn2Own Automotive 2026 Pwn2Own Automotive 2026 has ended with security researchers earning $1,047,000 after exploiting 76 zero-day vulnerabilities between January 21 and January 23. [...]",
     "title": "Hackers get $1,047,000 for 76 zero-days at Pwn2Own Automotive 2026"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-15T18:20:59+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
+    "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-hijack-exposed-llm-endpoints-in-bizarre-bazaar-operation/": {
     "categories": [
@@ -35040,6 +35234,17 @@
     "source": "BleepingComputer",
     "summary": "Is a $30,000 GPU Good at Password Cracking? A $30,000 AI GPU doesn't outperform consumer GPUs at password cracking. Specops explains why attackers don't need exotic hardware to break weak passwords. [...]",
     "title": "Is a $30,000 GPU Good at Password Cracking?"
+  },
+  "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-15T14:01:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Is AI pentesting as good as a human pentester? AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and\u2026",
+    "title": "Is AI pentesting as good as a human pentester?"
   },
   "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/": {
     "categories": [
@@ -52655,6 +52860,15 @@
     "summary": "RSAC 2026: How AI Is Reshaping Cybersecurity Faster Than Ever Dark Reading's Kelly Jackson Higgins shares insights on the past, present, and future of cybersecurity after attending RSAC 2026 Conference.",
     "title": "RSAC 2026: How AI Is Reshaping Cybersecurity Faster Than Ever"
   },
+  "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+    "published": "2026-10-15T22:10:08+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth.",
+    "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape"
+  },
   "https://www.darkreading.com/cybersecurity-operations/securing-win-what-cybersecurity-learn-from-paddock": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt37741e93e49d05eb/69206ce5c761fbfd2c83c577/race-car-wisnu-haryo-yudhanto-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -52848,6 +53062,15 @@
     "source": "darkreading",
     "summary": "The Vulnerability Gap: Why Discovery Is Outrunning Repair AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community.",
     "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt87a9a62e14e5c16e/666343ceec03bda3d115a302/Software_patch_Zoonar_GmbH_Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-15T15:17:18+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Vulnerability Management Isn't About the Score \u2014 It's About How It Applies to You Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments.",
+    "title": "Vulnerability Management Isn't About the Score \u2014 It's About How It Applies to You"
   },
   "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas": {
     "categories": [],
@@ -54409,6 +54632,15 @@
     "summary": "AI Sends Global Crime Syndicates Into Fraud Nirvana Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation.",
     "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana"
   },
+  "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11c8852e00d576cc/6ad12b33703094ce8966a380/Robot-Chris_Wright-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-15T20:43:20+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too Don't buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it.",
+    "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too"
+  },
   "https://www.darkreading.com/threat-intelligence/akira-raas-nutanix-vms-critical-orgs": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt45b4f2f2f8b69096/6917943f43e227caace3ecf6/Akira_film-Pictorial_Press_Ltd-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -54721,6 +54953,15 @@
     "source": "darkreading",
     "summary": "Exploit Cyber-Frenzy Threatens Millions via Critical cPanel Vulnerability Shortly after the authentication-bypass flaw was disclosed multiple proof-of-concept exploits appeared, and one researcher claims there's been zero-day activity for at least a month.",
     "title": "Exploit Cyber-Frenzy Threatens Millions via Critical cPanel Vulnerability"
+  },
+  "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+    "published": "2026-10-15T21:55:07+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber crime.",
+    "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud"
   },
   "https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data": {
     "categories": [],
