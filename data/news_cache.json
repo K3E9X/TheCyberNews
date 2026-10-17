@@ -17708,6 +17708,15 @@
     "summary": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners.\n\nTh\u2026",
     "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches"
   },
+  "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVccQyMWKH3TTGpMGwsFUkVETAsZFTWBlOZyCPr3ZlMJfVPTN09xHFKk94-6OWpwhpE68JRImlVGgma5xaM66ohDwD5XvlOu1FjQPllSMNRvuDUMPB0PNUJEK3u2MaELBNvDP0GNThHj3IGreaWQe6UpzfZ55Ei6HeOpmbcWzo6Mach5g3-9OJPBuA1wY/s1600/modal.jpg",
+    "published": "2026-10-16T11:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "AI Decision Models and Their Impact on AI SOC Platforms In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announc\u2026",
+    "title": "AI Decision Models and Their Impact on AI SOC Platforms"
+  },
   "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhavZnpNnmOBy6Wnkh7wfYD4-I32k65R7uyhYW32Doh3YVqtfJaagZZ_uo9JN-cixODo6h846eR89Aa55TGuMKfXmpjZEVZQ0ssFoP4-qVX6qrvSoyfRsu_q3MQcLKwolyKeE3Lw3MByz2Su8O0XOdRWNkJmyBdwpxsAtxi5y2goE7RhOSBPOLh4Evb60c/s1600/linux-exploit.jpg",
@@ -17869,6 +17878,15 @@
     "source": "The Hacker News",
     "summary": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&nbsp;said on October 6.\n\nGoogle's own system\u2026",
     "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains"
+  },
+  "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhuPumyjeBRpQZo5_3mvqZ2_kXuPiOK02cH-ARofYrny0mQ2-rv55w7yBxMTBe3ymCW7c77quZ4xlkdDG9FcEhBYFr7GWmbyPE_1K1xqU0mvT-h51Z8hLg-LnWl32MeOy-aumsGO9-j8VSOSOfVUDB2k1vWOpEdyGEWV9ipF4kf3HVP1Au2ClbkYtAJrc/s1600/backup-hacked.jpg",
+    "published": "2026-10-16T16:43:39+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any \u2026",
+    "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor"
   },
   "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html": {
     "categories": [],
@@ -18248,6 +18266,15 @@
     "summary": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue \u2026",
     "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App"
   },
+  "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgel6whr7-1_Lf62w6AJwYfEyic0x1lJ0c-qOfOprMUdm83xpM7rqXbJzplx7BPBUBDD4yUcLWoPvFBhF6HIDORPNNXYj7NfDOTf7YN5lT7p80jxtN6VrTxMjWT0OplFNx0BdjoMmFzk3ssVlbapm7Qfl0Z9_1T7jA_zwz2tbjrxzRircL28mr0zcsci98x/s1600/connectwise.jpg",
+    "published": "2026-10-17T06:16:46+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise \u2026",
+    "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants"
+  },
   "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp2enQeK-5xZuEo_rLQje9W_odynVLALJCEvTyaMSolIfwVonZGMceQWA8yq9xPMD-C_RkIp-V03EqEBVTM5yMq9IHWRRfSHxWWDS6kCJVcVAsmlFXt5wD2pK7Bk-A6iBIDFS2o811n8e48B1Psni_qvrkJ0HMXtJlhaLwx7jkxEG-e0XDgtcAMUMLiNFV/s1600/hot.jpg",
@@ -18346,6 +18373,15 @@
     "source": "The Hacker News",
     "summary": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices \u2026",
     "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies"
+  },
+  "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fNb_yEvP6C_CENfQMUx3EDGofY1ejEHusnumTjCLnX3s8pevEbl_cgrtFHhzeEUhyphenhyphenyKe_X41OzQOGL5zlXeLLBnj_ZrLqH1IUag1QWm4QS9V2hgc5ucEzEZKjhstvtde8CFs8anPSZv9w3op67F8Q_MHVC_demESnH8lpAYLLpIRizCyvF5gsi5PDKzm/s1600/npm-dll.jpg",
+    "published": "2026-10-17T11:11:56+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.\n\nThe package, named \"imgdecode,\" was uploaded t\u2026",
+    "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon"
   },
   "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html": {
     "categories": [],
@@ -18455,6 +18491,15 @@
     "summary": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported.\n\n\"We have parted ways with\u2026",
     "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling"
   },
+  "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhkqmj8WR1EBIXlf0-PIfEmv-3uEk-0FU-SrKAaQyn33syLPFRar-jwks7o70PVBvmNd05CwdNSVPXRq3bN6ED0jREr__oFnSFjS1emRZoEfvsfw8UlSspGcSWLLKJcgUhDuzV814VaFSecnEzNhvhTbemuVizjA46o3g-d7hZj1F-Fmn6sqssQyMeayXC/s1600/openai-smart.jpg",
+    "published": "2026-10-16T14:03:04+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds \u2026",
+    "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract"
+  },
   "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-SCb1qpP1Z0zyo_WOtyHzQKUiqJ3RudpC9uowSePmGcLZ9sPHcE-lvDGMZTHeB7YckgDmaBA775L13GvrYHl_gAVSg46-5sUJWzcA7Q3ec5h8WIuKO5l0Td2CCk5nlSvNByqPL22qlTNwHms3rbdXsJYoEe7gRqHiqmM8DHtvEkKniOP4Q70Dq_5Dr8I/s1600/ios.jpg",
@@ -18508,6 +18553,15 @@
     "source": "The Hacker News",
     "summary": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2 Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling.\n\n\"Cling is \u2026",
     "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2"
+  },
+  "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqmitTMm5t8BBKfynqzFAKqJSzh_s7fQczmMm5u95RLUUzuWMubd5DeM8e8EH6YOpP-_gvbYwn8Cd3flsL-nGIupBw5HOo49Orr7J2rqhI99J7U4LcXW6shlxd3w0zFAng1mLw5xGb-F9GRmpDK82GC1-Dcb1gPcvkgl4wVi0-QTEGalDwPmelGE0TtNU/s1600/openbsd.jpg",
+    "published": "2026-10-16T17:48:45+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-addre\u2026",
+    "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug"
   },
   "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html": {
     "categories": [],
@@ -18679,6 +18733,15 @@
     "source": "The Hacker News",
     "summary": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN.\n\nAccording to TrendAI, th\u2026",
     "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML"
+  },
+  "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPclyw7bJ19im5Qmzj9jgFlsM4XJqPK6hyphenhyphenRDCcQ0bnpWrteeTWgPNlip5T0P_oj_AC6V3osZ2xIpYipKjXWQw3BfFEQ1n28dleNCLRi7difLnPLY8Yc-oJ6BCVZ1V0VBpF_ZNu36qM_yCvyvbgBsSfh2AXq-IBIk7QjnBSR_T7s8ajMCOkIEhA5YGeYWg4/s1600/google-phish.jpg",
+    "published": "2026-10-16T16:16:44+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizat\u2026",
+    "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing"
   },
   "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html": {
     "categories": [],
@@ -28702,6 +28765,17 @@
     "summary": "Critical BeyondTrust RCE flaw now exploited in attacks, patch now A critical pre-authentication remote code execution vulnerability in BeyondTrust Remote Support and Privileged Remote Access appliances is now being exploited in attacks after a PoC was published online. [...]",
     "title": "Critical BeyondTrust RCE flaw now exploited in attacks, patch now"
   },
+  "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-16T20:00:59+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Critical BlockStrap flaw lets hackers run code on Magento servers Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [.\u2026",
+    "title": "Critical BlockStrap flaw lets hackers run code on Magento servers"
+  },
   "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/": {
     "categories": [
       "Security"
@@ -30139,6 +30213,17 @@
     "source": "BleepingComputer",
     "summary": "Empire cybercrime market owner pleads guilty to drug conspiracy \u200bA Virginia man who co-created Empire Market, one of the largest dark web marketplaces at the time, pleaded guilty to federal drug conspiracy charges for facilitating $430 million in illegal transactions from 2018 to\u2026",
     "title": "Empire cybercrime market owner pleads guilty to drug conspiracy"
+  },
+  "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-16T13:50:59+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Employees using personal ChatGPT at work? Here's what IT admins need to do Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate \u2026",
+    "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do"
   },
   "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/": {
     "categories": [
@@ -46510,6 +46595,17 @@
     "summary": "Zendesk ticket systems hijacked in massive global spam wave People worldwide are being targeted by a massive spam wave originating from unsecured Zendesk support systems, with victims reporting receiving hundreds of emails with strange and sometimes alarming subject lines. [...]",
     "title": "Zendesk ticket systems hijacked in massive global spam wave"
   },
+  "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-16T17:20:03+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Targeted ads installed Candiru spyware in zero-click attacks Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+    "title": "Targeted ads installed Candiru spyware in zero-click attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/": {
     "categories": [
       "Security"
@@ -47293,6 +47389,15 @@
     "source": "darkreading",
     "summary": "For Enterprises, Security Remains Agentic AI's Biggest Challenge Every company needs an agentic AI strategy, but the tools to allow agentic AI frameworks to be safely and securely adopted are just starting to appear.",
     "title": "For Enterprises, Security Remains Agentic AI's Biggest Challenge"
+  },
+  "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1652c5132de5d8e6/6ad27799ee37e003e0d27496/airesults-Ekaterina_Goncharova-Getty-2173055307.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-16T19:49:30+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees.",
+    "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk"
   },
   "https://www.darkreading.com/application-security/fake-proof-ai-slop-hobble-defenders": {
     "categories": [],
@@ -49062,6 +49167,15 @@
     "summary": "Threat Actors Get Crafty With Emojis to Escape Detection When \ud83e\udd16 means &quot;bot available,&quot; \ud83e\uddf0 signifies &quot;toolkit,&quot; or \ud83d\udcb0\ud83d\udcb0\ud83d\udcb0 translates to &quot;big ransom,&quot; bad actors can evade filters and keep it all on the down-low.",
     "title": "Threat Actors Get Crafty With Emojis to Escape Detection"
   },
+  "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+    "published": "2026-10-16T19:13:59+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution.",
+    "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise"
+  },
   "https://www.darkreading.com/cyber-risk/eu-auto-rules-shift-gears-on-cybersecurity-standards": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0545789d5e2ff1e7/698ce0c84229558aa7937805/car-Henrik5000-iStock_15613460_MEDIUM.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -49981,6 +50095,15 @@
     "source": "darkreading",
     "summary": "What We Missed: Google Gemini Joins the AI Escape Party In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Google Gemini models breaking containment to ShinyHunters ratting on TeamPCP hackers.",
     "title": "What We Missed: Google Gemini Joins the AI Escape Party"
+  },
+  "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c22b787d3880a22/6a469e8782b5bc23f1d3a21e/ransomware-Just_Super-Getty-1399980046.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-16T14:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "When Your Ransomware Negotiator Works for the Other Side The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.",
+    "title": "When Your Ransomware Negotiator Works for the Other Side"
   },
   "https://www.darkreading.com/cyber-risk/why-an-engineering-focused-ciso-can-be-a-liability": {
     "categories": [],
@@ -53144,6 +53267,15 @@
     "summary": "Zoom CISO: AI as Security Enabler, Not Role-Replacer As Zoom's CISO, Sandra McLeod, discusses the challenges of securing a global communication platform, the promise of AI-driven security workflows, and advice for aspiring cybersecurity leaders.",
     "title": "Zoom CISO: AI as Security Enabler, Not Role-Replacer"
   },
+  "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+    "published": "2026-10-16T19:22:12+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year.",
+    "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform"
+  },
   "https://www.darkreading.com/data-privacy/do-we-know-enough-about-data-populating-ai": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9f65631630e592f3/698b910082cad77379eec706/Warning_question_mark_Lensw0rld_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -53251,6 +53383,15 @@
     "source": "darkreading",
     "summary": "Attackers Combo Up Evasion Tactics for BEC Phishing &quot;The TFF Trap&quot; uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
     "title": "Attackers Combo Up Evasion Tactics for BEC Phishing"
+  },
+  "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4a126b2e0eae913e/6ad27ebc7cb22e18dd04a52b/Locusts-ZU_09-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-16T20:34:37+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
+    "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs"
   },
   "https://www.darkreading.com/endpoint-security/booz-allen-announces-general-availability-vellox-reverser": {
     "categories": [],
@@ -53806,6 +53947,15 @@
     "summary": "AI in OT Sparks Cascade of Complex Challenges Using artificial intelligence in operational technology environments could be a bumpy ride full of trust issues and security challenges.",
     "title": "AI in OT Sparks Cascade of Complex Challenges"
   },
+  "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6937d5b3760a530f/6ad14589831f9d6076cdd58b/robotic-arms-grid-overlay-greenbutterfly-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-16T18:37:50+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI Takes Control of Robotic Arm in 16 Minutes Flat Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses.",
+    "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat"
+  },
   "https://www.darkreading.com/ics-ot-security/claroty-patches-authentication-bypass-flaw": {
     "categories": [],
     "published": "2025-10-30T20:29:51+00:00",
@@ -54211,6 +54361,15 @@
     "source": "darkreading",
     "summary": "Your Next Breach Will Look Like Business as Usual These are the fundamental detection model shifts cybersecurity teams need to make to keep up with the rising number of credential-based attacks.",
     "title": "Your Next Breach Will Look Like Business as Usual"
+  },
+  "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt57714ec5c1148817/6ad10d43b8f30368a29f5d16/robot_peeking_through_blinds-Moor_Studio-GettyImages-1746666469.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-16T13:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "When AI Agents Commit Breaches, Humans May Not Be Held Liable As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.",
+    "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable"
   },
   "https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures": {
     "categories": [],
