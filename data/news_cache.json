@@ -18005,6 +18005,15 @@
     "summary": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache.\n\n\"Instead of downloading and executing remote payloads like\u2026",
     "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits"
   },
+  "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTJ5xsWsmrBmF1q18Gi5uaokNeC6-M0VbSf0T5X3KMQH7QGMhC7mz4XB6TUJuE7P9tjknMAqaGQ-Iz_7UuQ-NdKKXJTgqLhHMipRcd57VUOpwfJ2xxO8Hq_PX8hotdp_KZddNDzfQFw3bLHbYYLasThNbqGlidzhZ485ApBIKh2KUgn4g6PeBbhMwhc0T/s1600/ms-connect.jpg",
+    "published": "2026-10-18T08:23:02+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access \u2026",
+    "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants"
+  },
   "https://thehackernews.com/2026/10/credential-stealing-github-actions.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoJXBEAVVijhwsYs32WSejvp0sG3ej-Qoi7Z6qHDp8rY5IZENkKOpexrbbU1BNyiCbbB0ZXHjEDL-UYqu7CDpPpoYLiGXkuLCZJTItgP5XeLD_Sb1galPzOGtrFZigEM5CGUbwi9gcL_-XCYY6NKu9j5FiakIWn5s66DZE-OjrLZO3sMGka3YNFvGUecJT/s1600/gitworm.jpg",
@@ -30004,6 +30013,17 @@
     "summary": "Drupal critical update to fix bug with high exploitation risk Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]",
     "title": "Drupal critical update to fix bug with high exploitation risk"
   },
+  "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-17T14:32:48+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Drupal patches critical RCE flaws, warns exploits may emerge soon Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+    "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon"
+  },
   "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/": {
     "categories": [
       "Security"
@@ -33435,6 +33455,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers breach govt webmail while running parallel crypto fraud The\u00a0Jewelbug hacker group\u00a0has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]",
     "title": "Hackers breach govt webmail while running parallel crypto fraud"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-17T15:18:51+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+    "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/": {
     "categories": [
