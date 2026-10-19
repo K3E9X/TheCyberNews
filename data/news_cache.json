@@ -18140,6 +18140,15 @@
     "summary": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Cl\u2026",
     "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes"
   },
+  "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAw5A6yrE0NkMreq5lBZaS4ndrFrorAZaVrjJ218aS1RcJoQVYOJOVejIn8rBH5RHIIZ_cpvtzHnQMwMMWVOFbpfcs01tolLCmlYAY3qy-onWaOUQhzB6H2VjlWaUgBCL_0vAjRB7VmumClnaiIxDds6j9wD3lt9vD-kptWl6bUft29O6Z0cTNgBQV6t76/s1600/npm-apex.jpg",
+    "published": "2026-10-19T10:06:40+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intel\u2026",
+    "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic"
+  },
   "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTRCTw1H9kT8UEVJYmaRrhHvMQEYFuE2TZqB62Wnxz8y4RIYOMald4OYO45ujfgSp0ixhgWVKb3_nJzoKV6gNuu_cKaN2Evnr9u7FlnwsPTPm9TPpikkUR-83UL3VrknNBzITPeFC8f1PKpYMwvH_AbBAFWcbPl61vUXJK1m0xJ_C5QYDIAGi_Ya-A5Tc/s1600/kash.jpg",
@@ -18202,6 +18211,24 @@
     "source": "The Hacker News",
     "summary": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.\n\nThe protected area is a VBS enclav\u2026",
     "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave"
+  },
+  "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1uAZRypeHl_8TjAU-3mwmvjdbCH0SZJwZBZOoEXcehaQfod9rpBvAl72JCjV8xF2KF4VbSVzWezAmkXjmbaxdIkK854Pa-yV4nkkRNe-l82mPM_VW1fLSE5Ib-RhyphenhypheneGga3KZ_9wQu76clTABJwGp_3N_M-6QBZMXFSISC56JWHVHpylO-uTenNO3kRlg/s1600/reco.gif",
+    "published": "2026-10-19T11:50:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Se\u2026",
+    "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software"
+  },
+  "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtAKfaW5dHhlv9lpzzAju1Cm_EjO4wOkhGQEMspSKCVFUCA_eaanAXGHkb-Dv3c9zSXWHW45I50Fp_bqX6ydaNlPWixkd39bl4IOeYv8xQ0oviE4d6SZcQmQ27ztf-tVV7BozEDeFYi2Fde0LpJAJ9gTHUGSOvc46MtgawesAd5-wljApeBpLyUYnczZnR/s1600/git-font.jpg",
+    "published": "2026-10-19T13:05:45+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and de\u2026",
+    "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories"
   },
   "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html": {
     "categories": [],
@@ -18509,6 +18536,15 @@
     "summary": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds \u2026",
     "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract"
   },
+  "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzRSuvywT7bfHRl45krYywOIqL__Cw1hXchChbx5ylDNZaHxVDEf8O1pmzajCnItG1rwxKq0k2GHdMeDW_DvQP8Wk5MEiwlE2dZXn9grvDpAOpViWonNWsFMkTXoKpcFj8lk0UuMrGx-xVHRU_KufidsDcY7e0RUSG62aapDC9y9opt8V_rmgxkCG9v6A/s1600/opencode.jpg",
+    "published": "2026-10-19T06:07:08+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said.\n\nConsole is\u2026",
+    "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys"
+  },
   "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-SCb1qpP1Z0zyo_WOtyHzQKUiqJ3RudpC9uowSePmGcLZ9sPHcE-lvDGMZTHeB7YckgDmaBA775L13GvrYHl_gAVSg46-5sUJWzcA7Q3ec5h8WIuKO5l0Td2CCk5nlSvNByqPL22qlTNwHms3rbdXsJYoEe7gRqHiqmM8DHtvEkKniOP4Q70Dq_5Dr8I/s1600/ios.jpg",
@@ -18751,6 +18787,15 @@
     "source": "The Hacker News",
     "summary": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizat\u2026",
     "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing"
+  },
+  "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKR22_EY_V4kc68OQN7vGigoOrsBiy_aMnJVifzUg15itznrR-KdvcSdcaVSGnA6A2kAgMCSUNbIoqzh10gy8wQzkpK55LJPTjPPoV73VzoJlNCtZOn0LltkE7gq8PwH29hLNlUn41qQV8A7fTGkCwHu2LQ0OtvvTFtNRHll7xY0_PUfQ5K08JtCWriXg/s1600/wifi.gif",
+    "published": "2026-10-19T06:29:44+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quenti\u2026",
+    "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers"
   },
   "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html": {
     "categories": [],
@@ -21463,6 +21508,17 @@
     "summary": "Microsoft fixes bug causing Windows black screens, Explorer crashes Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
     "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-10-19T12:44:44+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft fixes classic Outlook bug that hid Copilot buttons Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]",
+    "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/": {
     "categories": [
       "Microsoft"
@@ -22007,6 +22063,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
     "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-10-19T08:58:41+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery\u00a0issues on some\u00a0Exchange Server systems. [...]",
+    "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-updates-trigger-bitlocker-recovery/": {
     "categories": [
@@ -30705,6 +30772,17 @@
     "summary": "F5 issues out-of-band patches for critical NGINX vulnerabilities Cybersecurity company F5 has released out-of-band security updates to address multiple NGINX web server vulnerabilities, including two critical-severity flaws that could allow attackers to execute code on vulnerable\u2026",
     "title": "F5 issues out-of-band patches for critical NGINX vulnerabilities"
   },
+  "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-19T13:49:24+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "F5 releases out-of-band patches for critical NGINX vulnerabilities F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
+    "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities"
+  },
   "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/": {
     "categories": [
       "Security"
@@ -33923,6 +34001,17 @@
     "summary": "Hackers exploit security testing apps to breach Fortune 500 firms Threat actors are exploiting misconfigured\u00a0web applications used for security training and internal penetration testing, such as DVWA, OWASP Juice Shop, Hackazon, and bWAPP, to gain\u00a0access to cloud environments of \u2026",
     "title": "Hackers exploit security testing apps to breach Fortune 500 firms"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-18T14:23:16+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit SiteGuard WAF flaw to run commands as admins Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+    "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/": {
     "categories": [
       "Security"
@@ -35156,6 +35245,17 @@
     "source": "BleepingComputer",
     "summary": "Inside the Underground Business of the Android BTMOB RAT malware Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sale\u2026",
     "title": "Inside the Underground Business of the Android BTMOB RAT malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-19T14:00:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Inside the Underground Market for Know Your Client Services Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the tec\u2026",
+    "title": "Inside the Underground Market for Know Your Client Services"
   },
   "https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/": {
     "categories": [
@@ -56425,6 +56525,15 @@
     "source": "darkreading",
     "summary": "Cyber Espionage Group Targets Aviation Firms to Steal Map Data The campaign quietly compromises aerospace and drone operators to exfiltrate GIS files, terrain models, and GPS data and gain a clear picture of adversaries' world view.",
     "title": "Cyber Espionage Group Targets Aviation Firms to Steal Map Data"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt65c173c2226bc353/6ad26aaeed74a561440a7b76/dictionary-boonchai_wedmakawand-Getty-1321495582.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-19T14:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience An industry-wide laser focus on vulnerabilities has left cybersecurity teams without enough room to strategize for resilience.",
+    "title": "The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience"
   },
   "https://www.darkreading.com/vulnerabilities-threats/dirty-frag-exploit-blow-up-enterprise-linux-distros": {
     "categories": [],
