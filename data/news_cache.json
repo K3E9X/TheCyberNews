@@ -17996,6 +17996,15 @@
     "summary": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain co\u2026",
     "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments"
   },
+  "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJqb8f_ibR_O_dPoJqAVHZOVmgi23TsxhFzv19_3uzAbEqH6L6QMJUWdelmEKmDe6U9wj6KKyDpPKi_1a93IK1KJa-Ql0kFRtfqVe9sKQpVFj0dA65dCfRKCN7H0LQYgMdzqdJoLgSb6rRFBA4bfmf4oUqItqe6pVCsyxmEzCnHx02h_m1WsK6sJu7jy2/s1600/siemens.jpg",
+    "published": "2026-10-20T07:11:45+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks.\n\nThe high-severity vulnerability, tracked as CVE-202\u2026",
+    "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan"
+  },
   "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Vjgif5jASBMNSuYjBnVZcm9vGO378mJ7VTFTNo9HRROtViKbP_Nm0F0vf626be5n4cwnfDdqgfWVzjKrKboh0BnbM8ALWzt-W7kNq4PSc_TOUbNlwps6sCQgfNyK5DhXk3FHZCuJSo8D2eMOm4r89VmhNa6l5gPpadRZSgTuB_N2yPZlwj0voYddOoVr/s1600/clickfix.jpg",
@@ -18004,6 +18013,15 @@
     "source": "The Hacker News",
     "summary": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache.\n\n\"Instead of downloading and executing remote payloads like\u2026",
     "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits"
+  },
+  "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgN8mboHojdAmthr-jUWvIgg5BgmRsrAFJRQFz-nEuPEAIGTqwVKwnf9c7E8jGzdpHfWZuDENURbDFFADIJ76Tf7h5lamLTOUoY5ui438ugfOJYw-2vkAuITMBMxt-0CWFxj43bdgDY19exYceRvJEScmPpWoYXBjkIHLOilUSF1wWmSta5o9ocPpLywQn/s1600/connect.jpg",
+    "published": "2026-10-20T10:56:08+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it conti\u2026",
+    "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident"
   },
   "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html": {
     "categories": [],
@@ -18121,6 +18139,15 @@
     "source": "The Hacker News",
     "summary": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts.\n\nThe c\u2026",
     "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer"
+  },
+  "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeb26d3ZrVwM6eNTwdQo1zafwKL88-vR8Zgkx-9U2Tsx-uEF74-aA0C_rNsPd4xScYPiB9IBUG5-lw1cwRh9jIXqsZhxQCNdyp0AghllelHR5A92ovnUvvjw9uh2NUtfLPyhoyKv6EqQXK3jjp8nfDgnIBT6ZpeBOpNG0PTsuqleqg4Ht8VVgEjmy5_y4/s1600/openai-spy.jpg",
+    "published": "2026-10-20T05:53:16+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco offi\u2026",
+    "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge"
   },
   "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html": {
     "categories": [],
@@ -18266,6 +18293,15 @@
     "summary": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution.\n\n\"GitLab ha\u2026",
     "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code"
   },
+  "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh12Jum-ReZMOyqaMubiLlMwx4-uDVxEJkD6-CJabWhHfCKV-Csw7P4MoeRX85Ag-3rxZMftHE6KGcdh059DoOPvF1Mirv05BQsflmg8RroWBt_t00BGTHsdhqkmVWVuRHKAs56AhNfdsq_YH0QWrMJ1z4dFT3I3xOK7Dwqu7aPp_P7tFSxQ-bzqyz8e4/s1600/go-certs.jpg",
+    "published": "2026-10-20T11:32:59+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of&nbsp;eight intermediate certificate authority keys.\n\nProgr\u2026",
+    "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns"
+  },
   "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJ8xcgqF85kQru4JEuCv6OipwHlff6IEp3r1zhFOY9tYpbwEeWYSqzPTILX4uqM97Cc9ZfNfb3HB4lZbecN48fqKgKryAL60KqqZU4HmdfTMsRYaDcFjNL7aE8vk7G0D_-mqY_B2Jk_3kXMsx2ABpgbWixg1GHZ2l7V0MSzqtEWnYZ_ymkOTf0j8yq2c/s1600/onion.jpg",
@@ -18301,6 +18337,24 @@
     "source": "The Hacker News",
     "summary": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue \u2026",
     "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App"
+  },
+  "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF_Xo8mH5AxIDYx4hFrS1_uhblD0IoGUTo6bioM38mwy-whZAbcq1aaGeH1iZrS8nmk5Ow25NfX67HRXKiWFfzLc8C1A2zs2n948DwyW_NSSkowFDnEzxUofGxhNV72vTEWkgPmbO6XJyDUPwBR-lzSekj5_m8tY3JHjozUXETGEBg6GrLZrekhilW9W_R/s1600/plex-hack.jpg",
+    "published": "2026-10-19T17:32:13+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public.\n\nAc\u2026",
+    "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor"
+  },
+  "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSRX5Jjz6vqh8EcVVYoXU8S9qh0rFzQ3DDnjNIlkRrBq97brmk6hUw0u2pbLqyTAG1_mYfG9bGHCnMkgSMEPFu6fIR67F1jZMmS7G7-DFe6i7PtG_LzdTgHLCTXSwE5hCa2EApQeAIYGIMYATwbLEp-2FcPmV9aAHVqrRRBYk_wY7ZTuES0frFAPGjhnU/s1600/ovhcloud.jpg",
+    "published": "2026-10-20T08:21:29+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the\u2026",
+    "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware"
   },
   "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html": {
     "categories": [],
@@ -18581,6 +18635,15 @@
     "summary": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to\u2026",
     "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers"
   },
+  "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja-6AhEjL8YvRsoNjXIIDEnsVd8gMMW_cUqMvLNcRukJXjatSuo-phLfYxt2A76gSCk-uZFmo4EbJjQuMr8_k8Pxl2ho1TnUL_50Q_VknkR8JqnTiVOqZ48i5W6Mv6HB0cQfJoAjs8xHUu6urkucsPClURVP3aWM0aivfngCFZLykMYzJITwenYfSb9Sk/s1600/wordpress-rank.jpg",
+    "published": "2026-10-19T16:28:47+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC\u2026",
+    "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor"
+  },
   "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkLz0n_kNY4YMLYNTi1KElj3dkaig5LqA6Koy92X4ndKfwBO8ctC5bNVyII81TUHljc7MGrpMZBsUX5j4126sBd3Sk5fX_DGjIo-yz5qGrRsHgi2qiLNUUbfCSvOHcE-KoYqGzNLBvTVzwEKDt2hZ4dvGK8YYOTeA-f6FHX49GA0myiau9Mqgc_LT7D1k/s1600/bit.jpg",
@@ -18625,6 +18688,24 @@
     "source": "The Hacker News",
     "summary": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company s\u2026",
     "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days"
+  },
+  "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8zydF3pRz3L86iRbEdX23esEuSWg0nt4Zq-6jV1oJy7HCuQ0oxZThFma1tspyuxRo0VG0kkCA_GZNobZkykxlZIKUb22Iq7DSwRepN3yIEk5Lfn7EeYUX52_Gkbz0GmerEPMuRP2EZTGegoGZd-p_8zvZKen5n8IZ9bm3_533b1aMXzdRKCNICkYzYJ7z/s1600/romulus.jpg",
+    "published": "2026-10-20T04:05:58+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader.\n\nAccording to Forescout Research - Ve\u2026",
+    "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware"
+  },
+  "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNLZ-1vEmoCyztDVMziqJlhZPTZfW4mOe-qDn6OxDQ-K2LVZTvqhoOe3MIip5bDJfiJd7e3HLcq4S-0xb2SlfWbEqp4vlvbOnQDSP5edsQIxHFtYSCt1qM7XZksq0NPZ9AGesx0YzqHsTeWUuPUTysC5dbuDOvKIjQW0DJvkg1UG9KLH2Doglq7WtgyiRM/s1600/russia-nato.jpg",
+    "published": "2026-10-20T11:06:25+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North At\u2026",
+    "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader"
   },
   "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html": {
     "categories": [],
@@ -18851,6 +18932,15 @@
     "summary": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next.\n\nWith AI accelerating reconnaissance, exploitation of vulnerabilities, a\u2026",
     "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls"
   },
+  "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTvDNJzlrpPvCifQ9zNcdkc0vjmmRwGCap_kODFlX5W_IimpUgTyObjSefO7gHjXKUMhEkIlmgnH1GbbbWna6eZWa8xcRDLXeRmYX0oSrhAgS8YXth6_T2CPXMMnZvgsf1Psq_DUB9JkjeELLHjnB2xFl9-8bM5BW19fJ1aHcOruzwKErZJkjwRBSRedBq/s1600/recap-1.jpg",
+    "published": "2026-10-19T14:14:07+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time\u2026",
+    "title": "\u26a1 Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More"
+  },
   "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv97S5d5aYZZRto-_3AfPjT2TmAcI0KYQm4zY7cXyf1hz-GHIcmuL9wF5IIzmg3D7_F-yh6Z9qtamVwEikSKd3tuy5eGo_mN2Qw-O602x4Abiwuf5Q9G72nX4ZOeFRly8woPJ8EBn2USmFIdDUVg6P-3f8nUPDTbcqrAF5JWsu_NRWTvz6EF5YVVqPrbvY/s1600/cy-cap.jpg",
@@ -18886,6 +18976,24 @@
     "source": "The Hacker News",
     "summary": "What Is Agentic Pentesting? What It Proves, and Where It Stops. If you\u2019re evaluating an agentic pentesting solution right now, you\u2019ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a\u2026",
     "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops."
+  },
+  "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Q3156iY5WJRnphGSZ5PuIiMopF0sG7ku3FR-WROda9fE4jCSIOQpClG1HOBRCvbuqDyLHgsC0N3UFjowgnXzZN4T1mDpkQbTz2gX7z4NRZsfoEpimVlZ7hevcXmeTfpOt1iFrHqvLXubegNIRz15gjlQNHIBBYzQVAmy8MNAGiZs6OXIEuWNntLwTlI/s1600/tines-main.jpg",
+    "published": "2026-10-20T11:33:04+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "What Security Teams Can Do To Tame Wild Code A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of \u2026",
+    "title": "What Security Teams Can Do To Tame Wild Code"
+  },
+  "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTtrA7WSHbxSgTUKrOz8Swz6vdK1sarnVj8fCSEjFPdIMyLbOCOIytF60D82szAQpXLHR0mXI3j4zcIobCRS2g8ZI6GkbuLTHkoM4OmkUAWD0P1D1KyYuYrSxWvbq7Yy6zJ-B03VGWxy49q1BUF4owk5gUAVBBd6g2v7xl28TT_ax7Il5ixELfwcBawpA/s1600/whatsapp-chatbot.jpg",
+    "published": "2026-10-20T11:41:06+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete \u2026",
+    "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators"
   },
   "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html": {
     "categories": [],
@@ -21563,6 +21671,17 @@
     "summary": "Microsoft fixes bug that blocked Google Chrome from launching Microsoft has fixed a known issue causing its Family Safety parental control service to block Windows users from launching Google Chrome and other web browsers. [...]",
     "title": "Microsoft fixes bug that blocked Google Chrome from launching"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-10-19T14:55:23+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft fixes game, app crashes caused by recent Windows update Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010). [...]",
+    "title": "Microsoft fixes game, app crashes caused by recent Windows update"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/": {
     "categories": [
       "Microsoft"
@@ -24171,6 +24290,17 @@
     "summary": "Windows Server 2022 reaches end of mainstream support next month Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]",
     "title": "Windows Server 2022 reaches end of mainstream support next month"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-10-20T11:21:42+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows Server 2025 gets support for quick machine recovery Microsoft announced that IT administrators can now use\u00a0quick machine recovery on Windows Server 2025 after installing the\u00a0October 2026 security update. [...]",
+    "title": "Windows Server 2025 gets support for quick machine recovery"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/": {
     "categories": [
       "Microsoft"
@@ -24753,6 +24883,17 @@
     "source": "BleepingComputer",
     "summary": "Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing. Agentic GRC automates workflows, forcing teams to rethink their role beyond operations. Anecdotes explains why the biggest challenge is shifting from execution to risk leadership. [...]",
     "title": "Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing."
+  },
+  "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-20T11:18:35+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Ahold Delhaize: Cyberattack affects services across US and Europe Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
+    "title": "Ahold Delhaize: Cyberattack affects services across US and Europe"
   },
   "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/": {
     "categories": [
@@ -26202,6 +26343,17 @@
     "source": "BleepingComputer",
     "summary": "Bubble AI app builder abused to steal Microsoft account credentials Threat actors are evading phishing detection in campaigns targeting Microsoft accounts by abusing the no-code app-building platform Bubble to generate and host malicious web apps. [...]",
     "title": "Bubble AI app builder abused to steal Microsoft account credentials"
+  },
+  "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-19T18:51:13+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Bullhorn takes staffing platform offline to contain cyberattack Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
+    "title": "Bullhorn takes staffing platform offline to contain cyberattack"
   },
   "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/": {
     "categories": [
@@ -34077,6 +34229,17 @@
     "summary": "Hackers get $1,047,000 for 76 zero-days at Pwn2Own Automotive 2026 Pwn2Own Automotive 2026 has ended with security researchers earning $1,047,000 after exploiting 76 zero-day vulnerabilities between January 21 and January 23. [...]",
     "title": "Hackers get $1,047,000 for 76 zero-days at Pwn2Own Automotive 2026"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-19T19:40:58+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers hijack AOMEI update servers to secretly spread malware Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original st\u2026",
+    "title": "Hackers hijack AOMEI update servers to secretly spread malware"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/": {
     "categories": [
       "Security"
@@ -39441,6 +39604,17 @@
     "summary": "Nikkei discloses breaches of employees\u2019 Microsoft, Google email accounts Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
     "title": "Nikkei discloses breaches of employees\u2019 Microsoft, Google email accounts"
   },
+  "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-19T21:49:48+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Nikkei discloses third data breach in a month, 1.8M records exposed Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
+    "title": "Nikkei discloses third data breach in a month, 1.8M records exposed"
+  },
   "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/": {
     "categories": [
       "Security"
@@ -40035,6 +40209,18 @@
     "summary": "OpenClaw AI agent found falling for phishing attacks, spills user data Phishing simulation on an OpenClaw email agent with various configuration profiles showed that it was susceptible to tactics\u00a0commonly used to compromise human users. [...]",
     "title": "OpenClaw AI agent found falling for phishing attacks, spills user data"
   },
+  "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-10-19T17:27:15+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "OpenCode hack exposes API keys amid AI distillation attacks The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
+    "title": "OpenCode hack exposes API keys amid AI distillation attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/": {
     "categories": [
       "Security",
@@ -40315,6 +40501,17 @@
     "source": "BleepingComputer",
     "summary": "Over 900 US gas station tank gauge systems exposed to attacks Over 900\u00a0automatic tank gauge (ATG) systems across the United States, used to monitor fuel and chemical storage tanks across various critical infrastructure sectors, have been found exposed online and are vulnerable to\u2026",
     "title": "Over 900 US gas station tank gauge systems exposed to attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-20T11:31:22+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
+    "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets"
   },
   "https://www.bleepingcomputer.com/news/security/owncloud-urges-users-to-enable-mfa-after-credential-theft-reports/": {
     "categories": [
@@ -41715,6 +41912,17 @@
     "source": "BleepingComputer",
     "summary": "Revolut discloses data breach exposing financial info, passports Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]",
     "title": "Revolut discloses data breach exposing financial info, passports"
+  },
+  "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-20T09:46:44+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Revolut outage disrupts online banking operations worldwide Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]",
+    "title": "Revolut outage disrupts online banking operations worldwide"
   },
   "https://www.bleepingcomputer.com/news/security/rhadamanthys-infostealer-disrupted-as-cybercriminals-lose-server-access/": {
     "categories": [
@@ -46539,6 +46747,17 @@
     "source": "BleepingComputer",
     "summary": "WordPress plugin with 900k installs vulnerable to critical RCE flaw A critical vulnerability in the WPvivid Backup & Migration plugin for WordPress, installed on more than 900,000 websites,\u00a0can be exploited to achieve remote code execution by uploading arbitrary files without aut\u2026",
     "title": "WordPress plugin with 900k installs vulnerable to critical RCE flaw"
+  },
+  "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-19T21:24:51+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "WordPress SEO plugin Rank Math compromised to backdoor websites Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]",
+    "title": "WordPress SEO plugin Rank Math compromised to backdoor websites"
   },
   "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/": {
     "categories": [
@@ -53398,6 +53617,15 @@
     "summary": "Zoom CISO: AI as Security Enabler, Not Role-Replacer As Zoom's CISO, Sandra McLeod, discusses the challenges of securing a global communication platform, the promise of AI-driven security workflows, and advice for aspiring cybersecurity leaders.",
     "title": "Zoom CISO: AI as Security Enabler, Not Role-Replacer"
   },
+  "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta9877a78be2c957c/6ad66b90a54e05edb3fb8747/surveillance_Lightspring_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-19T19:55:01+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery Spyware vendors are exploiting targeted ad bidding in the digital ecosystem to identify and track individuals and organizations of interest.",
+    "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery"
+  },
   "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
@@ -54325,6 +54553,15 @@
     "source": "darkreading",
     "summary": "Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions Cisco joins a growing list of security platform providers that are betting that securing the agentic workforce means turning identity into the primary control plane.",
     "title": "Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions"
+  },
+  "https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bed2421e7501183/6ad6650c7e69bd1337538960/Cloud_Backup-TU_IS-GettyImages-1399936043_(1).jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-19T19:19:33+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains unconfirmed.",
+    "title": "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs"
   },
   "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control": {
     "categories": [],
@@ -55598,6 +55835,15 @@
     "source": "darkreading",
     "summary": "Microsoft Disrupts Cybercrime Service RedVDS RedVDS, a cybercrime-as-a-service operation that has stolen millions from victims, lost two domains to a law enforcement operation supported by Microsoft.",
     "title": "Microsoft Disrupts Cybercrime Service RedVDS"
+  },
+  "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2a7fd796cffad616/6ad6756d20d56c6557294d94/techsupportscam-Cravetiger-Getty-2234087419.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-19T21:13:41+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Researchers Infiltrate Microsoft Tech Support Scam Operation A large-scale scam operation impersonating Microsoft uses a malicious traffic distribution system (TDS) run by a Russian organization and abuses thousands of Cloudflare links.",
+    "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation"
   },
   "https://www.darkreading.com/threat-intelligence/money-mules-require-banks-to-switch-from-defense-to-offense": {
     "categories": [],
@@ -56881,6 +57127,15 @@
     "source": "darkreading",
     "summary": "Ollama, Nvidia Flaws Put AI Infrastructure at Risk Security researchers discovered multiple vulnerabilities in AI infrastructure products, including one capable of remote code execution.",
     "title": "Ollama, Nvidia Flaws Put AI Infrastructure at Risk"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef729e5049e61b8c/6ad290a4ed74a528c20a7b92/copyright1800_wakila_GettyImages-157508105.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-19T14:28:11+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "OnlyFans Copyright Takedowns Expose Compromised Websites Copyright takedown requests tied to OnlyFans and other adult content creators are revealing how attackers exploit vulnerable university and government websites to manipulate search results. UpGuard's Greg Pollock explains w\u2026",
+    "title": "OnlyFans Copyright Takedowns Expose Compromised Websites"
   },
   "https://www.darkreading.com/vulnerabilities-threats/patch-now-microsoft-zero-day-critical-zero-click-bugs": {
     "categories": [],
