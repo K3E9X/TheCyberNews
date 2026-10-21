@@ -17834,6 +17834,15 @@
     "summary": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivan\u2026",
     "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far"
   },
+  "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdsSYB_dpfRL3wD0MeCT_VyPyFJS8HjQAW0VuBHSTviFY4WBOQfa8MCP79qyJR3zYyMBesIXiCtL8XwwtjjLGm9Stxdv_qoIkf3_Rpc7YGFwZuzVS974TbuDfF5GkLRJX2DxFaDudlMlXSDyiZ8fvoVGaKaA-tpCr_eAvvEsfQr1uyfdBk-8KyK4aisYgC/s1600/wp-backdoor.jpg",
+    "published": "2026-10-21T09:01:12+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor WordP\u2026",
+    "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites"
+  },
   "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMpbMY9pFBnt6TekKFIlEqpeqQoPBjBuhu8rYuYtU7ce5P3LTFKwlv_F_BUDzfuuMu0gRU645YStocoUQnNtS11MoEIRrfxrgPZtShsFgr8YH1VYTtjPr2l6aHPFDBYPHJKLT-fa-KqaHGSJHeiDPKzUgA12IJH5zhAHpMnoGZc5Qsz9sJhCOB_3gYHQar/s1600/edge.jpg",
@@ -17878,6 +17887,15 @@
     "source": "The Hacker News",
     "summary": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&nbsp;said on October 6.\n\nGoogle's own system\u2026",
     "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains"
+  },
+  "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-PokIxnQKc5RkxwrgRCR7Aaw8sjbkT1F4TQWCIG2V_rhQVKp8CJgtivgF5Zns45rObi0Tf-e9FDBXdX0L7OUshol00GvpiQhAi3SUAa72DV-bjeDu2oNzET9uV_cIQV2U9jSXGC2qiWWOr00M1ZYPAtcaWJNSn2_IH_BwPWVaUEqqjpmUSgfhIvRUdbY/s1600/tor-ssh.jpg",
+    "published": "2026-10-21T10:30:27+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found.\n\nExit relays are the last hop in \u2026",
+    "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections"
   },
   "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html": {
     "categories": [],
@@ -17924,6 +17942,15 @@
     "summary": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In&nbsp;said in an advisory&nbs\u2026",
     "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing"
   },
+  "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq2iUs3zJHHrrskI-icX8x-nBeJxjr_O9uRE2lvcLQkaOhVUHFjTQYLItaZPVskt39VgI2ZYoMDuIhqkAAqEl1bYHLv5ctEfQvPe9UmLyzVEo46YS4xOEz7HcoYKSiNtT_g2bqfKLPFis98BVTTjSR9gafpKRceKKcj0rUf3pb89zBXVt_PequHoA-ta3t/s1600/sandboxie.png",
+    "published": "2026-10-21T12:05:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Af\u2026",
+    "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors"
+  },
   "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR69JnEBkz8N6_Nd5K75adIWh8xVmxW8FB21gsKinx9HBzgXQSLWL5sYdKMe9d-cbTSrgc45ZtYhmvhLZJII1H-tPXKn4AiRvj4KrU8ayeZskmMCfiV-mUc2pz10MumKyXKH6ybJ2RsVj9ZZ67l-4u0Y2f5Dl3kX7PLEzCAqogMfHTSfD7gM7QypHi-yos/s1600/china-ms.jpg",
@@ -17950,6 +17977,15 @@
     "source": "The Hacker News",
     "summary": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), fol\u2026",
     "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV"
+  },
+  "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWLuogjq0EVRQo6oTMUucF21anDW9Jpvs5w98qm-I6hOqH4fU1ZeHA1DqNilI_drxE548BnZD4vkXfB3KmWXAm4xfU3KU3j38LI-ZXhB03kZy4rWc9qiQqSED6vVjxihA1-uM_46qlXjjDchlvKmtgFG-ym3oosqXFEED6w2mG_Zb-yHjq4IIPcFDeX13/s1600/cisa-patch.jpg",
+    "published": "2026-10-21T07:26:49+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities imp\u2026",
+    "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws"
   },
   "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html": {
     "categories": [],
@@ -18059,6 +18095,15 @@
     "summary": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KE\u2026",
     "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes"
   },
+  "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3BuJLxcpzxzxwpUcwsPb7L-gNCeXeyuPtNysOMHtf06VmANCx2DR3O52Puw9AQwUu0C8ccQ77MF_l0bAf4zL-hrvYO8jSHs6Km0Xz6-Q4yYm1thRvJ-y59qLRX9Qni0zD161qJ53oCgzEIo3NjOLKtgOrIAbOMsAhITOhL9qoy2v9D6tRU26m0fBoMDhJ/s1600/fort-poc.jpg",
+    "published": "2026-10-20T15:38:52+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execut\u2026",
+    "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution"
+  },
   "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Y0ZP5acV4vjjJV9at7yMnz0frJTAeLd3nGmqMIcifTwGoe2NsB7pDInUjGa6aocyqoM3o-NyXKpsfyy1LRdkH5UG67UVYC_lNZDYArvg-hkmtifcalWo67Mkl3A4_2qwXomi7iJURUjoiSlBdEWtJL5N63jfuMDjI7ewZHLlTZBXlkc4zqwyxKox7eE/s1600/pwnescape-main.jpg",
@@ -18130,6 +18175,15 @@
     "source": "The Hacker News",
     "summary": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19.\n\nAn atta\u2026",
     "title": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules"
+  },
+  "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJOWLzgriXXM626bAOaX_LEoNH97Ab_XV4oQ0GxBeY3-PqkdXdcae52-wrl8r0LipTFBsvl4R7Y5j6jFsiG_9V8ZAwHOkAlsZaRcOAswStHhAG1FYm9W6kjA4FmOz0bXgVXO6LyEs9Fv75UrRFphZEzhXodKdTlYzfPK8sqW3DpxKBnD7OFQfqJJ_ay2c/s1600/ecert.jpg",
+    "published": "2026-10-20T17:09:53+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20.\n\u2026",
+    "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software"
   },
   "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html": {
     "categories": [],
@@ -18248,6 +18302,15 @@
     "summary": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Se\u2026",
     "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software"
   },
+  "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH7zuBEyUN7xB2yVXHoNSB6jWMLhxTtu9LqItz3TNMkY5P59w2MW5dRYcLBp1hakchf5442zpMwNG3nzombXfaoo7O5IzgNw61nsbKWAjaKGP8D9ITLy11wkHBUUAwksYEqTiH27t7FTgpa5fpJQ42t6lVqO8qcbI57oWnxc7o8SWLupLpIiiZW6eBqj4/s1600/proofpoint.jpg",
+    "published": "2026-10-21T11:53:34+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, \u2026",
+    "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports"
+  },
   "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtAKfaW5dHhlv9lpzzAju1Cm_EjO4wOkhGQEMspSKCVFUCA_eaanAXGHkb-Dv3c9zSXWHW45I50Fp_bqX6ydaNlPWixkd39bl4IOeYv8xQ0oviE4d6SZcQmQ27ztf-tVV7BozEDeFYi2Fde0LpJAJ9gTHUGSOvc46MtgawesAd5-wljApeBpLyUYnczZnR/s1600/git-font.jpg",
@@ -18347,6 +18410,15 @@
     "summary": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public.\n\nAc\u2026",
     "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor"
   },
+  "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwNHgVe_6hmXG-V6Nx8pk56jDEW1WRCKtvvG9RHugoj65LqTTVGLvgl1Eh1E7ClmyMDn9k4RrF7Yp1kteZvZ_r7v9IxQPG_Eif3nk_13gz_MSddPcBtJdLKFwYAPa4BKMN5FdZLvvTIjahr4aTdiiLeQMuVzrj8Ff9wvgmUCW_6_OyfXPSGIEEIxZgdtQ-/s1600/vmware-healthcare.jpg",
+    "published": "2026-10-21T06:05:15+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization.\n\nAccording to a report published by Russian cybersecurity firm Solar, the act\u2026",
+    "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion"
+  },
   "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSRX5Jjz6vqh8EcVVYoXU8S9qh0rFzQ3DDnjNIlkRrBq97brmk6hUw0u2pbLqyTAG1_mYfG9bGHCnMkgSMEPFu6fIR67F1jZMmS7G7-DFe6i7PtG_LzdTgHLCTXSwE5hCa2EApQeAIYGIMYATwbLEp-2FcPmV9aAHVqrRRBYk_wY7ZTuES0frFAPGjhnU/s1600/ovhcloud.jpg",
@@ -18355,6 +18427,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the\u2026",
     "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware"
+  },
+  "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYic0qXjDFjrKdw3Ed58Uv28Xt2G7GTuEZhXrAiV07Xnn_I9DPNeQuntZ-TNMi_4i0JdPOyLj4geWCj8K_Zv2OBO4qaujmlDFzBDljcRvvbDx-3r1hSDDaDN-mI3u61F2gJW6zhShFGLZBKrLM0k0Y9yl5-VOVXFHiJaEg3V65-yfT1yXWc5FSfaYLCKg/s1600/bot-attack.jpg",
+    "published": "2026-10-20T14:07:17+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left thei\u2026",
+    "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites"
   },
   "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html": {
     "categories": [],
@@ -18617,6 +18698,24 @@
     "summary": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation.\n\nThe vulnerability, tracked as CVE-2026-0322 (CVSS score:\u2026",
     "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation"
   },
+  "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s1600/php2shell.jpg",
+    "published": "2026-10-21T09:05:17+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the officia\u2026",
+    "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert"
+  },
+  "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipzsA5sBIvBsTGT1YIrSeK_4YH5ISqTd40ZG1tV8YN1VkjjZuiY6CfQojYR-TIoYKM0EgZM4fYrmdtD25XjeTtgBkTFCQGny4DLL0fTKT5SEFpOFBcxNjLgif_FrX-1d-IX9DE58tQX6ELzGk4cWNpUpU5Eaig8pqdLL2h6qqVCC95ZmHFN6m7tD6m7BY/s1600/php-rce-patch.jpg",
+    "published": "2026-10-21T10:36:53+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm th\u2026",
+    "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't"
+  },
   "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDjQ8O0UFcl1dpOxEJoAM0s1mXXZHJNpJF4uJV_4jg7UPhHlDEvGHVxHKtyZQpnFC4HC3stGB-jJOSYUB5vdayfwx_eWPq-0F_l_ViYZNcA768t1N95JWhhbhUzY8anGOjVSL06QtsKVv_mz4lKgGrBMNBckAtFPxaW-KuG3mbWuUJrsyJP2vdWVbq8r9P/s1600/crypto.jpg",
@@ -18652,6 +18751,15 @@
     "source": "The Hacker News",
     "summary": "Product Walkthrough: Bitdefender AI Visibility and Control A user opens a browser tab, pastes data into a chat assistant, and nothing is installed.\n\nA developer adds a coding&nbsp;assistant as an editor extension, and nothing shows up in the installed programs list.\n\nSomeone down\u2026",
     "title": "Product Walkthrough: Bitdefender AI Visibility and Control"
+  },
+  "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd71tvun8MRT5muo9ZiruSzkyqhGkeh-_5dP4QardwiC54o4wW3PtC7I1jtP_vVX1rPujN_YdrmILFSZw_Ikl6v8Gn2w75v-90aSHpnngi2WE-Ezv6OAO37YY4pJpNwe_DcGWRMgIOUxAEPyVisI3SxXnV30HejoGfGtlXDfAgGkdqrdFJjAI7x6jjFFj-/s1600/palo-ransomware.jpg",
+    "published": "2026-10-20T15:32:27+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting&nbsp; PAN-OS and Prisma Access by ransomware actors.\n\nThe activity relates to CVE-2\u2026",
+    "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA"
   },
   "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html": {
     "categories": [],
@@ -18743,6 +18851,15 @@
     "summary": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker \u2026",
     "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances"
   },
+  "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlQofjstTN3Rpma_akZslqH5L5GLXJ6yhYDWwr5R-rK78jnhUq0L0jk3Ds7sYrlCMjyV8SPGb9PqOr1n46ssgdRRdSdFxPVHc-uxVaVm_l-atc0RXV2MTG6Y5AmIivnljGOMRIKNxeOlIfzIuDdZGl7CHP_Xplctaz8YkiWvriWkCgQ8GyKkR804LI0KQ/s1600/sbi-data-breach.jpg",
+    "published": "2026-10-21T07:44:22+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data cam\u2026",
+    "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web"
+  },
   "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ZJrw-vCazDC3YJlfmY9WewJ170my9lYex6Ccg7VTa8UQCrXWoCiy_F9w_LoP-GDEarC_RoYnx63fAa_i_RmR5564MS6tgcoqi77wlcqPzX7kambOt4Gga7rsMlWWBwyHKZtCb1lAowiE4bf5up8aIJuwoVsZSKTq15TTynJ-uNPirAGnY8uwMMGqBsgU/s1600/npm-hack.jpg",
@@ -18769,6 +18886,15 @@
     "source": "The Hacker News",
     "summary": "The Credential Layer Is Expanding Faster Than Security Teams Can See It Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three co\u2026",
     "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It"
+  },
+  "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTdLja8gnPl92G1mhffmAZ3Dy5Q8gX9wpjY22n1J2xerzpx0Eab4VMj2fzt3XAe_TjT8hlDkjdzW8DdBwWCvAPa9o5SKnFN4MSo5H0MnXylWX36NwFiwcI19f3MR0QDPT2uKXtXH4RAj5_rU3aBnmAVxsczeL2sfBj7G1r878XbJ6rAyEFgIg0XeuBNKk/s1600/pentera-main.jpg",
+    "published": "2026-10-21T10:32:40+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "The Harness Is the Hard Part of Agentic Pentesting An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth a\u2026",
+    "title": "The Harness Is the Hard Part of Agentic Pentesting"
   },
   "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html": {
     "categories": [],
@@ -18895,6 +19021,15 @@
     "source": "The Hacker News",
     "summary": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 \u2026",
     "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks"
+  },
+  "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjAZGBcWVyeZELPmEq7fujTJPeDgQoEZQpt7sD2rB1EO9fXByN2kmezefmvfihwR7fDE-77o-JVKB8bASzvKamkZB9kx9SstR2PA529wjrAWiSr1IBHEfrShRbiOd3PG2OP3iqygUb_ZeXYBSzrTN86MY5pjngL6WsqwoqJYYzUXSSVCJNKihe8F7FKsA/s1600/deepseek-dhs.jpg",
+    "published": "2026-10-21T08:04:17+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services \"developed using DeepSeek implementations,\" under\u2026",
+    "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases"
   },
   "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html": {
     "categories": [],
@@ -20004,6 +20139,18 @@
     "source": "BleepingComputer",
     "summary": "OpenAI says ChatGPT won't use your health information to train its models OpenAI is rolling out ChatGPT Health, which is a dedicated space for health conversations. Amidst privacy concerns, OpenAI said it won't use your health data. [...]",
     "title": "OpenAI says ChatGPT won't use your health information to train its models"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-10-20T18:11:03+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
+    "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-latest-gpt-51-codex-can-code-independently-for-hours/": {
     "categories": [
@@ -21293,6 +21440,17 @@
     "summary": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges A security researcher has released a new Microsoft Defender zero-day exploit named \"RoguePlanet\" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday. [...]",
     "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-10-21T10:14:53+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft says October updates didn\u2019t actually fix VPN issues Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
+    "title": "Microsoft says October updates didn\u2019t actually fix VPN issues"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/": {
     "categories": [
       "Microsoft"
@@ -22353,6 +22511,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows Microsoft updated its Windows PowerToys toolset with a new utility\u00a0dubbed \"Window Hopper\"\u00a0that lets users switch between an app's windows more quickly. [...]",
     "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-10-21T12:20:34+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]",
+    "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-new-cursorwrap-mouse-teleport-tool/": {
     "categories": [
@@ -26956,6 +27125,17 @@
     "summary": "CISA alerts of active exploitation of three Linux kernel flaws The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
     "title": "CISA alerts of active exploitation of three Linux kernel flaws"
   },
+  "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-21T08:36:24+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
+    "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs"
+  },
   "https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/": {
     "categories": [
       "Security"
@@ -28351,6 +28531,17 @@
     "source": "BleepingComputer",
     "summary": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals An ongoing data theft campaign uses custom\u00a0tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]",
     "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals"
+  },
+  "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-20T13:51:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, passw\u2026",
+    "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies"
   },
   "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/": {
     "categories": [
@@ -30004,6 +30195,20 @@
     "source": "BleepingComputer",
     "summary": "Device code phishing attacks surge 37x as new kits spread online Device code phishing attacks that abuse the OAuth 2.0\u00a0Device Authorization Grant flow to hijack accounts have surged more than 37 times this year. [...]",
     "title": "Device code phishing attacks surge 37x as new kits spread online"
+  },
+  "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence",
+      "Government",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-10-20T14:19:05+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "DHS bans DeepSeek products across US federal civilian agencies The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]",
+    "title": "DHS bans DeepSeek products across US federal civilian agencies"
   },
   "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/": {
     "categories": [
@@ -33404,6 +33609,17 @@
     "source": "BleepingComputer",
     "summary": "Hacker claims to steal 2.3TB data from Italian rail group, Almaviva Data from Italy's national railway operator, the\u00a0FS Italiane Group, has been exposed after a threat actor breached the organization's IT services provider, Almaviva. [...]",
     "title": "Hacker claims to steal 2.3TB data from Italian rail group, Almaviva"
+  },
+  "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-20T13:18:36+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hacker gets 8 years for stealing $3.3 million from taxpayers A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
+    "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers"
   },
   "https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/": {
     "categories": [
@@ -37760,6 +37976,17 @@
     "summary": "Mozilla Firefox gets new anti-fingerprinting defenses Mozilla announced a major privacy upgrade in Firefox 145 that reduces even more the number of users vulnerable to digital fingerprinting. [...]",
     "title": "Mozilla Firefox gets new anti-fingerprinting defenses"
   },
+  "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-21T00:46:42+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Mozilla, Google, Apple block compromised eMudhra CA certificates Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted\u2026",
+    "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates"
+  },
   "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/": {
     "categories": [
       "Security",
@@ -40854,6 +41081,17 @@
     "summary": "Phobos ransomware admin pleads guilty to wire fraud conspiracy A Russian national pleaded guilty to a wire fraud conspiracy charge related to his role in administering the Phobos ransomware operation, which breached hundreds of victims worldwide. [...]",
     "title": "Phobos ransomware admin pleads guilty to wire fraud conspiracy"
   },
+  "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-20T20:56:43+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "PHP warns admins of two critical flaws, emergency patches coming tomorrow The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of thei\u2026",
+    "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow"
+  },
   "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/": {
     "categories": [
       "Security"
@@ -43426,6 +43664,17 @@
     "source": "BleepingComputer",
     "summary": "Stolen Rockstar Games analytics data leaked by extortion gang Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site. [...]",
     "title": "Stolen Rockstar Games analytics data leaked by extortion gang"
+  },
+  "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-21T01:01:50+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Stolen UpdraftCentral keys used to backdoor WordPress sites A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
+    "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites"
   },
   "https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/": {
     "categories": [
@@ -46923,6 +47172,17 @@
     "summary": "Zara data breach exposed personal information of 197,000 people Hackers who gained access to the databases of Spanish fast-fashion retailer Zara stole data belonging to more than 197,000 customers, according to data breach notification service Have I Been Pwned. [...]",
     "title": "Zara data breach exposed personal information of 197,000 people"
   },
+  "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-20T19:33:02+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Zeabur shutting down after second security breach in two months Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million envi\u2026",
+    "title": "Zeabur shutting down after second security breach in two months"
+  },
   "https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/": {
     "categories": [
       "Security"
@@ -47578,6 +47838,15 @@
     "source": "darkreading",
     "summary": "'Claw Chain' Vulnerabilities Threaten OpenClaw Deployments The now patched vulnerabilities in the rapidly growing AI agent framework allow attackers to steal credentials, escalate privileges, and maintain persistence.",
     "title": "'Claw Chain' Vulnerabilities Threaten OpenClaw Deployments"
+  },
+  "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt44a0332eb39140fa/679be79d9bc2cd9f0b986638/TippaPatt-software-developer-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-20T15:35:45+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Close Identity Gaps in Software Development Before Unleashing AI Artificial Intelligence is complicating security in the software development lifecycle, but a Dark Reading roundtable found collaboration, better identity visibility, and reduced testing costs offer CISOs a way ahea\u2026",
+    "title": "Close Identity Gaps in Software Development Before Unleashing AI"
   },
   "https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026": {
     "categories": [],
@@ -50276,6 +50545,15 @@
     "summary": "Taiwan Endures Greater Cyber Pressure From China Chinese cyberattacks on Taiwan's critical infrastructure \u2014 including energy utilities and hospitals \u2014\u00a0rose 6% in 2025, averaging 2.63 million attacks a day.",
     "title": "Taiwan Endures Greater Cyber Pressure From China"
   },
+  "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9204db2f2ffca6fe/6ad7d457e5c2f8b0773c4a30/ca_Inkoly_shutterstock.jpf.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-20T21:45:47+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised.",
+    "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys"
+  },
   "https://www.darkreading.com/cyber-risk/tenable-tackles-ai-governance-shadow-ai-risks-data-exposure": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte17bc7f9dced30f8/67598def098d3995d4241885/network-attack-HernanSchmidt-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -51272,6 +51550,15 @@
     "source": "darkreading",
     "summary": "Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA The ransomware-as-a-service operation is finding success against critical infrastructure targets with leaked Conti code and old flaws in firewalls and VPN appliances.",
     "title": "Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcbe1b408854966e2/6ad73d5767600f57689ea49a/AI_agent_concept_Brain_light_Alamy.png?width=720&quality=80&disable=upscale",
+    "published": "2026-10-20T14:36:05+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree A Chinese-speaking attacker has compromised hundreds of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine manufacturer Cummins.",
+    "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/hackers-breach-senegal-national-biometric-database": {
     "categories": [],
@@ -54747,6 +55034,15 @@
     "source": "darkreading",
     "summary": "Is It Fair to Blame 'Rogue' AI for Security Failures? &quot;Rogue AI&quot; terminology anthropomorphizes LLMs and shifts risk responsibility from vendors. Defenders should treat agents as untrusted, nondeterministic software systems, not sentient beings with malicious intent.",
     "title": "Is It Fair to Blame 'Rogue' AI for Security Failures?"
+  },
+  "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4490aa31390e262f/6ad7b11151d60c256274529b/REC_recording-Tomasz_%C5%9Amigla-GettyImages-1338436529.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-20T19:16:49+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector.",
+    "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ"
   },
   "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges": {
     "categories": [],
