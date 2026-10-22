@@ -17969,6 +17969,15 @@
     "summary": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a\u2026",
     "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers"
   },
+  "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBGpr0x4Dn4VV8YVCO_s3CzzGvwmVUceHbt0llcvrzvBmWFaJcu9E9v3WntJGdez3PZ-53GAVSRiYc5FdSOgmyeCSXvpL2t5nCjhzJC50kTLhQygW8cCeFHqtZtDYHsG7Vx2uf1vVdobBbKJ5fcCKSNZDKpV00GRQKVlD444srM9L4rcPnTe28nABZ3pon/s1600/chinese-ai.jpg",
+    "published": "2026-10-22T04:21:26+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application.\n\nDuring the incident, Storm-0\u2026",
+    "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack"
+  },
   "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8jgm3LMY2zr1S1DmXnvVEPDiTKYR5FXHW7q_6duG1lVPhzbW2ZfJwRM9glqAJrQhBX3HAAiksz-tUpRN4pfT9VWHUksa-1SgHZmKcNUd1tJfsyFiwhtezZN_zBM_cEmqjkECI_2gfWhnqZ1ry2hgDou-qQCB21zbl1RzYN9JB0bRjqzhB2m6gBomg-ow9/s1600/cisa-wan.jpg",
@@ -18103,6 +18112,15 @@
     "source": "The Hacker News",
     "summary": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execut\u2026",
     "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution"
+  },
+  "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1600/git-rce.jpg",
+    "published": "2026-10-21T18:57:34+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, \u2026",
+    "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases"
   },
   "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html": {
     "categories": [],
@@ -18374,6 +18392,15 @@
     "summary": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and th\u2026",
     "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys"
   },
+  "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkkBWQk1mVx_ybLuq6r6miCGLiZJUyA_-tPpzi5cyWpcmN_WX43NqfOoH-Tc5VaAh1rVA78waqQ9hx4j-jNwq1GX9bbZjezpx1Q28YcxlBPqnxMbbHd15spg63hSVS0sidhyR9wTg6Aq7ijZJdNIfdY_jev1_K4KJR-6yIoCLlD6cbkGwVY3SUke5IuXS5/s1600/chrome-clickfix-warning.jpg",
+    "published": "2026-10-21T13:15:09+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled.\n\nClickFix is a popular social enginee\u2026",
+    "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands"
+  },
   "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCWoelMB7H9bFZJdDV7vP5M3a1ByvpHs8ub2SrBGOM1gz6r0Fg9cV1fplW5Q6mNBFtRlW99wDCSC-_6_sZBw0l4HsFvUDP5cCH2zmgcF4NK5wCOInv05K4hH2WMlKCA_G_psX4zB_hUcXid2MWx5fGDjaJvD1YjWBechwUdrhXK51dJYZ3PGsu0JQcT1U/s1600/google-bug-bounty.jpg",
@@ -18536,6 +18563,24 @@
     "summary": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade\u2026",
     "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan"
   },
+  "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-f1TsJE93kcT5Cp1wvKlnR-bCWFP9ZUZofd0PXryxRBt0B1q0-t0BaHnEJcNhy3IhRZq2fBU9fmILshSvlY-qk28TOO-f1JoBcGSRtwiC3MIV4gDxdXYzTS_ZMirtPka7UaG9Shie7kgWKzauZOwKgPvk8hHXUTFly2YXpzBuxUD20MdxBfKeXrRsIG-W/s1600/litellm-hack.jpg",
+    "published": "2026-10-21T18:01:57+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, S\u2026",
+    "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor"
+  },
+  "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiEKKMESHBCMBHXA8Yf_clmAeFQXSdaKTEz0t_6RDzj1zXcwiPxA4gy2MPmftM6vyCkoG7OsCZJ2a8t7xJe1qbn3tEWRZfVgStzQVJy0ZfwEkjhg6-A34iT3XnQG7nYku04cWbIaHwkQmuDVghCeJBx5xJcbtozsyD3Genw4wyxFtgWIVD-rRGRLMBKoq2/s1600/litellm-breach.jpg",
+    "published": "2026-10-22T08:28:48+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a ba\u2026",
+    "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release"
+  },
   "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWazS9FTiMttWg9JuwySbOkXe9WBGk6EnDbYXfmFzGaoTsXD3FQKLo7YxjnYk9MIZlfmdt08nW3qRKbLggGv2H7ondflK4CbpXu98CiCxnccJfwnrvUwEhMVIHUdt7GO198VkHXASs12AKWj4r44vpT5mF5BHLqX9spJT24dZmpMGqOKyuqoh25f1UuqpY/s1600/android-malware.jpg",
@@ -18617,6 +18662,15 @@
     "summary": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks.\n\nThe vulnerab\u2026",
     "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline"
   },
+  "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidksxeLP_h5vpqmr62J_72yOAmQIRsZDLE6bpclFaHY1yQX6Dv-omiTvu_j49FuvXUOwxQT8levg89_AGRMiPNidANkEn1PSGSaNFoCVnY_VQ2Ny9D7FhLwtd9VDboOjxPi6Ssg78CdLFUzShhEt8oK6x0obKcHCZbbIMWBylnQCVCbQGUqjfbBJAKCew/s1600/http3.jpg",
+    "published": "2026-10-22T06:38:31+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&nbsp;disclosed, releasing working proof-of-concept code.\n\nBy sending a s\u2026",
+    "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification"
+  },
   "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9mXutJ2QPpC1NUCUZWdHjUDUGPSD3DaDY4b-T1EXbg07sNWADsV43EvUacKzn4Ohp2bRbD93t8kXBpv513XdMZEnMh8eNkY1bBaSuGICWbituq_jgWNCjQa_Cq6Ur0jInsfEwsHfdInKq4Tcp2kmfuYoCIMrgWcWwtzFlRPePDpW9gwemIkQpJXEVaHU/s1600/nextjs-rce.jpg",
@@ -18634,6 +18688,15 @@
     "source": "The Hacker News",
     "summary": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks NGINX released&nbsp;versions 1.30.6 and 1.31.7&nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005.\n\nThere are three memory bugs that F5, the\u2026",
     "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks"
+  },
+  "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFwR_FE94PTthun36oXfrSIiYx7N-Hb3Ww1w2gFs6x6qs0mML2v_TmYZmgqYKxB6VlMBzmIQksNdHldgX-UxykDBNwnszmBuB7IZWyWJhxei65NJlOImUWde5tYzB7D94dmieFBGhFNVAt3bL4qlhXkl4o3uw362QKgJpk37xutyRmM5bB3sHR8XMC3bc/s1600/nodejs-rce.jpg",
+    "published": "2026-10-22T07:47:22+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code\u2026",
+    "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions"
   },
   "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html": {
     "categories": [],
@@ -18671,6 +18734,15 @@
     "summary": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds \u2026",
     "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract"
   },
+  "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLjuo6QB0kLx2z3u5thyphenhyphenjrULwTFigmtHb1U1y6141FNvIITM2nytdxcKmShZMElSSZdMFbnGfiwjTIpqOYtNzK3gAeSGkEVr8XnsPB9RF1GOh-6qqkXPmX8SY2COyV0eyA6khfN3QYzF-Ydbsz8Mw8jBmFDouame4hTt0ulaNxq0pPTR4FKFuVyQ2Ln6WC/s1600/openai-bot.jpg",
+    "published": "2026-10-21T16:33:47+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding\u2026",
+    "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So"
+  },
   "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzRSuvywT7bfHRl45krYywOIqL__Cw1hXchChbx5ylDNZaHxVDEf8O1pmzajCnItG1rwxKq0k2GHdMeDW_DvQP8Wk5MEiwlE2dZXn9grvDpAOpViWonNWsFMkTXoKpcFj8lk0UuMrGx-xVHRU_KufidsDcY7e0RUSG62aapDC9y9opt8V_rmgxkCG9v6A/s1600/opencode.jpg",
@@ -18679,6 +18751,15 @@
     "source": "The Hacker News",
     "summary": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said.\n\nConsole is\u2026",
     "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys"
+  },
+  "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUmn80CiQx35trhXNaAwJka_Z3T-PKQrz__dlAW1GDDVwfrk2WHit1W6GZBaaAT-a9SrmqqauUhw0raYLEOS3Vv-LNxdu0a2bmJebJWVj5mBadfgxN1N1yVREXflCcV7cPmShswRE8PC0qspFY82MDEKe8MJImYVqJCBYLwTLpCHM1IzjDX7KsOAYs7tc/s1600/opencode-mcp.jpg",
+    "published": "2026-10-22T10:44:05+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Mo\u2026",
+    "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL"
   },
   "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html": {
     "categories": [],
@@ -18697,6 +18778,15 @@
     "source": "The Hacker News",
     "summary": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation.\n\nThe vulnerability, tracked as CVE-2026-0322 (CVSS score:\u2026",
     "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation"
+  },
+  "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz8MKP95jyzesxy1eZd6zQDCb3dr-9m-bRE9W0PYnomN3z8lodXmM_0Oo4AAiP_nt2QMNpLxsUNPKueH4TW6FnvXl7ijDGDwxnXcfiyAII6sUDd8cfKoB7Z3MgLOvcAWDeplnUdixy-zfpgVqCuAVZmqH-Orn4S-QhYREVcY1ew7_6kIG8LBsdLZC8Ofs/s1600/PHP2SHELL.gif",
+    "published": "2026-10-21T14:00:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27\u2026",
+    "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge"
   },
   "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html": {
     "categories": [],
@@ -18760,6 +18850,15 @@
     "source": "The Hacker News",
     "summary": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting&nbsp; PAN-OS and Prisma Access by ransomware actors.\n\nThe activity relates to CVE-2\u2026",
     "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA"
+  },
+  "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLi5yuPoipCkAL6joBpDL5htNkHWi_rU5i5dAyspyjSrdDORYgV_LRNO4pVG_c1P0S7bnZFWHft8recxLiFRSiLsPxx3ZL-v8fzlYRuzxxG_P_ocKdJbGWzXFtoEjPszyKNUOS86HCylk0LPV1YZS7U9qZcfonBVeLEuRKioCXVbbzUySEvWGI0IaBJ8U/s1600/rail.jpg",
+    "published": "2026-10-22T11:15:42+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables.\n\nUpon further investigation, the company fou\u2026",
+    "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation"
   },
   "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html": {
     "categories": [],
@@ -18841,6 +18940,15 @@
     "source": "The Hacker News",
     "summary": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS).\n\nThe activity, observed f\u2026",
     "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks"
+  },
+  "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZXm1gLzaKPP-QW888zIx_tXRCirkgZBsOOn0icTEOrFBf7w28955jH1zY8jxw2Cf-g2Qp9mPHgrBe7E5dux_L2XUzdaVZfvRgj_utCT-nTiU7haAkAr_F6eEeW5YJmtwbtJoIuumhnv5F9tFG_2BcLwnaqwkFGWEvFnWsUDHHuobMhZ_letCSD6I56Lw_/s1600/php-hacks.jpg",
+    "published": "2026-10-22T06:34:10+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot servic\u2026",
+    "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed"
   },
   "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html": {
     "categories": [],
@@ -20409,6 +20517,18 @@
     "source": "BleepingComputer",
     "summary": "Google Blogger locks hundreds of blogs in malware false positive Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
     "title": "Google Blogger locks hundreds of blogs in malware false positive"
+  },
+  "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/": {
+    "categories": [
+      "Google",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-21T22:16:26+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+    "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks"
   },
   "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/": {
     "categories": [
@@ -26012,6 +26132,18 @@
     "summary": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins An international operation from law enforcement authorities in partnership with private companies has disrupted FrostArmada, an APT28 campaign hijacking local traffic from MikroTik and TP-Link routers to st\u2026",
     "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins"
   },
+  "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/": {
+    "categories": [
+      "Security",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-10-22T08:27:11+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Authorities disrupt nearly 11,000 cybercrime networks in Africa Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [..\u2026",
+    "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa"
+  },
   "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/": {
     "categories": [
       "Security",
@@ -27302,6 +27434,17 @@
     "source": "BleepingComputer",
     "summary": "CISA gives govt agencies 7 days to patch new Fortinet flaw CISA has ordered U.S. government agencies to secure their systems within a week against another vulnerability in Fortinet's FortiWeb web application firewall, which was exploited in zero-day attacks. [...]",
     "title": "CISA gives govt agencies 7 days to patch new Fortinet flaw"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-21T18:34:42+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
+    "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/": {
     "categories": [
@@ -28641,6 +28784,17 @@
     "source": "BleepingComputer",
     "summary": "ClickFix attack uses fake Windows Update screen to push malware New ClickFix attack variants have been observed where threat actors trick users with a realistic-looking Windows Update animation in a full-screen browser page and hide the malicious code inside images. [...]",
     "title": "ClickFix attack uses fake Windows Update screen to push malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-21T14:00:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "ClickFix has never been bigger, and AI tools are its most convincing lure yet ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these att\u2026",
+    "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet"
   },
   "https://www.bleepingcomputer.com/news/security/clickfix-malware-attacks-evolve-with-multi-os-support-video-tutorials/": {
     "categories": [
@@ -32845,6 +32999,17 @@
     "summary": "GitLab warns of max severity code execution vulnerability GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]",
     "title": "GitLab warns of max severity code execution vulnerability"
   },
+  "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-22T11:41:48+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "GitLab warns of new max severity code execution vulnerability GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
+    "title": "GitLab warns of new max severity code execution vulnerability"
+  },
   "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/": {
     "categories": [
       "Security"
@@ -36065,6 +36230,17 @@
     "summary": "Japan's largest taxi operator shuts systems after cyberattack Japan's largest taxi operator, Nihon Kotsu, announced that its systems were compromised in a cyberattack, forcing the company to shut down part of its infrastructure. [...]",
     "title": "Japan's largest taxi operator shuts systems after cyberattack"
   },
+  "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-21T21:43:27+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
+    "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected"
+  },
   "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/": {
     "categories": [
       "Security",
@@ -36395,6 +36571,17 @@
     "source": "BleepingComputer",
     "summary": "Lazarus hackers exploited Windows zero-day to target defense firms North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
     "title": "Lazarus hackers exploited Windows zero-day to target defense firms"
+  },
+  "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-21T20:31:48+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Lazarus hackers use post-quantum cryptography for malware delivery North Korean hackers are using a post-quantum cryptographic mechanism\u00a0to secure malicious payload delivery in new operations that combine old and new malware. [...]",
+    "title": "Lazarus hackers use post-quantum cryptography for malware delivery"
   },
   "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/": {
     "categories": [
@@ -40322,6 +40509,18 @@
     "summary": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the fo\u2026",
     "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach"
   },
+  "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-10-21T16:26:53+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI agents disabled safety monitoring, one lied about it OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
+    "title": "OpenAI agents disabled safety monitoring, one lied about it"
+  },
   "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/": {
     "categories": [
       "Security",
@@ -41080,6 +41279,17 @@
     "source": "BleepingComputer",
     "summary": "Phobos ransomware admin pleads guilty to wire fraud conspiracy A Russian national pleaded guilty to a wire fraud conspiracy charge related to his role in administering the Phobos ransomware operation, which breached hundreds of victims worldwide. [...]",
     "title": "Phobos ransomware admin pleads guilty to wire fraud conspiracy"
+  },
+  "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-21T14:07:05+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "PHP ships emergency patches for critical PHP2Shell flaws The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
+    "title": "PHP ships emergency patches for critical PHP2Shell flaws"
   },
   "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/": {
     "categories": [
@@ -48507,6 +48717,15 @@
     "summary": "Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS Attackers fingerprint victims through user-agent data to deliver OS-specific payloads, increasing compromise rates and campaign profitability.",
     "title": "Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS"
   },
+  "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt67e9fa778860769f/6ad8fdb74b1e4143168658d7/warning_sign_with_siren-DSGpro-GettyImages-184878150.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-21T19:19:17+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "'PHP2Shell' Bugs Signal Red Alert for Security Industry Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts.",
+    "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry"
+  },
   "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6cc4d4a12e6b7c68/6ab0590fdb2c1e1226ff0b0f/Hand_snap-Viktar_Sarkisian-Getty.jpg?width=720&quality=80&disable=upscale",
@@ -48890,6 +49109,15 @@
     "summary": "Attackers Use Stolen AWS Credentials in Cryptomining Campaign Threat actors wielding stolen AWS Identity and Access Management (IAM) credentials leverage Amazon EC and EC2 infrastructure across multiple customer environments.",
     "title": "Attackers Use Stolen AWS Credentials in Cryptomining Campaign"
   },
+  "https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+    "published": "2026-10-21T20:03:14+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens Research finds that, among respondents experiencing data loss, only 16% said DLP blocked their most significant incidents before data left the organization.",
+    "title": "Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens"
+  },
   "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
@@ -49070,6 +49298,15 @@
     "summary": "Marquis v. SonicWall Lawsuit Ups the Breach Blame Game When a company gets breached through a third-party security vendor, who should bear responsibility? For one FinTech company, the answer is the firewall provider.",
     "title": "Marquis v. SonicWall Lawsuit Ups the Breach Blame Game"
   },
+  "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+    "published": "2026-10-21T20:14:42+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security The effort is aimed at standardizing a NIST FIPS 140-3 Level 3 integrated HSM for cloud and hyperscale data center infrastructure.",
+    "title": "Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security"
+  },
   "https://www.darkreading.com/cloud-security/microsoft-bets-10-billion-to-boost-japan-s-ai-cybersecurity": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf92453227b9ab491/69deb699d8b50e4d46cce021/japan-map-investments-RRice-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -49213,6 +49450,15 @@
     "source": "darkreading",
     "summary": "Why Orgs Need to Test Networks to Withstand DDoS Attacks During Peak Loads Security teams can't test distributed denial-of-service defenses in a vacuum. They need to test during periods of high demand, such as tax filing deadlines.",
     "title": "Why Orgs Need to Test Networks to Withstand DDoS Attacks During Peak Loads"
+  },
+  "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9561c8122fa8def8/6ad9188c009b36a4ff009e9b/Fulcrum-MicroStockHub-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-21T21:15:39+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "TiDB Breach Exposes Flawed Cloud Security Assumptions Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to roost.",
+    "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions"
   },
   "https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development": {
     "categories": [],
@@ -51321,6 +51567,15 @@
     "summary": "DDoSia Powers Affiliate-Driven Hacktivist Attacks Pro-Russian group NoName057(16) uses a custom denial-of-service tool to mobilize volunteers and disrupt government, media, and institutional sites tied to Ukraine and the West.",
     "title": "DDoSia Powers Affiliate-Driven Hacktivist Attacks"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfaf93bd096fd735c/6a45559d327edd13ed6ac140/clickfix-tumsasedgars-Getty-2234293893.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-21T13:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Decades-Old Windows Utility Powers Modern ClickFix Attack The attack uses malicious Google search results related to Amazon and leverages the &quot;finger&quot; utility to launch a CAPTCHA that installs malware, including the Lumma stealer.",
+    "title": "Decades-Old Windows Utility Powers Modern ClickFix Attack"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/digital-fraud-industrial-scale-2025": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte55409a6550edb64/692733d90d20b45f1cb67c8d/fraud_Quality_Pixel_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -51899,6 +52154,15 @@
     "source": "darkreading",
     "summary": "Operation DoppelBrand: Weaponizing Fortune 500 Brands The GS7 cyberthreat group targets US financial institutions with near-perfect imitations of corporate portals to steal credentials and gain remote access.",
     "title": "Operation DoppelBrand: Weaponizing Fortune 500 Brands"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte501832a54d78d89/6ad8ee8ba10b5733db901071/worms-Tatiana_Maksimova-Getty-2162542629.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-21T16:50:15+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors A developer's GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users.",
+    "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat": {
     "categories": [],
@@ -52689,6 +52953,15 @@
     "source": "darkreading",
     "summary": "2026 FIFA World Cup Faces Surge in Cyber Threats Persistent cybercrime, social engineering, and infrastructure threats continue to plague the FIFA 2026 World Cup across the US, Canada, and Mexico.",
     "title": "2026 FIFA World Cup Faces Surge in Cyber Threats"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+    "published": "2026-10-21T15:29:09+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk 360 Privacy finds more than 8 in 10 security and wealth professionals say cybersecurity and physical security can no longer be separated.",
+    "title": "Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk"
   },
   "https://www.darkreading.com/cybersecurity-operations/afripol-focuses-regional-cyber-challenges-deepening-cooperation": {
     "categories": [],
@@ -53522,6 +53795,15 @@
     "summary": "Operation Red Card 2.0 Leads to 651 Arrests in Africa In the latest operation targeting cybercrime groups, African law enforcement agencies cooperated with Interpol and cybersecurity firms to recover more than $4.3 million.",
     "title": "Operation Red Card 2.0 Leads to 651 Arrests in Africa"
   },
+  "https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+    "published": "2026-10-21T15:44:48+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Optiv Launches CyberBOT Cybersecurity Awareness Training Program Hands-on sessions provide educators, nonprofits, and community leaders with an accessible resource to foster year-round cyber awareness and build more resilient communities.",
+    "title": "Optiv Launches CyberBOT Cybersecurity Awareness Training Program"
+  },
   "https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c385a6bd389354a/6a7a1578f0b097d1e3a7b7d0/patch_update_-Olemedia-getty-1368998829.jpg?width=720&quality=80&disable=upscale",
@@ -53797,6 +54079,15 @@
     "source": "darkreading",
     "summary": "Trump AI Order Seeks Voluntary Frontier Model Testing The White House's executive order establishes voluntary framework for early government access to frontier models while investing in federal security.",
     "title": "Trump AI Order Seeks Voluntary Frontier Model Testing"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc928e4fa76e21bf1/6ad7e1eca34f770597a25359/uae-on-map-with-pin-Zarko_Prusac-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-22T05:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "UAE Transitions 50% of Gov't Services to Agentic AI The United Arab Emirates says it's creating a foundation of security and safety as it transforms its public service footprint.",
+    "title": "UAE Transitions 50% of Gov't Services to Agentic AI"
   },
   "https://www.darkreading.com/cybersecurity-operations/us-refuses-sign-un-cybercrime-treaty": {
     "categories": [],
