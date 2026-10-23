@@ -17807,6 +17807,15 @@
     "summary": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents.\n\n\"Some developers \u2026",
     "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access"
   },
+  "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio5jLAiZnSHOwYGjf-F6s4HR4ileDOwAkHiX9NyW30mGUqSzgdwGVdTzCTYkgmeoGtTRaSVm-h2IBwvJ9xd84OU2t3YXd8hf5PwlGdjh6VlcYZoCNkx6Yt0FY_JlVcM3AtXI4LQyidnOE86NMVwOGcztaFtV2Qq21X1pRQi6jxiITnQIoO14XLiOWaufI/s1600/velo.jpg",
+    "published": "2026-10-22T19:05:17+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advis\u2026",
+    "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks"
+  },
   "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrg8bHUppR3zYriUhWwJig9yJq8F69XCeJrtY040zk39DNhblhBRkcTcQSqRo6K3PwnMVoygOCmbWf2X7ySQDxpfDlgmXFBDGhoiicnG3_5E84RhV6muyzgGacKye5eiB5dLcvsNfny5yS-4TlrypAdPcU1PVfT-jMxWvdfg9algqsvxycUV1Jy1xUjGiT/s1600/ai-hacker.jpg",
@@ -18095,6 +18104,15 @@
     "summary": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root di\u2026",
     "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products"
   },
+  "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGp9s38cCmrESabSZezAPkJaYoavpBM8Ehckei0ZrhKfBSoSXMyrWkzooakGExz1GBYVgi0izvW8wyKH2CEX7vpzLExRkK7uNW8wDdMzJ_k7NR8u6q-WA9e8Aoc19LNfJbFKgB6GkbAKbXW69_lOdM4sz4t5fmpKsLxHWKJPOugq5g_45Q5_WmCm_vA6U/s1600/python-image.jpg",
+    "published": "2026-10-23T09:36:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.\n\nThe flaw,&nbsp;CV\u2026",
+    "title": "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image"
+  },
   "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhcZguz-U3FsSD6t4YQ45EeFbgnWAy9lM28OAFydsLXZYzOS00aOD7pxUZcgvLMfMAO3SJV_Amu9SoNezLNQOvx823Z92CpqC5ow9XO3d7HJhEKZlwQt4H4Z7kirDwGcSrUyi1ONs_PuULNYjEjzae2c1mncDviOT9iqxD-PhmXCYpulTUNO2rtW5c9AAx/s1600/fortimail.jpg",
@@ -18139,6 +18157,15 @@
     "source": "The Hacker News",
     "summary": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure.\n\nThe vulnerability,\u2026",
     "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch"
+  },
+  "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nl6HARmLzzb4BlklarhKxB1F2U6dwKebASj9-Ow-WI6otLzFoATEY-icF7OCAgwHqRzwNhs9jHY2S7e4ZGRHykrIzedvLxQlAyen6jQsOoY_L80gd0Lrjy3-3xzlHavaxahxsI1o13_r2MRRDwbQrtslkXfbITBGcp_736F1sPVq7dR8Rnq_JSVQP3A/s1600/ai-wallet.jpg",
+    "published": "2026-10-23T08:35:45+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents\u2019 Token Balances AI agents paying for API calls with the&nbsp;x402 SDKs&nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&nbsp;security firm V12 said&nbsp;on Octobe\u2026",
+    "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents\u2019 Token Balances"
   },
   "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html": {
     "categories": [],
@@ -18211,6 +18238,15 @@
     "source": "The Hacker News",
     "summary": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts.\n\nThe c\u2026",
     "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer"
+  },
+  "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5DGeZCzWnHOoA87UbpfzGUlpU9xBK1x5tJsYlWOoKtyEkTRjaN4cW_lMOKdtiSXVPhVMd6JhOMRhvFOxvn853LcLaCBSNK-_m4CDIDGt048SdHQQqu63ZSZ09Ymc3UhqD_TZoLaCM6eIJL6TSYbBVINceAi4paPvjxJ4i9uN3CKZQ2s5bT4Dc_jAcv8I/s1600/ssl.jpg",
+    "published": "2026-10-22T18:12:43+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business,&nbsp;its board decided on Thursday. The decision came five days after a researche\u2026",
+    "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable"
   },
   "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html": {
     "categories": [],
@@ -18509,6 +18545,15 @@
     "summary": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1 The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November\u2026",
     "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1"
   },
+  "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztarCkWkHIW3EBCYV1Uaoz1pLURW3sA5E381ALhft79JhEp71NrhOngLJTWtoT1EL-mI7G6sz0geVq0clphhNqFhyphenhyphen6zPdTK1KYcNAPR43HvdicTavSv5eFTsMTVh36gi570aIN265ZJnbfwvMcWSIriWeU_28JWsofVj-9k1qQdKddXoDeh6dNeWy2ViE/s1600/interpol-1.jpg",
+    "published": "2026-10-22T13:38:22+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.\n\nIn tandem, the effort \u2026",
+    "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown"
+  },
   "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCKjRUY0kVdYD5knK69g1IBPPL21WViperTcXNtjnWiYjNuL6GsohD9A6Q_SpyDpAT6mNMjLTZGOJ_eB1FIMUllxUVEnkUXA1zTWGU1aw5LYJrVZu5gNxH1zSpxX5elSBB-f2OG4LjdhzWTX97lT16uAdvKClT_gP4ucRJjKAXKU4a-3KxbbNLU5RdwKc/s1600/japan.jpg",
@@ -18598,6 +18643,15 @@
     "source": "The Hacker News",
     "summary": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.\n\nThe package, named \"imgdecode,\" was uploaded t\u2026",
     "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon"
+  },
+  "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj49OFtokFF7N2TVBrjY_XC7E-OBiaU7QI0bBuS8sRk2RCrhj7g_hQWeTxWJjF_fFyMXXSd6ZhiZc2M_K6Wq9-LSRnNzrWiL8eV0IXlA-iTrkt-UbQ8K6DMLYAjEqy1fOgxJkHiGerU_cRfBVIwhLLWGRiWUdp1Kc0cKZaGxRXz27_vWwuaQrDHppXS_N1Y/s1600/mark.jpg",
+    "published": "2026-10-22T16:12:31+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal,\u2026",
+    "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations"
   },
   "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html": {
     "categories": [],
@@ -18788,6 +18842,15 @@
     "summary": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27\u2026",
     "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge"
   },
+  "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg",
+    "published": "2026-10-23T07:40:45+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerge\u2026",
+    "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware"
+  },
   "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s1600/php2shell.jpg",
@@ -18869,6 +18932,15 @@
     "summary": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2 Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling.\n\n\"Cling is \u2026",
     "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2"
   },
+  "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDudJHAM27KiE-F4E5vX1WOgITTdawUaZrFoXUIrf7lscEHIl7fgGQY5Qo60bRxr-o7UKloYK1sp23i5cvWPpc6XXttZa8GFvYxqSV7pp0B6vdBTp0sIBCX8r8oC5CAXO1mdJfshaIpLFyrFDCm9HPiYyBZMECEcSHKzbVzOk_VpGL2kEQDjB1rNk21Y8/s1600/node2shell.gif",
+    "published": "2026-10-23T08:40:43+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated.\n\nTheir \"Node2Shell\" proof of\u2026",
+    "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data"
+  },
   "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqmitTMm5t8BBKfynqzFAKqJSzh_s7fQczmMm5u95RLUUzuWMubd5DeM8e8EH6YOpP-_gvbYwn8Cd3flsL-nGIupBw5HOo49Orr7J2rqhI99J7U4LcXW6shlxd3w0zFAng1mLw5xGb-F9GRmpDK82GC1-Dcb1gPcvkgl4wVi0-QTEGalDwPmelGE0TtNU/s1600/openbsd.jpg",
@@ -18913,6 +18985,15 @@
     "source": "The Hacker News",
     "summary": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North At\u2026",
     "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader"
+  },
+  "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxH9YdfH7FHfSBJt7wrnd1P2hTQG6_2rpkp3YBqp2Yd49nYy4-a0zmvk5mqKlXH4DWfRO4Q4MmzLG4_t19me5rErcvoEpGJ5Q8LYty_GXXys63QC8HlO3G2jRC9f5vJd1BDiOp4APzxV4rSbFOZY80zIUmxvJ8V6isB-eDy9e9tVWaLR53fpPO80mzn_BH/s1600/uk-russia.jpg",
+    "published": "2026-10-23T11:11:23+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.\n\nAccording to ESE\u2026",
+    "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack"
   },
   "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html": {
     "categories": [],
@@ -18976,6 +19057,15 @@
     "source": "The Hacker News",
     "summary": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm The npm package known as \"tensorlake,\" a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud sup\u2026",
     "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm"
+  },
+  "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyT7lik0MCxUa_ALE00qK-x8qCQiM7doEPBK3sl90Y0J4N6zpBNzLI5ixKwtXItAzgHOIz9t-YerpeISJ7WcT7VJLyfWphEU4cHrm3CHpIwnsIcKT64fwNVkACsm7GxDnXqzqR4M5QXkLuUkUWxPEI5PhAI65_sXtcb2jW-0OhuVHC3n5vQnPVBrT_D5g/s1600/bit.jpg",
+    "published": "2026-10-22T19:05:35+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.\n\nNo\u2026",
+    "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat"
   },
   "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html": {
     "categories": [],
@@ -19049,6 +19139,15 @@
     "summary": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people\u2026",
     "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories"
   },
+  "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt9NuQgzmDAqircHtb2OEO9jXuNXIfpmc6cywt44gLVoKRSyrTtwqh2DaQkZ_BCrux5hLbZ9-uU9fR7Q6oFE7cjYOJB6aF1zqIJrrgT9A5RVRZguNYHZCk7-LBEAY7GxyR9KoCwwdPF9UowRvnZBvSN4X24RJXEQBRg3F1Mi5ktvXfNWWsUXlVnHLUmYd6/s1600/threatsday-oct-main.jpg",
+    "published": "2026-10-22T17:45:44+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked\u2026",
+    "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More"
+  },
   "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR_DE5ORKWCpLgZgXBuH-MFmuqfxFNnkGQxremc0ffY4dopMHnx-2HvgZTMh48BvVr8k22lGaM__jTS83DuXnLpF4NC9u4bsQF-8_K34gZU0kJS_-10pUSL7WNxecJG0pCiHyNFiqxXEqWP7NqUK2-uvwzo8-ETqwZkPWdNOjhNn5S1Y0uFQX2HGBE5_5J/s1600/t-day.jpg",
@@ -19085,6 +19184,15 @@
     "summary": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control Two of 31 newly disclosed flaws in Progress Software's&nbsp;MarkLogic Server&nbsp;database could let an account given only some management privileges take administrator control of the server, the \u2026",
     "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control"
   },
+  "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdNNyKzD2udgIl0X434MI2ucEwGFB_B-QqyjMnMuvTfwZv7clEo3n0ASA_aEQtUmQ7wqPSREwq1Cvi3iQLtubfUkK7p017Q6SrliTkwHiJyhfDIzahdof71Mxs4LXqJWoLkAnwikxy2KmZ1pkMg5Qto-RwPnvQx71Ol4G7sO20eeVNr_pfstT2WbDg3Nk/s1600/linux-rce.jpg",
+    "published": "2026-10-22T17:01:53+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by&nbsp;Trend Micro's Zero Day Initiative, with no fi\u2026",
+    "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes"
+  },
   "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZWPW7zD0DZUCKyeRcD-sBZtZ28n4PPaJDPjiskf9ghOI7b3aYbYCEbNvITxaYjCkejq8Vfuc0xeZtJ7p2R4j4dEqGXwfb1JLqQVHrgE4uxdSCq-JJgAeLA0WZbz5Fi98LQbxr3ncRXodrBd83xaX2UpXtDb-Q55ryWBPeXGAQlDBykN_BYecleld5rxJM/s1600/uk.jpg",
@@ -19120,6 +19228,15 @@
     "source": "The Hacker News",
     "summary": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixe\u2026",
     "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely"
+  },
+  "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXE1XecomGt7TSLi_DCDVL8oQjsLEtppNNGjkuW1cbVl-cXZkMG-rqTr-oSVz_6XfoU8aoScw3rjGxsnTpV3JaV5eWfj431lg09Rnrrk1UjwNq1ZEofkwR4FaM2qatC_FD9ZNBZk-T9_9ddu8n-BtUkhwVgWzc2ZvaWAHP8eMxlLU19qxIjlXeHOJYHs/s1600/php2.jpg",
+    "published": "2026-10-23T11:25:43+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.\n\nThe new issue, assigned CVE-2026-115560, a\u2026",
+    "title": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches"
   },
   "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html": {
     "categories": [],
@@ -23253,6 +23370,17 @@
     "summary": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs Microsoft has shared guidance to fix C:&#092; drive access issues and app failures on some Samsung laptops running Windows 11, versions 25H2 and 24H2. [...]",
     "title": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-10-22T15:49:32+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft shares how to fix broken Exchange Online EWS apps Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
+    "title": "Microsoft shares how to fix broken Exchange Online EWS apps"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/": {
     "categories": [
       "Microsoft"
@@ -25476,6 +25604,17 @@
     "summary": "Amazon: Ongoing cryptomining campaign uses hacked AWS accounts Amazon's AWS GuardDuty security team is warning of\u00a0an ongoing crypto-mining campaign that targets its\u00a0Elastic Compute Cloud\u00a0(EC2) and Elastic Container Service (ECS) using compromised credentials for Identity and Acce\u2026",
     "title": "Amazon: Ongoing cryptomining campaign uses hacked AWS accounts"
   },
+  "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-22T13:09:12+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Amazon says PHP2Shell exploitation began 4 days before patches Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+    "title": "Amazon says PHP2Shell exploitation began 4 days before patches"
+  },
   "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/": {
     "categories": [
       "Security"
@@ -25902,6 +26041,17 @@
     "source": "BleepingComputer",
     "summary": "Arista patches actively exploited VeloCloud Orchestrator zero-day Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
     "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day"
+  },
+  "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-22T17:18:22+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+    "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/": {
     "categories": [
@@ -26776,6 +26926,18 @@
     "source": "BleepingComputer",
     "summary": "Canvas login portals hacked in mass ShinyHunters extortion campaign The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and universities. [...\u2026",
     "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign"
+  },
+  "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/": {
+    "categories": [
+      "Security",
+      "Gaming"
+    ],
+    "image": "",
+    "published": "2026-10-22T20:22:45+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Capcom confirms data breach affecting 11.7 million accounts Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
+    "title": "Capcom confirms data breach affecting 11.7 million accounts"
   },
   "https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/": {
     "categories": [
@@ -36731,6 +36893,17 @@
     "summary": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data A new report dubbed \"BrowserGate\"\u00a0warns that Microsoft's LinkedIn is using hidden JavaScript scripts on its website to scan visitors' browsers for installed extensions and collect device data. [...]",
     "title": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data"
   },
+  "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-22T19:12:51+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "LiteLLM release pipeline hacked to distribute info-stealer malware Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+    "title": "LiteLLM release pipeline hacked to distribute info-stealer malware"
+  },
   "https://www.bleepingcomputer.com/news/security/logitech-confirms-data-breach-after-clop-extortion-attack/": {
     "categories": [
       "Security"
@@ -36785,6 +36958,17 @@
     "source": "BleepingComputer",
     "summary": "LummaStealer infections surge after CastleLoader malware campaigns A\u00a0surge in LummaStealer infections has been observed, driven by social engineering campaigns leveraging the ClickFix technique to deliver the CastleLoader malware. [...]",
     "title": "LummaStealer infections surge after CastleLoader malware campaigns"
+  },
+  "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-22T14:02:12+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Machine speed attacks require machine speed detection and response Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, an\u2026",
+    "title": "Machine speed attacks require machine speed detection and response"
   },
   "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/": {
     "categories": [
@@ -41994,6 +42178,18 @@
     "source": "BleepingComputer",
     "summary": "Rails patches critical Active Storage flaw with RCE potential A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
     "title": "Rails patches critical Active Storage flaw with RCE potential"
+  },
+  "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/": {
+    "categories": [
+      "Security",
+      "Cloud"
+    ],
+    "image": "",
+    "published": "2026-10-22T21:25:31+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Railway warns devs to rotate secrets after potential breach Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
+    "title": "Railway warns devs to rotate secrets after potential breach"
   },
   "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/": {
     "categories": [
@@ -49908,6 +50104,15 @@
     "summary": "CTO New Year Resolutions for a More Secure 2026 From securing MCPs and supply chain defenses to formal AI and quantum governance, experts share their wish lists for cyber safety in 2026.",
     "title": "CTO New Year Resolutions for a More Secure 2026"
   },
+  "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdb007aa0874801a0/66d0c3e50b3ca622a148bb6f/Mungkhood_Studio-cyber-insurance-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-22T14:21:22+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "As AI Risks Grow, Insurers Split on Covering the Damage Insurers are split on AI risk: some build specialized agentic AI coverage, while major carriers quietly exclude it \u2014 leaving enterprises exposed without their knowledge.",
+    "title": "As AI Risks Grow, Insurers Split on Covering the Damage"
+  },
   "https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltccb00eced4dc6fb5/6a204f532928e1ceac7b3c4c/cyberinsurance-Poca_Wander_Stock-getty-1470986827.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -52066,6 +52271,15 @@
     "summary": "D\u00e9j\u00e0 Vu? Meta's AI Escapes Testing Lab in Hacking Joyride In the span of three weeks, OpenAI, Anthropic, and Meta have all disclosed AI agent sandbox escape events affecting real organizations.",
     "title": "D\u00e9j\u00e0 Vu? Meta's AI Escapes Testing Lab in Hacking Joyride"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt481be0dcde6741d2/6ada753af919424ed83bcdaf/chinacyber_mageFlow_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-22T20:42:17+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.",
+    "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyber-battle-field-broadens-uae": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30c725b0c4078c25/69fa57448135d03599216199/UAE-Cyber-Security-Council-Arnold_O_A_Pinto-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -52500,6 +52714,15 @@
     "source": "darkreading",
     "summary": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control As aviation infrastructure suffers more cyberattacks, air traffic systems are the latest target, with a ransomware toolkit installed on at least one operational network.",
     "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt979cd25773f1b3d4/6ada6acba10b57ec999014b8/SBI-Yawar_Nazir-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-23T03:30:00+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "State Bank of India Suffers a Customer PII Data Leak Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
+    "title": "State Bank of India Suffers a Customer PII Data Leak"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/storm-0249-edr-processes-stealthy-attacks": {
     "categories": [],
@@ -52989,6 +53212,15 @@
     "source": "darkreading",
     "summary": "Agentic AI Is Untamable: Ask the Right Security Questions Forget about attackers. Agentic artificial intelligence is creating enough risks for organizations and demands a security reframe.",
     "title": "Agentic AI Is Untamable: Ask the Right Security Questions"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt521637665481bcc9/65dfe9cfea879b040a14fbb9/policerobot-Agencja_Fotograficzna_Caro-alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-23T11:38:28+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply \u2014 not contain \u2014 the \u2026",
+    "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack"
   },
   "https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust": {
     "categories": [],
@@ -54944,6 +55176,15 @@
     "summary": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware Hundreds of stores lost millions of dollars because they hired third parties to manage the outdated OT firmware running their cooling systems.",
     "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware"
   },
+  "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcfc831a57f67689/6acfbd4be9c311a2c0cf7674/Melted_ice_cream-cagkansayin-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-22T19:30:20+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Les supermarch\u00e9s de l'UE paient d'un firmware de r\u00e9frig\u00e9rateur non mis \u00e0 jour Des centaines de magasins ont subi des pertes se chiffrant en millions d'euros parce qu'ils avaient fait appel \u00e0 des tiers pour g\u00e9rer le micrologiciel OT obsol\u00e8te qui pilotait leurs syst\u00e8mes de climatis\u2026",
+    "title": "Les supermarch\u00e9s de l'UE paient d'un firmware de r\u00e9frig\u00e9rateur non mis \u00e0 jour"
+  },
   "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1efd0fa99d504896/66db40230f75ddd226316a68/ICS_PopTika_shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -55361,6 +55602,15 @@
     "source": "darkreading",
     "summary": "Red Flags That Expose Fake North Korean IT Workers North Korean operatives posing as IT workers are improving their tactics, but researchers say there are still ways to spot them before they do damage.",
     "title": "Red Flags That Expose Fake North Korean IT Workers"
+  },
+  "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta02f4349610bfb87/6ada6ff8b8f9c97bdf15ea45/rodeo-Scott_Olsen-GettyImages-2284428107.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-22T20:33:10+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "What We Missed: Feds Lasso Texas Laptop Farms In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from busting up North Korea's stateside infrastructure in &quot;Operation Lonestar Justice&quot; to Staples' gift card bonanza.",
+    "title": "What We Missed: Feds Lasso Texas Laptop Farms"
   },
   "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes": {
     "categories": [],
