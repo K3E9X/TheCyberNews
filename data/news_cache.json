@@ -17933,6 +17933,15 @@
     "summary": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation finding\u2026",
     "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft"
   },
+  "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg",
+    "published": "2026-10-23T18:50:13+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX.\n\nThe activity, which singled out diplomat\u2026",
+    "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations"
+  },
   "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfIDT5M3MmWcxPZrWKZ_8EOy_WZY9iQHv9CQrAKcSZ7_EAadHyWzg9Aa5zQizJiwjNNLp6TDGShed4uvK0iq0d5TQHOV4wqah_jnbuJK-gFuObDCjO_bhwobK9PlO-CmK92s9PueGqpPI_puFGDAS_t4evoyjokLRlaXbql9cGN3d7POdsiXyUYvicVs/s1600/bring.jpg",
@@ -17941,6 +17950,15 @@
     "source": "The Hacker News",
     "summary": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the\u2026",
     "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In"
+  },
+  "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg",
+    "published": "2026-10-24T11:09:29+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packag\u2026",
+    "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software"
   },
   "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html": {
     "categories": [],
@@ -17995,6 +18013,15 @@
     "source": "The Hacker News",
     "summary": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), fol\u2026",
     "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV"
+  },
+  "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1600/arista-cisa.jpg",
+    "published": "2026-10-24T06:25:57+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) t\u2026",
+    "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud"
   },
   "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html": {
     "categories": [],
@@ -18257,6 +18284,15 @@
     "summary": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco offi\u2026",
     "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge"
   },
+  "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6gkXKzxUypnUKbTuo7Xq-8TSUpDD8TNF5XEG-bV6zcA7V3z_cO2pJeTiX1KIFi-rFNX5SOlMY93oGQpfQUuWOl0RJ35nM1XeIqu2ZV4aAIZXEd9RXQVQk0rMmeI67ysGsTJ1OXLIQg2LvGjMLHCQQ8dgqalHaBE9yCZKwIOVjHCD_lOTlsP1HdBziZ3Sb/s1600/ai-hacker-kimi.jpg",
+    "published": "2026-10-23T17:50:47+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups.\n\nCentral to the ope\u2026",
+    "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions"
+  },
   "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvF5TcwT7nwh6xcCiXS3I0m6qmvF6EorwitA-7ETGlXzpc89JG-rPZye0FkJfFwunfKHXMTkGyg_pBRkBdJv_qaGX32cUdiqoTAA-sjGmsSlKJsL5LUFpyZLiho955h3EtKUCWvtnHyIJgzG1INTIwkqKsCmv3-vsxGXQq8QH-ue0Vl358XyE33wUhxWs/s1600/fake.jpg",
@@ -18455,6 +18491,15 @@
     "summary": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind\u2026",
     "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version"
   },
+  "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhROXFilBwGnS1Jb3AQ6nIinoxB1mh-7gsbdRfToYn8VReagY7IMb3CCVyZkzPFEfOHIkwnRxmOSeM30Gxp7e9uRzvuvEqQTmIMPilPM_IfujygTv6OfExi8kWoEhF42lBKok_gzwD4Md_daCMvVOtlf2pQT7mgtYuJA0TzJnhkM4PCycgKpf0XxIBQmI57/s1600/google-ai.jpg",
+    "published": "2026-10-24T10:36:33+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based\u2026",
+    "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads"
+  },
   "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkZLcjmZtzt6NpWa8x4Wz7EdcOQEW6xYv6DA_mBnwy1ctZZeRAyeSYLES-H_mkr1QOBv72WNuGKwKQ-NN179Rw8BRTcYO38sYwxcbDkg1ISW_qWrCRJ9JfUXh3102OmwrF0HQq6dbSc58VXACXoi_EoI8ysPuSlzB_nBcHuFl9r3QakOsGG9GUm6UVOU8/s1600/nextcloud.jpg",
@@ -18463,6 +18508,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue \u2026",
     "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App"
+  },
+  "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSk-Q06Dd5YyYmXWMt9b860DzGRKbTae_QwvoZDKNICaEznAj2AUurJmv6vPnpcH7qqDjauFZWWx7GX1RN93BLaU9Rqgiqe9j1iQRg2Vqcz3HpSqgesA6oS-GrMTyx4CTzwOD7C_z205k57ZpT70Gv4RXi-65X-nyI04wpA3raJ5nh46pN5ox42cyLnHjv/s1600/1000117358.jpg",
+    "published": "2026-10-23T13:50:56+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls.\n\n\"Ar\u2026",
+    "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials"
   },
   "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html": {
     "categories": [],
@@ -18571,6 +18625,15 @@
     "source": "The Hacker News",
     "summary": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian.\n\nLangflow is an open-source platform that allows developers to build artificial intellig\u2026",
     "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts"
+  },
+  "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipiDo2Yur6TXZHLped9EQgORAH65rC4APGTaq_EZzlDnspAaULTQCKblBC0FeIah7nOCKTiQa2Oi8cyx-bbxHj042Km9oYAf2s78XmStFxzPBTSQ_oqv4ZcWGEkUP1wo5JfJ1UDrWQpAtz8ZHd9i3ZbGWWe8s6CMeUU_nObp5tCEywMWGovqFh9NA1H8Sv/s1600/lite.jpg",
+    "published": "2026-10-24T11:03:33+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious versi\u2026",
+    "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline"
   },
   "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html": {
     "categories": [],
@@ -18959,6 +19022,15 @@
     "summary": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access Security researchers have&nbsp;published a full working exploit&nbsp;for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone appr\u2026",
     "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access"
   },
+  "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuy-T7iQPeiRqkJd7yhxd2WVQzxURRnLyHG9yz5fUXxIhjUW-bv_yAAt13dnTE1ecuh1w6cRjenRXL3In2b55rL22lXnBhpKrVvS9c5Qb6Bv0TeQPLeAXYoafNYnqYxYQwWnZBCO3e8ZW-HS8Y2GMbQuGz58-_wG7gT6Pcok3j53J4iiZ7jw6kLoGGtWU/s1600/popcorn.jpg",
+    "published": "2026-10-24T09:04:24+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater t\u2026",
+    "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet"
+  },
   "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLXn6RSZOSq2StbSf2fHVaHwVEetIYN0wGfuaIcyaEnwSnXLaY1FBfSKPFzzQuKvtpRygCR7AvNixA-SCkIA98QjnT7gE2UWYtoiZLs5VxQC8KTSJwwlcP0helOb3F4hbSo4uqITjJYPiZHSSuKkm1O_BXFYeyEU7koe_77QSmKbU33o5hteBC5-0dxrs/s1600/chrome-exploit.jpg",
@@ -18976,6 +19048,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader.\n\nAccording to Forescout Research - Ve\u2026",
     "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware"
+  },
+  "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA5n8ST_yuElQgTwbfq1oFnVAoiTvZCW_Ct1b8lT_OQ9dnyeXfocrqzTUJJ1t920YaEa-7Sonxl9KlthV4x7lXI3dmJxc9_S11NjWRJ6dcgfsX4UGhv0KFWZsZrzXKpjh92JPyDdHPlCPQh1AHd0YKM44sVcc9d-57r8_BdrIb3V06MWfk8bRAy4kDU6I/s1600/ruby-rce.jpg",
+    "published": "2026-10-23T17:54:08+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab \u2026",
+    "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws"
   },
   "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html": {
     "categories": [],
@@ -23594,6 +23675,18 @@
     "summary": "Microsoft Teams to add brand impersonation warnings to calls Microsoft will soon add new fraud protection features to Teams calls, warning users about external callers who attempt to impersonate trusted organizations in social engineering attacks. [...]",
     "title": "Microsoft Teams to add brand impersonation warnings to calls"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-23T18:54:41+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Teams to get AI-powered, context-aware phishing detection Microsoft has announced plans\u00a0to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
+    "title": "Microsoft Teams to get AI-powered, context-aware phishing detection"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-admins-block-external-users-via-defender-portal/": {
     "categories": [
       "Microsoft"
@@ -24040,6 +24133,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Windows KB5124010 update crashes some games and apps Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [...]",
     "title": "Microsoft: Windows KB5124010 update crashes some games and apps"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-10-23T17:05:07+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Windows Server 2016 reaches end of support in January Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
+    "title": "Microsoft: Windows Server 2016 reaches end of support in January"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/": {
     "categories": [
@@ -25089,6 +25193,17 @@
     "source": "BleepingComputer",
     "summary": "A Practical Guide to Continuous Attack Surface Visibility Passive scan data goes stale fast as cloud assets shift daily, leaving teams blind to real exposures. Sprocket Security shows how continuous, automated recon gives accurate, up-to-date attack surface visibility. [...]",
     "title": "A Practical Guide to Continuous Attack Surface Visibility"
+  },
+  "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-23T20:55:05+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious\u2026",
+    "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks"
   },
   "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/": {
     "categories": [
@@ -35564,6 +35679,17 @@
     "summary": "HPE patches critical ArubaOS-CX remote code execution flaw Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
     "title": "HPE patches critical ArubaOS-CX remote code execution flaw"
   },
+  "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-23T12:48:00+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "HPE patches eight max severity RCE and auth bypass AOS flaws Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
+    "title": "HPE patches eight max severity RCE and auth bypass AOS flaws"
+  },
   "https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-aos-cx-flaw-allowing-admin-password-resets/": {
     "categories": [
       "Security"
@@ -41464,6 +41590,17 @@
     "summary": "Phobos ransomware admin pleads guilty to wire fraud conspiracy A Russian national pleaded guilty to a wire fraud conspiracy charge related to his role in administering the Phobos ransomware operation, which breached hundreds of victims worldwide. [...]",
     "title": "Phobos ransomware admin pleads guilty to wire fraud conspiracy"
   },
+  "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-23T15:38:05+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "PHP shares mitigation for new RCE vulnerability with no patch The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
+    "title": "PHP shares mitigation for new RCE vulnerability with no patch"
+  },
   "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/": {
     "categories": [
       "Security"
@@ -42145,6 +42282,18 @@
     "source": "BleepingComputer",
     "summary": "Quantum Route Redirect PhaaS targets Microsoft 365 users worldwide A new phishing automation platform named Quantum Route Redirect is using around\u00a01,000 domains to steal\u00a0Microsoft 365 users' credentials. [...]",
     "title": "Quantum Route Redirect PhaaS targets Microsoft 365 users worldwide"
+  },
+  "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/": {
+    "categories": [
+      "Security",
+      "Healthcare"
+    ],
+    "image": "",
+    "published": "2026-10-23T16:40:07+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Quest Diagnostics confirms data breach exposed patient records American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
+    "title": "Quest Diagnostics confirms data breach exposed patient records"
   },
   "https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/": {
     "categories": [
@@ -47501,6 +47650,17 @@
     "summary": "You Don't Have to Run an Exploit to Know If You're Vulnerable Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizations determine explo\u2026",
     "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable"
   },
+  "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-23T14:00:10+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "You gave your AI agent access, but who is giving it orders? AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub help\u2026",
+    "title": "You gave your AI agent access, but who is giving it orders?"
+  },
   "https://www.bleepingcomputer.com/news/security/you-got-phished-of-course-youre-human/": {
     "categories": [
       "Security"
@@ -48414,6 +48574,15 @@
     "source": "darkreading",
     "summary": "For Enterprises, Security Remains Agentic AI's Biggest Challenge Every company needs an agentic AI strategy, but the tools to allow agentic AI frameworks to be safely and securely adopted are just starting to appear.",
     "title": "For Enterprises, Security Remains Agentic AI's Biggest Challenge"
+  },
+  "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte307a3bd1a7bcb35/6adb9c8d2d5b887cc408cb52/Globe_bandages-zennie-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-23T19:41:23+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice Fixing the critical PHP flaws is not as simple as clicking &quot;Update.&quot; Here's how to assess your risk, and what you can do to protect yourself.",
+    "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice"
   },
   "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk": {
     "categories": [],
@@ -50122,6 +50291,15 @@
     "summary": "Cyber Insurance Rates Are Dropping, but Exclusions Widen Cyber insurance coverage is slowly changing, and some policies may not provide coverage for social engineering attacks like ClickFix.",
     "title": "Cyber Insurance Rates Are Dropping, but Exclusions Widen"
   },
+  "https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt532ec4c95e5c91b7/6ada58e98f65b93d8e99c4a2/Insurance_policy-Mohamad_Faizal_Bin_Ramli-GettyImages-1295819436.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-23T13:30:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Cyber Insurance's New Reality: Underwriting Isn't Enough Rising AI, social engineering, and cloud risks are pushing carriers beyond risk transfer and deeper into cybersecurity itself.",
+    "title": "Cyber Insurance's New Reality: Underwriting Isn't Enough"
+  },
   "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale",
@@ -51059,6 +51237,15 @@
     "summary": "Trump, Tech Giants Strike Voluntary AI Safety Accord The new White House Accord on so-called &quot;Super Intelligence&quot; calls on companies to implement greater controls and oversight over AI safety.",
     "title": "Trump, Tech Giants Strike Voluntary AI Safety Accord"
   },
+  "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt34579512de050396/6a5a6336b09056633bee9fe7/trust_dial-NicoElNino-getty-2079838824.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-23T20:57:56+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Trust Is Not What It Seems \u2014 And Fraudsters Are Counting on It Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence.",
+    "title": "Trust Is Not What It Seems \u2014 And Fraudsters Are Counting on It"
+  },
   "https://www.darkreading.com/cyber-risk/uk-social-media-ban-privacy-experts-worried": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt383eb6c33af28ca3/6a31c223a9a64d0008e86652/social-media-ban-UK-Samuel_Boivin-shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -51192,6 +51379,15 @@
     "source": "darkreading",
     "summary": "A Tale of Two CISOs: Why An Engineering-Focused CISO Can Be a Liability When hiring a CISO, understand the key difference between engineering and holistic security leaders.",
     "title": "A Tale of Two CISOs: Why An Engineering-Focused CISO Can Be a Liability"
+  },
+  "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9c2c56022ab6d6c2/6ada53fbcca51d530a712e5f/Caribbean-FrankRamspott-Getty-1627410191.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-23T14:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Why Caribbean Threats Cascade Into Global Cyber-Risk The region is demonstrating what happens when exploits accelerate but assurance does not.",
+    "title": "Why Caribbean Threats Cascade Into Global Cyber-Risk"
   },
   "https://www.darkreading.com/cyber-risk/why-post-quantum-cryptography-cant-wait": {
     "categories": [],
@@ -53318,6 +53514,15 @@
     "source": "darkreading",
     "summary": "AI System Reduces Attack Reconstruction Time From Weeks to Hours Pacific Northwest National Labs' expert cybersecurity system, ALOHA, can recreate attacks and test them against organizations' infrastructure to bolster defense.",
     "title": "AI System Reduces Attack Reconstruction Time From Weeks to Hours"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte7023e63db2b06bb/6adb780c560f54c5dbf647e8/economics-cybersecurity-Ton_Wanniwat-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-23T17:26:59+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI Tools Are Generating Massive Attacks for Little Cost One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.",
+    "title": "AI Tools Are Generating Massive Attacks for Little Cost"
   },
   "https://www.darkreading.com/cybersecurity-operations/ai-wont-wipe-out-entry-level-cybersecurity-jobs": {
     "categories": [],
