@@ -18815,6 +18815,15 @@
     "summary": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code\u2026",
     "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions"
   },
+  "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s1600/ai-agents.jpg",
+    "published": "2026-10-25T06:54:29+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.\n\n\"B\u2026",
+    "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication"
+  },
   "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVoOullmVukPDhwbQ10zXHA-IqDVeMp55dybdLAhT-kkPDdJADbw8BETggWjHN3WF4HHpXLV8RDk4jHLVYlS9wWxZcbHMtEGGfGu-dGv2lFRzv3lJ1csgozieAguSQeE2Nhw5ZXBi1YIjaBbF5Al_kakh4wNXfjr4PJ-Q4QZxaHm4_Lha_aMxdQ3NPKRm0/s1600/moonshot.jpg",
@@ -26795,6 +26804,17 @@
     "source": "BleepingComputer",
     "summary": "Blackfield ransomware asks Nidec Corporation for $2 million ransom The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for automotive and computing applications. [...]",
     "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom"
+  },
+  "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-24T14:17:32+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security so\u2026",
+    "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot"
   },
   "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/": {
     "categories": [
