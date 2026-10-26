@@ -17924,6 +17924,15 @@
     "summary": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck.\n\nThe vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a\u2026",
     "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE"
   },
+  "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3sLtMeyrqaZo1e2DoGlQohJtAM96DKv9JxQVxynJVNyJ_76dwQQAvkcN2xeos8NtStnH6A3B4bOwtFvdsNSxdBkR6so5s66iBb0ApIhIJ2cs3hVCYdh6oOnO4K_kwKOJsDSqL4wsPrOJ48x3VmSXiQwpcxm_ULL7En-Xw_9Rc1sEFQvCdb9Sr0NwUH0/s1600/Misses.jpg",
+    "published": "2026-10-26T11:23:56+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects\u2026",
+    "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses"
+  },
   "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzu32AOghfPrV4ViB5puy-1o8shfq77FdmxU5eS9i4x8SCLNzm6xQYn56KGKivAGFoIwa3yYWat5vZMQsdOqPp0ZoEcVst6fs3llaB88jz1IcH6ctmEUEoXcCQOWJs599jVZDnNlHYYww22fnm6KnorG7q16rSGcx3P_Isku8NOODjdV4A5Dee4HiPnmu7/s1600/crypto-theft.jpg",
@@ -18401,6 +18410,15 @@
     "summary": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, \u2026",
     "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports"
   },
+  "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipCbP2hnS9ddXqMz9cNIAMEQZWy2qX45MZnYfIuO_Zszamhl_FS7ViRp4CZcjHS6uu6A4jR_S4vBzHzoMNtAb0CbaGxHxj2F07wuKWHfSbsFUov-4dsQWUNJZwfGbnfThW1sAQZ61y5ibqyhlW1iBmbWeSwE1gKHsigRRXaql9P96aFANb3al6vno7fuA/s1600/github-secrets.jpg",
+    "published": "2026-10-26T07:49:46+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs.\u2026",
+    "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs"
+  },
   "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtAKfaW5dHhlv9lpzzAju1Cm_EjO4wOkhGQEMspSKCVFUCA_eaanAXGHkb-Dv3c9zSXWHW45I50Fp_bqX6ydaNlPWixkd39bl4IOeYv8xQ0oviE4d6SZcQmQ27ztf-tVV7BozEDeFYi2Fde0LpJAJ9gTHUGSOvc46MtgawesAd5-wljApeBpLyUYnczZnR/s1600/git-font.jpg",
@@ -18707,6 +18725,15 @@
     "summary": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.\n\nThe package, named \"imgdecode,\" was uploaded t\u2026",
     "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon"
   },
+  "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6cUQufM8zcABLKEfGt5xpGX34mUnThXvptS6o1GfAv8Ak_FO__f-rsT0GPf1Nro1NSRQuUsEGJl1boXq5Rt-IMFOnHunESsqj4sfJ_ypu9qhRgva3V0OqPN04FAKvOw0Y0KeKUvgG_RzWvA7u6piuPvLIaTJG2mbeWRRgFJB2vziZdJbkU1dN2nfwBf8/s1600/codex.png",
+    "published": "2026-10-26T06:03:48+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm&nbsp;Forever Security said&nbs\u2026",
+    "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware"
+  },
   "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj49OFtokFF7N2TVBrjY_XC7E-OBiaU7QI0bBuS8sRk2RCrhj7g_hQWeTxWJjF_fFyMXXSd6ZhiZc2M_K6Wq9-LSRnNzrWiL8eV0IXlA-iTrkt-UbQ8K6DMLYAjEqy1fOgxJkHiGerU_cRfBVIwhLLWGRiWUdp1Kc0cKZaGxRXz27_vWwuaQrDHppXS_N1Y/s1600/mark.jpg",
@@ -18733,6 +18760,15 @@
     "source": "The Hacker News",
     "summary": "MI5 Says China\u2019s MSS Funded Research Involving 100+ U.K.-Linked Academics The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service.\n\nIn a \"\u2026",
     "title": "MI5 Says China\u2019s MSS Funded Research Involving 100+ U.K.-Linked Academics"
+  },
+  "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKwJ8hpTcgaV_VMCyzQDPQQOPlZmmE3Fg-XAOrUfFazMKgVGEoT7OHQgWhyJLhCpHO6Hvp35u_YZGBfyGXAuJfpwP4BriicsNfvhPXjq4BzNyULVQPzNCWzmSIGnDLN7P2RNW2sfm15qZxLrVzpDg8FvOcGTZBhMsBFPH3IhiV1k3NdGAHFRC7kkKaOMMn/s1600/contoso.jpg",
+    "published": "2026-10-26T08:35:51+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens \u2026",
+    "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations"
   },
   "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html": {
     "categories": [],
@@ -18922,6 +18958,15 @@
     "source": "The Hacker News",
     "summary": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerge\u2026",
     "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware"
+  },
+  "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg",
+    "published": "2026-10-25T17:19:46+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of t\u2026",
+    "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity"
   },
   "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html": {
     "categories": [],
@@ -19274,6 +19319,15 @@
     "summary": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control Two of 31 newly disclosed flaws in Progress Software's&nbsp;MarkLogic Server&nbsp;database could let an account given only some management privileges take administrator control of the server, the \u2026",
     "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control"
   },
+  "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xq9w5oCep_lu7UpdVExPO7yRQ1tMz0YkxljYR_LmwG3WKowZ2CtLPh4F6kASJ7Xu0xJKy4uVzlwj7fPEO3fgKUELS4BqUtDZvGh1P-iqRslXNCLdkcJMCBGSKvJeqrrkeZdfPO9Wmv_v2VqdYEZVavTHw-QHUhli9QYGVhASuSRt3DETy8JMBz1D-kE/s1600/wasm.jpg",
+    "published": "2026-10-26T11:52:41+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes Two critical flaws in&nbsp;Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the proj\u2026",
+    "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes"
+  },
   "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdNNyKzD2udgIl0X434MI2ucEwGFB_B-QqyjMnMuvTfwZv7clEo3n0ASA_aEQtUmQ7wqPSREwq1Cvi3iQLtubfUkK7p017Q6SrliTkwHiJyhfDIzahdof71Mxs4LXqJWoLkAnwikxy2KmZ1pkMg5Qto-RwPnvQx71Ol4G7sO20eeVNr_pfstT2WbDg3Nk/s1600/linux-rce.jpg",
@@ -19301,6 +19355,15 @@
     "summary": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizat\u2026",
     "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing"
   },
+  "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBBtFdo2KmBzapUDlLWoS0hh17lYfWUw0kOLWTfbgeNOTP5F5pEJPmWSzBHkjSv4HR-vwfJ-Ba38Tg_su11Zi4CDKXJ29BnlQdCrU-oU84jl7TAET_aPyWV2fRazSLy0hBz8sBP3EhFubGETPdPwpnAFAX0CSbEQfsA65JqQMob9R_4cPbbJRi91KAkY/s1600/telegram-wechat.jpg",
+    "published": "2026-10-26T09:54:02+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who in\u2026",
+    "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts"
+  },
   "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKR22_EY_V4kc68OQN7vGigoOrsBiy_aMnJVifzUg15itznrR-KdvcSdcaVSGnA6A2kAgMCSUNbIoqzh10gy8wQzkpK55LJPTjPPoV73VzoJlNCtZOn0LltkE7gq8PwH29hLNlUn41qQV8A7fTGkCwHu2LQ0OtvvTFtNRHll7xY0_PUfQ5K08JtCWriXg/s1600/wifi.gif",
@@ -19318,6 +19381,15 @@
     "source": "The Hacker News",
     "summary": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixe\u2026",
     "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely"
+  },
+  "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg",
+    "published": "2026-10-25T17:44:09+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.\n\nThe attack re\u2026",
+    "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers"
   },
   "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html": {
     "categories": [],
@@ -21123,6 +21195,18 @@
     "source": "BleepingComputer",
     "summary": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates Kali\u00a0Linux 2026.2, the second release of the year, is now available for download, featuring 9 new tools and numerous\u00a0Kali NetHunter improvements. [...]",
     "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates"
+  },
+  "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/": {
+    "categories": [
+      "Linux",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-26T10:26:52+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Kali Linux 2026.3 released with 6 new tools, desktop updates Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
+    "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates"
   },
   "https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/": {
     "categories": [
@@ -25459,6 +25543,18 @@
     "summary": "AI-built ransomware toolkit automates EDR evasion, AD discovery A threat actor is using an AI-built ransomware attack toolkit that automates Active Directory discovery and helps evade endpoint detection and response (EDR) solutions. [...]",
     "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery"
   },
+  "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-10-25T15:49:38+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "AI coding agents hijacked using AGENTS.md file in Downloads folder Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+    "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder"
+  },
   "https://www.bleepingcomputer.com/news/security/ai-generated-slopoly-malware-used-in-interlock-ransomware-attack/": {
     "categories": [
       "Security",
@@ -27485,6 +27581,17 @@
     "source": "BleepingComputer",
     "summary": "Chinese hackers use SparroWocky malware in govt espionage attacks The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
     "title": "Chinese hackers use SparroWocky malware in govt espionage attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-26T13:56:44+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Chinese man extradited for role in $36 million cryptocurrency scam A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the Unit\u2026",
+    "title": "Chinese man extradited for role in $36 million cryptocurrency scam"
   },
   "https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/": {
     "categories": [
@@ -41642,6 +41749,17 @@
     "source": "BleepingComputer",
     "summary": "PHP warns admins of two critical flaws, emergency patches coming tomorrow The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of thei\u2026",
     "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow"
+  },
+  "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-26T09:19:57+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "PHP2Shell security flaws now sucessfully exploited in the wild Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+    "title": "PHP2Shell security flaws now sucessfully exploited in the wild"
   },
   "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/": {
     "categories": [
