@@ -17708,6 +17708,15 @@
     "summary": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories 26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it.\n\n\u2026",
     "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories"
   },
+  "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1600/chatgpt.jpg",
+    "published": "2026-10-31T05:33:41+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at&nbsp;the security f\u2026",
+    "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats"
+  },
   "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1vdoV4q9cDhhxBpH2lDPkUPc4WTkuwSmH93IS6MDM8fSYR4ZsKEakfK54cvOjHMFYGJA7Hri87MShqbPweb0BNmEXEsKJErbferZyq7_m7XdHLrb2bgmps_Bs_nu_w7RCiade8PPKSYv6NpxnWTG8pJD5CIUvI2E_cfWMqNBFTl4MXm2WKZaqL_T0DaO-/s1600/cisa-warning.jpg",
@@ -17924,6 +17933,15 @@
     "summary": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor WordP\u2026",
     "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites"
   },
+  "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeqP4vPt6j2lLPFj77A_1OthmSKb8mItfBrX_q8sQCAUVgTry1FxKizDI2SCLS4CglfjgbVkaMDN8ainqoOZm2pdaF6xw7sU4STZhwIFPCLSz84YXQTVx2tquPo7YJsZhgOWcD3V_w5td9BA_vVuOu1cFcrgL3SXyLF4E24IyGotrzDcbJ-M1mA85biDuW/s1600/1000120841.jpg",
+    "published": "2026-10-31T08:27:43+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, fo\u2026",
+    "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access"
+  },
   "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMpbMY9pFBnt6TekKFIlEqpeqQoPBjBuhu8rYuYtU7ce5P3LTFKwlv_F_BUDzfuuMu0gRU645YStocoUQnNtS11MoEIRrfxrgPZtShsFgr8YH1VYTtjPr2l6aHPFDBYPHJKLT-fa-KqaHGSJHeiDPKzUgA12IJH5zhAHpMnoGZc5Qsz9sJhCOB_3gYHQar/s1600/edge.jpg",
@@ -18095,6 +18113,15 @@
     "summary": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In&nbsp;said in an advisory&nbs\u2026",
     "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing"
   },
+  "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFRN0kXDPnLLvRBYqNZG4BTyUK0EaSxRtepYOQ-msXGAqu1IW8t2cdnav4ANAO8fXwY_-ug6Ictj29WcseInPhJmYOwpgcinvc8KO36A8HK6Wo41lgztgyH2jb9hGg7bVyWZ4A-adjBYuTi-hOJxMALa7myG172BWKwB_SyvrfMeqxH_3DdcyJxYwXFIKG/s1600/chain.jpg",
+    "published": "2026-10-31T12:01:56+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data.\n\nHowever, the company noted \u2026",
+    "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data"
+  },
   "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq2iUs3zJHHrrskI-icX8x-nBeJxjr_O9uRE2lvcLQkaOhVUHFjTQYLItaZPVskt39VgI2ZYoMDuIhqkAAqEl1bYHLv5ctEfQvPe9UmLyzVEo46YS4xOEz7HcoYKSiNtT_g2bqfKLPFis98BVTTjSR9gafpKRceKKcj0rUf3pb89zBXVt_PequHoA-ta3t/s1600/sandboxie.png",
@@ -18139,6 +18166,15 @@
     "source": "The Hacker News",
     "summary": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application.\n\nDuring the incident, Storm-0\u2026",
     "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack"
+  },
+  "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP1M46Z4Xs0qNHz9xzhTea14XsqTHvNhAfnGb4Ni9goHQR2ypz3BLKRgu-WxWD8VSUNMB3YAP7UhcCAK1AweCc3lC-7VlJ-OqNniD4FvZdE_R-XJkkRadhl2tp3-PqbKPWmQTeJ3a3gvd1kHH_zaW06tCf9cH-7k5feNqHrqbChMAsc5K3hruiX9BDROAe/s1600/CS.jpg",
+    "published": "2026-10-30T16:58:44+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simulta\u2026",
+    "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide"
   },
   "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html": {
     "categories": [],
@@ -18256,6 +18292,15 @@
     "source": "The Hacker News",
     "summary": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache.\n\n\"Instead of downloading and executing remote payloads like\u2026",
     "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits"
+  },
+  "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9-PGmRcZy9OvjKNOWHrGVMpF2DhnvIrHU6mOwyroU7CeoEKMkrjCt8HxCKBzAOia6ZpDEvTuQcF2Xg_50vE_W8DdjmLJjxMXPUUm5Ryfym8GBhm74Z6jwZCeXSKgxuK6A57rVsM-Z1G8nfEF3Mn8QgoD77Nbqxakkj_ZxbBNDtp0ljvTKrXydLYm1BFZR/s1600/cf.jpg",
+    "published": "2026-10-31T04:56:12+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38% Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday.\n\nThe web infrastructure and security company said it autonomously mi\u2026",
+    "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%"
   },
   "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html": {
     "categories": [],
@@ -19553,6 +19598,15 @@
     "summary": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers Tailscale has released&nbsp;version 1.104.4&nbsp;to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the&nbsp;root&nbsp;u\u2026",
     "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers"
   },
+  "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-ZayNgwlu4fhpD2BSyGgkMYehkV0atRJINisISPLpiubkgyXopa4NWVnxOZs9gi-DEYTNEQ5G2pu-X5iSHyMp8pguzp-Q6g-1-mGwcy3so4AkeuYFuYoaotOcmF5A-2oVDvnxd0B_FaZ7JJt8W3zrNFot6kBlJp7WffHkb7m92C9bNQnwFLwnNgXpDk/s1600/teamviewer-flaw.jpg",
+    "published": "2026-10-30T15:17:28+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes co\u2026",
+    "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them"
+  },
   "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguzUg6G-A4KdRvBuhj9LZ93cFfXfvMNkg3dJO0H9sfNJ3MTlecsgLEMIk5TnIrdl2N6UGB8D9rlqLduGEZVm7X-XrWZr6Xh5ZrVp38x5uTd1vHyHGcjRR2N3gctNen-CBSz8JihnNL57galBoeOVKwG5w3qsOZnqmGYdkxzjurrI3QWolmS1Qfz_E_Wog/s1600/telegram.jpg",
@@ -19984,6 +20038,15 @@
     "source": "The Hacker News",
     "summary": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without ha\u2026",
     "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory"
+  },
+  "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf-pzflJO9HQoCdvBvYNtS12gwwEjAbM4dQ30ak7UYaIPzsVPN9MlFwvIDEFkbe9cWg4wQRFPbGfJ0YXjzGcBS6mUTwttwkQ8IR7OoHyTz3owZkVzYQOAObyJUqfjsC-PqMw2pv41_m68hb6ZkwJb56kGx-Ypv7GWZBtDzjyTTQ8L8i9NxA8_MDVoJSEba/s1600/wp-hack.jpg",
+    "published": "2026-10-30T14:08:14+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released.\n\nThe vulnerability, which does not have a CVE identifier, relates to\u2026",
+    "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours"
   },
   "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html": {
     "categories": [],
@@ -27854,6 +27917,17 @@
     "summary": "Certighost and the Privilege Hiding in Your Certificate Authority CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity inf\u2026",
     "title": "Certighost and the Privilege Hiding in Your Certificate Authority"
   },
+  "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-31T12:50:09+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Chainalysis discloses data breach from \"offensive agentic techniques\" Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and or\u2026",
+    "title": "Chainalysis discloses data breach from \"offensive agentic techniques\""
+  },
   "https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/": {
     "categories": [
       "Security"
@@ -30598,6 +30672,18 @@
     "source": "BleepingComputer",
     "summary": "Critical Langflow flaw exploited to steal OpenAI and AWS keys Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
     "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/": {
+    "categories": [
+      "Security",
+      "Linux"
+    ],
+    "image": "",
+    "published": "2026-10-30T21:09:46+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP\u2026",
+    "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers"
   },
   "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/": {
     "categories": [
@@ -33704,6 +33790,17 @@
     "source": "BleepingComputer",
     "summary": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market DDoS attacks are increasingly being sold like subscription services, complete with pricing tiers, support, and reseller programs. Flare explores how the DDoS-as-a-Service market has evolved from sca\u2026",
     "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market"
+  },
+  "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-31T13:10:19+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era. [...]",
+    "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era."
   },
   "https://www.bleepingcomputer.com/news/security/from-cipher-to-fear-the-psychology-behind-modern-ransomware-extortion/": {
     "categories": [
@@ -38172,6 +38269,17 @@
     "source": "BleepingComputer",
     "summary": "Malicious Blender model files deliver StealC infostealing malware A Russian-linked campaign delivers the StealC V2 information stealer malware through malicious Blender files uploaded to 3D model marketplaces like CGTrader. [...]",
     "title": "Malicious Blender model files deliver StealC infostealing malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-30T14:36:54+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Malicious Claude Code extension on Cursor planted SSH backdoors A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to\u2026",
+    "title": "Malicious Claude Code extension on Cursor planted SSH backdoors"
   },
   "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/": {
     "categories": [
@@ -45107,6 +45215,17 @@
     "summary": "SQLi flaw in Elementor Ally plugin impacts 250k+ WordPress sites An SQL injection vulnerability in Ally, a WordPress plugin from Elementor for web accessibility and usability with more than 400,000 installations, could be exploited to steal sensitive data without authentication. \u2026",
     "title": "SQLi flaw in Elementor Ally plugin impacts 250k+ WordPress sites"
   },
+  "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-30T14:00:10+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains ho\u2026",
+    "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone"
+  },
   "https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/": {
     "categories": [
       "Security"
@@ -46245,6 +46364,19 @@
     "source": "BleepingComputer",
     "summary": "Trezor discloses data breach affecting nearly 14,000 customers Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provider, was hacked [...]",
     "title": "Trezor discloses data breach affecting nearly 14,000 customers"
+  },
+  "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency",
+      "Hardware"
+    ],
+    "image": "",
+    "published": "2026-10-30T15:58:20+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Trezor warns of suspected crypto-theft implant in hardware wallet Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
+    "title": "Trezor warns of suspected crypto-theft implant in hardware wallet"
   },
   "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/": {
     "categories": [
@@ -50389,6 +50521,15 @@
     "summary": "'TrustFall' Convention Exposes Claude Code Execution Risk Malicious repositories can trigger code execution in Claude Code, Cursor CLI, Gemini CLI, and CoPilot CLI with minimal or no user interaction, thanks to skimpy warning dialogs.",
     "title": "'TrustFall' Convention Exposes Claude Code Execution Risk"
   },
+  "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd40811c92b905082/6ae3b49914ffedf86f1c84cc/zombies-in-graveyard-zef_art-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-30T14:10:37+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Undead Software Projects Continue to Raise Security Risks A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers.",
+    "title": "Undead Software Projects Continue to Raise Security Risks"
+  },
   "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8798a931788fea60/6abc103774949935866a41da/sloth-webguzs-GettyImages-2249770137.jpg?width=720&quality=80&disable=upscale",
@@ -53144,6 +53285,15 @@
     "summary": "Decades-Old Windows Utility Powers Modern ClickFix Attack The attack uses malicious Google search results related to Amazon and leverages the &quot;finger&quot; utility to launch a CAPTCHA that installs malware, including the Lumma stealer.",
     "title": "Decades-Old Windows Utility Powers Modern ClickFix Attack"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5af13434263526c5/6ae4e524fd7d52bad0112be2/Package_trap-Alina_Naumova-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-30T20:05:58+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Devs Hit by Trojanized Claude Code Extension for Cursor Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).",
+    "title": "Devs Hit by Trojanized Claude Code Extension for Cursor"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/digital-fraud-industrial-scale-2025": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte55409a6550edb64/692733d90d20b45f1cb67c8d/fraud_Quality_Pixel_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -54380,6 +54530,15 @@
     "summary": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause Researchers can't quite explain why cyber threats look so different in Italy compared to everywhere else.",
     "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause"
   },
+  "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0dafcf0847efff9a/6ae24fff8ec8cff4371f87c5/rome-Sean_Gallup-GettyImages-623337092jpg.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-30T15:39:54+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "L\u2019Italia \u00e8 afflitta da vulnerabilit\u00e0 informatiche, senza una causa chiara I ricercatori non riescono a spiegare del tutto perch\u00e9 le minacce informatiche in Italia siano cos\u00ec diverse rispetto a quelle di qualsiasi altro Paese.",
+    "title": "L\u2019Italia \u00e8 afflitta da vulnerabilit\u00e0 informatiche, senza una causa chiara"
+  },
   "https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8497ff5ba464f933/6943172f8d0bea2fbc0e4978/AI_apps_hacker-Matt_Fowler-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -54789,6 +54948,15 @@
     "source": "darkreading",
     "summary": "Australian Gov't Weighs Mandatory AI Incident Reporting In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for frontier AI companies.",
     "title": "Australian Gov't Weighs Mandatory AI Incident Reporting"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted8eeb1e23f7df84/6ae3bbdee7e856ef65896aec/GettyImages-1294781573.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-10-30T19:46:08+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Behind the Scenes of How Operation Blackout Went Down A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same.",
+    "title": "Behind the Scenes of How Operation Blackout Went Down"
   },
   "https://www.darkreading.com/cybersecurity-operations/blunders-level-up-security-programs": {
     "categories": [],
