@@ -20057,6 +20057,42 @@
     "summary": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, \u20ac8.6 million ($9.62 million) for illegally relaying \u200bGrindr users' sensitive data to adve\u2026",
     "title": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation"
   },
+  "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Vibbj3miGalyf0avn_Z2WlLhFh5cC5ImXGFlOL0cisgxikHCcLzHjOVM3qO5B47V3uw62rWH6m6fP1svsH3TCG6i9sS19BIXn1CsDjKK3gnG6VQxkFwghemdeBlV4_AM5Ah-_TJ3T_5Gv-D5Pygrm-B5yzQnDqvIXmI2FyAeuzk57_l6esdhNrTMBj0/s1600/linux-vm.jpg",
+    "published": "2026-11-01T08:51:31+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS \u2026",
+    "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key"
+  },
+  "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmb1j0HC3RkKxZ4bBQPaOa5GaLqC2EBtxXHOMnebPlgHGDJG7ryIuSBIR-9YBQuUm6HwD15-OJQgBvIkhbLIApM8XoU0DptSEF6DNhEpinxPA-06wQZhLhRiKmFGO5cVjONcaouGC3lqybhkeEsZj-xebX6u6hSR19mS7sVqOrpR02qNOlpHZJEUjf1HtB/s1600/binance-hack.png",
+    "published": "2026-11-01T07:03:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked\u2026",
+    "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist"
+  },
+  "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe0B28qLAtUMfqN29_phxZJVJORICkj_98MZFwDiXAxFTABw8G9qbsVyD98pg7T_Rvgv83NXyR5tNGYH4dRwlxs3QFTUZxDPHQs2BgFsnmGcOuVW1HkFVCfiCR3Y05kPQrfFx4S7A8DiFXXAAgdc5SiEKx0-0xrW5rNlNSyN3jZJcyXasdpCr5AG7KM3s/s1600/Polymarket.jpg",
+    "published": "2026-11-01T07:25:40+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed scrip\u2026",
+    "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script"
+  },
+  "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy0oLNj9TVg8ifLKdJSg4HH1EhN3m_OBldd7wEIeVoQSHtFXSmsiPdmf-njsPD-CbVHY8NckeW2N9rN8-CTnp81zaeFq-ISj04O7ihoj5HgnvJT_zY_0fdC8vCcd5LXL8Mx9ym1fPI5GMrEtjxZoEiernCr_CZwLocgtrJsKZzixEnYUe2WmkehWLNR2hx/s1600/windows-hacker.jpg",
+    "published": "2026-11-01T07:02:58+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia.\n\nThe activity, detailed by Kasp\u2026",
+    "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection"
+  },
   "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/": {
     "categories": [
       "Apple",
@@ -21069,6 +21105,18 @@
     "source": "BleepingComputer",
     "summary": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
     "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-11-01T13:53:11+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+    "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-latest-gpt-51-codex-can-code-independently-for-hours/": {
     "categories": [
@@ -39836,6 +39884,19 @@
     "summary": "New Android malware uses AI to click on hidden browser ads A new family of Android click-fraud trojans leverages TensorFlow machine learning models to automatically detect and interact with specific advertisement elements. [...]",
     "title": "New Android malware uses AI to click on hidden browser ads"
   },
+  "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/": {
+    "categories": [
+      "Security",
+      "Google",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-10-31T15:35:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New Android SMS of Death exploit can remotely crash unpatched phones A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular serv\u2026",
+    "title": "New Android SMS of Death exploit can remotely crash unpatched phones"
+  },
   "https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/": {
     "categories": [
       "Security",
@@ -41568,6 +41629,18 @@
     "source": "BleepingComputer",
     "summary": "North Korean WaterPlum hackers infected 30,000 devices worldwide A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stol\u2026",
     "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide"
+  },
+  "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-10-31T18:01:12+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Northflank security breach leads to abuse of customers' AI API keys Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+    "title": "Northflank security breach leads to abuse of customers' AI API keys"
   },
   "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/": {
     "categories": [
@@ -43633,6 +43706,17 @@
     "source": "BleepingComputer",
     "summary": "Red Hat npm packages compromised to steal developer credentials More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dubbed \"Miasma.\" [.\u2026",
     "title": "Red Hat npm packages compromised to steal developer credentials"
+  },
+  "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-10-31T14:05:15+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Reddit to lock content behind logins to fight scrapers Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
+    "title": "Reddit to lock content behind logins to fight scrapers"
   },
   "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/": {
     "categories": [
