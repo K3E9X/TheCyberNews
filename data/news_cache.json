@@ -20057,6 +20057,24 @@
     "summary": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, \u20ac8.6 million ($9.62 million) for illegally relaying \u200bGrindr users' sensitive data to adve\u2026",
     "title": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation"
   },
+  "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLv88EM1ZSjaeI7bH9DVpg2mGdkwXWUuir0S_p9IfiWG49_TgRalFdK4oQ6e7UE_JYOnNH70Z6wcftnjhcYHRY-Xc0o8GYp9r1uNzxdC_1bnXZgvon74cXkWgKpHZtwJg3IKLsqGC2HS2tcMfQS8BZu7kfrW1vAaaIA316LRzgCOn8zeGZ1WvALgJmyM4/s1600/ms-ad.jpg",
+    "published": "2026-11-02T11:08:45+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to ob\u2026",
+    "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data"
+  },
+  "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_FF2_yXQrxnB1ymo-GsohY6t0INslV7mps2DVMnYa_dD_RpZu7uz9HwNrux1gxieMF4hnc_84KMpOyhroj0EDx0Vwv0QljdhTehvJINIsr-Sjyw4CaMiLO3fFWGl-8LhLWgOtC4DRU2X5e46s3Rxghu3KLUMsyHfpxFyKogIs34Q2fm2RYpAMI_Jt_9A/s1600/langflow-rce.jpg",
+    "published": "2026-11-02T11:50:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code,&nbsp;IBM said last week.\n\nLangflow is an open-source tool for building AI agents\u2026",
+    "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers"
+  },
   "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Vibbj3miGalyf0avn_Z2WlLhFh5cC5ImXGFlOL0cisgxikHCcLzHjOVM3qO5B47V3uw62rWH6m6fP1svsH3TCG6i9sS19BIXn1CsDjKK3gnG6VQxkFwghemdeBlV4_AM5Ah-_TJ3T_5Gv-D5Pygrm-B5yzQnDqvIXmI2FyAeuzk57_l6esdhNrTMBj0/s1600/linux-vm.jpg",
@@ -20065,6 +20083,15 @@
     "source": "The Hacker News",
     "summary": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS \u2026",
     "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key"
+  },
+  "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7nIwDn7LIoF8OUZdj0NRjq4ZMu-xjzcOPQJDwouwkwqwVe618e77am9iyAIez63Q8jVqZi7OtU43gJlhbZT-_4l_4pUq3tYpDUe4ErouPlkNi8YTNZiPQ6KmX2Ci028oT24DRcPtCdKv_zZ33_ZHOodARrbmcwxYWCAx4r45Qc0qVOQNmCCoWZmAWJnzt/s1600/shelby-hacker.png",
+    "published": "2026-11-02T14:46:05+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October\u2026",
+    "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment"
   },
   "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html": {
     "categories": [],
@@ -20075,6 +20102,24 @@
     "summary": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked\u2026",
     "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist"
   },
+  "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkbU6vLZjF0nlz7vqN6UVf3kN1IcdUfIpAmVWlh2II4gGbMMmSuiE1S8HLzP4JV-ImeCa64hU-cEaa-yGXWqUO_XHOurKtEw61DFvjGOJhM7gHpRPpegBcCFYrXkd59wGX-PoV6zm7z7uq6PpXjc4GLhDRzcinR5IIjcOVZEVl8FMQ0v0Dt3CV9sRxZNk/s1600/android-tv-botnet.jpg",
+    "published": "2026-11-02T15:50:26+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google.\n\nGoogle says&nbsp;it is highly confident \u2026",
+    "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access"
+  },
+  "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYHKbP_7yOsvpwAldBMCL3QkCJ9SbUVrJz1Tr_RB6m3O99Gj73H0fX20hIbzKujRWB-1qkBCWv1UEJEbrTe1NFYpPkTm0OoNqJe7OdJoZa1HcZDT2On3mUT0igQeCOsMnWw_ZfT-HsLx6B8R84XYHHg4mUI2hPzM15ggddQCFAAmzChzC5Of90LInW8RB8/s1600/artex.jpg",
+    "published": "2026-11-02T10:49:59+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure.\n\n\u2026",
+    "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts"
+  },
   "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe0B28qLAtUMfqN29_phxZJVJORICkj_98MZFwDiXAxFTABw8G9qbsVyD98pg7T_Rvgv83NXyR5tNGYH4dRwlxs3QFTUZxDPHQs2BgFsnmGcOuVW1HkFVCfiCR3Y05kPQrfFx4S7A8DiFXXAAgdc5SiEKx0-0xrW5rNlNSyN3jZJcyXasdpCr5AG7KM3s/s1600/Polymarket.jpg",
@@ -20084,6 +20129,15 @@
     "summary": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed scrip\u2026",
     "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script"
   },
+  "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZbG_0dst_8ctvKrGx37rAninLXS6SIcKT4YjziNbu7bPmTPAsYvWo-Jkwj0UqT493VwmYVtvkthnEGLqTusFvJFo9fPth_VWjI2XNev9SKY-sePLY12rM5yWoQOzrvEXG0DWOWBb7N8GcdHNPqv6skeqGx2r2zGVlDeWkPnt5drMe_R2yh8TB8-kOCug/s1600/pro.jpg",
+    "published": "2026-11-02T11:30:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than\u2026",
+    "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy"
+  },
   "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy0oLNj9TVg8ifLKdJSg4HH1EhN3m_OBldd7wEIeVoQSHtFXSmsiPdmf-njsPD-CbVHY8NckeW2N9rN8-CTnp81zaeFq-ISj04O7ihoj5HgnvJT_zY_0fdC8vCcd5LXL8Mx9ym1fPI5GMrEtjxZoEiernCr_CZwLocgtrJsKZzixEnYUe2WmkehWLNR2hx/s1600/windows-hacker.jpg",
@@ -20092,6 +20146,15 @@
     "source": "The Hacker News",
     "summary": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia.\n\nThe activity, detailed by Kasp\u2026",
     "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection"
+  },
+  "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5V8QVweKn56_SnTCKZkhmOip6paz9noBrJn7znyZqUtFbOEaLuALQUNlmjcSAb7RIUW8GDETB6J0kFpQQe6vq7wAjk3ogxKUeQ0-2rKeO6TveLdqHNs9KnTN6zC6rwPzWE2IBWMokqQOUzAA0XPM2BWHTUTE7_U7XDfUGKTDIC1PYttxHGnAq_Kr_hMq/s1600/hacker-ai.jpg",
+    "published": "2026-11-02T05:51:07+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data b\u2026",
+    "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/": {
     "categories": [
@@ -22943,6 +23006,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft fixes Remote Desktop warnings displaying incorrectly Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
     "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-11-02T13:57:29+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft fixes Smart App Control broken by October Windows update Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
+    "title": "Microsoft fixes Smart App Control broken by October Windows update"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/": {
     "categories": [
@@ -26426,6 +26500,18 @@
     "summary": "Alleged Silk Typhoon hacker extradited to US for cyberespionage A Chinese national accused of carrying out cyberespionage operations for China's intelligence services\u00a0has been extradited from Italy to the United States to face criminal charges. [...]",
     "title": "Alleged Silk Typhoon hacker extradited to US for cyberespionage"
   },
+  "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/": {
+    "categories": [
+      "Security",
+      "Linux"
+    ],
+    "image": "",
+    "published": "2026-11-01T15:11:21+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Alpine Linux rebuilds GitLab after attempted RCE attack Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns\u2026",
+    "title": "Alpine Linux rebuilds GitLab after attempted RCE attack"
+  },
   "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/": {
     "categories": [
       "Security"
@@ -27695,6 +27781,18 @@
     "source": "BleepingComputer",
     "summary": "Broken VECT 2.0 ransomware acts as a data wiper for large files Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger files rather than encrypt them. [...]",
     "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files"
+  },
+  "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-11-02T15:03:07+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "BTCPay Server warns of hot wallet crypto thefts on outdated instances The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [\u2026",
+    "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances"
   },
   "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/": {
     "categories": [
@@ -32990,6 +33088,17 @@
     "summary": "FBI investigates breach of surveillance and wiretap systems The U.S. Federal Bureau of Investigation (FBI) confirmed on Thursday that it's investigating a breach that affected systems used to manage surveillance and wiretap warrants. [...]",
     "title": "FBI investigates breach of surveillance and wiretap systems"
   },
+  "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-01T19:57:53+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "FBI links $6.3 billion Binance crypto heist to North Korean hackers The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+    "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers"
+  },
   "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/": {
     "categories": [
       "Security"
@@ -35465,6 +35574,17 @@
     "summary": "Hackers compromise NGINX servers to redirect user traffic A threat actor is compromising NGINX servers in a campaign that hijacks user traffic and reroutes it through the attacker's backend infrastructure. [...]",
     "title": "Hackers compromise NGINX servers to redirect user traffic"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-02T14:28:39+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Hackers disrupt refrigeration systems at European supermarkets A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [..\u2026",
+    "title": "Hackers disrupt refrigeration systems at European supermarkets"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/": {
     "categories": [
       "Security",
@@ -37392,6 +37512,17 @@
     "source": "BleepingComputer",
     "summary": "Italy fines Apple $116 million over App Store privacy policy issues Italy's competition authority (AGCM) has fined Apple \u20ac98.6 million ($116 million) for using the App Tracking Transparency (ATT) privacy framework to abuse its dominant market position in mobile app advertising. [\u2026",
     "title": "Italy fines Apple $116 million over App Store privacy policy issues"
+  },
+  "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-02T09:33:26+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Ivanti patches two more Connect Secure zero-days chained in attacks Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
+    "title": "Ivanti patches two more Connect Secure zero-days chained in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/": {
     "categories": [
@@ -42172,6 +42303,17 @@
     "summary": "Order-tracking app Shop abused to push callback phishing attacks Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access so\u2026",
     "title": "Order-tracking app Shop abused to push callback phishing attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-02T12:47:00+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
+    "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/": {
     "categories": [
       "Security",
@@ -45589,6 +45731,17 @@
     "source": "BleepingComputer",
     "summary": "Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland Synology has addressed a critical-severity remote code execution (RCE) vulnerability in BeeStation products that was demonstrated at the recent Pwn2Own hacking competition. [...]",
     "title": "Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland"
+  },
+  "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-02T11:28:42+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Synology warns of C3RB3R ransomware attacks targeting NAS devices Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
+    "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices"
   },
   "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/": {
     "categories": [
@@ -49010,6 +49163,17 @@
     "source": "BleepingComputer",
     "summary": "Your MFA Is Costing You Millions. It Doesn't Have To. Passwords and app-based MFA add hidden costs through lost productivity, frequent resets, and risk of phishing and social engineering attacks. Token explains how wireless biometric, passwordless authentication eliminates creden\u2026",
     "title": "Your MFA Is Costing You Millions. It Doesn't Have To."
+  },
+  "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-02T15:01:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Your Mobile Carrier Stores Your Call Logs for Years Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data retentio\u2026",
+    "title": "Your Mobile Carrier Stores Your Call Logs for Years"
   },
   "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/": {
     "categories": [
@@ -53877,6 +54041,15 @@
     "summary": "D\u00e9j\u00e0 Vu? Meta's AI Escapes Testing Lab in Hacking Joyride In the span of three weeks, OpenAI, Anthropic, and Meta have all disclosed AI agent sandbox escape events affecting real organizations.",
     "title": "D\u00e9j\u00e0 Vu? Meta's AI Escapes Testing Lab in Hacking Joyride"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt569484121108a889/6ae4e02ada596cc80722963c/AI-Saksit_Sangtong-Getty-2225595754.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-02T15:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Microsoft's AI Risk Report Misses This Key Detail The latest &quot;Digital Defense Report&quot; identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs.",
+    "title": "Microsoft's AI Risk Report Misses This Key Detail"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt481be0dcde6741d2/6ada753af919424ed83bcdaf/chinacyber_mageFlow_shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -54010,6 +54183,15 @@
     "source": "darkreading",
     "summary": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain From creating lab environments for staging and testing agentic attacks to reconnaissance to lateral movement and exfiltration, the most innovative attackers are widely incorporating AI.",
     "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5084e1dd5e7db648/6ae882291b7efb363cec70fb/rat-David_Chapman-Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-02T14:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "PapRAT Cyber Espionage Campaign Leaves a 'BITTER' Taste in South Asia Organizations in the region face attacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains.",
+    "title": "PapRAT Cyber Espionage Campaign Leaves a 'BITTER' Taste in South Asia"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/phishers-persistence-eu-asia-hospitality-orgs": {
     "categories": [],
