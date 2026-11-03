@@ -20057,6 +20057,15 @@
     "summary": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, \u20ac8.6 million ($9.62 million) for illegally relaying \u200bGrindr users' sensitive data to adve\u2026",
     "title": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation"
   },
+  "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLg0QvfH0SD_sz2pFnyrG6Zcs-ltrKaf42ZY7PYKTsA26Nu4alNeqarZZ9HGEjO0UJFr5Wfsb7WBSDYoRnGi6X1jXZ8_4xx1VJtYshtPXYX9DVJYu4lln_IqEhf-NQJC7MKWI1JVzzR5heu6O_OnWezfKsj3AnBs5NKVp5dOVgR-7XuKMIAiyiKflPlT9E/s1600/siemens-hack.jpg",
+    "published": "2026-11-03T05:34:41+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed.\n\nThe vulnerability, tracked as CVE-2026-58115 (CVSS sc\u2026",
+    "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors"
+  },
   "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLv88EM1ZSjaeI7bH9DVpg2mGdkwXWUuir0S_p9IfiWG49_TgRalFdK4oQ6e7UE_JYOnNH70Z6wcftnjhcYHRY-Xc0o8GYp9r1uNzxdC_1bnXZgvon74cXkWgKpHZtwJg3IKLsqGC2HS2tcMfQS8BZu7kfrW1vAaaIA316LRzgCOn8zeGZ1WvALgJmyM4/s1600/ms-ad.jpg",
@@ -20065,6 +20074,15 @@
     "source": "The Hacker News",
     "summary": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to ob\u2026",
     "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data"
+  },
+  "https://thehackernews.com/2026/11/attackers-target-unpatched.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1tflB6yfzJv3UijqJlfCikzOQx0NHz9AVTh13vDvWu-LfAfFfBDjGbKI79Cb3dd2Ca_ck2KNP46WwYKcuweVD9Wc1srFpRkBimsG-EQS567tR92Yyg1DKPWqhhZHc1sP71qHWQoUxndY2VzDlqVsd2gx2GPcMx7pjVG8ws13bfMKXDtqz5q7EiJ22Mmr_/s1600/wp.jpg",
+    "published": "2026-11-03T05:34:37+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber.\n\nThe vuln\u2026",
+    "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials"
   },
   "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html": {
     "categories": [],
@@ -20120,6 +20138,15 @@
     "summary": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure.\n\n\u2026",
     "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts"
   },
+  "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrr1rJlr2nztz8jEunAWtVXHyOHkJY2_KdeweNWBqwF18rmhPiFItEQ-yCex1vVsps856ArIDl7unaWJNiribZ9DgkmQ3o4pLa1BKQrjKEeFR63z4csXnBHah5wIp7H5xuUB7b1UIp06nk6BzLuxFW5aWh2g-PoLoZ74RjMOEUX7XdrDsHM1yFbjGHBzK8/s1600/btcpay.jpg",
+    "published": "2026-11-03T08:31:48+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen \u2026",
+    "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets"
+  },
   "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe0B28qLAtUMfqN29_phxZJVJORICkj_98MZFwDiXAxFTABw8G9qbsVyD98pg7T_Rvgv83NXyR5tNGYH4dRwlxs3QFTUZxDPHQs2BgFsnmGcOuVW1HkFVCfiCR3Y05kPQrfFx4S7A8DiFXXAAgdc5SiEKx0-0xrW5rNlNSyN3jZJcyXasdpCr5AG7KM3s/s1600/Polymarket.jpg",
@@ -20155,6 +20182,60 @@
     "source": "The Hacker News",
     "summary": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data b\u2026",
     "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value"
+  },
+  "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdf8UfDHsjH9VaJGtYT5WgjtJ1G5YRMkjPWNeKn-hw05sM9ny0kW9L2eIc3UCiIQ7qmc_TmfrenS1WH8KiRBjln2hQS0X7DUlykxdHrzDgg4uoiHpiOf3fVTOnUuOt4618z3PN7hw1AfUch_y0Tot3ubTga5LEfyWnATkzegfQBSWxMbzNzJaGY18QqC8/s1600/linux-rce.jpg",
+    "published": "2026-11-03T11:23:53+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing Fixed kernels for a&nbsp;use-after-free vulnerability in the Linux kernel's IPv4 TCP code&nbsp;are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newe\u2026",
+    "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing"
+  },
+  "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqyPfrBB7GYTnYsvVj2TxCv0pPwFh_PkVpdQcxuspKgQfbsX1p2kDSdokIyPqLsxSfBCkFPiTATfZxZRbouqkoqfEESL7CgA-MyXD61eQFluiQtdFZDyXQc_3EUAg71JWIHxq9MPVLrwwegvUVuiViE8AxsKH6iBVypWazO0wmCoaC3-D1Ih9Yw3vwN1FJ/s1600/russia-hackers.jpg",
+    "published": "2026-11-03T11:00:45+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations.\n\n\"Active since at least February 2025, the grou\u2026",
+    "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware"
+  },
+  "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjScxShEa3bsAhGLHlqkBcsyuRe6UeQwrOVXBFP3TwxzmXtd03vDeDRZHxxBLIKHDYgY5p5CsrFvBwuozg3UsRLtVMO758NhVwSju6D6WgO1J42wJd2NWR9aVzz-B_CWfiMFH2QANUrAnUXbgkKec2KtJjULvN3NTqrCPbLRNnxlnvBFIAkndClXJMIeXY/s1600/fridge-hack.jpg",
+    "published": "2026-11-03T07:27:07+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warmin\u2026",
+    "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food"
+  },
+  "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg18lSM19IJpBCuAofy8CZNsJ-05CtvqxdL8BcHUS65fn_Oph-FAXqpdDE9c11G78nq7I1pVtt4XAotc_hszgea-QpNDTt-RzstD3k7yfXHP3JUnBViplsRzL_4q_LM-jujcv6NbMUUYBMWtJKSdKcBYlbSkm7Mx9LaTbVRW88uFh723nDOGYYDxiwkfYFr/s1600/synology-ransomware.jpg",
+    "published": "2026-11-03T07:43:07+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks.\n\nThe Taiwanese vendor said it observed t\u2026",
+    "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw"
+  },
+  "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK5J_qkmStJVdWJYvNtd4lb2cRfPMaSvu1dEKp8tXOjw71kt_fRGGfdPr60HL5agJ8NMBYO5sH7jVvzMWXlLW1fq0xilaF0GyLQHCznSjHeos7sdP_Xwmd6OWyzKv8Yq8m-Z0Hn3x15GBU8AySu2A27OlIWiuAW9ch0iZuXxTpELRSQ6uRdW9nLK4uXQg/s1600/picus-main.png",
+    "published": "2026-11-03T11:18:20+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "The 4 Elements of Exposure Prioritization and How to Operationalize Them Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You\u2019re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposure\u2026",
+    "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them"
+  },
+  "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj03NmPVHpoxRjXKDh7s6v2Dav4D-MCSLBTLalEb9ScH_lLc4yQJWOW8QfTIBePp7Pcgo1qrq6MYuQvNeyb0LCvWO4E4e7BLQKEj-g3Z2LImj4CXV-UUGfVd-vVL0NGtxMMn50klhOLlyI3p6DXhIFf-LkMsST7LK4kh3gIjqlvBwOUgbKTq8-hRdvmfz46/s1600/rcap.jpg",
+    "published": "2026-11-02T16:57:56+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about.\u2026",
+    "title": "\u26a1 Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/": {
     "categories": [
@@ -21427,6 +21508,18 @@
     "source": "BleepingComputer",
     "summary": "Gmail's new AI Inbox uses Gemini, but Google says it won\u2019t train AI on user emails Google says it's rolling out a new feature called 'AI Inbox,' which summarizes all your emails, but the company promises it won't train its models on your emails. [...]",
     "title": "Gmail's new AI Inbox uses Gemini, but Google says it won\u2019t train AI on user emails"
+  },
+  "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/": {
+    "categories": [
+      "Google",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-03T12:05:52+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+    "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs"
   },
   "https://www.bleepingcomputer.com/news/google/google-backpedals-on-new-android-developer-registration-rules/": {
     "categories": [
@@ -28362,6 +28455,18 @@
     "summary": "Chinese hackers target telcos with new Linux, Windows malware A Chinese cyber-espionage campaign has been targeting telecommunications providers with newly discovered Linux and Windows malware dubbed Showboat and JFMBackdoor, respectively. [...]",
     "title": "Chinese hackers target telcos with new Linux, Windows malware"
   },
+  "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-11-02T21:40:14+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+    "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs"
+  },
   "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/": {
     "categories": [
       "Security"
@@ -33457,6 +33562,17 @@
     "summary": "FinCEN says ransomware gangs extorted over $2.1B from 2022 to 2024 A new report by the Financial Crimes Enforcement Network (FinCEN) shows that ransomware activity peaked in 2023 before falling in 2024, following a series of law enforcement actions targeting the ALPHV/BlackCat an\u2026",
     "title": "FinCEN says ransomware gangs extorted over $2.1B from 2022 to 2024"
   },
+  "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-02T19:00:45+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Fintech platform Sageworks taken offline after suspected cyberattack Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...\u2026",
+    "title": "Fintech platform Sageworks taken offline after suspected cyberattack"
+  },
   "https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/": {
     "categories": [
       "Security"
@@ -34643,6 +34759,17 @@
     "source": "BleepingComputer",
     "summary": "Google disrupts IPIDEA residential proxy networks fueled by malware IPIDEA, one of the largest residential proxy networks used by threat actors, was disrupted earlier this week by Google Threat Intelligence Group (GTIG) in collaboration with industry partners. [...]",
     "title": "Google disrupts IPIDEA residential proxy networks fueled by malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-02T18:16:34+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malwa\u2026",
+    "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker"
   },
   "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/": {
     "categories": [
@@ -36340,6 +36467,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers use RMM tools to breach freighters and steal cargo shipments Threat actors are targeting freight brokers and trucking carriers with malicious links and\u00a0emails to deploy remote monitoring and management tools (RMMs) that enable them to hijack cargo\u00a0and steal physical goods\u2026",
     "title": "Hackers use RMM tools to breach freighters and steal cargo shipments"
+  },
+  "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-03T10:53:25+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Harvard University data breach exposed info of 851,000 accounts Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pw\u2026",
+    "title": "Harvard University data breach exposed info of 851,000 accounts"
   },
   "https://www.bleepingcomputer.com/news/security/harvard-university-discloses-data-breach-affecting-alumni-donors/": {
     "categories": [
@@ -43223,6 +43361,17 @@
     "summary": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
     "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime"
   },
+  "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-03T13:33:49+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Police seizes over 100 servers in investment scam crackdown European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
+    "title": "Police seizes over 100 servers in investment scam crackdown"
+  },
   "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/": {
     "categories": [
       "Security"
@@ -46933,6 +47082,19 @@
     "source": "BleepingComputer",
     "summary": "UK sanctions Xinbi marketplace linked to Asian scam centers The United Kingdom's Foreign, Commonwealth and Development Office (FCDO) has sanctioned\u00a0Xinbi, a\u00a0Chinese-language cryptocurrency-based online marketplace that sells stolen data and\u00a0satellite internet equipment to scam ne\u2026",
     "title": "UK sanctions Xinbi marketplace linked to Asian scam centers"
+  },
+  "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence",
+      "Education"
+    ],
+    "image": "",
+    "published": "2026-11-03T14:00:00+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
+    "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack"
   },
   "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/": {
     "categories": [
@@ -53221,6 +53383,15 @@
     "summary": "Big Breach or Smooth Sailing? Mexican Gov't Faces Leak Allegations A hacktivist group claims a 2.3-terabyte data breach exposes the information of 36 million Mexicans, but no sensitive accounts are at risk, says government.",
     "title": "Big Breach or Smooth Sailing? Mexican Gov't Faces Leak Allegations"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5a6c898e92d21e63/6ae8ffda91cb5739c41bd1e1/binance_creativetan_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-02T22:27:24+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
+    "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0143cb21f34c0ad9/69f11ed6518c911d5067bb51/deepfake_Smile_Studio_AP_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -56295,6 +56466,15 @@
     "source": "darkreading",
     "summary": "Zoom CISO: AI as Security Enabler, Not Role-Replacer As Zoom's CISO, Sandra McLeod, discusses the challenges of securing a global communication platform, the promise of AI-driven security workflows, and advice for aspiring cybersecurity leaders.",
     "title": "Zoom CISO: AI as Security Enabler, Not Role-Replacer"
+  },
+  "https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta280e1d9bd26c729/6ae8fcfdb20def7a8ae983ea/school_front-YinYang-GettyImages-157476686.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-03T14:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "3AM Affiliate Embraces AI-Like Loops in European School Attack Evidence suggests a model may have generated and revised commands during the ransom gang's breach, though researchers stopped short of claiming full automation.",
+    "title": "3AM Affiliate Embraces AI-Like Loops in European School Attack"
   },
   "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery": {
     "categories": [],
