@@ -20174,6 +20174,15 @@
     "summary": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\u2026",
     "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades"
   },
+  "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZH3vYLZb9lP7mDLqy2h-upzdComeWIfjDX5siFUO3FM2HlUs03OTwirA1R2uzOZq_clptIVBsoaJNXIuf8LlTbXHFvzBJLRl1l3mqGVesHjgdmD86S_c-k2JY_t56xZqI0bnN6jXRDr92KlMw6X5BHzm5hqogpWflsERi9zrsMHSS_abAcvZMcUGovd8/s1600/claude-code.jpg",
+    "published": "2026-11-07T06:44:17+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.\n\nWhen a user selects \"Ye\u2026",
+    "title": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub"
+  },
   "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtc3HOtWwxZPk7V8yva9o6Oe5lWAPX8KZsWHG27ohycqrb04wAKSDSSdk6ta6y284N9gT6Ab6QKIWwTPss2bBK4PtS3Fm7gSI9QG5kec2AvEgQPjQnc0YlhlUQx0uZKt2ygn576BQ3aburL-IhrMRFVm1vEpTR5ol06R0BtjySvifD05Q_dQGUPvyPLxs/s1600/cpgaurd.png",
@@ -20300,6 +20309,15 @@
     "summary": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KE\u2026",
     "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says"
   },
+  "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHbl1TAGj_ZHZDF3oQ8AfebRDiovg_d8Wk4huY5VJkSa0csE45G7k5jwdG1De-W-7l2RjnyH_ZvT3vcioykVeOooifwvViM8RiuTu0gSt2t-XgOefyYKyM5_zbsI5WFNubkIT0hOUr4inPIQMvXs6GDTLa6j7XWL3etRJYvOcDLJxa3IDXv-KtuCma5JsG/s1600/ssh.jpg",
+    "published": "2026-11-06T15:21:49+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian.\n\nThe vulnerabi\u2026",
+    "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot"
+  },
   "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsAMxBevh2cmz1buKWukyP6JgUHrIPcr9zrJjAs1OwDoP1wMjn_s_WKHeUAdSwVzTImUsDE0C3SLGEpciaLk9H8CGvqiYugQWASsflB1a5zA9Wyr4RbroT3Z3JlOeak1AEinAy7Brf9N0BRDuGFWdZC23nCrOq4VuSMQQuDFYBYC6YCEm2ncPhHOv3KXs/s1600/cwp.jpg",
@@ -20317,6 +20335,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed scrip\u2026",
     "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script"
+  },
+  "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4gwg9bgmxLj_anXtQvOZdeKYWN-aAZxZqlOrI7wXwZ_qW_lUZrzwYufexnbDLcC20eXBkh7TgA-dAQHm6EEmEc80i9A6GOBGkiOb8NhcR1d1CFLKDLc7VJzyC4Bv-5Ye2AEE_ApPcKmAWqJJFfbQ2AOGffKhCPNznyYyz5s0Jro-mxcTxfxPoqRe-ZoY/s1600/wp-update.jpg",
+    "published": "2026-11-06T16:08:38+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it.\n\nThe update that inst\u2026",
+    "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time"
   },
   "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html": {
     "categories": [],
@@ -20389,6 +20416,15 @@
     "source": "The Hacker News",
     "summary": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2\u2026",
     "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run"
+  },
+  "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXR9F1Fu-E50zYby7QnTXAX324GHruNgN0_-95ygoUQV94WlkKSNHt1n8Af8HANmBe6GYgt_1-jGJzGNdg6NnoWY_Jrfbxjyv8mSQzOCa_t7e-e5S8DEB32YavCpthT2pB3jQsFRNJ69bgOgph9qyCBppvb93YSsYSzBM1P9CdeO_rhMcF4LgCj-kQvY2C/s1600/gpt-cyber.jpg",
+    "published": "2026-11-06T14:58:32+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits OpenAI on Thursday unveiled GPT\u20116 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in\u2026",
+    "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits"
   },
   "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html": {
     "categories": [],
@@ -33442,6 +33478,17 @@
     "summary": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
     "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware"
   },
+  "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-06T18:46:52+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Fake security tools on GitHub push backdoors and infostealers Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
+    "title": "Fake security tools on GitHub push backdoors and infostealers"
+  },
   "https://www.bleepingcomputer.com/news/security/fake-solidity-vscode-extension-on-open-vsx-backdoors-developers/": {
     "categories": [
       "Security"
@@ -37655,6 +37702,17 @@
     "source": "BleepingComputer",
     "summary": "Illinois man charged with hacking Snapchat accounts to steal nude photos U.S. prosecutors have charged an Illinois man with orchestrating a phishing operation that allowed him to hack the Snapchat accounts of nearly 600 women to steal private photos and sell them online. [...]",
     "title": "Illinois man charged with hacking Snapchat accounts to steal nude photos"
+  },
+  "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-06T15:00:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
+    "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It"
   },
   "https://www.bleepingcomputer.com/news/security/in-2026-hackers-want-ai-threat-intel-on-vibe-hacking-and-hackgpt/": {
     "categories": [
@@ -42859,6 +42917,18 @@
     "summary": "OpenAI\u2019s GPT-6 Astra silently obstructed safety research tasks OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
     "title": "OpenAI\u2019s GPT-6 Astra silently obstructed safety research tasks"
   },
+  "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-11-06T20:24:19+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel fla\u2026",
+    "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs"
+  },
   "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/": {
     "categories": [
       "Security",
@@ -44267,6 +44337,18 @@
     "summary": "QNAP fixes seven NAS zero-day flaws exploited at Pwn2Own QNAP has fixed seven zero-day vulnerabilities that security researchers exploited to hack QNAP network-attached storage (NAS) devices during the Pwn2Own Ireland 2025 competition. [...]",
     "title": "QNAP fixes seven NAS zero-day flaws exploited at Pwn2Own"
   },
+  "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/": {
+    "categories": [
+      "Security",
+      "Hardware"
+    ],
+    "image": "",
+    "published": "2026-11-06T17:04:23+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "QNAP says hackers breaching NAS devices in Plex2Shell attacks QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+    "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/quantum-route-redirect-phaas-targets-microsoft-365-users-worldwide/": {
     "categories": [
       "Security"
@@ -44895,6 +44977,17 @@
     "source": "BleepingComputer",
     "summary": "Routine Access Is Powering Modern Intrusions, a New Threat Report Finds Modern intrusions increasingly start with valid credentials and routine access, not exploits. Blackpoint Cyber's upcoming threat report shows how VPN abuse, RMM tools, and social engineering drive most incide\u2026",
     "title": "Routine Access Is Powering Modern Intrusions, a New Threat Report Finds"
+  },
+  "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-06T22:27:25+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment an\u2026",
+    "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox"
   },
   "https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/": {
     "categories": [
@@ -45895,6 +45988,17 @@
     "source": "BleepingComputer",
     "summary": "Sonicwall warns of new SMA1000 zero-day exploited in attacks SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges. [...]",
     "title": "Sonicwall warns of new SMA1000 zero-day exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-07T00:00:55+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+    "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/": {
     "categories": [
@@ -48502,6 +48606,18 @@
     "source": "BleepingComputer",
     "summary": "vBulletin fixes critical pre-auth RCE flaw with public exploit A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
     "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit"
+  },
+  "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/": {
+    "categories": [
+      "Security",
+      "Linux"
+    ],
+    "image": "",
+    "published": "2026-11-06T15:25:31+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts \u200bVeeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
+    "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts"
   },
   "https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/": {
     "categories": [
@@ -52246,6 +52362,15 @@
     "summary": "AI Gateways Offer Attackers the Keys to the Kingdom A cryptomining incident highlights how AI gateways can provide access to AI models, cloud infrastructure, and identity and access management (IAM) data.",
     "title": "AI Gateways Offer Attackers the Keys to the Kingdom"
   },
+  "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfb0f3465591962e4/6aee1cd77073b469ffb052f4/archive_-3alexd-Getty-95769788.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-06T18:27:30+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "AI Gave Your Incident Archive a Second Job Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.",
+    "title": "AI Gave Your Incident Archive a Second Job"
+  },
   "https://www.darkreading.com/cyber-risk/ai-generated-workflows-silent-security-disaster": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltca7b936f842a69d1/6a42cdbb63726b86fca0672d/AI_Workflow_da-dunk_Getty.jpg?width=720&quality=80&disable=upscale",
@@ -54960,6 +55085,15 @@
     "summary": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack Researchers and OpenAI disagree on whether the earlier incident involving DseWiki was a \u201chack\u201d that the company did not disclose.",
     "title": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12c8556d05b7b46d/6ace9426639c8743112b0213/peru-bolivia-on-map-hyotographics-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-05T22:13:23+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Opera\u00e7\u00e3o de influ\u00eancia russa tem como alvo generalizado a Am\u00e9rica Latina A opera\u00e7\u00e3o, que contou com o uso de intelig\u00eancia artificial, utilizou e-mails falsos, documentos governamentais falsificados e a cria\u00e7\u00e3o de uma organiza\u00e7\u00e3o local para atacar escolas no Peru e no Equador, ent\u2026",
+    "title": "Opera\u00e7\u00e3o de influ\u00eancia russa tem como alvo generalizado a Am\u00e9rica Latina"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/operation-doppelbrand-weaponizing-fortune-500-brands": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc2448028e821d2b/699286dc2507f00008dd14b7/Phishing_(1800)_Thomas_Bethge_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -57037,6 +57171,15 @@
     "source": "darkreading",
     "summary": "UAE Transitions 50% of Gov't Services to Agentic AI The United Arab Emirates says it's creating a foundation of security and safety as it transforms its public service footprint.",
     "title": "UAE Transitions 50% of Gov't Services to Agentic AI"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt657a1273b2714e2a/6aee1af430222a6f81ad8ea8/ukmap-da-kuk-Getty-1368022904.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-06T21:27:36+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "UK Wades Into Tech Sovereignty Amid AI Policy Changes The UK is betting on domestic AI and cyber investment to reduce reliance on US tech \u2014 but security leaders question whether the funding is too fragmented and too late.",
+    "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes"
   },
   "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk": {
     "categories": [],
