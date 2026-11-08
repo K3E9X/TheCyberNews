@@ -31612,6 +31612,17 @@
     "summary": "Cryptocurrency theft attacks traced to 2022 LastPass breach Blockchain investigation firm TRM Labs says ongoing cryptocurrency thefts have been traced to the 2022 LastPass breach, with attackers draining wallets years after encrypted vaults were\u00a0stolen and laundering the crypto t\u2026",
     "title": "Cryptocurrency theft attacks traced to 2022 LastPass breach"
   },
+  "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-07T14:10:19+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use decep\u2026",
+    "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands"
+  },
   "https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/": {
     "categories": [
       "Security"
@@ -36813,6 +36824,18 @@
     "source": "BleepingComputer",
     "summary": "Hackers poison arrayref Rust crate to push infostealer malware Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
     "title": "Hackers poison arrayref Rust crate to push infostealer malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-11-07T15:25:35+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Hackers pull off $133 million French bank heist via service provider French cooperative bank Cr\u00e9dit Mutuel Ark\u00e9a was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
+    "title": "Hackers pull off $133 million French bank heist via service provider"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/": {
     "categories": [
