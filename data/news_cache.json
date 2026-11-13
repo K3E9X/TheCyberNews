@@ -20057,6 +20057,15 @@
     "summary": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, \u20ac8.6 million ($9.62 million) for illegally relaying \u200bGrindr users' sensitive data to adve\u2026",
     "title": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation"
   },
+  "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirJnc36Fxj4oKOmKhcPvspB_xQpv3VgpXjYnu29SOv8NbVJHeaGNKT26851QIPQbHozxeF5vmq5otdRbJBKEaN9557MtuxLwp5fxX-pQVDVKwvZJtPR9ayT2Njx83svW7TVsVkVpFUOt5JHqhdSkSI7uV0d4dxlf5pWAmHISttTHWjURyOpuuy0CzVCSmK/s1600/lauce.jpg",
+    "published": "2026-11-12T15:15:40+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and \u2026",
+    "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers"
+  },
   "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1-4OiOkGLcK3fAr2HdhALOfc_BqR21440TsjUIuCNzv4YL0lWRC3lvUjE1vu2RdVfjunxi80gMQyGpjvUdWzMRtthW8_-hFOJ79YhFzJrNGgoKDPYXm2OaWOsN8kgBELqOPs5s9QKL4qzQzu_3NEEqHygpfQzKYxDRIQeFgMHj24oyPyaslUemke-loU/s1600/github.jpg",
@@ -20282,6 +20291,15 @@
     "summary": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vuln\u2026",
     "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches"
   },
+  "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDDv_B4B-cVtvwKyLiGQsL804yGC7_xHF7y3yD5_C284fRXBVRAn5Ashy2apgJr-jaoBHRa3ujgXv1jskM53EvP_pFt41CTazYqFT-tQdcukNBeOTzVIpZXVDsdgtup4MJOEdNNZP9SP0FAdIpG1Cnfgo0YgBXzmI_boLV4qSAsVrmYn5wA3GxnPuj21JO/s1600/citrix.jpg",
+    "published": "2026-11-12T15:38:49+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an a\u2026",
+    "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass"
+  },
   "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZH3vYLZb9lP7mDLqy2h-upzdComeWIfjDX5siFUO3FM2HlUs03OTwirA1R2uzOZq_clptIVBsoaJNXIuf8LlTbXHFvzBJLRl1l3mqGVesHjgdmD86S_c-k2JY_t56xZqI0bnN6jXRDr92KlMw6X5BHzm5hqogpWflsERi9zrsMHSS_abAcvZMcUGovd8/s1600/claude-code.jpg",
@@ -20344,6 +20362,15 @@
     "source": "The Hacker News",
     "summary": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. T\u2026",
     "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads"
+  },
+  "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtLHm05FB2LmoHZMLAD5nDmfo_G2tdIqO4URdUwukuooBCVwIJhKC2rUDbDNtsGB8_lwium1MEUD1CxYcix4WMVpCoS58DJivMBSmb9LcIGswQu0nKUNE_sbfH8EsgFfhPrKEgEY7MJHWKyhFqX61ne-AOFKnTNuqIkWez1bec-kq-3Cz8BFbPLrgiV8k/s1600/redhat.jpg",
+    "published": "2026-11-12T16:27:01+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository.\n\nQuay enables anonymous ac\u2026",
+    "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry"
   },
   "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html": {
     "categories": [],
@@ -20516,6 +20543,15 @@
     "summary": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.\n\nThe authentication bypass flaw, which does not ye\u2026",
     "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access"
   },
+  "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA4jxlXpPBPhD5o3IHy80Fn7fSHUtcqH3iXQlU-jDUL5C3zJcf1_Zb-GAYxuW6P6q647p9JAT_opImlj-v-USDNhZ_z83mYC3ISKtN72pe_3XLwf5EyMRuK4OdXCFnYxGMhOAvN_i4UFqk5vJLriRnkbRRwILuT5JUpExx9Tm74sXSCQ0g7jjsOzWV1cqk/s1600/nable-hacks.jpg",
+    "published": "2026-11-13T05:43:28+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2 N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell.\n\n\"We are restricting certain N-central\u2026",
+    "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2"
+  },
   "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkv0B0acGnMDLnCJQYXNCkpzSeKKr_1m4-a10Q2Iy6DZOorGLb35YDD9vw3iQQA9fZTi7QGIZYlSsvTSmxc8w0UbgN_Xtl-QPyTngA9qhOuoryee3Z8X8CZRnHiUAY3wuIXG_UIO1DyDnjnfS5cOilt3WPzRnYYqFDZ1NHbXS0OVAsrVYHSeFuc7zglZw5/s1600/apple-0day.jpg",
@@ -20524,6 +20560,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KE\u2026",
     "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP3B9ZQG1BXlSPUWzwVJ5qgwh899Ngm9u2GAbWiX5HDqhhT6q6gsmva9-TR2upR0fepas2i0k53VUxh1CH21LeUUv1Ipczl9huExytcqNdlqIoHP64CRYJuGyHe-OgLoov-JR6GziUT4JDJ92Ne83CshfWn9pr9Bt2HPKkv4phQJ2esJHcV6eZqzRretVu/s1600/php.jpg",
+    "published": "2026-11-13T08:05:49+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unrepor\u2026",
+    "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files"
   },
   "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html": {
     "categories": [],
@@ -20678,6 +20723,15 @@
     "summary": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2.\n\n\"Ba\u2026",
     "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access"
   },
+  "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-9BW-gpid0fJ4GJSsWoqjYl5qF_EdYchTcxeNjFfMV-MCcvSRTs-rAmiHKNX3M2dr66bJcfUelNR5CR9g-JLKPkMrROsqrM6hf563hIMklj5v08uYDtEp7pdYPcs5Y5TEGxgTWTHDG_Q-L8Tbq12yo57xp0GOlYk8g05nU3peuA_kedIXtggnakiiCGM/s1600/signdrop.jpg",
+    "published": "2026-11-12T17:50:27+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver.\n\nThe proof of concept, called SignDrop, targe\u2026",
+    "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access"
+  },
   "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5V8QVweKn56_SnTCKZkhmOip6paz9noBrJn7znyZqUtFbOEaLuALQUNlmjcSAb7RIUW8GDETB6J0kFpQQe6vq7wAjk3ogxKUeQ0-2rKeO6TveLdqHNs9KnTN6zC6rwPzWE2IBWMokqQOUzAA0XPM2BWHTUTE7_U7XDfUGKTDIC1PYttxHGnAq_Kr_hMq/s1600/hacker-ai.jpg",
@@ -20722,6 +20776,15 @@
     "source": "The Hacker News",
     "summary": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access t\u2026",
     "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux"
+  },
+  "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsu6ZFyYFr1dxp2XHIaG_pyTwkoH58ICgyXLuTthkuYSJVcqAwX_O_bEJYfheyxpYmI7nnok1xrj97q7s-9l8JHFt1ogBAOJAEUqM8_vf6H3a8eYPKzB34d6XrvnkRu8zGaoKMgSJqWsE6u2zYXLdJKTtcDvk3beN6_o40ygJ4MVSMomS3Q1aEFV_jSq8/s1600/gootloader.jpg",
+    "published": "2026-11-13T10:55:03+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwo\u2026",
+    "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins"
   },
   "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html": {
     "categories": [],
@@ -20822,6 +20885,15 @@
     "summary": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day\u2014the vendor rates all four 10.0, the maximum CVSS score.\n\nThree are in the SAP Net\u2026",
     "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution"
   },
+  "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4r5n0I6Rd7yb3jS6hfXTyM5foZU5uEiCD1I2Kgth1qgf_pzohrD9jPeDesEopB6Gjo0VaQZF2XesdqU6W32eFADzI3_xhBF4026h6uGqn6eExdfS_A29SvYA3cdIJkhWmPG-k15_DdsGGcqFfWS-E3cgyKkdEQ3Sxa9gayFkkMXggVJpkeH7DoLNLZxm9/s1600/screen.jpg",
+    "published": "2026-11-12T13:08:28+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it\u2026",
+    "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths"
+  },
   "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEfz7InYm8UO-p35K6B4j009BxA-MO7DdZ2x1d-xhyphenhyphenPxNnVs848IlgAGelmuW-sPbEZbE8-L9_KWEYNH_M5HaTMy14MFd87A7YkqHAzDKaamKOdpZKR9owL3nK3gbqAngvWa6A4NC1KK1l0ie9FK731LfKPI0lguiGQ1b71sHIZj2kR2H3I-GJjSPY4kJU/s1600/screenconnect-hack.jpg",
@@ -20848,6 +20920,15 @@
     "source": "The Hacker News",
     "summary": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.\n\nThe attacker could also have seen re\u2026",
     "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users"
+  },
+  "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjskRPNlV_kYE1N2eF2J_J0fBvF_nQxnvtaS78Grj04KqkEauvr-R5jO-ynD9nm51SgF2XtCCAsWUbJrHU0wGRnXC9yHmblhNCF8Jt9NdVahMju3voR2z9xb2uqoSi7Nc085UqDBelqg4XDRdjJ2lsF7EeN28rjq7oBc_NpBUWRqLWXiOh9FBRIH28teHM/s1600/telecom-hack.jpg",
+    "published": "2026-11-13T11:10:40+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan.\n\nEnea, a telecom and cybersecu\u2026",
+    "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users"
   },
   "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html": {
     "categories": [],
@@ -20893,6 +20974,15 @@
     "source": "The Hacker News",
     "summary": "The Flood is Coming And The Pipes Were Already Full An update on Athena, and some unsolicited predictions on what's coming next\n\nOn Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these\u2026",
     "title": "The Flood is Coming And The Pipes Were Already Full"
+  },
+  "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpHFMwpmKB3Mn6eMpEHMAX_8gqnyi4xwTCuYj7NTrCcTMWAsSZtaUsHYUa1kvi3jQf92A5pR_Qz7kzgTarHmo6q6YsXVeVSJEkkx0JkioCXa6GbKJzG9eZz0dkotf9QEpdcRMy94hoYhGfIoEk7pPOFUSgTY5ciU7_wkSOJc7kgXcS1GS3qGC-Ql7kMrks/s1600/thd.jpg",
+    "published": "2026-11-12T18:02:51+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising \u2026",
+    "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories"
   },
   "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html": {
     "categories": [],
@@ -20956,6 +21046,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant \u2026",
     "title": "\u26a1 Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More"
+  },
+  "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXkpxeEuWVGmGvK8wGnGdzjVbMHRyNOYd3GFjgzJZZN7TL2yyLt5Jof4gsujMYS9WfZnxUjFFs3mxFaejShy46vuXK38l_5R3RvospJ6J8IunrLPSDnI0sJgGtvNiNkc89XMR_KDDHWEOxAk800C2fKhwiOLMy433M3ASErPk_jMwoexS_5-1kpdJ8emE/s1600/Keeper.jpg",
+    "published": "2026-11-13T11:52:31+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "When an AI Agent Goes Wrong, Can You Stop It? Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity h\u2026",
+    "title": "When an AI Agent Goes Wrong, Can You Stop It?"
   },
   "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html": {
     "categories": [],
@@ -22841,6 +22940,17 @@
     "summary": "Microsoft: October Windows update may break Smart App Control Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
     "title": "Microsoft: October Windows update may break Smart App Control"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-11-12T20:15:16+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+    "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/": {
     "categories": [
       "Microsoft"
@@ -23283,6 +23393,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft confirms Teams is down and messages are delayed Microsoft Teams is experiencing issues, with thousands reporting problems sending messages, including delays. [...]",
     "title": "Microsoft confirms Teams is down and messages are delayed"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-11-13T09:36:18+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft confirms Windows activation failures after November updates Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
+    "title": "Microsoft confirms Windows activation failures after November updates"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-is-rolling-out-gpt-52-as-smart-plus-mode/": {
     "categories": [
@@ -25063,6 +25184,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft says new Outlook can't open some Excel attachments \u200bMicrosoft is working to resolve a known issue that prevents some users from opening Excel email attachments in the new Outlook client. [...]",
     "title": "Microsoft says new Outlook can't open some Excel attachments"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-11-13T12:27:40+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft says November security updates cause printing issues Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
+    "title": "Microsoft says November security updates cause printing issues"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/": {
     "categories": [
@@ -27766,6 +27898,17 @@
     "summary": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [..\u2026",
     "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak"
   },
+  "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-12T19:12:55+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
+    "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw"
+  },
   "https://www.bleepingcomputer.com/news/security/apache-openoffice-disputes-data-breach-claims-by-ransomware-gang/": {
     "categories": [
       "Security"
@@ -29147,6 +29290,17 @@
     "source": "BleepingComputer",
     "summary": "Check Point warns of SmartConsole zero-day exploited in attacks Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel. [...]",
     "title": "Check Point warns of SmartConsole zero-day exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-13T10:44:22+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Check Point warns of zero-day flaw exploited for root access Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since\u00a0late October. [...]",
+    "title": "Check Point warns of zero-day flaw exploited for root access"
   },
   "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/": {
     "categories": [
@@ -36830,6 +36984,17 @@
     "summary": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and\u00a0Russia. [...]",
     "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign"
   },
+  "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-12T22:25:30+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
+    "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials"
+  },
   "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/": {
     "categories": [
       "Security"
@@ -38070,6 +38235,17 @@
     "source": "BleepingComputer",
     "summary": "How MSPs can catch phishing attacks email filters miss AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks tha\u2026",
     "title": "How MSPs can catch phishing attacks email filters miss"
+  },
+  "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-13T15:01:11+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "How one AI agent exposed five critical enterprise security gaps An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical\u2026",
+    "title": "How one AI agent exposed five critical enterprise security gaps"
   },
   "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/": {
     "categories": [
@@ -42398,6 +42574,17 @@
     "summary": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or Edge browsers. [...]",
     "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic"
   },
+  "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-12T19:51:16+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least \u2026",
+    "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released"
+  },
   "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/": {
     "categories": [
       "Security"
@@ -42907,6 +43094,29 @@
     "source": "BleepingComputer",
     "summary": "New Windows LegacyHive zero-day gives hackers admin privileges A security researcher using the \"Nightmare Eclipse\" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
     "title": "New Windows LegacyHive zero-day gives hackers admin privileges"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-11-12T16:04:00+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New Windows SignDrop zero-day gives hackers SYSTEM privileges Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
+    "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-12T22:53:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' compu\u2026",
+    "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks"
   },
   "https://www.bleepingcomputer.com/news/security/new-wrthug-campaign-hijacks-thousands-of-end-of-life-asus-routers/": {
     "categories": [
@@ -44573,6 +44783,17 @@
     "source": "BleepingComputer",
     "summary": "Poland's nuclear research centre targeted by cyberattack Poland's National Centre for Nuclear Research (NCBJ) says hackers targeted its IT infrastructure, but the attack was detected and blocked before causing any impact. [...]",
     "title": "Poland's nuclear research centre targeted by cyberattack"
+  },
+  "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-13T08:34:20+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Police arrest 354 suspects in dark web cybercrime crackdown Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
+    "title": "Police arrest 354 suspects in dark web cybercrime crackdown"
   },
   "https://www.bleepingcomputer.com/news/security/police-arrest-seller-of-jokerotp-mfa-passcode-capturing-tool/": {
     "categories": [
@@ -57173,6 +57394,15 @@
     "summary": "Asia's Cyber Insurance Market Shows Signs of Life The cyber insurance industry has made relatively weak inroads into Asia due to a a variety of factors, but that could be changing.",
     "title": "Asia's Cyber Insurance Market Shows Signs of Life"
   },
+  "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c2322c93d29d2a7/6aed04e63037c1017f2823d8/binance-logo-on-black-bkgrd-Zulfugar_Graphics-shutterstockjpg.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-13T13:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise.",
+    "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls"
+  },
   "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1644f040bd4e95e/6ac6a02424b6126216f8e422/Australia_NSW_parliament-Adrian_Wojcik-Getty.jpg?width=720&quality=80&disable=upscale",
@@ -57411,6 +57641,15 @@
     "summary": "Cribl Adds Agentic Detection Engineering &amp; Boosts SecOps With CardinalOps Deal CardinalOps will give Cribl customers the ability to map detection rules and security controls to the MITRE ATT&amp;CK framework. SecOps teams can identify coverage gaps and operationalize threat i\u2026",
     "title": "Cribl Adds Agentic Detection Engineering &amp; Boosts SecOps With CardinalOps Deal"
   },
+  "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt131056a0513594b5/6af623f4a8a90fde9d0b34ee/Artex-ShaunWilkinson-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-12T21:18:52+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Cyber Experts Weigh In: How to Fight Artex &amp; AntiFox Cybercriminals using agentic pen-testing tools is a proverbial genie out of the bottle at this point, so enterprises need to get a defense plan in place right away.",
+    "title": "Cyber Experts Weigh In: How to Fight Artex &amp; AntiFox"
+  },
   "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc4e8be3c10aa2950/6acd23ee26d33c046ebc6ef9/resilience-hogehoge511-Getty-2296989476.jpg?width=720&quality=80&disable=upscale",
@@ -57625,6 +57864,15 @@
     "source": "darkreading",
     "summary": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit Authorities seized more than 100 servers and arrested seven as part of a crackdown on a fraud network spanning more than 50 countries.",
     "title": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3f96ce16a435deca/6a3d55be62f12d27e415ed3c/quantum_computer-Peter_Hansen-getty-2214879776.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-12T22:46:05+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Getting Past the Post-Quantum Cryptography Discovery Phase Most organizations haven't sorted out their cryptographic estate enough to even know where they'd start with post-quantum cryptography (PQC).",
+    "title": "Getting Past the Post-Quantum Cryptography Discovery Phase"
   },
   "https://www.darkreading.com/cybersecurity-operations/hand-cve-over-to-private-sector": {
     "categories": [],
@@ -58406,6 +58654,15 @@
     "source": "darkreading",
     "summary": "EU Financial Institutions Leak Data Through Cookie Trackers European and US banks inadvertently transmitted customer data to ad platforms via tracking pixels, raising serious compliance, security, and privacy concerns.",
     "title": "EU Financial Institutions Leak Data Through Cookie Trackers"
+  },
+  "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd72cfa843f157710/6af61e08fa93fcee56324598/black_and_white_moth-powerofforever-GettyImages-1920014051.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-12T20:09:41+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Extortion Group Luna Moth Flits Into Law Firms a Second Time The cybercriminals are retargeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens.",
+    "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time"
   },
   "https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough": {
     "categories": [],
