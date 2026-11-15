@@ -20660,6 +20660,15 @@
     "summary": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than\u2026",
     "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy"
   },
+  "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdTCjpbsG3Dp62JM1KZqfSvZpuBnxwaCxXsplW3dAt2b4Ym0KAWPfxkHf4DT-02VK3jJESLmgasdE6D36qGegWu7dk9YSLN4DZxRVsgrM9lIEXXHUvQ0VzaZ1_gFqpjtA4cP3rlt82g5WnK2sXNZHJd5F_rEk4VSTGnMKOuXziSM1R85Vqhway3lajwTA/s1600/facebook-fine.jpg",
+    "published": "2026-11-15T11:27:31+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Italy Fines Meta \u20ac805 Million Over Facebook's Android Gallery Access Without Explicit Consent Meta was fined \u20ac805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post.\n\nThe Garante, Italy's dat\u2026",
+    "title": "Italy Fines Meta \u20ac805 Million Over Facebook's Android Gallery Access Without Explicit Consent"
+  },
   "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPZfiSS8v6cUfSW1R2sbPNNfjluB-GvnXCxcAW_G6pKRNzYU2Be89Qyu9Zx0mnY7voaGpLXFtsajKS9tqYp74Qo05wPzzELg9ZpbVcoWa5l9AKhf4SmmNbnIvjOUrm4LsB9V-tGBxU-V0NxHzAoV2Cnlz6tHlcPewPh2ir8ipqn6Kj-phVDm5zraXs9ss/s1600/crypto-bits.jpg",
@@ -20974,6 +20983,15 @@
     "source": "The Hacker News",
     "summary": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched.\n\nDetails of the security flaws, which affect SonicWall GM\u2026",
     "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records"
+  },
+  "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg16ACawbG7rP_kT-8Boo4xdTje3BeTWyFSnNXwHhr5cvy2-1X3Ljhrc1IuZlseWd55tN8E1yjQ9ldhTnjWTU-GJBpX_Zen36YiLQGsRSRAoteqHyxx7mn_w0QgLfMKDLItA4p_jpHajucbglLnCR_zWBY_t82YvFkLa9dQFBfjP1BrTlrNdYufsGMSZiGn/s1600/cursor.jpg",
+    "published": "2026-11-15T08:22:04+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fire\u2026",
+    "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident"
   },
   "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html": {
     "categories": [],
@@ -32470,6 +32488,18 @@
     "source": "BleepingComputer",
     "summary": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findin\u2026",
     "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes"
+  },
+  "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-11-14T17:27:25+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Cursor confirms security breach led to malicious Claude Code extension Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [..\u2026",
+    "title": "Cursor confirms security breach led to malicious Claude Code extension"
   },
   "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/": {
     "categories": [
@@ -49495,6 +49525,19 @@
     "source": "BleepingComputer",
     "summary": "US cybersecurity experts plead guilty to BlackCat ransomware attacks Two former employees of cybersecurity incident response companies Sygnia and DigitalMint have pleaded guilty to targeting U.S. companies in BlackCat (ALPHV) ransomware attacks in 2023. [...]",
     "title": "US cybersecurity experts plead guilty to BlackCat ransomware attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency",
+      "Legal"
+    ],
+    "image": "",
+    "published": "2026-11-14T15:15:49+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "US disrupts North Korean campaign behind $400 million crypto theft The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
+    "title": "US disrupts North Korean campaign behind $400 million crypto theft"
   },
   "https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/": {
     "categories": [
