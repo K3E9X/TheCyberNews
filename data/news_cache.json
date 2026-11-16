@@ -20084,6 +20084,15 @@
     "summary": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026 October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, t\u2026",
     "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026"
   },
+  "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigoyCtEKcD7TM_5vDkKiZYFdk_l4-js7HNuvMXzZbVqUbEgq1nnD2vEZgZ0kL9CdmOkITC0Rbd-ebTkSX-R4NPKwWZXzUD6zS0g9nEfnlXw3njm3oW2Se97qbT7lIfZEL56X3IIaZAildTni9-zQJu5sa4Lhvi_mVlbTeZFyFtezOMHJ_bDhJWfG7KQ8eh/s1600/amazon.jpg",
+    "published": "2026-11-16T07:34:21+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own re\u2026",
+    "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys"
+  },
   "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgogipF_6VgFSzsnZ_UFUM5FfzGyk1MOv5SRi3PSivRHjxs6IsO0fmOdDjQsDJHiKcnxJ8T89NMMYiqo_NEEtv0EoQsafjOFuZ-Te6famJBJKegqDnf1b63Hdzkls7IO1JOtSNjb5Hatb4Ny8Zu46mggCXYKvHf3Ne9Qc4ZRfLBmLnZ7omPEHAjDfJRQEKu/s1600/fable.jpg",
@@ -20227,6 +20236,15 @@
     "source": "The Hacker News",
     "summary": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a prev\u2026",
     "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia"
+  },
+  "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAvzoKykaMIpa6xx92YudipfUoEQnSkrE6p2CiWEVra5izr5GfuNQGOnfRuF0XV99v1IPRFe2Q6BF27UEq3BnWFS5onw97dt3hvszilQDANdtRdYi0_hTDOrKQvuwGn1mY_m-QTabV3jwWCNwXs_OizK2GLF3Eks5HJj5I7kbmA2IztruSBVjq5WOcxEM-/s1600/log4shell.jpg",
+    "published": "2026-11-16T06:53:34+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signin\u2026",
+    "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server"
   },
   "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html": {
     "categories": [],
@@ -20894,6 +20912,15 @@
     "summary": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a th\u2026",
     "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit"
   },
+  "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxRuwbdQU-KyBsSrFlIZp4oczr_tJu53WrfB3nM6QYrO7kFgGAZO1NMSi7mziUOUaTrzq5C4KzCJqvYOf0Ry19ypJac-9mBYzYiqiTNl462i1uYo7DF9aAHxiVU_IOaByH3NtNlrF0hUhZtpItADKJauPVzWrz8r6YOQEHQrt_YiAmPba4CIOsSjZA2Wy_/s1600/hacker-code.jpg",
+    "published": "2026-11-16T12:33:18+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines.\n\n\"On launch, the NSIS-based installer executabl\u2026",
+    "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware"
+  },
   "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqyPfrBB7GYTnYsvVj2TxCv0pPwFh_PkVpdQcxuspKgQfbsX1p2kDSdokIyPqLsxSfBCkFPiTATfZxZRbouqkoqfEESL7CgA-MyXD61eQFluiQtdFZDyXQc_3EUAg71JWIHxq9MPVLrwwegvUVuiViE8AxsKH6iBVypWazO0wmCoaC3-D1Ih9Yw3vwN1FJ/s1600/russia-hackers.jpg",
@@ -20920,6 +20947,15 @@
     "source": "The Hacker News",
     "summary": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' \u2026",
     "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers"
+  },
+  "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmpR04waLSDZNCb2048kfy5iSlIXa_Ek3PI5qLRaBksxvyI9k_8Z6bwl6Og4Mc-AGqmHcpL7YlYVd48895FJtKlOoaqgi658-H3FZTxdjf_w32w5eJYzm_BUdXlH7M7Vb40uPUI73CDbXtQCdZAEkFruSBXvc0_B84hCQ-em0ZQk2uTIIHxRdGCxQ6bx1C/s1600/nv.jpg",
+    "published": "2026-11-16T09:32:57+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU wor\u2026",
+    "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity"
   },
   "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html": {
     "categories": [],
@@ -20974,6 +21010,15 @@
     "source": "The Hacker News",
     "summary": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan.\n\nEnea, a telecom and cybersecu\u2026",
     "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users"
+  },
+  "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_1GngZ38pRRizZTrhUgdWx49U1Dk8N_Y1Wkfll2kXIjAeYMmX2R69d6OBvA9k-zb6rnYbNOZyouN9yj59QIlT8XxiTzmmhLTmwmEdU2bqiGc_XoSMlvKKN1qZtH3o73YN1miGEhR4vkDniji2WkWOHjSPPIn69ysWKPkFzr504FsViG2NQYxPDkD7sgw/s1600/flaws.jpg",
+    "published": "2026-11-16T12:34:21+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier thi\u2026",
+    "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login"
   },
   "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html": {
     "categories": [],
@@ -21456,6 +21501,18 @@
     "source": "BleepingComputer",
     "summary": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...]",
     "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-16T11:00:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Anthropic\u2019s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting \u2026",
+    "title": "Anthropic\u2019s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/": {
     "categories": [
@@ -22898,6 +22955,18 @@
     "source": "BleepingComputer",
     "summary": "New Januscape Linux flaw allows VM escape on Intel, AMD devices A 16-year-old Linux kernel vulnerability, dubbed Januscape, allows attackers to escape a virtual machine and execute arbitrary code on the host. [...]",
     "title": "New Januscape Linux flaw allows VM escape on Intel, AMD devices"
+  },
+  "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/": {
+    "categories": [
+      "Linux",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-16T09:30:04+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "New NoisyTCP vulnerability lets attackers crash Linux servers An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
+    "title": "New NoisyTCP vulnerability lets attackers crash Linux servers"
   },
   "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/": {
     "categories": [
@@ -24451,6 +24520,17 @@
     "summary": "Microsoft: New Remote Desktop warnings may display incorrectly Microsoft has confirmed a new issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
     "title": "Microsoft: New Remote Desktop warnings may display incorrectly"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-11-16T08:26:52+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft pushes Windows emergency updates to fix activation failures Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
+    "title": "Microsoft pushes Windows emergency updates to fix activation failures"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/": {
     "categories": [
       "Microsoft",
@@ -25248,6 +25328,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft says KB5120998 Windows update resets desktop settings Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
     "title": "Microsoft says KB5120998 Windows update resets desktop settings"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-11-16T16:43:24+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft says months-old bug caused global Microsoft 365 outage Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
+    "title": "Microsoft says months-old bug caused global Microsoft 365 outage"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-new-outlook-cant-open-some-excel-attachments/": {
     "categories": [
@@ -26075,6 +26166,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft: Windows KB5124010 update crashes some games and apps Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [...]",
     "title": "Microsoft: Windows KB5124010 update crashes some games and apps"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-11-16T12:53:18+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft: Windows Server 2016 reaches end of support in 60 days Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
+    "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/": {
     "categories": [
@@ -27092,6 +27194,17 @@
     "source": "BleepingComputer",
     "summary": "7-Eleven data breach exposes personal information of 185,000 people The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach notification service Ha\u2026",
     "title": "7-Eleven data breach exposes personal information of 185,000 people"
+  },
+  "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-16T15:01:11+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "7 Tips For Complying with CJIS Password and MFA Requirements The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps t\u2026",
+    "title": "7 Tips For Complying with CJIS Password and MFA Requirements"
   },
   "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/": {
     "categories": [
@@ -28418,6 +28531,17 @@
     "source": "BleepingComputer",
     "summary": "Australian energy provider Origin says data breach exposes client data Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]",
     "title": "Australian energy provider Origin says data breach exposes client data"
+  },
+  "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-16T11:18:09+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Australian retail giant Coles investigates cybersecurity incident Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
+    "title": "Australian retail giant Coles investigates cybersecurity incident"
   },
   "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/": {
     "categories": [
@@ -34378,6 +34502,17 @@
     "summary": "FakeGit malware campaign returns with 17,610 malicious GitHub repos More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
     "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos"
   },
+  "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-16T15:44:21+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Fandango says hackers stole payment card details from checkout pages Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
+    "title": "Fandango says hackers stole payment card details from checkout pages"
+  },
   "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/": {
     "categories": [
       "Security",
@@ -34704,6 +34839,17 @@
     "source": "BleepingComputer",
     "summary": "FBI warns against using Chinese mobile apps due to privacy risks The U.S. Federal Bureau of Investigation (FBI) warned Americans against using foreign-developed mobile applications, particularly those created by Chinese developers. [...]",
     "title": "FBI warns against using Chinese mobile apps due to privacy risks"
+  },
+  "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-15T18:29:53+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "FBI warns ARTEX AI hacking tool is powering global cyberattacks The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that com\u2026",
+    "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks"
   },
   "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/": {
     "categories": [
@@ -36490,6 +36636,18 @@
     "source": "BleepingComputer",
     "summary": "Google warns of new Chrome zero-day flaw exploited in attacks Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
     "title": "Google warns of new Chrome zero-day flaw exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-11-16T14:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Google warns that fully-automated AI attacks are coming soon Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+    "title": "Google warns that fully-automated AI attacks are coming soon"
   },
   "https://www.bleepingcomputer.com/news/security/gootloader-malware-is-back-with-new-tricks-after-7-month-break/": {
     "categories": [
@@ -48698,6 +48856,17 @@
     "source": "BleepingComputer",
     "summary": "Trust Wallet says 2,596 wallets drained in $7 million crypto theft attack Trust Wallet says attackers who compromised its browser extension right before Christmas have drained approximately $7 million from nearly 3,000 cryptocurrency wallet addresses. [...]",
     "title": "Trust Wallet says 2,596 wallets drained in $7 million crypto theft attack"
+  },
+  "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-15T15:23:48+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "TSMC employee data breach linked to cloud provider Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
+    "title": "TSMC employee data breach linked to cloud provider"
   },
   "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/": {
     "categories": [
