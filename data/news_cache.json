@@ -20120,6 +20120,15 @@
     "summary": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw th\u2026",
     "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities"
   },
+  "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpfVz_pnzHGcrDTsga77xG6yDhi_sMihXsGCjULyapjweerWHdHByPuWqWYmWQsDAAV37EfmctWtSZgYCHJ-2FMGEE6K94YRDVFjHVO0i1jZxn-TIewKbDqIn3y-pNMH7pqJ9SA1X2Sk_r_vn_SfRdxbPB2kH9-hHkNrigumGuQKXaA6xlHqCdWu4ZDAFH/s1600/apple-macos.jpg",
+    "published": "2026-11-17T11:07:31+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents.\n\nThe changes, \u2026",
+    "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks"
+  },
   "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCN85K3W5zv5BioRQjCRpIAYT4K8MjZxx0bP0wNETp_eeBQ8Rj_iScHZ0PVnak7dJnJB_tZs06nxCn3YB70aQrULSZVbcn_gLqAsRoN08bSj__9UGZ38PzHTeSqe1IdqZEvdY8fogrjg3xPvg4Kohb2lFGdIveD4jIZQYKugtN5dIc0nTDjlVZJeQBzASx/s1600/icloud.jpg",
@@ -20336,6 +20345,15 @@
     "summary": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.\n\nWhen a user selects \"Ye\u2026",
     "title": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub"
   },
+  "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjErwt0frcFKiESffCoP1OtYh0j23goqdMN0nz-RT02biCz30WlLG4PD5gTyGgbumOWB3Zh1PJfENQoRtOwQVm3Nbg8VsiRhvNk662qVFNGqO8DQ4bFrroSzWgsvfCYGLWFzD1A-f6fcTu_E_dm4o1iUJz96scWy7skw49vzD9hfIfVEILTVPKsvbsEpGca/s1600/screenconnect-flaws.jpg",
+    "published": "2026-11-17T06:29:27+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is r\u2026",
+    "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems"
+  },
   "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtc3HOtWwxZPk7V8yva9o6Oe5lWAPX8KZsWHG27ohycqrb04wAKSDSSdk6ta6y284N9gT6Ab6QKIWwTPss2bBK4PtS3Fm7gSI9QG5kec2AvEgQPjQnc0YlhlUQx0uZKt2ygn576BQ3aburL-IhrMRFVm1vEpTR5ol06R0BtjySvifD05Q_dQGUPvyPLxs/s1600/cpgaurd.png",
@@ -20516,6 +20534,15 @@
     "summary": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google.\n\nGoogle says&nbsp;it is highly confident \u2026",
     "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access"
   },
+  "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpEBmKLWFpEn8sSoJLtj1ZR7FPMd8GxxKN2v4IzyBkydma_g4gXzaWEEkK5CTPwidrBPw6QPdoByiEC14ufVP2pvezWKtH_dmqHttARDKzDOopkw0vzUdTYZubCh9Qy76nlmVSbhtTSvDOuT1c70E4TVPw8T4hUhMdR-saHjQPW1S9IZNmg2_RfsMsmJLb/s1600/google.jpg",
+    "published": "2026-11-16T14:00:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTE\u2026",
+    "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches"
+  },
   "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjk5S9J891bQS8W6TgyoiEPQ7geGia8FqqWjckFlo9qMH2wXIXv-7gyod1XKUpI9BfgcliN2Re8A85rJ121jxqgfnw1LsjYBvAYtX7694GVgMF7B94G0n5MzqMaKqLAbr-No1nqrN0gyF8MFR_bYQIYlqiTh_FzobmWrq4NOCLbcW_78uEMMW5FE4eqJoo/s1600/chrome-0day.jpg",
@@ -20624,6 +20651,15 @@
     "summary": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian.\n\nThe vulnerabi\u2026",
     "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot"
   },
+  "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYUhfLA6wixTr6AiVmOSa8uxO2mHxPqG7rHalDaUtYlOaTwUSIzi3JAP78cfEUhwwaoijNe8vJ0ZFiBqDmfrG9LVOzItxMxCYcTCbEc4f7W8iWgKSvzR6DrT0XtK_cM4eTKQ2Edvz-QG5P8iXF_GV_-k6CXMN_-D_QAJags-LpeuXmJ5C6DDz7mDRSBMY/s1600/git-actions.jpg",
+    "published": "2026-11-17T12:25:06+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around \u2026",
+    "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap"
+  },
   "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsAMxBevh2cmz1buKWukyP6JgUHrIPcr9zrJjAs1OwDoP1wMjn_s_WKHeUAdSwVzTImUsDE0C3SLGEpciaLk9H8CGvqiYugQWASsflB1a5zA9Wyr4RbroT3Z3JlOeak1AEinAy7Brf9N0BRDuGFWdZC23nCrOq4VuSMQQuDFYBYC6YCEm2ncPhHOv3KXs/s1600/cwp.jpg",
@@ -20650,6 +20686,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026.\n\nCynet's CyOps and Res\u2026",
     "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits"
+  },
+  "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCKDXT71QJSnAqaPKmcBticVRjN0Q1diDWoOGKhoZ-wL5WIgLAPHX6dmetOkddYjLcZGIfxDAfLLN1LwbOV4zHqzONN7i8cIyMJLR-rc2t6LF7MnTzJAAoN54aIPEYoWPBf01znenuq43oDLwcVksxZbvP5xPnFsC-G-sDSjpzDegalBNU87YIe7z0YcI/s1600/Optimizely-hacked.jpg",
+    "published": "2026-11-17T07:12:13+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early t\u2026",
+    "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors"
   },
   "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html": {
     "categories": [],
@@ -20741,6 +20786,15 @@
     "summary": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentica\u2026",
     "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity"
   },
+  "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Tz3JQedMRmE0NpjmQ9KXm4AlgJ2GfBbA8pbKm3UARfJrN_vRlTywt0Zg80C-fM4hmacqlZTHV_wh0E-yoga-UjcSvpt2FHczR2AtGze3mvk0fmqeET4vvee-4f_RJEMIF-HL79HkXg_GD2Lg-U8jAPPJaPaqYDJmKTsJHn7GO0lS84zEU5SFQWll-qwv/s1600/nn.jpg",
+    "published": "2026-11-17T05:00:34+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners N-able has released a new security update to address additional critical security flaws impacting N-central.\n\nDescribing N-central 2026.4 Hotfix 3 as a critical security update, the compan\u2026",
+    "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners"
+  },
   "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-DkzHcZpJVVEU3e3wmGB2DiyRsnWXkf_2bfT1fiDJG4Wn92cartbhyphenhyphenqZHOjXGasigHqJAyXM0kjOlYipgEkahrCi9KGa1s8gpINVT-oFldgOc1bZMUQ-nmFqsSMNwIe6463fXOxSqX1dNroXgwn9MwsmCx41jvPdtdygITxfKyTRDUWKS19YVTFTZY8sr/s1600/n-able.jpg",
@@ -20758,6 +20812,15 @@
     "source": "The Hacker News",
     "summary": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia.\n\nThe activity, detailed by Kasp\u2026",
     "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection"
+  },
+  "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhGYnRRqAfAZ2q0dS56dC5lC86Kx69VT0moHy1Pxt67C0ic8RbLOL9LR68b4atQmvb7O6Gq3Btm1axv2aCRaNkhagPKbFHvThWlye3QPpK1xnEj4kovoJn8dsbTlCmAjXOIb8EHV3RJuhNQdVNKRxc4uwiuIfws_a63koiBaCQvs5jwbnTFG8EUwuA0RiA/s1600/git-share.jpg",
+    "published": "2026-11-17T11:20:18+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsof\u2026",
+    "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels"
   },
   "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html": {
     "categories": [],
@@ -20902,6 +20965,15 @@
     "source": "The Hacker News",
     "summary": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.\n\nLockdown Mode was introduced by th\u2026",
     "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction"
+  },
+  "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoRknesoqi26EwwYMrgBhBudDMiej0sO7-228OvrBIj2ivaPcOUo7GJgoIHAd9fI_VFlK4su0xn1L_BqUgFsldNJgAkQwE4wAvAZzUao-wHUHSoq8NQUo_UdyILYYFoshEgONLhibaGHRQ_cKFVo0Psl1kehyphenhyphenNjlCrkECk16huiU6WecKlpBr0YDN3nus/s1600/iphone-recording.jpg",
+    "published": "2026-11-17T12:14:36+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt.\n\nThe first security updates wit\u2026",
+    "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission"
   },
   "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html": {
     "categories": [],
@@ -21145,6 +21217,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about.\u2026",
     "title": "\u26a1 Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More"
+  },
+  "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMhM3PBYlJasSU7OztYuQsJDnDRFYwqV1-X9Nt1mTlAhFe0YQXSr0XrdCfo47u2DGAE8qSNw32LuPlMxoeTOBjakeXiHpHjFSXw7rsy8FdCldY2E6MuX9uKGM2McoGsaXUGDY2MYBsRAGXUDMGqzkT4wWlEezGDQho_f7d6MYNG2HAeW9FKeldRJrh0kj3/s1600/recaps.jpg",
+    "published": "2026-11-16T13:27:20+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things m\u2026",
+    "title": "\u26a1 Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days"
   },
   "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html": {
     "categories": [],
@@ -22757,6 +22838,18 @@
     "source": "BleepingComputer",
     "summary": "Google will finally allow you to change your @gmail.com address Google will finally allow you to change your @gmail address or create a new alias, according to a new support document. [...]",
     "title": "Google will finally allow you to change your @gmail.com address"
+  },
+  "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/": {
+    "categories": [
+      "Hardware",
+      "Linux"
+    ],
+    "image": "",
+    "published": "2026-11-17T16:00:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Flipper Devices launches $399 \u2018Flipper One\u2019 Linux-based multi-tool Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
+    "title": "Flipper Devices launches $399 \u2018Flipper One\u2019 Linux-based multi-tool"
   },
   "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/": {
     "categories": [
@@ -25774,6 +25867,18 @@
     "summary": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel. [...]",
     "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-17T11:19:51+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft testing Remote Lock for lost or stolen Windows devices Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
+    "title": "Microsoft testing Remote Lock for lost or stolen Windows devices"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/": {
     "categories": [
       "Microsoft",
@@ -27731,6 +27836,17 @@
     "summary": "Alabama man pleads guilty to hacking, extorting hundreds of women A 22-year-old Alabama man pleaded guilty to extortion, cyberstalking, and computer fraud charges after hijacking the social media accounts of hundreds of young women (including minors). [...]",
     "title": "Alabama man pleads guilty to hacking, extorting hundreds of women"
   },
+  "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-17T07:25:44+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Ransomware affiliate suspect extradited to US, faces 27 years in prison A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
+    "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison"
+  },
   "https://www.bleepingcomputer.com/news/security/alleged-meduza-stealer-malware-admins-arrested-after-hacking-russian-org/": {
     "categories": [
       "Security"
@@ -28699,6 +28815,18 @@
     "summary": "BambooToken malware controls Windows and Linux systems via MQTT A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]",
     "title": "BambooToken malware controls Windows and Linux systems via MQTT"
   },
+  "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-11-16T19:57:13+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Barracuda links cloud breach to ARTEX AI-powered cyberattack Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
+    "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack"
+  },
   "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/": {
     "categories": [
       "Security"
@@ -29211,6 +29339,18 @@
     "source": "BleepingComputer",
     "summary": "California man admits to laundering crypto stolen in $230M heist A 45-year-old from Irvine, California, has pleaded guilty to laundering at least $25 million stolen in a massive $230 million cryptocurrency heist. [...]",
     "title": "California man admits to laundering crypto stolen in $230M heist"
+  },
+  "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-11-16T20:59:44+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "California sues OpenAI over AI agents escaping sandboxes, hacking firms California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous\u2026",
+    "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms"
   },
   "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/": {
     "categories": [
@@ -31885,6 +32025,18 @@
     "source": "BleepingComputer",
     "summary": "Coupang to split $1.17 billion among 33.7 million data breach victims Coupang, the largest retailer in South Korea, announced $1.17 billion (1.685 trillion Won) total compensation\u00a0for the 33.7 million customers whose information was exposed in the data breach discovered last mont\u2026",
     "title": "Coupang to split $1.17 billion among 33.7 million data breach victims"
+  },
+  "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-11-17T09:44:22+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Court clears brothers of $25 million Ethereum crypto heist charges US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
+    "title": "Court clears brothers of $25 million Ethereum crypto heist charges"
   },
   "https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/": {
     "categories": [
@@ -35698,6 +35850,17 @@
     "summary": "Funnel Builder WordPress plugin bug exploited to steal credit cards A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
     "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards"
   },
+  "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-16T22:54:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Gemini AI agents repeatedly bypassed safeguards to attack real website Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent th\u2026",
+    "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website"
+  },
   "https://www.bleepingcomputer.com/news/security/gemini-ai-assistant-tricked-into-leaking-google-calendar-data/": {
     "categories": [
       "Security",
@@ -36544,6 +36707,17 @@
     "source": "BleepingComputer",
     "summary": "Google warns of new Chrome zero-day bug exploited in attacks Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]",
     "title": "Google warns of new Chrome zero-day bug exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-16T21:31:44+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Google Project Zero cuts bug disclosures to 30 days amid AI threats Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
+    "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats"
   },
   "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/": {
     "categories": [
@@ -39055,6 +39229,17 @@
     "source": "BleepingComputer",
     "summary": "Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process Fraud operations now operate like call centers, complete with hiring, training, and performance tracking. Flare reveals how cybercriminals manage \"Caller-as-a-Service\" operations like a professional sales tea\u2026",
     "title": "Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process"
+  },
+  "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-17T15:01:11+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them.\u00a0 [...]",
+    "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions"
   },
   "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/": {
     "categories": [
@@ -44255,6 +44440,17 @@
     "summary": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains The latest wave of \"Operation PowerOFF,\" on April 13, 2026, targeted the distributed denial-of-service (DDoS) ecosystem and its users across 21 countries. [...]",
     "title": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains"
   },
+  "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-17T02:12:17+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors\u2026",
+    "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware"
+  },
   "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/": {
     "categories": [
       "Security"
@@ -48955,6 +49151,17 @@
     "summary": "Tycoon2FA phishing platform returns after recent police disruption The Tycoon2FA phishing-as-a-service (PhaaS) platform that Europol and partners disrupted on March 4 has already returned to previously observed activity levels. [...]",
     "title": "Tycoon2FA phishing platform returns after recent police disruption"
   },
+  "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-17T08:35:42+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Uber notifies drivers of data breach affecting nearly 150,000 people Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
+    "title": "Uber notifies drivers of data breach affecting nearly 150,000 people"
+  },
   "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/": {
     "categories": [
       "Security"
@@ -52547,6 +52754,15 @@
     "summary": "Grafana Patches AI Bug That Could Have Leaked User Data By hiding malicious instructions on an attacker-controlled Web page, AI could ingest orders as benign and return sensitive data to the attacker's server.",
     "title": "Grafana Patches AI Bug That Could Have Leaked User Data"
   },
+  "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte89802188fbf7517/6afc5ddc05f01c312ef66082/rogue_AO_bot_Chris_Light_Alamy.png?width=720&quality=80&disable=upscale",
+    "published": "2026-11-17T13:12:56+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Grok Bots Attempt to Access Corporate Data Without User Approval Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner approval.",
+    "title": "Grok Bots Attempt to Access Corporate Data Without User Approval"
+  },
   "https://www.darkreading.com/application-security/hades-campaign-pypi-shai-hulud": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56977f533b95c270/6a26ea099f6a67dda8a1f32c/hades-rudall30-Getty-1188397160.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -54805,6 +55021,15 @@
     "summary": "Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits The West African country advanced rules to force organizations to disclose cyberattacks, joining other nations in a shift to mandated transparency.",
     "title": "Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits"
   },
+  "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfe572d94baa464a0/67bf001706ed6e9954636f2b/pqc-quantum-adam121AdobeStock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-16T14:22:15+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check The emerging technology will soon break the &quot;lock and key&quot; encryption currently protecting sensitive data. A new GAO report shows agencies are behind on building their defenses.",
+    "title": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check"
+  },
   "https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta7151b99725c6823/6a342d9a0da29c8273ce5feb/novonordisk_gguy_shutterstock.jpg?width=720&quality=80&disable=upscale",
@@ -55717,6 +55942,15 @@
     "source": "darkreading",
     "summary": "China-Linked Hacker Shows AI Capabilities in APAC Attack In the first purported &quot;near-autonomous&quot; attack on a nation-state, a Chinese-language operator used a complex AI framework to target and compromise government agencies, likely in Taiwan.",
     "title": "China-Linked Hacker Shows AI Capabilities in APAC Attack"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98c5fdb26a9d6d01/669a8451220787d9a293b79f/China(1800)_Rokas_Tenys_Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-16T16:36:55+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, as well as civil and human rights organizations.",
+    "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/china-researches-ways-disrupt-satellite-internet": {
     "categories": [],
@@ -61444,6 +61678,15 @@
     "summary": "RAMP Forum Seizure Fractures Ransomware Ecosystem Researchers suggest defenders monitor how these malicious groups re-form and leverage the useful threat intel to guide their next moves.",
     "title": "RAMP Forum Seizure Fractures Ransomware Ecosystem"
   },
+  "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt80dac13b14975660/6af7368e89398e7e289817aa/global-cyber-map-alestudio996-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-16T19:56:05+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "Ransomware Attacks Increase Behind AI, But Payments Decline Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
+    "title": "Ransomware Attacks Increase Behind AI, But Payments Decline"
+  },
   "https://www.darkreading.com/threat-intelligence/react2shell-exploits-flood-internet-attacks-continue": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2f423e90264d26a8/693c77db12ca300e247b043b/maliciouscode_Victor_Koldunov_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -62352,6 +62595,15 @@
     "summary": "Google Fixes Critical RCE Flaw in AI-Based Antigravity Tool The prompt injection vulnerability in the agentic AI product for filesystem operations was a sanitization issue that allowed for sandbox escape and arbitrary code execution.",
     "title": "Google Fixes Critical RCE Flaw in AI-Based Antigravity Tool"
   },
+  "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9eb0a69ea15c3e0c/6afb7143ea20de309e24d604/zero_day_over_text-JUN_LI-GettyImages-2179992195.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-16T22:08:20+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next 14 months.",
+    "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts"
+  },
   "https://www.darkreading.com/vulnerabilities-threats/how-dark-reading-lifted-off-launchpad-2006": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt68bbd8619ec3a55e/69f4fc58074d2d36cd223882/rocket_Tribune_Content_Agency_LLC.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -62689,6 +62941,15 @@
     "source": "darkreading",
     "summary": "ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed A major bug in Oracle's ERP software disproportionately affected American universities, and hackers have capitalized by stealing gobs of data.",
     "title": "ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc64dc86fdbfba025/6af7630521de23678b058bc7/Spy-IconicBestiary-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-16T19:10:03+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models Malware can lurk inside just 0.00001% of a neural network. How, then, can any user tell it's there?",
+    "title": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models"
   },
   "https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps": {
     "categories": [],
