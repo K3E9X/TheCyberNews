@@ -20084,6 +20084,15 @@
     "summary": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026 October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, t\u2026",
     "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026"
   },
+  "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdb3EyKCLHzaa6p3bzrF2EkkcJJQgshTsoaU6kzga1C8NGRBE1rDwlsHwhVKehkmGsOYpf0Dq-VCQpmFDPYLglxQIQjEiv3NrkFDRPTc3wUObe1Kc0km71lwUEXLTtWJGBQ3nO6wFbRqKoOJLcBv2lwpD-ZAYc1caohfkIFkCVlLQdS-YuwmbecgBf-sQ/s1600/reflectiz.jpg",
+    "published": "2026-11-18T12:15:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor TL;DR\n\n\n  Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit\u2026",
+    "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor"
+  },
   "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigoyCtEKcD7TM_5vDkKiZYFdk_l4-js7HNuvMXzZbVqUbEgq1nnD2vEZgZ0kL9CdmOkITC0Rbd-ebTkSX-R4NPKwWZXzUD6zS0g9nEfnlXw3njm3oW2Se97qbT7lIfZEL56X3IIaZAildTni9-zQJu5sa4Lhvi_mVlbTeZFyFtezOMHJ_bDhJWfG7KQ8eh/s1600/amazon.jpg",
@@ -20146,6 +20155,15 @@
     "source": "The Hacker News",
     "summary": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply ch\u2026",
     "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits"
+  },
+  "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_LozO7RAz13Jr3eqWHIjlAF6M0Cs-mJXX2mKUqU0TxVS02piD1na92TAZjICmeySD4z0zS-Y_BFvceERBdk-UZvV1DUh1LGN6wK-T-yt_TROJ5fcuvROu807jqESQo93CFP3faBbReKMZQxvgYOAGl_vS2VzfO67O24NdAgh6d9jMO2mTSy2jaNJMPD9T/s1600/ms-python.jpg",
+    "published": "2026-11-18T06:45:26+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSe\u2026",
+    "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials"
   },
   "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html": {
     "categories": [],
@@ -20309,6 +20327,15 @@
     "summary": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following \u2026",
     "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation"
   },
+  "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivmrsz2fViEN49Su385gmuAShCPcxobsMF-FbR9t1sXw6aEbOMzFUT5YktViqASQUXP3bLT13HYMAE1wBQTN0ZRDGXWFJUy_EWOKhOjR7jSz-bhEK8jas_v9wWUYxevCAZt4PzOCaGNLLC96kDwFjtKBuXVW2O3K2BK9AO5nyZutFf_uCaZtvyaQ2qf8gK/s1600/cisa-java.jpg",
+    "published": "2026-11-18T08:24:23+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java.\n\nThe flaw, tracked\u2026",
+    "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution"
+  },
   "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVAsrcYxVs8sJe7IiSD6WkTC4yPv0eLfup7dwcsS0NLcAAgoY__wyC3UFCR90PL2ziKCEW-vMNIEQXES-8uAG-MxuXlyIDdQGeNREm8yFv3tbvsCVXXRyRGT4ORirvcVKP_uD62XHYy9w3x_P0o7XzkguJPwq_1vV2jPxxnZWbhAHHUJ3YJ6HbTlXb0shyphenhyphen/s1600/openssh.png",
@@ -20453,6 +20480,15 @@
     "summary": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner\u2026",
     "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars"
   },
+  "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYLKVaRRp02L2STeR4kakGeA1NJokTtxw2aLU4wBLS34vltviR8gV4eUjk0QJ9jDVbiS_2hSeDQCwIR_JoCzPzUt-FSNUNpaKNtHpKiMugkRAMwOIbl4FbcL5iE7KCe1hebNbJRTxqO5xQkEFBuDI6F8FnsnYfreljrQlHHXuKBEN0suJZeuIf8heda5wY/s1600/chinese.jpg",
+    "published": "2026-11-18T14:11:28+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philip\u2026",
+    "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks"
+  },
   "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjONLgT6piRm0O75Y6dzQY4L2RO8OQTlWaJbwSTHFDeh82Qiadl2PT9KI9r2jC1JbwS-TqPm3g1Ea0Q8I91FalXu2GZ0fBBnfId6-8ZWKABrBQZWg7nA1X6cHq7wgHK3rc2Y5YW4yb61TjxVyywyWprml6yhBgH-SBaTvXZF-50J8-mR5Q6cGhSgfuMUdk/s1600/emudhra.jpg",
@@ -20488,6 +20524,15 @@
     "source": "The Hacker News",
     "summary": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million\u2026",
     "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls"
+  },
+  "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpsv4GxAUbzCsIV1umrxZs6VxfD1eFwAeCgRHQQG_dNbP1fLiYe48hM-Wbd_8w5IxlacAwoidLqyQgBmG7YD7qKo0_XcqW2GhggfXshuK1uXz8BOma2H0Jjs8fabCO4IxHBfRopEUFDd0xHRRv43gMeog852Usv40sfcTwnO_9coyxtIMmteJxeJI_oPA/s1600/bitlocker.jpg",
+    "published": "2026-11-18T12:28:30+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universit\u00e4t Berlin say\u2026",
+    "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years"
   },
   "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html": {
     "categories": [],
@@ -20651,6 +20696,15 @@
     "summary": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian.\n\nThe vulnerabi\u2026",
     "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot"
   },
+  "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoFKMFLPbzyM7RGi89XdpVFUfFqLH2C0QnAIyZfTSZIkvQNT8jhFEdMdW3D1qPXE0MjtV-q8fM1Alicz0wEuNJ6fnIjOs3BY8D7ABBRWNqPg6NGz9FjhbSQhapwUDZPDyg3kJEy9CZeUwbcmZ3N5nCU8bH6bkCo4BgLfhlE3R3AdDi9CvLVgjqlMW42Pm2/s1600/puppet.jpg",
+    "published": "2026-11-18T08:24:31+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration m\u2026",
+    "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers"
+  },
   "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYUhfLA6wixTr6AiVmOSa8uxO2mHxPqG7rHalDaUtYlOaTwUSIzi3JAP78cfEUhwwaoijNe8vJ0ZFiBqDmfrG9LVOzItxMxCYcTCbEc4f7W8iWgKSvzR6DrT0XtK_cM4eTKQ2Edvz-QG5P8iXF_GV_-k6CXMN_-D_QAJags-LpeuXmJ5C6DDz7mDRSBMY/s1600/git-actions.jpg",
@@ -20731,6 +20785,15 @@
     "source": "The Hacker News",
     "summary": "Italy Fines Meta \u20ac805 Million Over Facebook's Android Gallery Access Without Explicit Consent Meta was fined \u20ac805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post.\n\nThe Garante, Italy's dat\u2026",
     "title": "Italy Fines Meta \u20ac805 Million Over Facebook's Android Gallery Access Without Explicit Consent"
+  },
+  "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis8B-Vf6puS0vOs9mEVup755KXy8y59KD72B5VQb8SyhO1JDHkYcvg42Y1rh1xg3seyml7j2vZn5Dq1OEnFYVzD_97osoZXWkxVVOBxM48InZPbaVgV7Lo64odzPVKNPEtPeLlEAm2AFfShOFVGtypVUJAJdt07qqik_Yde9X6BxLECPH7Gekbkzl2GBDK/s1600/java4shell-flaw.jpg",
+    "published": "2026-11-18T11:55:49+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research\u2026",
+    "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More"
   },
   "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html": {
     "categories": [],
@@ -20903,6 +20966,15 @@
     "summary": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwo\u2026",
     "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins"
   },
+  "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw1l9jYXUC-XLNjqqVjPvFicpQvkj-fwml16Gl43nsTc5TrBGGzijFoCzpxHpfninWaxrDxoCW4J6FKkgO1rPsnVFgFAcMbm9hl9YxeVO6fM4sBrs_tvUOXG8MnKPqDXRal3qNJ2VY7RzqAlj5vJzYI6xVFOxVGV7TyDliY-AIBqKm2bst1d6rCNl2qkhv/s1600/java4shell.jpg",
+    "published": "2026-11-17T15:17:36+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate\u2026",
+    "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges"
+  },
   "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh54t26Pk-bNbcIXgu8KrKpT_zN1KxEov16xTFlJ8kiPJ3-btXjGUE1lb0ZpamQU5jUHwmxzxHpYLsAQfiaHQUu3gxCIUw2gsEYNwMjL6nRm_jWm6t_VdHJkz6xj3fAsmTZKP8Bbax1qdT98a_PY4ynv81njiDyPXvIIihl4dqXxxC9pMMf8-Mn9dziy_A/s1600/grokai.jpg",
@@ -20929,6 +21001,15 @@
     "source": "The Hacker News",
     "summary": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution.\n\nThe security flaw, t\u2026",
     "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution"
+  },
+  "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj276QET-ma2-edrAgsOdbZltmoW58d_kJT8C-g8DXQfDQAzPlmCcQYv-tWcX-DXcSipQpu_oFY_pPunvn-eXoog3H0BYPLkb4uY3B4Ax9T7LmtVBgVDwZZInLbj5QgnjVMI5d1za8bgR1a2TvGaJzZUK2UuSAEk3gSY-erKiddYAYTkNE9kxEp0zcx5x8/s1600/intruder.jpg",
+    "published": "2026-11-18T11:03:57+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Quality Isn\u2019t The Main Worry About AI Pentesting \u2014 Data Privacy and Production Safety Are AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them t\u2026",
+    "title": "Quality Isn\u2019t The Main Worry About AI Pentesting \u2014 Data Privacy and Production Safety Are"
   },
   "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html": {
     "categories": [],
@@ -20966,6 +21047,15 @@
     "summary": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.\n\nLockdown Mode was introduced by th\u2026",
     "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction"
   },
+  "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVlnQrxQ-QDawosxNpQdcPtITzUQKuYeqUtOk0gctwRhi-8P9Qi_9L72cSwkHRdGNS94HaIDHEkqeb0NTPw3mIZyFstN3ZM1FlUoMweKPNz4iTkAkxlxFSNdE92DAFlfLMFe0gTXWE78eOHROSbISVMgdmFOeVhm0SS2-1wXrNxPGknTVMGroQ0pRqYg/s1600/telegram-rce.jpg",
+    "published": "2026-11-17T19:34:20+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Researchers Claim Two RCE Exploits That Bypass Telegram\u2019s New Android Defenses A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company.\n\nWidgets are small interactive bloc\u2026",
+    "title": "Researchers Claim Two RCE Exploits That Bypass Telegram\u2019s New Android Defenses"
+  },
   "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoRknesoqi26EwwYMrgBhBudDMiej0sO7-228OvrBIj2ivaPcOUo7GJgoIHAd9fI_VFlK4su0xn1L_BqUgFsldNJgAkQwE4wAvAZzUao-wHUHSoq8NQUo_UdyILYYFoshEgONLhibaGHRQ_cKFVo0Psl1kehyphenhyphenNjlCrkECk16huiU6WecKlpBr0YDN3nus/s1600/iphone-recording.jpg",
@@ -21001,6 +21091,15 @@
     "source": "The Hacker News",
     "summary": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations.\n\n\"Active since at least February 2025, the grou\u2026",
     "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware"
+  },
+  "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLbxlzqi-uBPlDXGecxrfXQ8kZLpAKsDO5c7KmTTyYyNQQE6bdI0TqT7Rk_JrKRie2pMB_xrLRKy1Cksp1GYHfUGHXz7UGg5nWOAQmPmiRKoUJkMCHrMvW7A72W9x7_I7KESMQmJLQVrJth_Ozj7i1nF7IPB4W_WV-NQyy0afEMgGVbGdaSNfIjolqtC4-/s1600/cloud.jpg",
+    "published": "2026-11-18T05:58:04+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of lin\u2026",
+    "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization"
   },
   "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html": {
     "categories": [],
@@ -21182,6 +21281,15 @@
     "summary": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterda\u2026",
     "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases"
   },
+  "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXvywoP0qreCtUhDgAD1y24HevVHwAH9bGo904BuaQ7-amvdkk6Oi8gz8WjF-Hwiu3SinN266QM0KwUX6lDnayGOtMaSEff_b5vybBsdwvDhiai2uGsAlYfMgCdquPmKqaqM6eY54pG9HsMR7X5Sf7M4nkbIaHmWJMBG1uL3ggpJMMvfQR6FbMagqug2QG/s1600/target.jpg",
+    "published": "2026-11-17T15:17:28+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram.\n\n\"Trigr\u2026",
+    "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers"
+  },
   "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKryTkTZPSm_Pvf-PEvYRFle3Bp0jQaXScE21oOsMfwir63sr355bqHInvPRm5zynq2sYfLswRNEeywDHo7p2snw5sQmlIrWIONBq4AoYFEGXvdgy5gNLMESgjL5zwnhbqYIwdKLRaolb18pKz1sqFynmSjWn2IT_BxlEb-0av9vDfp-oEzp23_cwOIoik/s1600/ref.jpg",
@@ -21319,6 +21427,18 @@
     "source": "BleepingComputer",
     "summary": "Apple patches older iPhones and iPads against Coruna exploits \u200bApple has released security updates to patch older iPhones and iPads against a set of vulnerabilities targeted in cyberespionage and crypto-theft attacks using the Coruna exploit kit. [...]",
     "title": "Apple patches older iPhones and iPads against Coruna exploits"
+  },
+  "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/": {
+    "categories": [
+      "Apple",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2026-11-17T19:24:07+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Apple reports outages affecting iCloud Mail, AppleCare and more Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+    "title": "Apple reports outages affecting iCloud Mail, AppleCare and more"
   },
   "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/": {
     "categories": [
@@ -23325,6 +23445,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft to retire the OWA Light client in Exchange Server Microsoft has announced plans to disable Outlook Web Access (OWA) Light, the lightweight version of the Outlook Web App email client, in a future Exchange Server update. [...]",
     "title": "Microsoft to retire the OWA Light client in Exchange Server"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-11-18T09:24:31+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft announces Windows Server 2028 with hardened security Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
+    "title": "Microsoft announces Windows Server 2028 with hardened security"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/": {
     "categories": [
@@ -28223,6 +28354,17 @@
     "summary": "Apache OpenOffice disputes data breach claims by ransomware gang The Apache Software Foundation disputes claims that its OpenOffice project suffered an Akira ransomware attack, after the threat actors claimed to have stolen 23 GB of corporate documents. [...]",
     "title": "Apache OpenOffice disputes data breach claims by ransomware gang"
   },
+  "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-18T10:35:05+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Apache warns of Roller RCE vulnerability exploited in attacks Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+    "title": "Apache warns of Roller RCE vulnerability exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/": {
     "categories": [
       "Security"
@@ -29237,6 +29379,17 @@
     "source": "BleepingComputer",
     "summary": "British Scattered Spider hacker pleads guilty to crypto theft charges A British man, believed to be the leader of the Scattered Spider cybercrime collective, has pleaded guilty in the United States to charges of\u00a0wire fraud and aggravated identity theft. [...]",
     "title": "British Scattered Spider hacker pleads guilty to crypto theft charges"
+  },
+  "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-18T08:24:18+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "British Scattered Spider hacker sentenced to 6 years in prison A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
+    "title": "British Scattered Spider hacker sentenced to 6 years in prison"
   },
   "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/": {
     "categories": [
@@ -31670,6 +31823,17 @@
     "summary": "Cloud file-sharing sites targeted for corporate data theft attacks A threat actor known as Zestix has\u00a0been offering to corporate data stolen from dozens of companies likely after breaching their ShareFile, Nextcloud, and OwnCloud instances. [...]",
     "title": "Cloud file-sharing sites targeted for corporate data theft attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-17T21:27:17+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Cloud keys leaked in Docker Hub images are stolen within seconds Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+    "title": "Cloud keys leaked in Docker Hub images are stolen within seconds"
+  },
   "https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/": {
     "categories": [
       "Security"
@@ -32343,6 +32507,17 @@
     "source": "BleepingComputer",
     "summary": "Critical infra Honeywell CCTVs vulnerable to auth bypass flaw The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a critical vulnerability in multiple Honeywell CCTV products that allows unauthorized access to feeds or account hijacking. [...]",
     "title": "Critical infra Honeywell CCTVs vulnerable to auth bypass flaw"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-17T23:04:21+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Critical Java4Shell flaw allows RCE attacks on major Java applications A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins\u2026",
+    "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications"
   },
   "https://www.bleepingcomputer.com/news/security/critical-jspdf-flaw-lets-hackers-steal-secrets-via-generated-pdfs/": {
     "categories": [
@@ -33352,6 +33527,17 @@
     "source": "BleepingComputer",
     "summary": "DIVD says Zammad zero-days enabled AI-driven network breach The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
     "title": "DIVD says Zammad zero-days enabled AI-driven network breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-18T11:50:25+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Dizigom illegal streaming service with 21M monthly visits shuts down The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
+    "title": "Dizigom illegal streaming service with 21M monthly visits shuts down"
   },
   "https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/": {
     "categories": [
@@ -35727,6 +35913,17 @@
     "source": "BleepingComputer",
     "summary": "From Cipher to Fear: The psychology behind modern ransomware extortion Modern ransomware has shifted from encryption to psychological extortion that exploits fear, liability, and exposure. Flare shows how today's ransomware groups weaponize stolen data and pressure tactics to for\u2026",
     "title": "From Cipher to Fear: The psychology behind modern ransomware extortion"
+  },
+  "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-18T15:00:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and\u2026",
+    "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters"
   },
   "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/": {
     "categories": [
@@ -39669,6 +39866,17 @@
     "source": "BleepingComputer",
     "summary": "Japan Airlines suffers third-party data breach exposing passenger info Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
     "title": "Japan Airlines suffers third-party data breach exposing passenger info"
+  },
+  "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-17T20:51:21+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Japan takes Fugaku supercomputer offlline after cyberattack The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+    "title": "Japan takes Fugaku supercomputer offlline after cyberattack"
   },
   "https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/": {
     "categories": [
@@ -46221,6 +46429,18 @@
     "summary": "Researchers escape OpenAI Codex sandbox to run commands on host Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
     "title": "Researchers escape OpenAI Codex sandbox to run commands on host"
   },
+  "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-11-17T18:21:24+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Researchers hijack Hugging Face account for popular Kokoro AI model A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
+    "title": "Researchers hijack Hugging Face account for popular Kokoro AI model"
+  },
   "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/": {
     "categories": [
       "Security"
@@ -48786,6 +49006,17 @@
     "source": "BleepingComputer",
     "summary": "Top 5 Things CISOs Need to Do Today to Secure AI Agents AI agents are autonomous actors with real access to data and systems, not just copilots. Token Security explains why identity-based access control is critical to prevent misuse and data exposure. [...]",
     "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents"
+  },
+  "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-17T18:04:15+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Tor releases emergency update amid ongoing DDoS attack The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
+    "title": "Tor releases emergency update amid ongoing DDoS attack"
   },
   "https://www.bleepingcomputer.com/news/security/tor-switches-to-new-counter-galois-onion-relay-encryption-algorithm/": {
     "categories": [
@@ -52511,6 +52742,15 @@
     "summary": "Cursor IDE Auto-Executes Malicious Code in Poisoned Repos Researchers reported the vulnerability to Cursor in December, but it still remains in the popular AI coding platform and can be exploited in poisoned repository attacks.",
     "title": "Cursor IDE Auto-Executes Malicious Code in Poisoned Repos"
   },
+  "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0ac2db6d8dd7d25d/6afb79babb3cf32830e383ff/cursor_Erman_Gunes_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-17T18:38:37+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
+    "title": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach"
+  },
   "https://www.darkreading.com/application-security/cyber-industry-defenses-co2-emissions": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9e68ba407e192fcf/698b83f535702e4a5ec046c6/Keyboard_grass-mediacolor_s-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -55065,6 +55305,15 @@
     "source": "darkreading",
     "summary": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.",
     "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face"
+  },
+  "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0c54a284942546cd/6afccec91ecf5c62546c1c34/hydra_Daniel_Eskridge_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-17T22:34:22+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
+    "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks"
   },
   "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief": {
     "categories": [],
@@ -60562,6 +60811,15 @@
     "summary": "New CUSTODY Framework Constrains AI Agents Inside the Network Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face.",
     "title": "New CUSTODY Framework Constrains AI Agents Inside the Network"
   },
+  "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6f7643977746699c/6afcac2049ae9b70b9695c91/red_mailbox_white_brick_wall-Liudmila_Chernetska-GettyImages-1477282383.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-17T20:58:13+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
+    "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat"
+  },
   "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd600d33b7bbbc448/6ae39a9b20628a26ab67c66f/Belarus_Russia_flags-Oleksii_Liskonih-GettyImages-1089909770.jpg?width=720&quality=80&disable=upscale",
@@ -62647,6 +62905,15 @@
     "source": "darkreading",
     "summary": "Kimsuky Debuts HTTPTroy Backdoor Against South Korea Users The well-known North Korean threat group continues to improve the obfuscation and anti-analysis features of its attack toolchain.",
     "title": "Kimsuky Debuts HTTPTroy Backdoor Against South Korea Users"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd3d76d438281428b/6afb51c99f6beb04c5e535c4/Brazil_CNH-RafaPress-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-18T14:00:00+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Major Brazilian Signature Apps Enable RCE &amp; Fraud Government-sanctioned authentication middleware is used for exceptionally important legal documents, yet it's often rife with RCE bugs.",
+    "title": "Major Brazilian Signature Apps Enable RCE &amp; Fraud"
   },
   "https://www.darkreading.com/vulnerabilities-threats/max-severity-ivanti-sentry-flaw-exploited-24-hours": {
     "categories": [],
