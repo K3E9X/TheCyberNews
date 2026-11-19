@@ -20057,6 +20057,15 @@
     "summary": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, \u20ac8.6 million ($9.62 million) for illegally relaying \u200bGrindr users' sensitive data to adve\u2026",
     "title": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation"
   },
+  "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7_qqPophooIauX16fMWm3KB24tzQ3Fd7rCuseCXfMkDPPGpIgmHqWvZjn_jffDqHwNWKu8Zf57QeKb4qsRFgdgisSAn0sMj59CscimR16RLXI1kspH0w7VYQgrsM_hPcePQOFL8QUyDC2p9W7AV0UjH3sW7oOvdWPWAZW6DITDvqIHaC_696e5kHTieY/s1600/nginx-rce.jpg",
+    "published": "2026-11-18T18:31:17+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in.\n\nThe decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been \u2026",
+    "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers"
+  },
   "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirJnc36Fxj4oKOmKhcPvspB_xQpv3VgpXjYnu29SOv8NbVJHeaGNKT26851QIPQbHozxeF5vmq5otdRbJBKEaN9557MtuxLwp5fxX-pQVDVKwvZJtPR9ayT2Njx83svW7TVsVkVpFUOt5JHqhdSkSI7uV0d4dxlf5pWAmHISttTHWjURyOpuuy0CzVCSmK/s1600/lauce.jpg",
@@ -20336,6 +20345,15 @@
     "summary": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java.\n\nThe flaw, tracked\u2026",
     "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution"
   },
+  "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJc2bWATWnk5-O72K0n3cYlHuhhox3nVPELPst8c1bui3mTiwBZFUjAUSem14OyqLB6CTECCs9fc-iyng9KmY3jelZ2cqrHg4FKvP2qOZui8piIbYTZy9WdZD0NqiY4fXcLud5GYzmNEXR6DRNuQpjkFzfPvW4fIcDtwaFg4SM9xW-eG09WxFuEcmuKx7U/s1600/cisa.jpg",
+    "published": "2026-11-19T08:00:00+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vand\u2026",
+    "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks"
+  },
   "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVAsrcYxVs8sJe7IiSD6WkTC4yPv0eLfup7dwcsS0NLcAAgoY__wyC3UFCR90PL2ziKCEW-vMNIEQXES-8uAG-MxuXlyIDdQGeNREm8yFv3tbvsCVXXRyRGT4ORirvcVKP_uD62XHYy9w3x_P0o7XzkguJPwq_1vV2jPxxnZWbhAHHUJ3YJ6HbTlXb0shyphenhyphen/s1600/openssh.png",
@@ -20399,6 +20417,15 @@
     "summary": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is f\u2026",
     "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely"
   },
+  "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbiCYJD7nei_TBSnUlQG59idq9moCbsg97fnzsiXNi4KvQaphZYA4hHIzXv08t2OsvVZokzPIdhZPzxTkXoEgzTsFby-rBvQX6CY6yPo1Iv8DPnSmPeOeh3OQXF79Q60Hq3UI7kVdhmEKGL2bUwm42JO-8C_ClLHpTpGkWpnflAQMrDDgjIvMKq09DEskr/s1600/apache.jpg",
+    "published": "2026-11-18T17:10:45+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF)\n\nThe vu\u2026",
+    "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required"
+  },
   "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_FF2_yXQrxnB1ymo-GsohY6t0INslV7mps2DVMnYa_dD_RpZu7uz9HwNrux1gxieMF4hnc_84KMpOyhroj0EDx0Vwv0QljdhTehvJINIsr-Sjyw4CaMiLO3fFWGl-8LhLWgOtC4DRU2X5e46s3Rxghu3KLUMsyHfpxFyKogIs34Q2fm2RYpAMI_Jt_9A/s1600/langflow-rce.jpg",
@@ -20444,6 +20471,15 @@
     "summary": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository.\n\nQuay enables anonymous ac\u2026",
     "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry"
   },
+  "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ5IDT81eb7KUE0LzwGJAzuAETft3pD5sOz2dJxnQin_-zR_hH8tDKFTsLNBNoe35KM4DhFJjP7K-0YwaMoVwz7xUhTiP2vKeNqmN3kenPgwflENu35qx-QlFj-rDFdyXx1HMz6ykegw6nlnPDXppYbotjoRj-ammlyUZ-Cr0JYLS5iyZXkJXkaIO5UAc/s1600/vmware.jpg",
+    "published": "2026-11-19T15:11:06+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published\u2026",
+    "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication"
+  },
   "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhox0GUms6IXvet2jPVoQ5VlUIZ_V7C3iT4HI3qV-Pi7_KRybDyGKGlb2S0Z4uvih4ERjjnGOn9Prav0HpvqNNR3_HVs7W5o0wM0-XsTdp6ploM2Optp5ls97C0JU5DIqubY-lNcLvLia25Z2c__IZt8Ws1OjX0tGavbyvb_dXrltSKj-HJHijQJ9AdDxEB/s1600/zoom-prv.jpg",
@@ -20480,6 +20516,15 @@
     "summary": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner\u2026",
     "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars"
   },
+  "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4kxIzi1B-GPdS7pbaOI823BHxteL-8FbODKnAoDkr8tGhhjGYuRU9KIEAvOQ6kBZFQPCly3BIhQo6vkjxJy13zL7CxlRXsez_G_otFVaja2H5ObmzNMMilbewaweqqO5Paa0H49yaZdWB09xAIqeo7YLG0uyd05qjdbh2aLIRZd73_jwVGH26YexA3l8/s1600/drupal-flaws.jpg",
+    "published": "2026-11-19T14:33:06+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.\n\nThat\u2026",
+    "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites"
+  },
   "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYLKVaRRp02L2STeR4kakGeA1NJokTtxw2aLU4wBLS34vltviR8gV4eUjk0QJ9jDVbiS_2hSeDQCwIR_JoCzPzUt-FSNUNpaKNtHpKiMugkRAMwOIbl4FbcL5iE7KCe1hebNbJRTxqO5xQkEFBuDI6F8FnsnYfreljrQlHHXuKBEN0suJZeuIf8heda5wY/s1600/chinese.jpg",
@@ -20498,6 +20543,15 @@
     "summary": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys.\n\nEach int\u2026",
     "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise"
   },
+  "https://thehackernews.com/2026/11/everything-is-web-application-including.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC0roCfV92el2-gLSGwmumyjXgCjHookzwGjft2a6UWPZA1QvyrazDNLTvlZrF1F5iagg74JxnPEXbnK60OEeJuFNo2Fc2xcNSnJCeNw9BLu_y-lsRhrpO6s1End2gdDDlRU_r4wysTiiJS4ZKPDTmWK152psFdhxRizlSJZFCjnYr6nnamRsUciEJui4/s1600/php-app.jpg",
+    "published": "2026-11-19T11:52:23+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Everything Is a Web Application, Including Your Firewall One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-O\u2026",
+    "title": "Everything Is a Web Application, Including Your Firewall"
+  },
   "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh59LXthjD6N50867w2v7T4JyVUCOlVAmz1MJcZHKBFFaSnKDabB0FmdedrbvWRkp9XONe9Pz2RV1MQ-9QpJ8d85XE3w54EmMLKgaf1ygKD2e0y2X9mA7VsfyyB-8l1KFi-F5Gj9Q2vdsusmAl2khvXHNyOzWB_l7bj6NkOHkUgDYW-vENOowt0L8qM4kM/s1600/bar.jpg",
@@ -20506,6 +20560,15 @@
     "source": "The Hacker News",
     "summary": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required.\n\nThe com\u2026",
     "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login"
+  },
+  "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizE3X3tUSPpxIYnNyM91hyphenhyphenzZOS6jjdHnCLmubn4upOYKZn3MdjUqJQGEjIBGtZ2JHK6yggH6RxSQCANhtF7-zIWJ0EfGqA7iY2KQWM7vtoiCsc-_KeFZeHeDm-TOpM_oL_EVzOvPru_cMVzx3wJL8kaLEgXuzPzxm3iYnTiyu57quhgBgMY1Nb7V_sXG4/s1600/f5.png",
+    "published": "2026-11-18T18:15:39+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts.\n\nEach flaw needs a spe\u2026",
+    "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE"
   },
   "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html": {
     "categories": [],
@@ -20849,6 +20912,15 @@
     "summary": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentica\u2026",
     "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity"
   },
+  "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjPpZ9yL9D7JBQvp4_ZmnP8S_U6HKdq3rSM_FVv_uDgT9Iz8D56tO6GNDNE4rs29pejUiKQlxi1HpZ38KYbaSB01PmgPItVL8N-Y9G9vcuJlnadltKvmGhvUKYntAEIVCXFixjdBMyu6S9-zEUlIgGf7E5euvodJbn9LIYWTkRpxwH0g7nz2xp2v5PGMdq/s1600/n-able-hacked.jpg",
+    "published": "2026-11-19T09:31:26+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management i\u2026",
+    "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions"
+  },
   "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Tz3JQedMRmE0NpjmQ9KXm4AlgJ2GfBbA8pbKm3UARfJrN_vRlTywt0Zg80C-fM4hmacqlZTHV_wh0E-yoga-UjcSvpt2FHczR2AtGze3mvk0fmqeET4vvee-4f_RJEMIF-HL79HkXg_GD2Lg-U8jAPPJaPaqYDJmKTsJHn7GO0lS84zEU5SFQWll-qwv/s1600/nn.jpg",
@@ -20984,6 +21056,24 @@
     "summary": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.\n\nThey included 24 apps built by staff at\u2026",
     "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords"
   },
+  "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD2D26Hu7r43uUrdDxmsmmbBe2oMxd-L3_DIVLqAPyDrOnSmdvXfkIq1_lNmWqr49gbrIZ0NeTmA2OYgyWgdUjRf_RTRfflyXn3Vgujkb9tiByOPfej1OqEszpQf2FeozeSqmK5L7aSj28GLwzKmzehIp9zJyeJqgRvbVOW91_pVEMhs3KY9_oXjwf5BE/s1600/php-flawss.jpg",
+    "published": "2026-11-19T15:18:07+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-1155\u2026",
+    "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution"
+  },
+  "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj86YA0ZvPrdlouN6GvSZ5P_I5HCaYLm2PBs_JA74wUDgHl8anwcqEN5_Z0kTlAggf0906enJmrtUnN_6jn9kqD8KguG8nOeh1yGS6AAPo1-JHORLQ5nZcpmS5Ss7liuqghFsq8Bb4ooabK29UcCbZlwWGM6HtyRPs4Ty5zv5d4FC5So6tVFUOaEhUylIFU/s1600/php-flaws.jpg",
+    "published": "2026-11-19T04:33:46+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19 The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws.\n\nThe release is scheduled for Nov\u2026",
+    "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19"
+  },
   "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj8XOS7IKEt2ZhrwwdlDSpQ5hAyI46wHZpPkTQ3_hA6yUtMQpzaM50fm2v9x0O7NCt5z9vdrTsYM3iPOmu9fmmMTQDViu-rQjCfSxfCQhwZQazr4ZYayvEn5MQfUdTBVODtAay6RIaTqJGUj-HVzbtMqNPdNFiQHExhO9sitJX0GrvTx_EhWmslA-87ds/s1600/postgresql.jpg",
@@ -21038,6 +21128,15 @@
     "summary": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing Fixed kernels for a&nbsp;use-after-free vulnerability in the Linux kernel's IPv4 TCP code&nbsp;are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newe\u2026",
     "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing"
   },
+  "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDE1pOkFxdtUcDqLptfhjaBnnEyzz2JfxUJICSOrW3vpcNlygN1XleKCdkv9CA3Zp901yQ884tOkPX9TmSYx5tpevenJw1CmW4oktkn2creXnB5-dvbiJB3crcILx4Kb8b6eVhiKjh-RRZTGnvWskqROJOjF3yaWFVK17fmh-tdT7WMas7MbdK-JsCBmw/s1600/database-rce.jpg",
+    "published": "2026-11-19T08:14:00+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs\u2026",
+    "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle"
+  },
   "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZkGDnavpYu1VmQZCorYSw9PnFNh3tGXQ7YWWrZ3g6sURYj4RiS7za99akV3poXhW7GLoJw3j-baYvwyor0f_8iI3t5zk3NeXj1V1eVDMFUklqlYz629h88oYzxk3aIQPPwQF3xaw10DZTE-lEKyaojqzlLHC_DGtF91AVhXkaFNfY6Mh-qVqn86LCfQz/s1600/chat.gif",
@@ -21082,6 +21181,15 @@
     "source": "The Hacker News",
     "summary": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines.\n\n\"On launch, the NSIS-based installer executabl\u2026",
     "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware"
+  },
+  "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7rmcgZ7yffFsn_7SX4iQcfMhw1dgsxPFXXh6TUunbQ9VaxZh8O5-AFT2V3q0PE7Wx0rW9nLKuB73eluixYuM9N38Dvq_Gjs1nNOXVk3e71jjfhHoP7W97eeuc5AivI3CQNxIrwSaPR9IGV0f2NZ7900Ihtkdgiw1ZivTvgVrXWH2CrX2X5MZGjos6-bs/s1600/ruby.jpg",
+    "published": "2026-11-19T08:42:11+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown \u2026",
+    "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE"
   },
   "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html": {
     "categories": [],
@@ -23660,6 +23768,17 @@
     "summary": "Microsoft: Classic Outlook bug prevents opening encrypted emails Microsoft has confirmed a known issue that prevents recipients from opening encrypted emails in classic Outlook. [...]",
     "title": "Microsoft: Classic Outlook bug prevents opening encrypted emails"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-11-19T10:35:05+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft confirms app installation, launch issues after hotpatch Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
+    "title": "Microsoft confirms app installation, launch issues after hotpatch"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/": {
     "categories": [
       "Microsoft"
@@ -26065,6 +26184,18 @@
     "source": "BleepingComputer",
     "summary": "Microsoft tests modern Windows Run, says it's faster than legacy dialog Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build. [...]",
     "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-19T11:46:00+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs Microsoft is developing a new Edge security feature to\u00a0reduce the attack surface\u00a0by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
+    "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs"
   },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/": {
     "categories": [
@@ -31957,6 +32088,18 @@
     "summary": "Cognizant TriZetto breach exposes health data of 3.4 million patients TriZetto Provider Solutions, a healthcare IT company that develops software and services used by health insurers and healthcare providers, has suffered a data breach that exposed the sensitive information of ov\u2026",
     "title": "Cognizant TriZetto breach exposes health data of 3.4 million patients"
   },
+  "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2026-11-18T20:49:32+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 view\u2026",
+    "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam"
+  },
   "https://www.bleepingcomputer.com/news/security/coinbase-confirms-insider-breach-linked-to-leaked-support-tool-screenshots/": {
     "categories": [
       "Security"
@@ -32607,6 +32750,17 @@
     "source": "BleepingComputer",
     "summary": "Critical n8n flaws disclosed along with public exploits Multiple critical vulnerabilities in the popular n8n open-source workflow automation platform allow escaping the confines of the environment and taking complete control of the host server. [...]",
     "title": "Critical n8n flaws disclosed along with public exploits"
+  },
+  "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-19T14:57:24+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Critical NGINX \u2018NGINX2Root\u2019 bugs let attackers hijack servers Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel\u2026",
+    "title": "Critical NGINX \u2018NGINX2Root\u2019 bugs let attackers hijack servers"
   },
   "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/": {
     "categories": [
@@ -33313,6 +33467,17 @@
     "summary": "Data breach exposes up to 14.2 million email logins at six ISPs Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the country. [...]",
     "title": "Data breach exposes up to 14.2 million email logins at six ISPs"
   },
+  "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-18T19:39:33+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Data breach impacts 40 Irish credit unions in reported IT provider hack A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
+    "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack"
+  },
   "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/": {
     "categories": [
       "Security"
@@ -33719,6 +33884,17 @@
     "source": "BleepingComputer",
     "summary": "Drupal critical update to fix bug with high exploitation risk Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]",
     "title": "Drupal critical update to fix bug with high exploitation risk"
+  },
+  "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-19T13:08:08+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Drupal patches critical RCE flaw, warns exploits may surface quickly The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+    "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly"
   },
   "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/": {
     "categories": [
@@ -35434,6 +35610,17 @@
     "source": "BleepingComputer",
     "summary": "Five Venezuelans plead guilty to ATM jackpotting attacks in US Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]",
     "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US"
+  },
+  "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-19T15:00:10+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Five warning signs of ransomware breach before encryption or data theft Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect\u2026",
+    "title": "Five warning signs of ransomware breach before encryption or data theft"
   },
   "https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/": {
     "categories": [
@@ -41817,6 +42004,19 @@
     "summary": "Microsoft working on Defender patch for ShieldBreak zero-day Microsoft is working on a security patch for the \"ShieldBreak\" zero-day vulnerability disclosed last week by security researcher \"Nightmare Eclipse\" and now tracked as CVE-2026-69414. [...]",
     "title": "Microsoft working on Defender patch for ShieldBreak zero-day"
   },
+  "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-11-18T16:58:42+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft\u2019s Agent Framework PyPI package compromised to steal credentials Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' system\u2026",
+    "title": "Microsoft\u2019s Agent Framework PyPI package compromised to steal credentials"
+  },
   "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/": {
     "categories": [
       "Security",
@@ -44243,6 +44443,17 @@
     "source": "BleepingComputer",
     "summary": "NVIDIA confirms GeForce NOW data breach affecting Armenian users NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
     "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users"
+  },
+  "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-19T09:23:21+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "NVIDIA investigating Gentlemen ransomware breach claims NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
+    "title": "NVIDIA investigating Gentlemen ransomware breach claims"
   },
   "https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/": {
     "categories": [
@@ -49604,6 +49815,17 @@
     "source": "BleepingComputer",
     "summary": "Ukraine dismantles crypto scam network that stole \u20ac4.3 million Ukrainian law enforcement arrested four suspects in a case involving the theft of more than \u20ac4.3 million using a network of cryptocurrency investment scam call centers. [...]",
     "title": "Ukraine dismantles crypto scam network that stole \u20ac4.3 million"
+  },
+  "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-18T23:08:33+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldw\u2026",
+    "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms"
   },
   "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/": {
     "categories": [
@@ -55539,6 +55761,15 @@
     "summary": "Stopping IT Worker Scams Requires Revamped HR Process Training human-resource managers in the latest tactics and warning signs goes a long way toward blunting the threat, but automated analysis can help even more.",
     "title": "Stopping IT Worker Scams Requires Revamped HR Process"
   },
+  "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool": {
+    "categories": [],
+    "image": "",
+    "published": "2026-11-18T20:45:49+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work.",
+    "title": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool"
+  },
   "https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta00a9d9e96de1b11/6a9721055573ecd41d1f4f4b/GettyImages-1450161933.jpg?width=720&quality=80&disable=upscale",
@@ -56342,6 +56573,15 @@
     "source": "darkreading",
     "summary": "CodeRED Emergency Alert Platform Shut Down Following Cyberattack The Inc ransomware gang took responsibility for the attack earlier this month and claimed it stole sensitive subscriber data.",
     "title": "CodeRED Emergency Alert Platform Shut Down Following Cyberattack"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0cf0a0b934852050/6afe1492ac3412795c5370fe/russia_Skorzewiak_shutterstoc.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-18T21:59:46+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Russia's Cold Relic APT Turns One Cloud Breach Into Another The state-sponsored threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
+    "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks": {
     "categories": [],
@@ -59339,6 +59579,15 @@
     "summary": "Why CTF Competitions May Be More Important Than Ever As artificial intelligence squeezes early-career learning opportunities, capture-the-flag contests could be one way to help pick up the slack.",
     "title": "Why CTF Competitions May Be More Important Than Ever"
   },
+  "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3a97d098a9dd9e12/6afe0f2eb91ada7c366c492c/Holiday_shopping_tap_to_pay-Nastasic-GettyImages-2235710285.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-19T14:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Why Holiday Security Can't Wait for Black Friday Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.",
+    "title": "Why Holiday Security Can't Wait for Black Friday"
+  },
   "https://www.darkreading.com/cybersecurity-operations/why-you-should-train-your-soc-like-triathlete": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0ddc5f78fbb40924/694299f6211d3e3993e91d11/racing-H18PDW_Photography-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -61034,6 +61283,15 @@
     "summary": "Adversaries Don't Need a Zero-Day \u2014 They Read Your Rulebook Confidence in autonomous security tools is declining, and here's why.",
     "title": "Adversaries Don't Need a Zero-Day \u2014 They Read Your Rulebook"
   },
+  "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcfa70452a477c780/6afe245fab384927766a0238/africa-da-kuk-Getty-1386416241.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-19T08:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top 5 most-attacked countries globally.",
+    "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge"
+  },
   "https://www.darkreading.com/threat-intelligence/african-organizations-see-easing-of-cyberattacks": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt041f5fc64dbe4d6f/679016b514bc5279608b2db9/Ground_Picture-Africa-cyber-identity-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -61122,6 +61380,15 @@
     "source": "darkreading",
     "summary": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the content.",
     "title": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign"
+  },
+  "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale",
+    "published": "2026-11-18T20:38:42+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.",
+    "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks"
   },
   "https://www.darkreading.com/threat-intelligence/axios-attack-complex-social-engineering-industrialized": {
     "categories": [],
@@ -62897,6 +63164,15 @@
     "source": "darkreading",
     "summary": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.",
     "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt99cd31a80daa3833/6afdaa35fe696e77159c89b6/dangerous_coffee_cup_Nikreats_Alamy.png?width=720&quality=80&disable=upscale",
+    "published": "2026-11-18T16:54:52+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems.",
+    "title": "Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem"
   },
   "https://www.darkreading.com/vulnerabilities-threats/kimsuky-httptroy-backdoor-south-korea-users": {
     "categories": [],
