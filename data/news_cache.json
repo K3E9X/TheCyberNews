@@ -20318,6 +20318,15 @@
     "summary": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou \u2026",
     "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor"
   },
+  "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTSAI-N-DRII1YA3I98ZVnKnG0SMgm97oEAqyiSXZB23DPwzvTk3figFLsTCKsMJRxRhjKEPFblxfcOuB_UXc_OAXJRiVI07Jxjn-CebJVHiRQ5sc43AifBpUPNfU5-LRD6QEGbX7Vnt_HAmJZiLojS32PtNWwIWeideJZnIpgjrstJ0Iy84lYd47bePk/s1600/chinese-vmware.jpg",
+    "published": "2026-11-20T09:38:15+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCent\u2026",
+    "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data"
+  },
   "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9IgE0BWDAvYzjY8wFSMADIRn69AMLYxUa-oPoOISNBOpPbxwBNoWrbXWzI6P0deiU6WDqitiIZx1gFXSAlR8xX9rj56BuU48veMEPJAGSsmQTbVPirFOCuyMc_KQxtbPfc841GZGZ-3HSYYHCGbHnzrihtwQUaMlXrT3leLzI2USh00hc9OBw4k1SCJt4/s1600/wp-exploit.jpg",
@@ -20705,6 +20714,15 @@
     "summary": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen \u2026",
     "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets"
   },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrMm7M_HyuVDt9NknngHSgyfGKu0DR8VTc_GYL-tr_hMhTmi3EAZnM8x5byJQRYEqcUAZlDTR_Xi4RcMm4lidmk9UR_iyTWpDa5Mn6xRBoNwAf3auen2u6guKxnvoIrcQOfq7Mm1clmsyBMYVcjaOqVFYiN4mXgYSyR5_DUSrmVOLDK5mQeAS8BBB3X5-5/s1600/cisco-cyberattacks.jpg",
+    "published": "2026-11-20T10:32:50+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-\u2026",
+    "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network"
+  },
   "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMH_u7t-U3KIejAItsfC_js20xJgxT2ITYLsR0DAxzfcwDvPrzBHkpZlDuALWPnACOoknX2IALwHIUxIzfhbA24M7e8cGWTZpBMWqpX-wn6xqe8_U3fAtnR-9RsRdFHMCjvNnBsMXrEUKhVYS5bbTGL3B50UMO0aydtHIomY89s2iDAQMq0jXJJ3vh4Nvi/s1600/XEN-attack.jpg",
@@ -20957,6 +20975,15 @@
     "summary": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsof\u2026",
     "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels"
   },
+  "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg-jisyf4SWwWYA_RUtOoVqBviv2uNAUl6vEeGjsuBA0aOhfLYw7yHitbRBxAoWcf5ZP0UcGovNmyk-u-320fLFYIyUz7jtR77GiveyLdqsZWJ0DohwBfEFyN0KlNAIpIcpS9B6jHEZJybmTu7nuKM-PhSNPco-Z1QmacaSfwWyOWLXzT2WqaEdbZ810M/s1600/vms.jpg",
+    "published": "2026-11-20T12:20:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean.\n\nOn a shared server, th\u2026",
+    "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts"
+  },
   "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi28SrA-dW0l0kreAg1vMHHOgBRMM7lzxv5qg2FT2HzRxReJ96pxZP4Fjpm15fYWDDgWpbBI8iC119aE37t_kmQ4guoA70NUlJsdiA4hFvTg8fflx9fsKqUsGuoB-S9VS5pPd38EBVYRGmvKIT5EylE3IwEK8bBCp5CkLrdTwhbyUA2xWN_0iOynP33yE8/s1600/amd-flaws.jpg",
@@ -20983,6 +21010,15 @@
     "source": "The Hacker News",
     "summary": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver.\n\nThe proof of concept, called SignDrop, targe\u2026",
     "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access"
+  },
+  "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRnUdcazdCteyaE1EC_aLit8CioDaJ5yvsWnawFVWQrJvYFktNRJXlW9MOJLimG_-aS1IZChVHJbjPI4CXjIbNFLjn5W686xynepfC0oWyEG81NX5CxdS-9ayumfRljgy32e2bYXDD72T6VpIFFzeCcPKwG48RDKiZExwNdF-4XDFicISSaaRtT3W2dt0/s1600/windows-lockscreen.jpg",
+    "published": "2026-11-20T05:30:01+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only \u2026",
+    "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It"
   },
   "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html": {
     "categories": [],
@@ -21073,6 +21109,15 @@
     "source": "The Hacker News",
     "summary": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19 The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws.\n\nThe release is scheduled for Nov\u2026",
     "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19"
+  },
+  "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEEFyvreIQgAheXoKRJxLcNgyzFh0rlydmiMfaOBIlmM7zGPc_71mCSG6zWGlpFcRQg59gVUw6NbpmFiNKIcDB3AqVA5eKpjYExWhMu-uBD_W5xu1wiYRtX5MklAgxeuHOBJOI8H9LmaIoXv7IrvFMVHvVhor06lj_ljcIDjIDAPYJ8w01X-BTA51EpOU/s1600/php-after-shell.jpg",
+    "published": "2026-11-19T16:59:56+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a sui\u2026",
+    "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution"
   },
   "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html": {
     "categories": [],
@@ -21181,6 +21226,15 @@
     "source": "The Hacker News",
     "summary": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines.\n\n\"On launch, the NSIS-based installer executabl\u2026",
     "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware"
+  },
+  "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjugg63OPJwZuh94vDIg7MkA4YoeLKr5sjiqI6CEgjvDjUvJ-pBJOfUrUBxPUTbartqVwdldczbKSYo6lpkcVic1EDQYIDyWq12zMdMONjpDtK4NKCgkppAWvnOJpXe7prfmRG8WNpH0RrQ0bhX2nZKGpRy33y0OMZraBjEPoDorp9h3kNJSa-IQrJC7Nl5/s1600/cf.jpg",
+    "published": "2026-11-20T07:11:39+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS.\n\n\"ROMULUS \u2026",
+    "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs"
   },
   "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html": {
     "categories": [],
@@ -21299,6 +21353,15 @@
     "summary": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier thi\u2026",
     "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login"
   },
+  "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGn5oji8gd4l_d6wKemSflqTX-q-eiuu4CbbV2ROvzK6Gzpeq8zPsQyGb-UO80f_M8L2pDNNyNqF1ZIdyMPGReyW0KmPb7uuAuRu1M-ZVyNu-GJvx1CRaBsaEOVjV-asFG0P__0MK0Jp3WPJmcNxATiSd6NeBzcCmy-6dLvS5yvpen0cRrwLZvgVpYAvn0/s1600/sonicwall.jpg",
+    "published": "2026-11-20T10:38:22+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI\u2026",
+    "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws"
+  },
   "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgME1T4MkjI8UEzzSmlLgbPG6a__VNQNoKkhuxiaW5zF5fnHLPmsTdkGoIL06JTeER1jcOMH-WLuNYyva_sSW_8DnZojbMC8ikgNME3ZPUAdkij-9nVm8joHHdaZRoLNbVgcSVLNSc6Tt7UJ3YPhQmea3OtQwg-H2UzUPIgWq7nFwoEQcMsGCKf-0fImEvd/s1600/sonic.jpg",
@@ -21353,6 +21416,15 @@
     "summary": "The Flood is Coming And The Pipes Were Already Full An update on Athena, and some unsolicited predictions on what's coming next\n\nOn Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these\u2026",
     "title": "The Flood is Coming And The Pipes Were Already Full"
   },
+  "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGn0ym0Vqfakc2h3h2W6AT6gf5qd6RPkfrgV-Z2UgwDErad91v-nJoIu3OYwEC3IvLQ6rVGm6FIQypMcoTahAgL5_62ipKE1aQsZvqGsdJzu_4ZGaiFlCYKEpg1N5z3FRSk7O5n4uRlfDuNz7i99Ls9z1Ysee3iV4OCMTxG2rF8YLgCtfTOL2KA-hSQXY/s1600/INT.png",
+    "published": "2026-11-20T12:00:00+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "The Path to AI Autonomy in the SOC Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security acti\u2026",
+    "title": "The Path to AI Autonomy in the SOC"
+  },
   "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpHFMwpmKB3Mn6eMpEHMAX_8gqnyi4xwTCuYj7NTrCcTMWAsSZtaUsHYUa1kvi3jQf92A5pR_Qz7kzgTarHmo6q6YsXVeVSJEkkx0JkioCXa6GbKJzG9eZz0dkotf9QEpdcRMy94hoYhGfIoEk7pPOFUSgTY5ciU7_wkSOJc7kgXcS1GS3qGC-Ql7kMrks/s1600/thd.jpg",
@@ -21370,6 +21442,15 @@
     "source": "The Hacker News",
     "summary": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple f\u2026",
     "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories"
+  },
+  "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgTqUIWPjGeycl6xafh8Hx8n2UN3UCUgjhTpxUul68DHi7Y_IoHVYBvjDd5DpFg15sKI767hVEq-8CbGhK69JNusMh0OBBXfVMwJlZiKT2gNnTPAL9DyvTY85SB68WkvBxFCMF2_rNS9rUgYkQN8sKssDMBS8gO6YpMudQohf_JWnPztX_h8TdbSX6Vtfi/s1600/td.jpg",
+    "published": "2026-11-19T18:47:58+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And \u2026",
+    "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories"
   },
   "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html": {
     "categories": [],
@@ -24909,6 +24990,17 @@
     "summary": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
     "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-11-20T12:14:28+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
+    "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/": {
     "categories": [
       "Microsoft"
@@ -26656,6 +26748,18 @@
     "summary": "Microsoft's Coreutils project brings Linux commands to Windows Microsoft announced today at its Build 2026 developer conference the release of Coreutils for Windows, bringing many commonly used Linux command-line utilities to Windows as native applications. [...]",
     "title": "Microsoft's Coreutils project brings Linux commands to Windows"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/": {
+    "categories": [
+      "Microsoft",
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-20T13:18:36+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "N-able says recent security breach led to major service outage N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+    "title": "N-able says recent security breach led to major service outage"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/": {
     "categories": [
       "Microsoft"
@@ -27166,6 +27270,17 @@
     "source": "BleepingComputer",
     "summary": "Windows 11 KB5127936 update released with 41 changes and fixes Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
     "title": "Windows 11 KB5127936 update released with 41 changes and fixes"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-11-20T09:25:35+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Windows 11 KB5132057 update released with 28 changes and fixes Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
+    "title": "Windows 11 KB5132057 update released with 28 changes and fixes"
   },
   "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/": {
     "categories": [
@@ -28812,6 +28927,17 @@
     "source": "BleepingComputer",
     "summary": "ASUS warns of critical auth bypass flaw in DSL series routers ASUS has released new firmware to patch a critical authentication bypass security flaw impacting several DSL series router models. [...]",
     "title": "ASUS warns of critical auth bypass flaw in DSL series routers"
+  },
+  "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-19T21:15:59+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "ASUS warns of critical hard-coded key flaw in Control Center Express ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
+    "title": "ASUS warns of critical hard-coded key flaw in Control Center Express"
   },
   "https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/": {
     "categories": [
@@ -34632,6 +34758,17 @@
     "summary": "F5 issues out-of-band patches for critical NGINX vulnerabilities Cybersecurity company F5 has released out-of-band security updates to address multiple NGINX web server vulnerabilities, including two critical-severity flaws that could allow attackers to execute code on vulnerable\u2026",
     "title": "F5 issues out-of-band patches for critical NGINX vulnerabilities"
   },
+  "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-20T10:57:43+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "F5 releases emergency patches for critical BIG-IP RCE flaws US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger\u00a0denial-of-service (DoS) or gain remote code execution. [...]",
+    "title": "F5 releases emergency patches for critical BIG-IP RCE flaws"
+  },
   "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/": {
     "categories": [
       "Security"
@@ -38557,6 +38694,18 @@
     "source": "BleepingComputer",
     "summary": "Hackers steal $351.6 million in Bitget crypto exchange hack \u200bCryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
     "title": "Hackers steal $351.6 million in Bitget crypto exchange hack"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/": {
+    "categories": [
+      "Security",
+      "Healthcare"
+    ],
+    "image": "",
+    "published": "2026-11-19T22:25:42+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Hackers steal data of 1.6 million SBC Medical Group customers SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to\u2026",
+    "title": "Hackers steal data of 1.6 million SBC Medical Group customers"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/": {
     "categories": [
@@ -45478,6 +45627,17 @@
     "summary": "Phobos ransomware admin pleads guilty to wire fraud conspiracy A Russian national pleaded guilty to a wire fraud conspiracy charge related to his role in administering the Phobos ransomware operation, which breached hundreds of victims worldwide. [...]",
     "title": "Phobos ransomware admin pleads guilty to wire fraud conspiracy"
   },
+  "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-19T16:28:23+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "PHP security updates fix 18 flaws, including critical RCE bugs The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
+    "title": "PHP security updates fix 18 flaws, including critical RCE bugs"
+  },
   "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/": {
     "categories": [
       "Security"
@@ -48300,6 +48460,17 @@
     "summary": "Step Finance says compromised execs' devices led to $40M crypto theft Step Finance announced that it lost $40 million worth of digital assets after hackers compromised devices belonging to the company's team of executives. [...]",
     "title": "Step Finance says compromised execs' devices led to $40M crypto theft"
   },
+  "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-20T15:00:10+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Still tracking company passwords in spreadsheets? You\u2019re flying blind. Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password\u2026",
+    "title": "Still tracking company passwords in spreadsheets? You\u2019re flying blind."
+  },
   "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/": {
     "categories": [
       "Security"
@@ -49294,6 +49465,17 @@
     "source": "BleepingComputer",
     "summary": "Traffic violation scams switch to QR codes in new phishing texts Scammers are sending fake \"Notice of Default\" traffic violation text messages impersonating state courts across the U.S., pressuring recipients to scan a QR code that leads to a phishing site demanding a $6.99 payme\u2026",
     "title": "Traffic violation scams switch to QR codes in new phishing texts"
+  },
+  "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-19T18:20:01+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Transport for London breach exposes 265,000 Oyster card users' data Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
+    "title": "Transport for London breach exposes 265,000 Oyster card users' data"
   },
   "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/": {
     "categories": [
@@ -50825,6 +51007,17 @@
     "source": "BleepingComputer",
     "summary": "VMware fixes three critical flaws allowing auth bypass, VM escapes Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary c\u2026",
     "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes"
+  },
+  "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-20T00:26:25+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "VMware patches vCenter zero-day exploited in attacks since September Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+    "title": "VMware patches vCenter zero-day exploited in attacks since September"
   },
   "https://www.bleepingcomputer.com/news/security/voidlink-cloud-malware-shows-clear-signs-of-being-ai-generated/": {
     "categories": [
@@ -52945,6 +53138,15 @@
     "source": "darkreading",
     "summary": "Critical OpenClaw Vulnerability Exposes AI Agent Risks The now-patched flaw is the latest in a growing string of security issues associated with the viral AI tool, which has seen rapid adoption among developers.",
     "title": "Critical OpenClaw Vulnerability Exposes AI Agent Risks"
+  },
+  "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt63f30aa2e4f7a5b8/6aff560d615b4f7719adda8c/source_code_background-scanrail-GettyImages-832282452.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-19T19:57:31+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
+    "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style"
   },
   "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers": {
     "categories": [],
@@ -55582,6 +55784,15 @@
     "summary": "Prepping for 'Q-Day': Why Quantum Risk Management Should Start Now Quantum computers are coming and may impact systems in unexpected ways, and it will &quot;take years to be fully quantum-safe, if ever,&quot; cryptography expert warns.",
     "title": "Prepping for 'Q-Day': Why Quantum Risk Management Should Start Now"
   },
+  "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdca0689384b67fb8/6aff731dfef3359545395d0a/old-ship-steering-wheel-DmitriiElj-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-19T22:40:03+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
+    "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering"
+  },
   "https://www.darkreading.com/cyber-risk/ransomware-gang-full-godfather-cartel": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta8ad0cbff9c121e0/6983ba6c994a669ca58c7084/godfather_Usa-Pyon_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -57598,6 +57809,15 @@
     "source": "darkreading",
     "summary": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well.",
     "title": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte4910babc7878a94/6aff5ad57ab982a4c314744c/Equinor-makasana-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-19T20:14:15+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Second Norwegian Energy Company Breached in Two Days No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
+    "title": "Second Norwegian Energy Company Breached in Two Days"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application": {
     "categories": [],
@@ -63298,6 +63518,15 @@
     "source": "darkreading",
     "summary": "N-able Bug Exposes Password Vault Master Keys The popular &quot;Passportal&quot; password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?",
     "title": "N-able Bug Exposes Password Vault Master Keys"
+  },
+  "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d04c37959ab5304/6aff50a7d42cb182cb40c79e/panic_Kzenon_Alamy_REWORKED_FOR_16_BY_9_FORMAT.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-19T19:46:44+00:00",
+    "severity": "MEDIUM",
+    "source": "darkreading",
+    "summary": "Navigating Vulnerability Hysteria in the AI Era This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and growing war\u2026",
+    "title": "Navigating Vulnerability Hysteria in the AI Era"
   },
   "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix": {
     "categories": [],
