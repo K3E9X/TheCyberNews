@@ -20093,6 +20093,15 @@
     "summary": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026 October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, t\u2026",
     "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026"
   },
+  "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYiVrbfn3FWfI_uNyjj8q9SZ38d2mHKu2ehdtYYKPwyg-05yKJBYUAPEaVxJq5KDGwU11X2tmEKNUKPIHQY9s67e1K9w_8NRdEOxVCDJqqMbQ6F27kfOj3GKjcQ3-0WHFNg7uYT6QeIU90qX1YW_Zvyn7WhZwpV41i5Pj6watQsF7Ti8NN1GIQLxw-jPc/s1600/muse-ai.jpg",
+    "published": "2026-11-21T11:53:07+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.\n\nThe same attack \u2026",
+    "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats"
+  },
   "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdb3EyKCLHzaa6p3bzrF2EkkcJJQgshTsoaU6kzga1C8NGRBE1rDwlsHwhVKehkmGsOYpf0Dq-VCQpmFDPYLglxQIQjEiv3NrkFDRPTc3wUObe1Kc0km71lwUEXLTtWJGBQ3nO6wFbRqKoOJLcBv2lwpD-ZAYc1caohfkIFkCVlLQdS-YuwmbecgBf-sQ/s1600/reflectiz.jpg",
@@ -20165,6 +20174,15 @@
     "summary": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply ch\u2026",
     "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits"
   },
+  "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEIG6Wgi3wGQXrsdGKEf4ORPFjHVGpRkoSUPraOJfKhGmB0vYFojLq2mCuOP3a71_XpNZusvn45ZDa1J3a7eQ0WE3XJY0FGunHVWB1yHBluJT5vSDCmzkhaFGiHjeKbnoah6noyZ3mNInS-mjJK1Gfcf7jT3A60ZYR_eknSgt_sEa6MNGM-DA5-aLXMbZ5/s1600/medical-ai.jpg",
+    "published": "2026-11-21T11:03:17+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, \u2026",
+    "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access"
+  },
   "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_LozO7RAz13Jr3eqWHIjlAF6M0Cs-mJXX2mKUqU0TxVS02piD1na92TAZjICmeySD4z0zS-Y_BFvceERBdk-UZvV1DUh1LGN6wK-T-yt_TROJ5fcuvROu807jqESQo93CFP3faBbReKMZQxvgYOAGl_vS2VzfO67O24NdAgh6d9jMO2mTSy2jaNJMPD9T/s1600/ms-python.jpg",
@@ -20236,6 +20254,15 @@
     "source": "The Hacker News",
     "summary": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible de\u2026",
     "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access"
+  },
+  "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMs4vBdivbF3Y-4yd3PWqjSTuG2PPDvCemM211pzVl2Jhkus9d14_2MzRgdrlNhRxaHa_2rlIN34kUGHAlV_Y2dMnfmYGlUEzUcab0c_s3N8Zoe8P3rcJ-RJmo2luVci9bVqmwtFhpL4rfR2Uo-ZwvqfqFMwRb_3WwoOvFIaunPd7WMOJ4yW9rjbHEKDwf/s1600/android-malware.jpg",
+    "published": "2026-11-20T16:58:16+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management a\u2026",
+    "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control"
   },
   "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html": {
     "categories": [],
@@ -20633,6 +20660,15 @@
     "summary": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, wit\u2026",
     "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones"
   },
+  "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTmX4ayWzvM0EzPttZ610B2837FppeU5AEmQmztLH2lai78EDQtjrp4wVI_bubSe2c2NGBE5sqBT9Py1mKkHQKN2faBkOzU70d7FntrpYD7Et2eeBxLNy2gzByAo1i8Aaw_VMBZD62RnBMY2md3iNfegK9M_NR5qTRDBw8s0uwKy1w7JoTV0zkDS_17Lse/s1600/pgp.jpg",
+    "published": "2026-11-21T11:05:53+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.\n\nThe GnuPG project warned yesterday that \u2026",
+    "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys"
+  },
   "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikEkIc_eg4_tE5XE6CQrLFl74Gk0QwxcqaGXBnDAlitVIbzreq8faf57QtAqFh8rEn7HgTJzvGUZl2yNBhWVKOKo9KqnJHfduQfoT_HqUTlKhE-FzshzDrpIskiMQ3_Lz2hImNMbt9VdCj0O725_WyZsDXDB91phFceXh6Y_qzHgv1nJPMNjv8a7AU52c/s1600/amd.jpg",
@@ -20722,6 +20758,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-\u2026",
     "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnWnBDigw8RogBTSInXktn1vUISbzwjHm5GuAFBNX0_ClLBk83WOa2BYiHUbgtva76TY8Oz2kJvEZtvEjqZlFFCuvQ-u-l-4l5dzo2MXw7zHLEuklv_Gn1mB-f5TL9GP_3n1NxQkzkZ-fAX7UpcqfZqUefQiRQZm21sq6IZOzmyuQ1hYs4AFHWQAj83WX/s1600/vmware-cisco.jpg",
+    "published": "2026-11-21T08:49:13+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Expl\u2026",
+    "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge"
   },
   "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html": {
     "categories": [],
@@ -21335,6 +21380,15 @@
     "summary": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.\n\nThe attacker could also have seen re\u2026",
     "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users"
   },
+  "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1cVX1DZUDMTkSc3kGcO8KsGd-MIBr6py39SuaRxG1wCxVVfKIQhiQaywRpjn95FQV4tMy0dWyNc49745cwqBBLpGzVK_eut-DGLBaidiiYCdIH65bXGtopuPJ7dofJzAJVJ6cWrKp2JJb5gNrODQuWtK7vZZp824ecrz4_DHWWJIaC5wS6aYfsMsKshg4/s1600/signal.jpg",
+    "published": "2026-11-21T08:49:20+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protect\u2026",
+    "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS"
+  },
   "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjskRPNlV_kYE1N2eF2J_J0fBvF_nQxnvtaS78Grj04KqkEauvr-R5jO-ynD9nm51SgF2XtCCAsWUbJrHU0wGRnXC9yHmblhNCF8Jt9NdVahMju3voR2z9xb2uqoSi7Nc085UqDBelqg4XDRdjJ2lsF7EeN28rjq7oBc_NpBUWRqLWXiOh9FBRIH28teHM/s1600/telecom-hack.jpg",
@@ -21532,6 +21586,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant \u2026",
     "title": "\u26a1 Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More"
+  },
+  "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUSbYUJJkBlZsaH90SXIaxYAv5iJN7ZEus7Q24A_Z9fDNNlnOjFnNZ3SnA6er-iuMgQnE6k73nwVwAEPPk1AjRT12N9o8cJft3_dPqMZKeJbpq6QIcGbN1z1UbE_Q3fXTyp1c0XmqynQu2lJPeIYoraqXFcgM-wQH4b1rIBrOKF221CIKLldJIZVJ4g7cr/s1600/whatsapp.jpg",
+    "published": "2026-11-20T17:57:20+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.\n\nThe vulnerability, tr\u2026",
+    "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams"
   },
   "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html": {
     "categories": [],
@@ -29272,6 +29335,17 @@
     "summary": "Belgian hospital AZ Monica shuts down servers after cyberattack Belgian hospital AZ Monica was forced to shut down all servers, cancel scheduled procedures, and transfer critical patients earlier today due to a cyberattack. [...]",
     "title": "Belgian hospital AZ Monica shuts down servers after cyberattack"
   },
+  "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-20T18:51:43+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Bell Canada says 'agentic' hacker stole enterprise customer data Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunicati\u2026",
+    "title": "Bell Canada says 'agentic' hacker stole enterprise customer data"
+  },
   "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/": {
     "categories": [
       "Security",
@@ -35368,6 +35442,17 @@
     "summary": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT\u2026",
     "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested"
   },
+  "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-21T14:26:04+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "FBI reportedly hacked again, this time targeting nationwide police database FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, st\u2026",
+    "title": "FBI reportedly hacked again, this time targeting nationwide police database"
+  },
   "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/": {
     "categories": [
       "Security"
@@ -38818,6 +38903,18 @@
     "source": "BleepingComputer",
     "summary": "Hackers use AntiFox AI agents in AWS credential-theft attacks Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
     "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-11-20T17:30:00+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Hackers use autonomous AI tool Cairn to find zero-day, take over server Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+    "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/": {
     "categories": [
@@ -50874,6 +50971,17 @@
     "summary": "Veeam warns of critical flaws exposing backup servers to RCE attacks Data protection company Veeam Software has patched multiple flaws in its Backup & Replication solution, including four critical remote code execution (RCE) vulnerabilities. [...]",
     "title": "Veeam warns of critical flaws exposing backup servers to RCE attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-20T15:58:06+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Vendor data breach exposes Chase, Visa, Mastercard customer info J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+    "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info"
+  },
   "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/": {
     "categories": [
       "Security",
@@ -56232,6 +56340,15 @@
     "summary": "What We Missed: Knicks Phishing Test Goes Out of Bounds In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
     "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds"
   },
+  "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltafa9df51f75884e4/6b007fead61f59302a23c588/nvidia-Benjamin_Fanjoy_-Getty-2304259055.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-20T17:04:04+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "What We Missed: Nvidia CEO Scandal Rocks AI Industry In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.",
+    "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry"
+  },
   "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c22b787d3880a22/6a469e8782b5bc23f1d3a21e/ransomware-Just_Super-Getty-1399980046.jpg?width=720&quality=80&disable=upscale",
@@ -56606,6 +56723,15 @@
     "source": "darkreading",
     "summary": "'BusySnake' Infostealer Slithers into Critical Infrastructure Networks A threat group researchers call &quot;Armored Likho&quot; has gained access to government agencies and electrical power entities in Russia, Brazil, and Kazakhstan.",
     "title": "'BusySnake' Infostealer Slithers into Critical Infrastructure Networks"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt911ff7b35a2a2c1d/6b009babdd63b308b3111bc2/Chinese_fortress-Lukas_Bischoff-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-20T21:03:27+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
+    "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm": {
     "categories": [],
@@ -59521,6 +59647,15 @@
     "source": "darkreading",
     "summary": "Same Old Security Problems: Cyber Training Still Fails Miserably Editors from Dark Reading, Cybersecurity Dive, and TechTarget Search Security break down the depressing state of cybersecurity awareness campaigns and how organizations can overcome basic struggles with password hyg\u2026",
     "title": "Same Old Security Problems: Cyber Training Still Fails Miserably"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/security-words-matter": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt36f1afcfa92ff2c5/6af766db3c02eaba0a4aae0d/cyber_talk_ATHVisions_Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-20T18:35:40+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "In Security, Words Matter as Much as Tools, Maybe More From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
+    "title": "In Security, Words Matter as Much as Tools, Maybe More"
   },
   "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era": {
     "categories": [],
