@@ -20102,6 +20102,15 @@
     "summary": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.\n\nThe same attack \u2026",
     "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats"
   },
+  "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijDifo0ih-I06DQJbgdnt34Xg1qWdMibKByoJO-4vqa50M4yN0Lwu4fDe88GBtoiKHMJnRDYM0WXvYDEMyCWFHEbedl0wzwKI7juH9Q9xs3osQjZK0xPygeuGm0bm6jgpWPa7bca1EuZfTQiLxn-X3aNaAhbchhvemZrCqslieabzsGmz4ezqhrKuYhDyk/s1600/ai-india.jpg",
+    "published": "2026-11-23T08:24:15+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communicati\u2026",
+    "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms"
+  },
   "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdb3EyKCLHzaa6p3bzrF2EkkcJJQgshTsoaU6kzga1C8NGRBE1rDwlsHwhVKehkmGsOYpf0Dq-VCQpmFDPYLglxQIQjEiv3NrkFDRPTc3wUObe1Kc0km71lwUEXLTtWJGBQ3nO6wFbRqKoOJLcBv2lwpD-ZAYc1caohfkIFkCVlLQdS-YuwmbecgBf-sQ/s1600/reflectiz.jpg",
@@ -20462,6 +20471,15 @@
     "summary": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF)\n\nThe vu\u2026",
     "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required"
   },
+  "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ_LYD1NyoPDf8MFXggODpgd2hvazxjShSZltgrLUVic7V-ZIQSjXIzFrkUx0FNoUjlxlIYocEd1AZwGx66uqGWEUyd1TMSlDmxUu8M_r6jdYkmWDZjbszL2WsK7LJzrwI-NgsI7EaLe9WkLwNLGKj8ww3tTOY4X4JPug3RWQqoypUiEpZjVXgBhhcLuZG/s1600/js-cve.jpg",
+    "published": "2026-11-23T13:22:20+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code.\n\nThe vulnerability, t\u2026",
+    "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions"
+  },
   "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_FF2_yXQrxnB1ymo-GsohY6t0INslV7mps2DVMnYa_dD_RpZu7uz9HwNrux1gxieMF4hnc_84KMpOyhroj0EDx0Vwv0QljdhTehvJINIsr-Sjyw4CaMiLO3fFWGl-8LhLWgOtC4DRU2X5e46s3Rxghu3KLUMsyHfpxFyKogIs34Q2fm2RYpAMI_Jt_9A/s1600/langflow-rce.jpg",
@@ -20750,6 +20768,15 @@
     "summary": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen \u2026",
     "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets"
   },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWv3LP9w9Iv-ZmqonS5mwf1jDE-lTLUcDPxCOvYn3RF87-n2epMtdhqH5xXf-bsIIyKXq6U9qU5T1OQ6_Y3VeytS0CCA4TLJtFDcfcHR-I2EHY3t2e94UPvppaaXG9jDQPj4wNwt6CdwQCmXm5uK16BAp5Fn12DmxUk-Wu5ZwPT2kPQFo37oxSeqc6hX7X/s1600/asp.net.jpg",
+    "published": "2026-11-23T09:11:56+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerabilit\u2026",
+    "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE"
+  },
   "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrMm7M_HyuVDt9NknngHSgyfGKu0DR8VTc_GYL-tr_hMhTmi3EAZnM8x5byJQRYEqcUAZlDTR_Xi4RcMm4lidmk9UR_iyTWpDa5Mn6xRBoNwAf3auen2u6guKxnvoIrcQOfq7Mm1clmsyBMYVcjaOqVFYiN4mXgYSyR5_DUSrmVOLDK5mQeAS8BBB3X5-5/s1600/cisco-cyberattacks.jpg",
@@ -20758,6 +20785,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-\u2026",
     "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWAI03mMW-UNs2bdUuZEiugVBMZq3speEoo8tbQ7TZVITD4fnXiK4l657Tn4-G9fX2w8xLz2zkP9-RTrg3QZPtNMHL_Lg7YRoruCnp8TJA4tbA5bW1YsBZU8QR2FIqSb3_IpN1Le-Xoq2MQ82ZQyRNmYxr8q70PPzijzypDcIDKMIOjrzBweBUiKJ_nuJY/s1600/screens.jpg",
+    "published": "2026-11-23T12:41:04+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers.\n\nThe activity revolves around CVE-2026-84869 (CVSS scor\u2026",
+    "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning"
   },
   "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html": {
     "categories": [],
@@ -20812,6 +20848,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today.\n\nThe attac\u2026",
     "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6ctvKkiuJ-JViYFHxOV5w1CYjcopn7_YrQt2SnF6JC_SvdOugBSXLdVaMgnWhLCO1NfVgwru4ieWK8L3IeCP-OR75HltWOF5qNhOm9iH_VzJi3PSuUgCUtvhy0zkh_nZFv14tLCRsWly39aREkIphJtNMYUvsGS-CvIwunALU5KxtjFswov-lcS2iqzY/s1600/glinet.jpg",
+    "published": "2026-11-23T09:04:08+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM har\u2026",
+    "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices"
   },
   "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html": {
     "categories": [],
@@ -20983,6 +21028,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management i\u2026",
     "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions"
+  },
+  "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcXbCG8v5Kc2mTfNCFEiow0EHLJWtsrsrEodqvL8qF8awCnrDzw2TfxtPq7rYI3u78mviB8ekGNGL1Of8FZrSM6uZT1lhz2mfRHwHQyhQT8234u03WGZ9M4UZzmj2cYMs8qlsJ54PwNPvVMb2awEzinXAYL0Y25iOGjjikMvq4NQ-v03mqluZnI53PNdk/s1600/nables.jpg",
+    "published": "2026-11-23T12:28:09+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service provide\u2026",
+    "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation"
   },
   "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html": {
     "categories": [],
@@ -21578,6 +21632,15 @@
     "summary": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker.\n\nKeplr uses a company called Web3Auth to run that Google and Apple sign-i\u2026",
     "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety"
   },
+  "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9_mXkFA2_QQWa_ajcGxgoc3rSAfxGJqP-uIREqPGAfJGM7D7-mLrjwSE_F1egX-pwVRvMRinRGs4QbcBE1yJrmHFw4Fa_ILg6ZuTIOy1bf86-wPQ-Zgsqa-6hqdBapRROk97rOeT-Vfa002vHuWF6fCSE1KPttjswyjUeBxjrJzrmVU9KY724e75Giq1T/s1600/chinese-malware.jpg",
+    "published": "2026-11-23T17:45:15+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprint\u2026",
+    "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access"
+  },
   "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj03NmPVHpoxRjXKDh7s6v2Dav4D-MCSLBTLalEb9ScH_lLc4yQJWOW8QfTIBePp7Pcgo1qrq6MYuQvNeyb0LCvWO4E4e7BLQKEj-g3Z2LImj4CXV-UUGfVd-vVL0NGtxMMn50klhOLlyI3p6DXhIFf-LkMsST7LK4kh3gIjqlvBwOUgbKTq8-hRdvmfz46/s1600/rcap.jpg",
@@ -21604,6 +21667,15 @@
     "source": "The Hacker News",
     "summary": "\u26a1 Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant \u2026",
     "title": "\u26a1 Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More"
+  },
+  "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBkXdg7nYK3nVTpBuC9FL7mGBvzvUxU0VxYplArVFYSTg2d_6tFITemHBYRAOD29pVBKzfo2aZ9Jsy8avRdACCMqrVdlEER0zn2xIWDBdswcH_nZpnJYkfORK6CEaWwX3f-B8AvkUqbR2TLNa7odUG4PFu1uTk_cwsUt8DPGJBSjjF2wd8VPIa5ATJ4fo3/s1600/crecap.jpg",
+    "published": "2026-11-23T15:10:48+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break \u2026",
+    "title": "\u26a1 Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble"
   },
   "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html": {
     "categories": [],
@@ -24021,6 +24093,17 @@
     "summary": "Microsoft confirms patching issues in restricted Windows networks Microsoft says customers in restricted network environments may encounter Windows Update failures after installing the January 2026 optional non-security preview updates. [...]",
     "title": "Microsoft confirms patching issues in restricted Windows networks"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-11-23T09:11:15+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Microsoft confirms Windows printing issues affecting Forcepoint users Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
+    "title": "Microsoft confirms Windows printing issues affecting Forcepoint users"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/": {
     "categories": [
       "Microsoft"
@@ -26279,6 +26362,17 @@
     "summary": "Microsoft testing faster Quick Machine Recovery in Windows 11 Microsoft is testing a faster version of Quick Machine Recovery (QMR) and updated Smart App Control (SAC), allowing users to toggle it without requiring a Windows clean install. [...]",
     "title": "Microsoft testing faster Quick Machine Recovery in Windows 11"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-11-23T13:28:45+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
+    "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/": {
     "categories": [
       "Microsoft"
@@ -28090,6 +28184,17 @@
     "summary": "Ahold Delhaize: Cyberattack affects services across US and Europe Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
     "title": "Ahold Delhaize: Cyberattack affects services across US and Europe"
   },
+  "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-23T15:00:10+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "AI Agents Are Creating a Shared Responsibility Gap AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manag\u2026",
+    "title": "AI Agents Are Creating a Shared Responsibility Gap"
+  },
   "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/": {
     "categories": [
       "Security"
@@ -29866,6 +29971,17 @@
     "summary": "California sues OpenAI over AI agents escaping sandboxes, hacking firms California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous\u2026",
     "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms"
   },
+  "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-23T12:02:23+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Call center operator gets 8 years for helping scam 30,000 Americans A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [\u2026",
+    "title": "Call center operator gets 8 years for helping scam 30,000 Americans"
+  },
   "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/": {
     "categories": [
       "Security"
@@ -30612,6 +30728,17 @@
     "source": "BleepingComputer",
     "summary": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
     "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-23T07:44:19+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "CISA flags critical Cisco RCE flaw as actively exploited in attacks The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+    "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/": {
     "categories": [
@@ -32063,6 +32190,17 @@
     "source": "BleepingComputer",
     "summary": "Clean GitHub repo tricks AI coding agents into running malware An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]",
     "title": "Clean GitHub repo tricks AI coding agents into running malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-22T15:43:04+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+    "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach"
   },
   "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/": {
     "categories": [
@@ -36919,6 +37057,17 @@
     "summary": "GlobalProtect VPN portals probed with 2.3 million scan sessions A major spike in malicious scanning against Palo Alto Networks GlobalProtect portals has been detected, starting on November 14, 2025. [...]",
     "title": "GlobalProtect VPN portals probed with 2.3 million scan sessions"
   },
+  "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-23T16:50:01+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
+    "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards"
+  },
   "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/": {
     "categories": [
       "Security"
@@ -38335,6 +38484,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks Hackers are exploiting a new, undocumented vulnerability in the implementation of the cryptographic algorithm present in\u00a0Gladinet's CentreStack and Triofox products for secure remote file access and sharing. [\u2026",
     "title": "Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-22T18:45:37+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and\u2026",
+    "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/": {
     "categories": [
@@ -48006,6 +48166,19 @@
     "summary": "Signal adds security warnings for social engineering, phishing attacks Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud. [...]",
     "title": "Signal adds security warnings for social engineering, phishing attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2026-11-22T15:15:25+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+    "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android"
+  },
   "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/": {
     "categories": [
       "Security"
@@ -48472,6 +48645,17 @@
     "source": "BleepingComputer",
     "summary": "Spanish energy giant Endesa discloses data breach affecting customers Spanish energy provider Endesa and its\u00a0Energ\u00eda XXI operator are notifying customers that hackers accessed the company's systems and accessed contract-related information, which includes personal details. [...]",
     "title": "Spanish energy giant Endesa discloses data breach affecting customers"
+  },
+  "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-23T18:38:40+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Spanish LaLiga confirms hackers stole soccer fans\u2019 personal data LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
+    "title": "Spanish LaLiga confirms hackers stole soccer fans\u2019 personal data"
   },
   "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/": {
     "categories": [
@@ -56524,6 +56708,15 @@
     "summary": "AI Agent Drives Espionage Attack on Thai Ministry of Finance Attackers used Hermes, an autonomous open source tool, in unrestricted &quot;YOLO mode&quot; to conduct espionage against Thailand's Ministry of Finance.",
     "title": "AI Agent Drives Espionage Attack on Thai Ministry of Finance"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt068557e4f1edea18/6b0424213e73ecdcfb851a70/working-with-AI-agents-ImageFlow-shutterstock.png?width=720&quality=80&disable=upscale",
+    "published": "2026-11-23T16:17:21+00:00",
+    "severity": "CRITICAL",
+    "source": "darkreading",
+    "summary": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes A China-nexus actor used the Cairn penetration testing tool in attacks against East Asian universities, exploiting a zero-day in a medical imaging app.",
+    "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaeb9af6be92c2692/6a9957f44e3e378865d50a6b/working-with-AI-agents-ImageFlow-shutterstock.png?width=720&quality=80&disable=upscale",
@@ -58769,6 +58962,15 @@
     "source": "darkreading",
     "summary": "AI Won't Wipe-Out Entry-Level Cybersecurity Jobs Instead of eliminating jobs for early-career cyber pros, AI is creating new opportunities for candidates with strong human decision-making skills.",
     "title": "AI Won't Wipe-Out Entry-Level Cybersecurity Jobs"
+  },
+  "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt525c0b544f1eeec1/6afe238519e68185a02d38c2/GettyImages-1428094247.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-23T17:45:52+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source.",
+    "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors"
   },
   "https://www.darkreading.com/cybersecurity-operations/announcing-dr-global-latin-america": {
     "categories": [],
