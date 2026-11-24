@@ -20075,6 +20075,15 @@
     "summary": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and \u2026",
     "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers"
   },
+  "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifgNbpx-KISiy12Rp8KNb5ElWQADJtyC7fLFuLFCc7WzbOjCP5CmU2dPyuwhq5kRSQP5lOuwwFhvZovILCzeMgaSes8APbVabNVpJB71EC56WrojqqLU-tjIr2MFDPK8fMHnu-dx35G-p6btlQb1xU16c8IPrY4cs0k8t1pufSHgp74Y5HtqiAVk4A1QI/s1600/2027.jpg",
+    "published": "2026-11-24T12:01:54+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose?\n\nAccording to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts \u2026",
+    "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk"
+  },
   "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1-4OiOkGLcK3fAr2HdhALOfc_BqR21440TsjUIuCNzv4YL0lWRC3lvUjE1vu2RdVfjunxi80gMQyGpjvUdWzMRtthW8_-hFOJ79YhFzJrNGgoKDPYXm2OaWOsN8kgBELqOPs5s9QKL4qzQzu_3NEEqHygpfQzKYxDRIQeFgMHj24oyPyaslUemke-loU/s1600/github.jpg",
@@ -20732,6 +20741,15 @@
     "summary": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its&nbsp;November security bulletin.\n\nThe flaw, CVE-2026-58868, af\u2026",
     "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction"
   },
+  "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiOJqhOn7t8wd3NeMCWVCg9xmusuRJmZuaePaCbKTif2XsPpPhu0fR1NwQncA4y-wAMmLOzylBZ3ebd9f4G8F6K54sUdnZ2cTn6yPq1RgAKrh4lSX3y1Ll8LIywXkDyVXItUuUGS4sy0BVUMhwXPvOZGdxhvwnd55_OvjOVnh2CfnAeURMVcmafuFgJlQ/s1600/windows.net.jpg",
+    "published": "2026-11-24T12:02:00+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher \u2026",
+    "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity"
+  },
   "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvqwPJPXsflyvqykVK3Pd1lLXLzEJ6vpLudxQUyYbWkS4nQ0dr9dhcSlMCPwgqfAkyadPSj28XReqkeiymKG5RAZMWpx5Hqhg_XI0HNp3jRMRpaO-wVIRbyJyS8MaaqDNOxXvk8aUENx_aiNMqrqm9SWjtJVpXR2uaP-LNp5deG4U_4YvSxpPKtdJLRNoh/s1600/llmjacking.png",
@@ -20812,6 +20830,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.\n\nThe authentication bypass flaw, which does not ye\u2026",
     "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrPCPwSotVSX8IYSgpSrVceRAIYqba8YSZSlNwD5RjetEhPG6vLRhk_NKkatjg1h-fulZJDm4CucsLvQrEtCO6v0NtuJGo3nZD3mXSHyKpgPrUZMpq7YNpheStYC_AqyMWRfWIFiK9bcHJNAw6pwK9JqirhO8JESKdmsI5Pl8UgtsVsRivmMmMenQ01ClW/s1600/cisa-kev.jpg",
+    "published": "2026-11-24T06:02:45+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing \u2026",
+    "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day"
   },
   "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html": {
     "categories": [],
@@ -20930,6 +20957,15 @@
     "summary": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it.\n\nThe update that inst\u2026",
     "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time"
   },
+  "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqukTcR2pkDWiTqMzORa4j7zZRB0MDUGfBly50X7gPwPHqSeBmfReQWpMR9IdPOP_NbeuQSBdYPknSgxvutDll4VAZNSoGqcwmXzhZNEez-UoE-MwTnM9i9XxjoLYRdhY0iY6tD9BK9IDB0o8RUU7sNsOex5tVNtoNwRHCCAxM9ri66c4G2wPa9AqW9saA/s1600/iran-hackers.jpg",
+    "published": "2026-11-24T16:54:07+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus.\n\nCentral to the\u2026",
+    "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns"
+  },
   "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTqhUSejDKMWiBuqakycpFyce33qmRAlEPU4FbfKnzSRZmIlOQia8YXyU8bdvYFN6ldGMqz2vxPZn-s9524oTPZithSzMiO5ejngh_UMdp8jEbSG8znPLj-0husv1pxRF0dW2qES9dz4oR56dk67YJ8zePlgnVFSbHSIKHAU_7VqK0-pwSVeYEsOYM7u8/s1600/exposure.png",
@@ -20983,6 +21019,15 @@
     "source": "The Hacker News",
     "summary": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test.\u2026",
     "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers"
+  },
+  "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSM2FAnf9UEb3Do4v-r8AEBpoI8byXOrHgng-eRjEyudSf0hiKMpymmDiK_NLTxYuzXdtrWvMrBzY9qmLqDo31r3JOpVefOQxLE77gdkoOAYMkCK__-Bc-AJoWg-8nEOEVjcY6SswkzLbCfYl6kK9clg6xXw3xginWqIwnMxBUaS6wgPKVVwXZNhZA5G85/s1600/azure-ms.jpg",
+    "published": "2026-11-24T10:44:49+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the co\u2026",
+    "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets"
   },
   "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html": {
     "categories": [],
@@ -21137,6 +21182,15 @@
     "summary": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw c\u2026",
     "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data"
   },
+  "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjete6dy8Fmd7sbjqKI5GKSySXkcnz4NF__irfVMBHzgRIDUnpGHtvRIbCywZYYsoKsnMdPhvanoXcnXbYvZpMjL2lL6d_F9a4ErEaI5rH_boPedH_ru2Ush9wonb8tYhGNVM6M_01DTue1THY7uGMbuKBJKNgMbrACkxHCGJiJylHWoxkkpCXNr2Z_CIdf/s1600/leaks.jpg",
+    "published": "2026-11-24T13:28:21+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat In\u2026",
+    "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site"
+  },
   "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4ZiJMrWCzkoOXuOcWQkB02TmQLM81NWPvzQ8yw9iComqPyLIP0_TAzy8AHMkNfzyXw2Fw-8kBhWIohuXc_dGl39AI4Kw_n4Tll0DImNrRfcPrk1eZNQCP9QtOich_dhNW-ly5DIuZSzmWspWsWXU9QiGwnS5W7qzVDiIBVc4oggC__f6tsL1AOIP8opc/s1600/linux-lpe.jpg",
@@ -21145,6 +21199,15 @@
     "source": "The Hacker News",
     "summary": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2\u2026",
     "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run"
+  },
+  "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKBknwzOcmsT5P3Gnyn8-WGRNbttWLAtmWlHkVuS900lrH1Q7Wj_kBCJiASbBvhNUKWEsO8Xt5VKKokGA-M17y8Pj4EtH6564yafSWGebOVgMuTwxUUB5fV4oProNTbg8MeEhcaiy95WbMi6og3q0uSM4SxLCyzVwV3FbCfiSXrVoJtQUrYpJfyeW1AUFm/s1600/openai-linux.jpg",
+    "published": "2026-11-24T06:02:57+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downt\u2026",
+    "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching"
   },
   "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html": {
     "categories": [],
@@ -21614,6 +21677,15 @@
     "summary": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, \u2026",
     "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses"
   },
+  "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0zpQTclLnhVQHphFdBZZ_hrxhsZvA5G50sGBz5qq1iOg2B1YLu8rE5e_HM1GZOE24SNpwexwst80NTKP7_Wwexq7EzIl-I7ykIXCtTGQjeZhBGVVuAgzxac5JwaquTQuMNRstBFo8JzMDyqgsNbM_KtxGF3wHPBIM9GfaclNu0OTPlpF5YhNvqoKKytAY/s1600/vmware-exploit.jpg",
+    "published": "2026-11-24T13:28:26+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to b\u2026",
+    "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation"
+  },
   "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB22NtEOE6ioVcc92S5bLfFX3tbKyjNkx0j8OmHekqWq6Od4h9DtFmbmdd74VzwHCh5h6NbWnBgHgKzC49DwS7QAgA0uH3eL7BvBnN9QJu3U5-oiy5ZFMN7PvaJTBqjP7TR5VMjzrGxjfOfjgBqs3lecFZnWGEYNDp_BJgklco1L_acBqGm1M_CvtfLaY/s1600/AI-AGENT.png",
@@ -21694,6 +21766,15 @@
     "source": "The Hacker News",
     "summary": "When an AI Agent Goes Wrong, Can You Stop It? Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity h\u2026",
     "title": "When an AI Agent Goes Wrong, Can You Stop It?"
+  },
+  "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK7wXAof6nH7PDC5-3qxXZJgJvZODTjQcrWFOjO8jeb9yGkK6bUkzm27MzMy5n0S_Xywsj0npu_F0FmQ4JcKxPXNEoezLrpKoSStaYK4Ww46QUuzySTeQnnzcIXs_NADunlqeyuMIl5Wm5PKWc3c0JyNmYPxfbInIWx2tfosieI_QS_e4PX-JILlLH-1U/s1600/hosting.jpg",
+    "published": "2026-11-24T08:34:20+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and \u2026",
+    "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login"
   },
   "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html": {
     "categories": [],
@@ -34737,6 +34818,17 @@
     "summary": "European Commission confirms data breach after Europa.eu hack The European Commission has confirmed a data breach after its Europa.eu web platform was hacked in a cyberattack claimed by the\u00a0ShinyHunters extortion gang. [...]",
     "title": "European Commission confirms data breach after Europa.eu hack"
   },
+  "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-24T16:22:44+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "European Commission confirms data theft in EU Academy breach The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
+    "title": "European Commission confirms data theft in EU Academy breach"
+  },
   "https://www.bleepingcomputer.com/news/security/european-commission-discloses-breach-that-exposed-staff-data/": {
     "categories": [
       "Security"
@@ -36524,6 +36616,17 @@
     "summary": "From VMware to what\u2019s next: Protecting data during hypervisor migration Hypervisor migrations can introduce hidden risks that threaten data availability and recovery. Acronis explains why verified backups and cross-platform recovery are essential during VMware transitions. [...]",
     "title": "From VMware to what\u2019s next: Protecting data during hypervisor migration"
   },
+  "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-24T15:01:11+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, conta\u2026",
+    "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era"
+  },
   "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/": {
     "categories": [
       "Security"
@@ -38231,6 +38334,17 @@
     "source": "BleepingComputer",
     "summary": "Hackers compromise Axios npm package to drop cross-platform malware Hackers hijacked the npm account of the Axios package, a JavaScript HTTP client with 100M+ weekly downloads, to deliver remote access trojans to Linux, Windows, and macOS systems. [...]",
     "title": "Hackers compromise Axios npm package to drop cross-platform malware"
+  },
+  "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-24T16:15:23+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Hackers compromise Check Point Servers in 22 organizations Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
+    "title": "Hackers compromise Check Point Servers in 22 organizations"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/": {
     "categories": [
@@ -41836,6 +41950,17 @@
     "summary": "Mazda discloses security breach exposing employee and partner data Mazda Motor Corporation (Mazda) announced that information belonging to its employees and business partners had been exposed in a security incident detected last December. [...]",
     "title": "Mazda discloses security breach exposing employee and partner data"
   },
+  "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-24T14:09:37+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "McDonald's Japan data breach exposes customer location information McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [..\u2026",
+    "title": "McDonald's Japan data breach exposes customer location information"
+  },
   "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/": {
     "categories": [
       "Security"
@@ -42035,6 +42160,17 @@
     "source": "BleepingComputer",
     "summary": "Microsoft 365 accounts targeted in wave of OAuth phishing attacks Multiple threat actors are compromising Microsoft 365 accounts in phishing attacks that leverage the\u00a0OAuth device code authorization mechanism. [...]",
     "title": "Microsoft 365 accounts targeted in wave of OAuth phishing attacks"
+  },
+  "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-23T19:42:20+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft Azure flaw exploited to steal customers' API credentials Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks \u2026",
+    "title": "Microsoft Azure flaw exploited to steal customers' API credentials"
   },
   "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/": {
     "categories": [
@@ -44163,6 +44299,19 @@
     "summary": "New Shai-Hulud malware wave compromises 600 npm packages Threat actors earlier today published more than 600 malicious packages to the Node Package Manager (npm) index as part of a new Shai-Hulud supply-chain campaign. [...]",
     "title": "New Shai-Hulud malware wave compromises 600 npm packages"
   },
+  "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence",
+      "Linux"
+    ],
+    "image": "",
+    "published": "2026-11-24T13:34:23+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, wi\u2026",
+    "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits"
+  },
   "https://www.bleepingcomputer.com/news/security/new-sonicwall-sonicos-flaw-allows-hackers-to-crash-firewalls/": {
     "categories": [
       "Security"
@@ -45270,6 +45419,18 @@
     "summary": "OpenMandriva Linux says contributor tried to sabotage the project The OpenMandriva Linux project announced that it was the target of an attempted act of internal sabotage after a dispute among contributors. [...]",
     "title": "OpenMandriva Linux says contributor tried to sabotage the project"
   },
+  "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-11-23T20:00:20+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenRouter drops AI providers over leaked prompts and secrets OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
+    "title": "OpenRouter drops AI providers over leaked prompts and secrets"
+  },
   "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/": {
     "categories": [
       "Security",
@@ -46280,6 +46441,17 @@
     "summary": "Police dismantles online gambling ring exploiting Ukrainian women Spanish and Ukrainian law enforcement authorities dismantled a criminal ring that exploited war-displaced Ukrainian women to run an online gambling scheme that laundered nearly \u20ac4.75 million in illicit proceeds. [.\u2026",
     "title": "Police dismantles online gambling ring exploiting Ukrainian women"
   },
+  "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-24T15:10:10+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Police disrupt 57 illegal streaming services with 7.3 million visits Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
+    "title": "Police disrupt 57 illegal streaming services with 7.3 million visits"
+  },
   "https://www.bleepingcomputer.com/news/security/police-disrupts-rhadamanthys-venomrat-and-elysium-malware-operations/": {
     "categories": [
       "Security"
@@ -46752,6 +46924,17 @@
     "source": "BleepingComputer",
     "summary": "Rackspace Spot breach let hackers access customer Kubernetes secrets Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters\u2026",
     "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets"
+  },
+  "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-24T17:49:05+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Radware discloses breach exposing customer cloud access keys Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left \u2026",
+    "title": "Radware discloses breach exposing customer cloud access keys"
   },
   "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/": {
     "categories": [
@@ -48098,6 +48281,17 @@
     "summary": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
     "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang"
   },
+  "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-24T16:30:19+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+    "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof"
+  },
   "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/": {
     "categories": [
       "Security"
@@ -48542,6 +48736,17 @@
     "source": "BleepingComputer",
     "summary": "South Korean startup platform breach exposes key management failures A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed a\u2026",
     "title": "South Korean startup platform breach exposes key management failures"
+  },
+  "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-23T20:54:51+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "South Korea\u2019s power giant KEPCO confirms data breach impacting 1.5 million A threat actor breached the internal network of\u00a0Korea Electric Power Corporation (KEPCO) and accessed\u00a0two systems containing customer, employee, and contractor data. [...]",
+    "title": "South Korea\u2019s power giant KEPCO confirms data breach impacting 1.5 million"
   },
   "https://www.bleepingcomputer.com/news/security/spain-arrests-34-suspects-linked-to-black-axe-cyber-crime/": {
     "categories": [
@@ -60100,6 +60305,15 @@
     "summary": "UK Warns Its Critical Infrastructure Faces Grave Risk Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex.",
     "title": "UK Warns Its Critical Infrastructure Faces Grave Risk"
   },
+  "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9a0966356bb6bbf4/6b048a6e805d232dd3e79e51/white_house-uschools-GettyImages-160196566.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-23T20:13:48+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "US Cyber Director Pick Signals Shift Toward Expertise Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising geopolitical tensions.",
+    "title": "US Cyber Director Pick Signals Shift Toward Expertise"
+  },
   "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd6ea448209c5a17d/6aece801ba5b3c3c708d8893/_gov-PashalIgnatov-Getty.jpg?width=720&quality=80&disable=upscale",
@@ -60528,6 +60742,15 @@
     "source": "darkreading",
     "summary": "CrowdStrike to Buy SGNL to Expand Identity Security Capabilities The CrowdStrike-SGNL deal underscores how identity security has become a critical component of enterprise cybersecurity as companies add cloud services and deploy AI-driven tools.",
     "title": "CrowdStrike to Buy SGNL to Expand Identity Security Capabilities"
+  },
+  "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltffaa274e5fcd829e/68386b0dd0a57a8348fa8ace/Zscaler_SundryPhotography_Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-23T21:21:42+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal CrowdStrike's $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI agents.",
+    "title": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal"
   },
   "https://www.darkreading.com/endpoint-security/crowdstrike-falcon-ingest-microsoft-defender-telemetry": {
     "categories": [],
@@ -61089,6 +61312,15 @@
     "source": "darkreading",
     "summary": "Industrial Controllers Still Vulnerable As Conflicts Move to Cyber The US government warns programmable logic controllers are being targeted, and research turns up 179 vulnerable operational technology (OT) devices.",
     "title": "Industrial Controllers Still Vulnerable As Conflicts Move to Cyber"
+  },
+  "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt301a7a187c53b85f/6b04a5d4187d8b84c6ba02e4/Serial_to_IP-Gri-spb-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-23T22:02:46+00:00",
+    "severity": "HIGH",
+    "source": "darkreading",
+    "summary": "Industrial Serial Gateways Broadcast That They're Insecure Critical OT access devices will often tell you, and anyone else, whether they're protected by authentication \u2014 and many aren't.",
+    "title": "Industrial Serial Gateways Broadcast That They're Insecure"
   },
   "https://www.darkreading.com/ics-ot-security/iran-russia-china-target-water-systems-sabotage": {
     "categories": [],
