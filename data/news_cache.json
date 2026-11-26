@@ -20066,6 +20066,15 @@
     "summary": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in.\n\nThe decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been \u2026",
     "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers"
   },
+  "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt0w3YJQrn6VoUVUTTj46NLfeL_JJE-sDoxKsuBe-_OxBtQ3iX8AZTZ1CEn39-N5TGKYd-0ZKdOT43UwAWUbpIXlFdDwhyphenhyphenEKpkQVVJYJVodQRHyz0pJeKEvJIJgUpAEQqXizajmrriq9Mj1aqioeK1Zug__X26Ra4HwzFg8ImTajGc6b7Ck9LW2OCIpPoa/s1600/dotnet.jpg",
+    "published": "2026-11-26T03:48:52+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment.\n\n\"Most of the packa\u2026",
+    "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps"
+  },
   "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirJnc36Fxj4oKOmKhcPvspB_xQpv3VgpXjYnu29SOv8NbVJHeaGNKT26851QIPQbHozxeF5vmq5otdRbJBKEaN9557MtuxLwp5fxX-pQVDVKwvZJtPR9ayT2Njx83svW7TVsVkVpFUOt5JHqhdSkSI7uV0d4dxlf5pWAmHISttTHWjURyOpuuy0CzVCSmK/s1600/lauce.jpg",
@@ -20074,6 +20083,15 @@
     "source": "The Hacker News",
     "summary": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and \u2026",
     "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers"
+  },
+  "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbu9vulg5_P2PLmwCbF5nNRu8UujJDFNLLCGackgRWjz4lmkQcAom8TerCouyPh1pF8sgBAiJTwO7qAQN3kLVd-_0e7czxqhyphenhyphenUQuSG6WyCJvoNsI92X7tl1ukE6h8QDLmQBUBJaKBCyTYXjaGMUeaczy-sTIjMvDHdQjphWmWyCsUyIG4Y7WD4J2FoQfgY/s1600/1password.jpg",
+    "published": "2026-11-26T10:57:25+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized\u2026",
+    "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach"
   },
   "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html": {
     "categories": [],
@@ -20615,6 +20633,15 @@
     "summary": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.\n\nThat\u2026",
     "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites"
   },
+  "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy2EcytpsKiKLhUfvQEADKBG6Ht2NprR2VIhIXPJcNQMIGqKT20l0afBPUVhehKFhRzpkHvl3Qu_qaPjFL3L4UsLYH3L4C1DM63zqskhJV1UAjaPqONaEbNkBFsxVDX2jpPZrMym52WvBx2pHktUiRfdXOcp_23xjTdUOxxjxJtI906XLMmw258Bjah1J2/s1600/drupal-rce.png",
+    "published": "2026-11-26T07:02:34+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild.\n\nThe vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A)\u2026",
+    "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation"
+  },
   "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYLKVaRRp02L2STeR4kakGeA1NJokTtxw2aLU4wBLS34vltviR8gV4eUjk0QJ9jDVbiS_2hSeDQCwIR_JoCzPzUt-FSNUNpaKNtHpKiMugkRAMwOIbl4FbcL5iE7KCe1hebNbJRTxqO5xQkEFBuDI6F8FnsnYfreljrQlHHXuKBEN0suJZeuIf8heda5wY/s1600/chinese.jpg",
@@ -20821,6 +20848,15 @@
     "source": "The Hacker News",
     "summary": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desk\u2026",
     "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware"
+  },
+  "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht82Zul6A6D_rTYZuOr0QQWkA4p8kQXRI-4qAYhdGBdTR0ZNzlHkHCiz3eSv5wm9Gq1rADX0CIEBUu08HBUbWd4fVKtL6f7UrWcaa_nVetYt0DyPj2-f_yM80HEIUbuy57mpftPYHHp1FKCNXvkDnFtsj-V5PWGUvWiNL38OKY3EIKUwKHuoKsIc4oSXeC/s1600/mitel.jpg",
+    "published": "2026-11-26T06:44:46+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacti\u2026",
+    "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products"
   },
   "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html": {
     "categories": [],
@@ -21119,6 +21155,15 @@
     "summary": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown.\n\nWhen a chosen trigger appears, \u2026",
     "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons"
   },
+  "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOYXUiExbrrmBGGBgTjOFcDJSrLYJuITQwZY-l1mOzzkes21-mR0My9ikeCM7cI6VDXuBIE9BZPnKazemiuZf7A4w_xeeMy_IUUlNVTKX3PmW-Xt7FA9UI8JoICZDPW4ZWSspztPv_Mo4Zf7G_fXEw_phMe4uc89O38ugIlQJJKmc6VD7QN3NzU0n0SQU/s1600/push-most.jpg",
+    "published": "2026-11-26T10:57:55+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that securit\u2026",
+    "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls"
+  },
   "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtvbYhodewxI1TOMjVp0GKUmMdudVKH27My8auvMEvDbCkd_JBzdJjjBb99j2a2a9R1wgkOaTdLcM_9FEmpyweVquFetLeyfzSC5UgpukK8Ukw7keJb5HwmTnPP1qWT2QzVX3FKLtBKLDFnuMrzmfgW5dwYf6SJHZHqSDj_eYGdap3ECOMMI1Em6_oS_0/s1600/msecure.jpg",
@@ -21244,6 +21289,15 @@
     "source": "The Hacker News",
     "summary": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw c\u2026",
     "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data"
+  },
+  "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquhPuqGJrSE3xNpn5ZUELVAv-Y7qXqkHgpw7nbVqCay4gyraYO5NNE12rAGzuqk_zhreNwcyzjZf3vZZB5C4teohyuppUP-JlP41PQiLu-hGEFCsqMZO0T6MoaVk-uY818yaTaiJaX-d2O0h0RER22knXbUQc7qnwIcVbleLQrEspMQ8btNa4Q9mFrmue/s1600/gitcat.jpg",
+    "published": "2026-11-26T15:13:41+00:00",
+    "severity": "MEDIUM",
+    "source": "The Hacker News",
+    "summary": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as Februa\u2026",
+    "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware"
   },
   "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html": {
     "categories": [],
@@ -21967,6 +22021,17 @@
     "source": "BleepingComputer",
     "summary": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin Apple is being sued by three\u00a0people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]",
     "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin"
+  },
+  "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/": {
+    "categories": [
+      "Apple"
+    ],
+    "image": "",
+    "published": "2026-11-26T17:15:27+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Fake paid expert interviews impersonate brands to steal Google logins An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert in\u2026",
+    "title": "Fake paid expert interviews impersonate brands to steal Google logins"
   },
   "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/": {
     "categories": [
@@ -27859,6 +27924,17 @@
     "source": "BleepingComputer",
     "summary": "1Password adds pop-up warnings for suspected phishing sites The 1Password digital vault and password manager has added built-in protection against phishing URLs to help users identify malicious pages and prevent them from sharing account credentials with threat actors. [...]",
     "title": "1Password adds pop-up warnings for suspected phishing sites"
+  },
+  "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-25T21:33:33+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "1Password customer data stolen after employee GitHub account breach 1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+    "title": "1Password customer data stolen after employee GitHub account breach"
   },
   "https://www.bleepingcomputer.com/news/security/2025s-top-phishing-trends-and-what-they-mean-for-your-security-strategy/": {
     "categories": [
@@ -40618,6 +40694,18 @@
     "summary": "Italian university La Sapienza goes offline after cyberattack Rome's \"La Sapienza\" university has been targeted by a cyberattack that impacted its IT systems and caused widespread operational disruptions at the educational institute. [...]",
     "title": "Italian university La Sapienza goes offline after cyberattack"
   },
+  "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/": {
+    "categories": [
+      "Security",
+      "Artificial Intelligence"
+    ],
+    "image": "",
+    "published": "2026-11-25T19:39:31+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Italy and Switzerland warn of autonomous AI-driven cyberattacks Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+    "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks"
+  },
   "https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/": {
     "categories": [
       "Security"
@@ -46003,6 +46091,17 @@
     "summary": "Palo Alto Networks warns of DoS bug letting hackers disable firewalls Palo Alto Networks patched a high-severity vulnerability that could allow unauthenticated attackers to disable firewall protections in denial-of-service (DoS) attacks. [...]",
     "title": "Palo Alto Networks warns of DoS bug letting hackers disable firewalls"
   },
+  "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-25T22:05:09+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
+    "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/": {
     "categories": [
       "Security"
@@ -47438,6 +47537,17 @@
     "source": "BleepingComputer",
     "summary": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
     "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-26T15:23:28+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Remus malware steals Gmail messages via fake Google Sheets extension The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
+    "title": "Remus malware steals Gmail messages via fake Google Sheets extension"
   },
   "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/": {
     "categories": [
@@ -49391,6 +49501,17 @@
     "source": "BleepingComputer",
     "summary": "Synology warns of C3RB3R ransomware attacks targeting NAS devices Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
     "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices"
+  },
+  "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-26T11:50:17+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "SYS010 malware abuses browser management to spy on Gmail, Outlook A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail\u2026",
+    "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook"
   },
   "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/": {
     "categories": [
@@ -57669,6 +57790,15 @@
     "source": "darkreading",
     "summary": "Cyber Pioneers Ponder Past as Prologue Robert &quot;RSnake&quot; Hansen, Katie Moussouris, Rich Mogull, Richard Stiennon, and Bruce Schneier reflect on how their favorite columns penned for Dark Reading over the past 20 years have stood the test of time.",
     "title": "Cyber Pioneers Ponder Past as Prologue"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt08316e419aab95b8/6b071dfb870042f8e04904af/cyprus-tunart-GettyImages-961759390.jpg?width=720&quality=80&disable=upscale",
+    "published": "2026-11-26T08:00:00+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Cyprus Becomes Espionage Target for Iranian Hackers A previously undocumented Iranian threat group called &quot;Volant Manticore&quot; is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran.",
+    "title": "Cyprus Becomes Espionage Target for Iranian Hackers"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal": {
     "categories": [],
