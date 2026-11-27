@@ -21038,6 +21038,15 @@
     "summary": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026.\n\nCynet's CyOps and Res\u2026",
     "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits"
   },
+  "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXVfewkMqSKHEHRrAVXFHFOsMisOpBVnJ_sWbNNQQXuSWTHU5Y8AZW18gdQq7eI5N4l1dXoeBXVuqGGNClEK0U55LHgLYUxmopN9JHaMrYtrt4QrtWmk3uIvX8FzE2jL7Rf-oOG2fiDzj4g99wYn1Ih9uAOmyD0DtWN7ZqkG5UTd3xRYSRnIurQuT437O/s1600/trojan.jpg",
+    "published": "2026-11-27T09:29:30+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK websi\u2026",
+    "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware"
+  },
   "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCKDXT71QJSnAqaPKmcBticVRjN0Q1diDWoOGKhoZ-wL5WIgLAPHX6dmetOkddYjLcZGIfxDAfLLN1LwbOV4zHqzONN7i8cIyMJLR-rc2t6LF7MnTzJAAoN54aIPEYoWPBf01znenuq43oDLwcVksxZbvP5xPnFsC-G-sDSjpzDegalBNU87YIe7z0YcI/s1600/Optimizely-hacked.jpg",
@@ -21046,6 +21055,15 @@
     "source": "The Hacker News",
     "summary": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early t\u2026",
     "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors"
+  },
+  "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivjmF6SycZfBA1Red5jxgerBNr4pe7i8jIwZyZkF20Kxvw__-2oD3cO1hKSCGGQRqncukvouxIx-6KBQdRf5jz9eXb80yFmNyTo2sOsmW2TEXS4irdH7uPvWfZh66zxIa9h0RixfLZtaKO3rSo_riHT9hfbyBGC1m_Y0_FWRu_M0EADEFFZmXFB_NG72Q/s1600/anecdotes.jpg",
+    "published": "2026-11-27T10:32:18+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "How to Keep Your Security Picture Current When Attackers Move at AI Speed Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room\u2026",
+    "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed"
   },
   "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html": {
     "categories": [],
@@ -21154,6 +21172,15 @@
     "source": "The Hacker News",
     "summary": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown.\n\nWhen a chosen trigger appears, \u2026",
     "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons"
+  },
+  "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpD815FTK1v-12AKbFYOz3fplAY5EWVRrb1mh5LOUSmUmG7u7mdgGnppCpL9-ZaG-3CyWm_2KP4icW3UY1Q3AYG6lEe03ezqY9Jx49mW9SC4D0JqiUhT-Rmet7lin7u1bHdyppzeay-bTKDty53IDUI_P9md3iUp5xaY-ko1U2uBRTkNdPhAVTYuW9hDmO/s1600/ms-store.png",
+    "published": "2026-11-27T11:49:34+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT.\n\nThe intrus\u2026",
+    "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control"
   },
   "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html": {
     "categories": [],
@@ -21686,6 +21713,24 @@
     "summary": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fire\u2026",
     "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident"
   },
+  "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj19T-kU1dmVfKt2PtUQ2I25MGovj8kmv6lMkk6inlif4yLeezJS4kVRTvsARL5UkpTT66jYru6k2b5bmWfjjlkmG4JznSKmkmd4ldXcyxTw3xsU5nP6_jxfWMw9thW37m5usfr-eWAZBHq6bPuS613CIx9XgWxPcSVFcZVgz_9tWd5Nu8YWAxexuqcVPrN/s1600/data.jpg",
+    "published": "2026-11-27T16:36:11+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South \u2026",
+    "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign"
+  },
+  "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjviiPK0v6Kpjxjo_jDNE9vaZ8-JKiq6Oct4uU6qPDfTXq66QnxuV2iExRo2Rx2FyHhyphenhyphenDquMIoxmlfo5GwxfKoEXRG8Pj38FDOzEKitDdhXBNOGN7b6sddsMozMuhI44c-3mimoE4OxU-Xg7h8IzhDiyrXmP6qBO-wW6xmitkIEv_EkU-FJUJBTNtQ8uY/s1600/swiss.jpg",
+    "published": "2026-11-27T06:04:20+00:00",
+    "severity": "HIGH",
+    "source": "The Hacker News",
+    "summary": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency s\u2026",
+    "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators"
+  },
   "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg18lSM19IJpBCuAofy8CZNsJ-05CtvqxdL8BcHUS65fn_Oph-FAXqpdDE9c11G78nq7I1pVtt4XAotc_hszgea-QpNDTt-RzstD3k7yfXHP3JUnBViplsRzL_4q_LM-jujcv6NbMUUYBMWtJKSdKcBYlbSkm7Mx9LaTbVRW88uFh723nDOGYYDxiwkfYFr/s1600/synology-ransomware.jpg",
@@ -21730,6 +21775,15 @@
     "source": "The Hacker News",
     "summary": "The Path to AI Autonomy in the SOC Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security acti\u2026",
     "title": "The Path to AI Autonomy in the SOC"
+  },
+  "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlwb4cL2xbF38yynT-hp8rHaGntsYzuQwL4-68g3SxEW4Taw6_Kl4WFfL4CuNRNXGxO_KS9prZaqk0A6SA6fib3k8j9miTymP8PzABv9OA21eSDsRv1j9NEgbIEVMR7u1C7VmFyFxdBf0Zcj2sckIyHDkRSjm76oFMDd10drUHa1ctv6190vdYHhuVuRPk/s1600/thday.jpg",
+    "published": "2026-11-26T19:39:57+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensio\u2026",
+    "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories"
   },
   "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html": {
     "categories": [],
@@ -21784,6 +21838,15 @@
     "source": "The Hacker News",
     "summary": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram.\n\n\"Trigr\u2026",
     "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers"
+  },
+  "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy4kFFGLYGbyvO7M_M1gKBjBUm5TF_eT6dIHtCmXKz_cGyC6orRw9XupBLbcQlJTQEEqjZ3q73Cv_Sn9ncPKxOJYU8Poi8Q54-bWKIro4Sp4JYi9hjUjYy71OR1LOV6B5nX8dHK0jYSRJ1p4O1pdMWomZGhCiTKE7MkvrC-gfeINrM-GOab64Bw_MzxA6Z/s1600/cacti.png",
+    "published": "2026-11-27T05:48:20+00:00",
+    "severity": "CRITICAL",
+    "source": "The Hacker News",
+    "summary": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution.\n\nThe proof-of-concept (PoC) exploit\u2026",
+    "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access"
   },
   "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html": {
     "categories": [],
@@ -23091,6 +23154,18 @@
     "source": "BleepingComputer",
     "summary": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models OpenAI says it's rolling out a new update that improves the existing GPT-5.5 Instant model, and this move comes ahead of the scheduled retirement of multiple legacy models, including o3. [...]",
     "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-11-26T21:06:22+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]",
+    "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/": {
     "categories": [
@@ -26033,6 +26108,17 @@
     "summary": "Microsoft starts removing WMIC tool used by cybercriminals Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...]",
     "title": "Microsoft starts removing WMIC tool used by cybercriminals"
   },
+  "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-11-27T11:18:36+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "Microsoft removes WSUS server role in Windows Server 2028 Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]",
+    "title": "Microsoft removes WSUS server role in Windows Server 2028"
+  },
   "https://www.bleepingcomputer.com/news/microsoft/microsoft-removing-defender-application-guard-from-office/": {
     "categories": [
       "Microsoft",
@@ -27230,6 +27316,17 @@
     "source": "BleepingComputer",
     "summary": "New Microsoft Teams feature will let you report suspicious calls Microsoft plans to introduce a call reporting feature in Teams by mid-March, allowing users to flag suspicious or unwanted\u00a0calls as potential scams or phishing attempts. [...]",
     "title": "New Microsoft Teams feature will let you report suspicious calls"
+  },
+  "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/": {
+    "categories": [
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2026-11-27T09:08:16+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Microsoft pushes emergency hotpatch to fix Windows Server crashes Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]",
+    "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes"
   },
   "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/": {
     "categories": [
@@ -34558,6 +34655,17 @@
     "summary": "Drupal warns of critical Commerce Core flaw exploited in attacks Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
     "title": "Drupal warns of critical Commerce Core flaw exploited in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-27T10:10:15+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Drupal warns of new site takeover flaw exploited in attacks The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
+    "title": "Drupal warns of new site takeover flaw exploited in attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/": {
     "categories": [
       "Security"
@@ -41862,6 +41970,17 @@
     "summary": "Malware bypasses browser checks to force install Chrome, Edge extensions A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
     "title": "Malware bypasses browser checks to force install Chrome, Edge extensions"
   },
+  "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-27T14:22:06+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026 Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft protectio\u2026",
+    "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026"
+  },
   "https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/": {
     "categories": [
       "Security"
@@ -44286,6 +44405,17 @@
     "summary": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least \u2026",
     "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released"
   },
+  "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-27T08:06:58+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New NFS2ROOT Linux flaw can let attackers gain root privileges \u200bA 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]",
+    "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges"
+  },
   "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/": {
     "categories": [
       "Security"
@@ -45077,6 +45207,17 @@
     "source": "BleepingComputer",
     "summary": "Nordstrom's email system abused to send crypto scams to customers Customers of upscale department store chain Nordstrom received fraudulent messages from a legitimate company email address that promoted cryptocurrency scams disguised as a St. Patrick's Day promotion. [...]",
     "title": "Nordstrom's email system abused to send crypto scams to customers"
+  },
+  "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-26T17:58:42+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026 NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
+    "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026"
   },
   "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-unlock-77-percent-off-vpn-plans-in-2025/": {
     "categories": [
@@ -48144,6 +48285,17 @@
     "summary": "Sandworm hackers use data wipers to disrupt Ukraine's grain sector Russian state-backed hacker group Sandworm has deployed multiple data-wiping malware families in attacks targeting Ukraine's\u00a0education, government, and the grain sector, the country's main revenue source. [...]",
     "title": "Sandworm hackers use data wipers to disrupt Ukraine's grain sector"
   },
+  "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-27T09:56:36+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "SAP confirms security incident after suspicious GitHub activity SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]",
+    "title": "SAP confirms security incident after suspicious GitHub activity"
+  },
   "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/": {
     "categories": [
       "Security"
@@ -51130,6 +51282,17 @@
     "summary": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
     "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto"
   },
+  "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-27T17:06:13+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "Unpatched Cacti zero-day with public PoC gives remote code execution A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [.\u2026",
+    "title": "Unpatched Cacti zero-day with public PoC gives remote code execution"
+  },
   "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/": {
     "categories": [
       "Security",
@@ -51185,6 +51348,17 @@
     "source": "BleepingComputer",
     "summary": "Uranium crypto exchange hacker convicted for stealing $53 million A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]",
     "title": "Uranium crypto exchange hacker convicted for stealing $53 million"
+  },
+  "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-27T15:09:40+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "US Air Force cloud platform reportedly hacked in latest federal breach Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...\u2026",
+    "title": "US Air Force cloud platform reportedly hacked in latest federal breach"
   },
   "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/": {
     "categories": [
@@ -53163,6 +53337,17 @@
     "source": "BleepingComputer",
     "summary": "Your Endpoint Management Platform Could Be Your Biggest Security Risk Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled \u2026",
     "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk"
+  },
+  "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-27T15:00:10+00:00",
+    "severity": "HIGH",
+    "source": "BleepingComputer",
+    "summary": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, access controls, an\u2026",
+    "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs"
   },
   "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/": {
     "categories": [
@@ -56423,6 +56608,15 @@
     "source": "darkreading",
     "summary": "Manufacturing and Healthcare Share Struggles with Passwords The two key economic sectors struggle with security for a reason: Many insiders view access management as a roadblock, while attackers see it as a way in.",
     "title": "Manufacturing and Healthcare Share Struggles with Passwords"
+  },
+  "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte7893676670a76d5/6aa13f3e0a3bef09c363535c/Data_security(1800)_ber1a_Alamy.png?width=720&quality=80&disable=upscale",
+    "published": "2026-11-27T15:27:20+00:00",
+    "severity": "LOW",
+    "source": "darkreading",
+    "summary": "Matters.AI Lands India\u2019s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks The security startup consolidates four legacy security tools into an autonomous platform that uses context-aware AI to trace sensitive data lineage, analyze user intent, and automatically rem\u2026",
+    "title": "Matters.AI Lands India\u2019s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks"
   },
   "https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii": {
     "categories": [],
