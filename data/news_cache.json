@@ -21407,6 +21407,15 @@
     "summary": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.\n\nThey included 24 apps built by staff at\u2026",
     "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords"
   },
+  "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizySCkvtf5mXH_3zoxzuk-QyEdUnYmspglEsVYdqRITloUFrUDZCQJcwtQG09teFmXo2IJOknOQb7CXhUpjKjGnadD6TuOIvVWIoWmKcaxb8-1uwf-3AiXZPYCFf2RzDkHNZ06d2Q5OS6AcCV7JHjTACCJH2f5aipC8vllpOwj1dSBYQJtqJ_wDc5nXQwU/s1600/pcloud.jpg",
+    "published": "2026-11-28T08:08:11+00:00",
+    "severity": "LOW",
+    "source": "The Hacker News",
+    "summary": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts.\n\n\"A cyber att\u2026",
+    "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts"
+  },
   "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD2D26Hu7r43uUrdDxmsmmbBe2oMxd-L3_DIVLqAPyDrOnSmdvXfkIq1_lNmWqr49gbrIZ0NeTmA2OYgyWgdUjRf_RTRfflyXn3Vgujkb9tiByOPfej1OqEszpQf2FeozeSqmK5L7aSj28GLwzKmzehIp9zJyeJqgRvbVOW91_pVEMhs3KY9_oXjwf5BE/s1600/php-flawss.jpg",
@@ -43590,6 +43599,17 @@
     "summary": "New Booking.com data breach forces reservation PIN resets Booking.com has confirmed via a statement to BleepingComputer that it has detected unauthorized access to its systems that has exposed sensitive reservation and user data. [...]",
     "title": "New Booking.com data breach forces reservation PIN resets"
   },
+  "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-27T18:57:42+00:00",
+    "severity": "CRITICAL",
+    "source": "BleepingComputer",
+    "summary": "New Boston Scientific data breach exposes personal, medical info Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
+    "title": "New Boston Scientific data breach exposes personal, medical info"
+  },
   "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/": {
     "categories": [
       "Security",
@@ -46408,6 +46428,17 @@
     "summary": "PayPal discloses data breach that exposed user info for 6 months PayPal is notifying customers of a data breach after a software error in a loan application exposed their sensitive personal information, including Social Security numbers, for nearly 6 months last year. [...]",
     "title": "PayPal discloses data breach that exposed user info for 6 months"
   },
+  "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2026-11-27T19:26:04+00:00",
+    "severity": "LOW",
+    "source": "BleepingComputer",
+    "summary": "pCloud confirms password manager hack after suspicious login alerts The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+    "title": "pCloud confirms password manager hack after suspicious login alerts"
+  },
   "https://www.bleepingcomputer.com/news/security/pennsylvania-ag-confirms-data-breach-after-inc-ransom-attack/": {
     "categories": [
       "Security"
@@ -47257,6 +47288,18 @@
     "source": "BleepingComputer",
     "summary": "PyPI package with 1.1M monthly downloads hacked to push infostealer An attacker pushed a malicious version of the popular elementary-data package Python Package Index (PyPI) to steal sensitive developer data and cryptocurrency wallets. [...]",
     "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer"
+  },
+  "https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat/": {
+    "categories": [
+      "Security",
+      "Software"
+    ],
+    "image": "",
+    "published": "2026-11-28T15:32:49+00:00",
+    "severity": "MEDIUM",
+    "source": "BleepingComputer",
+    "summary": "Q-Dir and DesktopOK Windows utilities compromised to push Python RAT Official distribution channels for the Q-Dir and DesktopOK Windows utilities were compromised to deliver trojanized installers containing Python-based remote access malware. [...]",
+    "title": "Q-Dir and DesktopOK Windows utilities compromised to push Python RAT"
   },
   "https://www.bleepingcomputer.com/news/security/qnap-fixes-seven-nas-zero-day-vulnerabilities-exploited-at-pwn2own/": {
     "categories": [
